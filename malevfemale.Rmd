@@ -1,0 +1,73 @@
+---
+title: "malevfemale"
+author: "Nick_Fox"
+date: "4/26/2017"
+output: html_document
+---
+
+#init
+```{r}
+#install.packages("tm")
+#install.packages("dplyr")
+#install.packages("plyr")
+#install.packages("class")
+
+library("tm")
+library("dplyr")
+library("plyr")
+library("class")
+
+#set options
+options(stringsAsFactors = FALSE)
+
+#set parameters
+gender <- c("male", "female")
+
+pathname <- "~/Dropbox/papers"
+
+```
+
+#clean text
+
+```{r}
+
+cleanCorpus <- function(corpus) {
+  corpus.tmp <- tm_map(corpus, removePunctuation)
+  corpus.tmp <- tm_map(corpus.tmp, stripWhitespace)
+  corpus.tmp <- tm_map(corpus.tmp, tolower)
+  corpus.tmp <- tm_map(corpus.tmp, removeWords, stopwords("english"))
+  return(corpus.tmp)
+}
+
+```
+
+#build term document matrix TDM
+```{r}
+
+generateTDM <- function(gend, path) {
+  s.dir <- sprintf("%s/%s", path, gend)
+  s.cor <- Corpus(DirSource(directory = s.dir, encoding = "ANSI"))
+  s.cor.cl <- cleanCorpus(s.cor)
+  s.tdm <- TermDocumentMatrix(s.cor.cl)
+  
+  s.tdm <- removeSparseTerms(s.tdm, 0.7)
+  result <- list(gender = gend, tdm = s.tdm)
+}
+
+tdm <- lapply(gender, generateTDM, path = pathname)
+
+```
+
+#attach gender
+
+
+#stack TDM matricies
+
+
+#create holdout sample - tests accuracy
+
+
+#model - KNN k nearest neighbor
+
+
+#access accuracy
