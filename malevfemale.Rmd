@@ -6,11 +6,12 @@ output: html_document
 ---
 
 #init
+
 ```{r}
 #install.packages("tm")
-install.packages("dplyr")
-install.packages("plyr")
-install.packages("class")
+#install.packages("dplyr")
+#install.packages("plyr")
+#install.packages("class")
 
 library("tm")
 library("dplyr")
@@ -56,25 +57,74 @@ generateTDM <- function(gend, path) {
 
 tdm <- lapply(gender, generateTDM, path = pathname)
 
-str(tdm)
+#str(tdm)
 
 ```
 
 #attach gender
 ```{r}
 
+bindGendertoTDM <- function(tdm) {
+  s.mat <- t(data.matrix(tdm[["tdm"]]))
+  s.df <- as.data.frame(s.mat, stringsAsFactors = FALSE)
+  
+  s.df <- cbind(s.df, rep(tdm[["gender"]], nrow(s.df)))
+  colnames(s.df)[ncol(s.df)] <- "targetgender"
+  return(s.df)
+}
+
+genderTDM <- lapply(tdm, bindGendertoTDM)
+
+#str(genderTDM)
+
+```
+
+#stack TDM matricies
+```{r}
+
+tdm.stack <- do.call(rbind.fill, genderTDM)
+tdm.stack[is.na(tdm.stack)] <- 0
+
+#head(tdm.stack)
+
+#nrow(tdm.stack)
+#ncol(tdm.stack)
+
+```
+
+#create holdout sample - tests accuracy
+```{r}
+
+train.idx <- sample(nrow(tdm.stack), ceiling(nrow(tdm.stack) * 0.7))
+
+test.idx <- (1:nrow(tdm.stack)) [-train.idx]
+
+#head(test.idx)
+#head(train.idx)
+
+```
+
+#model - KNN k nearest neighbor
+
+```{r}
+
+tdm.gend <- tdm.stack [, "targetgender"]
+tdm.stack.nl <- tdm.stack[, !colnames(tdm.stack) %in% "targetgender"]
+
+knn.pred <- knn(tdm.stack.nl[train.idx, ], tdm.stack.nl[test.idx, ], tdm.gend[train.idx])
 
 
 
 ```
 
-#stack TDM matricies
-
-
-#create holdout sample - tests accuracy
-
-
-#model - KNN k nearest neighbor
-
-
 #access accuracy
+```{r}
+
+conf.mat <- table("predictions" = knn.pred, Actual = tdm.gend[test.idx])
+
+conf.mat
+
+(accuracy <- sum(diag(conf.mat) / length(test.idx) * 100))
+
+
+```
