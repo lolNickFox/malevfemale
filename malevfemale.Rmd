@@ -7,10 +7,11 @@ output: html_document
 
 #init
 ```{r}
-#install.packages("tm")
+install.packages("tm")
 #install.packages("dplyr")
 #install.packages("plyr")
 #install.packages("class")
+install.packages("slam")
 
 library("tm")
 library("dplyr")
