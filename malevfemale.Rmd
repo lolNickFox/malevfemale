@@ -7,11 +7,10 @@ output: html_document
 
 #init
 ```{r}
-install.packages("tm")
-#install.packages("dplyr")
-#install.packages("plyr")
-#install.packages("class")
-install.packages("slam")
+#install.packages("tm")
+install.packages("dplyr")
+install.packages("plyr")
+install.packages("class")
 
 library("tm")
 library("dplyr")
@@ -47,7 +46,7 @@ cleanCorpus <- function(corpus) {
 
 generateTDM <- function(gend, path) {
   s.dir <- sprintf("%s/%s", path, gend)
-  s.cor <- Corpus(DirSource(directory = s.dir, encoding = "ANSI"))
+  s.cor <- Corpus(DirSource(directory = s.dir, encoding = "UTF-8"))
   s.cor.cl <- cleanCorpus(s.cor)
   s.tdm <- TermDocumentMatrix(s.cor.cl)
   
@@ -57,10 +56,17 @@ generateTDM <- function(gend, path) {
 
 tdm <- lapply(gender, generateTDM, path = pathname)
 
+str(tdm)
+
 ```
 
 #attach gender
+```{r}
 
+
+
+
+```
 
 #stack TDM matricies
 
