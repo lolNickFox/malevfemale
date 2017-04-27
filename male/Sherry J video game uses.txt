@@ -1,0 +1,374 @@
+Seediscussions,stats,andauthorprofilesforthispublicationat:https://www.researchgate.net/publication/259583577
+Videogameusesandgratificationsaspredictors ofuseandgamepreference
+CHAPTERinINTERNATIONALJOURNALOFSPORTSMARKETINGANDSPONSORSHIP*JANUARY2006
+ImpactFactor:0.32
+
+CITATIONS
+105
+4AUTHORS: JohnLSherry MichiganStateUniversity 28PUBLICATIONS1,154CITATIONS
+SEEPROFILE
+KristenLucas UniversityofLouisville 31PUBLICATIONS601CITATIONS
+SEEPROFILE
+
+READS
+3,829
+BradleyS.Greenberg MichiganStateUniversity 128PUBLICATIONS2,360CITATIONS
+SEEPROFILE
+KennethA.Lachlan UniversityofConnecticut 96PUBLICATIONS1,151CITATIONS
+SEEPROFILE
+
+Allin-textreferencesunderlinedinbluearelinkedtopublicationsonResearchGate, lettingyouaccessandreadthemimmediately.
+
+Availablefrom:JohnLSherry Retrievedon:10April2016
+
+P1: PVB LE128-15
+
+LE128-Vorderer.cls January 1, 1904 3:33
+
+CHAPTER
+15
+
+Video Game Uses and Gratifications as Predictors
+of Use and Game Preference
+
+John L. Sherry Michigan State University
+Bradley S. Greenberg Michigan State University
+
+Kristen Lucas Purdue University
+Ken Lachlan Boston College
+
+Video games continue to be a highly popular form of entertainment. In 2003, over 239 million computer and video games were sold in the United States, and the video game industry reported sales of over $7 billion (Entertainment Software Association, 2004). According to an industry poll conducted by ESA (2004), 50% of U.S.-Americans play video games, the average age is 29, and 39% of players are female. An Annenberg Public Policy Center survey (Woodard & Gridina, 2000) estimates that video game consoles are in 68% of U.S.-American homes with at least one 2- to 17-year-old and in 75% of homes with two or more children. These figures are expected to grow as high-speed broadband Internet access facilitates networked game play. Clearly, video games have emerged as one of the most popular forms of mass mediated entertainment in the United States among a range of people.
+Despite this popularity, the study of video games is still in its infancy. To date, most video game studies have focused on traditional effects issues, particularly the effects of violent video games on aggression (see Anderson & Bushman, 2001; Funk, 1992; MediaScope, 1996; Sherry, 2001a). Many of the questions found in Chaffee's (1977) 18-cell explication of media effects have gone largely unaddressed. Prominent among these questions are the reasons why people use video games and the gratifications that they receive from them. In this chapter, we explore the reasons that individuals use video games and how those reasons are translated into genre preferences and amount of time devoted to game play from a uses and gratifications perspective.
+THE USES AND GRATIFICATIONS PARADIGM
+Since its inception, the uses and gratifications paradigm has provided a cutting edge approach for gaining insight on the uses and impact of new communication technologies (Rubin, 1994; Ruggiero, 2000). Uses and gratifications research is rooted in the structural-functionalist
+213
+
+P1: PVB LE128-15
+
+LE128-Vorderer.cls January 1, 1904 3:33
+
+214
+
+SHERRY, LUCAS, GREENBERG, LACHLAN
+
+systems approach (Palmgreen, Wenner, & Rosengren, 1985) to understanding the interface between biological entities and their context (e.g., Bertalanffy, 1968; Buckley, 1967; Merton, 1957; Monge, 1977). Common among these perspectives is the idea that human behavior may best be understood as a system represented as "interlinked sets of components hierarchically organized into structural wholes which interact through time and space, are self-regulating, yet capable of structural change" (Monge, 1977, p. 20). Systems theory, as applied to human behavior, places individuals, each having unique biological features expressed in both physical and mental attributes, within a multisystem context and attempts to account for the cross-system influences on behavior (Bertalanffy, 1968; Blalock & Blalock, 1958). Furthermore, humans are believed to be self-regulating; that is, individuals respond to felt needs and contextual factors (Lerner, 1987). In the case of media, an individual's media use and the effects of that media use are largely (though not completely) a function of the individual's purpose for using the media. For example, we would expect greater cognitive change resulting from reading a magazine article from an individual who perceives a deficit in knowledge on the subject (i.e., is reading for information) than from an individual who is reading to pass time (i.e., to alleviate boredom), all other traits held constant (e.g., age, intelligence, reading comprehension level, initial knowledge).
+From a systems perspective, people use media to solve perceived problems in order to maintain equilibrium. Other perspectives on media use share the idea of media use to manage equilibrium such as sensation seeking, novelty, dispositional alignments, and evolutionary explanation (see Bryant & Miron, 2002; Sparks & Sparks, 2000 for summaries of these ideas). Atkin (1985) distinguished between exposure to media as being driven by the need for immediate, momentary intrinsic satisfaction (e.g., enjoyment seeking) or extrinsic utility (e.g., information). Research in mood management suggests that individuals use media to manage fluctuations in positive and negative emotional states (Zillmann & Bryant, 1985). For example, Bryant and Zillmann (1984) found that individuals who were asked to perform monotonous tasks were more likely to choose exciting media than those individuals who were under stress. Another perspective, media flow theory (Sherry, 2004), posits that exposure to media is an intrinsically rewarding experience in which media users attain the highly engaging and enjoyable flow state described by Csikszentmihalyi (1997). These equilibrium-based theories demonstrate that a complex account of media effects cannot be obtained in isolation from the reasons that individuals use media.
+Human systems research requires the following set of necessary and sufficient logical conditions: (a) identification of the set of interrelated parts in the system, (b) specification of the environment in which the system operates, (c) specification of a trait or attribute of the system that is essential for the continuation of the system, (d) specification of the range within which traits must remain in order for the system to remain in operation, and (e) a detailed account of how the parts operate together to maintain the traits within acceptable ranges (Monge, 1977). The uses and gratifications paradigm advanced by Rosengren (1974) provides a theoretical explanation for the study of media effects from a systems perspective. Essentially (see Figure 15.1) , basic needs (1), individual differences (2), and contextual societal factors (3) combine to result in a variety of perceived problems and motivations (4-6) to which gratifications are sought from the media (7) and elsewhere (8) leading to differential patterns of media effects (9) on both the individual (10) and societal (11) levels. Consistent with human systems research, the model is complex, multivariate, and nonrecursive (Palmgreen et al., 1985).
+Historically, empirical research in the uses and gratifications tradition begins with the identification of logical conditions numbers 3 and 4; that is, the traits1 essential for understanding the role of media in the individual's system and the range of those traits. The traits that traditionally have been studied in this paradigm are sets of motivations for media use. A number of
+
+P1: PVB LE128-15
+
+LE128-Vorderer.cls January 1, 1904 3:33
+
+15. VIDEO GAME USES AND GRATIFICATIONS
+
+215
+
+1
+
+Certain basic human and higher order
+
+needs
+
+of
+
+lower
+
+under interaction with
+
+Differential combinations
+2 of intra- and extra-
+individual characteristics
+The structure of the
+3 surrounding society,
+including media structures
+Differential combinations of
+4 individual problems, being more
+or less strongly felt,
+5 Perceived solutions to these
+problems;
+Differential motives for attempts
+6 at gratification-seeking or
+problem-solving behavior,
+
+and also with
+result in
+as well as the combination of problems
+and solutions constituting resulting in
+
+7
+
+Differential patterns media consumption
+
+of
+
+actual
+
+and
+
+8 Differential patterns of other
+behavior,
+
+both behavior categories giving
+
+Differential patterns of
+9 gratifications or nongratifications
+
+and, possibly, affecting
+
+The individual's combination of
+10 intra- and extra-individual
+characteristics
+
+as well as, ultimately,
+
+The media structure and other social,
+11 political, cultural, and economic
+structures in society.
+
+FIG. 15.1. Uses and gratifications paradigm (adapted from Rosengren, 1974).
+
+taxonomies of these traits have emerged, sorting uses and gratifications according to entertainment genre (Abelman, 1987; Gantz, 1996), media type (Greenberg & Hnilo, 1996; Selnow, 1984), and culture of respondents (Greenberg, Li, Ku, & Tokinoya, 1991; Tokinoya, 1996; Youichi, 1996). One of the lessons of these studies is that there are no universal set of reasons for using media: Motivations vary across media, genres, and cultures. For this reason, empirical work is required at the introduction of each new medium to specify the key traits in understanding the use of that medium (Wartella & Reeves, 1985). After identification of the traits, a detailed account of how the parts of the system operate together can be specified and media effects can be explained as a function of the reasons for use.
+
+P1: PVB LE128-15
+
+LE128-Vorderer.cls January 1, 1904 3:33
+
+216
+
+SHERRY, LUCAS, GREENBERG, LACHLAN
+
+To date, there have been few attempts at developing sets of video game uses and gratifications traits. Selnow (1984) published the first video game uses and gratifications study in which he surveyed 244 ten- to 24-year-olds about the needs and gratifications met by video games. Because most video game play in the early 1980s occurred at arcades, and the home console systems that currently dominate game play did not exist, the study was limited to patterns of arcade game use. Selnow used Greenberg's (1974) television uses and gratifications scale, adding a few additional video game-specific dimensions. Selnow's exploratory factor analysis yielded five arcade video game play factors: (a) game play is preferable to human companions, (b) game play teaches about people, (c) game play provides companionship, (d) game play provides activity/action, and (e) game play provides solitude/escape. These five factors were significantly correlated with amount of game play.
+A second uses and gratifications study of video games was published the following year (Wigand, Borstelmann, & Boster, 1985). Again, the focus was on arcade use, so the researchers focused largely on understanding reasons that adolescents used arcades rather than games. Based on the existing literature in the early 1980s, Wigand et al. (1985) found the main reasons for using video games at arcades were excitement, satisfaction of doing well, and tension-reduction. In 1990, Myers published a study isolating four factors of game play: fantasy, curiosity (novelty), challenge, and interactivity. All four factors were significantly related to amount of game play, with challenge consistently having the highest rankings.
+More recently, researchers have included items that are similar to uses and gratifications in their projects. For example, research in the U.K. has touched on uses and gratifications of console video game play. A survey conducted by Phillips, Rolls, Rouse, and Griffiths (1995) used single-item measures of video game play motivation including: "to pass time," "to avoid doing other things," "to cheer oneself up," and "just for enjoyment." Furthermore, Griffiths' (1991a, 1991b) research on video game addicts proposed additional uses and gratifications, including arousal, social rewards, skill testing, displacement, and stress reduction. Most recently, Vorderer, Hartmann, and Klimmt (2003) have argued that competition is the chief gratification obtained by playing video games.
+In order to specify a set of traits and ranges that reflect the experience of game users, the present studies were undertaken in a methodologically similar manner to Greenberg's (1974) seminal study of British children, which provided the basic set of theoretical traits for understanding television use and effects. Greenberg's study consisted of two parts: an analysis of children's essays and a survey. Children (9-, 12-, and 15-year-olds) from a London school district wrote essays on "Why I Like to Watch Television." The 180 essays collected were content-analyzed to determine reasons for watching television, resulting in nine clusters: to pass time, to forget, as a means of diversion, to learn about things, to learn about myself, for arousal, for relaxation, for companionship, and as a habit. These traits provided the basis for a 31-item scale that was included in a survey of 726 British 9-, 12-, and 15year-olds. Subsequent television uses and gratifications scales built on Greenberg's original dimensions.
+In this chapter, we followed Greenberg's multimethod approach to developing the set of theoretical traits for video game uses and gratifications. First, we conducted a series of focus groups with young adults to determine reasons for playing video games. From these responses, we developed and tested a uses and gratifications scale. Next, we conducted a survey in order to determine the range of the uses and gratifications traits and how those traits are related to amount of game use. It is important to remember that the uses and gratifications tradition assumes that individuals can accurately report their own motivations for media use. Some have argued that self-reports of media use may not be veridical to actual experience, but may represent idealized version of behavior (Bryant & Miron, 2002).
+
+P1: PVB LE128-15
+
+LE128-Vorderer.cls January 1, 1904 3:33
+
+15. VIDEO GAME USES AND GRATIFICATIONS
+
+217
+
+ISOLATING THE TRAITS
+The purpose of Study 1 was to generate an empirically valid set of traits needed for the theoretical explication of a systems model for video game use and effects. From this set of traits, a valid and reliable instrument was created for measuring the traits.
+
+Respondents
+Eighteen- to 22-year-old U.S.-American undergraduate students were participants in a series of focus groups. This population is particularly appropriate because it is the first generational cohort to grow up with video games both at home and in arcades. Members of this generation were born in the early 1980s, when the early home console games Atari and Mattel Intellivision were popular. As they progressed through grade school, Nintendo NES (1986), Nintendo Game Boy (1989), and Sega Genesis (1989) were introduced and rose to prominence. Their high school years saw the introduction of the Sony PlayStation system (1995) and Nintendo 64 (1996).
+
+Focus Group Procedures and Results
+Focus group interview sessions with four to eight participants each were conducted to ascertain the most common reasons from using video games (n = 96). Participants signed up for either "Video Game Player," "Non-Video Game Player," or "MixedPlayer and Non-Player" sessions based on their own evaluation of their video game experience. Participants filled out a brief survey upon entering the interview room asking about their video game use in order to prime their memories. Once all participants were gathered and had filled out the preliminary survey, a moderator conducted the interview using a standardized set of questions designed to funnel responses from general to specific and allowing for probes (Morgan, 1997). Subsequently, interviews were analyzed for repeated themes representing dimensions of video game play motivations. Analysis of focus group data resulted in six dominant dimensions of video game use that included Arousal, Challenge, Competition, Diversion, Fantasy, and Social Interaction (see Table 15.1).
+Arousal. A frequently stated reason for playing video games was to stimulate emotions as a result of fast action and high-quality graphics.
+Challenge. Many respondents also enjoy playing video games to push themselves to a higher level of skill or personal accomplishment. Some respondents said that the desire to solve the puzzles in order to get to the next level or beat the game can be addicting. Many of the players prefer to play a familiar set of games that they feel confident playing.
+Competition. One of the most frequently cited reasons for playing video games was to prove to other people who has the best skills and can react or think the fastest. Typically, competition response came from male respondents who spoke of competing for pride or money. Hence, video game competition served the function of a dominance display among males most often seen in sports. This gratification derives its power from the reactions of others to the dominance shown by the player, establishing a relative position in the peer group's hierarchy.
+Diversion. Video games are frequently used to avoid stress or responsibilities. Respondents reported playing video games to fill time, relax, escape from stress, or because there is nothing else to do.
+
+P1: PVB LE128-15
+
+LE128-Vorderer.cls January 1, 1904 3:33
+
+218
+
+SHERRY, LUCAS, GREENBERG, LACHLAN
+TABLE 15.1 Examples of Dimensional Responses From Focus Groups
+
+Arousal
+Challenge Competition
+Diversion Fantasy
+Social Interaction
+
+"I go crazy when I'm playing video games, sometimes. I'm jumping up and down. Yelling and screaming. Things like that."
+"It was the neatest game. And I would jump up and down and swear because I would be so into the game."
+"[My friends who lived in the dorm] were all hooked up, in all the different rooms. And they were, like, obsessed with it. It was crazy. It was out of control, playing that game."
+"It kind of pressures you to do as much as you can, but at the same time, it's fun." "You can sit there and play it over and over." "I like it because it's a challenge and I like competition. I keep playing until I complete a level or win
+the game." "It seems to be addicting to play, you always want to do better and better." "The only reason why I play now is to get a better score." "Repeating levels bores me. I hate games that you always start at the beginning." "I have played with someone else, Tetris. And I didn't find too much fun in that, you know. I like to
+play alone. Challenge against the computer, instead of challenging the person next to you." "We always play in all house (fraternity) tournaments. We used to put money down." "I love trying to beat the guys next door or brothers." "[Competition] is pretty much the only reason why I play. We, like, have an intercom in our house
+and they'll call you out and you'll have to defend." "It [competition among fraternity members] gets personal. It's funny." "When you play with someone you've never played with, and they think they're the expert, and you
+beat them finally, you get invited to play with them more. Because it's like, `I'm going to beat you this time.' " "I like it because it's a break from studying and it's relaxing." "I always lose track of time while I'm playing." "It was so bad one year that I had to bring my Nintendo home. I was going to flunk out because all I ever did was play Bond." "When you study so much, you're just like `uuugh, I want a break.' " "I don't necessarily use it for a study break. I use it more for an excuse to stop studying." "It's like you're in another world. You're in a TV, you know. You're in it." "It takes you away from reality." "Because he likes the game so much, [my boyfriend] fits himself into the game. For example, in Counter Strike he imagines himself as the soldier. He puts himself into the picture." "You can do anything. It's so realistic. It's just like real skateboarding." "I really like shooting. [I played Duck Hunt] because you can do it without, like, playing with a real gun." "You get to be a Star Wars fighter pilot and you fly missions just like you are in the movies and everything." "I play with my boyfriend and friends just to have fun." "I like it because it's just plain fun, just being with your friends." " I can't play by myself. I always want someone to play with me." "In the dorms, it was almost, like, easier. You've got like, 50 guys there and you know that at least some of them are going to have free time to play."
+
+Fantasy. Video games allow players to do things that they normally would not be able to do, such as drive race cars, fly, and so on. Focus group participants spoke frequently about the appeal of being able to do things they cannot do in real life.
+Social Interaction. Social interaction is the main reason many individuals got involved in playing video games as a child. Respondents mentioned that the arrival of Nintendo brought sleepovers where video games were played, and the need to keep up on the games to be "cool." Many now use video games to interact with friends and learn about the personalities of others.
+
+P1: PVB LE128-15
+
+LE128-Vorderer.cls January 1, 1904 3:33
+
+15. VIDEO GAME USES AND GRATIFICATIONS
+TABLE 15.2 Analysis of Video Game Uses and Gratifications Instrument
+
+219
+
+Item #
+
+Item Factor Loading Alpha
+
+Competition
+
+6 I like to play to prove to my friends that I am the best.
+
+.79
+
+12 When I lose to someone, I immediately want to play again in an attempt .72
+
+to beat him/her
+
+16 It is important to me to be the fastest and most skilled person playing .81
+
+the game.
+
+20 I get upset when I lose to my friends.
+
+.78
+
+Challenge
+
+3 I feel proud when I master an aspect of a game.
+
+.70
+
+8 I find it very rewarding to get to the next level.
+
+.84
+
+13 I play until I complete a level or win a game.
+
+.64
+
+17 I enjoy finding new and creative ways to work through video games. .64
+
+Social Interaction 7 My friends and I use video games as a reason to get together. .83 15 Often, a group of friends and I will spend time playing video games. .83
+
+Diversion 4 I play video games when I have other things to do. 10 I play video games instead of other things I should be doing.
+
+.90 .90
+
+Fantasy
+
+1 I play video games because they let me do things I can't do in real life. .75
+
+9
+
+Video games allow me to pretend I am someone/somewhere else.
+
+.88
+
+14 I like to do something that I could not normally do in real life through .82
+
+a video game.
+
+18 I enjoy the excitement of assuming an alter ego in a game.
+
+.78
+
+Arousal 2 I find that playing video games raises my level of adrenaline. 5 Video games keep me on the edge of my seat. 11 I play video games because they stimulate my emotions. 19 I play video games because they excite me.
+
+.74 .79 .69 .83
+
+.86
+.80 .81 .89 .88
+.85
+
+Factor analysis reduced the total instrument to 27 items (see note 1). The 27-item scale was pretested in two introductory research methodology classes (n = 54) where respondents
+were questioned about the clarity of the items. Finally, the items were subjected to an addi-
+tional internal consistency and parallelism factor analysis on the survey data reported in Study 2 (n = 550). The final analysis resulted in a 20-item scale representing six uses and gratifica-
+tions dimensions (see Table 15.2).
+
+TRENDS IN VIDEO GAME USES AND GRATIFICATIONS
+The purpose of Study 2 was to examine age and sex patterns among the set of system traits (uses and gratifications), as well as the relationship among uses and gratification traits and amount of hours playing video games. If we have identified a useful set of uses and gratifications traits, we would expect that the uses and gratifications traits will be significant predictors of amount of game use.
+
+P1: PVB LE128-15
+
+LE128-Vorderer.cls January 1, 1904 3:33
+
+220
+
+SHERRY, LUCAS, GREENBERG, LACHLAN
+
+Method
+Survey data were collected from two universities, three high schools, two middle schools, and two elementary schools in the Midwestern region of the United States. Only fully completed surveys were included, resulting in a total of 1,265 usable cases. The mean age of the university sample was 19.68 years old (range = 18 to 23). Gender distribution of respondents was 58% female (n = 321) and 42% male (n = 229). Most of the respondents were Freshmen (43%) and Sophomores (26%), while fewer were Juniors (19%) and Seniors (12%). Next, survey data were collected at two high schools, resulting in 318 usable cases. The mean age was 16.56 years old (range = 16 to 18). Gender distribution of respondents was 53% female (n = 168) and 47% male (n = 150). Third, survey data were collected from eighth graders from two Midwest middle schools. Only fully completed surveys were included, resulting in a total of 227 usable cases. The mean age was 13.84 years old (range = 13 to 16) and gender distribution of respondents was 55% female (n = 125) and 45% male (n = 102). A fourth set of survey data was collected from fourth- and fifth-grade students at two Midwest elementary schools. Only fully completed surveys were included, resulting in a total of 141 usable cases. Ages ranged from 9 to 11 years with a mean age of 10.15 years old. Gender distribution of respondents was 50% female (n = 70) and 50% male (n = 71).
+The survey contained two main scales that measured: (a) amount of hours played in various dayparts during the typical week and (b) uses and gratifications of video game play. Respondents were asked to report the amount of time they spend playing video games during a typical week in the school year. In order to facilitate autobiographical memory (Menon, 1994), the respondents filled out a grid that broke the typical week first into days and then into four dayparts (before noon, between noon and 6 p.m., between 6 p.m. and midnight, and after midnight). All dayparts were summed to create a score representing the total number of hours played during the typical week. Uses and gratifications of video games were based on the 20-item scale developed in the focus group study.
+
+Results
+The average number of hours played across the total sample per week was 11.04 (SD = 18.41), with boys (n = 564) reporting playing more than twice as many hours per week (M = 16.87, SD = 16.40) as girls (n = 701) reported playing (M = 6.34, SD = 11.31). Among all respondents, the top reason on a scale from 1 to 7 for playing video games was Challenge (M = 4.22, SD = 1.47) followed by Competition (M = 4.11, SD = 1.61), Diversion (M = 3.95, SD = 1.62), Arousal (M = 3.91, SD = 1.57), Fantasy (M = 3.64, SD = 1.80), and Social Interaction (M = 3.42, SD = 1.81). Three additional factors were included for the fiveth-, eighth-, and eleventhgrade samples, but these were not as important as the other traits. These included: playing because of the quality of the Graphics and sound (M = 3.50,SD = 1.60), playing because the games are Realistic (M = 2.89, SD = 1.50), and playing for the fantasy of being more Strong than you are in real life (M = 2.57, SD = 1.58). All means were normally distributed.
+In the college, eleventh-grade, and fifth-grade samples, Challenge was the top reason for playing video games. The pattern held across sexes within each sample also. Least popular among all the gratifications in the eleventh-, eighth-, and fifth-grade samples was playing for the fantasy of being Strong (this dimension was not measured in the college sample). Males consistently ranked all gratifications higher than females did and the rank order of gratifications between males and females was fairly consistent. Among all grade samples, the rank order was consistent except that males rated Social Interaction much higher on their rank order than females did. The size of the difference between motivations was measured using Cohen's d. Cohen (1988) provides a way of interpreting his statistic: d = .20 is a small effect, d = .50 is a
+
+P1: PVB LE128-15
+
+LE128-Vorderer.cls January 1, 1904 3:33
+
+15. VIDEO GAME USES AND GRATIFICATIONS
+
+221
+
+moderate size effect, and d = .80 is a large effect. Social Interaction had the largest difference between males and females as expressed as Cohen's d > 1.0 in all samples except eighth graders. Among the eighth graders, females ranked Challenge as the number one gratification, while males ranked Social Interaction at the top. The largest mean difference between sexes was in the fiveth-grade sample (M Cohen's d = .87), followed by the college students (M Cohen's d = .76), eleventh graders (M Cohen's d = .68), and the eighth graders (M Cohen's d = .59).
+Uses and Gratifications Traits as Predictor of Hours Played. The relationship between the use categories and amount of play was tested by employing stepwise linear multiple regression to determine if uses and gratifications could predict total hours played among game players. In each sample, the uses and gratifications variables were strong predictors of time spent playing video games. Among college students, 28% of the variance in game play was accounted for by uses and gratifications (R2 = .28; p < .01), with Diversion ( = .29; p < .01, sr = .21), Social Interaction ( = .24; p < .01, sr = .19), and Arousal ( = .11; p < .05, sr = .08) as the most important predictors of time spent playing video games per hour. The pattern was the same among 11th graders, with more variance explained (R2 = .36; p < .01) using the same variables Diversion ( = .24; p < .01, sr = .19), Social Interaction ( = .31; p < .01, sr = .24), and Arousal ( = .16; p < .01, sr = .12). A similar amount of variance was explained in the eighth-grade sample(R2 = .38; p < .01) using only two of the other motivations (i.e., Diversion [ = .21; p < .01, sr = .18] and Social Interaction [ = .47; p < .01, sr = .39]). Uses and gratifications accounted for 28% of the variance in amount of weekly game play in the fifth grade sample (R2 = .28; p < .01), with a different set of significant predictors: playing to be Strong ( = .31; p < .01, sr = .24) and for Competition ( = .29; p < .01, sr = .22).
+
+FUTURE DIRECTIONS FOR RESEARCH
+In this project, we set out to develop a nuanced understanding of the video game play experience by investigating the principal motivations for play and how these motivations relate to amount of game play. The pattern of relationships among the uses suggests that the generational cohorts studied here have developed a consistent set of reasons for playing video game. This pattern of uses is likely more purposeful and active than television use because of the costs involved in game play; in addition to owning a television set, gamers must invest approximately $200 for a gaming system and $50 for each game that they want to play. The costs are even higher for computer game players, who need to purchase a more high-powered, graphics-intensive system than the average computer user. Furthermore, unlike television viewers for whom a wide variety of content is delivered to their home either for free or for a monthly flat fee, gamers must purchase each game. As such, they are less likely to expose themselves to content that they are not sure will give them the gratification that they are seeking.
+While there is evidence for use of games to equilibrate emotions, the most prominent of the motivations for game use are more social in nature. Responses in the focus groups did not center as much on gratifications derived from feelings as on relationships, resulting in only two emotional gratifications. In the survey data, diversion is the third most popular reason for using video games, while arousal ranks a very close fourth. Importantly, the two emotional gratifications are consistent predictors of game play time across age groups. While they are not the highest ranked gratifications overall, they are important predictors of amount of play.
+Results show that the game experience focuses on personal and social gratifications. Players enjoy the challenge of "beating the game," but also of beating friends. For many, it is not enough to win the game; one's exploits must be known amongst one's friends. Like other contests,
+
+P1: PVB LE128-15
+
+LE128-Vorderer.cls January 1, 1904 3:33
+
+222
+
+SHERRY, LUCAS, GREENBERG, LACHLAN
+
+such as sports, game players can establish a place on a peer pecking order by being the best at a game. Focus group data suggest that competition is most acute among sports and fighter genres--games in which players compete through both agility and knowledge of the game. Unlike real-world sports and fighting, the video game world does not discriminate by physical height and strength, offering a more level playing field than is found in the real world. Like the real world, games are used as a source of social interaction, particularly for males. In fact, social interaction and diversion gratifications were the strongest predictors of time spent playing video games in the oldest three cohorts. Therefore, the diversion from life that video games provide is not necessarily diversion from other people (cf. Williams, chap. 14, this volume). Instead, gaming appears to be a type of diversion that involves other people in social interaction . This finding contradicts the idea of the solitary player isolated from social contact. In fact, frequent game play appears to be highly social with focus group participants describing the experience as being very similar to a group of friends shooting baskets at the park. The ritual is the same; only the location has changed.
+Unlike findings from previous studies of television and film gratifications, video game players did not mention using video games for learning (see Lieberman, chap. 25, this volume; Ritterfeld & Weber, chap. 26, this volume). This is important for understanding the mechanisms by which video games may affect users. Bandura (1994) argued that social learning resulting from media messages occurs when users choose a role model from a media portrayal and imitate the model's behavior. Consistent with this theory, in most television uses and gratifications studies, respondents report that the major reason for using television is to learn about the world and about how they should act. Television viewers seek role models from television characters and personalities, modeling their behaviors in real life. Given the purposeful use of television for learning, social cognitive theory (Bandura, 1994) provides a logical explanation of the effects of television. In fact, the storytelling nature of television is consistent with centuriesold socialization mechanism of folklore (Levi-Strauss, 1995). However, the data in these studies suggest that video game players may not be learning by imitating video game role models as has been hypothesized by video game researchers (e.g., Calvert & Tan, 1994; Irwin & Gross, 1995). Bandura (1994) argued that during the attentional process stage, people "determine what is selectively observed in the profusion of modeling influences and what information is extracted form ongoing modeled events" (pp. 67-68). Thus, selection of role models is an active and purposeful behavior enacted via each individual's self-reflective capacity (see Bandura, 1994, pp. 64-66). If video game players were acquiring behavior via a social learning mechanism, they would be aware of and self-reflective upon their choices. However, video game users do not report using games to learn how to behave in the same manner as television and film viewers do. While there may be incidental social learning of behavior, it is more likely that video game effects will result from another mechanism such as arousal transfer, priming, or possibly desensitization.
+From the early years of mass communication research, scholars have held that media use is purposeful and that the key to understanding media effects lies in understanding the reasons why people use media (Blumer, 1933; Herzog, 1944). The major theoretical contribution of these studies lies in the specification of the main reasons people use video games. As a result, we can begin to theorize more realistically about the effects of video games. However, it is important that the systematic study of the uses and gratifications of video games does not stop with the specifications of motivations for use. We must determine the antecedents of use as well as the effects of use relative to these sets of motivations. Only then will the uses and gratifications approach begun here offer an explanation of video game uses and effects as outlined in the Rosengren model (see Figure 15.1). The next step in this research project will be to determine what factors influence the decision to use one game genre over another. Do certain personality types prefer certain types of gratifications (and therefore games)? Are there age and sex differences in the use of games? These types of investigations are likely to provide
+
+P1: PVB LE128-15
+
+LE128-Vorderer.cls January 1, 1904 3:33
+
+15. VIDEO GAME USES AND GRATIFICATIONS
+
+223
+
+a clearer picture of why people use video games and provide a basis for eventually theorizing about the effects the games may have on them.
+
+NOTES
+1Complete details about the analysis of psychometric properties and results tables are available from the first author.
+
+REFERENCES
+Abelman, R. (1987). Religious television uses and gratifications. Journal of Broadcasting and Electronic Media, 31, 293-307.
+Anderson, C. A., & Bushman, B. J. 2001. Effects of voilent video games on aggressive behavior, aggressive cognition, aggressive affect, physiological arousal, and prosocial behavior: A meta-analytic review of the scientific literature. Psychological Science 12: 353-359.
+Atkin, C. K. (1985). Informational utility and selective exposure to entertainment media. In D. Zillmann & J. Bryant (Eds.), Selective exposure to communication (pp. 63-91). Hillsdale, NJ: Lawrence Erlbaum Associates.
+Bandura, A. (1994). The social cognitive theory of mass communication. In J. Bryant & D. Zillmann (Eds.), Media effects: Advances in theory and research (pp. 61-90). Hillsdale, NJ: Lawrence Erlbaum Associates.
+Berkowitz, L., & Rogers, K. H. (1986). A priming effect analysis of media influences. In J. Bryant & D. Zillmann (Eds.), Perspectives on media effects (pp. 57-82). Hillsdale, NJ: Lawrence Erlbaum Associates.
+Bertalanffy, L. (1968). General systems theory. New York: Braziller. Blalock, H. M., & Blalock, A. B. (1959). Toward a clarification of systems analysis in the social sciences. Philosophy
+of Science, 26: 16-27. Blumer, H. (1933). The movies and conduct. New York: Macmillan. Bronfenbrenner, U. (1986). Ecology of the family as a context for human development: Research perspectives.
+Developmental Psychology, 22, 723-742. Bryant, J., & Miron, D. (2002). Entertainment as media effect. In J. Bryant & D. Zillmann (Eds.), Media effects:
+Advances in theory and research (pp. 549-582). Hillsdale, NJ: Lawrence Erlbaum Associates. Bryant, J., & Zillmann, D. (1984). Using television to alleviate boredom and stress: Selective exposure as a function
+of induced excitational states. Journal of Broadcasting, 28, 1-20. Buckley, W. (1967). Sociology and modern systems theory. Englewood Cliffs, NJ: Prentice-Hall. Calvert, S., & Tan, S. L. (1994). Impact of virtual reality on young adult's physiological arousal and aggressive
+thoughts: Interaction versus observation. Journal of Applied Developmental Psychology, 15, 125-139. Chaffee, S. H. (1977). Mass media effects: New research perspectives. In D. Lerner & L. M. Nelson (Eds.), Commu-
+nication research: A half-century appraisal (pp. 210-241). Honolulu: University of Hawaii Press. Cohen, J. (1977). Statistical power analysis for the behavioral sciences. New York: Harcourt-Brace. Cook, T. D., & Campbell, D. T. (1979). Quasi-experimentation: Design and analysis issues for field settings. Boston:,
+Houghton Mifflin. Csikszentmihalyi, M. (1997). Finding flow: The psychology of engagement with everyday life. New York: Basic Books. Entertainment Software Association. (2004). Essential facts about the computer and video game industry. Retrieved
+August 1, 2004, from http://www.theesa.com/EFBrochure.pdf. Feshbach, S. (1955). The drive-reducing function of fantasy behavior. Journal of Abnormal and Social Psychology,
+50, 3-11. Funk, J. B. (1992). Video games: Benign or malignant. Developmental and Behavioral Pediatrics, 13, 53-54. Gantz, W. (1996). An examination of the range and salience of gratifications research associated with entertainment
+programming. Journal of Behavioral and Social Sciences, 1996(1), 11-48. Greenberg, B. S. (1974). Gratifications of television viewing and their correlates for British children. In J. G. Blumler
+& E. Katz (Eds.), The uses of mass communications: Current perspectives on gratifications (pp. 71-92). Beverly Hills, CA: Sage. Greenberg, B. S., & Hnilo, L. R. (1996). Demographic differences in media gratifications. Journal of Behavioral and Social Sciences, 1996(1), 97-114. Greenberg, B. S., Li, H., Ku, L., & Tokinoya, H. (1991). Affluence and mass media behaviours among youth in China, Japan, Korea and Taiwan. Asian Journal of Communication, 2, 87-108. Griffiths, M. D. (1991a). The observational analysis of adolescent gambling in U.K. amusement arcades. Journal of Community and Applied Social Psychology, 1, 309-320.
+
+P1: PVB LE128-15
+
+LE128-Vorderer.cls January 1, 1904 3:33
+
+224
+
+SHERRY, LUCAS, GREENBERG, LACHLAN
+
+Griffiths, M. D. (1991b). Are computer games bad for children? The Psychologis: Bulletin of the British Psychological Society, 6, 401-407.
+Herzog, H. (1944). What do we really know about daytime serial listeners? In P. F. Lazarsfeld & F. N. Stanton (Eds.), Radio Research 1942-1943 (pp. 3-33). New York: Duel, Sloan, & Pearce.
+Irwin, A. R., & Gross, A. M. (1995). Cognitive tempo, violent video games, and aggressive behavior in young boys. Journal of Family Violence, 10, 337-350.
+Katz, E., Blumler, J. G., & Gurevitch, M. (1974). Utilization of mass communication by the individual. In J. G. Blumler & E. Katz (Eds.), The uses of mass communications: Current perspectives of gratifications research (pp. 19-32). Beverly Hills, CA: Sage.
+Lerner, R. M. (1987). A life-span perspective for early adolescence. In R. M. Lerner & T. T. Foch (Eds.), Biological- psychosocial interactions in early adolescence (pp. 9-34). Hillsdale, NJ: Lawrence Erlbaum Associates.
+Levi-Strauss, C. (1995). Myth and meaning. New York: Schocken Books. Lewin, K. (1951). Field theory in social science. New York: Harper & Row. Mediascope. (1996). The social effects of electronic interactive games: An annotated bibliography. Studio City, CA:
+mediascope. Menon, G. (1994). Judgments of behavioral frequencies: Memory search and retrieval strategies. In N. Schwarz &
+S. Sudman (Eds.), Autobiographical memory and the validity of retrospective reports (pp. 161-172). New York: Springer-Verlag. Merton, R. K. (1957). Social theory and social structure. Glencoe, IL: Free Press. Monge, P. (1977). The systems perspective as a theoretical basis for the study of human communication. Communication Quarterly, 25, 19-29. Morgan, D. L. (1997). Focus groups as qualitative research. Thousand Oaks, CA: Sage. Myers, D. (1990). computer game genres. Play & Culture, 3, 286-301. Palmgreen, P. C., Wenner, L. A., & Rosengren, K. E. (1985). Uses and gratifications research: The past ten years. In K. E. Rosengren, L. A. Wenner, & P. C. Palmgreen (Eds.), Uses and gratifications research: Current perspectives (pp. 11-37). Beverly Hills, CA: Sage. Phillips, C. A., Rolls, S., Rouse, A., & Griffiths, M. D. (1995). Home video game playing in schoolchildren: A study of incidence and patterns of play. Journal of Adolescence, 18, 687-691. Rosengren, K. E. (1974). Uses and gratifications: A paradigm outlined. In J. G. Blumler & E. Katz (Eds.), The uses of mass communications: Current perspectives of gratifications research (pp. 269-286). Beverly Hills, CA: Sage. Rubin, A. M. (1994). Media uses and effects: A uses-and-gratifications perspective. In J. Bryant & D. Zillmann (Eds.), Media effects: Advances in theory and research (pp. 417-436). Hillsdale, NJ: Lawrence Erlbaum Associates. Ruggiero, T. E. (2000). Uses and gratifications theory in the 21st century. Mass Communication & Society, 3, 3-37. Schramm, W., Lyle, J., & Parker, E. (1961). Television in the lives of our children. Palo Alto, CA: Stanford University Press. Selnow, G. W. (1984). Playing videogames: The electronic friend. Journal of Communication, 34 (2), 148-156. Sherry, J. L. (2001). The effects of violent video games on aggression: A meta-analysis. Human Communication Research, 27, 409-431. Sherry, J. L. (2004). Flow and media enjoyment. Communication Theory, 14, 392-410. Sparks, G. G., & Sparks, C. W. (2000). Violence, mayhem, and horror. In D. Zillmann & P. Vorderer (Eds.), Media entertainment: The psychology of its appeal (pp. 73-92). Mahwah, NJ: Lawrence Erlbaum Associates. Spearman, C. (1904). "General intelligence" objectively determined and measured. American Journal of Psychology, 15, 201-293. Tokinoya, H. (1996). A typological study with media gratifications theory in Japan. Journal of Behavioral and Social Sciences, 1996(1), 115-137. Vorderer, P., Hartmann, T., & Klimmt, C. (2003). Explaining the enjoyment of playing video games: The role of competition. In D. Marinelli (Ed.), Proceedings of the 2nd International Conference on Entertainment Computing (ICEC 2003), Pittsburgh (pp. 1-8). New York: ACM. Wartella, E., & Reeves, B. (1985). Historical trends in research on children and the media: 1900-1960. Journal of Communication, 35, 118-133. Wigand, R. T., Borstelmann, S. E., & Boster, F. J. (1985). Electronic leisure: Video game usage and the communication climate of video arcades. Communication Yearbook, 9, 275-293. Woodard, E. H., IV, & Gridina, N. (2000). Media in the home 2000: The fifth annual survey of parents and children (Survey Series No. 7). Philadelphia: Annenberg Public Policy Center of the University of Pennsylvania. Youichi, I. (1996). Why do people watch foreign movies and read foreign books? Journal of Behavioral and Social Sciences, 1996(1), 139-150. Zillmann, D., & Bryant, J. (1985). Affect, mood, and emotion as determinants of selective exposure. In D. Zillmann & J. Bryant (Eds.), Selective exposure to communication (pp. 157-190). Hillsdale, NJ: Lawrence Erlbaum Associates.
+
+

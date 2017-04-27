@@ -1,0 +1,174 @@
+PERSPECTIVE
+
+the nih budget and the future of biomedical research
+
+The NIH Budget and the Future of Biomedical Research
+Joseph Loscalzo, M.D., Ph.D.
+
+Federal funding for biomedical research in the United States has fueled discoveries that have advanced our understanding of human disease, led to novel and effective diagnostic tools and therapies, and made our research enterprise an international paragon. Although it was not the original intent, this investment, through the National Institutes of Health (NIH), has also become an essential source of support for academic medical centers, providing funds for faculty and staff salaries, operational expenses, and even capital improvements related to research that can no longer be supported by clinical income. Until approximately 20 years ago, clinical income often subsidized research, but managed care, increased scrutiny and efficiency in the management of clinical expenses, and reductions in federal support for teaching hospitals have rendered clinical margins insufficient to support the research mission. Although some may see institution building as an inappropriate use of NIH funds, a consistent, productive biomedical research enterprise requires a solid infrastructure.
+Ensuring durable federal support for such research has not, however, been without tribulations. As with all line items in the federal budget, NIH funding is subject to the vicissitudes of the political process, and intermittent periods of growth have been followed by periods of decline (see graph). Some argue that funding cycles refresh the research enter-
+
+prise, eliminating through competition investigators whose work is not of the highest quality. Though not as sanguine about their purposes or consequences, the academic medical community has accepted these cycles and works to find ways to dampen the effects of downturns on research programs and institutional stability.
+We have recently entered another period of stagnant funding for the NIH. Having doubled between 1998 and 2003, the NIH budget is expected to be $28.6 billion for fiscal year 2007, a 0.1 percent decrease from last year,1 or a 3.8 percent decrease after adjustment for inflation -- the first true budgeted reduction in NIH support since 1970. Whereas national defense spending has reached approximately $1,600 per capita, federal spending for biomedical research now amounts to about $97 per capita -- a rather modest investment in "advancing the health, safety, and well-being of our people."1 This downturn is more severe than any we have faced previously, since it comes on the heels of the doubling of the budget and threatens to erode the benefits of that investment. It takes many years for institutions to develop investigators skilled in modern research techniques and to build the costly, complicated infrastructure necessary for biomedical research. Rebuilding the investigator pool and the infrastructure after a downturn is expensive and time-consuming and weakens the benefits of prior funding. This situation is unlikely to
+
+improve anytime soon: the resources required for the war in Iraq and for hurricane relief, along with the erosion of the tax base by the current administration's fiscal policies, are expected to have longterm, far-reaching effects.
+Most institutes within the NIH have quickly adopted policy changes to minimize the adverse consequences, including reducing the maximum grant term from five years to four years, eliminating cost-of-living increases, and capping the amounts of awards. These changes have important effects on currently funded research and the infrastructure that it requires. Moreover, the future of biomedical research is also affected: NIH training grants represent a major source of support for postdoctoral and clinical fellows during their research experiences, and budget limitations affect not only available training slots but also the training climate. As it becomes increasingly difficult for established investigators to renew their grants, their frustration is transmitted to trainees, who increasingly opt for alternative career paths, shrinking the pipeline of future investigators.
+Meanwhile, for more than 10 years, the pharmaceutical industry has been investing larger amounts in research and development than the federal government -- $51.3 billion in fiscal year 2005,2 for instance, or 78 percent more than NIH funding that year. Fiscal conservatives may view this industry investment as an appropriate, market-driven solution
+
+n engl j med 354;16 www.nejm.org april 20, 2006
+The New England Journal of Medicine Downloaded from nejm.org on March 4, 2016. For personal use only. No other uses without permission.
+Copyright (c) 2006 Massachusetts Medical Society. All rights reserved.
+
+1665
+
+PERSPECTIVE
+
+the nih budget and the future of biomedical research
+
+and peer-review pro25 cess, which requires
+
+20 that funding levels
+
+15
+
+not fall below the 30th percentile suc-
+
+Growth (%)
+
+10 cess rate; maintain-
+
+5 ing a stable pool of new investigators;
+0 sustaining commit-
+
+5 ments to continuing
+
+10
+1970 1975 1980 1985 1990 1995 2000 2005 Fiscal Year
+
+awards; preserving the capacity of institutions that receive grants by minimiz-
+
+Annualized Growth of the NIH Budget, 1971 to 2005. The growth rates shown have been adjusted for inflation.
+
+ing cost-sharing with the federal government (e.g., for lease
+
+that should suffice and that does costs or animal care); recognizing
+
+not justify additional government the continuous growth of new
+
+funding for biomedical research. research technologies; and main-
+
+However, the lion's share of in- taining a robust intramural NIH
+
+dustry funds is applied to drug de- research program. I would, how-
+
+velopment, especially clinical tri- ever, modify the annual required
+
+als, rather than to fundamental growth rate to 5 to 6 percent real
+
+research and is targeted to appli- growth plus inflation: the annual
+
+cations that are first and foremost growth rate over the past 30 years
+
+of value to the industry. Federal has been approximately 10 per-
+
+funding has traditionally target- cent, which reflects an annual av-
+
+ed a broad range of investigator- erage real growth rate of 5.2 per-
+
+initiated research, from studies cent and an average inflation rate
+
+of molecular mechanisms of dis- of 4.8 percent (ranging from 1.1
+
+ease to population-based studies to 13.3 percent).
+
+of disease prevalence, promoting Unfortunately, the federal gov-
+
+an unrestricted environment of ernment probably cannot accom-
+
+biomedical discovery that serves modate this growth rate under
+
+as the basis for industry-driven de- its current fiscal constraints. So
+
+velopment. These approaches are maintaining, by statute, a stable
+
+complementary, and both have base level of funding equivalent
+
+served society well.
+
+to the fiscal year 2006 budget, with
+
+How, then, can we ensure that annual inflationary adjustments,
+
+funding for biomedical research seems to me a reasonable starting
+
+is maintained at adequate levels point. Congress may then choose
+
+for the foreseeable future? Korn to allocate additional resources
+
+and colleagues have argued that annually, subject to availability,
+
+stability and quality can be ensured aiming for an annual real growth
+
+by maintaining overall funding rate of 5 to 6 percent. Alternative-
+
+at an annual growth rate of 8 to ly, to avoid politicization of the
+
+9 percent (unadjusted for infla- flow of funds and their targets,
+
+tion).3 They base their conclusion a dedicated tax could be imposed
+
+on the costs associated with six on consumer products that threat-
+
+basic goals, which I endorse: pre- en human health -- such as fast
+
+serving the integrity of the merit foods, tobacco, and alcohol -- and
+
+used to maintain the biomedical research infrastructure by a formulaic allocation, much as the gasoline tax is used to maintain the federal highway infrastructure.
+The NIH can optimize the use of these funds by limiting the size and duration of awards as well as the number of awards per investigator. It might also consider shifting the target of grants. Whereas other countries often provide funding as an award for work accomplished before the application, the NIH theoretically funds proposed work -- though in reality, the peer-review process effectively requires that a hypothesis virtually be proved correct before funding is approved. Within the NIH intramural research program, funding levels for individual laboratories are often decided on the basis of accomplishments during the previous cycle, so there is already a precedent that can be applied to the extramural program. Of course, new investigators would need to be reviewed differently to ensure appropriate allocation of funds to these promising members of the research community who have no or limited previous research accomplishments.
+Even with such changes, however, it would be preferable for academic medical centers to cease relying so heavily on the NIH for research funding. In addition to having investigators seek funding from not-for-profit organizations and from industry, I believe that centers should encourage major nongovernmental funding organizations to consolidate their resources into a durable pool of support for the best research proposals in the life sciences. In addition, individual centers should encourage generous donors to support unrestricted research endowments designed to fund translational and
+
+1666
+
+n engl j med 354;16 www.nejm.org april 20, 2006
+
+The New England Journal of Medicine Downloaded from nejm.org on March 4, 2016. For personal use only. No other uses without permission.
+Copyright (c) 2006 Massachusetts Medical Society. All rights reserved.
+
+PERSPECTIVE
+
+the nih budget and the future of biomedical research
+
+clinical research programs within the medical center or to contribute to a national pool linked with support from industry to establish a national endowment for funding translational research and drug or device development within academic medical centers. Such promotion of later-phase research within academic medical centers could enhance the value of the intellectual property derived from it, financial benefits from which could, in turn, be used to establish research endowments within the medical centers.
+The federal government might also consider alternative ways to fund the NIH budget that are independent of allocations from the tax base. One approach might include seeking support from industries whose products contribute
+
+to the burden of disease, providing tax credits as an incentive for their contribution. These resources could be used to establish an independently managed national fund, which could be used to ensure adequate support for biomedical research without the funding gaps or oscillations that currently plague the process. In this scenario, unused money from any fiscal year would be retained in the fund, with the goal of achieving selfsustained growth.
+Whatever mechanisms are ultimately chosen, it seems clear that new methods of support must be developed if biomedical research is to continue to thrive in the United States. The goal of a durable, steady stream of support for research in the life sciences has never been more pressing,
+
+since the research derived from that support has never promised greater benefits. The fate of lifesciences research should not be consigned to the political winds of Washington.
+Dr. Loscalzo is the physician-in-chief and chair of medicine at Brigham and Women's Hospital and a professor of medicine at Harvard Medical School -- both in Boston.
+1. Office of Budget. FY 2007 budget in brief: advancing the health, safety, and well-being of our people. Washington, D.C.: Department of Health and Human Services, 2006. 2. Press release of the Pharmaceutical Research and Manufacturers of America, February 13, 2006. (Accessed March 30, 2006, at http://www.phrma.org/news_room/press_ releases/r%26d_investments_by_america% 92s_pharmaceutical_research_companies_ nears_record_%2440_billion_in_2005/.) 3. Korn D, Rich RR, Garrison HH, et al. The NIH budget in the "postdoubling" era. Science 2002;296:1401-2.
+
+statistics and medicine
+The Challenge of Subgroup Analyses -- Reporting without Distorting
+
+Stephen W. Lagakos, Ph.D.
+
+Related article, page 1706
+
+Subgroup analyses are an important part of the analysis of a comparative clinical trial. However, they are commonly overinterpreted1-4 and can lead to further research that is misguided or, worse, to suboptimal patient care.
+Consider a randomized, clinical trial designed to determine whether a new treatment is more effective than an established treatment and assessed with a test, based on all randomized patients, of the null hypothesis that the treatments have equal efficacy, as measured in terms of the primary end point. Then, subgroup analyses are conducted to assess whether different types of patients respond differ-
+
+ently to the new treatment. This sounds simple enough, but there are several important sources of confusion and uncertainty regarding such subgroup analyses.
+A single subgroup analysis may be conducted in which patients are classified according to sex. If the overall trial results fail to demonstrate that the new treatment is better than the conventional treatment, it may still be better in certain patients (say, women). And if the new treatment is demonstrated to be superior, the magnitude of the benefit may vary according to sex. Both scenarios should be formally investigated by means of an "interaction test" of
+
+the null hypothesis that the relative efficacy of the two treatments is the same in women and in men. An interaction is called quantitative1,4 when the new treatment is superior for both subgroups but its relative benefit differs between the subgroups. The clinical implications are usually more important for a qualitative1,4 interaction, in which the new treatment is superior in one subgroup but no different from or inferior to conventional treatment in another subgroup.
+An alternative, but problematic,1,3,4 approach to investigating subgroups is to test the hypothesis that there is no treatment dif-
+
+n engl j med 354;16 www.nejm.org april 20, 2006
+
+1667
+
+The New England Journal of Medicine Downloaded from nejm.org on March 4, 2016. For personal use only. No other uses without permission.
+Copyright (c) 2006 Massachusetts Medical Society. All rights reserved.
+
+

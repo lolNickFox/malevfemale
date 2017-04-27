@@ -1,0 +1,215 @@
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH Public Access
+Author Manuscript
+Public Health Rev. Author manuscript; available in PMC 2014 February 12.
+Published in final edited form as: Public Health Rev. 2012 January 1; 34(1): 71-83.
+Ethics and Scientific Integrity in Public Health, Epidemiological and Clinical Research
+Steven S. Coughlin, PhD, MPH1, Amyre Barker, MPH2,3, and Angus Dawson, PhD4 12440 16thStreet, NW, Washington, DC, USA 2Research Service, Veterans Affairs Medical Center, Washington, DC, USA 3Food and Drug Administration, Rockville, MD, USA 4Medicine, Ethics, Society and History, School of Health and Population Sciences, College of Medical and Dental Sciences, University of Birmingham, Birmingham, UK
+Abstract
+The ethics and scientific integrity of biomedical and public health research requires that researchers behave in appropriate ways. However, this requires more than following of published research guidelines that seek to prevent scientific misconduct relating to serious deviations from widely accepted scientific norms for proposing, conducting, and reporting research (e.g., fabrication or falsification of research data or failures to report potential conflicts of interest). In this paper we argue for a broader account of scientific integrity, one consistent with that defended by the United States Institute of Medicine, involving a commitment to intellectual honesty and personal responsibility for one's actions as a researcher and to practices consistent with the responsible conduct of research and protection of the research participants. Maintaining high standards of ethical and scientific integrity helps to maintain public trust in the research enterprise. An increasing number of authors have pointed to the importance of mentoring and education in relation to the responsible conduct of science in preventing transgressions of scientific integrity. Just like in clinical research and biomedicine, epidemiologists and other public health researchers have the responsibility to exhibit and foster the very highest standards of scientific integrity.
+Keywords
+Ethics; clinical research; epidemiology; plagiarism; public health; scientific integrity; scientific misconduct
+INTRODUCTION
+Promoting and maintaining high-levels of scientific integrity is essential in all areas of epidemiological, public health, and clinical research. Violations of scientific integrity might be held to be both intrinsically and extrinsically unethical. It can be intrinsically unethical because it may involve activities held to be wrong in themselves such as deception, misrepresentation and falsification. It can also be extrinsically unethical because such actions can cause direct harm to individuals and populations where such research is relied upon, negatively impact public trust in and support for research and result in wasted research resources. The implicit public trust in the integrity of biomedical and public health research
+Corresponding Author Contact Information: Dr. Steven S. Coughlin at steven.coughlin@va.gov; 2440 16th Street, NW, Washington, DC 20009, USA. Conflicts of Interest: None declared.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Coughlin et al.
+
+Page 2
+
+--which is often publically funded--requires that measures be taken to safeguard scientific integrity.1
+In this article we discuss some over-arching issues pertaining to ethics and scientific integrity across the broad range of epidemiological, public health, and clinical research. This includes integrity in such diverse areas as environmental health research and environmental epidemiology,2-4 pharmacoepidemiology, clinical trials research,5 nutritional research,6 genomics, and international health research.7 Each of these areas generates its own specific ethical issues relating to scientific integrity, but we believe that despite the plethora of scientific disciplines represented here, there are a number of important cross-cutting issues, and these are our focus in this paper. However, it is important to see that some of the topics are distinct from those traditionally discussed in relation to scientific integrity because this range of activities includes research focused on public or population health. Such research can involve different aims, methods or interventions from those of the randomized clinical trial.8
+In this paper we set out four main tasks. First, we outline and discuss two different ways of thinking about scientific integrity. A narrow view sees scientific integrity as a set of formal rules, conditions or requirements to be met. A broader view sees scientific integrity as part of a wider set of ethical concerns related to what it is to be a good person, good scientist or good researcher. The focus of this broader view speaks more to issues of character and responsibility. Second, we discuss a series of ethical issues related to scientific misconduct that are thought traditionally to be central to scientific integrity. Third, we outline a set of issues relating to the interaction between ethical and methodological issues. Fourth, we briefly discuss the importance of training related to the broader view of scientific integrity that we wish to defend.
+ACCOUNTS OF SCIENTIFIC INTEGRITY
+We might all agree that maintaining high standards of scientific integrity is essential to the biomedical and public health research enterprise. However, what actually is scientific integrity? There is a tendency to see it in a narrow or minimal way. On this model we might think of integrity as abiding by the relevant research ethics rules or regulations. In this context it means acting according to the relevant research guidelines, journal criteria, and relevant expectations considered appropriate within a particular discipline. We might label this an externalist idea of integrity (and hence of moral behavior in general) because the rules exist outside of the agent. However, there are a number of problems with such a view. For example, if the focus is on rules, one problem is that any such set of rules is contingent; that is they can be changed at any point. Does this mean that what we considered immoral last week can now be considered moral? Does this view imply that what makes moral considerations moral is that they are promoted and endorsed by a particular committee or professional body? It might well be true that they are able to mandate the rules for that group, but it is quite another thing to be able to make or declare things to be moral or immoral.
+A contrasting view might be labeled an internalist account. On this view, integrity (and morality in general) is something that requires more active engagement by the person themselves. It entails a more reflective and critical perspective upon rules and regulations, an account focused on the development of various traits, capacities or even virtues of an agent.9 On this model, being moral involves not just doing the right thing because the agent is concerned about external sanctions or punishment, but because it is the right thing to do. Here, research integrity is not just about knowing and following the `rules' in relation to publication ethics or the relevant regulations or law covering research ethics, but it is about
+
+NIH-PA Author Manuscript
+
+Public Health Rev. Author manuscript; available in PMC 2014 February 12.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Coughlin et al.
+
+Page 3
+taking ownership of one's participation in the scientific enterprise and accepting responsibility for one's actions. This view can be situated in a broader understanding of morality in general. It also has the advantage that various important values that might be neglected in the regulations can be appealed to. For example, in work relating to public health, it might be important to conduct research aimed at promoting elements such as the common good, the pursuit of greater equity, the promotion of greater protection for the environment, and the rights of individuals and communities to protections from harm or exploitation.
+Many of the features of what counts as relevant considerations for research integrity (in terms of the `rules' to be followed) will be the same or similar in relation to work in public health research and clinical research. However, the aims of public health work can be different in a number of respects. For example, public health research might be focused on improving the health of populations as well as individuals, it might focus on the distribution of health (and therefore be concerned about health equity and thus seeking to identify or respond to identified inequities), it might be focused on preventing, reducing or removing harms or risks of harms, rather than treatment.10 Whilst we can all agree that data should not be falsified, it is important to ensure that the remit of what counts as research integrity is not drawn too narrowly in terms of the kinds of research questions that might be asked and the proposed methods that may be used, which could be held to be illegitimate just because they are distinct from those used in clinical research. Indeed, part of what it is to have research integrity in relation to epidemiology and public health research might involve such things as not only performing the research but also being involved in advocacy work to ensure that important results are disclosed and disseminated by relevant parties (such as national governments). Efforts in this area are often motivated by concerns about the health of groups in society, that may be impacted by discrimination, socioeconomic, historical, or some other disadvantage that limit individual choice or adversely affect individual health. Examples include studies of combat veterans who may suffer from traumatic brain injury or other neurological illness, post-traumatic stress disorder, major depression, or increased suicide risk and, in some societies, face stigma, unemployment, disability, or bureaucratic indifference.
+Discussions of research in public health ought to be considered in relation to all relevant ethical aspects, rather than it being quickly concluded that a piece of research is unethical because it does not meet a presumed requirement, such as the need for informed consent. For example, because of the research questions and methods used, at least some cluster randomized trials cannot seek an informed consent from participants, but this is no reason on its own to hold such research unethical.11
+As has already been mentioned, particular methods in public health research might involve features that could be considered morally problematic on some accounts of general research ethics. A critical, reflective moral agent should be able to provide the reasons for the chosen approach. Again, integrity need not always be about following the rules, as much as being able to see that different kinds of moral considerations are important, often conflict, and that sometimes difficult decisions have to be made about priorities. This broader way of thinking in relation to scientific integrity can be seen in the United States Institute of Medicine's definition when they hold that it embodies "a commitment to intellectual honesty and personal responsibility for one's actions and to a range of practices that characterize responsible research conduct."
+
+NIH-PA Author Manuscript
+
+Public Health Rev. Author manuscript; available in PMC 2014 February 12.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Coughlin et al.
+
+Page 4
+
+SCIENTIFIC MISCONDUCT
+One important aspect of breaches of scientific integrity are issues relating to scientific misconduct, although it is important to see (as has been argued in the previous section) that this is not the only issue relevant to thinking about scientific integrity. In this section, however, we focus on misconduct as a means of exploring key issues in scientific integrity.
+Previous authors have noted that definitions of scientific misconduct have developed over time and there remain some differences in definitions across institutions in countries such as the US and the United Kingdom and internationally.12-14 Efforts have been made at the international level (e.g., the 2007 World Conference on Research Integrity held in Lisbon and sponsored by the European Science Foundation and the US Department of Health and Human Services Office of Research Integrity) to work towards more uniform definitions of scientific misconduct. Misconduct consists of serious deviations from widely accepted norms in the scientific community for proposing, conducting and reporting research including fabrication or falsification of research data, and plagiarism. Serious violations of the rights of human subjects and the theft of intellectual property (e.g., the misappropriation of a patented biotechnology procedure) can also fall under the general rubric of scientific misconduct.12
+Honest error or scientific differences in the design and conduct of research or interpretation of study findings do not constitute scientific misconduct.1,14 The development of novel research methods and enhancement of scientific techniques over time necessarily require some innovative thinking and modifications of currently embraced research procedures.
+Guidelines for the handling of allegations of misconduct emphasize the need for due process to protect the rights of the accused and the importance of also taking steps to protect whistleblowers. The Office of Research Integrity (ORI) in the US evolved within the Department of Health and Human Services over the past several decades. The authority of the ORI to make findings of scientific misconduct and to propose US Public Health Service (PHS) administrative actions is founded in federal regulations and statute. The purpose of the ORI is to protect the research mission of the PHS. The PHS generally requires institutions (e.g., US schools of medicine) to conduct the relevant investigation to determine whether an individual committed misconduct intentionally or recklessly.1 We next give four examples of misconduct.
+1. Fabrication and Falsification of Data
+Data fabrication and falsification (i.e., making up or distorting data without any scientific or statistical justification) can occur not only in the conduct or reporting of research (e.g., in papers submitted to scientific journals or presented at public meetings) but also in documents submitted to funding agencies to obtain research grants and in patent applications.1,2,14 The intentional alteration of the true scientific evidence from experimental or observational studies can lead to wasted public funds for research and adversely affect scientific careers and research programs.2 A good recent example of scientific misconduct involving the falsification of data is that related to the research conducted by Andrew Wakefield in the UK in 1998 showing an alleged association between measles-mumpsrubella (MMR) vaccination and both autism and bowel disorders.15 A number of examples of research misconduct were important elements in the decision to remove Wakefield from the UK's General Medical Council's list of registered doctors,16 and the original article was withdrawn by Lancet only in 2010.
+
+NIH-PA Author Manuscript
+
+Public Health Rev. Author manuscript; available in PMC 2014 February 12.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Coughlin et al.
+
+Page 5
+
+2. Plagiarism
+The World Association of Medical Editors' Publication Ethics Committee defined plagiarism as "the appropriation of the language, ideas, or thoughts of another without crediting their true source, and representation of them as one's own original work." Cases of plagiarism involve the lifting of whole passages of text from someone else's text or publication without appropriate citation or quotation marks. Plagiarism can also involve the theft or misappropriation of intellectual property and the unauthorized use of ideas or private research methods obtained from a grant application, unpublished manuscript, or other privileged communications.17 Recommended approaches for minimizing problems related to plagiarism include mentioning with research teams and providing continuing professional education about the responsible conduct of research.2,18
+
+3. Ghostwriting
+Concern has been raised about the practice of some pharmaceutical companies of providing "ghostwritten" journal articles detailing the results of clinical trials. Rather than the lead investigator drafting the article with the assistance of persons identified as coauthors, the article is written by a medical writer paid by the pharmaceutical company. This practice violates widely accepted criteria for authorship such as those provided by leading medical journals.19 Given the nature of this practice it is hard to cite actual examples, however, there has been widespread discussion of the ethical and legal ramifications of this form of research misconduct.20
+
+4. Conflicts of Interest
+Increasing attention is given to the potential for conflicts of interest in biomedical and public health research and to the need to disclose such conflicts.21-24 A conflict of interest, which can affect scientific objectivity, arises when researchers must choose between professional obligations and personal gain.25 The existence of a conflict of interest does not necessarily mean that anything improper has occurred and in some instances there may only be the appearance of a conflict of interest rather than an actual one.
+
+Funding agencies and peer-reviewed journals commonly employ a number of measures to address potential conflicts of interest including requiring scientists to disclose relations that constitute potential conflicts of interests when they submit work for publication or serve on expert advisory bodies. Most biomedical journals have adopted policies that require authors to divulge their funding sources to editors and in published articles. Many institutional review boards (research ethics committees) have policies or procedures that require investigators to disclose possible conflicts of interest when submitting research protocols.
+
+THE RELATIONSHIP BETWEEN ETHICS AND METHODOLOGY
+Guidelines for good epidemiological practice, such as those developed by the International Epidemiological Association and the European Epidemiology Federation,26 and ethics guidelines, such as those developed by the American College of Epidemiology,27 establish a framework for conducting epidemiological research with scientific integrity. This includes the development of a written study protocol, which can be defined as "a detailed plan for a scientific or medical experiment, treatment or procedure".28 Such a protocol requires a scientifically justifiable hypothesis and set of research questions.
+
+Just as blueprints guide building construction and flight maps assist in the navigation of
+aircraft, the study protocol serves as an instruction manual for those completing original
+research and those interested in reproducing a study to validate results. The written protocol also contributes to a study's overall quality in a number of ways.29 First, the protocol
+
+NIH-PA Author Manuscript
+
+Public Health Rev. Author manuscript; available in PMC 2014 February 12.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Coughlin et al.
+
+Page 6
+
+enhances the scientific integrity of the research by providing the reader with background information on the project and by clearly outlining a plan to meet the research objectives. Second, the protocol is the first step toward study documentation. Third, the document serves as a communication link which connects the investigators to their funding source, to other research team members, to peer reviewers, and to policy makers. Throughout the research process, the study protocol serves as a reference tool and lessens potential research misconduct, including altering analyses to support hypotheses not explicitly outlined during the planning process of a clinical trial.2 In observational research, it is more common for secondary analyses of existing datasets to be conducted in order to maximize the potential benefits of epidemiologic and public health research.
+When properly executed, study protocols ensure the integrity of the process used to answer a single research question or a series of questions. However, when not adhered to, negative consequences, such as the inability to reproduce a study in order to verify its validity or the loss of confidence in research findings, can ensue.
+It is important to see that ethical issues should not be seen as a constraint upon the proposed methodology. The proposed methodology itself might raise ethical issues, and may need to be modified to ensure that they are adequately satisfied. On this view, ethical and methodological considerations are interactive with each other. The broader notion of scientific integrity we have been defending requires that those proposing the research think critically about this interaction between the methodological and ethical issues in preparing the protocol and provide reasons why the research ought to take the form that it does.
+TRAINING IN THE RESPONSIBLE CONDUCT OF SCIENCE
+Opportunities should exist for formal instruction in the responsible conduct of research13,28,30,31 including those in public health and clinical research.32,33 The National Institutes of Health (NIH) in the US has long required that institutions receiving support for graduate training programs have programs in place for teaching research ethics.12 Topics commonly dealt with in such courses include human subjects research ethics (e.g., balancing risks and potential benefits, safeguarding privacy and confidentiality, informed consent and human rights), the use of animals in research, avoiding or resolving conflicts of interest, issues pertaining to publication (e.g., criteria for authorship and the need to avoid plagiarism), issues related to scientific misconduct, intellectual property rights, and the need to adhere to the highest scientific standards. An increasing number of universities and institutions worldwide are providing instruction on good research practices and including such instruction in science curricula. National and international bodies have called for scientific integrity instruction partly to minimize such problems as scientific misconduct. The Global Science Forum of the Organisation for Economic Co-Operation and Development (OECD) and the Ministry of Education, Culture, Sports, Science and Technology of Japan held a "Workshop on Best Practices for Ensuring Scientific Integrity and Preventing Misconduct" in Tokyo on February 22-23, 2007.34 The workshop was attended by over 50 government representatives of 23 countries and invited experts. The meeting report highlights the importance of providing instruction about the responsible conduct of research in student curricula and in the continuing education of faculty, staff, and technical personnel. Individual factors that may contribute to scientific misconduct include a "lack of awareness of the rules and standards of proper scientific conduct, or of the investigative process".34 The workshop report also notes that "the prevalence of misconduct can be aggravated by an unsupportive or indifferent environment where integrity is ignored or downplayed" and that scientists may experience pressure from supervisors, sponsors, or publishers for findings that are statistically significant or other desired results.34 Scientific and medical journals have a role in providing education about publication ethics including
+
+NIH-PA Author Manuscript
+
+Public Health Rev. Author manuscript; available in PMC 2014 February 12.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Coughlin et al.
+
+Page 7
+
+criteria for authorship and procedures for maintaining the integrity of the peer-review process.19 Many resources for providing instruction in the responsible conduct of research and human subjects protection are now available online including those provided by the Collaborative Institutional Training Initiative, the NIH, and a variety of leading universities and professional associations.35,36 The availability of such online training resources does not diminish the responsibility of researchers to model and promote the highest standards of ethical values and scientific integrity.37
+However, if the proposed broader view of scientific integrity outlined earlier is followed it has obvious implications for thinking about how training and education in relation to ethical issues ought to be conducted. On this view, doing the right thing is not a purely epistemic issue: it is not enough to know what you ought to do, but requires that you do the right thing. Based on this argument, training involves the development of the relevant skills of critical reflection and acceptance of responsibility for the conduct and outcomes of research rather than merely learning the relevant research ethics rules.
+Research institutions should strive to create an environment that promotes responsible conduct.2 This involves the creation and maintenance of norms that encourage ethical conduct as part of everyday research and broader scientific activity, including serving as expert peer reviewers of study proposals and journal articles, administering research programs, and helping to identify new research priorities. Part of the role for experienced staff in this active culture will include mentoring graduate students, fellows, and junior scientists relating to appropriate scientific norms and professional responsibilities and taking steps to prevent or address any potential damage to scientific integrity.
+SUMMARY AND CONCLUSIONS
+Scientific integrity in its broad form requires much more than the following of research ethics rules and regulations. This does not mean that such rules are unimportant, but that they are only the starting point for the development of integrity. Various aspects of scientific misconduct are perhaps the most visible forms of breaches to our idea of scientific integrity, and ought to be tackled vigorously. However, the key to scientific integrity is the development of critical, reflective scientists, able and willing to take responsibility for their actions as researchers. Instruction and mentoring is an important part of encouraging ethical behaviors as a vital aspect of education within the fields of biomedicine, epidemiology and other areas of public health research. All participants in the pursuit of science have the responsibility to visibly follow and foster the highest standards of ethics and scientific integrity.
+
+Acronyms list
+
+NIH US National Institutes of Health ORI Office of Research Integrity of the US Department of Health and Human Services PHS United States Public Health Service
+References
+1. Soskolne, CL.; Abbrecht, PH.; Davidian, NM.; Price, AR. Good conduct and integrity in epidemiologic research. In: Coughlin, SS.; Beauchamp, TL.; Weed, DL., editors. Ethics and Epidemiology. 2. New York: Oxford University Press; 2009. p. 264-82.
+2. Merlo DF, Vahakangas K, Knudsen LE. Scientific integrity: critical issues in environmental health research. Environ Health. 2008; 7:S9. [PubMed: 18541075]
+
+NIH-PA Author Manuscript
+
+Public Health Rev. Author manuscript; available in PMC 2014 February 12.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Coughlin et al.
+
+Page 8
+3. Soskolne CL, Light A. Towards ethics guidelines for environmental epidemiologists. Sci Total Environ. 1996; 184:137-47.
+4. Tong S, Olsen J. The threat to scientific integrity in environmental and occupational medicine. Occup Environ Med. 2005; 62:843-6. [PubMed: 16299092]
+5. Resnik, DB. Fraud, fabrication, and falsification. In: Emanuel, EJ.; Grady, C.; Crouch, RA., et al., editors. The Oxford Textbook of Clinical Research Ethics. New York: Oxford University Press; 2009.
+6. Rowe S, Alexander N, Clydesdale FM, Applebaum RS, Atkinson S, Black RM, et al. Funding food science and nutrition research: financial conflicts and scientific integrity. Am J Clin Nutr. 2009; 89:1285-91. [PubMed: 19357216]
+7. Council for International Organizations of Medical Sciences. International Guidelines for Ethical Review of Epidemiological Studies. Law Med Health Care. 1991; 19:247-58. [PubMed: 1779694]
+8. Verweij M, Dawson A. Public health research ethics: a research agenda. Public Health Ethics. 2009; 2:1-6.
+9. Dawson A. Professional codes of practice and ethical conduct. J Applied Philosophy. 1994; 11:145- 53.
+10. Verweij, M.; Dawson, A. The meaning of "public" in public health. In: Dawson, A.; Verweij, M., editors. Ethics, Prevention, and Public Health. Oxford, UK: Oxford University Press; 2007.
+11. Sim J, Dawson A. Informed consent and cluster randomized trials. Am J Public Health. 2012; 3:480-5. [PubMed: 22390511]
+12. Soskolne, CL.; Macfarlane, DK. Scientific misconduct in epidemiologic research. In: Coughlin, SS.; Beauchamp, TL., editors. Ethics and Epidemiology. New York: Oxford University Press; 1996. p. 274-89.
+13. Steneck NH, Bulger RE. The history, purpose, and future of instruction in the responsible conduct of research. Acad Med. 2007; 82:829-34. [PubMed: 17726385]
+14. Medical Research Council. Policy and procedures for inquiring into allegations of scientific misconduct. MRC; 2007.
+15. Deer B. How the case against the MMR vaccine was fixed. BMJ. 2011; 342:c5347. [PubMed: 21209059]
+16. General Medical Council Fitness to Practise Panel. [Accessed 19 May, 2012] Determination on Serious Professional Misconduct (SPM) and sanction: Dr Andrew Jeremy Wakefield. GMC. May 24. 2010 Available from URL: http://www.gmc-uk.org/ Wakefield_SPM_and_SANCTION.pdf_32595267.pdf
+17. Office of Research Integrity policy on plagiarism. [Accessed 19 June, 2012] ORI. updated 9 June, 2011. Available from URL: http://ori.hhs.gov/ori-policy-plagiarism
+18. Korenman, SG.; Shipp, AC. A Handbook for Instructors. Washington, DC: Association of American Medical Colleges; 1994. Teaching the Responsible Conduct of Research Through a Case Study Approach.
+19. International Committee of Medical Journal Editors. Uniform requirements for manuscripts submitted to biomedical journals. ICMJE; 2010. Available from URL: http://www.icmje.org/ [Accessed 19 June, 2012]
+20. Stern S, Lemmens T. Legal remedies for medical ghostwriting: imposing fraud liability on guest authors of ghostwritten articles. PLoS Med. 2011; 8(8):e1001070. [PubMed: 21829331]
+21. Soskolne CL. Epidemiological research, interest groups and the review process. J Public Health Policy. 1985; 7:173-84. [PubMed: 4031054]
+22. Porter, RJ.; Malone, TE. Biomedical Research: Collaboration and Conflict of Interest. Baltimore, MD: The Johns Hopkins University Press; 1992.
+23. Fontanarosa PB, Flanagin A, DeAngelis CD. Reporting confiicts of interest, financial aspects of research, and role of sponsors in funded studies. JAMA. 2005; 294:110-1. [PubMed: 15998899]
+24. DeAngelis CD, Fontanarosa PB. Ensuring integrity in industry-sponsored research. Primum non nocere, revisited. JAMA. 2010; 303:1196-8. [PubMed: 20332409]
+25. Coughlin, SS. Case Studies in Public Health Ethics. 2. Washington, DC: American Public Health Association; 2009.
+
+NIH-PA Author Manuscript
+
+Public Health Rev. Author manuscript; available in PMC 2014 February 12.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Coughlin et al.
+
+Page 9
+
+26. International Epidemiological Association European Epidemiology Federation. Good epidemiological practice: proper conduct in epidemiologic practice. IEA; 2004. revision. Available from URL: http://www.ieaweb.org [Accessed 19 June, 2012]
+27. Ethics and Standards of Practice Committee. American College of Epidemiology ethics guidelines. American College of Epidemiology; 2000. Available from URL: http://acepidemiology.org/sites/ default/files/EthicsGuide.pdf [Accessed 19 June, 2012]
+28. Merriam-Webster Dictionary. [Accessed 5 March, 2012] Available from URL: http:// www.merriam-webster.com/dictionary/protocol
+29. Ott MG. Importance of the study protocol in epidemiologic research. J Occup Med. 1991; 33:1236-9. [PubMed: 1800680]
+30. National Academy of Sciences. Responsible Science: Ensuring the Integrity of the Research Process. Vol. I. Washington, DC: National Academies Press; 1992.
+31. Institute of Medicine. Integrity in Scientific Research: Creating an Environment that Promotes Responsible Conduct. Washington, DC: National Academies Press; 1992. Committee on Assessing Integrity in Research Environments.
+32. Goodman, KW.; Prineas, RJ. Ethics curricula in epidemiology. In: Coughlin, SS.; Beauchamp, TL., editors. Ethics and Epidemiology. New York: Oxford University Press; 1996. p. 283-303.
+33. Coughlin, SS. Ethics in Epidemiology and Public Health Practice. 2. Washington, DC: American Public Health Association; 2009.
+34. Organisation for Economic Co-Operation and Development Global Science Forum. Best practices for ensuring scientific integrity and preventing misconduct. OECD; 2007. Available from URL: http://www.oecd.org/dataoecd/37/17/40188303.pdf [Accessed 19 June, 2012]
+35. Braunschweiger P, Goodman KW. The CITI Program: an international online resource for education in human subjects protection and the responsible conduct of research. Acad Med. 2007; 82:861-4. [PubMed: 17726392]
+36. Kalichman MW, Plemmons DK. Reported goals for responsible conduct of research courses. Acad Med. 2007; 82:846-52. [PubMed: 17726389]
+37. Geller G, Boyce A, Ford DE, Sugarman J. Beyond "compliance": the role of institutional culture in promoting research integrity. Acad Med. 2010; 85:1296-302. [PubMed: 20671455]
+Biographies
+Dr. Coughlin is an Adjunct Professor of Epidemiology at the Rollins School of Public Health, Emory University, Atlanta, GA, USA. Dr. Coughlin was Chair of the committee that drafted the American College of Epidemiology Ethics Guidelines.
+
+At the time this article was drafted, Amyre Barker, MPH was a health sciences specialist at the Veterans Affairs Medical Center in Washington, DC.
+
+Dr. Dawson is Professor of Public Health Ethics and Head of Medicine, Ethics, Society and History, School of Health and Population Sciences, College of Medical and Dental Sciences, University of Birmingham, Birmingham, UK. He is internationally recognized for his published books on public health ethics and biomedical ethics and has served as a consultant to the World Health Organization and the U.S. Centers for Disease Control and Prevention. He is a Member of the Medecins Sans Frontieres (MSF), Research Ethics Board.
+
+NIH-PA Author Manuscript
+
+Public Health Rev. Author manuscript; available in PMC 2014 February 12.
+
+

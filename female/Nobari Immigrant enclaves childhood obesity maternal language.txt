@@ -1,0 +1,390 @@
+Social Science & Medicine 92 (2013) 1e8
+Contents lists available at SciVerse ScienceDirect
+Social Science & Medicine
+journal homepage: www.elsevier.com/locate/socscimed
+
+Immigrant enclaves and obesity in preschool-aged children in Los Angeles County
+Tabashir Z. Nobari a,*, May-Choo Wang a, M. Pia Chaparro a, Catherine M. Crespi b, Maria Koleilat c, Shannon E. Whaley c
+a Department of Community Health Sciences, Jonathan and Karin Fielding School of Public Health, University of California at Los Angeles, 650 Charles E. Young Drive South, Los Angeles, CA 90095, USA b Department of Biostatistics, Jonathan and Karin Fielding School of Public Health, 650 Charles E. Young Drive South, Los Angeles, CA 90095, USA c PHFE WIC, 12781 Schabarum Avenue, Irwindale, CA 91706-6807, USA
+
+article info
+Article history: Available online 31 May 2013
+Keywords: Children Obesity BMI Neighborhood Immigrant enclaves WIC Hispanics USA
+
+abstract
+While neighborhood environments are increasingly recognized as important contributors to obesity risk, less has been reported on the socio-cultural aspects of neighborhoods that influence obesity development. This is especially true among immigrants, who may lack the necessary language skills to navigate their new living environments. In this study, we tested the hypothesis that young children of immigrants would be at lower obesity risk if they lived in neighborhoods where neighbors share the same language and culture. Using 2000 Census data and 2003e2009 data from the Special Supplemental Nutrition Program for Women, Infants and Children in Los Angeles County, we examined the relation between BMI z-scores in low-income children aged 2e5 years (N 1/4 250,029) and the concentration of neighborhood residents who spoke the same language as the children's mothers. Using multi-level modeling and adjusting for child's gender and race/ethnicity, household education, neighborhood socioeconomic status, and year the child was examined, we found that percent of neighborhood residents who spoke the same language as the child's mother was negatively associated with BMI z-scores. This relation varied by child's race/ethnicity and mother's preferred language. The relation was linear and negative among children of English-speaking Hispanic mothers and Chinese-speaking mothers. However, for Hispanic children of Spanish-speaking mothers the relation was curvilinear, initially exhibiting a positive relation which reversed at higher neighborhood concentrations of Spanish-speaking residents. Our findings suggest that living in neighborhoods where residents share the same language may influence obesityrelated behaviors (namely diet and physical activity) possibly through mechanisms involving social networks, support, and norms.
+O 2013 Elsevier Ltd. All rights reserved.
+
+Introduction
+Over the past two decades, there has been increasing interest in examining how the places where people live affect obesity risk (Black & Macinko, 2008; Morland, Diez Roux, & Wing, 2006; Morland & Evenson, 2009; Mujahid et al., 2008; Papas et al., 2007; Wang et al., 2007). In particular, neighborhood socioeconomic status and the food environment, defined by the types of food stores and restaurants available in the neighborhood, have been
+* Corresponding author. Tel.: 1 310 206 7809; fax: 1 310 794 1805. E-mail addresses: tabashir@ucla.edu (T.Z. Nobari), maywang@ucla.edu
+(M.-C. Wang), mchaparro@ucla.edu (M.P. Chaparro), ccrespi@ucla.edu (C.M. Crespi), MariaK@phfewic.org (M. Koleilat), Shannon@phfewic.org (S.E. Whaley).
+0277-9536/$ e see front matter O 2013 Elsevier Ltd. All rights reserved. http://dx.doi.org/10.1016/j.socscimed.2013.05.019
+
+found to be associated with obesity risk (Black & Macinko, 2008; Dubowitz et al., 2012; van Lenthe & Mackenbach, 2002; Morland et al., 2006; Wang et al., 2007). Residents of disadvantaged neighborhoods are more likely to be overweight (Black & Macinko, 2008; Dubowitz et al., 2012; Kimbro & Denney, 2012; Wang et al., 2007). In addition, poorer neighborhoods tend to be lacking in food stores that sell affordable fresh produce; at the same time, stores that sell mostly unhealthy non-perishable processed foods, and fast food restaurants that sell inexpensive energy-dense meals are often easily accessible (Lovasi, Hutson, Guerra, & Neckerman, 2009; Moore & Diez Roux, 2006; Morland, Wing, Diez Roux, & Poole, 2002). Together, these studies suggest that the physical food environment may be an important determinant of the high rates of obesity observed among the poor.
+Human behavior, while influenced by the physical environment, is also influenced by socio-cultural factors. For example, immigrants
+
+2 T.Z. Nobari et al. / Social Science & Medicine 92 (2013) 1e8
+
+may face additional barriers to providing healthy foods for their children because they lack the language skills to help them navigate their new living environments. Hence, a relevant research question is, "Are the young children of immigrants at lower obesity risk if they live in neighborhoods where their neighbors share the same language and culture?"
+We postulate that non-English speaking immigrant families may receive greater support for feeding their children nutritious foods when neighborhood residents share the same language and culture. However, this effect may vary with ethnicity and acculturation. Hence, we hypothesize that (1) adiposity in young children is inversely associated with the percent of neighborhood residents who speak the same language as the child's mother (or primary caretaker); and (2) mother's ethnicity and acculturation, marked by preferred language, may modify this association.
+Methodology
+Study setting
+Los Angeles County (LAC) has a population of 9.9 million, of which over 35% is foreign-born and 57% of residents aged 5 years and older speak a language other than English at home (U.S. Census Bureau, 2010). The major racial/ethnic groups in LAC are Hispanic (48%), non-Hispanic White (28%) and Asian (14%) (U.S. Census Bureau, 2010). The demographic landscape of LAC is unique in that many neighborhoods are culturally distinct, being home to large numbers of residents of the same ethnicity sharing language, customs, and values. In 57% of the census tracts in LAC, more than a third of residents speak either Spanish or an Asian/Pacific Islander language at home.
+Study design overview
+Height and weight administrative data gathered from 2 to 5 year old participants of the Special Supplemental Nutrition Program for Women, Infants and Children (WIC) in LAC during the years 2003e 2009 were examined in relation to the percent of residents in the children's neighborhoods who spoke the same language as their mothers. Children living in low-income households ( 185% federal poverty level) and at nutrition risk are eligible to participate in WIC; "nutrition risk" is defined by Section 17(b)(8) of the Child Nutrition Act of 1966, as amended, with the broadest criteria being "conditions that predispose persons to inadequate nutritional patterns or nutritionally related medical conditions" (USDA, 2011, p. 2). Height and weight data were available from the WIC Data Mining Project (PHFE WIC Program, n.d.). Initiated in 2003 by Los Angeles-based PHFE WIC, the largest local WIC agency in the country, the WIC Data Mining Project was funded by First 5 LA to support the collection and maintenance of data from all seven local WIC agencies in LAC. Children's height and weight were respectively measured using wall-mounted stadiometers (Model PE-WM-6076; Prospective Enterprises, Portage, MI) and calibrated beam scales (Health-O-Meter 402LB; Prospective Enterprises, Portage, MI) by WIC paraprofessional clinic staff trained to follow a standardized height and weight measurement protocol. In the event that a child's height and weight measurements were taken by a health-care provider within 60 days of his/her WIC visit, the healthcare provider's measurements could be used (Crespi, Alfonso, Whaley, & Wang, 2012); approximately 20% of measurements were obtained this way. A previous study found the height and weight information to have high validity (Crespi et al., 2012). LAC neighborhoods were defined using 2000 census tract boundaries. This allowed the use of data from the 2000 Census to estimate the percent of neighborhood residents who spoke the same language
+
+as the study participants' mothers. Study participants' census tract of residence was available from the Data Mining Project which had the WIC participants' addresses geocoded. The Institutional Review Board at the University of California, Los Angeles approved the study.
+Participants
+Our study population consisted of children aged 2e5 years whose mothers' preferred language was English, Spanish, or Chinese (the most widely spoken Asian language among WIC participants in LAC). The first set of measurements on each child available from the administrative database was used for our study (i.e. the first time the child had their weight/height measured in WIC between 2003 and 2009). Children with improbable height and/or weight values for their age or with Down syndrome (a disability that may influence a child's weight) reported in their records were excluded. In addition, children who lived in census tracts with fewer than 5 children enrolled in WIC were excluded to protect client confidentiality. Our final sample consisted of 250,029 children living in 1673 census tracts.
+Operational definitions of variables
+The outcome variable of interest, child's adiposity, was measured by calculating BMI [weight (kg)/height (m)2] and expressing BMI in terms of a z-score (BMIz) derived from CDC's gender- and age-specific growth reference values (Kuczmarski et al., 2002). Children with a BMIz !95th percentile of CDC's gender-specific BMI-for-age reference values were considered obese and those with a BMIz between the 85th and 95th percentile were considered overweight.
+The primary independent variable of interest was the percent of neighborhood residents who spoke the same language as the child's mother or primary caretaker. To account for the potentially confounding or modifying effects of socio-demographic variables previously reported to be associated with child adiposity (Anderson & Whitaker, 2009; Brophy et al., 2009; Wang & Beydoun, 2007), we included age, gender, race/ethnicity, mother's preferred language, household education, and year of measurement as covariates in the analysis. Age was treated as a continuous variable, and gender as a dichotomous variable. Child's race/ethnicity was categorized as Hispanic, non-Hispanic (NH) white, NH black, NH Asian, or NH Other. Mother's preferred language was categorized as English, Spanish, or Chinese and was determined by WIC staff based on the language of the counseling and written materials she received from WIC. Household education, a measure of family socioeconomic status, was the highest year of education completed in the household and was categorized as less than 12 years, 12 years, and more than 12 years. Year of measurement was treated as a dummy variable. Because neighborhood income has been shown to be associated with obesity in previous studies (Black & Macinko, 2008; Grow et al., 2010), and is also associated with the distribution of language spoken by neighborhood residents, we further included census tract median income as a covariate. Neighborhood median income was categorized into 3 groups with the inter-quartile range defining the middle group: $28,180, $28,181e49,167, and !$49,168.
+For descriptive purposes and to help us understand the characteristics of the neighborhoods in which WIC families in LAC lived, we categorized the neighborhoods as a predominately Englishspeaking neighborhood, or a Spanish- or Chinese-speaking enclave; all other neighborhoods were categorized as "other". Since there is no consistent definition for enclave (Blumenberg & Smart, 2012), we considered a neighborhood as a Spanish- or
+
+T.Z. Nobari et al. / Social Science & Medicine 92 (2013) 1e8
+
+3
+
+Chinese-speaking enclave if it met a certain threshold of Spanish or Chinese speakers. This threshold was determined by examining the distribution of percent of residents who spoke Spanish, Chinese, or English for each census tract, and selecting language-specific thresholds that would provide approximately equal numbers of children living in enclaves and non-enclaves for the total sample, with the condition that an enclave would have at least 30% of its residents speaking the relevant language. Given the large number of Spanish-speaking residents in Los Angeles County, we defined a tract as a Spanish-speaking enclave if more than 50% of its residents preferred to speak Spanish. At the same time, given the relatively smaller number of Chinese-speaking residents in Los Angeles County, we defined a tract as a Chinese-speaking enclave if more than 35% of its residents preferred to speak Chinese. We considered a tract with more than 50% of its residents speaking English as a predominately English-speaking neighborhood.
+Statistical analysis
+Relevant characteristics of the study participants and neighborhoods were described using means and standard deviations for continuous variables, and frequency distributions for categorical variables. Socio-demographic differences among the three selected
+
+groups (children of English-, Spanish-, and Chinese-speaking mothers) were evaluated using analysis of variance (ANOVA) for continuous variables, and the chi-square test for categorical variables. To examine the relation of the percent of neighborhood residents who spoke the same language as the child's mother with child's BMIz (as the outcome variable), we developed multivariate linear mixed models with random intercepts for census tracts. To determine if mother's preferred language modified the relation between child's BMIz and the percent of neighborhood residents who spoke the same language as the child's mother, we included an interaction term in the mixed model. Finally, to determine if the relation of interest was non-linear or changed after a threshold of neighborhood residents who spoke the same language was reached, we added a quadratic term to the model, and tested for its significance. All analyses were conducted using SAS 9.2.
+Results
+Description of population
+As shown in Table 1, the mean age (SD) of the children studied was 3.3 (0.8) years; the sample was split approximately equally between girls and boys. The mean BMI z-score (SD) for the sample
+
+Table 1 Socio-demographic characteristics of the WIC children ages 2e5 years (N 1/4 250,029), 2003e2009.***
+
+Total sample (N 1/4 250,029)
+Mean (SD) or %
+
+Children of English-speaking mothers (N 1/4 132,368)
+Mean (SD) or %
+
+Children of Spanish-speaking mothers (N 1/4 116,362)
+Mean (SD) or %
+
+Children of Chinese-speaking mothers (N 1/4 1299)
+Mean (SD) or %
+
+Chi-sq or ANOVA p-value
+
+Child's age (years) Child's gender
+Male Female Child's weight statusa Normal/under weight Overweight Obese BMI z-scoreb Child born in the US Child's race White, Non-Hispanic Hispanic Black, Non-Hispanic Asian, Non-Hispanic Other, Non-Hispanic Household education Less than 12 years 12 years More than 12 years Mother's preferred language English Spanish Chinese % Neighborhood residents who prefer to speak the same language as the motherc % Living in an enclave or predominately English-speaking neighborhoodd Neighborhood median incomee
+
+3.3 (0.8)
+51.0 49.0
+65.3 17.6 17.1 0.64 (1.20) 90.9
+5.0 79.8 10.8 3.5 0.9
+56.4 32.0 11.7
+52.9 46.5 0.5 49.4 (22.9)
+49.4
+$34,393 ($11,583)
+
+3.3 (0.8)
+51.3 48.7
+66.4 17.3 16.4 0.60 (1.21) 97.7
+8.9 63.7 20.3 5.5 1.6
+40.4 42.5 17.2
+100.0 e e 39.7 (20.7)
+31.2
+$36,288 ($12,260)
+
+3.4 (0.8)
+50.8 49.2
+63.9 18.0 18.1 0.69 (1.20) 83.4
+0.5 99.1 0.1 0.2 0.1
+74.7 20.0 5.3
+e 100.0 e 60.6 (20.1)
+70.4
+$32,201 ($10,324)
+
+3.3 (0.8)
+53.5 46.5
+80.6 11.6 7.9 0.20 (1.09) 79.6
+0.2 1.6 0.4 97.5 0.3
+46.0 32.3 21.7
+e e 100.0 30.4 (16.6)
+35.0
+$37,757 ($12,235)
+
+*** ** *** *** ***
+***
+e *** *** ***
+
+*p < 0.05; **p < 0.01; ***p < 0.001. a Overweight and obesity were defined as having a BMI percentile of 85.0the94.9th percentile, and 95.0th percentile or greater, respectively, using CDC's growth reference
+standards. Normal/underweight is defined as having a BMI percentile less than the 85.0th percentile. b BMIz is the z-score for BMI [weight (kg)/height (m)2] that is derived from CDC's gender- and age-specific growth reference values. c The percent of adult residents who live in the child's census tract and who prefer to speak the same language as the mother, either English, Spanish or Chinese. The data
+was obtained from the 2000 Census. d For a child whose mother prefers to speak Spanish, enclave was defined as a census tract where more than 50.0% of residents preferred to speak Spanish. For a child whose
+mother prefers to speak Chinese, enclave was defined as a census tract where more than 35.0% residents preferred to speak Chinese. For a child whose mother prefers to speak
+English, a predominantly English-speaking neighborhood was defined as a census tract where more than 50.0% of residents preferred to speak English. e Neighborhood median income is the median household income in 1999 of the census tract where the child lives. The data was obtained from the 2000 Census.
+
+4 T.Z. Nobari et al. / Social Science & Medicine 92 (2013) 1e8
+
+was 0.64 (1.20), with approximately 17% of the children classified as obese. The majority (90.9%) of the children were born in the U.S. While the children were predominately Hispanic (79.8%), 10.8% were NH black and 3.5% were NH Asian. More than half of the children lived in households where no one had graduated from high school, 46.5% had mothers who preferred to speak Spanish, and 0.5% had mothers who preferred to speak Chinese. The mean (SD) percent of neighborhood residents who spoke the same language as the child's mother was 49.4 (22.9)%. Neighborhood median income averaged $34,393 with a standard deviation of $11,583.
+Child's weight status and BMIz differed by mother's preferred language. Children whose mothers preferred to speak Spanish were more likely to be obese (18.1%) compared to children whose mothers preferred to speak English (16.4%) or Chinese (7.9%). Spanish-speaking households had lower education levels than their English-speaking and Chinese-speaking counterparts (Table 1). In addition, children of Spanish-speaking mothers lived in neighborhoods where the mean number of residents who preferred to speak the same language as the mother was 60.6% compared to 39.7% for children of English-speaking and 30.4% for children of Chinesespeaking mothers. Children of Spanish-speaking mothers were also more likely to live in an enclave than children of Chinese- or English-speaking mothers (70.4% vs. 35.0% and 31.2%, respectively). Furthermore, the neighborhoods in which the children of Spanishspeaking mothers lived had, on average, lower neighborhood median income than children of English-speaking mothers and Chinese-speaking mothers.
+As shown in Table 2, all selected covariates were associated with BMIz at p < 0.001 (Model 1). Being Hispanic or having a mother whose preferred language was Chinese had the greatest effect on BMIz: on average, Hispanic children had a BMIz that was 0.239 units greater than that of NH White children, while children with a Chinese-speaking mother had a BMIz that was 0.213 units lower than that of children with an English-speaking mother. In Model 2, the percent of neighborhood residents who spoke the same language as the child's mother was inversely associated with child's BMIz (b (SE) 1/4 A0.001 (0.0001), p < 0.001). In Model 3, mother's
+
+preferred language interacted with the percent of residents who spoke the same language as the child's mother. In this linear model, for English-speaking mothers, each one point increase in percent of such residents was associated with a 0.002 standard unit decrease in BMIz (p < 0.001). The slope coefficient doubled to a 0.004 standard unit decrease in BMIz for children of Chinese-speaking mothers (NS). The effect was reduced for children of Spanishspeaking mothers compared to English-speaking mothers (p < 0.001) such that the slope coefficient was essentially zero.
+In an effort to understand the differential effect of the percent of neighborhood residents who speak the same language as the child's mother on child's BMIz between Spanish-speaking mothers and Chinese-speaking mothers, we examined the socioeconomic characteristics of Spanish- and Chinese-speaking enclaves, predominately English-speaking neighborhoods, and "other" neighborhoods. As shown in Table 3, Spanish-speaking enclaves tended to be more disadvantaged than Chinese-speaking enclaves and English-speaking neighborhoods. The Spanish-speaking enclaves' mean neighborhood median income was $30,781 compared to $42,606 for Chinese-speaking enclaves, $48,040 for Englishspeaking and $41,255 for "other" neighborhoods. For Spanishspeaking enclaves, 7% of adults aged 25 years and older had at least a bachelor's degree compared to approximately 25% for the other three neighborhoods. Nearly 60% of adults aged 25 years and older living in Spanish-speaking enclaves had not finished high school compared to approximately 30% of adults in Chinesespeaking enclaves and "other" neighborhoods and 20% of adults in English-speaking neighborhoods.
+Because mother's preferred language modified the relation between child's BMIz and percent of neighborhood residents who spoke the same language as the child's mother, further analyses were conducted separately for children of Spanish-speaking and Chinesespeaking households, and comparisons were made with children of comparable ethnicity but whose mothers' preferred language was English. In particular, we fit regression models that included a quadratic term to determine if the relation of interest was nonlinear. After adjusting for the covariates, we found that among Asian children, percent of neighborhood residents who spoke
+
+Table 2 Multi-level models predicting BMI z-score for WIC children.a
+
+Model 1 b (SE)
+
+Model 2 b (SE)
+
+Model 3 b (SE)
+
+Child's gender (male, ref)
+
+A0.093 (0.005) ***
+
+Child's age
+
+0.058 (0.003) ***
+
+Child's race (non-Hispanic White, ref)
+
+Hispanic
+
+0.239 (0.012) ***
+
+Black, Non-Hispanic
+
+A0.154 (0.013) ***
+
+Asian, Non-Hispanic
+
+A0.060 (0.018) ***
+
+Other, Non-Hispanic
+
+0.113 (0.028) ***
+
+Household education (>12 years, ref)
+
+Less than 12 years
+
+0.036 (0.008) ***
+
+12 years
+
+0.032 (0.008) ***
+
+Mother's preferred language (English, ref)
+
+Spanish
+
+A0.051 (0.006) ***
+
+Chinese
+
+A0.213 (0.036) ***
+
+Neighborhood median income (!$49,168, ref)
+
+$ 28,180
+
+0.144 (0.011) ***
+
+$28,181e$49,167
+
+0.069 (0.010) ***
+
+PRSL Interaction of PRSL and preferred languageb (PRSL*English, ref)
+
+PRSL*Spanish
+
+PRSL*Chinese
+
+A0.093 (0.005) *** 0.058 (0.003) ***
+0.230 (0.012) *** A0.153 (0.013) *** A0.065 (0.018) ***
+0.111 (0.028) ***
+0.036 (0.008) *** 0.031 (0.008) ***
+A0.034 (0.007) *** A0.217 (0.036) ***
+0.141 (0.011) *** 0.065 (0.010) *** A0.001 (0.0001) ***
+
+A0.093 (0.005) *** 0.058 (0.003) ***
+0.223 (0.012) *** A0.147 (0.013) *** A0.073 (0.018) ***
+0.110 (0.028) ***
+0.035 (0.008) *** 0.031 (0.008) ***
+A0.126 (0.016) *** A0.167 (0.072)*
+0.114 (0.011) *** 0.047 (0.010) *** A0.002 (0.0002) ***
+0.002 (0.0003) *** A0.002 (0.002)
+
+PRSL, percent of residents who speak the same language as the mother.
+*p < 0.05; **p < 0.01; ***p < 0.001. ref 1/4 reference group. a All models are adjusted for year of measurement. b This is the interaction term of mother's preferred language with the percent of adult residents living in the child's census tract who prefer to speak the same language as
+the mother.
+
+T.Z. Nobari et al. / Social Science & Medicine 92 (2013) 1e8
+
+Table 3 Socio-demographic characteristics of the Los Angeles County census tracts in our sample (N 1/4 1673).
+
+Variable
+
+Spanish-speaking enclavesa (N 1/4 671)
+
+Chinese-speaking enclavesb (N 1/4 146)
+
+English-speaking neighborhoodsc (N 1/4 598)
+
+"Other" neighborhoodsd (N 1/4 371)
+
+Mean (SD)
+
+Mean (SD)
+
+Mean (SD)
+
+Mean (SD)
+
+Median household income
+Percent of adults 25 years and
+older with a Bachelor's degree or more
+Percent of adults 25 years and
+older with less than a high
+school degree Percent speak Englishe Percent speak Spanishf Percent speak Chineseg Percent minorityh
+
+$ 30,781 ($9184) 6.9 (4.4)
+58.9 (11.5)
+22.3 (10.2) 70.3 (12.1)
+1.3 (3.1) 93.4 (6.2)
+
+$42,606 ($17,662) 27.5 (13.1)
+30.1 (16.0)
+21.1 (8.9) 17.5 (8.2) 44.9 (8.8) 89.3 (8.5)
+
+$48,040 ($15,235) 25.4 (13.6)
+20.0 (11.9)
+66.5 (11.2) 20.2 (11.0)
+1.4 (2.8) 57.4 (24.3)
+
+$41,255 ($13,457) 22.3 (11.1)
+29.8 (11.4)
+36.6 (10.4) 32.8 (12.3)
+6.4 (9.7) 75.0 (15.0)
+
+Data source: 2000 Census.
+*p < 0.05; **p < 0.01; ***p < 0.001. a Spanish-speaking enclave is a census tract where more than 50.0% of adult residents prefer to speak Spanish. b Chinese-speaking enclave is a census tract where more than 35.0% of adult residents prefer to speak Chinese. c An English-speaking neighborhood is a census tract where more than 50.0% of residents prefer to speak English. d "Other" neighborhood is a census tract that is neither a Spanish- or Chinese-speaking enclave or an English-speaking neighborhood. e The percent of adult residents in the census tract who prefer to speak English. f The percent of adult residents in the census tract who prefer to speak Spanish. g The percent of adult residents in the census tract who prefer to speak Chinese. h The percent of adult residents in the census tract who are not non-Hispanic White.
+
+5
+ANOVA p-value
+*** ***
+***
+*** *** *** ***
+
+Chinese was negatively associated with BMIz [b (SE) 1/4 A0.004 (0.002); p 1/4 0.056] and the quadratic term was not significant (data not shown). Among Hispanic children, we found that the quadratic term was negative and significant [b (SE) 1/4 A3 A 10A5 (9.5 A 10A6); p < 0.01] among Spanish-speaking but not English-speaking households, suggesting that the relation between child's BMIz and percent of neighborhood residents who spoke Spanish was initially positive, becoming negative only at higher levels of percent of residents who speak Spanish (Table 4). Fig. 1 presents an illustration of this relationship for a female child at the mean age of 3.4 years, living in the poorest neighborhoods. For a change in percent of neighborhood residents who spoke Spanish from 5% to 57%, average BMIz increased by 0.08 standard units. Conversely, for a change in percent of neighborhood residents who spoke Spanish from 57% to 90%, average BMIz decreased by 0.03 standard units.
+
+Discussion
+
+We found an inverse linear association between child's adiposity and the percent of neighborhood residents who speak the same language as the child's mother among WIC-participating children ages 2e5 years. However, this association varied by child's race/ethnicity and mother's preferred language. For children
+
+Table 4 Models predicting BMIz for Hispanic children by mother's preferred language.a
+
+Spanish (N 1/4 115,275) b (SE)
+
+English (N 1/4 84,300) b (SE)
+
+Child's gender (male, ref) Child's age
+
+A0.093 (0.007)*** 0.074 (0.004)***
+
+A0.094 (0.008)*** 0.044 (0.005)***
+
+Household education (>12 years, ref) < 12 years 12 years
+
+0.016 (0.016) 1.87 A 10A4 (0.017)
+
+0.050 (0.013)*** 0.049 (0.013)***
+
+Neighborhood median income (!$49,168, ref)
+
+$ 28,180
+
+0.123 (0.018)***
+
+$28,181e$49,167 PRSL PRSL squared
+
+0.045 (0.016)**
+0.003 (0.001)** A3 A 10A5 (9.5 A 10A6)**
+
+0.075 (0.017)***
+0.021 (0.015)
+A0.002 (0.001)* A3 A 10A6 (12 A 10A6)
+
+PRSL, percent of residents who speak the same language as the mother.
+*p < 0.05; **p < 0.01; ***p < 0.001. ref 1/4 reference group. a All models are adjusted for year of measurement.
+
+of Spanish-speaking mothers, the linear association was essentially zero. For children of Chinese-speaking mothers, the effect of percent of neighborhood residents who speak the same language as the child's mother on child's BMIz, was negative and twice the magnitude of the effect for children of English-speaking mothers. Further exploration of our data suggested that among Spanishspeaking Hispanics, the relation between child's BMIz and the percent of neighborhood residents who speak the same language as the child's mother was actually curvilinear. At lower levels of percent of neighborhood residents who speak Spanish, the relation was positive; at higher levels, the relation reversed, suggesting that the beneficial effects of living with neighbors who speak Spanish emerges only above a certain concentration of Spanish speakers. In contrast, this relation was linear and negative among Englishspeaking Hispanics.
+From these observations, we conclude, as Kimbro and Denney (2012) have, that living in a neighborhood with a large proportion of immigrants can protect against the risk of obesity among
+Fig. 1. Graphic illustration of the relation between child's BMIz and percent of residents who speak the same language as child's mother for Hispanic children whose mothers speak Spanish.a
+
+6 T.Z. Nobari et al. / Social Science & Medicine 92 (2013) 1e8
+
+children. However, contrary to Kimbro and Denney's (2012) finding that residence in neighborhoods with more Hispanics was negatively associated with obesity among kindergartners in the U.S., we found that the effect was dependent on mother's language preference. We therefore speculate that for immigrants, the mechanisms underlying the role of neighborhood environments in obesity development involve a complex interplay between the physical and social dimensions of neighborhood environments, and also between individual-level and environmental-level factors. To answer our original question, "Are the young children of immigrants at lower obesity risk if they live in neighborhoods where their neighbors share the same language and culture?" we discuss our findings in relation to existing literature about immigrant enclaves.
+Physical and social environmental influences on child obesity
+In the context of LAC, in the neighborhoods where WIC families live, there are consistent socioeconomic differences among Spanish-speaking, Chinese-speaking and English-speaking neighborhoods, with Spanish-speaking neighborhoods being the most disadvantaged. In disadvantaged neighborhoods in the United States, access to healthy foods tends to be limited (Black & Macinko, 2008; Lovasi et al., 2009; Morland et al., 2002; Papas et al., 2007). For example, in a study of three low-income, mainly Latino, communities in Los Angeles, Azuma, Gilliland, Vallianatos, & Gottlieb (2010) found that their food environments were predominately composed of fast-food restaurants, and liquor and convenience stores. Access to healthy and good-quality foods was poor and the nearest supermarkets were generally more than a mile away. The difficulty for immigrant families living in disadvantaged neighborhoods to access the foods that they view as healthy e foods that are fresh, natural, and local (Park et al., 2011) e could contribute to the increased obesity risk that we see among children whose mothers prefer to speak Spanish.
+In contrast, food businesses in immigrant enclaves are likely to respond to the demands of immigrant residents by providing lowfat foods and fresh fruits and vegetables, and traditional ethnic foods which are often healthier than processed American foods (Lee, 1995; Osypuk, Diez Roux, Hadley, & Kandula, 2009). It could be that the negative association between child adiposity and the percent of residents who speak the same language as the child's mother may be partially due to food businesses finding it profitable to stock fresh ethnic produce in neighborhoods with higher concentrations of immigrants. Furthermore, living in immigrant enclaves in the U.S. has been found to be associated with lower consumption of high-fat and processed foods, and higher consumption of fruits and vegetables among adults (Dubowitz, Subramanian, Acevedo-Garcia, Osypuk, & Peterson, 2008; Osypuk et al., 2009; Park et al., 2011). This could contribute to the protective effect we found on child's adiposity, of neighborhoods with high concentrations of residents who speak the same language as the mother since parents' eating behaviors influence their children's food preferences, food intake, and eating styles (Birch, 1998; Birch & Davison, 2001).
+Living in socially disadvantaged neighborhoods in LAC may also influence children's weight through opportunities for physical activity. Poor, disadvantaged neighborhoods are more likely to have few and/or unsafe recreational spaces for exercise and play (Lovasi et al., 2009). Looking at four U.S. cities, Osypuk et al. (2009) found that neighborhoods with more immigrants tended to be less safe, less walkable, and have fewer recreational facilities; this observation was the same for both Hispanic and Chinese neighborhoods. Since children's physical activity levels are influenced by their parents' activity levels (Fogelholm, Nuutinen, Pasanen, Myohanen,
+
+& Saatela, 1999; Moore et al., 1991), the increased obesity risk we found among Hispanic children whose mothers prefer to speak Spanish may partially be explained by Osypuk et al. (2009)'s finding that Hispanic adults living in neighborhoods with a higher percent of Hispanic immigrants were less physically active.
+For immigrants, living in neighborhoods where there is a concentration of residents who share the same language and culture may provide greater access to social networks, which may help families tap into community services such as health care and nutrition education, and material goods such as affordable healthy foods (Berkman, Glass, Brissette, & Seeman, 2000). Social and cultural norms in such communities may also support the retention of traditional dietary and physical activity behaviors and of preferred child body size. A recent study by Kirby, Liang, Chen, and Wang (2012) found that even after adjusting for individual sociodemographic variables, neighborhood poverty, the food store environment and access to fitness centers, racial/ethnic composition of communities in the U.S. was associated with adult obesity and that this relationship varied according to individual race/ ethnicity. Specifically, Kirby et al. (2012) found that living in a community with at least 25% Hispanic residents was positively associated with obesity risk for Hispanics, non-Hispanic (NH) whites and NH Asians. They also found that living in a community with at least 25% Asian residents was negatively associated with obesity risk for NH whites. Given that the authors controlled for the neighborhood environment, it could be that residents adopted norms regarding eating and physical activity behaviors and/or preferred body size of the communities they lived in. Beliefs regarding preferred child body size have been shown to influence child obesity (Hirschler, Calcagno, Clemente, Aranda, & Gonzalez, 2008; Manios, Moschonis, Grammatikaki, Anastasiadou, & Liarigkovinos, 2010), including in the same WIC population investigated in this study (Chaparro, Langellier, Kim, & Whaley, 2011).
+Social networks may also influence health behaviors through social engagement. Participating in social functions and activities can provide a sense of identity and belonging and minimize isolation (Berkman et al., 2000), which in turn may protect against the stress-inducing experiences of emigrating and adapting to a new country, and against the chronic stresses of poverty, residential segregation, and discrimination (Williams & Mohammed, 2006). Some studies have shown an association between chronic stress and overeating as well as physical inactivity (Dallman et al., 2003; Epel, 2009; Ng & Jeffery, 2003). Hence, decreasing chronic stress may protect against these unhealthy behaviors in adults. Gundersen, Lohman, Garasky, Stewart, and Eisenmann (2008) found that an increase in stressors experienced by the mother increased the likelihood that a child aged 3e10 years living in a food-secure household in the U.S. would be overweight or obese. We therefore speculate that immigrant parents who live in neighborhood environments that provide social support are less chronically stressed and therefore less likely to overeat and be sedentary, thereby providing a healthier home environment for their children.
+Social networks may also influence child obesity through parents' access to employment and material resources. While there is much debate as to whether recent immigrants' skills are more marketable in the immigrant enclave market (Portes & Jensen, 1992; Sanders & Nee, 1992; Xie & Gough, 2011), immigrant enclaves can be a source of information regarding employment opportunities for recent immigrants, where immigrants who have been in residence longer may provide referrals and advice (Jargowsky, 2006). Increasing a family's income might make it more likely for a family to purchase healthy foods for their children.
+Finally, access to an enclave's social networks may influence mother's health behaviors during pregnancy such as smoking, the
+
+T.Z. Nobari et al. / Social Science & Medicine 92 (2013) 1e8
+
+7
+
+decision to breast-feed, and child-feeding and physical activity practices, all of which could impact the development of child obesity (Arenz, Ruckerl, Koletzko, & von Kries, 2004; Brophy et al., 2009, 2011; Fogelholm et al., 1999; Hawkins, Cole, Law, Millennium Cohort Study Child Health Group, 2009).
+The curvilinear association that we observed for Hispanics e demonstrating that the relation between child's adiposity and the percent of residents who speak Spanish is positive at lower levels of concentration of residents who speak Spanish, but reverses at higher levels of concentration e suggests that the beneficial effects of having neighbors who share the same language and culture may not be apparent until a threshold of concentration of residents who speak Spanish is reached. At lower concentrations of residents who speak Spanish, the social deprivation of the neighborhoods could outweigh the benefits of the social networks. Wen and Maloney (2011) found that living in Latino-concentrated neighborhoods was associated with increased risk of obesity among adults living in Utah. Noting that this was in part due to neighborhood SES and the built environment, and that immigrant concentration decreased the risk of obesity, they suggested that social deprivation in ethnic enclaves may outweigh any potential benefits of living in an enclave.
+Individual and environmental interactions: ethnic variations
+The differences we found between the Spanish- and Chinesespeaking groups could conceivably be due to Chinese immigrants having a financial and educational advantage (Pew Research Center Social & Demographic Trends, 2012). In our study, the Chinesespeaking mothers were more highly educated than the Spanishspeaking mothers. Further, median income of neighborhoods considered Chinese-speaking enclaves was, on average, higher than that of neighborhoods considered Spanish-speaking enclaves. Comparing Asian-American enclaves with Latino-American enclaves in Los Angeles County, Walton and Takeuchi (2009) found that Latino-American enclaves tended to be linguistically isolated and had high poverty rates while there was greater variation among the Asian-American enclaves. Disadvantaged neighborhoods may, therefore, have a greater effect on Hispanic children than on Chinese-speaking children. Although we controlled for neighborhood median income, this may not have fully controlled for socioeconomic and other neighborhood disadvantages characterizing Spanish-speaking enclaves.
+While we chose to focus on immigrants for this study and therefore did not report on the impact of neighborhood racial/ ethnic composition on child BMI z-score, given the detrimental impact of residential segregation on birth outcomes, health conditions and health behaviors for non-Hispanic blacks (White & Borrell, 2011), we made an effort to specially examine the data for NH blacks. We found that after adjusting for child's age and gender, household education and neighborhood median income, percent of NH black residents was positively and significantly associated with BMIz among black children (b (SE) 1/4 0.0015 (0.0004), p-value < 0.001). Our findings are similar to those of another study (Kimbro & Denney, 2012) who found that after adjusting for individual-level covariates and neighborhood SES, regardless of the child's race, living in a neighborhood with a high percent of NH black residents was positively associated with obesity among a nationally-representative sample of kindergartners in the US. Additionally, we reran our analyses omitting NH blacks as a sensitivity analysis. Our findings did not change when we excluded NH black children from our sample.
+To our knowledge, this is the first report of an association between adiposity in preschool-aged children and the concentration of neighborhood residents who speak the same language as the
+
+children's mother. Strengths of this study include the use of validated and measured weight and height data to estimate BMIz (Crespi et al., 2012), and the large sample size. Our study also has several limitations. We defined the neighborhoods using census tract boundaries and these may not accurately capture residents' perception of their neighborhoods. The cross-sectional design of this study does not allow us to make inferences regarding causality; it is possible that residents of enclaves choose to live in such neighborhoods because they value the characteristics of the neighborhoods. The language preference variable we used for mothers was determined by WIC staff; however, language preference for Spanish or Chinese does not necessarily imply that English proficiency is poor.
+Our findings may not be generalizable to all preschool-aged children since only children living in low-income households are eligible to participate in WIC. The neighborhood environment may be more important for low-income children who may have increased vulnerability. While only children at "nutrition risk" can participate in WIC, given the broad definition of nutrition risk, this should not affect the generalizability of our results to low-income children. Social networks may play a greater role for recent immigrant parents in navigating the built environment of the U.S.dhowever, whether social networks decrease or increase child's adiposity may depend on the social norms (regarding children's food and physical activity behavior, and preferred body size) of the country of origin. Future research aiming to identify the mechanisms by which socio-cultural characteristics interact with physical characteristics of neighborhoods to influence child obesity development will advance current knowledge of the impact of the places where we live on child obesity risk.
+Acknowledgments
+This study was supported by the American Heart Association (#09GRN2230167, PI: Wang) and First 5 LA. Nobari was also supported by Award Number T32GM084903 from the National Institute of General Medical Sciences. Crespi was also supported by National Institutes of Health UL1TR000124. The content of this paper is solely the responsibility of the authors and does not necessarily represent the official views of the National Institute of General Medical Sciences or the National Institutes of Health. The authors wish to acknowledge Eloise Jenks and Armando Jimenez for assistance with data acquisition, all WIC staff for assistance with data collection, and Jennifer Arias and Madhurima Gadgil for their assistance with literature reviews.
+References
+Anderson, S. E., & Whitaker, R. C. (2009). Prevalence of obesity among US preschool children in different racial and ethnic groups. Archives of Pediatrics & Adolescent Medicine, 163, 344e348.
+Arenz, S., Ruckerl, R., Koletzko, B., & von Kries, R. (2004). Breast-feeding and childhood obesity e a systematic review. International Journal of Obesity, 28, 1247e1256.
+Azuma, A. M., Gilliland, S., Vallianatos, M., & Gottlieb, R. (2010). Food access, availability, and affordability in 3 Los Angeles communities, Project CAFE, 2004e2006. Preventing Chronic Disease, 7, A27.
+Berkman, L. F., Glass, T., Brissette, I., & Seeman, T. E. (2000). From social integration to health: Durkheim in the new millennium. Social Science & Medicine, 51, 843e857.
+Birch, L. L. (1998). Development of food acceptance patterns in the first years of life. The Proceedings of the Nutrition Society, 57, 617e624.
+Birch, L. L., & Davison, K. K. (2001). Family environmental factors influencing the developing behavioral controls of food intake and childhood overweight. Pediatric Clinics of North America, 48, 893e907.
+Black, J. L., & Macinko, J. (2008). Neighborhoods and obesity. Nutrition Reviews, 66, 2e20.
+Blumenberg, E., & Smart, M. (2012). Measuring the effects of immigrant ethnic neighborhood specification on commute mode choice. Working Paper. Los Angeles, Ca: UCLA Luskin School of Public Affairs.
+
+8 T.Z. Nobari et al. / Social Science & Medicine 92 (2013) 1e8
+
+Brophy, S., Cooksey, R., Gravenor, M. B., Mistry, R., Thomas, N., Lyons, R. A., et al. (2009). Risk factors for childhood obesity at age 5: analysis of the millennium cohort study. BMC Public Health, 9, 467.
+Brophy, S., Cooksey, R., Lyons, R. A., Thomas, N. E., Rodgers, S. E., & Gravenor, M. B. (2011). Parental factors associated with walking to school and participation in organised activities at age 5: analysis of the Millennium Cohort Study. BMC Public Health, 11, 14.
+Chaparro, M. P., Langellier, B. A., Kim, L. P., & Whaley, S. E. (2011). Predictors of accurate maternal perception of their preschool child's weight status among Hispanic WIC participants. Obesity, 19, 2026e2030.
+Crespi, C. M., Alfonso, V. H., Whaley, S. E., & Wang, M. C. (2012). Validity of child anthropometric measurements in the Special Supplemental Nutrition Program for Women, Infants, and Children. Pediatric Research, 71, 286e292.
+Dallman, M. F., Pecoraro, N., Akana, S. F., La Fleur, S. E., Gomez, F., Houshyar, H., et al. (2003). Chronic stress and obesity: a new view of "comfort food". Proceedings of the National Academy of Sciences of the United States of America, 100, 11696e 11701.
+Dubowitz, T., Ghosh-Dastidar, M., Eibner, C., Slaughter, M. E., Fernandes, M., Whitsel, E. A., et al. (2012). The Women's Health Initiative: the food environment, neighborhood socioeconomic status, BMI, and blood pressure. Obesity, 20, 862e871.
+Dubowitz, T., Subramanian, S. V., Acevedo-Garcia, D., Osypuk, T. L., & Peterson, K. E. (2008). Individual and neighborhood differences in diet among low-income foreign and U.S.-born women. Womens Health Issues, 18, 181e190.
+Epel, E. S. (2009). Psychological and metabolic stress: a recipe for accelerated cellular aging? Hormones, 8, 7e22.
+Fogelholm, M., Nuutinen, O., Pasanen, M., Myohanen, E., & Saatela, T. (1999). Parentechild relationship of physical activity patterns and obesity. International Journal of Obesity and Related Metabolic Disorders, 23, 1262e1268.
+Grow, H. M., Cook, A. J., Arterburn, D. E., Saelens, B. E., Drewnowski, A., & Lozano, P. (2010). Child obesity associated with social disadvantage of children's neighborhoods. Social Science & Medicine, 71, 584e591.
+Gundersen, C., Lohman, B. J., Garasky, S., Stewart, S., & Eisenmann, J. (2008). Food security, maternal stressors, and overweight among low-income US children: results from the National Health and Nutrition Examination Survey (1999e 2002). Pediatrics, 122, e529ee540.
+Hawkins, S. S., Cole, T. J., Law, C., & Millennium Cohort Study Child Health Group. (2009). An ecological systems approach to examining risk factors for early childhood overweight: findings from the UK Millennium Cohort Study. Journal of Epidemiology and Community Health, 63, 147e155.
+Hirschler, V., Calcagno, M. L., Clemente, A. M., Aranda, C., & Gonzalez, C. (2008). Association between school children's overweight and maternal obesity and perception of their children's weight status. Journal of Pediatric Endocrinology and Metabolism, 21, 641e649.
+Jargowsky, P. A. (2006). Immigrants and neighborhoods of concentrated poverty: Assimilation or stagnation?. In National Poverty Center Working Paper Series: Ann Arbor, MI: University of Michigan.
+Kimbro, R. T., & Denney, J. T. (2012). Neighborhood context and racial/ethnic differences in young children's obesity: structural barriers to interventions. Social Science & Medicine. pii: S0277-9536(12)00696-X. http://dx.doi.org/10.1016/j. socscimed.2012.09.032 [Epub ahead of print].
+Kirby, J. B., Liang, L., Chen, H. J., & Wang, Y. (2012). Race, place, and obesity: the complex relationships among community racial/ethnic composition, individual race/ethnicity, and obesity in the United States. American Journal of Public Health, 102, 1572e1578.
+Kuczmarski, R. J., Ogden, C. L., Guo, S. S., Grummer-Strawn, L. M., Flegal, K. M., Mei, Z., et al. (2002). 2000 CDC Growth Charts for the United States: methods and development. Vital and Health Statistics Series, 11(246), 1e190.
+Lee, D. O. (1995). Koreatown and Korean small firms in Los-Angeles e locating in the ethnic neighborhoods. The Professional Geographer, 47, 184e195.
+van Lenthe, F. J., & Mackenbach, J. P. (2002). Neighbourhood deprivation and overweight: the GLOBE study. International Journal of Obesity and Related Metabolic Disorders, 26, 234e240.
+Lovasi, G. S., Hutson, M. A., Guerra, M., & Neckerman, K. M. (2009). Built environments and obesity in disadvantaged populations. Epidemiologic Reviews, 31, 7e20.
+Manios, Y., Moschonis, G., Grammatikaki, E., Anastasiadou, A., & Liarigkovinos, T. (2010). Determinants of childhood obesity and association with maternal
+
+perceptions of their children's weight status: the "GENESIS" study. Journal of the American Dietetic Association, 110, 1527e1531. Moore, L. V., & Diez Roux, A. V. (2006). Associations of neighborhood characteristics with the location and type of food stores. American Journal of Public Health, 96, 325e331. Moore, L. L., Lombardi, D. A., White, M. J., Campbell, J. L., Oliveria, S. A., & Ellison, R. C. (1991). Influence of parents' physical activity levels on activity levels of young children. The Journal of Pediatrics, 118, 215e219. Morland, K., Diez Roux, A. V., & Wing, S. (2006). Supermarkets, other food stores, and obesity: the atherosclerosis risk in communities study. American Journal of Preventive Medicine, 30, 333e339. Morland, K. B., & Evenson, K. R. (2009). Obesity prevalence and the local food environment. Health & Place, 15, 491e495. Morland, K., Wing, S., Diez Roux, A., & Poole, C. (2002). Neighborhood characteristics associated with the location of food stores and food service places. American Journal of Preventive Medicine, 22, 23e29. Mujahid, M. S., Diez Roux, A. V., Shen, M., Gowda, D., Sanchez, B., Shea, S., et al. (2008). Relation between neighborhood environments and obesity in the Multi-Ethnic Study of Atherosclerosis. American Journal of Epidemiology, 167, 1349e1357. Ng, D. M., & Jeffery, R. W. (2003). Relationships between perceived stress and health behaviors in a sample of working adults. Health Psychology, 22, 638e642. Osypuk, T. L., Diez Roux, A. V., Hadley, C., & Kandula, N. R. (2009). Are immigrant enclaves healthy places to live? The Multi-ethnic Study of Atherosclerosis. Social Science & Medicine, 69, 110e120. Papas, M. A., Alberg, A. J., Ewing, R., Helzlsouer, K. J., Gary, T. L., & Klassen, A. C. (2007). The built environment and obesity. Epidemiologic Reviews, 29, 129e143. Park, Y., Quinn, J., Florez, K., Jacobson, J., Neckerman, K., & Rundle, A. (2011). Hispanic immigrant women's perspective on healthy foods and the New York City retail food environment: a mixed-method study. Social Science & Medicine, 73, 13e21. Pew Research Center Social and Demographic Trends. (2012). The rise of Asian Americans. Washington, DC: Pew Research Center. Retrieved May 1, 2013 from http://www.pewsocialtrends.org/files/2013/04/Asian-Americans-new-fullreport-04-2013.pdf. PHFE WIC Program. (n.d.). Data mining project. Retrieved March 20, 2013 from http://www.phfewic.org/projects/DataMining.aspx. Portes, A., & Jensen, L. (1992). Disproving the enclave hypothesis: reply. American Sociological Review, 57, 418e420. Sanders, J. M., & Nee, V. (1992). Problems in resolving the enclave economy debate. American Sociological Review, 57, 415e418. United States Department of Agriculture. (2011). WIC policy memorandum 2011-5 WIC nutrition risk criteria. Alexandria, VA: USDA Food and Nutrition Service. Retrieved May 6, 2013, from http://www.fns.usda.gov/wic/policyandguidance/ wicpolicymemos/2011-5-WICNutritionRiskCriteria.pdf. U.S. Census Bureau. (2010). State and county quickfacts for Los Angeles County. Retrieved May 5, 2013 from http://quickfacts.census.gov/qfd/states/06/06037. html. Walton, E., & Takeuchi, D. T. (2009). Ethnic residential clustering and health in west coast states. In Dialogues on poverty and policy series: . Seattle, WA: University of Washington West Coast Poverty Center. Wang, Y., & Beydoun, M. A. (2007). The obesity epidemic in the United States e gender, age, socioeconomic, racial/ethnic, and geographic characteristics: a systematic review and meta-regression analysis. Epidemiologic Reviews, 29, 6e28. Wang, M. C., Kim, S., Gonzalez, A. S., Macleod, K. E., & Winkleby, M. A. (2007). Socioeconomic and food-related physical characteristics of the neighborhood environment are associated with body mass index. Journal of Epidemiology and Community Health, 61, 491e498. Wen, M., & Maloney, T. N. (2011). Latino residential isolation and the risk of obesity in Utah: the role of neighborhood socioeconomic, built-environmental, and subcultural context. Journal of Immigrant and Minority Health, 13, 1134e1141. White, K., & Borrell, L. N. (2011). Racial/ethnic residential segregation: framing the context of health risk and health disparities. Health & Place, 17(2), 438e448. Williams, D. R., & Mohammed, S. A. (2006). Poverty, migration and health. In National poverty center working paper series: . Ann Arbor, MI: University of Michigan. Xie, Y., & Gough, M. (2011). Ethnic enclaves and the earnings of immigrants. Demography, 48, 1293e1315.
+
+

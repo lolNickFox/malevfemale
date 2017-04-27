@@ -1,0 +1,478 @@
+DYSLEXIA Published online in Wiley InterScience (www.interscience.wiley.com). DOI: 10.1002/dys.383
+& Student Experiences of Neurodiversity in Higher Education: Insights from the BRAINHE Project
+Edward GriffinA and David Pollak
+Student Services, De Montfort University, Leicester, UK
+The number of students with identified learning differences (LDs) of all kinds is increasing in higher education. This qualitative study explored the experiences of 27 current and previous students with a range of specific LDs by means of semi-structured interviews, using a thematic approach. The findings revealed that participants shared many life experiences and preferences for learning irrespective of their type of LD. Participants generally held one of two views about their identity as `neurodiverse': a `difference' view--where neurodiversity was seen as a difference incorporating a set of strengths and weaknesses, or a `medical/deficit' view--where neurodiversity was seen as a disadvantageous medical condition. The former view was associated with expressions of greater career ambition and academic self-esteem, while the latter view was associated more with processes for obtaining the Disabled Students' Allowance. Many of the participants reported similar experiences in education and with university support; many did not feel adequately supported by their institutions. Recommendations are made for increased awareness training among lecturers and better liaison between university departments. Copyright r 2009 John Wiley & Sons, Ltd.
+Keywords: neurodiversity; learning differences; higher education; experiential similarities; university support; identity
+
+*Correspondence to: Edward Griffin, Room 1.76e Gateway House, De Montfort University, The Gateway, Leicester, LE19BH, UK. Tel.: 14401162577831. E-mail: egriffin@dmu.ac.uk
+
+Copyright r 2009 John Wiley & Sons, Ltd.
+
+DYSLEXIA 15: 23-41 (2009)
+
+24 E. Griffin and D. Pollak
+NEURODIVERSITY IN HIGHER EDUCATION
+T he combination of improved learning support at lower educational levels, and anti-discrimination legislation such as the Disability Discrimination Acts (DDAs), has helped to provide access to higher education institutions (HEIs) in the UK for increasing numbers of students with learning differences (LDs). Such increases are also evident in other English-speaking countries, such as Australia (Johnson, 2000) and the USA (Glennon, 2001), as well as elsewhere in Europe, e.g. Greece (Stampoltzis & Polychronopoulou, 2008). Annual statistics from the Higher Education Statistics Agency (HESA) indicated sizeable increases in the number of students enrolling at UK HEIs who have disclosed LDs, including dyslexia and those associated with the autistic spectrum (HESA, 2006). While the statistics only cover a small range of LDs, they have made exciting reading for the government, as widening access to HE has been on the political agenda for many years. Initiatives such as the Disabled Students' Allowance (DSA), coupled with improved university support, have helped increasing numbers of these students to leave university with good degrees. However, anecdotal reports suggest that many students with LDs do not enjoy HE as much as their neurotypical peers--those without LDs. The causes of this discrepancy in satisfaction are unclear. Several major national projects have addressed areas of disability legislation, inclusivity and accessibility in UK HEIs, including the Teachability Project (Simpson, 2004) and Staff-Student Partnership for Assessment Change and Evaluation (SPACE) (Waterfield, 2005). These projects have provided academic staff with valuable tools and information aimed to help them meet the challenges and requirements of the DDAs and of increasing academic participation.
+
+HIGHER EDUCATION SECTOR'S RESPONSE TO LEGISLATION
+
+Until recently the mainstream education system in the UK was mostly unaccommodating to students identified with LDs and only a small number progressed into HE. According to Leicester and Lovell (1994) most universities in the UK were largely inaccessible to such students prior to 1993 and any adjustments made were usually attributable to the good will of staff and other students. The DSA makes it possible for students to purchase extra support to help them on their course. However, the DSA is somewhat at odds with the social model of disability (Riddell, Tinklin, & Wilson, 2005), in that the procedure for obtaining it involves a medical-style identification, and subsequent compensation for their identified `deficits'. The DSA does nothing to make the environment more accessible, but instead provides the person with the means to make him/ herself `fit in'.
+Universities have responded to legislation by offering general disability support to all students with LDs. Some research has evaluated initiatives based upon the academic achievements of students with LDs (Riddell et al., 2005), but there has been only a modest number of studies (and handbooks for staff) about the experiences of students with LDs in HE. These have typically focused on students with a particular type of LD, such as dyslexia (Pollak, 2005a; Riddick,
+
+Copyright r 2009 John Wiley & Sons, Ltd.
+
+DYSLEXIA 15: 23-41 (2009) DOI: 10.1002/dys
+
+Student Experiences of Neurodiversity in HE
+
+25
+
+Sterling, Farmer, & Morgan, 1999) or Asperger's Syndrome (Jamieson & Jamieson, 2004).
+
+NEURODIVERSITY
+The term `learning difference' has been increasingly used to provide a more socially acceptable way of referring to a range of what were previously called learning `difficulties' (BDA, 2006). The term `neurodiversity' encapsulates the more positive and empowering notion of `difference' as opposed to `deficit' and is also consistent with current conceptions of learning difficulties as being highly co-occurring and overlapping (Deponio, 2004; Kaplan, Dewey, Crawford, & WilsonKaplan, 2001). Neurodiversity is both a concept and a civil rights movement, developed by online groups of individuals with autism in the late 1990s (Harmon, 2004). In its broadest sense the concept of neurodiversity defines atypical neurological development as a normal human difference that should be tolerated and respected in the same way as other human differences. In an HE context, neurodiversity has evolved to include many types of LDs, including ADHD and Asperger's Syndrome as well as dyslexia, dyspraxia and dyscalculia (DANDA, 2008).
+There are considerable overlaps between different types of neurodiversity in terms of their indicators and with respect to the life experiences of the individual concerned. Although the latter aspects remain relatively unexplored, they have been identified as a significant factor in understanding neurodiversity (Grant, 2005; Pollak, 2005b; Riddell et al., 2005). To date there have been no studies exploring the experiences of a broad range of students identified with LDs in HE.
+BRAIN.HE (Best Resources for Attainment and Intervention re Neurodiversity in Higher Education) is a project that comprises primary qualitative research and analysis of LDs, focused on the `student voice', with an active support and resource website for the use of the students and staff who teach them (www.brainhe.com). As part of BRAIN.HE, the current study aimed to detail pertinent life experiences of students with LDs in HE, explore their development of identity, and build theory about the construct of neurodiversity. In this study we focused on the following research questions:
+1. How do these students deal with their identity as being neurologically diverse, and how has their identity developed?
+2. What are the commonalities in the life and educational experiences of HE students identified with various LDs?
+3. What are the implications for the HE sector with regard to learning, teaching and student support?
+
+METHODS
+
+The research questions were primarily concerned with individuals' interpretation of their experiences, and are therefore best-tapped using qualitative methods. To effectively understand the participants' views, data were not `collected' by the
+
+Copyright r 2009 John Wiley & Sons, Ltd.
+
+DYSLEXIA 15: 23-41 (2009) DOI: 10.1002/dys
+
+26 E. Griffin and D. Pollak
+interviewer in a conventional ethnographic manner, but were `generated' through a collaborative exercise between the interviewer and the interviewee (Mason, 1996). We used a semi-structured interview format, which allowed respondents to expand on topics they felt were most significant, and incorporated a series of prompts and open-ended questions for both students and staff/ employed graduate interviewees (see Appendices A and B, respectively).
+To minimize the potential of interviewer bias (Mason, 1996), the interviews were allocated across three researchers of different ages and sexes and from differing academic backgrounds.
+Participants were sampled through University disability departments and via the Developmental Adult Neurodiversity Association (DANDA-- www.danda.org.uk) using personal contact and email. Twenty-seven participants (14 males, 13 females) from 11 universities in the UK took part in the investigation. (See Table 1 for detailed participant information). All of the participants reported either single (n 5 18) or multiple (n 5 9) types of neurodiversity. The majority of participants were White/British, and two were from other ethnic backgrounds. The mean age of participants was 30 years (SD 12 years). Eight of the participants had graduated from HE and were in employments. Interviews with these participants focused on their experiences as students, but they were also encouraged to offer insights into life as an employee with a LD (see Appendix B).
+The research was guided by the ethical principles of the British Psychological Society (2006) (www.bps.org.uk). Interviews were recorded using either a video camera or a digital audio recorder, and were conducted in a small room with only the interviewer and the interviewee present. The length of the interviews ranged from 23 to 60 min (M 5 46) and interviewees were offered store vouchers as incentive for their participation.
+The interviews were fully transcribed and thematic analysis (Braun & Clarke, 2006) of the data was performed independently by two researchers, one using the qualitative research software package NVIVO 7 (Richards & Richards, 2007), and the other using a traditional paper-based approach. Detailed comparison revealed high similarity between the two coded data sets. Because the analyses were substantially data-driven, line-by-line coding enabled deeper analysis to identify broad themes and categories (Braun & Clarke, 2006). Constant reviewing of the emergent themes enabled them to be explored and further defined (Boyatzis, 1998).
+
+RESULTS
+
+A total of 110 categories of codes were generated and allocated into themes and sub-themes. We identified nine overarching categories of themes and sub-themes related to the research questions. Similarities between the experiences of students with the various LDs were evident in many of the themes; very few were specific to any particular type of LD. Similarities were particularly evident in the themes: experiences before assessment, school and university experiences, the label and its meaning, and in learning styles and strategies. The following sections include representative quotations from interviews to illustrate some of the key themes.
+
+Copyright r 2009 John Wiley & Sons, Ltd.
+
+DYSLEXIA 15: 23-41 (2009) DOI: 10.1002/dys
+
+Student Experiences of Neurodiversity in HE
+
+Copyright r 2009 John Wiley & Sons, Ltd.
+
+Table 1. Sex, age, educational or employment status and type(s) of officially identified neurodiversity at the time of interview
+
+Pseudonym Neurodiversity Neurodiversity Neurodiversity Educational setting at
+
+Course or employment status
+
+2nd type
+
+3rd type
+
+time of formal identification at time of interview
+
+Alan Alvin Amy Andrea
+Antonia
+Brian Christine Cleo
+Harriet
+Jack
+Janet John Josh Kat Kevin Liz
+Mandy Marcus
+Mark Nate
+Nathan Nuala
+
+Depression Dyslexia Dyslexia Dyslexia (acquired) Dyslexia
+ADHD Dyspraxia Asperger syndrome Dyscalculia
+Asperger syndrome Dyslexia Dyslexia Stroke Dyslexia Stroke Dyslexia
+Dyspraxia Asperger syndrome ADHD Asperger syndrome Dyslexia Dyslexia
+
+- - Dyspraxia
+-
+Dyslexia Dyspraxia -
+-
+-
+Dyspraxia Dyspraxia - - - -
+ADD -
+Dyspraxia -
+- -
+
+- - -
+-
+- - -
+-
+-
+Dyscalculia - - - - -
+- -
+Dyslexia -
+- -
+
+University 2nd year University 1st year Secondary school Primary school
+University 3rd year
+Primary school University 1st year Primary school
+N/A
+6th form--college
+University 3rd year Primary school Not applicable University 1st year University 1st year 6th form--college
+After university Primary school
+Primary school Primary school
+Secondary school University 1st year
+
+Graduated--University Staff--Lecturer Graduated--Art Administrator 3rd yr undergraduate--Biology 3rd yr undergraduate--Biological Science
+Postgraduate student--Post Graduate Museum Studies 1st yr undergraduate--Classics 3rd yr undergraduate--Education 2nd yr undergraduate--Psychology
+Graduated--University Staff--Development Co-ordinator 3rd yr undergraduate--Journalism
+Post Graduate--Education Graduated--University Staff--Disability Unit College Student--Photography Postgraduate--Music 2nd yr undergraduate--Community Work Graduated--University Staff--Lecturer in Interactive Design Graduated--Runs disability project 2nd yr undergraduate--Maths
+3rd yr undergraduate Geography 1st yr undergraduate--Maths
+2nd yr undergraduate--Geography Postgraduate--English
+
+DYSLEXIA 15: 23-41 (2009) DOI: 10.1002/dys
+
+27
+
+28 E. Griffin and D. Pollak
+
+Copyright r 2009 John Wiley & Sons, Ltd.
+
+Table 1. Continued
+
+Pseudonym Neurodiversity Neurodiversity Neurodiversity Educational setting at
+
+Course or employment status
+
+2nd type
+
+3rd type
+
+time of formal identification at time of interview
+
+Ray
+Sally Sebastian
+Sheila
+Stuart
+
+Dyslexia
+Dyspraxia Asperger syndrome Dyslexia
+Asperger syndrome
+
+-
+- -
+Dyspraxia
+-
+
+-
+- -
+-
+-
+
+Secondary school
+University 1st year Primary school
+University 2nd year
+Primary school
+
+Graduated--University Staff--Lecturer in Design. Graduated--Music Management 4th yr undergraduate (part time)-- Information Technology 2nd yr undergraduate--Music Management 1st yr undergraduate--Computer Animation
+
+DYSLEXIA 15: 23-41 (2009) DOI: 10.1002/dys
+
+Student Experiences of Neurodiversity in HE
+
+29
+
+Experiences Before Assessment
+The participants were identified with LDs at different times throughout their education. Two were not identified until they had finished their formal education and 13 (48%) were identified later in their education (i.e. late secondary school, FE or HE). Nearly all of these 15 participants talked in depth about their experiences before assessment, often mentioning frustrating and difficult situations, and in particular, negative experiences at school with peers and teachers.
+Forty four percent of the participants in the study reported feeling different from their peers prior to identification. They generally viewed these differences as unfavourable. This often resulted in feeling `isolated' and `left out', with two describing themselves using the word `loner'. A few (11%) of the participants reported being bullied because they were seen as different. Several (26%) participants reported difficult emotional experiences including `anxiety' and `feeling unhappy'.
+Mandy (dyspraxia, ADD)--identified after university
+
+I mean at school, I had no friends. That's another way my disability affected me--I had very few friends. I was bullied very badly at school as well. (y) It was worst in secondary school and I had no friends basically so I was very isolated. I was always chosen last for a team or just with anything but that was just awful, my teenage years were absolutely dreadful.
+Nine participants spoke of poor treatment by their teachers, lecturers or educational staff both before and after identification. Seven participants reported that their teachers or lecturers had described them using unpleasant epithets and showed general hostility towards them, which sometimes resulted in the participant accepting the criticism as valid.
+Christine (dyslexia, dyspraxia). Identified at university. She was told by her teachers that she was a `slow learner'.
+I knew I had trouble with spelling and everything else but I just thought that was because I was a slow learner, because if you're told something it's going to become an ingrained belief within your system (y) Oh well, I'm a slow learner, that's why I can't do this, that's why I can't do that.
+Five participants used criticism more positively, claiming that it made them more determined to achieve and to prove that their teachers and lecturers were wrong. Such participants often found that being formally identified gave them considerable ammunition to do this.
+
+Identification of neurodiversity
+When asked about the factors that led to formal assessment, the interviewees generally referred to three ways of being recognized as neurodiverse: by their parents (30%), by their teachers (30%), or through self-discovery (19%).
+The process of being formally identified was a significant area of concern for most of the interviewees and usually consisted of: pre-screening, formal assessment, explanation and adaptation to their diagnostic label. Many participants talked in depth about their experience of formal assessment;
+
+Copyright r 2009 John Wiley & Sons, Ltd.
+
+DYSLEXIA 15: 23-41 (2009) DOI: 10.1002/dys
+
+30 E. Griffin and D. Pollak
+several (22%) referred to it as being an `odd' or `strange' experience. Nearly a quarter of the participants found the assessment procedure to be negative in some way; for example either the explanation was unclear, the assessor unpleasant or they were given limited information in preparation for the test. However, an equivalent number of participants reported that the assessment procedure was a positive experience, for example that the assessor was warm and approachable and the test conducted in a relaxed atmosphere.
+Nearly half of the participants talked about the psychologist's report. While some (n 5 5) thought that it accurately described them, several (n 5 6) found it difficult to read and understand. Two participants thought that the contents of the report should have been discussed with them by their assessor. Three participants talked about having the option to discuss their report with the `disability office' at their university.
+
+The label and its meaning
+Six of the 27 participants (22%) expressed unhappiness about their label; they did not like being informed that they had something `wrong' with them or did not want to be branded with a label that they felt had negative connotations.
+Brian (ADHD, dyslexia)
+I didn't really like it because you know, it's like being diagnosed with something, well that's actually what he called it, diagnosing me with ADHD (y) it just sounds like a fault
+Nearly half of the interviewees reported feelings of relief after having received formal identification, because it provided them with reasons for their experiences, their difficulties and their feelings of being different from their peers.
+Mandy (dyspraxia, ADD)
+Well it's explained all my life, explained why I was like I was. It also gave me a purpose in life
+Four participants believed that they exhibited traits of another type of LD alongside their formal label, although none of these participants had pursued any process toward further identification.
+The first research question was designed to explore ways in which neurodiverse students construct their identity. Two main sub-themes repeatedly emerged in the way interviewees viewed their neurodiversity, with most of the participants adhering to either a `medical/deficit' view or a `difference' view.
+
+Medical/Deficit View of Neurodiversity
+Nearly half of the participants (irrespective of their LD) had adopted a medical/ deficit view. This sub-theme was defined by expressions of the view that LDs are medical issues with negative connotations, and comprising either a single deficit or several deficits. Those who held this view frequently used medical terminology such as `suffering' or `symptoms' when talking about their labels. When questioned about their strengths and weaknesses, they would readily talk
+
+Copyright r 2009 John Wiley & Sons, Ltd.
+
+DYSLEXIA 15: 23-41 (2009) DOI: 10.1002/dys
+
+Student Experiences of Neurodiversity in HE
+
+31
+
+about their weaknesses but apparently found it difficult to identify strengths. When they did identify strengths, they tended to claim that these were not directly related to their neurodiversity. Eight (62%) of the students in this group also used language indicative of low academic self-esteem and talked about academic work as an uphill struggle, exacerbated by their neurodiversity. When asked about career ambitions and prospects, eight of these participants expressed confusion, uncertainty and minimal optimism about their future. Of the participants who expressed a dislike of their label, 83% belonged to this group.
+Jack (Asperger's syndrome) was very negative about his neurodiversity. He only talked about his weaknesses and held a medical/deficit view of his label.
+Beforehand you'd think I wouldn't want to have this or I wouldn't want to suffer from that, but when you're told you have it, you can't really do anything about it.
+He also displayed negativity and minimal optimism about his future
+yyou've had this structure, this school structure for twenty years or so and then you've got this empty, there's nothing to look forward to, you've got to get a job for yourself and look after yourself and speak for yourself and take yourself more seriously and just, change the, different mindset really it's a bit of a struggle, I'm thinking, I'm not really looking forward to it that much
+
+Difference View of Neurodiversity
+Eleven (41%) of the participants adopted an alternative, `difference' view of neurodiversity. This group shared the view that, instead of a deficit, neurodiversity was a profile of differences that provided both strengths and weaknesses in many areas of life, particularly in the academic arena.
+Participants in this group were particularly keen to talk about strengths associated with their neurodiversity, and some even started to talk about strengths when asked what their label meant to them.
+John (dyslexia, dyspraxia)
+
+I often find it difficult to concentrate on one task at a time, so rather than take that as weakness, I take my strengths and do three things at once and flip between them before I get bored, so that's kind of how I like to do things
+Ray (dyslexia)
+
+As a dyslexic I tend to see the big picture, whereas a lot of my colleagues are very, very focused, (y) and they forget things. That's always been a strength
+Participants who held a difference view were more likely than those who held a medical deficit view to avoid negative medical terminology and generally did not employ the concept of `deficit' in their discourses. These participants also indicated higher academic self-esteem and confidence in their abilities and many (73%) expressed considerable career ambitions with positive and clear goals. Six of the seven participants who reported experiencing unpleasant epithets from teachers and/or lecturers were from this group.
+Over a third of the interviewees reported a change in their perception of neurodiversity since identification. After identification, participants tended to be
+
+Copyright r 2009 John Wiley & Sons, Ltd.
+
+DYSLEXIA 15: 23-41 (2009) DOI: 10.1002/dys
+
+32 E. Griffin and D. Pollak
+initially exposed to, and subsequently hold to some degree a medical/deficit view, while feeling relieved that their neurodiversity had been identified. Four participants indicated that these feelings of relief decreased over time and accepting the disadvantageous elements of the label was often difficult. Six of those who ultimately developed a difference view were particularly influenced by interaction with other neurodiverse individuals, for example through support groups or through internet resources.
+Kat (dyslexia) talking about Internet research into dyslexia
+It just helped me realise that I wasn't, there wasn't anything wrong with me, I just had stronger and weaker points of myself
+A striking finding was the contrast between participants' beliefs about their neurodiversity and the language they reported was applied to them by their teachers. When previous educational experiences included the use of negative epithets by teachers, participants often reported a determination to prove them wrong. These participants mainly held a `difference' view of their neurodiversity.
+
+The School, 6th Form and College
+Nearly two-thirds of the participants reported difficulties in their compulsory education, which included: social interactions with peers, unfair treatment from teachers, problems with learning and academic work and unaccommodating practice. Even after identification, these participants reported difficulties, including a lack of support and understanding from both the staff and the school, and limited academic provision.
+John (dyslexia, dyspraxia)
+
+I felt like a bit of a guinea pig at primary school. I had some classic examples of weird `we can cure dyslexia' type moments where you would be standing up against the wall and throwing a ball against the wall with your left hand and catching it with your left hand.
+Some reported being supported at school after identification through a supportive system and extra provision (n 5 5), and encouraging teachers (n 5 3).
+Jack (Asperger's syndrome)
+
+The teachers started helping me when they heard, when they were told I had Asperger's and I got a help teacher there and they were made aware of the situation so kind of accommodated me a bit better
+Some participants were angry because their schools did not identify their neurodiversity and felt that the outcome of their education would have been better if their schools had been more aware.
+Antonia (dyslexia)
+
+I was really angry, I didn't understand why no one had noticed it before and I'm the only one that's noticing these things when teachers should have been doing it or when I'd been failed by so many teachers
+
+Copyright r 2009 John Wiley & Sons, Ltd.
+
+DYSLEXIA 15: 23-41 (2009) DOI: 10.1002/dys
+
+Student Experiences of Neurodiversity in HE
+
+33
+
+The seven older participants in the study (435 years old) all reported minimal (if any) support and recognition of their neurodiversity during their compulsory education.
+
+University Support
+Twenty-two of the participants (including all of the current students) had received or were receiving extra support from their HEI. Twenty-one of these participants had been or were funded by the DSA and received assistance from their institution's disability department. The type and quantity of support varied between participants, as did perceptions of its quality. They generally perceived the support as coming from several individual areas within the university. Some reported that the availability and quality of support varied considerably between the areas, and that there were conflicts and communication difficulties between each area. This led to some students feeling that they were not consistently supported by the system.
+The process of formal identification felt strange to several of the participants in this study. While there were mixed positive and negative views about the assessment itself, the subsequent explanation by the assessor was frequently reported as being limited. For several it consisted of little more than the report, which some of the participants found difficult to understand.
+
+Disability Office, Support Tutors and Mentors
+Fifteen of the participants were pleased with the support they had received from their university disability office (or equivalent) and found them approachable and understanding. These participants referred to the services offered by the disability office as being `very good' and `really helpful'. This also included the provision for learning support and mentoring.
+Andrea (acquired dyslexia)
+
+yeverything has been great in that office over there, they've been gems, tried to help me so much
+The majority (86%) of participants who received assistance from support tutors and mentors formed a good relationship with them and were pleased with the help offered. These participants generally indicated that this relationship was an integral part of the support. Several (n 5 3) talked about how the support extended into their private lives, including emotional and personal support.
+Alvin (dyslexia) talking about relationship with support tutor
+
+It did everything that the software couldn't. It was amazing. And it extended into my personal life as well
+Two participants reported inadequate or inappropriate support from the disability office, which included insufficient assistance and unhelpful views from tutors.
+Liz (dyslexia)
+
+I would have somebody see me but they were doing things with me about sentence structures and spellings and I was saying `that doesn't help me, I need it to be focused to write the essay, I haven't got the time to learn all these things'
+
+Copyright r 2009 John Wiley & Sons, Ltd.
+
+DYSLEXIA 15: 23-41 (2009) DOI: 10.1002/dys
+
+34 E. Griffin and D. Pollak
+Lecturers and Tutors
+Perceptions of the quality and quantity of support offered by lecturers and tutors varied widely across the sample. Many of the participants spoke of experiences with both supportive and unsupportive lecturers and tutors. Nearly half reported difficulties with at least one of their lecturers or tutors. The most commonly reported issue (n 5 7) was a lack of awareness and understanding of neurodiversity, such as ignorance in understanding the nature of LDs, and how such students should be supported.
+Sheila (dyslexia, dyspraxia)
+
+So I think, I think that a lot of them could do with, it just being explained to them. Its people have dyslexia etc, etc, but not really how it can affect them in their studies
+A few felt that some of their lecturers were sceptical about the existence of specific LDs, particularly dyslexia, and seemed hold the opinion that LDs were just used as an excuse to obtain extra time in exams and extensions on coursework deadlines. Negative attitudes towards neurodiversity were also reported.
+Nuala (dyslexia)
+`I've had some really nasty comments from lecturers before. I've been told before that I couldn't get above a certain grade because I was dyslexic. When I, I went to see a lecturer about my essay he told me that there was no point aiming for any higher because you're dyslexic'
+Several participants reported conflict between lecturers and disability office staff around the support students were entitled to. In some cases lecturers ignored the student's learning support agreement (or equivalent), adversely affecting the student's ability to learn effectively.
+Several participants reported difficulties with the accessibility of course delivery, including: delivery of materials, lack of handouts, handouts printed on inappropriate paper in difficult fonts, limited online information, minimal feedback on coursework and difficulties contacting lecturers and tutors.
+Nuala (dyslexia)
+ythey don't give us handoutsy you know it's kind of you are trying to write the notes which I can never write fast enough
+Eight participants talked about helpful and supportive lecturers and tutors who showed an awareness and understanding of neurodiversity, and how it can affect students' learning.
+John (dyslexia, dyspraxia)
+I think some of them are very aware. I've encountered some excellent examples of good practice
+These participants reported that lecturers and tutors taught in a user-friendly manner and ensured accessible delivery of information. Several reported experiences with innovative methods of course delivery.
+
+Copyright r 2009 John Wiley & Sons, Ltd.
+
+DYSLEXIA 15: 23-41 (2009) DOI: 10.1002/dys
+
+Student Experiences of Neurodiversity in HE
+
+35
+
+Christine (dyslexia, dyspraxia)
+
+One lecturer, she sticks everything on the intranet, everything. Other lecturers print stuff out give it to you. They're always willing to give stuff to you. And if you do need any help they'll give you help. It seems like people are always there and you can knock on their doors and it's not a factor
+While the perception of lecturers and tutors was generally more negative than positive, several participants talked about being strongly encouraged and inspired by those lecturers and tutors who were supportive and understanding.
+
+Social Life
+Nearly two-thirds of the sample spoke about the social difficulties they experienced, which they described as associated with their neurodiversity. Previous negative social experiences by interviewees were associated with reduced social confidence. Some (n 5 3) reported having severe social anxiety in certain situations and five participants found it particularly difficult to form relationships.
+Sheila (dyslexia, dyspraxia)
+When I'm in a club, I'm like `what do you say?' I go up to them and go `hi' and they're like `hi', and then I get confused--then I just walk away (laughs)
+Learning Styles and Strategies
+Participants were generally aware of their learning styles and reported similar preferences for particular learning strategies. Nearly half of the participants reported a preference for visual thinking and learning techniques.
+John (dyslexia, dyspraxia)
+I'm very much a visual thinker, very much a visual person. I have to have visual reminders of stuff I need to do, like turning up to meetings
+Seven participants who had difficulties with literacy reported benefits from using reading strategies such as converting to a larger font size, taking regular breaks and using coloured overlays. Sixteen of the sample used some method of assistive technology to help them study. Strategies for organisztion were mentioned by nine participants.
+Sebastian (Asperger's syndrome)
+In terms of organising myself, it largely revolves around the prioritising and task lists and writing down in my diary when all the deadlines are due. Another strategy I've used is I've actually made this wall, I've made like a list of all the deadlines and stuck it on the wall
+
+DISCUSSION
+
+This study focused on developing an understanding of the educational and life experiences of current and previous university students who had been labelled as
+
+Copyright r 2009 John Wiley & Sons, Ltd.
+
+DYSLEXIA 15: 23-41 (2009) DOI: 10.1002/dys
+
+36 E. Griffin and D. Pollak
+having one or more LDs, and particularly how people construct their identity as `neurodiverse'.
+Using thematic analysis, we found high similarity in the experiences reported by our group of participants, which was particularly striking given the broad range of neurodiversity categories sampled. This suggests that such students interact with the medical/psychological system, the educational system and their family and peers in similar ways and generate comparable meanings in response to these interactions, irrespective of their type of LD. Commonalities of experience were identifiable both before and after formal identification of neurodiversity and included: similarities in experiences at school and leading up to assessment, in the construction of identity as neurodiverse, in experiences with university support and in preferences for particular teaching and learning styles. Similar cognitive preferences were also identified such as for multi-sensory learning styles as opposed to the traditional print-based learning methods or a preference for visual learning styles and strategies.
+Our sample generally painted a negative picture of their compulsory education. Many were singled out by teachers as academically substandard, both before and after they had been formally identified. Students with LDs constitute a challenge to education in terms of learning, teaching and assessment (Pollak, 2009). In dealing with these challenges, the educational system in the UK has tended to `remedialise' all students on the neurodiversity spectrum, and this most likely contributes to the negative experiences and damage to self-worth experienced at school and university.
+Students with LDs, and particularly those that have not yet been identified, are particularly prone to arriving into HE with emotional `baggage' from their prior schooling (Pollak, 2005a). The participants reported experiencing difficulty in the education system prior to being assessed, including negative treatment by teachers as well as branding with unpleasant epithets prior to being finally identified. While some reported experiences with encouraging and supportive teachers, these were in the minority of responses. Younger participants generally reported higher awareness among teachers than did the older ones, indicating an improvement in knowledge about LDs. However, some reported that the knowledge held by teachers was limited and that few were aware of how LDs affected the personal lives of those identified with them. This result highlights the need for greater awareness of LDs in schools.
+Participants referred to three ways of being recognized: by parents, by teachers/lecturers or by self-awareness. Previous studies have noted such awareness on the part of parents (Pollak, 2005a; Riddick et al., 1999), but increased recognition of neurodiversity by lecturers and teachers seems to be an encouraging development. This apparently increased awareness was mirrored in the interviews with university staff, who reported improved understanding among certain colleagues, but pointed out that it was an area in which not all tutors and lecturers were in agreement.
+
+Identity as Being Neurologically Diverse
+Grant (2005) proposes that being dyslexic and/or dyspraxic is much more than simply experiencing difficulties in certain areas and therefore impacts upon
+
+Copyright r 2009 John Wiley & Sons, Ltd.
+
+DYSLEXIA 15: 23-41 (2009) DOI: 10.1002/dys
+
+Student Experiences of Neurodiversity in HE
+
+37
+
+many other areas of the lives of those identified with them. Pollak (2005a) also emphasized that experiencing dyslexia has a significant role in the identity of such people. The current study showed that a student's sense of neurodiversity is clearly related to the meanings their label gives them and that this is related to previous educational experiences, career ambition and academic and social selfesteem. The two sub-themes of neurodiversity identified in this study (the `medical/deficit' view and the `difference' view) are broadly similar to two discourses of dyslexia identified by Pollak (2005a).
+Approximately half of the participants held a `difference' view of their neurodiversity, which is consistent with a navigation towards the social model of disability. Participants who held this view seemed to show greater academic selfesteem and ambition, yet many reported difficult times at school and the experience of negative attitudes towards neurodiversity from teachers at earlier educational levels. It is, therefore, feasible that these experiences influenced these participants to take a more determined and activist approach to their education. Consistent with this idea, many of these participants initially held a `medical/ deficit' view, with their views changing after joining groups such as DANDA, or by meeting other people with a similar type of neurodiversity.
+The two broad views of neurodiversity held by the participants in this project may simply mirror general views of disability in society. However, the difference view seemed to have clear advantages for participants' self-esteem and educational aspirations.
+
+What are the Implications for the HE Sector with Regard to Learning, Teaching and Student Support?
+The results of the investigation suggest that while HEIs have become more accommodating over recent years, there remains a need for greater communication between departments, particularly in breaking down the `glass wall' (Mortimore, 2008) that separates attitudes and practice between disability staff and academic staff. Our results also indicate a perceived need for greater understanding of neurodiversity among academic staff. Many of the participants reported negative attitudes towards neurodiversity from some HE lecturers, which is consistent with Newman's (2008) recent suggestions that some HE staff are concerned that reasonable adjustments lead to unfair advantages for neurodiverse students. It also suggests that some staff are suspicious of the rising numbers of dyslexic students, and of the credibility of dyslexia as being a disability.
+In terms of preparation for the workplace, there is a need for university careers teams to be able to help neurodiverse students, both with work-related personal organization strategies and advice on self-disclosure and the law. Many of the participants expressed a preference for visual learning. The visual and multi-sensory teaching methods, which are gradually becoming more popular among HEIs (Chipps, 2006), may benefit these students. Assistive technology played an important role in the educational lives of many of the participants. Limited access to, and availability of, such technology was reported by some of the current students in this study, as was limited instruction on how to use the products. Universities should be exploring the central provision of assistive packages and making use of multi-modal technologies, which are often beneficial to neurotypical students as well.
+
+Copyright r 2009 John Wiley & Sons, Ltd.
+
+DYSLEXIA 15: 23-41 (2009) DOI: 10.1002/dys
+
+38 E. Griffin and D. Pollak
+An alternative and somewhat idealistic solution to the current situation would be for HE institutions to increasingly become inclusive environments where impairments would not have to be disabling, and students, despite any labels, would be treated equally. Courses could adopt if possible alternative methods of teaching and learning such as using a multi-sensory approach. Assessment would need to come in various forms and again offer more choice to students; targeted provision for students with LDs might be delivered through a generic learning support system, as suggested by Riddell et al. (2005).
+
+CONCLUSION
+There is more to the lives of neurodiverse students than simply their label. Increased recognition of this would increase understanding of LDs in HE, and help improve areas of support. Government targets aim to increase the proportion of young people attending university to 50%. This will undoubtedly result in even more neurodiverse students entering HE. While course delivery and assessment procedures are becoming more accommodating, certain aspects of HE are still largely inaccessible. Staff awareness is often inadequate, but there is a very good reservoir of knowledge in the learning support units, and better liaison is therefore needed. Projects such as the AchieveAbility Network (2007) are working on good resources for FE and the InCurriculum Project (2008) is doing the same for HE.
+Finally, this study has revealed the powerful effect language can have on neurodiverse people. The medical language so often involved in discourse about LDs helps maintain the perception of them as deficits. Rice and Brooks (2004, p. 87) assert that the label `dyslexic' stigmatizes students. They add: `We should not be surprised if the word `dyslexic' eventually goes the way of `spastic' and for much the same reason (y) (T)he world of (y) teaching and learning might be no poorer if it did'. There are numbers of other labels that might be on the same trajectory.
+
+APPENDIX A INTERVIEW PROMPTS AND QUESTIONS FOR STUDENTS
+Assessment and Labels
+Label(s) given for their neurodiversity. The assessor. When and where they were assessed. What their label means to them. Changes in feelings towards label(s).
+
+Education and University Life
+Neurodiversity and school career.--How well did your school accommodate your way of learning? Feelings about applying to university. Academic life at university. The difficulties of being a student.
+
+Copyright r 2009 John Wiley & Sons, Ltd.
+
+DYSLEXIA 15: 23-41 (2009) DOI: 10.1002/dys
+
+Student Experiences of Neurodiversity in HE
+
+39
+
+Social life at University.--Do you think your type of neurodiversity affects your social life in general? University support.--What is the university getting right and wrong? Recommendations for improvements Future career/life in general in relation to neurodiversity. University careers advice.
+
+Learning
+Academic strengths and areas of success. Methods for learning. Strategies for other aspects of student life. Assistive technology.
+
+Closing Question Are there any other issues you want to mention which we have not yet covered?
+
+APPENDIX B INTERVIEW PROMPTS AND QUESTIONS FOR UNIVERSITY STAFF AND EMPLOYED GRADUATES
+Assessment and Labels
+Label(s) given for neurodiversity. The assessor. When and where they were assessed. What their label means to them. Changes in feelings towards label(s).
+
+Education and University Life
+Degrees and academic qualifications. Neurodiversity and school career--How did your type of neurodiversity affect your educational career leading up to your present post? Academic life as a university student. Social life at University.--Social life in general. University Support. What did the university get right and wrong? Further study plans.
+
+Learning
+Strengths/areas of success. Methods for learning. Assistive technology.
+Copyright r 2009 John Wiley & Sons, Ltd.
+
+DYSLEXIA 15: 23-41 (2009) DOI: 10.1002/dys
+
+40 E. Griffin and D. Pollak
+Employment Disclosure--What is your view of disclosure in the workplace? Support from place of employment.--What is it getting right? What is it failing to do? What strengths do you bring to your job?
+Extra Prompts and Questions for HE Staff Self-disclose to students. University and accessible course delivery. Changes to the way courses are delivered and assessed. Teaching and neurodiversity.
+Closing Question Any other issues you want to mention which we have not yet covered?
+
+ACKNOWLEDGEMENTS
+This study was funded by the Higher Education Academy under the National Teaching Fellowship Scheme.
+
+REFERENCES
+AchieveAbility (2007). Breaking barriers to higher education for students with specific learning differences. ohttp://www.achieveability.org.uk/4, Accessed 26.02.08.
+Boyatzis, R. E. (1998). Transforming qualitative information: Thematic analysis and code development. London: Sage.
+Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. Qualitative Research in Psychology, 3(2), 77-101.
+British Dyslexia Association (BDA) (2006). Definition of dyslexia. ohttp://www.bdadyslexia. org.uk/downloads/Part%201%20What%20is%20dyslexia.doc/4, Accessed 26.02.08.
+British Psychological Society (2006). Code of conduct and ethical guidelines. ohttp://www. bps.org.uk/the-society/ethics-rules-charter-code-of-conduct/code-of-conduct/ethicalprinciples-for-conducting-research-with-human-participants.cfm/4.
+Chipps, C. (2006). Visual teaching strategies in the design management curriculum. In Proceedings of the D2B design management symposium, Shanghai.
+DANDA (2008). Developmental adult neuro-diversity association. ohttp://www.danda.org.uk/4, Accessed 26.02.08.
+Deponio, P. (2004). The co-occurrence of specific learning difficulties: Implications for identification and assessment. In G. Reid, & A. Fawcett (Eds.), Dyslexia in context: Research policy and practice. London: Whurr.
+Glennon, T. J. (2001). The stress of the university experience for students with Asperger syndrome. Work, 17(3), 189-190.
+Grant, D. W. (2005). That's the way I think: Dyslexia and dyspraxia explained. London: David Fulton.
+Harmon, A. (2004). Neurodiversity forever: The disability movement turns to brains. The New York Times, 9 May.
+
+Copyright r 2009 John Wiley & Sons, Ltd.
+
+DYSLEXIA 15: 23-41 (2009) DOI: 10.1002/dys
+
+Student Experiences of Neurodiversity in HE
+
+41
+
+HESA (2006). First year UK domiciled HE students by qualification aim, mode of study, gender and disability 2005/6. ohttp://www.hesa.ac.uk/dox/dataTables/studentsAndQualifiers/ download/disab0506.xls/4, Accessed 26.02.08.
+InCurriculum (2008). Developing the AchieveAbility of an inclusive curriculum in Higher Education drawn from learning and teaching strategies for students with specific learning differences. ohttp://www.incurriculum.org.uk/4, Accessed 26.02.08.
+Jamieson, J., & Jamieson, C. 2004. Managing Asperger syndrome at college and university: A resource for students, tutors and support services. London: Fulton.
+Johnson, J. (2000). Students with disabilities in post secondary education--Issues and trends for a new decade. West Perth: Edith Cowan University.
+Kaplan, B., Dewey, D. M., Crawford, S. G., & Wilson, B. N. (2001). The term co-morbidity is of questionable value in reference to developmental disorders: Data and theory. Journal of Learning Disabilities, 34(6), 555-565.
+Leicester, M., & Lovell, T. (1994). Race, gender and disability: A comparative perspective. Journal of Further and Higher Education, 18, 52-56.
+Mason, J. (1996). Qualitative researching. London: Sage.
+Mortimore, T. (2008). Dismantling the glass wall between learning support and academic department: Establishing inclusive practices across a university. In Dyslexia: Making links. Seventh BDA international conference, Harrogate.
+Newman, M. (2008). Rise in dyslexia support sparks fairness concern. Times Higher Education, January 2008 No. 1,828.
+Pollak, D. E. (2005a). Dyslexia, the self and higher education: Learning life histories of students identified as dyslexic. Stoke on Trent: Trentham.
+Pollak, D. E. (Ed.). (2005b). Neurodiversity in FE and HE: Positive initiatives for specific learning differences. Conference proceedings. Leicester: De Montfort University.
+Pollak, D. E. (2009). Drawing the threads together. In D. E. Pollak (Ed.), Neurodiversity in higher education: Practical responses to specific learning differences. Chichester: Wiley Blackwell, in press.
+Rice, M., & Brooks, G. (2004). Developmental dyslexia in adults: A research review. National Research and Development Centre for Adult Literature and Numeracy.
+Richards, T., & Richards, L. (2007). NVIVO 7. Australia, QSR International Pty.
+Riddell, S., Tinklin, T., & Wilson, A. (2005). Disabled students in higher education: Perspectives on widening access and changing policy. London: Routledge.
+Riddick, B., Sterling, C., Farmer, M., & Morgan, S. (1999). Self-esteem and anxiety in the educational histories of adult dyslexic students. Dyslexia, 5(4), 227-248.
+Simpson, A. E. (2004). Teachability. ohttp://www.teachability.strath.ac.uk4, SHEFC/University of Strathclyde, Accessed 26.02.08.
+Stampoltzis, A., & Polychronopoulou, S. (2008). Dyslexia in Greek higher education: A study of incidence, policy and provision. Journal of Research in Special Educational Needs, 8(1), 37-46.
+Waterfield, J. (2005). Staff- student partnership for assessment change and evaluation. ohttp:// www.plymouth.ac.uk/pages/view.asp?page 5 104944, HEFCE/University of Plymouth, Accessed 26.02.08.
+
+Copyright r 2009 John Wiley & Sons, Ltd.
+
+DYSLEXIA 15: 23-41 (2009) DOI: 10.1002/dys
+
+

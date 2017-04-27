@@ -1,0 +1,473 @@
+1WP0Er.Ro1s1Sc7Oh7N/eA0t 1aL4lI.6T/1Y6SA7E2NL0FD3-2RS5EO6G9CU2I1ALLATPISOYCNHOOFLUONGAYTBTUAILNLAEBTLINE GOALS
+
+Adaptive Self-Regulation of Unattainable Goals: Goal Disengagement, Goal Reengagement, and Subjective Well-Being
+
+Carsten Wrosch Concordia University
+Michael F. Scheier Carnegie Mellon University
+Gregory E. Miller University of British Columbia
+Richard Schulz University of Pittsburgh
+Charles S. Carver University of Miami
+
+Three studies examined associations between goal disengagement, goal reengagement, and subjective well-being. In Study 1, 115 undergraduates reported on the extent to which they were able to abandon unattainable goals and reengage their efforts in alternative goals. Study 2 examined the importance of goal disengagement and goal reengagement in groups of young adults and older adults (N = 120). In Study 3, a sample of parents of children with cancer and parents of medically healthy children was examined (N = 45). The findings confirmed that goal disengagement and goal reengagement can be associated with ratings of high subjective well-being. In addition, the results showed that goal disengagement and goal reengagement can have interactive effects on subjective well-being. The importance of the findings for effective self-regulation and successful development are discussed.
+Keywords: self-regulation; goal adjustment; disengagement; goals; well-being
+Research on self-regulation and adaptive human
+behavior often emphasizes the role played by goal attainment, along with the attendant processes and variables that support the attainment of goals, such as persistence, self-efficacy, or optimism (e.g., Bandura, 1977; Carver & Scheier, 1981; Heckhausen & Schulz, 1995). Indeed, being optimistic, believing in one's own competencies,
+
+and staying persistent have been shown to be related to subjective well-being and good health (e.g., Bandura, 1997; Carver et al., 1993; Freund & Baltes, 1998; Scheier et al., 1989; Seligman, 1991).
+In this article, we argue that persistent pursuit of personal goals is only part of adaptive self-regulation and that an equally important part is played by a set of processes that lead to the exact opposite outcome--giving up personal goals. Specifically, we propose that in situations in which people are confronted with unattainable goals, benefits accrue from the capacities to abandon goal-directed activities and to reengage in valued alter-
+Authors' Note: Preparation of this article was supported in part by grants from the National Institute of Mental Health (R01 MH 46015, R01 MH52247, T32 MH19986); National Institute on Aging (AG13305, AG01532); National Heart, Lung, and Blood Institute (P50 HL65111, P50 HL65112); National Cancer Institute (P50 CA84944-01, R01 CA64710, R01 CA64711, R01 CA78995); Concordia University (FRDP); and "Fonds de la recherche sur la societe et la culture, Quebec" (FQRSC). Funding for Study 3 was provided by the Pilot Project Program administered through the Pittsburgh Mind-Body Center. Correspondence concerning this article should be addressed to Carsten Wrosch, Concordia University, Department of Psychology, 7141 Sherbrooke Street West, Montreal, QC, H4B 1R6, Canada; e-mail: wrosch@vax2.concordia.ca.
+PSPB, Vol. 29 No. 12, December 2003 1494-1508 DOI: 10.1177/0146167203256921 (c) 2003 by the Society for Personality and Social Psychology, Inc.
+
+1494
+
+Wrosch et al. / SELF-REGULATION OF UNATTAINABLE GOALS 1495
+
+native goals. An important implication of this proposition is that adaptive self-regulation of unattainable goals depends on the availability of alternative goals toward which people can direct their efforts. By having new goals available and reengaging in those new goals, a person can reduce the distress that arises from the desire to attain the unattainable while continuing to derive a sense of purpose in life by finding other pursuits of value.
+Why Are Some Goals Unattainable?
+People cannot always attain their goals. For example, sociostructural, biological, and normative factors can reduce the opportunities for goal attainment as people advance in age (Heckhausen & Schulz, 1995). Biologically and socially determined rules govern when people should retire, and there are implicit age norms guiding important life transitions (Baltes, Cornelius, & Nesselroade, 1979; Neugarten, 1969). The sequential nature of development also requires individuals of all ages to go through different life stages (Havighurst, 1973), frequently forcing them to leave valued activities behind. For example, people who leave their childhood homes to develop a career might lose the opportunity to pursue activities that were valuable and important to them when they were growing up.
+Opportunities for goal attainment also are influenced by other factors, such as negative life events (Dohrenwend & Dohrenwend, 1974) and changes in the sociostructural conditions of development (Held, 1986; Wrosch & Freund, 2001). For example, people who face the death of a close relative, a divorce, unemployment, or involuntary retirement may not be able to pursue some of their goals (e.g., growing old together, buying a house).
+Another constraint on goal pursuits stems from the assumption that selective investment of personal resources is a requirement of successful development (e.g., Baltes & Baltes, 1990; Schulz & Heckhausen, 1996). Given that personal resources are limited, people have to make decisions about how to invest their time and energy and which goals to pursue. To focus personal resources on managing the most important of life tasks, individuals may have to stop pursuing other goals. For example, people may disengage from leisure goals to secure the attainment of career or family goals.
+Adaptive Self-Regulation of Unattainable Goals
+Confronting unattainable goals, along with the experience of failure and stagnation of progress toward goal attainment, may result in reduced well-being and enhanced psychological distress (Carver & Scheier, 1990). To regulate these negative effects, we have argued that a person's capacity to withdraw effort and commitment
+
+from an unattainable goal (i.e., goal disengagement) (Wrosch, Scheier, Carver, & Schulz, 2003) is an adaptive facet of effective self-regulation (see also Carver & Scheier, 1998; Klinger, 1975; Wortman & Brehm, 1975; Wrosch & Scheier, 2003). Disengagement from pursuing an unattainable goal may help a person avoid accumulated failure experiences (e.g., pursuing a fight that cannot be won) (Nesse, 2000). In addition, goal disengagement may help to redefine the goal as not necessary for satisfaction in life (cf. Sprangers & Schwartz, 1999) and thereby allow a person to accommodate to the inability of reaching the goal (Brandtstadter & Renner, 1990). On a long-term basis, disengagement from unattainable goals also may free personal resources (e.g., time and energy) that can be used to promote beneficial effects in other areas of life.
+In support for our theoretical argument, researchers working within a variety of different life domains have reported beneficial effects of disengagement from unattainable goals. For example, goal disengagement has been shown to relate to high levels of subjective wellbeing in people who have developed AIDS (Moskowitz, Folkman, Collette, & Vittinghoff, 1996), who had handicapped children (Tunali & Power, 1993), who experienced a partnership separation in late midlife (Wrosch & Heckhausen, 1999), and in women whose biological clock for having their own children had run out (Heckhausen, Wrosch, & Fleeson, 2001). In complementary fashion, cognitive concomitants of failed disengagement such as rumination and the maintenance of unrealistic intentions have been shown to be related to periods of distress and depression (Carver, La Voie, Kuhl, & Ganellen, 1988; Kuhl & Helle, 1986; Nolen-Hoeksema, Parker, & Larson, 1994).
+Although the reported studies document that researchers have started to address the importance of goal disengagement, the research to date has been somewhat limited in scope, for at least two reasons. First, there has been a tendency in this work to focus on very specific, concrete goals. Left unexamined is the possibility that people might vary more generally in their ability to disengage from unattainable goals. Stated differently, some people might have an easier time disengaging from unattainable goals than others, regardless of the specific nature of the unattainable goals that are encountered. Second, little attention has been given to a second process that may be equally important in the self-regulation of unattainable goals. This process includes the identification of alternative goals, the infusion of those goals with value, and the initiation of activities directed toward goal attainment (all aspects of what we have discussed elsewhere under the rubric of goal reengagement) (Wrosch et al., 2003).
+
+1496 PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+In this regard, we argue that goal reengagement plays an important role in adaptive self-regulation. Other things being equal, the occurrence of an unattainable goal may be particularly problematic if a person has no valuable alternative goals available toward which thoughts and energy can be redirected. If a self-relevant goal proves unattainable and a person is not able to engage in other meaningful activities, then the person may experience high levels of psychological distress (Carver & Scheier, 1999). In contrast, engagement with a valued alternative activity may alleviate the negative consequences associated with the experience of failure in goal pursuit.
+It is important to note that goal disengagement and goal reengagement are somewhat independent processes (cf. Carver & Scheier, 1998; Scheier & Carver, 2001). For example, a person may disengage from an unattainable goal first and only later start to pursue a new goal. Alternatively, a person may begin to pursue a new, novel goal without letting go of the unattainable goal first. Presumably, goal reengagement would be beneficial for both types of people. In the first case, goal reengagement may provide purpose for living (Ryff, 1989) after a self-relevant goal is abandoned and thereby prevent a person from experiencing feelings of aimlessness or emptiness (Carver & Scheier, 1999). Consistent with this notion, pursuit of meaningful goals has been shown to be related to a sense of coherence and feelings of control (Antonovsky, 1987; Kobasa, 1979; Ryff & Keyes, 1995).
+As just noted, we believe that reengagement with new goals also may benefit people who stay committed to the pursuit of an unattainable goal. For example, research has demonstrated that after the decision to pursue a new goal has been made, people tend to shift in thought content toward the newly adopted goal (e.g., Gollwitzer, Heckhausen, & Steller, 1990). In addition, Wrosch and Heckhausen (1999) reported that engagement in social goals (e.g., elaborating friendships) correlates with longitudinal declines in partnership-specific negative affect among separated people. Considering these effects of pursuing alternative goals, we argue that the psychological benefits deriving from the engagement with a novel goal also may compensate for the distress associated with the continued pursuit of a goal that cannot be attained.
+The Present Research
+The overall aim of the present research was to examine associations between goal disengagement, goal reengagement, and indicators of subjective well-being. Based on evidence that disengagement from specific unattainable goals can be beneficial, we expected that individual differences in general goal disengagement tendencies also would relate positively to subjective well-
+
+being; that is, individuals who generally have an easier time with giving up unattainable goals should report higher levels of subjective well-being than people who have more difficulties disengaging from unattainable goals.
+In addition, we hypothesized that individual differences in general goal reengagement tendencies would facilitate subjective well-being, above and beyond a person's capacity to disengage from unattainable goals. Goal reengagement should benefit the well-being of people who are able to disengage from unattainable goals. In addition, goal reengagement also should be associated with reduced psychological distress among people who tend to persist in their attempts at reaching unattainable goals.
+Finally, to examine comprehensively the interrelations between goal disengagement, goal reengagement, and subjective well-being, we explored the possibility that interaction effects may emerge between both tendencies of goal management. Given that goal disengagement and goal reengagement are somewhat independent processes, it may be that certain profiles of these tendencies are particularly likely to be associated with subjective well-being.
+To test our predictions, we conducted three different studies. Study 1 focused on a group of college undergraduates. We reasoned that adjustment of unattainable goals might be important for college students, considering that they had recently moved to a new environment, often left home for the first time, and were being confronted with managing various time-consuming and resource-intensive tasks at school. In Study 2, we attempted to replicate and extend the findings of Study 1 in an age-heterogeneous sample of young and older adults (see Discussion section of Study 1). Finally, Study 3 examined participants who confronted a more uniform constraint on their goal pursuits. Specifically, Study 3 examined the beneficial effects of goal disengagement and goal reengagement among parents of children who were diagnosed with cancer and parents of medically healthy children.
+STUDY 1
+Method
+PARTICIPANTS
+The participants of Study 1 were 115 undergraduates (age range = 17-23 years, M = 19.35, SD = 1.08) from Carnegie Mellon University who received one credit for participating in a 1-h questionnaire study. Of the sample, 69% was male and 64% was Caucasian; of the nonCaucasian participants, 74% were Asian Americans.
+
+Wrosch et al. / SELF-REGULATION OF UNATTAINABLE GOALS 1497
+
+TABLE 1: Goal Disengagement and Goal Reengagement Scale
+Goal disengagementa It's easy for me to reduce my effort toward the goal. I find it difficult to stop trying to achieve the goal. (-) I stay committed to the goal for a long time; I can't let it go. (-) It's easy for me to stop thinking about the goal and let it go.
+Goal reengagement I think about other new goals to pursue. I seek other meaningful goals. I convince myself that I have other meaningful goals to pursue. I tell myself that I have a number of other new goals to draw on. I start working on other new goals. I put effort toward other meaningful goals.
+NOTE: (-) = items were reversed prior to scale computation. a. In Study 1, the goal disengagement items were assessed for three different situations (see Method section of Study 1 for further details). In Study 2 and Study 3, all 10 items were answered with respect to the following generic item stem: "If I have to stop pursuing an important goal in my life . . . ." This same generic stem was used to cue the goal reengagement responses in Study 1.
+MATERIALS
+Participants were asked to respond to a questionnaire in group sessions and were told that the study would examine relations between life goals and well-being. To provide a contextual frame, the first part of the questionnaire asked the participants to think about the past 5 years and to identify specific self-defined goals that they had to stop pursuing. The questionnaire also included measures of individual differences in general goal disengagement and general goal reengagement tendencies and indicators of subjective well-being.
+Goal disengagement and goal reengagement. To measure general goal disengagement, we assessed the ease with which respondents reported being able to reduce effort and relinquish commitment toward unattainable goals (Wrosch et al., 2003). Two items were developed for each component of goal disengagement: relinquishment of commitment and reduction of effort (see Table 1 for specific item wording). The four sets of goal disengagement items shown in Table 2 (two for relinquishment of commitment and two for reduction of effort) were applied to three different situations in which unattainable goals might arise.
+The first situation involved asking the participants to report how easy it is for them to reduce effort and to relinquish commitment if they no longer have the opportunity to pursue a goal (item stem: "If it becomes likely that I have to stop pursuing an important goal because I no longer have the opportunity to realize it . . . "). The second situation represented unexpected life changes and negative life events that involve constraints on goal pursuits (item stem: "If I face unexpected life changes or negative life event and I cannot
+
+pursue one of my important goals anymore . . . "). The third situation described the need to focus personal resources on managing most central life goals (item stem: "If I need all my time and energy to manage most relevant things in my life and I have to stop pursuing some of my other important goals . . . "). For the third situation, the items were slightly reformulated (e.g., "It's easy for me to reduce my effort toward some of my other goals"). All items were answered using 5-point Likerttype scales (anchored at 1 = almost never true, 5 = almost always true).
+The aggregated scores across the three situations showed satisfactory scale characteristics in terms of scale means, variances, and reliabilities for the relinquishment of commitment subscale (M = 3.13, SD = .67,  = .74) and the reduction of effort subscale (M = 3.05, SD = .64,  = .68). We computed a composite by aggregating the two subscales of reduction of effort and relinquishment of commitment (M = 3.09, SD = .61; correlation between subscales = .72; p < .01) because the main findings involving goal disengagement showed a comparable pattern of results when each of the two indicators was analyzed separately. The items of the aggregated goal disengagement scale showed a Cronbach's alpha of .84.
+We measured the extent to which individuals generally reengage in other new goals if they face constraints on goal pursuits by administering a six-item instrument (with the response format incorporating 5-point Likerttype scales where 1 = almost never true, 5 = almost always true). The six-item instrument contained three two-item sets (for specific item formulation, see Table 1). These two-item sets assessed the tendency (a) to identify new goals, (b) to commit to new goals, and (c) to begin active pursuit of new goals, respectively, when unattainable goals were encountered (item stem used to prompt responses: "If I have to stop pursuing an important goal in my life, . . . "). The six items of the scale showed a Cronbach's alpha of .86 (M = 3.60, SD = .71). The correlation between the goal disengagement and goal reengagement scales was not significant.
+The contextual frame of the study also included questions concerning (a) the ease with which participants reported abandoning their specific self-defined goals and (b) the availability of alternative goals at the time when they had to abandon their specific goals. To obtain preliminary validity information concerning our general goal disengagement and general goal reengagement scales, we correlated the participants' general goal disengagement and goal reengagement tendencies with aggregated scores (across the specific self-defined goals) derived from their responses to the two questions above. The results showed that the general tendency to disengage from unattainable goals was positively correlated with the ease involved in having abandoned specific
+
+1498 PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+TABLE 2: Hierarchical Regression Analyses Predicting Indicators of Subjective Well-Being From Sociodemographic Characteristics, Goal Disengagement, and Goal Reengagement
+
+Predictor
+
+Perceived Stress R2 Beta r
+
+Intrusive Thoughts
+
+R2 Beta
+
+r
+
+Self-Mastery R2 Beta
+
+r
+
+Purpose in Life
+
+R2 Beta
+
+r
+
+Sociodemographics Sexa Raceb
+
+.15**
+
+Main effects
+
+.11**
+
+Goal disengagement (GD)
+
+Goal reengagement (GR)
+
+Interaction
+
+GD x GR
+
+.07**
+
+-.28** -.27** .27** .26**
+-.19* -.13 -.30** -.31**
+.28**
+
+.13** .18**
+
+-.34** .16
+-.26** -.38**
+
+-.34** .14
+-.22* -.36**
+
+.01 .10
+
+.08** .20*
+-.22* .17**
+.19* .40**
+
+.19* -.21*
+.13 .40**
+
+.05** -.22**
+
+.10** .23**
+
+-.08 -.31**
+.02 .49**
+
+-.10 -.31**
+-.09 .53**
+
+.01 .10
+
+NOTE: Betas relate to each step of the analyses. a. 1 = female; 2 = male. b. 1 = Caucasian; 2 = Non-Caucasian. *p < .05. **p < .01.
+
+goals (r = .25, p < .01). In addition, the general tendency to reengage in new goals was positively correlated with the availability of specific alternative goals (r = .29, p < .01).
+Subjective well-being. As indicators of subjective wellbeing, we measured perceived stress, purpose in life, selfmastery, and intrusive thoughts about problems. Perceived stress was assessed by using a 10-item Likert-type scale (Cohen, Kamarck, & Mermelstein, 1983) (anchored at 0 = never, 4 = very often; sample item: "In the last month, how often you felt nervous and stressed?"; M = 1.82, SD = 0.62,  = .85). We measured purpose in life with a 9-item Likert-type scale (Ryff, 1989) (anchored at 1 = strongly disagree, 6 = strongly agree; sample item: "Some people wander aimlessly through life, but I am not one of them" [the item was reversed coded prior to scale computation]; M = 4.64, SD = 0.76,  = .81). Self-mastery was measured by administering a 7-item Likert-type scale (Pearlin & Schooler, 1978) (anchored at 1 = strongly disagree, 5 = strongly agree; sample item: "What happens to me in the future mostly depends on me"; M = 3.68, SD = 0.63,  = .76). Finally, intrusive thoughts about problems was measured with a 6-item Likert-type scale (Wrosch & Heckhausen, 2002) (anchored at 1 = almost never true, 5 = always true; sample item: "I wake up at night thinking about my problems"; M = 2.53, SD = 0.69,  = .78).
+Results
+To test the main hypotheses of relations between goal disengagement, goal reengagement, and indicators of subjective well-being, we conducted separate hierarchical regression analyses that predicted each of the following constructs: perceived stress, intrusive thoughts about problems, purpose in life, and self-mastery.1 In a first step, we included sociodemographic characteristics (gender and race) into the regression equation. Then,
+
+in a second step, the main effects of goal disengagement and goal reengagement were tested for significance. In a third step, we added to the models the interaction term between goal disengagement and goal reengagement.
+The results of the regression analyses are presented in Table 2. Sociodemographic characteristics explained between 8% and 15% of the variance in each of the indicators of subjective well-being. Women as compared to men reported higher levels of perceived stress, higher levels of intrusive thoughts, and lower levels of selfmastery. Non-Caucasians showed higher ratings in perceived stress and lower levels of self-mastery and purpose in life than did Caucasians.2
+The inclusion of the main effects of goal disengagement and goal reengagement into the regression equation (see Table 2) explained significant proportions of variance in all of the indicators of subjective well-being, ranging from 11% (perceived stress) to 23% (purpose in life). Goal disengagement and goal reengagement were each, independently, related to low levels of perceived stress, low levels of intrusive thoughts, and to high levels of self-mastery. Moreover, goal reengagement significantly predicted high levels of purpose in life.
+We also found significant interactions between goal disengagement and goal reengagement with respect to participants' levels of self-mastery and perceived stress (see Table 2).3 To illustrate the significant interactions, we plotted the relations between goal reengagement and indicators of subjective well-being (perceived stress and self-mastery) 1 standard deviation above and below the mean of goal reengagement, employing commonly used regression techniques (e.g., Aiken & West, 1991). Figure 1 shows that goal reengagement was particularly strongly related to high levels of self-mastery (left panel:  = .65, p < .01) and low levels of perceived stress (left panel:  = -.61, p < .01) among students who reported
+
+Wrosch et al. / SELF-REGULATION OF UNATTAINABLE GOALS 1499
+
+5 Self-Mastery 3 Perceived Stress 42
+
+Mean Rating
+
+31
+
+-1 SD
+
++1 SD
+
+Goal Re-Engagement
+
+-1 SD
+
++1 SD
+
+Goal Re-Engagement
+
+Low Disengagement (-1 SD) High Disengagement (+1 SD)
+
+Figure 1 Moderation between goal reengagement and goal disengagement for predicting self-mastery (left panel) and perceived stress (right panel).
+
+difficulties with disengaging from unattainable goals. In contrast, among students who had an easier time disengaging from unattainable goals, the association between goal reengagement and self-mastery was considerably smaller ( = .24, p = .02), and the relation between goal reengagement and perceived stress was nonsignificant ( = -.10, p > .10). In addition, Figure 1 shows that the highest levels of perceived stress and the lowest levels of self-mastery were found among students who reported generally being unable to stop pursuing unattainable goals and who also reported generally not reengaging in other new goals.
+Discussion
+The results of Study 1 offer strong support for the idea that general goal disengagement and goal reengagement tendencies can be positively related to subjective well-being. Both factors explained unique proportions of variance in subjective well-being. Those students who reported being able to disengage from unattainable goals reported particularly low levels of intrusive thoughts and perceived stress and high levels of selfmastery. In addition, those students who were able to reengage in new goals reported high levels in all indicators of subjective well-being. These results support our hypotheses that goal disengagement and goal reengagement tendencies are important factors of adaptive selfregulation that can protect the well-being of people who are confronted with unattainable goals.
+The obtained interaction effects, however, indicate that some of the reported main effects of goal disengagement and goal reengagement on indicators of subjective well-being (i.e., self-mastery and perceived stress) need
+
+to be qualified. Failure in goal reengagement was associated with low levels of self-mastery and high levels of perceived stress, particularly among students who reported difficulties disengaging from unattainable goals. These results partly support our theoretical model by demonstrating that goal reengagement can compensate for the psychological costs associated with the continued pursuit of unattainable goals.
+Another aspect of the reported interactions was not consistent with our prior expectations; that is, we had expected that goal reengagement also would be related to higher levels of subjective well-being among students who generally disengage from unattainable goals. The reported interaction effects, however, indicate that this hypothesis was not confirmed for all indicators of subjective well-being. It is possible that the latter result is related to the young adult age range of the sample. For young adults, it may be sufficient to give up on an unattainable goal without immediately engaging in a new goal. Young adults usually perceive positive expectations concerning their future development, brought on by the social context and normative conceptions of development (Hagestad & Neugarten, 1985). Such optimistic expectations of future-related goal pursuits might reduce the distress of those young adults who have disengaged from an unattainable goal without finding a new goal to pursue. Young adults may be better able to convince themselves that something will come along to engage them later.
+An implication of this argument is that we would expect to find a different pattern of results in people who perceive more constrained opportunities for future development and who do not have a rich set of goals to pursue in the future, such as older adults (Carstensen, Isaacowitz, & Charles, 1999; Heckhausen & Baltes, 1991; Heckhausen & Schulz, 1995; Lang & Carstensen, 2002). Of interest, research in the area of aging has shown that older adults use processes involved in goal accommodation to a greater extent than do young adults (Brandtstadter & Renner, 1990; Heckhausen & Schulz, 1995; Wrosch & Heckhausen, 1999, 2002; Wrosch, Heckhausen, & Lachman, 2000). Given these considerations, older adults' reengagement tendencies may become particularly important when unattainable goals are abandoned. Older adults who give up on an unattainable goal without finding valued alternative goals might be vulnerable to the experience of psychological distress.
+STUDY 2
+Study 2 examined age differences in the relations between goal disengagement, goal reengagement, and emotional well-being. We conducted Study 2 in an attempt to further examine and clarify the interaction effects found in Study 1. We expected to find age-differential
+
+1500 PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+interaction effects between goal disengagement and goal reengagement in predicting participants' wellbeing. In particular, we attempted to replicate the interaction effects found in Study 1 among a second and independent sample of young adults. Moreover, we expected that the capacity to reengage in new goals would become particularly important for older adults who tend to abandon unattainable goals. Those older adults who report high levels of disengagement from unattainable goals but do not easily find valued alternative goals were expected to show compromised levels of subjective wellbeing. Finally, we examined age differences in the ease of goal disengagement and goal reengagement. Based on evidence that the use of processes involved in goal accommodation increases with age (e.g., Wrosch & Heckhausen, 1999), we expected that older, as compared with younger, adults would report an easier time with both goal disengagement and goal reengagement.
+Method
+PARTICIPANTS
+Study 2 examined 120 English-speaking adults from the large metropolitan area of Montreal. Sixty-two participants were young adults (range = 19-35 years, M = 22.47, SD = 2.91) and 58 participants were older adults (range = 55-89 years, M = 69.67, SD = 7.78). Of the sample, 56% was female and 46% of the sample was highly educated (undergraduate degree or more). The distribution of men and women did not differ across the two age groups. However, older adults had received more education (67% highly educated) than young adults (26% highly educated), 2(1) = 20.72, p < .01. The group of young adults was recruited at Concordia University. The group of older adults consisted of a community sample of adults who had previously participated in other, unrelated studies. Each subject received $10 for participating in the study.
+MATERIALS
+We administered a questionnaire to the study participants, including scales of goal disengagement, goal reengagement, and emotional well-being.
+Goal disengagement and goal reengagement. The scale used to assess goal disengagement in Study 2 was slightly different in format from the one used in Study 1. The scale was altered in an effort to make it easier and faster for respondents to complete. The major difference concerned the nature of the item stems to which participants responded. In Study 1, participants answered four questions concerning effort and commitment with respect to each of three different types of blocked goals. In Study 2, no types of blockages were specified. Rather, respondents were asked to respond to the following generic item stem: "If I have to stop pursuing an
+
+important goal in my life . . . ." Participants responded to this stem using the same four core items regarding effort and commitment that were used in Study 1 (see Table 1). This strategy of adopting one generic item stem is supported by the findings of Study 1, which showed that the items of the goal disengagement scale were highly correlated across different situations (e.g., lost opportunities, need to preserve resources).
+Goal reengagement was measured with the same six items used in Study 1. We obtained satisfactory characteristics for both scales: goal disengagement (M = 2.69, SD = 0.83,  = .76) and goal reengagement (M = 3.60, SD = 0.76,  = .89). In contrast to the results from the previous study, however, the scales of goal disengagement and goal reengagement were correlated in Study 2 (young adults: r = .34, p < .01; older adults: r = .55, p < .01).
+Emotional well-being. We assessed emotional well-being via the 20-item Positive and Negative Affect Schedule (PANAS) (Watson, Clark, & Tellegen, 1988). Participants were asked to indicate to what extent they experienced each of 10 negative and 10 positive emotions during the past year (using 5-point Likert-type scales where 1 = very slightly or not at all, 5 = extremely). We obtained satisfactory scale characteristics for both positive affect (M = 3.71, SD = 0.67,  = .88) and negative affect (M = 1.96, SD = 0.73,  = .89). To obtain a global indicator of emotional well-being, we computed an affect balance score (cf. Bradburn, 1969; Fournier & Moskowitz, 2000; Ryff, 1989) by subtracting participants' negative affect score from participants' positive affect score (M = 1.75, SD = 1.00).
+Results
+We tested our hypothesis of age-differential interaction effects of goal disengagement and goal reengagement on emotional well-being by conducting a hierarchical multiple regression analysis.4 In a first step, we predicted participants' affect balance scores by sociodemographic control variables (sex and educational level). In a second step, we tested the main effects of age group, goal disengagement, and goal reengagement for significance. In a third step, we entered the three firstorder interactions among age group, goal disengagement, and goal reengagement into the regression equations. Finally, we tested our main hypothesis by entering the three-way interaction among age group, goal disengagement, and goal reengagement into the regression equation.
+The results of the regression analysis are reported in Table 3. Sociodemographic control variables explained 6% of the variance in emotional well-being. Significant effects were obtained with respect to educational level, F(1, 112) = 4.65, p < .05, and sex, F(1, 112) = 3.88, p < .05. Higher educated participants and men reported higher
+
+Wrosch et al. / SELF-REGULATION OF UNATTAINABLE GOALS 1501
+
+TABLE 3: Hierarchical Regression Analyses Predicting Affect Balance by Interactions Among Age Group, Goal Disengagement, and Goal Reengagement
+
+Predictors
+
+Affect Balance R2 Beta
+
+r
+
+Sociodemographics Sexa Educational levelb
+Main effects Age groupc (AG) Goal disengagement (GD) Goal reengagement (GR)
+Two-way interactions GD x AG GR x AG GD x GR
+Three-way interaction GD x GR x AG
+a. 1 = female; 2 = male. b. 1 = low; 2 = high. c. 1 = young adults; 2 = older adults. p < .10. *p < .05. **p < .01.
+
+.06* .05 .01
+.07**
+
+.18* .20*
+.25* -.07 .09
+-.05 -.05 -.01
+.30**
+
+.16 .19*
+.26** .06 .11
+
+3
+Young Adults
+2
+
+Older Adults
+
+Affect Balance
+
+1
+
+-1 SD
+
++1 SD
+
+Goal Re-Engagement
+
+-1 SD
+
++1 SD
+
+Goal Re-Engagement
+
+Low Disengagement (-1 SD) High Disengagement (+1 SD)
+
+Figure 2 Moderations between goal reengagement and goal disengagement for predicting affect balance separately for young adults (left panel) and older adults (right panel).
+
+levels of emotional well-being than did lower educated participants and women. In the second step of the analyses, we found a significant main effect for age group. Older adults reported higher levels of emotional wellbeing than did young adults, F(1, 109) = 5.35, p < .05. We did not find significant main effects concerning goal disengagement and goal reengagement. In addition, no significant two-way interactions were obtained. However, as expected, we did find a significant three-way interaction among age group, goal disengagement, and goal reengagement in predicting affect balance, F(1, 105) = 9.11, p < .01.
+To further examine the nature of the significant three-way interaction, we repeated the described analyses separately for young adults and older adults and tested the two interactions of goal disengagement and goal reengagement for significance. The analyses confirmed significant interaction effects of goal disengagement and goal reengagement for predicting emotional well-being in both age groups: young adults, F(1, 56) = 5.10, p < .05, R2 = .07, and older adults, F(1, 47) = 4.42, p < .02, R2 = .08.
+Figure 2 illustrates the interaction effects between goal disengagement and goal reengagement in young adults (left panel) and older adults (right panel). Similar to the results of Study 1, goal reengagement was particularly strongly associated with emotional well-being ( = .37, p < .05) among young adults who reported difficulties with disengaging from unattainable goals. In contrast, goal reengagement was not significantly associated with emotional well-being ( = -.10, p > .10) among
+
+young adults who reported an easier time with abandon-
+ing unattainable goals. A contrasting pattern of results was obtained among
+older adults. As illustrated in Figure 2 (right panel), par-
+ticularly low levels of emotional well-being were
+obtained among older adults who reported high levels of
+goal disengagement and who also reported a difficult
+time reengaging in other new goals. Goal reengagement was marginally significantly5 related to higher levels of
+subjective well-being among older adults who had an eas-
+ier time with disengaging from unattainable goals ( = .42, p = .08) and not significantly associated with emotional well-being in older adults who reported difficulties with giving up unattainable goals ( = -.04, p > .10).6
+We tested our hypotheses of age differences in the
+ease of goal disengagement and goal reengagement
+between young adults and older adults by conducting a 2
+x 2 analysis of variance (ANOVA). As dependent variables, we used participants' goal disengagement and
+goal reengagement scores (within-subjects factor). Age
+group was included as a between-subjects factor in the
+analysis. In addition, we included sex and educational
+level as covariates in the analysis. We found a significant
+main effect for age group, F(1, 112) = 10.66, p < .01,  = .09, and a significant effect for the within-subjects factor,
+F(1, 112) = 133.42, p < .01,  = .54. The covariates and the interaction between age group and the within-subjects
+factor were not significant. The significant effect of the within-subjects factor
+implies that the study participants generally reported
+higher scores for goal reengagement (M = 3.60, SD = .76) as compared to goal disengagement (M = 2.69, SD = .83).
+
+1502 PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+More important, as hypothesized, the significant age group effect confirmed that older adults reported higher scores in both goal disengagement (M = 2.96, SD = .75) and goal reengagement (M = 3.75, SD = .74) than did young adults (disengagement: M = 2.45, SD = .83; reengagement: M = 3.46, SD = .77).
+Discussion
+The results of Study 2 confirmed our hypotheses of different patterns of interaction effects in young and older adults. Among young adults, the obtained interaction effect partly replicated our findings from Study 1; that is, consistent with the results from Study 1, goal reengagement tendencies were associated with emotional well-being among those young adults who reported difficulties with giving up on unattainable goals. In contrast, and again consistent with the results from Study 1, goal reengagement tendencies were unrelated to emotional well-being among young adults who reported only few difficulties with giving up on unattainable goals. We note, however, that the interaction that emerged in Study 2 did not take the exact pattern as the interaction that emerged in Study 1; that is, in contrast to the results of Study 1, those young participants who reported few difficulties with disengagement from unattainable goals showed only intermediate levels of emotional well-being (as compared to the higher levels of well-being shown in Study 1). Stated differently, the average well-being scores displayed by participants in Study 2 were displaced downward toward the negative end of the dimension.
+One way to think about these differences in the pattern of interactions that were obtained for young adults across the two studies is to say that the effects of successful disengagement produced less positive consequences in Study 2. It might be that these differences in the general effects of goal disengagement are related to the two different student populations. For example, the young adults of Study 1 were recruited from a private and expensive school in the Unites States, whereas the young adults of Study 2 were recruited from a public school in Canada. It might be that the students of Study 1 had experienced more pressure to successfully regulate their goals. If so, failure to disengage from unattainable goals might have had more severe negative consequences on their subjective well-being. In addition, we have to acknowledge that the students of Study 1 were somewhat younger than the students of Study 2. It also may be that tendencies of goal disengagement are more influential among younger students, who presumably are confronted to a greater extent with managing the transition to a university environment.
+Most important, the interaction effect found among older adults indicated that failed goal reengagement
+
+does relate to compromised levels of subjective wellbeing among older adults who tend to abandon unattainable goals. This result seems relevant in light of contemporary theories of successful aging, which point to the importance of goal disengagement in old age (e.g., Brandtstadter & Renner, 1990; Heckhausen & Schulz, 1995). Our results demonstrated that goal disengagement was associated with higher levels of subjective wellbeing in old age, but only if it is accompanied by high tendencies to engage in other meaningful activities. In contrast, disengagement from unattainable goals can have negative effects in the elderly population if older adults have a difficult time with finding other new goals to pursue (see also Scheier & Carver, 2001; Wrosch et al., 2003). For older adults who do not easily find new goals, it might be better to stay committed to an unattainable goal than to have nothing to pursue in life. In some respects, the pattern of results obtained among older adults supports Heckhausen and Schulz's (1995) notion of the "primacy of primary control." Goal disengagement can facilitate successful development among older adults when it leads to an active pursuit of other new life goals.
+Moreover, the study's results indicated that older adults generally reported having an easier time with giving up unattainable goals and finding new goals to pursue than did young adults. Consistent with previous research (Brandtstadter & Renner, 1990; Schulz & Heckhausen, 1996; Wrosch & Heckhausen, 1999), people seem to adjust their goal management processes as they advance in age. This pattern of age-related change should become particularly beneficial in old age when individuals confront increasingly reduced opportunities for goal attainment. In this regard, it is also important to note that the correlations between goal disengagement and goal reengagement were slightly higher among older adults (r = .55) as compared with younger adults (r = .34), although a post hoc test confirmed that the difference between these correlations was only marginally significant (z = -1.45, p = .07). Both results (the age-related increase in people's abilities to manage unattainable goals and the observed trend of closer relations between goal disengagement and goal reengagement tendencies in old age) indicate that the proportion of elderly individuals who exhibit a maladaptive profile (characterized by low difficulties with giving up unattainable goals and not finding other new goals to pursue) is presumably rather small.
+STUDY 3
+Study 3 was designed to replicate and extend some of the main findings of the first two studies. In Study 3, we examined the importance of goal disengagement and goal reengagement in parents of children with cancer
+
+Wrosch et al. / SELF-REGULATION OF UNATTAINABLE GOALS 1503
+
+and parents of medically healthy children. We conducted Study 3 because considerable variation probably existed between participants of the first two studies in the degree to which their goals were threatened; that is, the nature and severity of the stressors interfering with goal attainment varied from participant to participant. Given these considerations, we decided to examine goal disengagement and goal reengagement processes in a context in which people were being confronted by a more uniform threat.
+Compared to parents of healthy children, parents of children with cancer were expected to have a number of important goal-directed activities challenged by the situation they were confronting (e.g., their ability to continue normal daily routines, follow through on career plans, or engage in regular recreational activities). It is precisely under circumstances such as these, normatively less-expected circumstances in which a person is being confronted with unattainable goals, that selfregulation processes surrounding goal disengagement and goal reengagement should become paramount (cf. Wrosch & Freund, 2001). Those better able to relinquish their desire to pursue unattainable goals and invest that energy elsewhere should adjust better to the negative situation they are confronting than those less able to disengage from blocked goals and reengage elsewhere. Given these considerations, we hypothesized in Study 3 that goal disengagement and goal reengagement would both relate to low levels of depressive symptomatology, but particularly so among parents of children with cancer.
+Method
+PARTICIPANTS
+Forty-five adults participated in Study 3. Twenty of them were parents of children undergoing active treatment for cancer. Twenty-five were parents of medically healthy children. Only one parent from each family was allowed to participate. If both parents were interested in participating, one parent was randomly chosen. Eighty percent of the participants in each group were married. Parents of children with cancer were, on average, 36.9 years old (SD = 5.51, range = 30-47) and received 15.7 years of education (SD = 2.9). Eighty percent were female and 95% were Caucasian. Parents of medically healthy children were, on average, 37.6 years old (SD = 5.46, range = 28-47) and they received 15.5 years of education (SD = 2.2). Sixty-eight percent were female and 88% were Caucasian. No significant differences between the two subject groups were found with respect to sex, ethnicity, years of education, and age.
+The parents of children with cancer were recruited from the Hematology/Oncology Clinic at the Children's Hospital of Pittsburgh. To be eligible for the study, they had to be caring for a child undergoing active treatment
+
+for cancer who was 1 to 18 years old. The parents of medically healthy children were recruited through advertisements in local newspapers and electronic bulletin boards. Parents of medically healthy children were chosen to match parents of children with cancer in terms of age, gender, ethnicity, and marital status.
+MATERIALS
+We administered a questionnaire to the study participants, including scales of goal disengagement, goal reengagement, and depressive symptomatology.
+Goal disengagement and goal reengagement. The scales of general goal disengagement and general goal reengagement were identical to the scales used in Study 2. We obtained satisfactory reliabilities for both scales (goal disengagement,  = .79, M = 3.13, SD = 0.80; goal reengagement,  = .86, M = 3.63, SD = 0.71). Similar to the results of Study 1, the correlation between goal disengagement and goal reengagement was not significant either in the entire sample or in the two subject groups.
+Depressive symptomatology. We assessed depressive symptomatology via the 20-item Center for Epidemiological Studies Depression Scale (CES-D) (Radloff, 1977). Participants were asked to indicate how often each statement applied to them during the past week (using 4-point Likert-type scales where 0 = rarely or none of the time, 3 = most or almost all of the time). Sample items include the following: "I was bothered by things that usually don't bother me," "I felt depressed," and "I felt lonely." The CES-D scale showed a Cronbach's alpha of .94 (M = 12.31, SD = 11.64).
+Results
+We expected that goal disengagement and goal reengagement would be more strongly related to low levels of depression in parents of children with cancer as compared to parents of healthy children. To test this hypothesis, we used hierarchical regression analyses and predicted participants' depression scores. We expected significant interaction effects between goal disengagement and subject group (parents of children with cancer vs. parents of healthy children) and between goal reengagement and subject group. In a first step, we entered sociodemographic control variables into the regression equation. Because of the small sample size of the study, we only included sociodemographic control variables into the regression equation that showed at least marginally significant zero-order correlations with depression scores. Correlational analyses showed that only education was related to participants' depression scores (r = -.42, p < .01). Participants' gender, race, age, and marital status were not related to depression (ps > .10) and, thus, were not included. In a second step, we entered the main effects of goal disengagement, goal
+
+1504 PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+TABLE 4: Hierarchical Regression Analyses Predicting Depressive Symptomatology (CES-D) by Goal Disengagement, Goal Reengagement, and Subject Group
+
+Predictors
+
+Depressive Symptomatology (CES-D)
+
+R2 Beta
+
+r
+
+Sociodemographics
+
+Years of education
+
+.18**
+
+Main effects Subject groupa
+
+.37**
+
+Goal disengagement
+
+Goal reengagement
+
+Interactions
+
+.06
+
+Goal Disengagement x Subject Group
+
+Goal Reengagement x Subject Group
+
+-.42**
+-.41** -.22 -.38**
+.19 .22*
+
+-.42**
+-.49** -.43** -.52**
+
+a. 1 = parents of children with cancer; 2 = parents of medically healthy children. p < .08. *p < .05. **p < .01.
+
+30
+
+Depressive Symptoms
+
+20
+
+10
+
+0 Low (-1SD)
+
+High (+1SD)
+
+Goal Disengagement
+
+Low (-1SD)
+
+High (+1SD)
+
+Goal Re-Engagement
+
+Parents of Children with Cancer Parents of Medically Healthy Children
+
+Figure 3 Moderation between goal disengagement and subject group (left panel) and goal reengagement and subject group (right panel) for predicting depressive symptomatology.
+
+reengagement, and subject group into the regression equation.7 We then tested the interaction terms between goal disengagement and subject group and goal reengagement and subject group separately for significance.
+The results of the analyses are presented in Table 4. We found a significant main effect for participants' education. Participants with a higher education reported lower levels of depression than did participants with less education. In addition, we found significant main effects for goal reengagement and subject group and a marginally significant main effect for goal disengagement. Parents of children with cancer reported higher levels of depression (M = 18.65, SD = 13.88) than did parents of healthy children (M = 7.24, SD = 5.96). Moreover, participants who reported high levels of goal reengagement reported low levels of depressive symptomatology. Although only marginally significant in the multivariate approach, the zero-order correlation between goal disengagement and depression was significant (see Table 4), indicating that high levels of goal disengagement also were related to low levels of depression.
+Consistent with our hypotheses, we also found a significant interaction effect between goal reengagement and subject group (p < .05) and a marginally significant interaction effect between goal disengagement and subject group (p = .08).8 The interactions between goal disengagement and subject group (left panel) and between goal reengagement and subject group (right panel) on participants' depression are depicted in Figure 3. As illustrated, variations in participants' capacities to disengage from unattainable goals ( = -.46, p = .01) and reengage in new goals ( = -.54, p < .01) were more strongly related to low levels of depressive symptomatology in parents of children with cancer than in parents of medically healthy children (disengagement:  = -.07, p >
+
+.10; reengagement:  = -.10, p > .10). Put differently, parents who tended to be able to disengage from unattainable goals and to reengage in other new goals showed lower levels of depressive symptomatology than parents who reported difficulties disengaging from unattainable goals and reengaging in other new goals, and these effects were particularly strong among parents of children with cancer.9
+Discussion
+In accordance with earlier research on the negative consequences of critical life events (e.g., Dohrenwend & Dohrenwend, 1974), the results of Study 3 showed that parents of children with cancer reported higher levels of depression than did parents of medically healthy children. In addition, the results of Study 3 replicated and extended some of the main findings from the two other studies. Consistent with our prediction, we found a significant interaction effect between goal reengagement and subject group and a marginally significant interaction effect between goal disengagement and subject group for predicting depression. Goal disengagement and goal reengagement were particularly strongly correlated with low levels of depression among the group of parents that had children with cancer. Those parents of children with cancer who reported difficulties disengaging from unattainable goals and reengaging in other meaningful goals reported the highest levels of depression. In contrast, high levels of goal disengagement and goal reengagement among parents of children with cancer were associated with lower levels of depression, almost comparable to parents of medically healthy children. We conclude from these findings that goal disengagement and goal reengagement are important factors when people face challenging and normatively less-
+
+Wrosch et al. / SELF-REGULATION OF UNATTAINABLE GOALS 1505
+
+expected life circumstances that might require them to adjust important life goals.
+We note that the small sample size of the study did not allow us to test interaction effects between goal disengagement and goal reengagement among parents of healthy children and parents of children with cancer and thus prevented us from fully integrating the results of Study 3 with the two other studies. However, two results of Study 3 seem to be particularly important to discuss in the context of the other studies. First, parents of children with cancer did not report an easier time disengaging from unattainable goals and reengaging in new goals than did parents of healthy children. Second, goal disengagement and goal reengagement were not significantly correlated in Study 3, similar to the results of Study 1. These findings indicate that the occurrence of a critical life event does not make it easier for a person to adjust to unattainable goals. In addition, parents of children with cancer who can easily disengage from unattainable goals do not necessarily have an easy time finding new goals to pursue. Taking these results together, it seems likely that some parents of children with cancer are at a high risk of developing low subjective well-being and might greatly profit from an intervention that helps them to adaptively manage their life goals.
+GENERAL DISCUSSION
+We have proposed that goal disengagement and goal reengagement play an important role in managing the negative consequences associated with the occurrence of unattainable goals. Based on this assumption, we expected that individual differences in goal disengagement and goal reengagement would be associated with subjective well-being. In support of our hypotheses, the findings from the reported studies confirmed that individual differences in goal disengagement are significant predictors of subjective well-being. In Study 1, disengagement from unattainable goals was independently associated with high levels of self-mastery and low levels of perceived stress and intrusive thoughts. In addition, Study 3 demonstrated that goal disengagement is particularly strongly related to low levels of depressive symptoms among parents of children who were diagnosed with cancer. These findings are in accordance with a growing body of evidence that has demonstrated disengagement from specific unattainable goals to show beneficial effects on subjective well-being (e.g., Heckhausen et al., 2001; Wrosch & Heckhausen, 1999). In addition, our findings go beyond the existing literature by demonstrating that substantial variation exists in people's general tendencies to disengage from unattainable goals and that these individual differences can be associated with subjective well-being.
+
+Most important, the results also showed that tendencies to reengage in new goals predict subjective wellbeing above and beyond a person's ease of abandoning unattainable goals. Study 1 demonstrated that among college students, goal-reengagement tendencies were independently related to low levels of perceived stress and intrusive thoughts and high levels of self-mastery and purpose in life. Study 1 also showed that the effects of goal reengagement on perceived stress and selfmastery can be more pronounced among students who have difficulties with disengaging from unattainable goals. This effect could partly be replicated in another sample of students in Study 2. In addition, Study 3 demonstrated that goal-reengagement tendencies are associated with low levels of depressive symptoms, particularly so among parents of children with cancer. Taken together, these finding indicate that the capacity to find, commit to, and pursue new goals is a protective factor that may help a person manage unattainable goals. Goal reengagement should keep a person engaged in the pursuit of meaningful activities and thereby also may alleviate the distress associated with the continued pursuit of an unattainable goal.
+Of importance, we had predicted that goal reengagement also would be associated with higher levels of subjective well-being among people who tend to disengage from unattainable goals. The results of Studies 1 and 2, however, show that this is not always the case among young adults. An explanation for this finding may relate to the possibility that young adults usually perceive favorable opportunities for future development. As a result, failure to engage in new goals (after having abandoned a goal) may not have as severe negative consequences for young adults. Considering that opportunities to pursue new goals often decline as people advance in age, an implication of this argument is that goal reengagement tendencies might become more influential among older adults who have abandoned personal goals. In support for this hypothesis, the results of Study 2 showed that among older adults, who tend to abandon unattainable goals, failure to reengage in new goals was associated with particularly low levels of emotional well-being.
+Taken together, the results of the present research support the idea that goal disengagement and goal reengagement tendencies can compensate for the distress associated with the occurrence of unattainable goals. In addition, the findings indicate that contextual factors may play an important role in identifying adaptive personality processes involved in the self-regulation of personal goals. Factors that determine a person's opportunities for future-related goal pursuits (such as agerelated constraints or negative life events) may be con-
+
+1506 PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+sidered as an additional layer in the study of adaptive behavior and successful development.
+Limitations and Future Research
+Although the results of the present research lend support to our hypotheses and general line of argument, there are limitations of the studies that should be addressed in future research. First, the studies confirmed the importance of goal disengagement and goal reengagement in an undergraduate sample, in an ageheterogeneous sample of young and older adults, and in a sample of parents of children with cancer. It will be useful to document that similar processes are important to subjective well-being in other populations, as well. For example, among people who confront different types of disease (e.g., those suffering from acute vs. chronic health problems) (cf. Wrosch, Schulz, & Heckhausen, 2002) or different stages of disease (early vs. late stages of a life-threatening disease) (cf. Scheier & Carver, 2001). As Study 3 suggests, it may turn out that processes of goal disengagement and goal reengagement will be stronger predictors of subjective well-being in some groups of persons than others.
+Second, the importance of alternative goals for successful development should be studied in more detail (e.g., Aspinwall & Richter, 1999). In critical life periods, the pursuit of multiple options may facilitate subsequent adaptation to failure, loss, and abandoned goals by providing the person with back-up goals to pursue (cf. Linville, 1987, regarding the manner in which multiple self-identifications can buffer the person against failure-induced distress). Alternatively, the availability of multiple goals may help to initiate the goal disengagement process because the availability of alternative goals might make withdrawal of effort and commitment less threatening. Thus, maintaining alternative options might support adaptive development in several different ways. On the other hand, we also need to be sensitive to the possibility that the acquisition of new goals might be detrimental; that is, at some point, taking on new goals will deplete personal resources to such an extent that the person becomes stretched too thin. Research is needed to identify when this breakpoint occurs in the goalacquisition process as well as the mechanisms that underlie it.
+Third, we have studied relations between general tendencies of managing unattainable goals and subjective well-being. Future research should extend this approach by incorporating goal orientations and behaviors exhibited in specific situations. For example, we would expect that a person's general goal disengagement and goal reengagement tendencies would influence the manner in which specific unattainable goals are reacted to and managed. In this regard, a person's specific goal orienta-
+
+tion might mediate the relation between general goal management tendencies and subjective well-being.
+Fourth, the results of Study 1 have shown that the beneficial effects of goal disengagement and goal reengagement are independent of a number of personality constructs (see Note 3). It should be mentioned, however, that more theoretical and empirical work is needed to explore associations between goal disengagement, goal reengagement, and other personality constructs. Given the small number of empirical studies on this topic, we think it is important to pursue the idea that certain personality profiles might facilitate or hinder goal disengagement and goal reengagement (for a comprehensive discussion of this topic, see Wrosch et al., 2003).
+Finally, it should be mentioned that the crosssectional design of the studies requires a careful interpretation of the results. We cannot exclude the possibility that the effects found in Study 2 were related to cohort differences rather than to age differences. In addition, we want to clarify that our findings do not allow any causal interpretation. For example, it could be that high levels of subjective well-being were driving people's reports of goal disengagement and goal reengagement rather than the reverse. To obtain results that allow causal interpretations, future research should conduct experimental work and also use fine-grained longitudinal designs to examine the causal relations between goal disengagement, goal reengagement, and subjective wellbeing. In brief, the present research provides an interesting point of departure for future research in the area. Given the nature and breadth of the present findings, however, we certainly believe that future research on disengagement and reengagement processes is warranted.
+NOTES
+1. Across all three studies, multiple regression analyses were performed using centered predictor variables.
+2. Further analyses indicated that the majority group of nonCaucasians (Asian Americans) did not statistically differ in terms of well-being from other non-Caucasians.
+3. We note that the study also included measures of coping (assimilation and accommodation) (Brandtstadter & Renner, 1990) and broader personality traits (Neuroticism, Extraversion, Conscientiousness, Agreeableness, Openness) (Goldberg, 1992). The obtained interaction effects on self-mastery and perceived stress and the main effects on intrusive thoughts and purpose in life remained significant when these factors (and their interactions with goal disengagement and goal reengagement) were controlled for in separate analyses.
+4. Five participants reported missing data for goal disengagement, goal reengagement, and affect balance and were excluded from the analyses.
+5. Although the effect of goal reengagement on emotional wellbeing was only marginally significant, we note that this result is based on a significant interaction effect obtained within older adults, indicating that failed goal reengagement becomes increasing correlated with low levels of emotional well-being among older adults who reported being able to disengage from unattainable goals.
+6. We also examined these data using an approach in which positive and negative affect were used as separate data points in a repeatedmeasures ANOVA. The interaction among age group, disengagement
+
+Wrosch et al. / SELF-REGULATION OF UNATTAINABLE GOALS 1507
+
+group, and reengagement group again was significant. The further interaction with affect valence was not significant (p > .10), although there was a tendency for the pattern in the right panel of Figure 2 to derive mostly from positive affect and that in the left panel to derive mostly from negative affect.
+7. It should be mentioned that we found no significant mean differences in goal disengagement and goal reengagement between parents of children with cancer (disengagement: M = 2.95, SD = 0.76; reengagement: M = 3.60, SD = 0.82) and parents of medically healthy children (disengagement: M = 3.28, SD = 0.81; reengagement: M = 3.65, SD = 0.63), ts(43) < 1.39, ps > .10.
+8. We should note that our tests for statistical significance are all two-tailed. Because our hypotheses were theoretically derived on the basis of the previously reported studies, an argument could be made that one-tailed tests of significance are more appropriate in this circumstance. Using one-tailed tests of statistical significance, both interaction effects are significant (Goal Disengagement x Subject Group: p < .01; Goal Reengagement x Subject Group: p < .05).
+9. It would have been interesting in Study 3 to have reexamined the interaction effects between goal disengagement and goal reengagement; however, the small sample size did not allow testing for reliable interaction effects within the subject groups.
+REFERENCES Aiken, L. S., & West, S. G. (1991). Multiple regression: Testing and inter-
+preting interactions. Newbury Park, CA: Sage. Antonovsky, A. (1987). Unraveling the mystery of health: How people man-
+age stress and stay well. San Francisco: Jossey-Bass. Aspinwall, L. G., & Richter, L. (1999). Optimism and self-mastery pre-
+dict more rapid disengagement from unsolvable tasks in the presence of alternatives. Motivation and Emotion, 23, 221-245. Baltes, P. B., & Baltes, M. M. (1990). Psychological perspectives in successful aging: The model of selective optimization with compensation. In P. B. Baltes & M. M. Baltes (Eds.), Successful aging: Perspectives from the behavioral sciences (pp. 1-34). New York: Cambridge University Press. Baltes, P. B., Cornelius, S. W., & Nesselroade, J. R. (1979). Cohort effects in developmental psychology. In J. R. Nesselroade & P. B. Baltes (Eds.), Longitudinal research in the study of behavior and development (pp. 61-87). New York: Academic Press. Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. Psychological Review, 84, 191-215. Bandura, A. (1997). Self-efficacy: The exercise of control. New York: Freeman. Bradburn, N. M. (1969). The structure of psychological well-being. Chicago: Aldine. Brandtstadter, J., & Renner, G. (1990). Tenacious goal pursuit and flexible goal adjustment: Explication and age-related analysis of assimilative and accommodative strategies of coping. Psychology and Aging, 5, 58-67. Carstensen, L. L., Isaacowitz, D. M., & Charles, S. T. (1999). Taking time seriously: A theory of socioemotional selectivity. American Psychologist, 54, 165-181. Carver, C. S., La Voie, L., Kuhl, J., & Ganellen, R. J. (1988). Cognitive concomitants of depression: A further examination of the roles of generalization, high standards, and self-criticism. Journal of Social and Clinical Psychology, 7, 350-365. Carver, C. S., Pozo, C., Harris, S. D., Noriega, V., Scheier, M. F., Robinson, D. S., et al. (1993). How coping mediates the effect of optimism on distress: A study of women with early stage breast cancer. Journal of Personality and Social Psychology, 65, 375-390. Carver, C. S., & Scheier, M. F. (1981). Attention and self-regulation: A control-theory approach to human behavior. New York: SpringerVerlag. Carver, C. S., & Scheier, M. F. (1990). Origins and functions of positive and negative affect: A control-process view. Psychological Review, 97, 19-35. Carver, C. S., & Scheier, M. F. (1998). On the self-regulation of behavior. New York: Cambridge University Press.
+
+Carver, C. S., & Scheier, M. F. (1999). Themes and issues in the selfregulation of behavior. In R. S. Wyer, Jr. (Ed.), Advances in social cognition (Vol. 12, pp. 1-105). Mahwah, NJ: Lawrence Erlbaum.
+Cohen, S., Kamarck, T., & Mermelstein, R. (1983). A global measure of perceived stress. Journal of Health and Social Behavior, 24, 385-396.
+Dohrenwend, B. S., & Dohrenwend, B. P. (Eds.). (1974). Stressful life events: Their nature and effects. New York: John Wiley.
+Fournier, M. A., & Moskowitz, D. S. (2000). The mitigation of interpersonal behavior. Journal of Personality and Social Psychology, 79, 827-836.
+Freund, A. M., & Baltes, P. B. (1998). Selection, optimization, and compensation as strategies of life management: Correlations with subjective indicators of successful aging. Psychology and Aging, 13, 531-543.
+Goldberg, L. R. (1992). The development of markers for the Big Five factor structure. Psychological Assessment, 4, 26-42.
+Gollwitzer, P. M., Heckhausen, H., & Steller, B. (1990). Deliberative and implemental mind-sets: Cognitive tuning toward congruous thoughts and information. Journal of Personality and Social Psychology, 59, 1119-1127.
+Hagestad, G. O., & Neugarten, B. L. (1985). Age and the life course. In R. H. Binstock & E. Shanas (Eds.), Handbook of aging and the social sciences (pp. 35-61). New York: Van Nostrand Reinhold.
+Havighurst, R. J. (1973). Social roles, work, leisure and education. In C. Eisdorfer & M. P. Lawton (Eds.), The psychology of adult development and aging (pp. 598-618). Washington, DC: American Psychological Association.
+Heckhausen, J., & Baltes, P. B. (1991). Perceived controllability of expected psychological change across adulthood and old age. Journal of Gerontology: Psychological Sciences, 46, 165-173.
+Heckhausen, J., & Schulz, R. (1995). A life-span theory of control. Psychological Review, 102, 284-304.
+Heckhausen, J., Wrosch, C., & Fleeson, W. (2001). Developmental regulation before and after passing a developmental deadline: The sample case of "biological clock" for child-bearing. Psychology and Aging, 16, 400-413.
+Held, T. (1986). Institutionalization and deinstitutionalization of the life course. Human Development, 29, 157-162.
+Klinger, E. (1975). Consequences of commitment to and disengagement from incentives. Psychological Review, 82, 1-25.
+Kobasa, S. C. (1979). Stressful life events, personality, and health. Journal of Personality and Social Psychology, 37, 1-11.
+Kuhl, J., & Helle, P. (1986). Motivational and volitional determinants of depression: The degenerated-intention hypothesis. Journal of Abnormal Psychology, 95, 247-251.
+Lang, F. R., & Carstensen, L. L. (2002). Time counts: Future time perspective, goals, and social relationships. Psychology and Aging, 17, 125-139.
+Linville, P. W. (1987). Self-complexity as a cognitive buffer against stress-related illness and depression. Journal of Personality and Social Psychology, 52, 663-676.
+Moskowitz, J. T., Folkman, S., Collette, L., & Vittinghoff, E. (1996). Coping and mood during AIDS-related caregiving and bereavement. Annals of Behavioral Medicine, 18, 49-57.
+Nesse, R. M. (2000). Is depression an adaptation? Archives of General Psychiatry, 57, 14-20.
+Neugarten, B. L. (1969). Time, age, and the life cycle. American Journal of Psychiatry, 136, 887-894.
+Nolen-Hoeksema, S., Parker, L. E., & Larson, J. (1994). Ruminative coping with depressed mood following loss. Journal of Personality and Social Psychology, 67, 92-104.
+Pearlin, L. I., & Schooler, C. (1978). The structure of coping. Journal of Health and Social Behavior, 19, 2-21.
+Radloff, L. (1977). The CES-D scale: A self-report depression scale for research in the general population. Applied Psychological Measurement, 1, 385-401.
+Ryff, C. D. (1989). Happiness is everything, or is it? Explorations on the meaning of psychological well-being. Journal of Personality and Social Psychology, 57, 1069-1081.
+
+1508 PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+Ryff, C. D., & Keyes, C. L. M. (1995). The structure of psychological well-being revisited. Journal of Personality and Social Psychology, 69, 719-727.
+Scheier, M. F., & Carver, C. S. (2001). Adapting to cancer: The importance of hope and purpose. In A. Baum & B. L. Andersen (Eds.), Psychosocial interventions for cancer (pp. 15-36). Washington, DC: American Psychological Association.
+Scheier, M. F., Matthews, K. A., Owens, J. F., Magovern, G. J., Lefebvre, R. C., Abbott, R. A., et al. (1989). Dispositional optimism and recovery from coronary artery bypass surgery: The beneficial effects on physical and psychological well-being. Journal of Personality and Social Psychology, 57, 1024-1040.
+Schulz, R., & Heckhausen, J. (1996). A life span model of successful aging. American Psychologist, 51, 702-714.
+Seligman, M. E. P. (1991). Learned optimism. New York: Knopf. Sprangers, M. A. G., & Schwartz, C. E. (1999). Integrating response
+shift into health-related quality of life research: A theoretical model. Social Science & Medicine, 48, 1507-1515. Tunali, B., & Power, T. G. (1993). Creating satisfaction: A psychological perspective on stress and coping in families of handicapped children. Journal of Child Psychology and Psychiatry and Allied Disciplines, 34, 945-957. Watson, D., Clark, L. A., & Tellegen, A. (1988). Development and validation of brief measures of positive and negative affect: The PANAS Scales. Journal of Personality and Social Psychology, 54, 10631070. Wortman, C. B., & Brehm, J. W. (1975). Responses to uncontrollable outcomes: An integration of reactance theory and the learned helplessness model. In L. Berkowitz (Ed.), Advances in experimen-
+
+tal social psychology (Vol. 8, pp. 277-336). New York: Academic Press. Wrosch, C., & Freund, A. M. (2001). Self-regulation of normative and non-normative developmental challenges. Human Development, 44, 264-283. Wrosch, C., & Heckhausen, J. (1999). Control processes before and after passing a developmental deadline: Activation and deactivation of intimate relationship goals. Journal of Personality and Social Psychology, 77, 415-427. Wrosch, C., & Heckhausen, J. (2002). Perceived control of life regrets: Good for young and bad for old adults. Psychology and Aging, 17, 340-350. Wrosch, C., Heckhausen, J., & Lachman, M. E. (2000). Primary and secondary control strategies for managing health and financial stress across adulthood. Psychology and Aging, 15, 387-399. Wrosch, C., & Scheier, M. F. (2003). Personality and quality of life: The importance of optimism and goal adjustment. Quality of Life Research, 12, 59-72. Wrosch, C., Scheier, M. F., Carver, C. S., & Schulz, R. (2003). The importance of goal disengagement in adaptive self-regulation: When giving up is beneficial. Self and Identity, 2, 1-20. Wrosch, C., Schulz, R., & Heckhausen, J. (2002). Health stresses and depressive symptomatology in the elderly: The importance of health engagement control strategies. Health Psychology, 21, 340349.
+Received August 8, 2002 Revision accepted February 26, 2003
+
+

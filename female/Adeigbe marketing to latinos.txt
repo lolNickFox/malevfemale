@@ -1,0 +1,625 @@
+557122
+
+research-article2014
+
+HEBXXX10.1177/1090198114557122Health Education & BehaviorAdeigbe et al.
+
+Latino Health: Review
+Food and Beverage Marketing to Latinos: A Systematic Literature Review
+Rebecca T. Adeigbe, MS1, Shannon Baldwin, BA1, Kip Gallion, MA1, Sonya Grier, PhD2, and Amelie G. Ramirez, DrPH1
+
+Health Education & Behavior 2015, Vol. 42(5) 569- 582 (c) 2014 Society for Public Health Education Reprints and permissions: sagepub.com/journalsPermissions.nav DOI: 10.1177/1090198114557122 heb.sagepub.com
+
+Abstract Obesity rates among U.S. adults and children have increased over the past two decades and, although signs of stabilization and decline among certain age groups and geographies are being reported, the prevalence of obesity among Latino adults and children remain high. The Latino population is growing in parallel to these obesity rates and marketers realize they cannot ignore this growing, high-spending, media-consuming segment. Studies examining food and beverage marketing strategies tend to discuss minority groups in general but do not account for racial and ethnic differences, reducing our ability to explain existing inequities. This article aimed to identify the food and beverage marketing strategies used to influence food environments for Latinos versus non-Latinos. A systematic literature review and analysis, guided by an established marketing conceptual framework, determined that the food and beverage marketing environment for Latinos is less likely to promote healthy eating and more likely to encourage consumption of low-nutrient, calorie-dense foods and beverages. This analysis also determined that Latinos' food environment and the placement of food retail stores appears to influence their body mass index; however, placement of these stores cannot be generalized, as geographical differences exist. While food and beverage marketing is only one of many sources of influence on food and beverage consumption, these findings reinforce the notion that Latinos are at a disadvantage when it comes to exposure of healthy lifestyle messaging and health-promoting food environments.
+Keywords beverage marketing, food marketing, Latino, obesity, target marketing
+
+New evidence continues to emerge highlighting the negative impact of obesity on health (Institute of Medicine, 2013). Although obesity rates among U.S. adults and children have increased over the past two decades, encouraging reports show signs of stabilization and decline among certain age groups and geographies (Ogden, Carroll, Kit, & Flegal, 2014). Nevertheless, severe cases of childhood obesity continue to rise (Skinner & Skelton, 2014).
+U.S. Latino and Black adults have higher obesity rates than Whites (42%, 48%, and 33%, respectively; Ogden et al., 2014). More Latino children ages 2 to 19 years are obese (22%) compared with Black (20%) and White (14%) children (Ogden et al., 2014). Higher obesity rates among Latino and Black adults and children place them at higher risk for developing chronic diseases and certain cancer types (Wang, McPherson, Marsh, Gortmaker, & Brown, 2011). Furthermore, the Latino population is growing in parallel to these rising obesity rates. Latinos account for 17% of the U.S. population and are projected to account for 31% by 2060 (Krogstad, Manuel, & Hugo Lopez, 2014). This
+
+increase is partially due to the number of Latino children born in the U.S. Latinos younger than 18 years make up 22% of all U.S. youth and are expected to comprise more than 30% in just 15 years (Fry & Passel, 2009).
+As Latinos' presence in the U.S. grows, their spending power and media consumption also rises. Latinos' purchasing power, which is outpacing other minority groups, is projected to reach $1.5 trillion by 2015 (Campbell, 2013; Shelby Report, 2011). Media consumption studies, though mostly focused on youth, show that Latinos are watching more television (TV; Rideout, Lauricella, & Wartella, 2011) are avid users of mobile
+1Institute for Health Promotion Research, The University of Texas Health Science Center at San Antonio, San Antonio, TX, USA 2American University, Washington, DC, USA
+Corresponding Author: Amelie G. Ramirez, Institute for Health Promotion Research, The University of Texas Health Science Center at San Antonio, 7411 John Smith Drive, Suite 1000, San Antonio, TX 78229, USA. Email: ramirezag@uthscsa.edu
+
+Downloaded from heb.sagepub.com at RUTGERS UNIV on March 2, 2016
+
+570 Health Education & Behavior 42(5)
+
+communications (Montgomery & Chester, 2009), are increasingly going online (Livingston, 2011), are being exposed to media at earlier ages (Thompson, 2010) and are consuming media in both English and Spanish (Taylor et al., 2009).
+Marketers realize they cannot ignore this growing, highspending, media-consuming and largely heterogeneous segment (Pieraccini, Hernandez, &Alligood, 2010). Of importance to both marketers and public health officials alike is where Latinos are spending a large proportion of their money-- toward food-related items such as groceries and dining out (Campbell, 2013; Shelby Report, 2011). This realization has led food and beverage companies to create Latino-specific branches within their marketing divisions (Holland & Gentry, 1999). Overall, $7.3 million is spent on food product marketing in the U.S. second only to the automotive industry, including $1 billion to promote confectionary and snack items; $3 billion was spent to design youth-appealing food product packaging (Palmer & Carpenter, 2006).
+Although there exists some research on food marketing strategies shaping Latino food environments, previous studies examining these environments do not provide or account for differences between Latino and non-Latino environments, reducing our ability to understand inequities that may exist (Dean, Sharkey, & St John, 2011; Nevarez et al., 2013; Sharkey, Dean, Nalty, & Xu, 2013; Sharkey, Horel, Han, & Huber, 2009; Valdez, Dean, & Sharkey, 2012). Studies have addressed this gap in the litreature for Blacks. For example, one study by Grier and Kumanyika found that Black- neighborhood environments were less likely to support the development or maintenance of healthy diets due to the advertisement of low-nutrition and high-caloric foods, less access to supermarkets, more access to fast-food restaurants, and less availability and higher costs for healthy goods (Grier & Kumanyika, 2008). However, to the author's knowledge, no such study exists for Latinos. Thus, the marketing concepts discussed for the purview of this article seek to identify food and beverage marketing strategies influencing food environments for Latinos versus non-Latinos.
+Our study asked a specific research question: How are food and beverage marketing strategies influencing Latinos' food environments? Three main objectives helped answer this question: (a) critically assess the current body of literature related to food and beverage marketing to Latinos and communicate findings in the context of the marketing mix, (b) evaluate the methodological quality of the articles to deduce the food and beverage marketing strategies used toward Latinos, and (c) recommend areas for future research and improve the design of food and beverage marketing research.
+Method
+Analytical Framework
+The conceptual framework for this review is based on the marketing mix, a marketing framework used to analyze
+
+market opportunities, develop marketing strategies, and plan marketing programs--which researchers also have used to frame discussions about food and beverage marketing (Grier & Kumanyika, 2008). The marketing mix has four components--product, placement, promotion, and price. In combination, these components create a cohesive mix of marketing strategies to attract consumers (Borden, 1964).
+Review Parameters
+Systematic review methodologies were adapted to address the study's three main objectives (Chen & Goodson, 2007; Mair et al., 2012; Peng, Crouse, & Lin, 2013; Sosa, 2012).
+The inclusion criteria for this systematic literature review required studies to
+1. Compare a Latino population to a non-Latino population: This comparison could be at an individual, neighborhood, or school level. This criterion was further refined to include studies that compared Spanishand English-language media and/or Latino versus general retail food stores (RFSs). To reduce bias in the reporting of results, arbitrary measures of the Latino population, such as percent-based grouping of a Latino population compared with another population, were excluded. An example of this exclusion was a study conducted by Yancey et al. (2009), which used a 50% cut point to define predominantly Latino, Black, and White neighborhoods to study the connection between outdoor advertisements and neighborhood characteristics.
+2. Discuss a food or beverage product or RFS placement as either a primary or secondary study outcome: This was assessed in the context of the marketing mix:
+ Product--articles discussing specific food products, packaging and/or flavors customized for Latinos
+ Promotion--articles discussing product promotion, such as TV commercials and billboard advertisements, and the type of product directed toward Latinos
+ Placement--articles discussing product placement in particular stores or the geographic placement of stores and promotional items in predominantly Latino areas
+ Price--articles discussing the relative cost or pricing incentives of a product in predominantly Latino areas
+Data Sources
+To identify articles, searches were performed on 13 different electronic databases, including PubMed, Scopus, Web of Science, PsycINFO. See Table 1 for a list of databases searched. These databases were searched because of their combined
+
+Downloaded from heb.sagepub.com at RUTGERS UNIV on March 2, 2016
+
+Adeigbe et al.
+
+571
+
+Table 1. Databases Searched for This Systematic Literature Review.
+
+Databases searched
+
+Number of citations generated
+
+PubMed Scopus (Life Sciences, Health Sciences,
+Physical Sciences, Social Sciences) Web of Science (Social Studies) ERIC (Education Resources Information
+Clearinghouse) PsycINFO Business Source Complete Psychology and Behavioral Sciences CINAHL SocINDEX Communication Abstract EconLit ABI/Inform Sociological Abstracts Total number of identified studies
+
+68 47
+15 5
+5 12 1 0 5 3 1 23 9 194
+
+inclusiveness of scholarship relevant to marketing, economics, sociology, public health, medicine, and psychology.
+Database search parameters required articles to be published (a) in peer-reviewed journals, (b) in or after 1992, and (c) in English. Search parameters excluded newspaper articles, reports, and proprietary publications.
+Search Terms
+Nineteen search terms were used and combined to create search phrases in the databases. Searches incorporated three commonly used words to describe Latino ethnicity: Latino, Hispanic, and Mexican. Mexican was the only ethnic-specific term, as Mexican Americans account for more than 60% of the U.S. Latino population (Passel, Cohn, & Lopez, 2011). Marketingrelated search terms were based on key terms found in food and beverage-related literature (e.g., fast food, cereal, TV advertising, sugar-sweetened beverages). All search terms also were used in combination with the four marketing mix strategies. All databases searches were conducted in January 2014.
+Coding Form
+Data were abstracted from identified articles using a coding form to capture study objectives, demographics, findings, and marketing mix strategies used. In addition, all studies received a methodological quality score (MQS). The purpose of the MQS in the context of this study was to provide a detailed descriptive synopsis of the studies abstracted while assigning scores to indicate the variation in overall methodological quality. The MQS was adapted based on criteria used in previous systematic reviews (Chen & Goodson, 2007; Grier & Kumanyika, 2008; Sosa, 2012). Scores could range from 4 to 20. See Table 2 for MQS criteria.
+
+Table 2. Methodological Quality Score (MQS) Criteria.
+
+MQS criteria
+Study design   Sample size   Age  Ethnicity (Latino
+subgroup) Measurement
+instrument  
+
+Reported data validity testing
+Reported data reliability testing
+Data analysis 
+ 
+National representativeness
+
+
+SES description 
+
+Scoring option
+Correlation/cross-sectional = 1 point Retrospective = 2 points Prospective = 3 points Small (<100) = 1 point Medium (>100 and <300) = 2 points Large (>300) = 3 points Not reported = 0 points Reported = 1 point Not reported = 0 points Reported = 1 point Instrument not reported = 0 points Developed instrument to measure
+study outcome = 1 point Adopted instrument to measure study
+outcome = 2 points Instrument not necessary, study used
+secondary data = 2 points Not reported = 0 points Reported = 1 point Not reported = 0 points Reported = 1 point Qualitative analysis = 1 point Univariate statistics/descriptive = 1
+point Bivariate statistics/ANOVA = 2 points Multiple regression/ANCOVAa = 3
+points Study in one site, market, or location =
+1 point Study in several sites, markets, or
+regions = 2 points Study with national representativeness
+= 3 points Not reported = 0 points Reported = 1 point
+
+Note. SES = socioeconomic status; ANOVA, analysis of variance; ANCOVA, analysis of covariance. Potential MQS range from 4 to 20. aIncluding models that allow for outcome variables with error distribution models other than a normal distribution.
+
+Review Process
+Two researchers independently read article titles and abstracts to determine compliance with the established inclusion criteria; they then convened to generate the final list of articles for inclusion in the analysis. See Figure 1 for the complete literature search process, which generated 194 potential articles. Of the 194, 14 met the inclusion criteria.
+In cases of disagreement between the two researchers, a third researcher was asked to code the article and a consensus among researchers was used to assign an MQS and extract relevant study outcomes. Interrater reliability across the 14 articles was calculated using Cohen's kappa; scores ranged from 0.64 to 1.0.
+
+Downloaded from heb.sagepub.com at RUTGERS UNIV on March 2, 2016
+
+572
+
+Health Education & Behavior 42(5)
+
+167 studies eliminated as not relevant1
+14 studies eliminated for not exclusively comparing Latinos to other groups2
+
+194 studies identified through database searches
+
+27 remaining
+
+32 total studies retrieved
+
+5 additional studies identified through reference list and reviews
+
+18 studies remaining
+
+4 additional studies eliminated after group discussion on exclusive comparison of
+Latinos to other groups2
+
+14 studies included in final review
+
+1 Product3
+
+1 Price3
+
+6 Place3
+
+8 Promotion3
+
+Figure 1. Literature search process. 1Deemed not relevant if the study did not encapsulate the marketing mix or if the article included Latinos but did not include a comparison group. 2Selected articles must have explicitly compared Latinos with another racial/ethnic or type of marketing group (e.g., Spanish-language television vs. English language television, Bodegas vs. supermarkets, etc.). Articles that identified Latino and/or comparison groups as majority or percent Latino were excluded. 3Articles may have included one or more components of the marketing mix, the numbers add up to more than 14 studies.
+
+Results
+Characteristics of Identified Studies
+Fourteen studies--published in 10 different journals--met the inclusion criteria and were included in this analysis; all studies were published after 2003. See Table 3 for publication characteristics.
+Five articles examined nutritional content and frequency of food and beverage advertisements (ads) on TV (Abbatangelo-Gray, Byrd-Bredbenner, & Austin, 2008; Bell, Cassady, Culp, & Alcalay, 2009; Castetbon, Harris, & Schwartz, 2012; Fleming-Milici, Harris, Sarda, & Schwartz, 2013; Kunkel, Mastro, Ortiz, & McKinley, 2013), four of which were focused on TV ads to those younger than 18 years (Bell et al., 2009; Castetbon et al.,
+
+2012; Fleming-Milici et al., 2013; Kunkel et al., 2013). Five articles focused on food store placement (Grier & Davis, 2013; Inagami, Cohen, Finch, & Asch, 2006; Moore, Diez Roux, Nettleton, & Jacobs, 2008; Powell, Auld, Chaloupka, O'Malley, & Johnston, 2007; Rose et al., 2009), of which two focused on fast-food restaurant proximity to schools (Grier & Davis, 2013; Powell et al., 2007) and three focused on grocery/supermarket proximity to households (Inagami et al., 2006; Moore et al., 2008; Rose et al., 2009). Single articles examined these topics: prevalence of Latino actors and the types of ads or products they advertised during children's TV programming (Bang & Reece, 2003), types of health ads appearing in women-oriented magazines (Duerksen et al., 2005), product preferences among Latino and non-Latino consumers (Moskowitz et al., 2004), and
+
+Downloaded from heb.sagepub.com at RUTGERS UNIV on March 2, 2016
+
+Adeigbe et al.
+
+Table 3. Characteristics of Abstracted Studies.
+
+First author
+
+Publication year
+
+Journal
+
+AbbatangeloGray, J.
+Bang, H.
+
+2008 2003
+
+Journal of Nutrition Education and Behavior
+Journal of Consumer Affairs
+
+Bell, R. A. Castetbon, K.
+
+2009 2012
+
+Journal of Nutrition Education and Behavior
+Public Health Nutrition
+
+Duerksen, S. C. Emond,J. A.
+
+2005 2012
+
+Biomedical Central Public Health
+Public Health Nutrition
+
+Fleming-Milici, F.
+
+2013
+
+JAMA Pediatrics
+
+Grier, S. Inagami, S. Kunkel, D. Moore, L. V. Moskowitz, H.
+
+2013 2006 2013 2008 2004
+
+Journal of Public Policy & Marketing
+American Journal of Preventive Medicine
+Journal of Health Communication
+American Journal of Epidemiology
+Journal of Sensory Studies
+
+Powell, L. M. Rose, D.
+
+2007 2009
+
+American Journal of Preventive Medicine
+American Journal of Preventive Medicine
+
+Marketing domain
+Promotion
+Promotion
+Promotion
+Promotion
+Promotion
+Promotion, Place, Price
+Promotion
+Place
+Place
+Promotion
+Place
+Promotion
+Place, Price
+Place
+
+573
+Marketing variable
+TV advertising or programs (adults)
+TV advertising or programs (children)
+TV advertising or programs (children)
+Food or beverage products (ready-to-eat cereals)
+Magazine advertisements or articles
+Food store characteristics
+TV advertising or programs (children)
+Location of retail food outlets
+Location of retail food outlets
+TV advertising or programs (children)
+Location of retail food outlets
+Food or beverage products (product preferences)
+Location of retail food outlets
+Food store characteristics
+
+the availability, quality, and price of produce and other healthy food items in food stores (Emond, Madanat, & Ayala, 2012).
+Findings of Reviewed Studies in the Context of the Marketing Mix
+Table 4 summarizes the 14 studies' objectives, timeframes, methods, and outcomes.
+Promotion.Eight articles analyzed promotional messages (Abbatangelo-Gray et al., 2008; Bang & Reece, 2003; Bell et al., 2009; Castetbon et al., 2012; Duerksen et al., 2005; Emond et al., 2012; Fleming-Milici et al., 2013; Kunkel et al., 2013); evidence regarding promotion included six content analyses of TV ads (Abbatangelo-Gray et al., 2008; Bang & Reece, 2003; Bell et al., 2009; Castetbon et al., 2012; Fleming-Milici et al., 2013; Kunkel et al., 2013) and one content analysis of print ads (Powell et al., 2007). Abbatangelo-Gray, Bell, and Kunkel and their colleagues analyzed recorded commercial content on Spanish and English network TV, with Bell and Kunkel specifically looking at advertising to children. All three studies found fewer food ads on
+
+Spanish than English network TV; however, Spanish networks had significantly more ads for unhealthy foods and fast-food restaurants than English networks. Two additional studies used nationally representative consumer and marketing-oriented data to also look at child-targeted TV ads (Castetbon et al., 2012; Fleming-Milici et al., 2013). Fleming-Milici analyzed commercial content on children's TV networks using Nielson Ad*View data and found similar results; Spanish language TV had fewer food and beverage ads but approximately half were for fast food, breakfast cereals, and candy. Castetbon and his colleagues, using Homescan Panel data, found that cereals targeted to children were for the lowest nutritional value and purchased significantly more by Latino households. In addition, Bang and Reece's content analysis of TV ads determined that Latinos were underrepresented in commercials compared with Whites and Blacks (16.9% vs. 46.2% and 61.1%, respectively). The lone print ad content analysis (Duerksen et al., 2005) found that magazines with high Latina readership (e.g., Latina, Latina Style) contained a significantly higher percent of ads for high-fat and low-nutrient snacks and drinks (compared with mainstream magazines (e.g., Woman's Daily, Family Circle).
+
+Downloaded from heb.sagepub.com at RUTGERS UNIV on March 2, 2016
+
+574 Health Education & Behavior 42(5)
+
+Table 4. Summary of Abstracted Studies for This Systematic-Literature Review.
+
+First author
+
+Study objective, location, time period, and size (n)
+
+Methods, data, and statistical analysis
+
+AbbatangeloGray, J.
+
+ 
+
+Study objective: Characterize the frequency and type of health and nutrient content claims in food ads on English and Spanish prime time networks with high viewership of women aged 18 to 35 years.
+Study location: Atlanta, GA, Boston, MA Study time period: April-May 2003 Study size: n = 812
+
+Recorded two minutes preceding the introduction of the program through the closing credits following the program for a total of 95 prime-time weekday hours on the largest Latino networks and 72 prime-time weekday hours on the largest mainstream networks.
+Adapted an existing content analysis instrument and included section on advertisement characteristics and explicit health and nutrient content claims.
+Descriptive statistics and chi-square analysis used to describe the claims made in food advertising and test significant associations.
+
+Bang, H.   
+Bell, R. A. 
+ 
+
+Study objective: Examine the existing state of portrayals of Black, Latino, and Asian Americans in children's advertising on mainstream TV by identifying programs directed to children.
+Study location: Nationally representative Study time period: February-March 1997 Study size: = 813
+Study objective: Determine proportion of ads for food products, prevalence of food advertisements by network, types of food being promoted, advertisement difference by language, types of promotions used to market products and balance with pronutrition PSA's.
+Study location: Sacramento, CA metro area Study time period: June 2005-March 2006 Study size: n = 1,130
+
+Recorded weekend mornings, weekday mornings and afternoon shows for a total of 42.5 hours.
+Adapted an existing model to code children's programing and products.
+Descriptive statistics and chi-square analysis used to test study hypothesis for significant associations.
+Recorded weekday afternoon and Saturday morning programing with high viewership. Recordings randomly selected to measure one week of programing for each network.
+Adapted an existing measurement tool and included a section for presence of nutrition claims. Descriptive statistics and chi-square analysis used to test study hypothesis for significant associations.
+
+Castetbon, K. 
+ 
+Duerksen, S. C. 
+ 
+
+Study objective: Describe purchases of readyto-eat (RTE) cereal--a common breakfast choice in the U.S. population--overall and across sociodemographic categories according to nutritional content, product advertisement, target market, and presence on advertisement commercials.
+Study location: Nationally representative Study time period: 2008 calendar year Study size: n = 249
+Study objective: Evaluate whether variations exist in health-related ads and health promotion cues, such as ads for drugs, vitamins, exercise equipment, food and beverages in magazines catering to Latino, Black, and White women.
+Study location: Nationally representative Study time period: 2002-2003 Study size: n = 720
+
+Homescan Panel dataset analyzed; data set included RTE cereal purchases and RTE cereal advertisement exposure for a nationally representative sample of households in 2008.
+The Nutrition Profile Index (NPI), a validated index used to assess food nutrient quality was calculated for each RTE cereal. In addition, a volume index (VI) was calculated--the ratio of RTE cereal spending in the sociodemographic group divided by the percentage of the group in the national population according to the census.
+Statistical comparisons across categories were carried out using ANOVA and trend tests when appropriate.
+Ad content in four mainstream magazines (Family Circle, Good Housekeeping, Ladies' Home Journal, Woman's Day), four Black magazines (Ebony, Essence, Heart and Soul, Upscale), and four Latina selected magazines (Latina, Latina Style, Cristina, Vanidades) were analyzed and coded based on health-related content and photographic racial and ethnic role models presence in ads.
+Food and beverage ads were determined to be healthy or unhealthy based on subjective evaluations of the usual nutritive value, fat content, and energy density.
+Two reviewers independently analyzed each of the magazines. Qualitative content analysis was used to compare health-related ads among magazines catering to Latino, Black and White women.
+
+Key findings
+The proportion of food and beverage ads on the Spanish network samples were significantly lower than the English network (3.5% vs. 3%); however, beverage and fast-food chain ads were significantly more frequent on the Spanish network (43.9% vs. 34%) and (87.3% vs. 73.2%); whereas dine-in restaurant ads were significantly more frequent on the English network (26.8% vs. 12.7%).
+Spanish-network ads were twice as likely to use celebrity endorsements (20.8% vs. 9.9%, p < .05) and Spanish networks had significantly more ads for vitamin, mineral, fruit, and pure/ natural products (37.2% vs. 14.2%) and 25% made health claims versus 7% on English networks.
+Whites appeared in 99% of all the ads sampled for the study. Latino models were observed in 8.7% of all ads sampled.
+Latino models appeared less frequently compared with other racial/ethnic groups--only 16.9% of food ads had Latino models while 46.2% had White models and Black models appeared most frequently in food ads (61.1%).
+Kids' networks were significantly more likely (31.7%) to have food-related commercials compared with other types of networks (e.g., MTV, BET) regardless of English or Spanish networking (16% vs. 17.4%, respectively). Spanish networks had significantly more fastfood advertisements compared with English network commercials (46.7% vs. 28.4%).
+Of the total promotional messages sampled, 15.1% were related to food and 91.2% of those food-related promotions were in English, 8.7% were in Spanish and one was bilingual.
+All child-targeted RTE cereals with television advertising (n = 17) had an NPI score in the very poor to poor range.
+Latino households purchased fewer RTE cereals overall but when purchased they were significantly of the poorest nutritional quality (VI for Latino was 122 vs. 101 for Whites, 74 for Blacks, and 67 for Asians). This was especially true for the child-targeted, advertised RTE cereals.
+ 
+Approximately half of all ads in mainstream and Black magazines were health-related (49.9% and 47.4%), more than double the proportion in Latina magazines (29.5%).
+Unhealthy food and drink ads (high-fat/lownutrient snacks such as candy and drinks with added sugar other than alcohol) comprised 52% of food and beverage ads in Latina magazines and 29% in mainstream magazines.
+ 
+(continued)
+
+Downloaded from heb.sagepub.com at RUTGERS UNIV on March 2, 2016
+
+Adeigbe et al.
+
+575
+
+Table 4. (continued)
+
+First author Emond, J. A. 
+
+
+Study objective, location, time period, and size (n)
+Study objective: Compare nonethnically based supermarkets to Latino grocery stores (tiendas) in a lower income region with regard to availability, equality, and cost of several healthy food items, such as fresh fruits and vegetables.
+Study location: South San Diego County Study time period: Summer 2006 Study size: n = 25
+
+ Fleming-Milici, F.
+
+
+Study objective: Document the amount and categories of food and beverage ads Latino youth view on Spanish- and English-language TV compared with nonLatino youth and examine difference in viewing of Spanish- and English-language TV based on language preference.
+Study location: Nationally representative Study time period: 2010 Study size: n = 13,133
+
+ 
+Grier, S.  
+
+
+Study objective: Investigate the relationship of fast food proximity to middle and high schools and adolescent weight outcomes, with a focus on understanding intra-urban differences across groups defined by ethnicity and school income.
+Study location: California Study time period: 2003-2005 Study size: n = 100,000
+
+Inagami, S. 
+
+Study objective: Understand the relationship between an individual's BMI and where they shop for groceries relative to where they live.
+Study location: L.A. County Study time period: 2000-2005 Study size: n = 2,144
+
+
+
+
+
+Methods, data, and statistical analysis
+In-store observations and audits of grocery stores during a two-week period were conducted using three-field observers.
+Cost for fruits and vegetables was determined using the USDA's Food Buying Guide for Child Nutrition Programs. Costs were determined based on the USDA's recommended number of servings per week.
+Descriptive analysis of fresh produce availability, variety, quality, and cost per unit presented overall and by store type.
+Fisher's Exact test used to assess distribution of categorical variables by store type; median scores used for continuous measures with interquartile ranges and compared with Wilcoxon rank-sum tests.
+Data on gross rating points (GRP), which were licensed by Neilson and represent a per capital measure of ad exposure, were obtained using the Ad*Views database.
+Ads of interest were those on national broadcast and cable TV-viewing households of Latino and non-Latino preschoolers (2-5 years), children (6-11 years), and adolescents (12-17 years).
+Food and beverage ads on Spanish- and English-language TV were identified by product category and TV-viewing times by age and language preference.
+Descriptive statistics and two-proportion z tests identified significant differences in the proportion of ad exposure for different food and beverage categories on Spanish-versusEnglish-language TV.
+Individual-level student data from the California Healthy Kids Survey were used; BMI was the main outcome measure for this study and race/ethnicity, gender, and grade level were used as control variables.
+Proximity to fast-food restaurants from school were also of interest. Technomic Inc. was used to identify restaurants and California Department of Education's latitude and longitudes coordinates for schools.
+Hierarchical linear and logit models tested for conservative tests of the hypotheses interactive effects of urban and lower income by ethnicity, including school-fast food distance, BMI, and soda consumption.
+2000 U.S. Census data were linked with the Los Angeles Family and Neighborhood Study database, and BMI was calculated.
+A neighborhood disadvantage score (DSR)-- percent living below the poverty line, percent of households that are headed by a female, male unemployment rate, and percent of family receiving public assistance--was calculated at the censustract level to determine if respondents shopped in an area that was more or less advantaged to his or her residential area.
+Multilevel linear regression models were used to estimate the associations between BMI and socioeconomic characteristics of respondents and residential/grocery store characteristics.
+
+Key findings
+Tiendas were smaller, had significantly fewer check-out stations (3 vs. 8), and significantly fewer isles (5 vs. 12) compared with supermarkets.
+There were no significant differences in the number of fresh fruit items offered between tiendas and supermarkets (median 12 fruits vs. 13 fruits) nor vegetables (median 19 vegetables in tiendas and supermarkets); however, tiendas were more likely to offer produce at a lower cost per unit.
+Tiendas provided less shelf space for skim/fat free or 1% milk compared to supermarkets and skim milk was nearly 60 cents more per gallon in tiendas compared to supermarkets. In addition, lean meats were available in only 1 out of 10 tiendas compare with 10 of the 15 supermarkets.
+Spanish language TV viewed by Latino preschoolers, children, and adolescents contained fewer food and beverage ads per hour than English language TV; 2.9, 3.2 and 2.7 for Spanish language TV versus 3.2, 3.7 and 3.9 on English language TV.
+Approximately half of all food ads viewed on Spanish-language TV by Latino youth was for fast food, breakfast cereal, and candy. Fast food represented a significantly higher proportion of food ads viewed on Spanish TV versus English TV (29% vs. 21.5% on TV viewed by preschoolers).
+ 
+Latino students in low-income urban schools had a stronger association than other racial/ ethnic group students for having fast food near schools and increased body weight.
+Latino students in low-income urban schools had access to more fast-food restaurants.
+The benefits of (up to) three days of exercise may be negated for Latino students in lowincome urban schools with close proximity to fast-food restaurants.
+
+Forty-two percent of Latino respondents shopped in neighboring census tracks as opposed to their own census tract or beyond their neighboring census tract compared with 40% of Blacks and 39% percent of Whites.
+Longer distance travelled to the grocery store was associated with increased BMI of Latino respondents. The better predictor of BMI was not an individual's specific choice of grocery store but the location of where the average resident shopped.
+BMI increased when individuals shopped for groceries in more-disadvantaged neighborhoods. Neighborhood SES may be a better proxy measure for the grocery store quality, which may in turn influence BMI.
+
+(continued)
+
+Downloaded from heb.sagepub.com at RUTGERS UNIV on March 2, 2016
+
+576 Health Education & Behavior 42(5)
+
+Table 4. (continued)
+
+First author Kunkel, D. 
+ 
+Moore, L. V. 
+
+ Moskowitz, H. 
+  Powell, L. M. 
+ 
+Rose, D.   
+
+Study objective, location, time period, and size (n)
+Study objective: Examine Spanish-language children's TV environment to better understand the patterns of food ads targeted at child audiences, and to identify any disparities that may exist in comparison with ads on English-language channels.
+Study location: Nationally representative Study time period: 2009 Study size: n = 705
+Study objective: Investigate the relationship between two global measures of diet and three measures of the local food environment.
+Study location: Forsyth County, NC; Baltimore City and County, MD; New York, NY
+Study time period: 2000-2002 Study size: n = 1,000
+
+Methods, data, and statistical analysis
+Captured one episode of all children's programming that regularly aired between 7:00 a.m. and 10:00 a.m. on each of the targeted Spanish-language channels (Azteca America, Telefutura, Telemundo, Univision, Discovery Familia, Disney XD, and Sorpresa) on each selected day of the week. 79 hours of content for Spanish-language TV, 70.5 hours for English-language were recorded.
+Adapted an existing instrument to quantify the number of product ads, product types, and length of ads. In addition, the U.S. Department of Health and Human Services' food rating system Go, Slow, Whoa was used to categorize nutritional quality of foods being advertised.
+Qualitative content analysis was conducted over a 10-week period and intercoder reliability was assessed on a biweekly basis
+Data from the Multi-Ethnic Study of Atherosclerosis (MESA) were used.
+Data on supermarket availability and location were obtained from InfoUSA.
+Binominal regression was used to model the probability of having a healthy diet as a function of the local food environment.
+
+Study objective: Assess Latinos' food-product preferences toward four American foods and determine if Latinos desire different types of American foods and beverages compared with non-Latinos.
+Study location: Nationally representative Study time period: No timeframe specified Study size: n = Approx. 300
+Study objective: Examine if local-area food stores are associated with adolescents' BMI and overweight status.
+Study location: Nationally representative Study time period: 1997-2003 Study size: n = 73,079
+
+Study sampled a random set of participants using an electronic survey delivered to individuals' e-mail addresses.
+OLS analysis used with individual-level weights for national representativeness.
+Data from Monitoring the Future (MTF) was merged by zip code with food outlet data from Dun and Bradstreet, fruit and vegetable prices from the American Chamber of Commerce Researchers Association, and the 2000 U.S. Census.
+OLS used to determine effects of food store access on adolescent BMI and overweight status.
+
+Study objective: Determine if availability of specific foods in a neighborhood is associated with resident's BMI.
+Study location: 26 parish (county) areas of Southeast Louisiana including New Orleans, Baton Rouge, and Lafayette
+Study time period: 2008 Study size: n = 307
+
+Study sample taken from "Alcohol availability and neighborhood characteristics in Los Angeles, CA and South Louisiana."
+Mapped retail outlets, preformed in-store audits and telephone surveys.
+OLS analysis used and controlled for gender, age, race/ethnicity, education, household income, and car ownership.
+
+Key findings
+Food and beverage companies participating in the Children's Food and Beverage Advertising Initiative promoted "Whoa" foods at a higher rate (78.2%) on Spanish-language TV than English-language TV (68.5%). Fast-food ads appeared at a significantly higher rate on Spanish- (46.2%) versus English-language TV (35.5%) and 84% of all foods and beverages ads on Spanish shows were classified as "Whoa" products (poorest nutritional quality) versus 72.5% for English.
+In addition, sugared-snack ads appeared at a higher rate on Spanish-language TV (21.1%) versus English-language TV (10.1%) and less than 1% (0.6%) of all food and beverage ads on Spanish TV were "Go" (highest nutritional quality) products.
+Forty-seven percent of participants reported that they did most of their food shopping within one mile of their home.
+Latino participants lived in areas with higher densities of supermarkets (reflecting their location in New York) and ranked their neighborhoods better than Blacks and Whites.
+In addition, income was positively associated with high probabilities of having a healthy diet and individuals who did not have a supermarket within one mile of their residence were 25% less likely to have a healthy diet compared with those who did.
+English-speaking Latino respondents and nonLatino respondents show similar patterns in food preferences.
+Latinos were less likely to be interested in what might be called a "healthful salad" and unusual flavors fared worse among non-Latino respondents compared to Latino respondents.
+
+Availability of chain supermarkets had a similar association with BMI for Latino and White adolescents. One additional local-area chain supermarket per 10,000 capita was associated with a 0.09 unit lower BMI for Latino and a 0.10 unit lower BMI for Whites; a stronger association was seen for Blacks (0.32-unit lower BMI).
+BMI and overweight were significantly higher in areas where there were more convenience stores; each additional store per 10,000 capita was associated with a 0.03 increase in BMI and 0.15% increase in overweight status. Of all the groups, Latinos' BMI increased most with convenience store density.
+An additional 100 meters of shelf space for snack foods was associated with an increase in 0.1 BMI units.
+At one kilometer, not only was the aggregate availability of energy-dense snack foods positively associated with BMI but so too was the availability of specific groups of snacks-- salty snacks, candies, sodas. This was significant for Blacks but not for Latinos.
+
+Note. ads = advertisements; TV = television; PSA = public service announcement; OLS = ordinary least square; ANOVA, analysis of variance; USDA = U.S. Department of Agriculture; BMI = body mass index; SES = socioeconomic status.
+
+Place. Six articles analyzed RFS placement, characteristics, 2012; Grier & Davis, 2013; Inagami et al., 2006; Moore and availability and quality of food products (Emond et al., et al., 2008; Powell et al., 2007; Rose et al., 2009). Four used
+
+Downloaded from heb.sagepub.com at RUTGERS UNIV on March 2, 2016
+
+Adeigbe et al.
+
+577
+
+individual and neighborhood characteristic data to examine RFS distribution in proximity to homes (Moore et al., 2008), point of grocery purchases (Inagami et al., 2006), and schools (Grier & Davis, 2013; Powell et al., 2007). Two articles analyzed the availability, quality, and/or placement of specific products in supermarkets and smaller corner stores, called tiendas (Emond et al., 2012; Rose et al., 2009).
+Moore et al. studied diet and food environment relationships in Forsyth County, NC, Baltimore City and County, MD, and New York, and found that Latinos lived in areas with significantly higher supermarket density compared with Blacks and Whites. In Los Angeles County neighborhoods, Inagami et al. analyzed the impact of where people shop for groceries on body mass index (BMI) and found that Latinos were more likely to shop in neighboring census tracts as opposed to their own census track (42%) compared with Blacks (40%) and Whites (39%). For Latinos, greater distance traveled to grocery stores was associated with increased BMI.
+Powell et al. used Monitoring the Future data to describe the relationship between RFS placement and schools by examining adolescent BMI. They found that the availability of convenience stores caused the highest rise in BMI for Latino students, whereas supermarkets were associated with reduced BMI for Latino, White, and Black students. Similarly, Grier and Davis (2013), using the California Healthy Kids Survey data, found that the association between school-to-fast-food distance and increases in body weight for Latino students in low-income urban schools is four times stronger than those for White students.
+Rose et al. looked at in-store food product placement and availability in southeast Louisiana. They found that an additional 100 meters of shelf-space for snack foods was associated with an increase in BMI, and the availability of certain groups of snacks (salty snacks, candies, and sodas) was higher for Latinos and Blacks. Similarly, Emond et al. conducted in-store audits of supermarkets and tiendas in south San Diego County and found no significant differences in the availability of fruits and vegetables between tiendas and supermarkets, but the availability of low-fat/reduced-fat milks and lean meats was less in tiendas, which were smaller and had significantly fewer check-out stations and aisles than supermarkets.
+Price.Only one article (Emond et al., 2012) analyzed the pricing of foods by RFS type in terms of weekly cost of fruits, vegetables, and milk products. The article found that tiendas were more likely to offer produce at a lower cost per unit--about $3 cheaper than similar items at supermarkets-- but that skim milk was nearly 60 cents more per gallon in tiendas.
+Product.One article discussed customization of food and beverage products that appeal to Latinos (Moskowitz et al., 2004). Moskowitz et al. assessed Latinos food-product
+
+preferences and whether Latinos desire different types of American foods and beverages compared with non-Latinos. They found that Latinos and non-Latinos had similar patterns in food preferences; however, Latinos were less predisposed to be interested in a "healthful salad" and more accepting of "unusual flavors" than non-Latinos.
+Evaluation of the MQS of Reviewed Studies
+Beyond the marketing strategy analysis, each study was scored for their methodological quality. This was done to evaluate the quality of the articles used to deduce the results of this study and to provide a detailed descriptive synopsis of the studies abstracted while assigning scores to indicate the variation in overall methodological quality. MQS ranged from 9 to 14. See Table 5 for distribution of MQS by score criterion and Table 6 for individual MQS. All studies used a cross-sectional research design. Twelve studies had a sample size greater than 300. Seven were nationally representative, 11 of the studies reported results based on age group, and seven reported results based on socioeconomic status. The use, adaptation and need for a measurement instrument varied; four of the articles adapted previously established instruments to measure their outcome, four created their own measurement instruments, and six did not require a measurement instrument because they were conducting secondarydata analysis. Regarding data validity and reliability, eight studies discussed data reliability, but the overwhelming majority did not discuss data validity. For data analysis, six studies used qualitative analysis or univariate statistics; seven used bivariate statistics/analysis of variance, and one used multiple regression/analysis of covariance. None of the articles analyzed study differences based on Latino racial subgroups.
+Discussion
+With a final sample size of only 14 articles, evidence on how food and beverage marketing influence Latinos' food environments compared with other groups is limited. Much of the literature uses a percent-based approach to identifying or determining a Latino study population, which limits the ability to make inferences on what is being observed in terms of food and beverage marketing toward Latinos.
+Promotion and Product
+Overall, this analysis suggests that the food and beverage marketing environment for Latinos is less likely to promote healthy eating and more likely to encourage the consumption of low-nutrient, calorie-dense foods and beverages, especially for Latino children. As the studies in this analysis indicated, fast food, sugary beverages, and nutritionally poor cereal ads are significantly more frequent on Spanish than English network TV. These findings may have greater
+
+Downloaded from heb.sagepub.com at RUTGERS UNIV on March 2, 2016
+
+578 Health Education & Behavior 42(5)
+
+Table 5. Frequency Distribution of Abstracted Studies by MQS Criteria.
+
+Distribution of MQS criteria among reviewed studies
+
+MQS criteria
+Study design  Correlation/cross-sectional = 1 point  Retrospective = 2 points  Prospective = 3 points Sample size  Small (<100) = 1 point  Medium (>100 and <300) = 2 points  Large (>300) = 3 points Age  Not reported = 0 points  Reported = 1 point Ethnicity (Latino subgroup)  Not reported = 0 points  Reported = 1 point Measurement instrument  Instrument not reported = 0 points  Developed instrument to measure study outcome = 1 point  Adopted instrument to measure study outcome = 2 points  Instrument not necessary, study used secondary data = 2 points Reported data validity  Not reported = 0 points  Reported = 1 point Reported data reliability  Not reported = 0 points  Reported = 1 point Data analysis  Qualitative analysis or univariate statistics/descriptive = 1 point  Bivariate statistics/ANOVA = 2 points  Multiple regression/ANCOVAa = 3 points National representativeness  Study in one location, site, or market = 1 point  Study in regional, several sites, or markets = 2 points  Study with national representativeness = 3 points Socioeconomic status description  Not reported = 0 points  Reported = 1 point
+
+Frequency (n)
+14 -- --
+1 1 12
+3 11
+14 --
+-- 4 4 6
+13 1
+6 8
+6 7 1
+1 6 7
+7 7
+
+Percentage
+100 -- --
+7 7 86
+21 79
+100 --
+-- 29 29 43
+93 7
+43 57
+43 50 7
+7 43 50
+50 50
+
+Note. MQS = Methodological quality score; ANOVA, analysis of variance; ANCOVA, analysis of covariance. aIncluding models that allow for outcome variables with error distribution models other than a normal distribution.
+
+implications for Latino youth, who report watching 5 hours more TV a week compared with other U.S. youth (Rideout et al., 2011). In addition, the advertising strategies used on Spanish network TV--celebrity endorsements, licensed characters, health nutritional and novelty claims, family focus--purposely appeal to the Latino consumer (Abbatangelo-Gray et al., 2008). Latino actors/models are least frequently cast among all population groups in promotional food ads on English mainstream TV, but one study found that food ads with Latino actors/models are shown in a family setting almost as frequently as Whites, reinforcing
+
+marketers' use of culturally recognized concepts of family both explicitly and implicitly to target to this segment.
+Place
+This analysis also determined that Latinos' food environment and the placement of RFSs appear to influence their health--more particularly BMI. RFS placement in the context of fast-food restaurants or availability of supermarkets cannot be generalized, as geographical differences exist. For example, in Los Angeles, most Latinos traveled out of their
+
+Downloaded from heb.sagepub.com at RUTGERS UNIV on March 2, 2016
+
+Adeigbe et al.
+
+579
+
+Table 6. Individual Study Methodological Quality Scores.
+
+First author
+
+Study Sample
+
+Data
+
+design size
+
+Age Ethnicity MI validity
+
+Abbatangelo-Gray, J. Bang, H. Bell, R. A. Castetbon, K. Duerksen, S. C. Emond, J. A. Fleming-Milici, F. Grier, S. Inagami, S. Kunkel, D. Moore, L. V. Moskowitz, H. Powell, L. M. Rose, D.
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+31 31 31 21 30 10 31 31 31 31 31 30 31 31
+
+02 1 01 0 02 0 0 2a 0 01 0 02 0 0 2a 0 0 2a 0 0 2a 0 02 0 0 2a 0 01 0 0 2a 0 01 0
+
+Note. SES = Socioeconomic status; MI = measurement instrument; Rep = representativeness. aDenotes MI not necessary, study used secondary data.
+
+Data reliability
+1 1 1 0 1 1 0 0 0 1 1 0 0 1
+
+Data analysis
+1 1 1 2 1 1 1 2 2 2 3 2 2 2
+
+Rep
+2 3 2 3 3 2 3 2 1 3 2 3 3 2
+
+SES
+0 0 0 1 0 1 0 1 1 0 1 0 1 1
+
+Total score
+12 11 11 12 10
+9 11 12 11 13 14 10 13 12
+
+neighborhood to buy groceries, and Latino-serving corner stores (tiendas) in south San Diego County offered the same or better healthy food options and fruit and vegetables at lower prices than supermarkets. Conversely in New York City, most Latinos lived in areas with a higher density of supermarkets and ranked their neighborhood's food environment better than Blacks and Whites and, while Latinos are more likely to live in urban areas than non-Latinos, a more nationally representative study might better analyze trends in food outlet placement and how that placement affects Latinos, especially those in rural areas. The results on Latino students and their school environments are more uniform: Latino students who attend low-income, urban schools are within a short walk of fast-food restaurants, more so than White students, and this correlates directly with higher BMIs. Furthermore, another study in New York City found that low-income and Latino students had the highest exposure to inexpensive, energy-dense food outlets, which included bodegas (similar to tiendas) within a 5-minute walk of their schools (Neckerman et al., 2010).
+Price
+One article was identified that directly discussed the price of food items and, similar to RFS placement, geographical differences likely exist. Emond et al. found that fresh produce was cheaper and skim milk was more expensive in tiendas than supermarkets in south San Diego County, but this finding cannot be generalized. Further research is needed to understand product pricing and, as Williams and colleagues discussed, food and beverage companies' use of price-based incentives/ disincentives for retailers and the pass-on to consumers (Williams, Crockett, Harrison, & Thomas, 2012).
+
+Future Research
+This study determined that the majority of research being conducted to understand food and beverage marketing toward Latinos is still in its infancy. By assessing the MQS of the selected articles, this review was able to describe the variations in methodological quality as it relates the current body of literature discussing, both directly and indirectly, food and beverage marketing's influence on Latino's food environments. MQS ranged from 9 to 14 with variability in each of the studies' intended outcome and measurements used. Using the findings of the MQS, recommendations for future research needs and areas of research design improvement in examining food and beverage marketing to Latinos are presented. Of the 14 articles identified, all the studies discussed the Latino population as a homogenous group; however, this group is known to be heterogeneous and cultural differences likely influence how marketers target these groups and potentially how Latinos respond to these strategies (Pieraccini et al., 2010). Future research studying food and beverage marketing for Latinos should account for the heterogeneity seen among the Latino population. In addition, variability exists in the geographic representativeness of the studies used in the review; half of the studies were nationally representative while the others were more regional/place specific. Future research should examine multiple locations/regions across the U.S. to better explain and identify region-specific marketing strategies, and future research should refrain from using percent-based Latino grouping, as generalizations may lead to ecological fallacies. Furthermore, future research should consider using mixed methods and multilevel and multivariate analyses to explain the relationship between race/ethnicity, geographical location, and proximity/exposure to food and beverage marketing.
+
+Downloaded from heb.sagepub.com at RUTGERS UNIV on March 2, 2016
+
+580 Health Education & Behavior 42(5)
+
+Limitations
+This study's findings are limited by our stringent study inclusion criteria; however, this stringency was necessary because this was the first article to examine the aggregate outcome of marketing strategies used to influence Latinos' food environments explicitly, and the authors favored a strict inclusion standard rather than uncertainty when making study inferences. The inclusion criteria therefore excluded studies that focused on Latinos with no comparison group or studies that identified a Latino population using a percent-Latino approach, which may have potentially contributed to our understanding. In addition, the authors acknowledge that the results of this study--while focused on Latinos--used key terms and study criteria that may mask known disparities in marketing to other minority groups, such as Blacks.
+Conclusion
+Our study examined the food and beverage marketing environments for Latino consumers based on the review of published research investigating food marketers' strategies. These findings reinforce the notion that Latinos are at a disadvantage when it comes to exposure to health-lifestyle messaging and availability of healthy foods in their neighborhoods. It is imperative public health interventions and policy initiatives include and explicitly address food and beverage marketing to reduce obesity and chronic disease prevalence among Latinos.
+Acknowledgments
+The authors would like to recognize Ms. Rosalie Aguilar, Ms. Chelsea Cox, Ms. Amanda Sintes-Yallen, and Mr. Cliff Despres for contributing to the conceptualization of this study.
+The authors wish to thank the Robert Wood Johnson Foundation for their support of Salud America! The RWJF Research Network to Prevent Obesity Among Latino Children.
+Authors' Note
+Approval by an institutional review board was not required for this study. The focus of this study was to review previously published literature, thus researchers had no need to interact with human subjects.
+Declaration of Conflicting Interests
+The authors declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+Funding
+The authors disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: This study was funded by the Robert Wood Johnson Foundation through its national program, Salud America! The RWJF Research Network to Prevent Obesity Among Latino Children (www.salud-america.org).
+
+References
+Abbatangelo-Gray, J., Byrd-Bredbenner, C., & Austin, S. B. (2008). Health and nutrient content claims in food advertisements on Hispanic and mainstream prime-time television. Journal of Nutrition Education and Behavior, 40, 348-354. doi:10.1016/j. jneb.2008.01.003; 10.1016/j.jneb.2008.01.003
+Bang, H.-K., & Reece, B. B. (2003). Minorities in children's television commercials: New, improved, and stereotyped. Journal of Consumer Affairs, 37, 42-67. doi:10.1111/j.1745-6606.2003. tb00439.x
+Bell, R. A., Cassady, D., Culp, J., & Alcalay, R. (2009). Frequency and types of foods advertised on Saturday morning and weekday afternoon English- and Spanish-language American television programs. Journal of Nutrition Education and Behavior, 41, 406413. doi:10.1016/j.jneb.2008.05.008; 10.1016/j.jneb.2008.05.008
+Borden, N. H. (1964). The concept of the marketing mix. Journal of Advertising Research, 24(4):7-12.
+Campbell, J. M. (2013). Muy local: Differentiating Hispanic and Caucasian shoppers of locally produced foods in US grocery. Journal of Retailing and Consumer Services, 20, 325333. Retrieved from http://www.scopus.com/inward/record. url?eid=2-s2.0-84876732647&partnerID=40&md5=dee37788 825f8f1118f0bb507ee372df
+Castetbon, K., Harris, J. L., & Schwartz, M. B. (2012). Purchases of ready-to-eat cereals vary across US household sociodemographic categories according to nutritional value and advertising targets. Public Health Nutrition, 15, 1456-1465. doi:10.1017/S1368980011003065
+Chen, L.-S., & Goodson, P. (2007). Factors affecting decisions to accept or decline cystic fibrosis carrier testing/screening: A theory-guided systematic review. Genetics in Medicine, 9, 442-450.
+Dean, W. R., Sharkey, J. R., & St John, J. (2011). Pulga (flea market) contributions to the retail food environment of colonias in the South Texas border region. Journal of the American Dietetic Association, 111, 705-710. doi:10.1016/j.jada.2011.02.009
+Duerksen, S. C., Mikail, A., Tom, L., Patton, A., Lopez, J., Amador, X., . . .Sadler, G. R. (2005). Health disparities and advertising content of women's magazines: A cross-sectional study. BMC Public Health, 5, 85. doi:10.1186/1471-2458-5-85
+Emond, J. A., Madanat, H. N., & Ayala, G. X. (2012). Do Latino and non-Latino grocery stores differ in the availability and affordability of healthy food items in a low-income, metropolitan region? Public Health Nutrition, 15, 360-369. doi:10.1017/ S1368980011001169; 10.1017/S1368980011001169
+Fleming-Milici, F., Harris, J. L., Sarda, V., & Schwartz, M. B. (2013). Amount of Hispanic youth exposure to food and beverage advertising on Spanish- and English-language television. JAMA Pediatrics, 167, 723-730. doi:10.1001/jamapediatrics.2013.137; 10.1001/jamapediatrics.2013.137
+Fry, R., & Passel, J. S. (2009, May 28). Latino children: A majority are U.S.-born offspring of immigrants. Washington, DC: Pew Research Center. Retrieved from http://pewhispanic.org/files/ reports/110.pdf
+Grier, S., & Davis, B. (2013). Are all proximity effects created equal? Fast food near schools and body weight among diverse adolescents. Journal of Public Policy & Marketing, 32, 116-128. doi:10.1509/jppm.11.158
+Grier, S., & Kumanyika, S. (2008). The context for choice: Health implications of targeted food and beverage marketing to
+
+Downloaded from heb.sagepub.com at RUTGERS UNIV on March 2, 2016
+
+Adeigbe et al.
+
+581
+
+African Americans. American Journal of Public Health, 98, 1616-1629. doi:10.2105/AJPH.2007.115626 Holland, J., & Gentry, J. W. (1999). Ethnic consumer reaction to targeted marketing: A theory of intercultural accommodation. Journal of Advertising, 28(1), 65-77. Retrieved from http://www.scopus.com/inward/record.url?eid=2-s2.00040794449&partnerID=tZOtx3y1 Inagami, S., Cohen, D. A., Finch, B. K., & Asch, S. M. (2006). You are where you shop: Grocery store locations, weight, and neighborhoods. American Journal of Preventive Medicine, 31, 10-17. doi:10.1016/j.amepre.2006.03.019 Institute of Medicine. (2013). Evaluating obesity prevention efforts: A plan for measuring progress. Washington, DC: National Academies Press. Krogstad, J., Manuel, M., & Hugo Lopez, M. (2014, April 29). Hispanic nativity shift: U.S. births drive population growth as immigration stalls. Washington, DC: Pew Research Center. Retrieved from http://www.pewhispanic.org/2014/04/29/ hispanic-nativity-shift/ Kunkel, D., Mastro, D., Ortiz, M., & McKinley, C. (2013). Food marketing to children on U.S. Spanish-language television. Journal of Health Communication, 18, 1084-1096. doi:10.10 80/10810730.2013.768732; 10.1080/10810730.2013.768732 Livingston, G. (2011, February 9). Latinos and digital technology, 2010. Washington, DC: Pew Research Center. Retrieved from http://pewhispanic.org/files/reports/134.pdf Mair, F. S., May, C., O'Donnell, C., Finch, T., Sullivan, F., & Murray, E. (2012). Factors that promote or inhibit the implementation of e-health systems: An explanatory systematic review. Bulletin of the World Health Organization, 90, 357-364. Retrieved from http://www.scielosp.org/scielo. php?script=sci_arttext&pid=S0042-96862012000500011&lng =en&nrm=iso&tlng=en Montgomery, K. C., & Chester, J. (2009). Interactive food and beverage marketing: Targeting adolescents in the digital age. Journal of Adolescent Health, 45(3 Suppl.), S18-S29. doi:10.1016/j.jadohealth.2009.04.006 Moore, L. V., Diez Roux, A. V., Nettleton, J. A., & Jacobs, D. R., Jr. (2008). Associations of the local food environment with diet quality--A comparison of assessments based on surveys and geographic information systems: The multi-ethnic study of atherosclerosis. American Journal of Epidemiology, 167, 917924. doi:10.1093/aje/kwm394 Moskowitz, H., Itty, B., Katz, R., Maier, A., Beckley, J., & Flores, L. (2004). Hispanic and non-Hispanic responses to concepts for four foods. Journal of Sensory Studies, 19, 459-485. Retrieved from http://www.scopus.com/inward/record.url?eid=2-s2.017044440363&partnerID=40&md5=18b7d18123d813827fc3 e06cf9509dbf Neckerman, K. M., Bader, M. D. M., Richards, C. A., Purciel, M., Quinn, J. W., Thomas, J. S., . . .Rundle, A. (2010). Disparities in the food environments of New York City public schools. American Journal of Preventive Medicine, 39, 195202. Retrieved from http://www.scopus.com/inward/record. url?eid=2-s2.0-77955904331&partnerID=40&md5=f7132509 38ccc66e0b5122677131d3c0 Nevarez, C. R., Lafleur, M. S., Schwarte, L. U., Rodin, B., de Silva, P., & Samuels, S. E. (2013). Salud Tiene Sabor: A model for healthier restaurants in a Latino community. American
+
+Journal of Preventive Medicine, 44(3 Suppl. 3), S186-S192. doi:10.1016/j.amepre.2012.11.017 Ogden, C. L., Carroll, M. D., Kit, B. K., & Flegal, K. M. (2014). Prevalence of childhood and adult obesity in the United States, 2011-2012. JAMA: The Journal of the American Medical Association, 311, 806-814. doi:10.1001/jama.2014.732 Palmer, E., & Carpenter, C. (2006). Food and beverage marketing to children and youth: Trends and Issues. Media Psychology, 8, 165-190. doi:10.1207/s1532785xmep0802_6 Passel, J. S., Cohn, D., & Lopez, M. H. (2011, March 24). Census 2010: 50 Million Latinos: Hispanics account for more than half of nation's growth in past decade. Washington, DC: Pew Hispanic Center. Retrieved from http://pewhispanic.org/files/ reports/140.pdf Peng, W., Crouse, J. C., & Lin, J.-H. (2013). Using active video games for physical activity promotion: A systematic review of the current state of research. Health Education & Behavior, 40, 171-192. Retrieved from http://heb.sagepub.com/content/40/2/171.short Pieraccini, C., Hernandez, L., & Alligood, D. (2010, Spring). The growing Hispanic market media and culture collide. International Journal of Integrated Marketing Communications, 2(1). Retrieved from http://www.racombooks.com/ijimc/index. php?option=com_content&view=article&id=23:the-growinghispanic-market-media-and-culture-collide&catid=3:spring2010&Itemid=12 Powell, L. M., Auld, M. C., Chaloupka, F. J., O'Malley, P. M., & Johnston, L. D. (2007). Associations between access to food stores and adolescent body mass index. American Journal of Preventive Medicine, 33(4 Suppl.), S301-S307. doi:10.1016/j. amepre.2007.07.007 Rideout, V., Lauricella, A., & Wartella, E. (2011, June). Children, media, and race media use among White, Black, Hispanic, and Asian American children. Retrieved from http://web5. soc.northwestern.edu/cmhd/wp-content/uploads/2011/06/ SOCconfReportSingleFinal-1.pdf Rose, D., Hutchinson, P. L., Bodor, J. N., Swalm, C. M., Farley, T. A., Cohen, D. A., & Rice, J. C. (2009). Neighborhood food environments and body mass index: The importance of in-store contents. American Journal of Preventive Medicine, 37, 214-219. doi:10.1016/j.amepre.2009.04.024; 10.1016/j. amepre.2009.04.024 Sharkey, J. R., Dean, W. R., Nalty, C. C., & Xu, J. (2013). Convenience stores are the key food environment influence on nutrients available from household food supplies in Texas Border Colonias. BMC Public Health, 13(1), 45. doi:10.1186/1471-2458-13-45 Sharkey, J. R., Horel, S., Han, D., & Huber, J. C. (2009). Association between neighborhood need and spatial access to food stores and fast food restaurants in neighborhoods of colonias. International Journal of Health Geographics, 8(1), 9. doi:10.1186/1476-072X-8-9 Shelby Report. (2011, July 1). Hispanic buying power. Retrieved from http://www.theshelbyreport.com/2011/07/01/hispanicbuying-power/#.UzmFM_ldWdQ Skinner, A. C., & Skelton, J. A. (2014). Prevalence and trends in obesity and severe obesity among children in the United States, 1999-2012. JAMA Pediatrics, 168, 561-566. doi:10.1001/ jamapediatrics.2014.21
+
+Downloaded from heb.sagepub.com at RUTGERS UNIV on March 2, 2016
+
+582 Health Education & Behavior 42(5)
+
+Sosa, E. T. (2012). Mexican American mothers' perceptions of childhood obesity: A theory-guided systematic literature review. Health Education & Behavior, 39, 396-404. doi:10.1177/1090198111398129
+Taylor, P., Kochhar, R., Livingston, G., Lopez, M. H., Morin, R., Fry, R. & Pew Hispanic Center. (2009, December 11). Between two worlds: How young Latinos come of age in America. Washington, DC: Pew Hispanic Center. Retrieved from http:// www.pewhispanic.org/2009/12/11/between-two-worlds-howyoung-latinos-come-of-age-in-america/
+Thompson, D. A. (2010). Television viewing by young Hispanic children: Evidence of heterogeneity. Archives of Pediatrics & Adolescent Medicine, 164, 174-179.
+Valdez, Z., Dean, W. R., & Sharkey, J. R. (2012). Mobile and homebased vendors' contributions to the retail food environment in
+
+rural South Texas Mexican-origin settlements. Appetite, 59, 212-217. doi:10.1016/j.appet.2012.04.012 Wang, Y. C., McPherson, K., Marsh, T., Gortmaker, S. L., & Brown, M. (2011). Health and economic burden of the projected obesity trends in the USA and the UK. Lancet, 378, 815-825. doi:10.1016/S0140-6736(11)60814-3 Williams, J. D., Crockett, D., Harrison, R. L., & Thomas, K. D. (2012). The role of food culture and marketing activity in health disparities. Preventive Medicine, 55, 382-386. doi:10.1016/j. ypmed.2011.12.021; 10.1016/j.ypmed.2011.12.021 Yancey, A. K., Cole, B. L., Brown, R., Williams, J. D., Hillier, A., Kline, R. S., . . .McCarthy, W. J. (2009). A cross-sectional prevalence study of ethnically targeted and general audience outdoor obesityrelated advertising. Milbank Quarterly, 87, 155-184. doi:10.1111/ j.1468-0009.2009.00551.x; 10.1111/j.1468-0009.2009.00551.x
+
+Downloaded from heb.sagepub.com at RUTGERS UNIV on March 2, 2016
+
+

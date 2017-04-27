@@ -1,0 +1,434 @@
+Jaime Noriega & Edward Blair
+Advertising to Bilinguals: Does the Language of Advertising Influence
+the Nature of Thoughts?
+When targeting bilingual consumers, advertisers have a choice to advertise in a bilingual's native language or in the country's dominant language. Within the Hispanic community in the United States, for example, Kellogg has a choice to advertise Frosted Flakes in English or in Spanish. But which is the better choice and why? This research considers whether the choice of language in advertising to bilinguals influences the types of thoughts they have in response to an advertisement. In other words, for a bilingual, can the exact same selling message cue different associations depending on the language in which it is presented? The underlying issue is whether advertisers can use language of execution as a strategic variable with which to generate certain types of associations that may facilitate persuasion. The authors consider this issue from a social cognition perspective. They hypothesize that a native-language advertisement is more likely to elicit self-referent thoughts about family, friends, home, or homeland, which in turn may lead to more positive attitude measures and behavioral intentions. Furthermore, the authors show that these effects are moderated by the consumption context presented in the advertisement. Keywords: information processing, bilingualism, advertising, psycholinguistics, consumer research
+
+Aprimary topic of interest in the U.S. literature on cross-cultural communication is whether advertising directed at bilingual minorities is more effective if presented in the country's dominant language or in the bilinguals' native language. According to the U.S. Census Bureau (2005), the United States has more than 50 million people who speak a language other than English at home, and the trend toward acculturation rather than assimilation means that many minorities are choosing to preserve elements of their ethnic identity, perhaps the most distinctive of which is language.
+Previous research on language choice and ad effectiveness has used three perspectives to explain why language choice can make a difference in advertising effectiveness for bilingual markets. First, the earliest research considered hypotheses related to identity and accommodation. This stream of research is conditional on in-group versus outgroup identities and presumes that the target group is made up of minorities for whom an advertisement is more likely to be persuasive if it features a character similar to them or is written in their native language (Deshpande, Hoyer, and Donthu 1986; Deshpande and Stayman 1994; Koslow, Shamdasani, and Touchstone 1994; Whittler 1991). This effect should occur as long as group members believe that the act of translating or otherwise making the advertisement culturally accessible is a sign that the advertiser acknowl-
+Jaime Noriega is Assistant Professor of Marketing, Marketing Department, College of Commerce, DePaul University (e-mail: jnoriega@depaul. edu). Edward Blair is Michael J. Cemo Professor and Chair of Marketing & Entrepreneurship, C.T. Bauer College of Business, University of Houston (e-mail: blair@uh.edu).
+
+edges, values, and respects them. The moderators suggested by this mechanism are anything that would enhance or diminish these effects. For example, Deshpande and colleagues (Deshpande, Hoyer, and Donthu 1986; Forehand and Deshpande 2001) find that ethnic self-identity affects whether a native-language execution aids ad persuasiveness, such that a native-language execution is more persuasive for people whose ethnic self-identity is high rather than low.
+Second, and more recently, cross-cultural communication research has suggested that language choice can be related to ad effectiveness through ease of processing. In this regard, Luna and Peracchio (1999, 2001) find that it is preferable to advertise to bilinguals in their first/native language not because of any social or cultural considerations but simply because second-language words are more difficult to process for bilinguals. Because conceptual links are more difficult to come by for second-language words than for first-language words, less of a message will be recalled when it is presented in the person's second language. The moderators suggested by this stream of research are any elements that affect the level of verbal processing required by an advertisement or the ease of doing this processing. An obvious choice is the audience member's language fluency, and Luna and Peracchio (2001; see also Luna, Peracchio, and DeJuan 2003) also find that high levels of picture-text congruity make the process easier and allow for better recall of a second-language message.
+Third, in their most recent research, Luna and Peracchio (2002, 2005) also consider language effects from the perspective of affective response. Luna and Peracchio's argument is that some words have more of an emotional attachment when presented in the native language than in the second language. This may occur as a result of sociolinguis-
+
+(c) 2008, American Marketing Association ISSN: 0022-2429 (print), 1547-7185 (electronic)
+
+69
+
+Journal of Marketing Vol. 72 (September 2008), 69-83
+
+tic differences. A bilingual's native culture may value certain concepts (e.g., family, relationships, religion) more highly than other cultures, and the language in which the meaning of the concept is first learned then becomes the prototypical representation of that concept. A possible moderator suggested by this stream of research is the nature of the appeal of any given advertisement. The impact of affectladen words might be more important when using an emotional appeal instead of a rational or functional appeal based on the product's attributes. Note that the effects of this stream of research are not directly conditional on in-group versus out-group identities.
+In this article, we consider a fourth perspective to explain how the choice of language might affect ad persuasiveness. Our approach is based on social cognition. We argue that each of a bilingual's two languages may cue different associations for the same message, and thus each language execution has the potential to lead to different levels of persuasiveness. In particular, we argue that the two languages are likely to be differentially associated with a bilingual's experiences among family and friends and thus are differentially likely to cue self-referent associations with these experiences, with possible implications for persuasion. The moderators suggested by this line of research are any aspects of the stimuli that are somehow related to this cueing. We examine how the consumption context presented in an advertisement may moderate the relationship between choice of language and the resultant thoughts and persuasion.
+All these research streams indicate that it may be more effective to advertise to members of a minority group in their native language, depending on their level of acculturation. What differentiates these theories and makes each one singularly valuable is that each suggests its own set of moderators. Multiple moderators drawing from different perspectives lead to a better understanding of the overall phenomenon and enable us to suggest several different practical applications.
+We organize the remainder of this article as follows: First, we examine different perspectives on language and memory and how language and context intersect. Second, we develop the hypotheses and describe the studies and results. Third, we discuss the theoretical and managerial implications of our findings. Finally, we provide the limitations of our research and their implication for further research.
+Conceptual Background and Hypotheses
+Perspectives on Language and Memory
+The literature on language and cognition maintains that language can serve as an attribute of an experience (Lambert, Ignatow, and Krauthamer 1968; McCormack 1976; Saegert, Hamayan, and Ahmar 1975; Winograd, Cohen, and Barresi 1976). Experiences can be characterized by attributes that have a distinct language identity. The language spoken during an encounter is one such attribute, as is the presence of
+
+people who speak a particular language. The number of attributes within an experience that share a distinct language tag and the salience of those attributes may determine the extent to which the memory for that experience as a whole is linked to a given language. More broadly, any given attribute with a distinct language tag has the potential to serve as a pathway through which language cues the experience as a whole.
+Language can also serve as a medium of experience, which means that it is intrinsic to capturing the event; every aspect of that incident is infused with a language tag such that language becomes the gateway to that memory, and it can be reexperienced or shared fully only in the same language in which it was experienced. Under this view, language becomes a sort of superattribute. The idea that language can serve as a medium of experience began as a philosophical argument, which in its "strong" version suggests that language is so intrinsic to thought that it completely guides comprehension and representation (Whorf 1956). Although the strong version of this argument has been discarded, there is common agreement that language does influence thought (Larsen et al. 2002; Marian and Neisser 2000), and this might be particularly true for social experiences (Fivush 1998; Schrauf 2003). Language is a tool of communication, intimately tied to how people experience life as social creatures. As Fivush (1998, p. 486) suggests, "language is a critical tool of human cognition, one which allows us to move beyond individual cognition and engage in culturally mediated cognition."
+The idea that language might serve as an attribute or a medium of experience creates a theoretical connection between language and experience. At a minimum, language is one of the many attributes of an experience that people associate with it, and therefore language and experiences should have the capacity to cue each other.
+Context and Language
+There are many examples of context (the people, places, things, and symbols in a person's environment) cuing the language people use to communicate. For a monolingual, surroundings help determine the proper vocabulary and the formality with which it should be used. For example, a doctor might speak of a "hematoma" at the hospital but refer to the same condition as a bruise at home. A lawyer is not likely to use slang in the courtroom but may do so when visiting with friends over the weekend.
+Bilinguals also use context as a guide for the vocabulary they should use and the formality with which to use it, but in addition, the context within which bilinguals find themselves can cue which language seems most appropriate. For example, a Chinese-English bilingual making a reservation at a Shanghai hotel might handle the transaction in Chinese, but when in Boston, he or she will handle the transaction in English.
+These examples are a clear indication that context can cue language; however, from an advertising perspective, we are most interested in knowing whether language can cue context--that is, whether different languages can cue different associations.
+
+70 / Journal of Marketing, September 2008
+
+This question has received some attention in the psycholinguistics literature. Research on language-dependent memory has shown that for bilinguals, the recall of autobiographical memories may depend on the language with which the memory is cued. In a study of Russian-English bilinguals, Marian and Neisser (2000) find that participants shared more experiences in Russian when interviewed in Russian and more experiences in English when interviewed in English, in support of the hypothesis that language of inquiry can cue the language of recall for autobiographical memories. Larsen and colleagues (2002) go a step further by proposing that bilinguals' semantic and conceptual stores can be both language and culture specific. They find that when Polish immigrants to Denmark were asked in Polish to recall a life experience, the reply was more likely to be given in Polish and to correspond to an event experienced in Poland before immigration, whereas if the request was made in Danish, the reply was more likely to be given in Danish and to correspond to an event experienced in Denmark after immigration.
+Although these studies provide some indication that different languages can cue different associations, they have important limitations. The social conditions of their methodology (i.e., an interviewer making an explicit request for autobiographical memories in a specific language) make the presence of demand effects a distinct possibility. It could be that bilinguals assume out of reciprocity that questions should be answered in the language in which they are stated. If this is so, it could be argued that it was the respondent's presumption of language expectations that led to the reporting of linguistically matched memories. Likewise, when immigrants were asked to recall a life experience, the language of inquiry may have cued certain experiences in memory but may also have been taken as an indication of which experiences were of interest. Furthermore, even if these studies suggest that language has the potential to cue context, they do not provide a clear indication that it can do so spontaneously, because both studies explicitly requested that participants recall an episodic memory.
+Another stream of research that suggests that language can cue associations is related to cultural frame switching. This recent literature in psychology has considered how language and symbols can cue different personality and cultural characteristics in bicultural-bilingual people. For example, Hong and colleagues (2000) consider how different cultural icons primed collectivist versus individualist responses in Chinese-English bilinguals. Ross, Xun, and Wilson (2002) examine the possibility that language serves as a cue to distinct cultural mind-sets. In a study of English-Spanish bicultural-bilinguals, Ramirez-Esparza and colleagues (2006) find that language is capable of cuing either U.S. or Mexican personality characteristics (as identified in monolinguals from each country).
+Hypothesis Development
+If language can cue associations, the general literature on information processing suggests that the linguistic diagnosticity of any given association will determine whether lan-
+
+guage cues it. For example, if some experiences systematically occur in one language context, it is more likely that this language context will cue those experiences. There may also be experiences that carry a unique or special cultural significance that can only be experienced, elaborated on, and shared in one specific language.
+The focus of the current research is U.S. minority bilinguals. These people often live linguistically bifurcated lives (Linton 2004). Life at home and in their ethnic community is experienced in their native language, whereas life at school, work, and in the community at large is experienced in English. This pattern is so common that the U.S. Census Bureau (2005) recognizes it as a category--people who speak a language other than English at home--that applies to more than 50 million Americans. The resultant duality of experiences may lead to distinct thoughts when faced with advertisements written in either of the languages a bilingual comprehends.
+Given the foregoing discussion, our basic argument is that advertisements presented in bilinguals' native language are more likely to evoke associations that match that language--specifically, the bilingual's associations with family, friends, home, or homeland (hereinafter FFHH)--than advertisements presented in English. Furthermore, this effect is likely to be stronger if the consumption context represented in the advertisement is consistent with such use. We define native-language versus second-language contexts as follows: Native-language contexts are more likely to evoke settings in which native language is typically or traditionally spoken and/or people are present with whom a bilingual either typically communicates in the native language or shares aspects of the native culture, whereas second-language contexts are less likely to evoke these settings. Thus, our first two hypotheses are as follows:
+H1: Native-language advertisements elicit a higher proportion of FFHH-related thoughts than second-language advertisements.
+H2: The phenomenon predicted in H1 is moderated by context such that the effect is stronger for advertisements in native-language contexts than for those in secondlanguage contexts.
+From an advertising point of view, it might be asked whether these types of thoughts will influence ad effectiveness in terms of better attitudes toward the ad and product and higher purchase intentions. We argue that they will, at least in some circumstances. The key issue is that FFHHrelated thoughts are a form of self-referent thoughts.
+Self-referent processing consists of autobiographical thoughts (thoughts about life experiences) and thoughts about targets associate with the self. Other people, especially those who are close to someone, form part of the selfconcept because people define themselves in part by their interactions with others and by the groups to which they belong (Ogilvie and Ashmore 1991). Salient interpersonal relationships are incorporated into the self-concept (Aron et al. 1991). In this regard, Brewer and Gardner (1996) argue that people have different versions of self-concept: the personal self, which is characterized by personal attributes and comparisons with others; the relational self, which consists
+
+Advertising to Bilinguals / 71
+
+of traits related to status as spouses, parents, siblings, and so forth; and the collective self, which consists of grouprelated traits. Furthermore, Johnson and colleagues (2002) find that processing a message that refers to groups to which a person feels close has similar results to the more individualistic self-referent thoughts.
+The results of self-referent processing are well documented. Prior research has shown that information related to the self has an advantage over other types of processing in terms of the strength and accessibility of the resultant memory (Rogers, Kuiper, and Kirker 1977). Self-referent processing results in increased elaboration of a message (Andersen, Glassman, and Gold 1998; Craik and Lockhart 1972; Keenan, Golding, and Brown 1992), and more elaboration makes strong arguments more persuasive (Burnkrant and Unnava 1995). The self can also serve as an efficient organizing framework (Klein and Kihlstrom 1986), and organized or categorized elements are easier to recall. Selfreferent processing also facilitates positive thoughts and memories, the affect for which can get transferred to the advertisement or brand (Stayman and Unnava 1997). Furthermore, Rogers (1981) notes that the self-referencing process may have an affective quality, regardless of its content. Thus:
+H3: A rise in the proportion of FFHH-related thoughts results in more positive attitudes toward the ad and the brand and higher purchase intentions.
+We report two studies to test these hypotheses. The idea that each of a bilingual's languages can evoke different thoughts (H1) is a fundamental thesis of our research; therefore, as a first step, we test this point in Study 1. Study 2 attempts to confirm the language effect (H1) and tests our remaining hypotheses--the premise that context can moderate the effects of language on thoughts (H2) and whether these differences in thoughts translate into differences in ad effectiveness (H3).
+Study 1
+The purpose of the first study was to test our central thesis; namely, engaging a bilingual's native language versus his or her second language may gain access to different thoughts/ associations. Specifically, in this study, we propose that bilingual people who are asked to translate an Englishlanguage advertisement into their native language will list more FFHH-related thoughts than those who are not asked to translate the advertisement.
+Method
+Participants and design. Eighty-two adults enrolled in advanced ESL (English as a second language) classes in Houston and Los Angeles participated in Study 1 for the chance to win a $25 gift certificate to a store of their choice. We enlisted ESL instructors to help identify and contact potential respondents who were sufficiently proficient in English (given the specific demands of our study). We chose this sampling frame because these people are bilinguals for whom English is a second language but who should have the ability to understand English well enough
+
+to follow the study instructions. The sample consisted of 41 women and 41 men, and the average age was 27 years.
+The study was a one-way between-subjects design in which the language condition had two levels: translate and do not translate. Respondents were randomly assigned to one of the two language conditions. Of the respondents, 39 completed the "translate" condition, and 43 completed the "no-translate" condition.
+To engage their native language effectively, we asked participants in the translate condition to translate an English-language advertisement into their native language. Presenting this approach rather than a pretranslated advertisement served a dual purpose. First, asking respondents to provide their own translation enabled us to circumvent the necessity of ensuring semantic equivalency of the ad copy across any two languages because each respondent provided his or her own translation according to his or her own understanding of the advertisement. Second, this approach enabled us to accommodate a wide range of languages, which in this study included Cambodian, Catalan, Czech, Dutch, Farsi, French, Indonesian, Italian, Japanese, Korean, Mongolian, Russian, Spanish, Turkish, and Vietnamese.
+Stimuli and procedure. The stimuli consisted of two advertisements: a practice advertisement and a focal advertisement. The study was available online, and all participants logged on and participated at their leisure and at their own pace.
+Before viewing the first advertisement, respondents in the translate condition saw the following instructions: "We are interested in knowing how people translate ads into other languages. Please take some time to look at the next advertisement. Look at the ad as you would normally look at ads when you are reading a magazine. In the box to the right of the ad, please type how the ad would read in your native language. When you are finished, click the `next' button." Participants in the no-translate condition saw the following instructions: "We are interested in people's reactions to advertisements. Please take some time to look at the next advertisement. Look at the ad as you would normally look at ads when you are reading a magazine. When you are finished, click the `next' button." The first advertisement was a print advertisement for a tire-cleaning product and was included so that participants would be comfortable with the task of viewing advertisements and, in the translate condition, translating copy.
+Exposure to the first advertisement was followed by a second set of instructions that were identical to the first except that all respondents were also instructed as follows: "This time, please keep track of all your thoughts as you are looking at the advertisement." The second stimulus was a print advertisement for a fictitious restaurant named The Neighborhood Kitchen. We chose the restaurant category because it is neutral with regard to consumption context; people can eat at a restaurant with family or friends, by themselves, or with coworkers. The advertisement read, "Imagine ... Organically grown chicken, flame cooked in a sizzling cast iron skillet," with a picture to match. We chose this ad copy to encourage ideation, but the object of ideation was the product itself. The advertisement did not
+
+72 / Journal of Marketing, September 2008
+
+ask for self-referencing of any kind. For the actual stimuli used in this study, see Figure 1.
+Measures. Respondents were asked to write down every thought they remembered having as they looked at the second advertisement. Thoughts about friends or family members, in general or specifically, and thoughts about the home or the respondent's native country were coded as 1; all other thoughts were coded as 0. The thoughts were coded by two independent coders who were blind to the condition from which they were elicited, and conflicts were resolved through discussion.
+Thoughts also were coded according to Sauer, Dickson, and Lord's (1992) more general scheme. This scheme codes each thought across four dimensions: (1) target of the thought (product, brand, advertisement, or other, including self), (2) type of thought (expression of intentions, expression of feelings toward product or advertisement, expression of usage consequences, expression of beliefs, or other types of thoughts), (3) personal (self-) relevance of thought (personalized to the self, personalized to others, or a depersonalized third person), and (4) polarity of thought (positive, neutral, or negative).
+
+The purpose of coding thoughts according to Sauer, Dickson, and Lord's (1992) recommended method was to determine whether the expected change in specific thought patterns (with respect to FFHH-related thoughts) would extend to a more general level. For example, FFHH-related thoughts should mostly be positive and self-relevant, but even if so, these thoughts may simply displace other positive and self-relevant thoughts that people could have in response to an advertisement, such that there is no net change in the general profile of thoughts as characterized by Sauer, Dickson, and Lord. If this occurs, the choice of native versus second language for an advertisement might influence the specific thoughts of bilinguals in response to the advertisement without differentially influencing their attitudes and purchase intentions.
+Hypothesis Test
+Table 1 shows the results for thought listings in the translate and no-translate language conditions. The results indicate that the mean number of thoughts the respondents listed did not differ significantly between language conditions (translate = 2.69, no-translate = 2.97; t = 1.16, not significant
+
+FIGURE 1 Study 1 Stimuli
+
+A: Practice Advertisement
+
+B: Focal Advertisement
+
+Advertising to Bilinguals / 73
+
+TABLE 1 Thought-Listing Results: Study 1
+
+Translate Condition (n = 39)
+
+Total number of thoughts Mean number of thoughts per participant
+
+105 2.69
+
+FFHH-related thoughtsa
+
+10.5%
+
+Target of Thoughts Product Brand Advertisement Other
+
+19.1% 20.0% 53.2%
+7.5%
+
+Type of Thoughts Intention Feeling Consequences Belief Other
+
+8.6% 30.4%
+.9% 28.6% 31.5%
+
+Personal (Self-) Relevance of Thoughtsa Personalized self Personalized other Depersonalized
+
+76.1% 10.5% 13.3%
+
+Polarity of Thoughts Positive Neutral Negative
+
+29.5% 43.7% 26.6%
+
+Positive personalized thoughts (self or other) Positive thoughts about the product Positive thoughts about the ad Positive thoughts about the brand Positive intentions
+aDifferences between conditions are significant at p < .05.
+
+25.8% 10.5%
+5.7% 11.4%
+4.8%
+
+No-Translate Condition (n = 43)
+128 2.97
+1.6%
+11.7% 22.6% 53.2% 12.6%
+4.7% 24.2%
+2.4% 27.3% 41.3%
+70.3% 1.6%
+28.1%
+22.6% 57.0% 20.4%
+19.6% 3.9% 9.4% 6.3% 2.3%
+
+[n.s.]). This suggests that the request to translate did not affect participants' overall level of cognitive elaboration in response to the advertisement. However, whereas only 1.6% of thoughts listed in the no-translate condition related to FFHH, 10.5% of thoughts listed in the translate condition did. This difference is significant (t = 2.80, p < .05). Thus, the findings support H1.
+By way of example, the following are some of the thoughts coded as FFHH-related thoughts:
+*"I was reminded of the delicious food my mother makes"; *"... about my aunt's fried steak fingers"; *"... chicken cooking in the skillet and about neighborhoods in Mexico"; *... chicken looked tasty, like something my mom could make at home"; and *"I remember thinking how people back home really grow chickens."
+Additional Results
+At the broader level of thought coding (Sauer, Dickson, and Lord 1992), language condition had a significant effect on the personal relevance of thoughts (2 = 14.4, d.f. = 2, p <
+
+.01), such that a higher proportion of thoughts in the translate condition were relevant to a personalized other than in the no-translate condition (10.5% versus 1.6%; t = 2.80, p < .01), and a lower proportion were depersonalized (13.3% versus 28.1%; t = 2.86, p < .01). However, there was no significant difference between the translate and no-translate conditions with respect to the overall polarity of thoughts; the proportion of positive, personalized thoughts; the proportion of positive thoughts about the product, advertisement, or brand; or the proportion of positive thoughts about intentions. These latter types of thoughts are likely to serve as indicators of ad effectiveness. The results appear in Table 1.
+Discussion
+We hypothesized that because the native language corresponds more closely to bilinguals' lives among family and members of their ethnic community, engaging the native language would cue more FFHH-related thoughts. This hypothesis was confirmed.
+Previous studies in the psycholinguistics literature have shown that the choice of language may influence the context of thoughts remembered and the language in which
+
+74 / Journal of Marketing, September 2008
+
+they are communicated (Larsen et al. 2002; Marian and Neisser 2000). However, these studies specifically asked participants to recall events in their lives. In our study, we made no request for self-referent memories, all instructions were communicated in English, and there was no reason for respondents to infer that any particular associations were appropriate to report. Furthermore, as evidenced by the low incidence of FFHH-related thoughts in the no-translate condition, the advertisement itself did not naturally stimulate such thoughts. Therefore, it is meaningful that even under these conditions and without the potential demand characteristics found in prior research, respondents were more likely to report contextually language-congruent thoughts when their native language was engaged.
+In terms of Sauer, Dickson, and Lord's (1992) thoughtcoding scheme, the higher proportion of FFHH-related thoughts observed in the translate condition resulted in a higher proportion of thoughts about personalized others but did not translate into a higher proportion of positive personalized thoughts; positive thoughts about the product, advertisement, or brand; and/or positive thoughts about intention. These latter results indicate that though engaging the native language may influence the specific thoughts of bilinguals in response to an advertisement, it will not necessarily make the advertisement more effective in producing positive attitude toward the ad, attitude toward the brand, or purchase intentions.
+Study 2
+Study 2 used a different language manipulation. Participants were not asked to translate an advertisement; rather, the choice of language was built into the advertisement, paralleling the decision that an advertiser would make. Study 2 also extended our model to test outcome variables of particular interest to the marketing community--namely, attitude toward the ad, attitude toward the brand, and purchase intentions.
+Method
+Participants and design. Participants were recruited from a list of Spanish surname subscribers to the online edition of a major metropolitan newspaper in the southwestern United States. The newspaper that provided this list runs selected stories in Spanish and English both in print and online in an effort to appeal to its large and growing Hispanic market, so choice of language for advertisements is an issue of practical significance. The request to participate offered a chance to win one of eight $50 gas cards.
+Participants were screened for (1) whether they had read a book, magazine, newspaper, or Web site in Spanish during the previous month and (2) whether they had read a book, magazine, newspaper, or Web site in English during the previous month. To ensure that the participants met a minimum level of proficiency in both languages, the request to participate was written in a mixture of Spanish and English and required comprehension of both languages. In addition, participants were asked to rate their reading proficiency in each language on a six-point scale: "poor/fair/okay/good/very good/excellent." Of the respondents, 70% rated their ability
+
+to read and understand English as "good" or better, and 73% rated their ability to read and understand Spanish as "good" or better.
+The design was a 2 (language: Spanish versus English) x 2 (consumption context: native language versus second language) between-subjects design. As in Study 1, the focal advertisement was for a fictitious restaurant. Language was operationalized by presenting the ad copy in either Spanish or English. We used the back-translation procedure that Marin and Marin (1991) recommend to ensure semantic equivalence. We operationalized consumption context by having the ad copy refer either to lunch or to dinner (for more details, see the discussion of stimuli in the following subsection). We conducted a pretest in which 53 bilingual respondents indicated how often they have lunch and dinner with family members on a seven-point scale (1 = "never," 4 = "about half the time," and 7 = "always"). The mean rating for dinner was significantly higher than it was for lunch, both in general (dinner = 5.34, lunch = 3.32; t = 5.70, p < .05) and for meals eaten in restaurants (dinner = 4.87, lunch = 3.23; t = 4.37, p < .05). These ratings suggested that dinner would be a stronger cue for a family consumption context.
+Initial participants in the study were randomly assigned to one of the four experimental conditions: Spanish copy referring to dinner, Spanish copy referring to lunch, English copy referring to dinner, and English copy referring to lunch. After an initial period of data collection, power analysis showed that the study would be most efficient if further data were concentrated in the dinner conditions; accordingly, subsequent participants were randomly assigned to one of the two conditions: Spanish dinner or English dinner. We obtained usable data from 259 participants, with the following distribution across conditions: Spanish dinner = 80, Spanish lunch = 49, English dinner = 81, and English lunch = 49. The sample was 41% men and 59% women, and the average age was 38 years.
+Stimuli and procedure. The stimuli consisted of two advertisements: a practice advertisement and a focal advertisement. The study was available online, and all respondents participated at their leisure and at their own pace.
+Before viewing the first advertisement, all participants saw the following instructions: "On the next page, you will see an ad. It may or may not be written in English. All we want you to do is take a moment to look at the ad and keep a mental account of every single thought you are having as you look at the ad." The first advertisement was a print advertisement for an international bank and was included in the study so that participants would be comfortable with the task of viewing advertisements and keeping track of their thoughts.
+Exposure to the first advertisement was followed by the instructions: "On the next page you will see one more advertisement. Again, the ad may or may not be written in English. This time, we would like you to write down every thought you are having as you look at the ad. Please type your thoughts in the box to the right of the ad." The second stimulus was a print advertisement for a fictitious restaurant named 321 ("It's our name and our address"). The restau-
+Advertising to Bilinguals / 75
+
+rant category was chosen because it is consistent with Study 1 and allowed for manipulation of consumption context.
+We created copy for the second advertisement in the style of Sujan, Bettman, and Baumgartner (1993) and asked participants to "think back to the last time you enjoyed a special lunch (dinner)." To facilitate self-referencing, the advertisement provided little contextual information--simply a picture of a place setting and the restaurant logo-- because contextual details in the advertisement may clash with episodic memories (Krishnamurthy and Sujan 1999). The remainder of the copy invited the reader to make the next occasion "even more special at Restaurant 321!" This copy was intended to facilitate anticipatory self-referent thoughts, something that should facilitate the forging of a link between the brand and the self-referencing, ultimately improving brand judgments (Sujan, Bettman, and Baumgartner 1993). For examples of the stimuli used in this study, see Figure 2.
+After providing the thought listing, participants proceeded to a series of questions that measured their reactions to the focal advertisement in terms of attitude toward the ad, attitude toward the brand, and purchase intention (we describe these measures subsequently). Next, we performed manipulation checks, in which participants were asked whether the advertisement was in Spanish or English and whether it referred to lunch or dinner (they gave overwhelmingly correct responses to these items, indicating that the manipulations were processed). Participants then completed a measure of involvement with the product class (i.e., restaurants). We included this measure as a potential covariate because involvement can affect the way people process
+
+advertisements and resultant ad effectiveness (Petty, Cacioppo, and Schumann 1983). Involvement had no effects on our variables of interest, and we do not include it in the subsequent presentation of results.
+A bilingual's level of acculturation also may be an important moderator of the relationship between language choice and ad effectiveness. To control for the possible effects of acculturation, we measured three variables related to it: (1) whether the participant was born in the United States (i.e., immigrant versus subsequent generation [58% indicated U.S. born]), (2) language use at home (Spanish = 43%, and English = 57%), and (3) which language participants considered their native language (Spanish = 69%, and English = 31%). We believed that these measures would capture the aspects of acculturation most relevant to our research.
+Measures. We measured thoughts related to FFHH as in Study 1. We asked participants to write down every thought they had as they looked at the second advertisement. Coding of thought listings was conducted exactly as in Study 1, and we calculated the number of thoughts related to FFHH as a percentage of total thoughts for each participant. As in Study 1, thoughts were coded according to Sauer, Dickson, and Lord's (1992) more general scheme.
+We assessed attitude toward the ad with a six-item scale based on the work of Neese and Taylor (1994). Responses were on seven-point Likert-type scales ("strongly agree" to "strongly disagree"). Reliability of this scale as measured by coefficient alpha was .928. We assessed attitude toward the brand with a four-item scale ( = .956) based on the work of Putrevu and Lord (1994). Responses were on
+
+A: Practice Advertisement (English Version)
+
+FIGURE 2 Study 2 Stimuli
+B: Focal Advertisement (Spanish Dinner)
+
+C: Focal Advertisement (English Lunch)
+
+76 / Journal of Marketing, September 2008
+
+seven-point Likert-type scales. We assessed purchase intention with a three-item scale ( = .951) also based on the work of Putrevu and Lord (1994). Responses were on seven-point Likert-type scales. We assessed involvement with the product class with a three-item scale ( = .910) based on the work of Beatty and Talpade (1994). Responses were on seven-point Likert-type scales.
+Results for the Effects of Language and Context on Thoughts
+We tested the first half of our model, which explores the effects of language and context on the proportion of FFHHrelated thoughts elicited under each condition, with a fullfactorial analysis of variance (ANOVA), including our acculturation variables as covariates. The proportion of FFHH-related thoughts listed by respondents in each condition were as follows: Spanish lunch (3.6%), Spanish dinner (13.0%), English lunch (10.7%), and English dinner (6.6%). To address an inherent problem of heteroskedasticity when using proportions, because the variance is dependent on the mean, we performed an arcsine root transformation on the proportion of FFHH-related thoughts the respondents listed before we analyzed the data (Howell 1992).
+The results of the ANOVA showed that only the interaction between language and context was significant (F(1, 258) = 6.97, p < .01), and a contrast test confirmed that the Spanish-dinner condition yielded a significantly higher proportion of FFHH-related thoughts than the other conditions (t = 2.05, p < .05). These results support H2. Acculturation (place of birth, language use at home, and self-reported native language) did not have significant effects.
+We also performed separate ANOVAs for the dinner and the lunch conditions and found that language had an effect on the percentage of FFHH-related thoughts in the dinner condition (F(1, 160) = 4.78, p < .05) but not the lunch condition (F(1, 97) = 2.306, n.s.); this effect also would fall short of significance if the sample size in the lunch condition matched the dinner condition. These results indicate partial support for H1.
+Results for Structural Models
+We further analyzed the data from Study 2 using structural equations modeling. This analysis pushes beyond the effects of language and context on FFHH thoughts and incorporates the attitude effects hypothesized in the second stage of our model. The latter half of our model includes an implicit test of the dual-mediation model (MacKenzie, Lutz, and Belch 1986). Given that the dual-mediation model is inherently a causal model, structural equations modeling is the most efficient and parsimonious method by which to test these relationships.
+We derived the baseline form of the structural model from our hypotheses. We included paths from (1) language, (2) consumption context, and (3) the interaction between language and consumption context to (4) the proportion of FFHH-related thoughts. These paths enabled us to test our theoretical model--namely, that native language should elicit a higher proportion of FFHH-related thoughts (H1) and that this relationship should be stronger for a native-
+
+language consumption context (H2). We also included paths from the proportion of FFHH-related thoughts to attitude toward the ad, attitude toward the brand, and purchase intention. These paths enabled us to test the right side of our model--namely, that FFHH-related thoughts should positively influence attitudes and intention (H3).
+We also considered two issues of an alternative model structure that went beyond our hypotheses. First, we considered whether to allow direct paths from language to attitudes and intention. As we noted previously, the language of advertisements directed at bilinguals may influence attitudes and intention for reasons other than eliciting FFHHrelated thoughts. For example, using the bilinguals' native language might lead to more positive attitudes and intention because of perceptions of accommodation or beliefs that the advertiser translated the advertisement as a sign of respect and consideration for the prospective consumer. This implies that direct effects from language to attitudes and intention might be needed to specify the model correctly. Accordingly, we considered whether to add such effects to our baseline structural model.
+Second, we considered how to structure the effects of FFHH-related thoughts on attitude toward the ad, attitude toward the brand, and purchase intention. Our hypotheses simply indicate that FFHH-related thoughts will influence attitudes and intention, without specifying possible interrelationships between these dependent variables. However, such relationships have been documented in previous research. The dual-mediation model (MacKenzie, Lutz, and Belch 1986) suggests a sequence of effects in which attitude toward the ad has a positive effect on attitude toward the brand, which in turn has a positive effect on purchase intentions. To allow for all possibilities, we used a baseline model structure that allowed for both direct and sequenced effects (i.e., a structure that allowed thoughts to have direct and separate effects on attitude toward the ad, attitude toward the brand, and purchase intention in addition to sequenced effects from attitude toward the ad to attitude toward the brand to purchase intention), and we tested alternative model forms with (1) direct effects only and (2) sequenced effects only.
+We assessed overall model fit as a ratio of chi-square to degrees of freedom, which is less sensitive to sample size or model complexity than a chi-square analysis; comparative fit index (CFI); and the root mean square error of approximation (RMSEA): 2/d.f.  3 suggests a good fit (Gefen, Straub, and Boudreau 2000), CFI  .95 is an indication of good fit (Hu and Bentler 1999), and RMSEA = .08 is considered a "reasonable" fit for the model (Browne and Cudeck 1993).
+Our analytical strategy was as follows: We tested and then confirmed our hypothesized model as the baseline model. We then assessed alternative model structures versus the baseline model by adding or subtracting paths as appropriate. Because the baseline model and the alternative models represented nested structures, we tested whether the change in overall chi-square was significant, as well as the significance of individual paths.
+Results. Fit for the measurement model was good (2 = 240, d.f. = 102, p < .001; 2/d.f. = 2.35; CFI = .966;
+
+Advertising to Bilinguals / 77
+
+RMSEA = .072). Factor loadings in the measurement model were all satisfactory and significant, indicating a good description of the underlying latent constructs.
+The hypothesized structural model exhibited satisfactory fit. These results and those for the alternative models appear in Table 2. To consider the possible direct effects of language on attitudes and intention, we added paths from language to attitude toward the ad, attitude toward the brand, and purchase intention. This change did not improve the model (2 = -.8, d.f. = 3, n.s.), and none of the paths achieved statistical significance. These results suggest that direct effects of language on attitudes and intention should not be added to our model.
+To consider alternative structures for the effects of thoughts and consumption context on attitude toward the ad, attitude toward the brand, and purchase intention, (1) we removed the sequential paths among these constructs, leaving only the direct effects, and (2) we removed the direct effects on attitude toward the brand and purchase intention, leaving only the sequence of effects from attitude toward the ad to attitude toward the brand to purchase intention. Removing the sequential effects resulted in a significantly worse model (2 = 478.3, d.f. = 2, p < .001). Removing the direct effects also significantly reduced model performance, though the change was not as dramatic (2 = 7.1, d.f. = 2, p < .05). These results suggest that both types of effects should be retained.
+None of the alternative models tested achieved a better fit than the baseline model (see Figure 3). Therefore, we used the baseline model as our final structural model.
+
+We also considered various ways acculturation might be implicated in the results. We tested whether acculturation (1) had a direct effect on FFHH thoughts; (2) moderated the effect of language on FFHH thoughts; (3) had a direct effect on attitude toward the ad, attitude toward the brand, and/or purchase intention; (4) moderated the effects of FFHH thoughts on attitudes and intention; or (5) moderated a direct path from language to attitudes and intention. None of the tested paths were significant, except for a direct effect of acculturation on attitude toward the brand ( = .098, p < .05). This may be a stray effect because no effect was observed for attitude toward the ad or purchase intention, or it may reflect a relationship between acculturation and general openness toward restaurants (a recent study by the NPD Group [2005] suggests that as U.S. Hispanics become more acculturated, they are more likely to eat at restaurants). Either way, acculturation did not moderate any of the hypothesized paths in the structural model, and adding acculturation to the model did not change the magnitude or significance of those paths.
+Hypothesis tests. The results of our final model show that the interaction between language and consumption context is positive and significant ( = .325, p < .01). The direction and significance of the interaction provide support for H2 (i.e., that the effect of native language on FFHH-related thoughts is greater when the advertisement presents a native-language consumption context). Indeed, when the results are split by context, as we did with the primary ANOVA, the effect of native language is significant within the native-language-context condition ( = .165, p < .05),
+
+TABLE 2 Model Comparisons: Standardized Parameter Estimates and Goodness-of-Fit Statistics
+
+Relationships
+
+Model 1:a Hypothesized
+Model
+
+Model 2: Add Language Direct Effects
+
+Model 3: No Dual-Mediation
+Model Effects
+
+Model 4: Indirect Effects on ATB and PI
+
+Language  thoughts Context  thoughts Language x context  thoughts Thoughts  ATA Thoughts  ATB Thoughts  PI ATA  ATB ATB  PI Language  ATA Language  ATB Language  PI 2 (d.f.) versus Model 1 2 (d.f.) 2/d.f. p-value CFI RMSEA
+
+n.s. n.s. .325** .198** n.s. .094* .803*** .831*** N.A. 270 (112) 2.41 .00 .96 .074
+
+n.s. n.s. .325** .197** n.s. .093** .803*** .830*** n.s. n.s. n.s. .8 (3) n.s.b 269.2 (109) 2.47 .00 .96 .075
+
+n.s. n.s. .325** .198** .188** .253*** 486.6 (2)***b 748.3 (114) 6.56 .00 .84 .147
+
+n.s. n.s. .325** .203** .811*** .849***
+7.1 (2)*b 277.1 (114)
+2.43 .00 .96 .074
+
+*p < .05. **p < .01. ***p < .001. aFinal model. bChi-square comparison versus final model. Notes: Shading represents paths not in the model. N.A. = not applicable. ATA = attitude toward the ad, ATB = attitude toward the brand, and
+PI = purchase intent.
+
+78 / Journal of Marketing, September 2008
+
+but not within the second-language-context condition. This constitutes partial support for H1.
+The model also shows that the proportion of FFHHrelated thoughts in response to an ad exposure has a positive, significant effect on resultant attitudes toward the ad ( = .198, p < .01) and purchase intentions ( = .094, p < .05), in support of H3. There is also a positive, significant sequence of effects from attitude toward the ad to attitude toward the brand ( = .803, p < .001) and attitude toward the brand to purchase intention ( = .831, p < .001), as per the dual-mediation model (MacKenzie, Lutz, and Belch 1986).
+In fitting this structural model, we constrained the correlations among error terms for the right-most variables (attitude toward the ad, attitude toward the brand, and purchase intention) to zero. This is consistent with structural
+
+modeling conventions, but the results may be sensitive to this constraint. To test the sensitivity of our results, we fit the model with correlations among these error terms set at nonzero levels up to .5 in increments of .1. These results appear in Table 3. Each successive increment yields slightly different but increasingly significant path coefficients on the right-hand side of the model (the left-hand side is not affected), and when the error correlations reach .4, all paths including the relationship between FFHH-related thoughts and attitude toward the brand are significant. None of the effects that are significant in the baseline model are sensitive to these alternative constraints regarding error structure. Overall, therefore, the results of the structural model indicate that (1) language can influence FFHH-related thoughts under suitable context conditions and (2) FFHH-related
+
+FIGURE 3 Results of Final Model
+
+*p < .05. **p < .01. ***p < .001. Notes: 2 =270, d.f. =112, p < .001; 2/d.f. = 2.41; CFI = .96; and RMSEA = .074.
+
+TABLE 3 Study 2: Results of Sensitivity Analysis
+
+ = .0 Baseline
+
+ = .1
+
+ = .2
+
+ = .3
+
+
+
+Language x compatibility > FFHH thoughts
+FFHH thoughts > attitude toward the ad
+FFHH thoughts > attitude toward the brand
+Attitude toward the ad > attitude toward the brand
+FFHH thoughts > purchase intention
+Attitude toward the brand > purchase intention
+
+.325 .005 .325 .005 .325 .005 .198 .002 .201 .001 .206 .001 .032 .439 .048 .265 .066 .145 .803 <.001 .720 <.001 .628 <.001 .094 .013 .111 .004 .127 .001 .831 <.001 .738 <.001 .651 <.001
+
+Notes: In all cases, model fit was satisfactory and comparable to the baseline model.
+
+ .325 .005 .211 <.001 .085 .071 .529 <.001 .144 <.001 .569 <.001
+
+ = .4  .325 .005 .216 <.001 .106 .032 .429 <.001 .162 <.001 .494 <.001
+
+ = .5  .325 .005 .219 <.001 .126 .015 .338 <.001 .178 <.001 .427 <.001
+
+Advertising to Bilinguals / 79
+
+thoughts can influence attitude toward the ad and purchase intentions.
+However, we should note a caveat. Together, the leftand right-hand sides of our model might be taken to imply a mediated relationship between language and ad outcomes, such that language influences ad outcomes through the mediation of FFHH-related thoughts. However, when we performed a mediation test in accordance with Baron and Kenny's (1986) recommended approach, the direct effect of language on ad outcomes was not statistically significant and thus does not support a mediated effect. Our results show that language can influence thoughts and thoughts can influence outcomes, but they do not show that language influences outcomes through thoughts.
+Additional Results
+To gain further insight into the effects of language, we examined the pattern of thoughts as coded in accordance
+
+with Sauer, Dickson, and Lord's (1992) method. In doing so, we followed the pattern of the ANOVA and structural model results. These results showed an interaction effect between language and context, such that there was a higher proportion of FFHH-related thoughts when the advertisement combined native language with a reference to a nativelanguage consumption context, and not otherwise. Accordingly, we compared the more general pattern of thoughts as per Sauer, Dickson, and Lord between this condition (native-language-consumption context) and all others. The results appear in Table 4.
+In addition to having a higher proportion of FFHHrelated thoughts, respondents in the native-language- consumption condition had a significantly higher proportion of overall positive thoughts, positive personalized thoughts, positive thoughts about the product, and positive thoughts about intentions. Notably, the specific percentage results for these variables are similar to those observed in
+
+Total number of thoughts Mean number of thoughts
+
+TABLE 4 Thought-Listing Results: Study 2
+Native-Language- Consumption Context
+(n = 80)
+248 3.1
+
+All Other Conditions
+(n = 179)
+613 3.42
+
+FFHH-related thoughtsa
+
+13.0%
+
+6.9%
+
+Target of Thoughtsa Product Brand Advertisement Other
+
+19.8% 22.2% 31.9% 26.2%
+
+10.8% 25.2% 39.5% 24.4%
+
+Type of Thoughtsa Intention Feeling Consequences Belief Other
+
+8.5% 16.9%
+4.4% 11.3% 58.9%
+
+5.2% 23.8%
+7.0% 12.5% 51.6%
+
+Personal (Self-) Relevance of Thoughts Personalized self Personalized other Depersonalized
+
+47.6% 2.8%
+49.6%
+
+56.6% 1.9%
+41.4%
+
+Polarity of Thoughtsa Positive Neutral Negative
+
+38.3% 50.4% 11.3%
+
+26.5% 54.5% 18.9%
+
+Positive personalized thoughts (self or other)a Positive thoughts about the producta Positive thoughts about the ad Positive thoughts about the brand Positive intentionsa
+aDifferences between conditions are significant at p < .05.
+
+26.2% 11.3%
+6.9% 9.3% 5.2%
+
+18.8% 2.7% 6.8% 8.6% 1.9%
+
+80 / Journal of Marketing, September 2008
+
+Study 1, but the differences between conditions reach significance in Study 2 because of the larger sample size. However, there was no significant difference for positive thoughts about the advertisement or brand. Furthermore, in contrast to Study 1, there was no overall significant difference in the personal relevance of thoughts.
+In some regards, these results suggest the potential for language (with context) to influence ad effectiveness. Language and context not only affected the specific content of thoughts (with respect to FFHH) but also influenced the polarity of thoughts and some types of positive thoughts. However, these differences did not carry through to positive thoughts about the advertisement or brand, and ultimately there was no direct effect of language and context on attitudes toward the ad, attitudes toward the brand, and purchase intentions.
+Discussion
+In Study 2, we investigated whether the interaction between language and consumption context influenced the proportion of FFHH-related thoughts elicited by exposure to a print advertisement and whether these thoughts, in turn, influenced attitude toward the ad, attitude toward the brand, and purchase intention. We find a positive, significant interaction between language and consumption context, such that when a native-language (Spanish) advertisement referred to a native-language consumption context (dinner), FFHH-related thoughts were more likely to occur.
+In broad terms, these findings suggest not only that the choice of language can influence the nature of thoughts elicited by an advertisement, which is consistent with Study 1, but also that this influence is context dependent. Thus, advertisers that want to achieve these effects should consider the consumption context presented in the advertisement as well as its language.
+In testing whether FFHH-related thoughts affect attitudes toward the ad and brand and purchase intentions, we found that these thoughts can have a positive impact. That is, the thoughts triggered by choice of language may make a difference in ad effectiveness. However, as we indicated previously, our results do not allow for a strong assertion that language influences effectiveness through thoughts.
+General Discussion
+Our research offers a new argument with regard to choice of language for advertising to bilinguals, suggesting yet another reason language might matter. In contrast to recent studies that have considered how individual words can generate different affective reactions depending on the language in which they are presented (Luna and Peracchio 2002, 2005), we argue that language as a whole can make a bilingual's language-congruent cognitive structure more accessible. In other words, it may not be necessary to isolate specific words; the use of the native language in itself can serve as a superattribute under which certain memories and knowledge structures can be more easily accessed. Note that our restaurant advertisements did not contain specific family references or, to the best of our knowledge, any
+
+other words that have different affective appeal in Spanish versus English. This suggests that the engagement of the native language, not any specific word or words, made the difference in the thoughts generated.
+As hypothesized, we find that the effects of language on thoughts may be moderated by the consumption context presented in an advertisement (and, presumably, the typical consumption context associated with the product being advertised). This finding implies that the possible benefits of advertising in a minority audience's native language--as related to the theoretical reasons we considered in this article--will vary across product categories, depending on the executional elements of the advertisement.
+We conducted this research with the objective of studying a psycholinguistic phenomenon within a marketing framework and with the expectation that our results would have productive and relevant managerial implications. Two points are worth noting in this regard. First, the dangers of using college students as study participants are exacerbated in language-related research because college students tend to be more language proficient than nonstudent adults (Peterson and Merunka 2005). Second, as a practical matter, the choice of which language to use when communicating with a bilingual is really only a choice if the bilingual in question actually consumes media in both languages. Thus, a strong point of our research is that unlike many previous studies that have examined language choice and bilinguals, our sampling methodology identified nonstudent adult bilinguals who actually consume print media in both languages and thus behave in such a way as to make the managerial implications of the research directly relevant.
+Limitations and Further Research
+This research is subject to various limitations. One possible issue in Study 1 is that participants in the native-language condition translated the advertisement before listing their thoughts, whereas participants in the second-language condition listed their thoughts immediately after viewing the advertisement. This difference could have contributed to differences in the nature of thoughts elicited. However, note that there was no significant difference in the total number of thoughts listed by participants in the two conditions (i.e., in apparent levels of elaboration). Furthermore, we did not use this method in Study 2; thus, it would not influence those results.
+Another possible limitation is that we asked participants only for verbal accounts of their thoughts. Recent research suggests that people often do not think in words (Kagan 2002; Turner 2000); for example, if hearing a woman speaking Spanish cues memories of a man's grandmother, he may recall the sight of his grandmother's face, the smell of her food, the sound of her voice, and the emotion of his love for her. Our method requires that participants express those thoughts in words. We do not mean to imply through this method that all encoding is linguistic; however, as Pinker (1994) notes, language is implicated in the representation, storage, and communication of thought, and we simply argue that different languages may cue (some) different thoughts.
+
+Advertising to Bilinguals / 81
+
+Note also that this research used only print advertisements. The results for broadcast media may differ for various reasons, including different levels of involvement, differences in the difficulty in processing a second language in print versus auditory form, and different levels of contextual richness between print and electronic stimuli. The greater level of involvement necessary to process print advertisements and the notion that a print reader controls the rate of information flow (MacInnis, Moorman, and Jaworski 1991) may have facilitated the observed effects.
+Finally, there are many ways to operationalize context that go beyond our approach in this research. We used restaurants as a product category, meal occasion as a contextual variable, and lunch and dinner as the contexts. This approach enabled us to manipulate consumption context within a single product category, without explicit appeals, which was desirable for purposes of experimental validity.
+However, with respect to product category, the engagement of a native-language consumption context might be stronger for products that are directly used in the home or weaker for products that are used only in second-language contexts, such as work or school. Likewise, the influence of FFHH-related thoughts on attitude toward the ad and purchase intention may vary depending on whether the product is directly used in the home and on other product characteristics, such as hedonic versus functional use.
+
+Similarly, to engage consumption context, we simply varied whether a restaurant advertisement referred to lunch or dinner. Our pretest suggested that dinner would be a stronger cue for a family consumption context, but other manipulations might have produced sharper differences than those observed here. For example, an explicit appeal to "think about a great meal with your family" could have been used. We did not use such an appeal because of concerns about demand effects, but if an advertiser's goal is to stimulate such thoughts, it would be natural to use an explicit appeal. In this regard, the magnitude of the language effects we observed in this research may be conservative compared with what is possible.
+Overall, it should be possible to identify many contextual variations that have a differential impact on the generation of thoughts depending on the language employed; however, this does not change the thrust of our research. The basic idea of the research, demonstrated in both studies reported, is that different languages may cue different thoughts in bilinguals. Context moderates this effect. We operationalized context through two meal occasions, lunch and dinner, but this operationalization is not important per se; it simply demonstrates that language effects may depend on contextual variables. Additional contextual variations will show variations in moderator effects, but the basic existence of such effects has been established.
+
+REFERENCES
+Andersen, Susan M., Noait S. Glassman, and David A. Gold (1998), "Mental Representations of the Self, Significant Others, and Nonsignificant Others: Structure and Processing of Private and Public Aspects," Journal of Personality and Social Psychology, 75 (4), 845-61.
+Aron, Arthur, Elaine Aron, Michael Tudor, and Greg Nelson (1991), "Close Relationships as Including Other in the Self," Journal of Personality and Social Psychology, 60 (2), 241-53.
+Baron, Reuben M. and David A. Kenny (1986), "The ModeratorMediator Variable Distinction in Social Psychological Research: Conceptual, Strategic, and Statistical Considerations," Journal of Personality and Social Psychology, 51 (6), 1173-82.
+Beatty, Sharon E. and Salil Talpade (1994), "Adolescent Influence in Family Decision Making: A Replication with Extension," Journal of Consumer Research, 21 (2), 332-41.
+Brewer, Marilynn B. and Wendi Gardner (1996), "Who Is This `We'? Levels of Collective Identity and Self Representations," Journal of Personality and Social Psychology, 71 (1), 83-93.
+Browne, Michael W. and Robert Cudeck (1993), "Alternative Ways of Assessing Model Fit," in Testing Structural Equations Models, J. Scott Long and Kenneth A. Bollen, eds. Newbury Park, CA: Sage Publications, 136-62.
+Burnkrant, Robert E. and H. Rao Unnava (1995), "Effects of SelfReferencing on Persuasion," Journal of Consumer Research, 22 (1), 17-26.
+Craik, Fergus I. and Robert S. Lockhart (1972), "Levels of Processing: A Framework For Memory Research," Journal of Verbal Learning & Verbal Behavior, 11 (6), 671-84.
+Deshpande, Rohit, Wayne D. Hoyer, and Naveen Donthu (1986), "The Intensity of Ethic Affiliation: A Study of the Sociology of Hispanic Consumption," Journal of Consumer Research, 13 (2), 214-20.
+
+------ and Douglas M. Stayman (1994), "A Tale of Two Cities: Distinctiveness Theory and Advertising Effectiveness," Journal of Marketing Research, 31 (February), 57-64.
+Fivush, Robyn (1998), "The Stories We Tell: How Language Shapes Autobiography," Applied Cognitive Psychology, 12 (5), 483-87.
+Forehand, Mark R. and Rohit Deshpande (2001), "What We See Makes Us Who We Are: Priming Ethnic Self-Awareness and Advertising Response," Journal of Marketing Research, 38 (August), 336-48.
+Gefen, David, Detmar W. Straub, and Marie-Claude Boudreau (2000), "Structural Equation Modeling and Regression: Guidelines for Research Practice," Communications of the Association for Information Systems, 4 (7), 1-76.
+Hong, Ying-yi, Michael W. Morris, Chi-yue Chiu, and Veronica Benet-Martinez (2000), "Multicultural Minds: A Dynamic Constructivist Approach to Culture and Cognition," American Psychologist, 55 (7), 709-720.
+Howell, David C. (1992), Statistical Methods for Psychology, 3d ed. Belmont, CA: Duxbury Press.
+Hu, Li-tze and Peter M. Bentler (1999), "Cutoff Criteria for Fit Indexes in Covariance Structure Analysis: Conventional Criteria Versus New Alternatives," Structural Equation Modeling, 6 (1), 55-71.
+Johnson, Craig, Orly Gadon, Don Carlson, Sarah Southwick, Myles Faith, and Julie Chalfin (2002), "Self-Reference and Group Membership: Evidence for a Group-Reference Effect," European Journal of Social Psychology, 32 (2), 261-74.
+Kagan, Jerome (2002), Surprise, Uncertainty, and Mental Structures. Cambridge, MA: Harvard University Press.
+Keenan, Janice M., Jacqueline M. Golding, and Polly Brown (1992), "Factors Controlling the Advantage of Self-Reference over Others-Reference," Social Cognition, 10 (1), 79-94.
+
+82 / Journal of Marketing, September 2008
+
+Klein, Stanley B. and John F. Kihlstrom (1986), "Elaboration, Organization, and the Self-Reference Effect in Memory," Journal of Experimental Psychology: General, 115 (1), 26-38.
+Koslow, Scott, Prem N. Shamdasani, and Ellen E. Touchstone (1994), "Exploring Language Effects in Ethnic Advertising: A Sociolinguistic Perspective," Journal of Consumer Research, 20 (4), 575-85.
+Krishnamurthy, Parthasarathy and Mita Sujan (1999), "Retrospection Versus Anticipation: The Role of the Ad Under Retrospective and Anticipatory Self-Referencing," Journal of Consumer Research, 26 (1), 55-69.
+Lambert, Wallace E., Maria Ignatow, and Marcel Krauthamer (1968), "Bilingual Organization in Free Recall," Journal of Verbal Learning and Verbal Behavior, 7 (1), 207-214.
+Larsen, Steen F., Robert W. Schrauf, Pia Fromholt, and David C. Rubin (2002), "Inner Speech and Bilingual Autobiographical Memory: A Polish-Danish Cross-Cultural Study," Memory, 10 (1), 45-54.
+Linton, April (2004), "A Critical Mass Model of Bilingualism Among U.S.-Born Hispanics," Social Forces, 83 (1), 279-315.
+Luna, David and Laura A. Peracchio (1999), "What's in a Bilingual's Mind? How Bilingual Consumers Process Information," in Advances in Consumer Research, Vol. 26, Eric J. Arnould and Linda M. Scott, eds. Provo, UT: Association for Consumer Research, 306-311.
+------ and ------ (2001), "Moderators of Language Effects in Advertising to Bilinguals: A Psycholinguistic Approach," Journal of Consumer Research, 28 (2), 284-95.
+------ and ------ (2002), "`Where There Is a Will...': Motivation as a Moderator of Language Processing by Bilingual Consumers," Psychology & Marketing, 19 (7-8), 573-93.
+------ and ------ (2005), "Advertising to Bilingual Consumers: The Impact of Code-Switching on Persuasion," Journal of Consumer Research, 31 (4), 760-65.
+------, ------, and Maria D. De Juan (2003), "The Impact of Language and Congruity on Persuasion in Multicultural E-Marketing," Journal of Consumer Psychology, 13 (1-2), 41-50.
+MacInnis, Deborah J., Christine Moorman, and Bernard J. Jaworski (1991), "Enhancing and Measuring Consumers' Motivation, Opportunity, and Ability to Process Brand Information from Ads," Journal of Marketing, 55 (October), 32-53.
+MacKenzie, Scott B., Richard J. Lutz, and George E. Belch (1986), "The Role of Attitude Toward the Ad as a Mediator of Advertising Effectiveness: A Test of Competing Explanations," Journal of Marketing Research, 23 (May), 130-43.
+Marian, Viorica and Ulric Neisser (2000), "Language-Dependent Recall of Autobiographical Memories," Journal of Experimental Psychology: General, 129 (3), 361-68.
+Marin, Gerardo and Barbara V. Marin (1991), Research with Hispanic Populations. Newbury Park, CA: Sage Publications.
+McCormack, Peter D. (1976), "Bilingual Linguistic Memory: The Independence-Interdependence Issue Revisited," in Bilingualism: Psychological and Social Implications, Peter A. Hornby, ed. New York: Academic Press, 57-66.
+Neese, William T. and Ronald D. Taylor (1994), "Verbal Strategies for Indirect Comparative Advertising," Journal of Advertising Research, 34 (2), 56-69.
+NPD Group (2005), "At the Table with Hispanic Families Across America," (accessed May 5, 2008), [available at http://www. npdinsights.com/archives/september2005/food_cover_story. html].
+Ogilvie, Daniel M. and Richard D. Ashmore (1991), "Self-withOther Representation as a Unit of Analysis in Self-Concept Research," in The Relational Self: Theoretical Convergences in Psychoanalysis and Social Psychology, Rebecca C. Curtis, ed. New York: Guilford Press, 282-314.
+
+Peterson, Robert A. and Dwight Merunka (2005), "Linguistic Structure and Cognition: Implications for Consumer Research," in Review of Marketing Research, Naresh K. Malhotra, ed. New York: M.E. Sharpe.
+Petty, Richard E., John T. Cacioppo, and David Schumann (1983), "Central and Peripheral Routes to Advertising Effectiveness: The Moderating Role of Involvement," Journal of Consumer Research, 10 (2), 135-46.
+Pinker, Steven (1994), The Language Instinct. New York: W. Morrow and Co.
+Putrevu, Sanjay and Kenneth Lord (1994), "Comparative and Noncomparative Advertising: Attitudinal Effects Under Cognitive and Affective Involvement Conditions," Journal of Advertising, 23 (2), 77-90.
+Ramirez-Esparza, Nairan, Samuel D. Gosling, Veronica BenetMartinez, Jeffrey P. Potter, and James W. Pennebaker (2006), "Do Bilinguals Have Two Personalities? A Special Case of Cultural Frame Switching," Journal of Research in Personality, 40 (2), 99-120.
+Rogers, Timothy B. (1981), "A Model of the Self as an Aspect of the Human Information Processing System," in Personality, Cognition, and Social Interaction, Nancy Cantor and John F. Kihlstrom, eds. Hillsdale, NJ: Lawrence Erlbaum Associates, 193-214.
+------, Nicholas A. Kuiper, and Scott Kirker (1977), "Self Reference and the Encoding of Personal Information," Journal of Personality and Social Psychology, 35 (9), 677-88.
+Ross, Michael, W.Q. Elaine Xun, and Anne E. Wilson (2002), "Language and the Bicultural Self," Personality and Social Psychology Bulletin, 28 (8), 1040-1050.
+Saegert, Joel, Else Hamayan, and Hana Ahmar (1975), "Memory for Language of Input in Polyglots," Journal of Experimental Psychology: Human Learning and Memory, 1 (5), 607-613.
+Sauer, Paul L., Peter R. Dickson, and Kenneth R. Lord (1992), "A Multiphase Thought Elicitation Coding Scheme for Cognitive Response Analysis," in Advances in Consumer Research, Vol. 19, John F. Sherry Jr. and Brian Sternthal, eds. Provo, UT: Association for Consumer Research, 826-34.
+Schrauf, Robert W. (2003), "A Protocol Analysis of Retrieval in Bilingual Autobiographical Memory," International Journal of Bilingualism, 7 (3), 235-56.
+Stayman, Douglas M. and H. Rao Unnava (1997), "New Directions in Research on Self-Referencing," in Advances in Consumer Research, Vol. 24, Merrie Brucks and Deborah J. MacInnis, eds. Provo, UT: Association for Consumer Research, 73-74.
+Sujan, Mita, James R. Bettman, and Hans Baumgartner (1993), "Influencing Consumer Judgments Using Autobiographical Memories: A Self-Referencing Perspective," Journal of Marketing Research, 30 (November), 422-36.
+Turner, Jonathan H. (2000), On the Origins of Human Emotions: A Sociological Inquiry into the Evolution of Human Affect. Stanford, CA: Stanford University Press.
+U.S. Census Bureau (2005), "American Community Survey: Selected Social Characteristics," (accessed April 15, 2005), [available at http://factfinder.census.gov/servlet/ADPTable?_ bm=y&-geo_id=01000US&-qr_name=ACS_2005_EST_G00_ DP2&-ds_name=&-_lang=en&-redoLog=false&-format=].
+Whittler, Tommy E. (1991), "The Effects of Actors' Race in Commercial Advertising: Review and Extension," Journal of Advertising, 20 (1), 54-60.
+Whorf, Benjamin L. (1956), Language, Thought, and Reality. Cambridge, MA: MIT Press.
+Winograd, Eugene, Carolyn Cohen, and John Barresi (1976), "Memory for Concrete and Abstract Words in Bilingual Speakers," Memory and Cognition, 4 (3), 323-29.
+
+Advertising to Bilinguals / 83
+
+

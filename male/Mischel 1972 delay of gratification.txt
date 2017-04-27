@@ -1,0 +1,649 @@
+Journal oj Personality and Social Psychology 1972, Vol 21, No 2, 204-218
+COGNITIVE AND ATTENTIONAL MECHANISMS IN DELAY OF GRATIFICATION1
+WALTER MISCHEL," EBBE B. EBBESEN, AND ANTONETTE RASKOFF ZEISS Stanford University
+
+Three experiments investigated attentional and cognitive mechanisms in delay of gratification In each study preschool children could obtain a less preferred reward immediately or continue waiting indefinitely for a more preferred but
+delayed reward Experiment I compared the effects of external and cognitive distraction from the reward objects on the length of time which preschool
+children waited for the preferred delayed reward before forfeiting it for the sake of the less preferred immediate one. In accord with predictions from an
+extension of frustrative nonreward theory, children waited much longer for a preferred reward when they were distracted from the rewards than when they
+attended to them directly Experiment II demonstrated that only certain cognitive events (thinking "fun things") served as effective ideational distractors Thinking "sad thoughts" produced short delay times, as did thinking about the rewards themselves In Experiment III the delayed rewards were not physically available for direct attention during the delay period, and the children's attention to them cogmtively was manipulated by prior instructions While the children waited, cognitions about the rewards significantly reduced, rather than enhanced, the length of their delay of gratification Overall, atten-
+tional and cognitive mechanisms which enhanced the salience of the rewards shortened the length of voluntary delay, while distractions from the rewards,
+overtly or cogmtively, facilitated delay The results permit a remterpretation of basic mechanisms in voluntary delay of gratification and self-control
+
+As early as 1890, William James contended
+that attentional processes are at the very core of the self-control phenomena usually subsumed under the term "will" or, since James's time, under the concept "ego strength"
+According to James (1890) "Attention with effort is all that any case of volition implies The essential achievement of will is to attend to a difficult object . [p 549]." In contrast, psychoanalytic theories of self-control
+emphasize unconscious processes and motivational dynamics, as well as internalization of values and intrapsychic conflicts to explain self-control phenomena. In spite of this shift in emphasis away from attentional to psychodynamic interpretations of self-control, some strands of evidence suggest possible
+1 This research was supported by Research Grant MH-6830 from the National Institutes of Health, United States Public Health Service Portions of this paper were presented by the first author in an invited address, "Personality and Cognition," at the meeting of the Western Psychological Association, Los Angeles, April 1970
+2 Requests for reprints should be sent to Walter Mischel, Department of Psychology, Stanford University, Stanford, California 94305
+
+links between attentional processes and selfregulatory mechanisms
+In particular, beginning with Hartshorne and May (1928), a few correlations have been found between indexes of moral behavior
+and measures of attention or resistance to distraction on mental tests (e g., Grim, Kohlberg, & White, 1968). On the basis of such correlations, it has been suggested that the individual's ability to resist temptation may be facilitated by how well he attends to a task. In most experimental "resistance to temptation" paradigms, yielding to temptations, such as cheating, depends on the subject's being distracted from the main task to which he is supposed to be attending In those
+situations a subject's ability to resist distraction may automatically make it easier for
+him to refrain from temptations such as cheating (Grim et al, 1968)
+Using experimental rather than correlational methods, Mischel and Ebbesen (1970) have explored a different link between attention and self-control in the context of the delay-of-gratification paradigm In that study, preschool children sat waiting for a preferred
+
+204
+
+COGNITIVE AND AITENTIONAL MECHANISMS
+
+205
+
+reward which was available at a later time. At any moment the children could signal to
+terminate the waiting, thereby obtaining a less preferred reward, while forfeiting the more desired one. The experiment investigated
+the effects of attention to the goal objects on the length of time that the children actually waited Specifically, while the children waited, they were given the opportunity to attend to the delayed and/or to the immediately available reward or to neither reward
+In accord with several previous theories discussed by Mischel and Ebbesen (1970), it had been expected that attention to the delayed reward would facilitate delay of gratification. In part it was expected that making the reward objects salient might facilitate "time binding" by permitting the subject to engage in self-persuasion and anticipatory gratification For example, he might sustain his delay by imagining how satisfying the
+preferred outcome would be (eg., how good it would taste) when it became available. In fact, the findings obtained by Mischel and Ebbesen were exactly opposite to the predictions. It was found that if the child could attend to either or both of the rewards, he waited much less than if he could attend to neither reward during the delay period In addition, the length of time which the children waited with only the immediate reward available for attention was similar to the time they waited with only the delayed reward available Finally, when both rewards were available, children waited a slightly shorter time. Thus, children waited most readily when neither the delayed nor the immediate reward was available for attention during the delay period, and they waited a relatively short time when any reward was available
+Observation of the children's spontaneous behavior during delay of gratification suggested that the mechanism used by many youngsters to sustain their voluntary delay involved suppressing rather than enhancing attention to the rewards. The children seemed
+to reduce the subjective aversiveness of delay of reward by engaging in covert and overt distracting responses such as staring at the mirror, covering their eyes with their hands, and talking to themselves. These responses seemed to divert their attention away from
+
+the frustration-inducing rewards. Further-
+more, self-induced distractions seemed to be fairly easy to maintain in the condition in which no rewards were facing the children, but seemed very difficult to maintain when
+any of the rewards were facing the children. Apparently, the children were able to delay longer when neither reward was available for attention because in this condition it was easier for them to avoid or suppress cognitions about the rewards
+Post hoc, the obtained results become most understandable if delay of gratification is seen as a frustration situation Indeed, the essence of frustration is a delay or interruption in an expected and desired outcome (Mandler, 1964). The necessity to delay in order to obtain a more gratifying reward may be determined externally by physical barriers or other people. In self-control and voluntary delay of
+reward, this delay is self-imposed. If a person desires the delayed outcome, he must impose the frustrative waiting situation upon himself, foregoing the immediately available outcome for the sake of the more desirable but delayed alternative.
+As Amsel's (1958, 1962) "frustrative nonreward theory" has suggested, frustration involves an actively aversive effect It follows that any conditions that enhance the aversiveness of frustration should make it harder to wait. Although Amsel's work with frustration effects in animals has concentrated on the scheduling of prior reinforcement, it seems reasonable that any cues that enhance attention to what one wants but cannot have should increase the aversiveness of frustration This interpretation of the frustration effect suggests that attending to the rewards cognitively, rather than helping to bridge the delay period, may make it more aversive to delay gratification, and therefore lead to shorter waiting time The present three experiments were designed to test this proposition
+If our speculations regarding the frustrative effects of delay are correct, then delay of
+gratification should be enhanced when the subject can readily transform the aversive waiting period into a more pleasant nonwaiting situation This line of reasoning suggests that voluntary delay of reward should
+
+206 W. MISCHEL, E EBBESEN, AND A ZEISS
+
+be enhanced by any overt or covert activities that serve as distractors from the rewards. Through self-distraction, the subject should be able to suppress or avoid the aversiveness of wanting gratification but not having it, and thus convert the frustrative delay-ofreward situation into a psychologically less aversive condition. Therefore, it was expected that overt activities and internal cognitions and fantasy which could help the subject to distract himself from the rewards would increase the length of time which he would delay gratification
+To investigate the role of attention and cognition in delay of gratification, we gave each subject either an overt activity, a cognitive activity, or no activity to engage in during the delay period. The overt and cognitive activities were designed to reduce the probability that the subjects would be attending to the reward during the delay period We then assessed how these alternatives affected the subjects' voluntary delay time, in comparison to the group of subjects which was not supplied with a distractor Consistent with our extension of frustrative nonreward theory, we predicted that voluntary delay of gratification should be increased by any covert or overt activities that distract the subject from the anticipated outcomes and, conversely, should be diminished by attention to the rewards during the delay period.
+EXPERIMENT I
+To test our expectations, a study was designed with a delay-of-gratification paradigm in which aversive frustration was deliberately made high For this purpose, preschool subjects were faced with both the immediately available and the more preferred but delayed reward during the delay period 3 All children
+8 This attentional condition was used because it presumably would provide maximum frustration cues When the subject attends to the immediate reward and is tempted to take it, he is frustrated by remembering the contingency that attainment of the reward now prevents his getting the preferred reward later When the subject attends to the delayed reward, he is frustrated by the fact that he wants it now but cannot have it yet When he attends to both objects, both of the above aversive frustrations occur, and, hence, delay should be most difficult for him Indeed, this attentional condition, in which
+
+could signal at any time to terminate the waiting period, thereby forfeiting the more preferred gratification but attaining the less
+desirable one immediately.
+
+Design
+
+Method
+
+The independent variable in this study was a
+manipulation designed to permit the subject to distract himself from the reward objects for which he
+was waiting In all conditions, while the subjects waited, the immediate and delayed rewards were both physically available for direct attention The
+dependent variable was the length of time the children remained alone in the room before they rang a bell and thereby ended the delay period
+Two methods of self-distraction were used One technique involved an external activity; in the other
+method, instructions were given to generate internal cognitive activity In the external activity, the child
+was given the opportunity to play with an attractive toy while he waited In the cognitive activity group, instructions were given to increase the probability
+that the child would think pleasant and distracting thoughts while he was waiting A control group was designed to determine how long the children would
+wait for the delayed reward without either the external or the internal distractors provided by the experimenters To control for the effects of playing with an attractive toy or thinking pleasant thoughts independent of waiting for the delayed reward, two
+additional control groups of children were given either the toy or the cognitive sets but no delayed
+reward contingency Thus, a total of five groups were employed Group
+1 waiting for delayed reward with external distractor (toy), Group 2 waiting for delayed reward with
+internal distractor (ideation) j Group 3 waiting for delayed reward (no distractor); Group 4 external distractor (toy) without delay-of-reward waiting contingency, Group 5 internal distractor (ideation) without delay-of-reward waiting contingency
+
+Subjects
+The subjects were SO children (25 boys and 25 girls) from the Bmg Nursery School of Stanford University They ranged in age from 3 years 6 months to 5 years 6 months, with a mean age of 4 years 6 months Six additional children began but did not complete the experimental procedures because they did not comprehend the instructions Five males and 5 females, equated for mean age, were randomly assigned to each of the five conditions One male and one female served as experimenters Specifically, within each condition, the male experimenter ran 3 male and 2 female subjects, and the female experimenter ran 3 female and 2 male subj'ects
+
+both rewards are present, was the one that has produced the shortest waiting time in a previous
+study (Mischel & Ebbesen, 1970)
+
+COGNITIVE AND ATTENTIONAL MECHANISMS
+
+207
+
+Procedure
+The experimental room and setting was similar to that previously described (Mischel & Ebbesen, 1970) An addition was a barrier, behind which the experimenter, but not the children, could see and reach Behind this barrier was placed a "Slinky" (a toy spring) and an opaque cake tin Under the cake tin was a small marshmallow and a stick pretzel A box of attractive battery- and hand-operated toys was on a second table next to the barrier A table and chair were against one wall, and on the table was a desk bell
+When the experimenter escorted a child to the experimental room, he first showed the child the box of toys and explained that they would play with the toys later on m the session After finishing a brief demonstration of one or two of the toys, the experimenter escorted the subject to the table with the desk bell and asked the child to sit in the chair in front of the table The experimenter then intro-
+duced and piacticed the child's use of the bell signal They played a "game" m which the experimenter repeatedly stepped out of the room, closed the door, but returned as soon as the child signaled Every time the bell was rung, the experimenter thus immediately returned to the room The procedure was the same as the one previously described (Mischel & Ebbesen, 1970), with the exception that in the present study the signal was a bell Thereafter, the experimenter consulted a concealed slip of paper which informed him by a prearranged random schedule of the condition to which the child was to be assigned
+
+Delay-of-Grattficatwn Contingency Instructions
+
+For subjects assigned to the three delay-of-
+gratification conditions (Groups 1, 2, and 3), the experimenter next removed the cake tin from behind the barrier and placed it on the table in front of the
+child, giving these instructions
+
+Let's see what's under here I'll bet it's a surprise
+
+Oh boy, look at that A marshmallow and a pretzel
+
+Which would you like to eat? You can eat either
+
+the marshmallow or the pretzel [At this point the
+
+child chose which one he wanted to eat ] Oh, you
+
+know what? I have to go out of the room now,
+
+and if you wait until I come back by myself then
+
+you can eat this one [pointing to chosen object]
+
+right up But, you know, if you don't want to
+
+wait you can ring the bell and bring me back
+
+anytime you want to But if you ring the bell then
+
+you can't have this one, but you can have that
+
+one (pointing to the unchosen object) So, if you
+
+ring the bell and bring me back then you can't
+
+have the
+
+, but you can have
+
+the
+
+The experimenter then assessed the child's comprehension by asking three questions "Can you tell me, which do you get to eat if you wait for me to come
+
+back by myself?" "But if you want to, how can you make me come back?" "If you ring the bell and bring me back, then which do you get?" As previously mentioned, six children were eliminated from the study Four failed to pass these questions, and the other two subjects were lost because one ate the food objects while the experimenter was out of the room, and the other one refused to ring the bell during training
+In one of the three delay-of-gratification conditions (Group 3), subjects did not receive either the thinking or the toy activity distraction instructions, but they did receive the foregoing waiting contingency instructions In this condition, after the subjects answered the three comprehension questions correctly, they were simply told "I have to leave the room now And if you want to you can ring the bell whenever you want to and bring me back When I come back, whether you ring the bell or wait for me to come back by myself, we'll play with all my toys."
+In Groups 4 and S--the two conditions with no delay-of-reward contingency--the foregoing instructions of course were not given Instead, the experimenter, after stating that he would have to leave, merely looked at some papers, while telling the child that he had to "check something" before he left and then shuffled through the papers for approximately as long as it would take to give the waiting contingency instructions
+Distraction through Overt Activity
+Instructions
+In the two overt distraction conditions (Groups 1 and 4), the child was left alone in the room with a potential distracting activity that involved playing with a toy (the Slinky) In Group 1 each subject was also given the delay-of-gratification contingency instructions and thus was waiting with the possibility of getting the preferred food object if he waited long enough, and the less preferred object if he did not delay long enough In Group 4 the child was left alone merely to play as long as he wished In both of these groups, prior to leaving the room, the experimenter placed the Slinky on the floor and informed the child that he could play with the Slinky on the floor for as long as he wanted, that he could ring the bell whenever he wanted to bring back the experimenter, and that, regardless of whether the child rang the bell or waited, he could play with the toys when the experimenter came back
+Distraction through Cognition-Inducing
+Instructions
+In Groups 2 and 5, before leaving the room, the experimenter gave the subject instructions designed to encourage the child to generate his own thoughts and covert cognitive activities while waiting He said "Oh, while I'm gone you can think of anything that's fun to think of, for as long as you want to, if you want to Can you tell me something to think about that's fun?" (The experimenter paused for the
+
+208 W. MISCHEL, E. EBBESEN, AND A ZEISS
+I5r
+Ld
+P 10 (3
+sP
+
+NO DISTRACTION
+
+TOY
+
+THINK FUN
+
+WAITING FOR CONTINGENT REWARD
+
+TOY THINK FUN
+NONCONTINGENT WAITING
+
+FIG 1 Mean number of minutes of voluntary waiting time for each condition in Experiment I
+
+child's examples and said "Yes" no matter what the subject said) The experimenter then added other examples "You can also think about singing songs, or think of playing with toys or anything that is fun to think o f " His final departing instructions were identical to those given in the other groups
+Recall that Groups 2 and S differed in that only the children in Group 2 expected to get a reward if they waited long enough, although both groups could remain alone and "think about fun things" for as long as they wished before terminating the delay by signaling
+In all groups, when the experimenter returned he asked the child "What happens now?" No child failed to respond correctly (either verbally or by eating the proper food reward spontaneously) In all conditions the session ended with the experimenter and child playing with the toys as had been promised
+Sequence
+To review, the order of events were as follows (a) The experimenter demonstrated some toys to the child (b) The child was taught how to bring the experimenter back into the room (by ringing the bell) (c) In Groups 1, 2, and 3, the children were presented with the delay contingency, and comprehension questions, while m Groups 4 and 5 the experimenter merely explained that he had to leave the room and that the children could bring him back whenever they wished to (d) The overt distractors were presented in Groups 1 and 4, and the covert, in Groups 2 and 5 (e) Finally, all children
+
+were reminded that no matter what they did (ring the bell or not) when the experimenter returned, they would play with the toys
+Results
+Delay of Gratification
+The mean length of waiting time was computed for each condition (Figure 1) The first result to note is the extremely low mean delay time found in the delay-of-reward condition in which no distractor was available In this condition, since both the chosen and unchosen rewards were present, and no distractor was available, the attention paid to the rewards should have been fairly high. The low mean delay time of less than | a minute found for this group replicates the low mean waiting time found in the previous comparable study when children also waited with both rewards present, and no distractor was available (Mischel & Ebbesen, 1970)
+As can be seen in Figure 1, the mean length of time which the children waited was much greater when they had available either an external or a cognitive distractor during the delay period, the mean delay times in the latter two conditions being 8.59 and 12 12 minutes, respectively
+
+COGNITIVE AND ATTENTIONAL MECHANISMS
+
+209
+
+Table 1 presents a one-way analysis of
+
+TABLE 2
+
+variance for the mean waiting times and four orthogonal contrasts (Winer, 1962). The overall effect of conditions was highly significant (/>< .001). Orthogonal contrasts were
+
+NUMBER OF CHILDREN WAITING OR NOT WAITING TO THE CRITERION (15 MINUTES) AS A FUNCTION or DELAY CONTINGENCY AND DISTRACTION CONDITIONS (EXPERIMENT I)
+
+computed to determine the exact sources of this effect and to test specific hypotheses
+
+Waitingrfeowracrodna tingent
+
+Nonwcoanittminggbent
+
+about the effect of distractors on the length of voluntary delay of reward.
+The first orthogonal contrast (Ci in Table 1) compared the three delay-of-gratification
+
+Waiting to
+criterion
+
+No distraction
+
+Toy as distrac-
+tion
+
+Thinking fun
+things as distraction
+
+Toy as distrac-
+tion
+
+Thinking fun
+things as distraction
+
+contingency conditions (Groups 1, 2, and 3) No 10 6 4 10 10 with the two conditions in which this con- Yes 0 4 6 0 0
+
+tingency was absent (Groups 4 and 5). This contrast yielded a highly significant effect
+
+bxa = 8 18, df = 2, p < 025
+
+(p < .001), indicating that giving the children
+
+a reward for which to wait greatly increased the length of time which they spent alone in the experimental room
+It was also predicted that waiting would be long only in those conditions in which a chosen reward was contingent on delay and a distractor was available As Figure 1 reveals, the availability of the desired but delayed gratification yielded a mean delay time of less than | a minute when the subject no overt or cognitive distractions available to reduce or avoid frustration while he was attending to the rewards. The second contrast
+(C2 in Table 1) was computed with only the three contingent delay-of-gratification conditions. This contrast compared the two distraction conditions (Groups 1 and 2) with the one no-distraction condition (Group 3) The F for this contrast was highly significant (p < .001) and strongly confirmed the prediction that children would wait longer for
+
+rewards if a distractor from the rewards were
+
+available during the delay period.
+
+The third contrast (C8 in Table 1) compared the two distraction conditions in which
+
+children were waiting for a reward. The dif-
+
+ference between the mean length of times
+
+waited in these two conditions reached signifi-
+
+cance at the .05 level, a longer mean delay
+
+hctiaomndeditwioans
+
+found m the cognitive distraction than in the overt distraction condi-
+
+tion. Because this difference was not very
+
+great, a more stringent statistical test was also
+
+computed, using the studentized range statis-
+
+tic and the Tukey (a) procedure for a pos-
+
+teriori t tests (Winer, 1962). With this more
+
+stringent statistic, the difference between the
+
+toy distraction and the cognitive distraction
+
+when children were waiting for a reward did
+
+not approach significance (t = 2.87).
+
+A fourth contrast (C4 in Table 1) compared the two conditions in which reward was
+
+not contingent on delay (Groups 4 and 5).
+
+TABLE 1
+
+It was not significant (F < 1).
+
+ANALYSIS OF VARIANCE AND ORTHOGONAL CONTRASTS FOB. MEAN WAITING TIMES As A FUNCTION OF DELAY CONTINGENCY AND DISTRACTION CONDITIONS
+
+Another index of waiting behavior is the number of children who waited the full IS minutes (i e, until the experimenter returned by himself) These results (Table 2) were in
+
+Source
+
+df
+
+MS
+
+F the same direction as those reported for the
+
+Between Ci C3 C4Error
+
+4 1 1 1 1 45
+
+2891 19 21** mean waiting times. A chi-square compared
+
+4282 28 46** the number of children waiting to criterion
+
+6551 627 36
+
+43 54** 418* <1
+
+with the number who did not in the three contingent delay-of-gratification conditions,
+
+151 and yielded a significant effect (x2 = 8.18,
+
+*p < 05 **p < 001
+
+df = 2, p < .025). When delay of gratification was attempted in the presence of re-
+
+210 W. MISCHEL, E EBBESEN, ANDA. ZEISS
+
+wards and no distractors were available to suppress attention from them, not a single child waited to criterion. When distractors were available cogmtively or overtly, half of the subjects waited to criterion Moreover, when the distractors were available, but rewards were not contingent on waiting, not a single subject waited to criterion
+Before discussing the present results, two additional experiments will be described. These studies are intended to clarify further the cognitive and attentional mechanisms that seem most crucial for effective voluntary delay of gratification.
+EXPERIMENT II
+The effects found in the first study were strong and in accord with theoretical expectation The results clearly supported the hypothesis that effective delay behavior is greatly enhanced by the avoidance or reduction of the frustrative aspects of delay of gratification Such reduction presumably was achieved when the subjects shifted attention away from the potential gratification and instead distracted themselves with competing cognitions or with overt activity.
+The findings concerning the potency of the instruction-induced cognitive distractions seemed especially provocative It also would be important to determine how the substantive content of cognitions (as generated by various types of instructions) affects subsequent delay behavior A second experiment was designed to explore this topic
+It was assumed that the effects of instruction-produced cognitive content on voluntary delay would parallel those found by manipulation of external stimulus objects Therefore, it was predicted that delay of gratification would be short when the frustration was made high by directing the children to think about the rewards We also expected that the content of thoughts could influence their effectiveness in bridging the delay-of-reward period Thus, we anticipated that aversive cognitions, as in "thinking sad thoughts," should be relatively ineffective compared to such positive cognitions as ideating about "fun things." Such a result could be expected for several reasons; first, aversive thoughts
+
+might be avoided and not employed effectively as distractors Alternatively, if sad thoughts were generated by the children, the additional aversiveness might lead them to terminate the already aversive waiting situation. Consequently, it was predicted that delay of gratification would be longer when the cognitions were affectively positive distrac-
+tors and shorter when the cognitions were affectively negative
+
+Design
+
+Method
+
+A three-condition study was designed which varied
+the types of instructions given to the subjects just before they began to wait for rewards The instruc-
+tions were intended to induce in the subject various types of ideation during the delay-of-gratiflcation period One condition was a replication of a pre-
+viously run cell Subjects here were instructed that they could think about fun or happy thoughts while waiting In a second condition the subjects
+were told that they could think unhappy or sad thoughts while they waited In the final condition
+the children were instructed that they could think
+about the reward objects In all conditions both rewards were again present during the waiting period
+The dependent variable was the length of time that the children waited for their more preferred reward before terminating and settling for the less prefeired outcome
+
+Subjects
+Thirty-two children from the Bing Nursery School of Stanford University were the subjects in this study Six of them were lost because of incomplete understanding of the instructions or because they ate one of the reward objects while waiting for the experimenter The subjects in the final analysis ranged in age from 3 years 9 months to 5 years 3 months, with a mean age of 4 years 9 months The final data were based on 10 subjects in each of the two new conditions and 6 subjects in the replicated condition Sex ratios and ages were equated across groups
+
+Procedure
+The initial procedure in the three conditions of this study was identical to that in Groups 1, 2, and ? of Experiment I, in which the children were waiting for reward objects The only differences came after the child had answered the usual three comprehension questions correctly As in the earlier studies, after the child answered these three questions, the experimenter was informed as to which one of the following three sets of instructions he was to give, the decision had been determined randomly The "think fun" distraction instructions were identical to those described for the equivalent group in Experiment I
+
+COGNITIVE AND ATTENTIONAL MECHANISMS
+
+211
+
+In the "thtnk sad" distraction instructions, the key phrases as the experimenter started to depart were "Oh while I'm gone you can think of anything that is sad to think of, for as long as you want to, if you want to. Can you tell me something that is sad to think of?" (The experimenter paused for the child's examples and said "Yes" regardless of the answers) The experimenter then added other examples. "You can also think of falling down and getting a bloody knee which hurts a lot, or you can think of crying with no one to help You can think of anything that makes you unhappy"
+The "think food reward" instructions directed attention to the reward objects Therefore, the experimenter simply mentioned both reward objects as things the child could think about while the experimenter was gone "Oh, while I'm gone you can think of the marshmallow and the pretzel for as long as you want to, if you want to " This thought was repeated several times in reversed order and rephrased form, with the experimenter noting that the child could think anything he wanted to about the pretzel and the marshmallow for as long as he wanted to
+In all groups the final departing instructions were identical and the same as described in Experiment I, thus, they emphasized that the child could ring the bell or wait, and in either event the experimenter and child would play with all the toys at the end
+Results
+The mean number of minutes waited in the three conditions ("think fun," "think sad," and "think food") is summarized in Figure 2 A one-way analysis of variance of these data is summarized in Table 3 It can be seen that most of the between variance is accounted for by the comparison between the think fun condition and the other two conditions, think
+sad and think food This finding is exactly in accord with the prediction The direction of the difference was as expected1 namely, children waited longer for a reward when they
+
+TABLE 3 ANALYSIS OF VARIANCE AND ORTHOGONAL CON-
+TRASTS FOR MEAN LENGTH OF DELAY OF GRATIFICATION AS A FUNCTION OF VARIOUS THOUGHT-INDUCING INSTRUCTIONS (EXPERIMENT II)
+
+Source
+Between G! C2Error
+
+if
+2 \ 1 23
+
+MS
+1761 3489
+33 322
+
+F
+547* 10 84** <1
+
+*p < 05 **p < 01
+
+I5r-
+
+$
+
+THINK FUN
+
+THINK SAD
+
+THINK REWARDS
+
+FIG 2 Mean number of minutes of voluntary waiting time for each condition in Experiment II
+
+presumably were distracted by thinking "fun things" than when they were thinking about the food rewards or than when they were thinking "sad things "
+As Figure 2 indicates, instructions to think about the food rewards and instructions to think about sad things produced similar delay times It is also interesting to compare the delay times in these two conditions with the delay time in a similar condition but without any ideation instructions--namely, Group 3 from Experiment I
+To compare these three conditions, the distribution of waiting times for subjects was dichotomized at the median A chi-square comparison among conditions on this dichotomy did not approach significance (x2 = 3.2, dj -- 2), suggesting that delay times in the
+three conditions were essentially similar Thus, instructions to think about the rewards, or to think sad, did not significantly facilitate delay of gratification when compared to a no-ideation condition Instructions to think about fun things, however, produced waiting times well above either of the two other think groups and also greater than the comparable but uninstructed delay-of-gratification condition (Group 3 from Experiment I). In this regard, note that the "think fun" group of Experiment II closely replicated the long mean waiting time found in the comparable condition of Experiment I.
+
+212 W. MISCHEL, E. EBBESEN, AND A. ZEISS
+
+EXPERIMENT III
+Experiments I and II involved distraction manipulations when the subjects were waiting for delayed rewards that were always visually present and directly available to attention. It is conceivable that under conditions in which delayed gratifications are not physically available for direct visual attention, their mental representation in the form of images or ideas does have a "time-binding" function and would facilitate voluntary delay Indeed, that expectation is one that might follow from Freud's (orig. publ. 1911) formulation of primary process and the development of delaying ability. Freud implied that delay capacity begins to develop when the child provides himself with mental representations or images of the delayed object, but only when he cannot see it externally. That is, some discharge of tension may be achieved by cathecting an image of the reward objects, but only when they are physically unavailable for direct attention For example, the hungry child may achieve some gratification by hallucinating the mother's breast when it is absent If one tested that hypothesis in the present paradigm, one would have to predict long delay times when subjects were instructed to ideate about the rewards but the rewards were physically obscured from view On the other hand, a focus on the frustrativeness of nonreward predicts that such instructions would produce short delay times Experiment III was designed to test which expectation was correct.
+
+Design
+
+METHOD
+
+The previous experiments were undertaken to determine the effects of distraction from the reward
+objects on delay of gratification This experiment was designed to direct the subjects' attention to the reward objects cognitively when the objects themselves were physically obscured during the waiting period One experimental condition and two control groups were run In all three groups both the im-
+mediate and the delayed rewards were obscured from the sight of the children during the waiting period
+The groups differed, however, in the instructions given to the subjects In the experimental condition,
+the subjects were instructed that they could think about the reward objects while waiting In the two
+control conditions, the subjects were either told nothing or they were instructed that they could
+
+think about "fun things" while waiting. The dependent variable was the length of time that the children waited for the delayed reward before terminating by settling for the less preferred, but immediately available, outcome.
+Subjects
+Sixteen subjects were run in this study The subjects ranged m age from 3 years 5 months to 5 years 6 months, and their mean age was 4 years 6 months There were 11 males and 5 females Half of the subjects were assigned to the experimental condition (which directed the children's attention to the reward objects) The remaining 8 subjects were equally divided between the two control conditions ("think fun" and no ideation) The sex ratios and the mean ages of the subjects were similar across conditions One male experimenter tested all of the subjects
+Procedure
+All procedural aspects of this experiment were identical to those in the previous two experiments except for the following modifications In the previous experiments both of the reward objects were directly available for attention during the delay period In this study it was necessary to remove the reward objects from the child's visual field If the experimenter took the rewards with him when he left the child waiting in the room, he might affect the child's trust that the promised rewards would ultimately be returned Therefore, the reward objects were placed under an opaque cake tin and put under the table at which the child sat so that they could not be seen by him during the waiting period The children weie told that this operation would keep the food objects fresh while the experimenter was out of the room The rewards were obscured m this fashion after the child had passed the comprehension questions Thereafter, the experimenter was informed of the condition in which the subject was to be run
+In the experimental condition the experimenter gave the subjects the "think food rewards" instructions used in Experiment II These instructions were designed to direct the children's attention to the reward objects during the delay interval In one control condition, the experimenter merely left the room, in the other control condition, the experimenter gave the identical "think fun" instructions that were used m Experiments I and II After completing these instructions, the experimenter left the room
+RESULTS
+All of the means are depicted in Figure 3 The "no-ideation" group mean was 12 86 minutes, and the "think fun" condition mean was 14 48 minutes It is interesting to note that these means are very close to the "think fun" means found in Experiments I and II,
+
+COGNITIVE AND ATTENTIONAL MECHANISMS
+
+213
+
+which were 12.12 and 13.33 minutes, respectively In the experimental condition ("think rewards") in which the children were directed to think about the physically obscured reward objects, the mean waiting time was only .78 minute. These results utterly contradict the belief that ideating about the reward objects in their absence enhances voluntary delay of gratification for them.
+Mean delay times in the two control groups ("no ideation" and "think fun") obviously did not differ from each other, and, consequently, they were combined and compared with mean waiting time in the experimental condition. The resulting t test was highly significant (#=11.93, df = 14, p<.00l). Moreover, of the eight children in the experimental group, not a single one waited more than 2 minutes; in contrast, five of the eight control children waited the full IS minutes (p = .05, two-tailed by Fisher's exact test). Thus, even when the rewards are not visually present, ideating about them and attending to them cognitively serves to substantially decrease, rather than to enhance, the duration of delay of gratification for the sake of attaining the preferred reward
+DISCUSSION: EXPERIMENTS I, II, AND III
+Considering all three experiments together, it seems remarkable how well our brief cognition-inducing instructions seemed to work with our young subjects The present seemingly simple techniques may provide a fruitful methodology for studying cognition and attention experimentally in young children. By manipulating cognition-inducing instructions and visual presence of rewards, extremely powerful effects on delay time were obtained.
+To provide an overview of all the results, the mam findings from the present three experiments are summarized in Figure 4. As Figure 4 shows clearly, effective delay of gratification depended on cognitive avoidance or suppression of the reward objects during the waiting period This conclusion is based on several sets of data. First, when the subjects were waiting for the preferred but delayed reward with the reward objects in their attentional field, delay of gratification was minimal
+
+15
+UJ
+iI- 10 1Z3.
+uj 5 S
+
+NO IDEATION
+
+THINK FUN
+
+THINK REWARDS
+
+FIG 3 Mean number of minutes of voluntary waiting time for each condition m Experiment III.
+
+In contrast, delay was dramatically facilitated when the subjects engaged in affectively pleasant cognitive distractions ("think fun" conditions) during the delay period. That result was replicated in the second experiment
+Second, and completely consistent with these findings, are the results from Experiment III, in which the rewards were not externally available for attention during the delay period. As Figure 4 shows, under these conditions the "think fun" group again yielded extremely long periods of delay of gratification In contrast, cognitions about the rewards (induced by the "think rewards" instructions) resulted in an average delay time of less than 1 minute. Thus, when the children thought about the absent rewards, it was as difficult for them to delay gratification as when the rewards were directly in their attentional field (the no-ideation condition of Experiment I). Note also that when the rewards were not available for direct attention, uninstructed subjects (no ideation) found it relatively easy to delay gratification, waiting no less than the "think fun" children. These findings in the two no-ideation conditions essentially replicate those from comparable conditions in a previous study (Mischel & Ebbesen, 1970), In that study it was found that delay of gratification was exceedingly
+difficult when the youngsters faced the reward objects (either the delayed one, the immediate
+
+214 W MISCHEL, E EBBESEN, AND A ZEISS
+EXPERIMENT I EXPERIMENT 2 EXPERIMENT 3
+
+NO
+
+THINK
+
+THINK
+
+IDEATION
+
+FUN REWARDS
+
+REWARDS AVAILABLE FOR ATTENTION REWARDS NOT AVAILABLE FOR ATTENTION
+
+FIG 4 Mean number of minutes of voluntary waiting time for treatment conditions in Experiments I, II, and III, comparing different ideation instructions with controls
+
+one, or both, with no differences between these conditions). However, just as in the present Experiment III, when the children waited with no reward objects in their attentional field, they were able to substantially delay gratification in order to attain the
+preferred but delayed reward The present data may be relevant to
+psychodynamic theorizing regarding delaying
+capacity Predictions from psychodynamic theory concerning the development of delay capacity are complex since the process is seen as one that involves transitions from primary process to secondary process thinking According to Rapaport's (1967) elaboration and clarification of Freudian theory, delay capacity begins with "the emergence of a hal-
+lucinatory image of the need-satisfying object when tension rises to the point where discharge should take place but the needsatisfying object is not present [pp 315316] " This part of the theory seems to suggest that instructions designed to help subjects imagine or ideate about absent but desired delayed gratifications should facilitate voluntary delay time Clearly, the present
+
+data do not support such a view and therefore might be interpreted as undermining the Freudian position
+But Rapaport (1967) goes on to state that this image of the need-satisfying object does not provide "more than a minute opportunity
+for discharge [p. 316]." He therefore argues that delay is further developed by transition
+from primary process hallucinatory images to secondary process reality testing. In this phase of the development of delay capacity, discharge is postponed "until external reality conditions have been found suitable [p 318] " Psychodynamic theory (as interpreted by Rapaport) thus suggests that effective delay begins to occur when the ego can divert energy away from images of delayed rewards and toward reality consideration and instrumental activity Rapaport noted that internal
+impulse control requires "countercathexes" as in repression This part of the psychodynamic formulation of delay seems to imply that removing attention from the delayed rewards might enhance effective impulse control Rapaport correctly comments that "Little is known about the nature of the process by
+
+COGNITIVE AND ATTENTIONAL MECHANISMS
+
+215
+
+which these countercathexes arise [p. 219],"
+
+Future research needs to explore more closely
+
+the exact conditions that moderate the rela-
+
+tions between specific cognitive activity and
+
+delay behavior.
+
+The research thus far demonstrates that
+
+effective delay, rather than being mediated
+
+by consummatory fantasies, probably depends
+
+on suppressive and avoidance mechanisms
+
+that reduce frustration This interpretation is
+
+congruent with the "Satan get thee behind
+
+*me" approach to self-control recognized by
+
+Skinner (1948) in Walden Two In his novel,
+
+Skinner described children learning to control
+
+themselves by learning to physically and
+
+mentally remove temptations This approach
+
+emphasizes that one may effectively resist
+
+temptations by engaging in activities (overtly
+
+or covertly) that prevent one from attending
+
+to them Obviously, not just any cognition
+
+serves as an effective distractor from aversive
+
+frustration or temptation As the second ex-
+
+periment indicated, "think fun" is better
+
+than "think sad," whereas "think rewards"
+
+increases frustration most, hence making
+
+continued delay most difficult
+
+Observations of the children, in the
+
+reward-absent delay conditions, lend further
+
+credence to these interpretations. When the
+
+distress of waiting seemed to become espe-
+
+cially acute, children tended to reach for the
+
+termination signal, but in many cases seemed
+
+to stop themselves from signaling by abruptly
+
+creating external and internal distractions
+
+for themselves They made up quiet songs
+
+("Oh this is your land in Redwood
+
+City"), hid their heads in their arms,
+
+pounded the floor with their feet, fiddled
+
+playfully and teasingly with the signal bell,
+
+verbalized the contingency ("If I stop now
+
+I get
+
+, but if I wait I get
+
+)," prayed to the ceiling,
+
+and so on. In one dramatically effective self-
+
+distraction technique, after obviously experi-
+
+encing much agitation, a little girl rested
+
+her head, sat limply, relaxed herself, and
+
+proceeded to fall sound asleep.
+
+These observations and the results from
+
+three experiments suggested that the ease with
+
+which subjects can cope with the frustration
+
+depends on the overt and covert response
+
+alternatives available to them during the im-
+
+posed delay. The manipulations of the present experiments may be construed as having provided subjects with various types of planned alternative responses for coping with that frustration. The more the available response directed the child's attention away from the frustration, the better he was able to continue the delay and substitute a new adaptive activity during the frustration, in the present paradigm that activity could have been anything that kept him waiting without ideating
+about the goal objects. It would be interesting to know if pre-
+school subjects such as those in the present experiments were aware of the principle of "Satan, get thee behind me" before they actually began waiting. That is, given a choice of waiting for the preferred reward, with the rewards obscured or available for attention, would subjects make the right choice? To answer this question, 29 preschool children
+were administered the previously described instructions for the delay-of-gratification
+paradigm. Just before the point at which the experimenter would usually leave the child waiting alone in the room, she picked up an opaque cake cover and gave the subject the choice of covering with it either the rewards, or another set of comparable but irrelevant
+objects also lying on the table, or simply placing the cover over another fixed spot on the table. The results showed that the children chose the place to cover quite randomly before commencing their voluntary delay
+That is, they did not seem aware that ob-
+scuring the relevant rewards would facilitate their ability to wait for them. Thus, young children do not seem to have insight into the role of cognition and attention in self-control, at least prior to actually waiting
+The data from the main experiments seem to contradict James's (1890) belief that "the essential achievement of the will" requires one to bear up and force oneself to maintain directed attention to the difficult or boring Rather than trying to maintain aversive
+activities such as delay of reward through "acts of will" and focused attention, effective self-control may hinge on transforming the difficult into the easy, the aversive into the pleasant, the boring into the interesting, while still maintaining the task-required (reward-
+
+216 W. MISCHEL, E. EBBESEN, ANDA. ZEISS
+
+contingent) activity. Such transformations may occur either by engaging in the appropriate overt distracting activity (e g., the "toy" condition) or changing one's own mental content and ideation so that it functions as a covert distractor.
+It is important to recognize, however, that
+the mental transformations and distractions which occur during delay do not erase or
+undo the role of the reward contingencies in the waiting situation This is evident in the data from Experiment I, which show how little persistence there was in "thinking fun" or playing with a toy when there was no waiting contingency. The distracting activity itself, while pleasant and distracting enough
+to maintain waiting for a contingent reward, did not in itself keep the children in the room
+for more than a minute Additional evidence that the contingency was available mentally throughout the waiting period is that the children easily reproduced, verbally or by appropriate action, the contingency at the end of the waiting period Children who had been busily distracting themselves for the full IS minutes, playing with a toy or singing songs, immediately and spontaneously ate the appropriate food reward when the experimenter
+returned Obviously then, the transformation
+of the aversive waiting into a pleasant play period does not efface the task-oriented purpose of the behavior, and presumably the two processes somehow coexist Subjects were guided by their goals, even when seemingly absorbed in distractions designed to obscure them Just how the contingency was operating is an interesting point for speculation The contingency may have been available but never reproduced mentally until the end of waiting, even more likely, subjects may have reminded themselves of the contingency episodically throughout the waiting
+period As mentioned previously, verbalizations of the contingency often occurred when the subjects momentarily left their distracting play and seemed about to terminate the waiting period It is as if the subject periodically reminds himself of the goal for which he is waiting, distracts himself from it to make delay less frustrative, and then repeats the process
+Extending these speculations further, a
+
+good way to master the difficult or aversive may be to think or do something that is pleasant, while still performing the necessary task-relevant response (e.g., waiting, working) Rather than "willing" oneself to heroic bravery, one needs to perform the necessary "difficult" response while engaging in another
+one cognitively The principle involved here seems similar to the one underlying "counterconditioning" of aversive emotional reactions in behavior therapy To master a snake phobia, for example, the subject needs to * deal with the problematic stimulus while engaged in a fear-incompatible positive internal response ( e g , relaxation); whereas in delay of gratification one must perform a difficult or problematic response while engaged in ideation of stimuli that are positive or distracting. In either case, it is easier to
+do something difficult if one also does something easy or pleasant at the same time.
+The findings from the present studies seem extremely reliable, being based on several replications and diverse convergent data. However, one obviously cannot generalize from them to the role of cognition in forms of self-control other than the delay-ofgratification paradigm For example, it might
+be adaptive to ideate about desired or needed but currently unavailable goal objects, but only in situations m which the subject's actions can be potentially instrumental in producing the desired outcome Thus, when attainment of a positive outcome is contingent on the subject's own problem-solving behavior, it might help him to think about the goal object while seeking means for achieving or reaching it in reality. In contrast, in the present delay-of-gratification paradigm,
+attainment of the preferred goal required only passive waiting beyond delaying there was absolutely nothing the subject could do to
+influence the occurrence of the desired outcome Moreover, even his delay behavior (while a necessary condition for attainment of the preferred outcome) could in no way influence the time at which gratification would ultimately occur
+Data relevant to the dilemma, in which subjects cannot do anything to attain a desired but unavailable outcome, may be found in studies of "defensive perception." Our
+
+COGNITIVE AND ATTENTIONAL MECHANISMS
+
+217
+
+studies on attention in delay employ a design,
+which, in a way, seems the reverse of these classic "new look" studies. In the latter the
+subject was, first, frustrated or pained and was then asked what he thought or perceived
+most readily (on projective measures). In
+contrast, in the present methodology, the subject is given the "thoughts," and then their effect on what he does is noted; specifically, his ability to sustain goal-directed delay behavior and to cope with frustration are measured. Consistent with our data, findings from perceptual defense studies indicate a tendency to avoid painful stimuli cognitively and perceptually when nothing can be done by the subject to cope with them instrumen-
+tally (e.g., Reece, 1954). It also has been reported that in response to projective ma-
+terial, sleep-deprived subjects showed fewer sleep-related ideas and themes than did controls (Murray, 1959) Likewise, food ideation is less when subjects are severely food deprived than when they are not hungry (Lazarus, Yousem, & Arenberg, 1953) Similarly, Clark's (1952) pioneering experiments on Thematic Apperception Test (TAT) sexual imagery compared the amount of sexual responses in TAT stories written by sexually aroused and nonaroused males. He found less sexual imagery and also less "sexual guilt" in the stories of sexually aroused subjects. Clark attributed his results to a simultaneous, predominating increase in sexual guilt which he suggests was evoked by the sexual arousal and is "sufficient to inhibit the expression of sex with a consequent lowering of guilt [p. 398] " But a more parsimonious interpretation in terms of the present experi-
+ments is that the Clark results could reflect cognitive avoidance of all sexual thoughts (including those scored as "guilt") under conditions that made sexual thoughts highly
+frustrative, that is, sexual arousal with no opportunity for satisfaction.
+Thus, when subjects cannot cope with aversive stimuli instrumentally ( e g , by going to sleep when sleepy, by finding food when hungry, by avoiding painful shock, and by obtaining sexual release when aroused, they may engage in cognitive avoidance of those stimuli. To decrease frustration, subjects may generate their own distractors and avoid the
+
+aversive stimuli cognitively, if possible, as we observed repeatedly in our studies. This conclusion--that aversive stimuli are avoided cognitively--may be restricted, however, to
+paradigms in which the subject believes that thinking about the aversive stimulus cannot change the contingencies in the situation.
+The overall results of the present experiments help to clarify some widespread basic theoretical misconceptions regarding self-control. In particular, following dynamic formulations, it has been customary to construe voluntary delay of reward as involving the ability to defer immediate gratification. This ability has been viewed as an enduring trait of "ego strength" on which individuals differed stably and consistently in many
+situations In fact, as the present data indi-
+cate, under appropriate motivational and attentional-cognitive conditions, virtually all subjects, even young children, could manage to delay for lengthy time periods
+Taken collectively, research on delay of gratification permits us now to speculate about a two-part process in delay of gratification. First, one must consider the determinants of the choice to delay for the sake of more preferred delayed outcomes. This choice is influenced mainly by the subject's expectations concerning the probable consequences of his choice These consequences include the relative subjective values of the immediate
+and delayed outcomes themselves as well as other probable reinforcing outcomes associated with each alternative. As previous research has shown, expectancies relevant to these outcomes depend on the subject's direct and vicarious past experiences and trust relationships, modeling cues, the specific contingencies in the choice, and so on ( e g , Mischel, 1966).
+Second, once the choice to delay gratifica-
+tion has been made, effective delay depends on cognitive and overt self-distractions to reduce the aversiveness of the self-imposed frustration. For this purpose, the subject needs to "tune out" on the goal objects and generate his own distractions while maintaining the contingent behavior for goal attainment.
+Thus, the subject can wait most stoically if he expects that he really will get the
+
+218 W MISCHEL, E EBBESEN, AND A. ZEISS
+
+deferred larger outcome in the waiting paradigm, and wants it very much, but shifts his attention elsewhere and occupies himself internally with cognitive distractions Any conditions that shift attention from the delayed objects appear to facilitate voluntary waiting times appreciably In order to bridge the delay effectively, it is as if the subject must make an internal notation of what he is waiting for, perhaps remind himself of it periodically, but he must spend the remaining time attending to other less frustrative internal and external stimuli
+REFERENCES
+AMSEL, A The role of frustrative nonreward in noncontmuous reward situations Psychological Bulletin, 1958, 55, 102-119
+AMSEL, A Frustrative nonreward in partial reinforcement and discrimination learning Psychological Review, 1962, 69, 306-328
+CLARK, R A The projective measurement of experimentally induced levels of sexual motivation Journal of Experimental Psychology, 1952, 44, 391-399
+FREUD, S Formulations regarding the two principles in mental functioning 1911 In Collected Papers Vol 4 New York Basic Books, 1959
+GRIM, P F , KOHLBERG, L , & WHITE, S H Some relationships between conscience and attentional
+
+processes Journal of Personality and Social Psychology, 1968, 8, 239-252 HARTSHORNE, H , & MAY, M A Studies in the nature of character Vol 1 Studies in deceit New York Macmillan, 1928 JAMES, W Principles of psychology New York Holt, Rmehart & Winston, 1890 LAZARUS, R S , YOUSEM, H , & ARENBERG, D Hunger and perception Journal of Personality, 1953, 21, 312-328 HANDLER, G The interruption of behavior Nebraska Symposium on Motivation, 1964, 12, 163-219 MISCHEL, W Theory and research on the antecedents of self-imposed delay of reward In B A Maher ( E d ) , Progress in experimental personality research Vol 3 New York Academic Press, 1966
+MISCHEL, W , & EBBESEN, E B Attention in delay of gratification Journal of Personality and Social Psychology, 1970, 16, 329-337
+MURRAY, E J Conflict and repression during sleep deprivation Journal of Abnormal and Social Psychology, 1959, 59, 95-101
+RAPAPORT, D On the psychoanalytic theory of thinking In M M Gill (Ed), The collected papers of David Rapaport New York Basic Books, 1967
+REECE, M M The effect of shock on recognition thresholds Journal of Abnormal and Social Psychology, 1954, 49, 165-172
+SKINNER, B F Walden two New York Macmillan, 1948
+WINER, B J Statistical principles in experimental design New York McGraw-Hill, 1962
+(Received November 3, 1970)
+
+

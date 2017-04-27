@@ -1,0 +1,339 @@
+Journal of Social Issues, Vol. 70, No. 4, 2014, pp. 615--636 doi: 10.1111/josi.12082
+Do You Say Something When It's Your Boss? The Role of Perpetrator Power in Prejudice Confrontation
+Leslie Ashburn-Nardo, John C. Blanchar, and Jessica Petersson
+Indiana University - Purdue University Indianapolis
+Kathryn A. Morris
+Butler University
+Stephanie A. Goodwin
+Wright State University
+Two experiments examined the role of perpetrator power in witnesses' decision to confront a prejudicial remark. In Experiment 1, participants who witnessed a sexist remark by a higher-power (vs. an equal-power) perpetrator were significantly less likely to express confrontation intentions, despite finding the remark highly biased and inappropriate. In Experiment 2, participants read scenarios involving a sexist versus racist remark perpetrated by someone higher vs. lower vs. equal in power, and they reported their confrontation intentions. Perpetrator power again inhibited direct confrontation intentions, and this effect was mediated by perceptions of responsibility for intervening, perceived ability to decide how to respond, and perceived costs versus benefits of confronting. Findings were not qualified by discrimination type (racism vs. sexism) or by individual differences in participant prejudice. Consistent with power-as-approach theory, feeling
+Correspondence concerning this article should be addressed to Leslie Ashburn-Nardo,
+Department of Psychology, IUPUI, LD 124, 402 N. Blackford St., Indianapolis, IN 46202-3275. Tel: (317)-274-6766 [e-mail: lashburn@iupui.edu].
+Portions of this research were conducted in partial fulfillment of requirements for an undergraduate honors thesis, submitted by John C. Blanchar, and for a master's thesis, submitted by Jessica Petersson, to the Department of Psychology, Indiana University--Purdue University Indianapolis (IUPUI). The researchers were supported by grants from the Undergraduate Research Opportunity Program by the Center for Research and Learning at IUPUI (PI Blanchar) and the National Science Foundation (BCS0951694; Co-PIs Ashburn-Nardo, Morris, and Goodwin). We thank Michael Hatoway and Shawn Peters for their assistance with data collection on Experiment 1.
+615
+C 2014 The Society for the Psychological Study of Social Issues
+
+616 Ashburn-Nardo et al.
+powerless increased sensitivity to confrontation obstacles and thereby inhibited confrontation intentions.
+In a 2007 interview about CBS's decision to hire Katie Couric to anchor its Evening News, former anchor Dan Rather said, "the mistake was . . . to dumb it down, tart it up in hopes of attracting a younger audience" (Sutel, 2007). Who would possibly confront Rather, arguably the most powerful journalist in America, about the prejudicial nature of his comment? In the present research, we examine the relationship between power and prejudice confrontation, specifically whether the power dynamic between perpetrators and those who witness their discriminatory behavior influences confrontation intentions, and, if so, through what mechanisms.
+Confrontation as a Sexism Intervention
+A variety of formal training programs have been shown to raise awareness about social structures that promote gender inequality (Case, Hensley, & Anderson, 2014) and reduce sexist attitudes (de Lemus, Navarro, Megias, Velasquez, & Ryan, 2014). But in everyday life, one of the most accessible prejudice reduction interventions is interpersonal confrontation, or directly expressing one's disapproval of sexism (or other "isms") to the perpetrator responsible for the offensive act. Indeed, confrontation has been described as a "universally available prejudice reduction tool that does not rely on systematic intervention and that emphasizes the power of the individual" (Czopp & Ashburn-Nardo, 2012, pp. 176-177).
+Despite the fact that, theoretically, anyone--trained or untrained--can employ this intervention on behalf of themselves or others, there are a number of obstacles that would-be confronters face. Many of these are outlined in the Confronting Prejudiced Responses (CPR) Model (Ashburn-Nardo, Morris, & Goodwin, 2008). Drawing upon classic bystander intervention research, the model suggests that people are unlikely to confront if they do not interpret an incident as discrimination, deem it an emergency, assume personal responsibility for addressing the incident, identify a response, and take action. Thus, benevolent forms of sexism may not elicit confrontation because they oftentimes are not identified as sexism (Barreto & Ellemers, 2005). Similarly, because people see sexism as a less serious offense than, for example, racism (Czopp & Monteith, 2003), they may be less likely to confront it. Even if people do label an incident as sexist and perceive it as requiring an immediate response, they may not see themselves as personally responsible for acting, such as when other potential confronters are present (Swim & Hyers, 1999). Furthermore, people who have not seen others respond to sexism or who have never practiced their own response may be unsure what to do when faced with a sexist incident (Lamb, Bigler, Liben, & Green, 2009). Finally, people may be unlikely to take action to the extent that they
+
+Perpetrator Power and Prejudice Confrontation
+
+617
+
+perceive the costs of confrontation as outweighing the benefits; that is, if they fear backlash (Good, Moss-Racusin, & Sanchez, 2012; Kaiser & Miller, 2004; Shelton & Stewart, 2004) or see the perpetrator as highly unlikely to change (Rattan & Dweck, 2010).
+This litany of obstacles might lead one to conclude erroneously that people never confront sexism or other forms of incivility. On the contrary, people do sometimes confront, and when they do, there are resulting benefits. Confrontation elicits feelings of guilt and self-criticism in perpetrators (Czopp & Monteith, 2003), reduces their subsequent expressions of bias (Czopp, Monteith, & Mark, 2006), and increases their compensatory behavior toward offended targets (Mallett & Wagner, 2011). Confronters also report some benefits, including feelings of closure or restored control (Hyers, 2007) and empowerment (Gervais, Hillard, & Vescio, 2010).
+Because of its universal availability and numerous benefits, Ashburn-Nardo et al. (2008) urged organizations to encourage confrontation among members who witness discriminatory behavior. However, confrontation may be uniquely challenging in organizations given their hierarchical structure. Specifically, people may be reluctant to confront those in higher-power positions, such as their supervisors or "bosses."
+
+The Role of Social Power
+Because confrontation is interpersonal in nature, the present research focuses on social power, a relational form of power in which an individual controls another's valued resources or outcomes (Galinsky, Gruenfeld, & Magee, 2003; Keltner, Gruenfeld, & Anderson, 2003). According to power-as-approach theory (Keltner et al., 2003), having power over others is associated with increased positive affect; attention to rewards; reliance on automatic social cognition; and disinhibited, even socially inappropriate, behavior. Keltner et al. also make predictions about the consequences of being powerless. Powerlessness is proposed to have inhibitory effects and is associated with negative emotions like fear and embarrassment, increased sensitivity to threat and punishment, more careful scrutiny of others' actions and sensitivity to others' evaluations, and situationally constrained behavior. Perhaps being of relatively low-power social status helps explain why targets of discrimination often say and do less than they report they would like when they experience prejudicial remarks perpetrated by advantaged outgroup members (e.g., Swim & Hyers, 1999; Woodzicka & LaFrance, 2001). In such contexts, they may be more fearful of backlash or more inclined to adhere to situational norms of politeness. Because power has not been manipulated in these or other studies, its specific role in confrontation remains unclear.
+
+618 Ashburn-Nardo et al.
+Overview and Hypotheses
+In the present research, we conducted two experiments to examine the role of perpetrator power in the decision to confront sexism. In Experiment 1, participants witnessed a sexist remark by a higher-power (vs. equal-power) perpetrator, and their confrontation motives and intentions were assessed. In Experiment 2, participants (who varied in self-reported prejudice) imagined how they would react to a sexist versus a racist remark made by a supervisor, coworker, or subordinate. They then responded to a variety of questions to assess perceived confrontation likelihood and potential mediators of the power-confrontation relationship. Based on power-as-approach theory (Keltner et al., 2003), we expected participants in both experiments to have weaker confrontation intentions when the perpetrator had actual or imagined control over their outcomes. Moreover, because powerlessness should increase sensitivity to threat as well as concerns about others' evaluations of their own actions (Keltner et al., 2003), we expected confrontation obstacles (CPR Model; Ashburn-Nardo et al., 2008) to loom larger and, in fact, drive confrontation intentions for participants who imagined how they would respond to a supervisor (Experiment 2).
+Experiment 1
+Experiment 1 was a lab study in which participants viewed a supposedly live Internet chat between two other (fictitious) participants who were reviewing job applications. In actuality, the conversation was a scripted slideshow designed to look like an Internet chat using Microsoft PowerPoint and MediaLab software. During the chat, one of the "participants" (who was either higher or equal in power to the actual participant) made an overtly sexist comment about a female applicant. After completing various measures to assess their perceptions of the perpetrator and to explore potential motives for or against meeting with the perpetrator, participants were given a surprise opportunity to share their feedback with the perpetrator face-to-face. Their response was recorded as evidence of confrontation intention.
+Method
+Participants. Participants were 95 introductory psychology students at a large Midwestern university. They were compensated with extra credit in their courses. Although results did not change with their inclusion, data from 18 participants were excluded because those participants expressed suspicion about some aspect of the study or answered the power manipulation check incorrectly. Thus, the final sample included 62 women and 15 men, ranging from 18 to 50 years of age (M = 21.91, SD = 6.56 years); the sample was predominantly White (74%;
+
+Perpetrator Power and Prejudice Confrontation
+
+619
+
+15.6% were Black, 5.2% were Asian, 3.9% were Hispanic, and 1.3% were Native American), which is representative of the university population.
+
+Procedure. Participants arrived at the lab individually, were greeted by a White male experimenter, and provided their informed consent. They were led to believe that they would be working with two other participants in separate labs within the same building using networked computers, as part of a study of distance communication. In reality, all interactions were staged through computer software. Participants were informed that they would be completing two tasks with an opportunity to earn a $15 monetary reward in the second group performance task.
+
+Power manipulation. Participants then completed a bogus battery of tests, ostensibly designed to measure leadership ability and personality traits to determine the group leader. Participants "submitted" their responses online and received feedback suggesting that they have strong listening and interpersonal skills, and therefore, would be placed into an observational role of human resources personnel. Participants were given printed copies of both of the (fictitious) other participants' results. Through random assignment, half the participants received results identifying one of their online partners as the "boss" (higher-power perpetrator condition). These participants were informed that the higher-power individual would have complete control in deciding how a monetary incentive would be allocated among the three of them, thus increasing the perception of this (fictitious) individual's control of valuable resources. Conversely, participants in the equal-power perpetrator condition were notified that both of the supposed other participants' results suggested that there was no clear "boss"; any monies earned in the task would therefore be equally divided among the three of them.
+
+Exposure to sexist remark. Participants were then given instructions concerning the networked computer task in which the two other (fictitious) participants evaluated job applications and they, as human resources personnel, would be observing the correspondence and taking notes so that they could later provide feedback to the discussants. During the (staged) conversation, one of the discussants remarked, "i don't know about women in business positions they are so emotional. i wish there was a pic included. for me to put up with a nagging woman at work, she'd have to be really hot!" (Note: For half of the participants, the remark was followed by "LOL joking!" as an attempt to manipulate intent. Participants evaluated the extent to which they perceived the perpetrator as humorous, but there was no difference as a function of intent condition, p > .27. Further, intent did not significantly affect any of the outcomes. Thus, the manipulation was unsuccessful and will not be discussed further.) Importantly, the perpetrator who expressed this sexist remark was either higher or equal in power with participant observers.
+
+620 Ashburn-Nardo et al.
+Measures. Immediately after the remark, the chat appeared to time out. Because they believed they were merely observing an online conversation, participants were not given a chance to respond. Participants first completed a number of items regarding their perceptions of the discussants. The items of interest concerned perceptions of the perpetrator's behavior to ensure that participants had attended to the sexist remark as intended (Discussant 1's comments were completely appropriate; I thought Discussant 1's comments were biased; There was evidence of discrimination in Discussant 1's remarks; I thought Discussant 1 acted in a professional manner). Participants next responded to items to assess motives (see Hyers, 2007; Sechrist, 2010) for why they might want to meet (to better understand his/her judgments; because I am pleased with his/her judgments; so that I may express agreement with his/her judgments; so that I could stand up for the applicants; to express anger with his/her judgments; so that I could thank the discussant for his/her opinions; so that I may educate him/her about why I think his/her evaluations are incorrect) or not meet (because it is not worth the time and energy; because I am pleased with him/her; because his/her opinion does not matter to me; because I believe his/her evaluations to be correct; because I am angry with him/her; so that I may avoid feeling embarrassed; to avoid a conflict; so that I may appear favorable and friendly) with the perpetrator if given the opportunity to do so. Participants responded to all items using a seven-point Likert-type scale (strongly disagree to strongly agree). After completing these items, participants believed this part of the study was almost over. The experimenter then casually checked the time and indicated that there actually was sufficient time left to meet with either or both of the discussants to provide feedback and asked participants whether or not they would like to do so. Verbal responses were recorded as evidence of confrontation intention. Participants then completed a power manipulation check (i.e., indicate which discussant, if any, had power to allocate the team earnings) and a suspicion check (i.e., express what you believe to be the purpose of the study). Finally, they were thoroughly debriefed and their names were entered into a lottery to win a $50 gift card to compensate for the fact that there was no second "team task" by which they could earn money.
+Results and Discussion
+Perpetrator perceptions. After removing participants who expressed suspicion or failed the manipulation check, we reverse-scored their responses to the items assessing perpetrator perceptions such that higher scores indicated greater perceptions of bias or inappropriateness. These data were submitted to a principal components analysis with varimax rotation, which yielded a single factor with Eigenvalue > 2.27 accounting for 56.79% of the variance in perpetrator ratings. Thus, the items were averaged to form a perpetrator perceptions index ( = .74, M = 5.69, SD = 1.12). There were no differences in perpetrator perceptions as a
+
+Perpetrator Power and Prejudice Confrontation
+
+621
+
+function of perpetrator power condition (t < 1, p > .86). However, as expected,
+participants' responses were significantly above the scale midpoint (t(76) = 13.16, p < .001, d = 1.50) suggesting participants clearly attended to and interpreted the remark as discriminatory and inappropriate.
+
+Confrontation intentions. Given that participants took note of the sexist
+remark, our next analysis concerned whether they would confront it. More specif-
+ically, when given an opportunity to meet with the perpetrator to share their feed-
+back about his/her review of the applicants, would participants take advantage?
+Interestingly, the extent to which participants saw the perpetrator as biased and
+inappropriate was unrelated to their confrontation intentions, r(75) = -.08, p > .50. However, consistent with power-as-approach theory (Keltner et al., 2003) and
+with our predictions, participants were significantly less likely to indicate that they
+wanted to meet and share their feedback with the perpetrator in the higher-power
+(42.5% wanted to meet the perpetrator) versus equal-power (67.57% wanted to meet the perpetrator) condition,  2(1) = 4.87, p = .027,  = .25. (Note: This pattern held but was marginally significant [p = .062] due to decreased power even when men (i.e., non-targets) were excluded from the analysis.)
+
+Confrontation motives. Because our measure of confrontation intentions made it impossible to know why participants wanted to meet or not meet with the perpetrator, we next examined their confrontation motives. Although the items can generally be categorized as approach versus avoid, they assessed such a wide variety of motives it was unsurprising that they did not form reliable or unitary constructs when submitted to reliability and principal components analyses. Thus, to control for inflated Type I error, we submitted approach and avoid motives separately to two multivariate analyses of variance (MANOVAs) to determine any effects of perpetrator power. Given our small N, both the approach MANOVA (F(7, 69) = 1.87, p = .088) and avoid MANOVA (F(8, 68) = 2.05, p = .053) were marginally significant. Probing further, two approach motives were statistically significant. Specifically, if given a chance to meet with the perpetrator, participants were more motivated to better understand the judgments of the equal-power (M = 6.03, SD = 1.01) versus higher-power (M = 5.33, SD = 1.62) perpetrator (F(1, 75) = 5.08, p = .027, d = .52) and to express anger with the judgments of the higher-power (M = 4.98, SD = 1.59) versus equal-power (M = 4.11, SD = 1.81) perpetrator (F(1, 75) = 5.00, p = .028, d = .52). Further analysis of the avoid motives yielded one statistically significant effect of perpetrator power: participants were more motivated to turn down an opportunity to meet with a higher-power (M = 2.40, SD = 1.34) than an equal-power (M = 1.78, SD = 0.71) perpetrator because they were angry at him/her, F(1, 75) = 6.23, p = .015, d = .58. Because the MANOVAs were marginally significant, these effects should be interpreted with caution. However, they do provide some insights as to why
+
+622 Ashburn-Nardo et al.
+participants intended to meet (or not meet) with the perpetrator when they were actually provided the opportunity. Consistent with previous research, participants reacted more negatively when the offensive remark was made by someone higher in power (Barreto, Ellemers, & Fiske, 2010), yet their powerlessness inhibited their taking action (Keltner et al., 2003). These results are interesting in that anger often motivates action (Carver & Harmon-Jones, 2009). Our participants, however, felt conflicted by their anger; their motive to meet to express anger moderately correlated with the motive to not meet because of anger, r(75) = .27, p = .016. Additionally, participants seemed perplexed by the equal-power perpetrator, desiring to better understand his/her judgments. Perhaps in that egalitarian situation it was difficult to understand why such a disparaging comment was made.
+Summary and Limitations
+Consistent with power-as-approach theory (Keltner et al., 2003), Experiment 1 identified perpetrator power as a confrontation inhibitor. However, because of the degree of deception necessary in a lab experiment of confrontation, it was difficult to examine potential mechanisms without increasing suspicion. Participants' self-reported confrontation motives provided some clues, but their marginal significance and the fact that they were assessed at a point in the study when participants believed there was no chance of meeting the perpetrator limit our ability to draw firm conclusions. Thus, to understand important moderators and mediators of the relationship between perpetrator power and confrontation intentions, we conducted a second experiment: an online scenario study with a larger sample.
+Experiment 2
+In Experiment 2, participants (who varied in self-reported prejudicial attitudes) read a scenario that involved witnessing blatant sexism versus racism, perpetrated by a supervisor (higher-power), coworker (equal-power), or subordinate (lower-power), and responded to questions to assess confrontation intentions and potential mediators of the perpetrator power--confrontation intentions effect. We added the lower-power perpetrator condition because it is possible that people would be more likely to confront a subordinate than a coworker. Besides conceptually replicating the main effect of perpetrator power on confrontation intentions observed in Experiment 1, our primary goal in Experiment 2 was to examine potential mechanisms. The CPR Model (Ashburn-Nardo et al., 2008) suggests a number of obstacles to confrontation that, according to power-as-approach theory (Keltner et al., 2003), should weigh more heavily on would-be confronters when the perpetrator holds power over them. For example, based on Experiment 1's
+
+Perpetrator Power and Prejudice Confrontation
+
+623
+
+findings, perpetrator power might not influence whether a remark is interpreted as discriminatory, but it might increase its perceived urgency given that individuals are taken aback by biases perpetrated by those in power (Barreto et al., 2010). Additionally, because people see those who have power as more responsible for responding to a difficult situation (Milgram, 1963), their reticence to confront higher-power perpetrators may be driven by lack of perceived responsibility for intervening. We therefore included measures of CPR Model obstacles as potential mediators in Experiment 2. Finally, by manipulating whether the incident involved racism versus sexism, and by measuring participants' racist/sexist attitudes, we were able to determine whether findings obtained in Experiment 1 would generalize across contexts and across individuals or instead would be qualified by such variables. On one hand, increased sensitivity to threat might trump any personal beliefs about sexism or racism; but on the other, perpetrator power might matter less for low-prejudice individuals who are more committed to egalitarian ideals. Similarly, because people see racism as a more egregious offense than they see sexism (e.g., Czopp & Monteith, 2003), they may be more inclined to confront it regardless of the perpetrator's status.
+
+Method
+Participants. Participants were 340 introductory psychology students at a large Midwestern university. They were compensated with extra credit in their courses. Consistent with population demographics, the sample was predominantly female (77%) and White (77.4%; 8.8% were Black, 5% were Asian, 3.8% were Hispanic, 3.8% indicated "other or more than one race," 0.6% were Native American, 0.6% did not respond), and 93% of the sample were ages 30 and younger (M = 21.77 years, SD = 5.69 years).
+
+Procedure. Participants completed the study online. They read three scenarios about witnessing various workplace behaviors and responded to questions about their reactions to each. Participants were encouraged to try and place themselves mentally in each of the situations provided and consider how they would respond. The first and last scenarios (routinely taking extended lunch breaks, surfing the Internet on company time) were filler scenarios that were included to deemphasize that our main interest was prejudice-related.
+
+Manipulation of discrimination type and perpetrator power. The second scenario included the experimental manipulations. Participants were randomly assigned to one of six conditions; specifically, they were asked to imagine observing a racist versus sexist incident, perpetrated by a subordinate, coworker, or supervisor:
+
+624 Ashburn-Nardo et al.
+Imagine that you work for a software company. You are attending a lunch meeting regarding budget goals for the upcoming year. After the meeting concludes, your supervisor (vs. coworker vs. subordinate), who is male (vs. White) turns to the only female (vs. African American) in the meeting and says, "Hey, how about taking care of this lunch mess? Aren't women (vs. Blacks) supposed to be good at this sort of thing? You know, being maids (vs. servants) and stuff?"
+The scenario emphasized one of the only common stereotypes shared by women and African Americans: their occupancy in lower status roles in society (i.e., "the help"). In addition, we wanted to ensure that the incident was clearly characterized as discriminatory, yet leave ambiguous whether the remark was intended as harmful (vs. humorous), thereby reflecting the often ambiguous intent of prejudice today (e.g., Glick & Fiske, 1996).
+Measures. After reading the critical scenario, participants responded to items designed to capture important aspects of the CPR Model (Ashburn-Nardo et al., 2008), including the degree to which participants considered the remark prejudicial ([the behavior] was motivated by hostility toward people from a different group); deemed the incident an emergency ([the behavior] requires an immediate response; [the behavior] hurt other people; something should be done right away to stop the behavior); assumed personal responsibility for responding (I would personally feel responsible for doing something about [the behavior]; It would not be my place to say or do something; I would expect someone else to take responsibility for doing something); could decide how to respond (I am unsure how I would respond to this situation; I would know what to do in this situation; I could think of something appropriate to say); perceived costs versus benefits of confronting (I would be worried that I might lose my job if I spoke up; I would be worried that my [supervisor/coworker, subordinate] might be angry if I said something; Saying something would be pointless); would directly confront the perpetrator (I would talk to my [subordinate/co-worker/supervisor] about the behavior; I would do nothing in this situation), or would tell an authority about the incident (I would tell an authority about my [supervisor's/coworker's/subordinate's] behavior). Participants responded to each item using a seven-point Likert-type scale (strongly disagree to strongly agree). Participants then completed either the Attitudes toward Blacks scale (ATB; Brigham, 1993) or the Hostile Sexism subscale of the Ambivalent Sexism Inventory (ASI; Glick & Fiske, 1996), depending on their assigned experimental condition. Participants responded to the ATB items using a seven-point Likert-type scale (strongly disagree to strongly agree) and to the ASI items using a six-point Likert-type scale (strongly disagree to strongly agree). Participants finally completed demographic items including age, gender, and race. The last screen of the survey was an explanation regarding the study's purpose.
+
+Perpetrator Power and Prejudice Confrontation
+
+625
+
+Results and Discussion
+
+Overview of analyses. Participants' responses to the CPR Model items and prejudice measures were reverse-scored as appropriate and relevant items that formed each subscale were averaged. Both the ATB ( = .88, M = 2.42, SD = .86) and ASI-Hostile ( = .85, M = 3.29, SD = .92) scales were acceptably reliable. The remaining measures were also generally internally consistent, as reported in Table 1 . Importantly, although participants completed relevant prejudice measures after the perpetrator power manipulation, their scores on the ATB and ASI-Hostile scales did not vary as a function of the manipulation (Fs < 1, ps > .45). Thus, participant prejudice was treated as a predictor variable.
+The primary analyses involved a continuous variable (participant prejudice), and two categorical independent variables, discrimination type (racism, sexism) and perpetrator power (supervisor, coworker, subordinate). Participant prejudice scores were standardized within their respective distributions and averaged to form a prejudice index, and perpetrator power was dummy-coded with two vectors such that the equal-power coworker condition was the referent group. Thus, when the two dummy-coded vectors are considered simultaneously in the regression equation, one vector represents the contrast of the supervisor versus the coworker conditions (independent of the second vector), and the other vector reflects the contrast of the subordinate versus the coworker conditions (independent of the first vector; see Aiken & West, 1991). Interactions and subsequent analytic comparisons were tested in accordance with procedures outlined by Aiken and West (1991). Main effects were entered in Step 1, two-way interactions were entered in Step 2; and three-way interactions were entered in Step 3. Individual effects were interpreted when the step in which they were entered produced a significant incremental change in accounted variance (i.e., R2 change). This analytic strategy was repeated for each dependent variable: perceived prejudice, urgency, responsibility, ability to decide what to do, cost/benefit analysis, direct confrontation, and indirect confrontation (tell authority).
+
+Main effects of participant prejudice, discrimination type, and perpetrator power. As shown in Step 1 of Table 1, participant prejudice had a consistently negative significant relationship with each dependent variable, with the exception of whether the remark was interpreted as prejudicial. That is, the higher participants were in prejudice, the less they perceived the incident as an emergency, the lower their perceived responsibility for responding, the poorer their ability to decide what to do, the lower their perceived costs versus benefits of confronting, and the less likely they were to report that they would confront either directly or indirectly (i.e., by reporting the incident to an authority). Such findings are consistent with previous research suggesting that, in general, the higher people are in prejudice, the
+
+626 Ashburn-Nardo et al.
+
+Table 1. Experiment 2: Hierarchical Regressions for all Dependent Variables
+
+Step 1 Participant prejudice Discrimination type Perpetrator power--supervisor vs. co-worker Perpetrator power--subordinate vs. co-worker Step 1 R2
+Step 2 Participant prejudice Discrimination type Perpetrator power--supervisor vs. coworker Perpetrator power--subordinate vs. coworker Participant Prej. x discrimination type Participant Prej. x supervisor vs. coworker Participant Prej. x subordinate vs. coworker Discrimination type x supervisor vs. coworker Discrimination type x subordinate vs. coworker Step 2 R2
+
+Prejudicial Emergency Responsible Decide Costs/Benefits Confront Tell Authority
+
+-.08 -.34***
+.10 .09 .14***
+
+-.13* -.35***
+.01 .02 .14***
+
+-.15 -.51***
+.03 -.08
+.05 .07 .01 .11 .28** .03
+
+-.15 -.28**
+.07 .06 .09 .05 -.11 -.09 -.06 .02
+
+-.23*** -.03 -.18**
+.03 .10***
+-.35** -.03 -.23**
+.10 .20** .00 -.04 .08 -.10 .03*
+
+-.26*** -.02 -.15*
+.05 .10***
+-.50*** .01
+-.15 .10 .22** .11 .04 .02
+-.08 .03*
+
+-.16** .07 .43*** .05 .19***
+.14 .03 .44*** -.03 -.14 .08 .11 -.03 .12 .02
+
+-.24*** -.09 -.17**
+.00 .09***
+-.40*** .02
+-.12 .14 .22** .00 .00
+-.05 -.19*
+.04*
+
+-.12* -.26***
+.11 .05 .09***
+-.06 -.38*** -.02
+.02 .05 -.01 -.13 .21* .04 .02
+
+(Continued)
+
+Step 3 Participant prejudice Discrimination type Perpetrator power--supervisor vs. coworker Perpetrator power--subordinate vs. coworker Participant Prej. x discrimination type Participant Prej. x supervisor vs. coworker Participant Prej. x subordinate vs. coworker Discrimination type x supervisor vs. coworker Discrimination type x subordinate vs. coworker Participant Prej. x discrim. type x supervisor vs. coworker Participant Prej. x discrim. type x supervisor vs. coworker Step 3 R2 M SD () or r (if appropriate)
+Note. Standardized coefficients are reported. p < .10; *p < .05; **p < .01; ***p < .001.
+
+Table 1. Continued Prejudicial Emergency Responsible
+
+Decide Costs/Benefits Confront Tell Authority
+
+-.22 -.52***
+.03 -.08
+.16 .14 .05 .11 .28** -.11
+
+-.05 -.28**
+.07 .06 -.06 -.03 .21 -.10 -.06 .11
+
+-.11
+
+.11
+
+.00 .01 5.18 6.41 1.77 .82 - (.90)
+
+-.23 -.02 -.23**
+.09 .01 -0.13 -.13 .08 -.10 .19*
+.19*
+.01 5.09 1.24 (.66)
+
+-.58*** .01
+-.15 .10 .35** .15 .15 .02
+-.08 -.07
+-.07
+.01 5.34 1.23 (.81)
+
+.18 .04 .43*** -.03 -.19 .09 .04 -.03 .12 -.02
+-.02
+.00 2.99 1.45 (.73)
+
+-.50*** .02
+-.12 .14 .38** .07 .12
+-.04 -.19* -.09
+-.09
+.01 5.85 1.10
+.65
+
+-.03 -.37*** -.02
+.02 .01 -.01 -.18 .20* .04 .01
+.01
+.00 5.44 1.62 -
+
+627
+
+Perpetrator Power and Prejudice Confrontation
+
+628 Ashburn-Nardo et al.
+less seriously they take various forms of discrimination (e.g., Czopp & Monteith, 2003).
+Discrimination type mattered for three dependent variables, namely, perceptions of the incident as prejudicial and an emergency and reporting the incident to an authority (see Table 1, Step 1). More specifically, participants were significantly less likely to deem the incident discriminatory and an emergency and less likely to indicate that they would report it to an authority when the remark was sexist rather than racist. Again, these findings coincide with previous findings demonstrating that sexism is perceived as a less serious offense than racism (e.g., Czopp & Monteith, 2003).
+As in Experiment 1, participants were sensitive to perpetrator power, even in this imagined scenario. As shown in Step 1 of Table 1, there were no significant differences between the subordinate versus coworker conditions for any of the dependent variables. However, when participants imagined a supervisor (vs. coworker) perpetrator, they reported that they would feel less personally responsible for intervening, be less able to decide what to do, and be less likely to confront the perpetrator directly. In addition, participants perceived the costs versus benefits of confronting a supervisor as greater than confronting a coworker. Participants were marginally more likely to see the incident as discriminatory and to report that they would tell an authority (i.e., confront indirectly) when the incident was perpetrated by a supervisor than a coworker. These findings not only conceptually replicate those of Experiment 1, but additionally are consistent with hypotheses outlined by power-as-approach theory (Keltner et al., 2003). That is, overall, obstacles to confronting were more salient when participants were relatively powerless.
+Interactions. As shown in Step 2 of Table 1, there were few significant two-way interactions, and they contributed very little incremental variance above and beyond the aforementioned main effects. For perceived responsibility, ability to decide what to do, and direct confrontation, there were significant two-way interactions between participant prejudice and discrimination type. In each case, the pattern was identical: participant prejudice was a significant predictor in the racism, but not sexism, condition. Specifically, the higher participants were in racial prejudice, the lower their perceived responsibility, the lesser their ability to decide what to do, and the less likely they were to indicate that they would confront directly. The interaction between participant prejudice and discrimination type was marginally significant for perceived costs versus benefits. Specifically, the higher participants were in racial prejudice, the more they saw the costs as outweighing the benefits; this relationship was not significant in the sexism condition. The only other significant two-way interaction to emerge was between discrimination type and perpetrator power--specifically the contrast between subordinate and coworker--predicting direct confrontation. Follow-up tests of simple main effects
+
+Perpetrator Power and Prejudice Confrontation
+
+629
+
+revealed that this two-way interaction was driven by a significant difference in the racism condition. Specifically, participants were significantly more likely to report that they would confront a racist subordinate (M = 6.26, SD = 0.89) than a racist coworker (M = 5.78, SD = 1.17), t(168) = 2.74, p = .007, d = .45. This contrast was not significant in the sexism condition, p = .97. As shown in Step 3 of Table 1, there were no significant three-way interactions. (Note: Except for some n.s. findings with the smaller N, results did not change appreciably with the omission of nontarget participants [i.e., men in the sexism condition and Whites in the racism condition]). These findings underscore the robust nature of the perpetrator power effect, which manifested itself across types of discrimination (sexism and racism) and across individuals who varied in self-reported prejudice.
+
+Mediation analyses. Given that perpetrator power directly affected confrontation intentions, perceived responsibility, ability to decide, and perceived costs versus benefits; and given that these confrontation obstacles all were significantly correlated with confrontation intentions (rs = .61, .72, and -.52, respectively; ps < .001), we next conducted a bootstrapping multiple mediation analysis (Hayes & Preacher, 2013) specifically designed to assess indirect effects for multicategorical (i.e., with more than 2 levels) predictors. The ordinary-least squares procedure estimated the direct and indirect effects of each dummy-coded vector representing perpetrator power on intentions to confront the perpetrator directly. The analysis estimated 95% confidence intervals based on a bootstrap of 5,000 samples to determine whether the indirect effects likely differ from zero in the overall population. Confidence intervals that contain 0 indicate that the indirect effect does not significantly differ from 0 and therefore does not mediate the relationship. As shown in Figure 1, results were driven by statistically significant indirect effects of the supervisor versus coworker contrast on confrontation intentions; there were no significant indirect effects of the subordinate versus coworker contrast. Perceived responsibility (b = -.11, SEboot = .04, 95% CI [-.20, -.03]), ability to decide what to do (b = -.17, SEboot = .08, 95% CI [-.32, -.02]), and perceived costs versus benefits (b = -.17, SEboot = .05, 95% CI [-.28, -.08]) were all implicated as significant mediators. Indeed, when these mediators were included in the model, the previously significant direct effect of perpetrator power was reduced to nonsignificance. Thus, consistent with power-as-approach theory (Keltner et al., 2003), feeling powerless relative to the perpetrator heightened participants' perceptions of various confrontation obstacles, which, in turn, decreased their intent to confront the perpetrator.
+Collectively, perpetrator power, perceived responsibility, ability to decide what to do, and perceived costs versus benefits accounted for approximately 59% of the variance in intentions to confront the perpetrator directly. Thus, despite the limitations associated with any scenario study, we gained some important insights into why people are reticent to confront their supervisors.
+
+630 Ashburn-Nardo et al.
+
+Perceived Responsibility for Responding
+
+Supervisor vs. Co-Worker Perpetrator
+Subordinate vs. Co-Worker Perpetrator
+
+-.47** .12 -.38*
+.16
+1.29*** .13
+
+Ability to Decide How to Respond
+
+.23***
+-.17* (.08) .45***
+.07 (-.03) -.13***
+
+.03 (-.03) -.11* (.08)
+Intent to Confront Directly
+
+Perceived Costs vs. Benefits
+
+-.17* (-.08)
+
+-.02 (-.03)
+Fig. 1. Indirect effects (dashed lines) of perpetrator power on intent to confront directly through perceived responsibility, ability to decide, and costs vs. benefits. Direct effect of perpetrator power on confrontation intentions is shown in parenthesis. *p < .05; **p < .01; ***p < .001.
+
+General Discussion
+The influence of perpetrator power over individuals who witnessed sexism was evident in both a realistic lab situation and in an imagined scenario. Specifically, participants in both experiments had weaker intentions to confront higherpower perpetrators than perpetrators with equal or less power, despite finding their remarks to be discriminatory and inappropriate. These findings also held true when the remark was racist rather than sexist and regardless of individual differences in participant prejudice. Moreover, patterns of results were consistent even when removing individuals who did not share group membership with the target of the prejudicial remark, which is important given increasing evidence for the effectiveness of ally confronters (e.g., Drury & Kaiser, 2014) and given that discriminatory remarks are often made in the absence of people directly targeted by the remarks. Together, the findings highlight the robust impact of perpetrator power on confrontation intentions.
+Findings further suggest that the inhibitory effects of perpetrator power are driven by decreased feelings of personal responsibility for intervening in the incident, diminished ability to decide on a course of action, and increased perceptions of confrontation costs relative to benefits. These variables were identified as potential obstacles to confrontation in the CPR Model (Ashburn-Nardo et al., 2008), but to date have received minimal empirical attention except in retrospective surveys
+
+Perpetrator Power and Prejudice Confrontation
+
+631
+
+(Good et al., 2012). Here, they were clearly implicated as mechanisms responsible for the observed relationship between perpetrator power and confrontation intentions, collectively accounting for a substantial portion of the variance.
+
+Theoretical and Practical Contributions
+Our studies provide the first marriage of the growing prejudice confrontation and social power literatures, and our results are strongly aligned with poweras-approach theory (Keltner et al., 2003). Consistent with previous tests of this theory (Anderson & Berdahl, 2002), when our participants were powerless relative to sexist or racist perpetrators, they were more sensitive to potential threats in the situation--in this case, the obstacles to prejudice confrontation. In addition, because perpetrator power effects were not qualified by participant prejudice, one can say that participants acted not in accordance with their own dispositions but rather in line with situational forces. Similar findings have been observed in previous investigations of social power. For example, compared to those who hold power, powerless individuals are more likely to inhibit the expression of their true opinions (Anderson & Berdahl, 2002). In contrast, having power allows one to act in line with one's personality (e.g., behaving prosocially when one's relationship orientation is communal and selfishly when one is exchange-oriented; Chen, LeeChai, & Bargh, 2001) or personal preferences (e.g., turning off an annoying fan; Galinsky et al., 2003). In the present experiments, increased sensitivity to situational forces and threats served to inhibit confrontation intentions among relatively powerless individuals, again consistent with a power-as-approach perspective.
+Understanding power's role in prejudice confrontation is especially important when one considers the frequency with which sexist and racist incidents occur in hierarchical organizations such as the workplace (e.g., Lim & Cortina, 2005) or academic settings (e.g., Swim, Hyers, Cohen, & Ferguson, 2001). In those contexts, people in higher-power positions may be more likely than those who lack power to stereotype and prejudge others (e.g., Goodwin, Gubin, Fiske, & Yzerbyt, 2000), but, as our research demonstrates, less likely to be confronted. In turn, people who are committed to fighting such injustices may experience feelings of guilt and obsessive thoughts or rumination when they fail to confront (Shelton, Richeson, Salvatore, & Hill, 2006). But perhaps more importantly, their silence may unintentionally convey a norm of tolerance that promotes subsequent discriminatory behavior (Nelson, Dunn, & Paradies, 2011). Thus, we should continue to investigate social and organizational policy that not only proscribes prejudicial treatment but also provides individuals with a means of confronting it without fear of retaliation when it does occur. For example, Experiment 2 findings suggested that people may feel safe (anonymously) reporting their supervisor's offensive behavior to other supervisors.
+
+632 Ashburn-Nardo et al.
+Limitations and Future Directions
+Of course, no study is without limitations. For example, it may be surprising to readers that we examined mediators in a follow-up scenario study rather than in the initial lab experiment, especially given that previous research on confrontation has often revealed discrepancies between what participants say they would do in an imagined context versus what they actually do in person (Swim & Hyers, 1999; Woodzicka & LaFrance, 2001). Examining possible mechanisms proved to be quite challenging in the lab setting, given the intricate cover story necessary to examine confrontation of what was allegedly a spontaneous prejudicial remark by another participant. In such a context, asking questions about confrontation obstacles would have undoubtedly increased suspicion. Indeed, as far as Experiment 1 participants were aware, the experimenter had no idea that anything prejudicial had transpired. In fact, anecdotally, some participants in Experiment 1 tried to report the perpetrator to the experimenter, hence our inclusion of the indirect confrontation measure (i.e., tell an authority) in Experiment 2.
+Our concerns about increasing suspicion in Experiment 1 and social desirability concerns in Experiment 2 also led to our using what might seem to readers as sometimes awkwardly worded items (e.g., the incident was "motivated by hostility toward people of a different group") and instructions (e.g., assessing "communication goals" if given a chance to meet). We believed that using language that directly referenced motives regarding prejudice confrontation might unduly influence participants' responses. Instead, we chose to use egregiously biased remarks that participants might (and indeed did) naturally recognize as discriminatory and inappropriate. Future research should also investigate the confrontation of microaggressions and micro-inequities that comprise a good deal of discrimination today (see Becker & Swim, 2012).
+Future studies should also, when possible, assess actual behavior rather than confrontation intentions. Doing so might allow for a truer assessment of spontaneous reactions than did our confrontation motives measure. For example, participants in Experiment 1 reported not only a desire to meet with the perpetrator to express their anger but also a desire to avoid meeting with the perpetrator because of their anger. Further research is needed to understand more fully the role of emotions in actual confrontation behavior. Although measuring intentions is a limitation of our research, it is promising that our findings were equivalent whether intentions were assessed in an imagined scenario versus a more realistic and engaging laboratory setting. If anything, given that stakes are higher when power dynamics are real than when they are the result of comparatively artificial experimental manipulations, the present research may have underestimated the effect of perpetrator power on confrontation obstacles and intentions.
+Finally, it should be noted that both samples comprised mostly White collegeaged women. This is representative of the population from which we sampled
+
+Perpetrator Power and Prejudice Confrontation
+
+633
+
+participants, but of course does not adequately represent the diversity of the population at large. For example, it is unlikely that our participants had much previous experience with subordinates in the workplace. In addition, we did not have power to assess whether intersectionality would affect confrontation intentions. For example, would Black women, who experience not only gender but also racial bias, react differently than the White women we sampled? Finally, although our findings held even when discounting the small number of men from each sample, we did not have sufficient power for examining gender as a moderator. It will be important for future research to address such questions and limitations.
+
+Conclusions
+The present findings may inform interventions for redressing sexism and other forms of discrimination. As Ashburn-Nardo et al. (2008) noted, successful diversity education for people who witness prejudice in organizations will involve finding ways to increase feelings of personal responsibility and practicing successful, low-risk forms of confronting, especially in contexts where stakes are high and threat of backlash or retaliation is real. We explored such a context in the present studies by manipulating the power that perpetrators held over potential confronters who witnessed their prejudicial remarks. As Lamb et al. (2009) demonstrated, people can learn to confront, thus adding to their prejudice reduction toolkits. Indeed, Leslie ("Les") Moonves confronted the incredibly powerful Dan Rather, publicly decrying Rather's remarks about Katie Couric as "sexist." But Moonves was also CEO of CBS and Rather's former supervisor; consequently, he had less to lose than someone in a position of relative powerlessness.
+Although confrontation is effective, it does come with some costs (Czopp et al., 2006). When those costs far exceed the benefits, perhaps indirect confrontation is the path to take. In the present research, the fact that participants were somewhat more inclined to communicate their supervisor's (vs. their coworker's) discrimination to an authority provides reason for optimism and suggests a need to explore institutional mechanisms and policies for reporting discrimination. Buchanan and Settles (2014) offer some promising organizational strategies to help minimize backlash incurred for sexual harassment "whistleblowers."
+Although the present research focused on factors that inhibit confrontation, it is important to recognize that many individuals exhibited a willingness to confront, despite the legitimate threat associated with confronting someone in power, who has control over valued resources. By investigating who confronts sexism, and when and why they do so, we hope that these and the other studies reported in this special issue provide potential confronters with the courage and skills they need to take action.
+
+634 Ashburn-Nardo et al.
+References
+Aiken, L. S., & West, S. G. (1991). Multiple regression: Testing and interpreting interactions. Newbury Park, CA: Sage Publications.
+Anderson, C., & Berdahl, J. L. (2002). The experience of power: Examining the effects of power on approach and inhibition tendencies. Journal of Personality and Social Psychology, 83, 1362-1377. doi: 10.1037/0022-3514.83.6.1362.
+Ashburn-Nardo, L., Morris, K. A., & Goodwin, S. A. (2008). The Confronting Prejudiced Responses (CPR) Model: Applying CPR in organizations. Academy of Management Learning & Education, 7, 332-342. doi: 10.5465/AMLE.2008.34251671.
+Barreto, M., & Ellemers, N. (2005). The burden of benevolent sexism: How it contributes to the maintenance of gender inequalities. European Journal of Social Psychology, 35, 633-642. doi: 10.1002/ejsp.270.
+Barreto, M., Ellemers, N., & Fiske, S. T. (2010). "What did you say, and who do you think you are?" How power differences affect emotional reactions to prejudice. Journal of Social Issues, 66, 477-492. doi: 10.1111/j.1540-4560.2010.01657.x.
+Becker, J. C., & Swim, J. K. (2012). Reducing endorsement of benevolent and modern sexist beliefs: Differential effects of addressing harm versus pervasiveness of benevolent sexism. Social Psychology, 43, 127-137. doi: 10.1027/1864-9335/a000091.
+Brigham, J. C. (1993). College students' racial attitudes. Journal of Applied Social Psychology, 23, 1933-1967. doi: 10.1111/j.1559-1816.1993.tb01074.x.
+Buchanan, N. T., Settles, I. H., Hall, A. T., & O'Connor, R. C. (2014). A review of organizational strategies for reducing sexual harassment: Insights from the U. S. military. Journal of Social Issues, 70, 687-702.
+Carver, C. S., & Harmon-Jones, E. (2009). Anger is an approach-related affect: Evidence and implications. Psychological Bulletin, 135, 183-204. doi: 10.1037/a0013965.
+Case, K. A., Hensley, R., & Anderson, A. (2014). Reflecting on heterosexual and male privilege: Interventions to raise awareness. Journal of Social Issues, 70, 722-740.
+Chen, S., Lee-Chai, A. Y., & Bargh, J. A. (2001). Relationship orientation as a moderator of the effects of social power. Journal of Personality and Social Psychology, 80, 173-187. doi: 10.1037/0022-3514.80.2.173.
+Czopp, A. M., & Ashburn-Nardo, L. (2012). Interpersonal confrontations of prejudice. In D. W. Russell & C. A. Russell (Eds.), The psychology of prejudice: Interdisciplinary perspectives on contemporary issues. Hauppauge, NY: Nova Science Publishers, Inc.
+Czopp, A. M., & Monteith, M. J. (2003). Confronting prejudice (literally): Reactions to confrontations of racial and gender bias. Personality and Social Psychology Bulletin, 29, 532-544. doi: 10.1177/0146167202250923.
+Czopp, A. M., Monteith, M., J., & Mark, A. Y. (2006). Standing up for a change: Reducing bias through interpersonal confrontation. Journal of Personality and Social Psychology, 90, 784- 803. doi:10.1037/0022-3514.90.5.784.
+de Lemus, S., Navarro, L., Velasquez, M. J., Ryan, E., & Megias, J. L. (2014). From sex to gender: A university intervention to reduce sexism in Argentina, Spain, and El Salvador. Journal of Social Issues, 70, 741-762.
+Drury, B. J., & Kaiser, C. R. (2014). Allies against sexism: The role of men in confronting sexism. Journal of Social Issues, 70, 637-652.
+Galinsky, A. D., Gruenfeld, D. H., & Magee, J. C. (2003). From power to action. Journal of Personality and Social Psychology, 85, 453-466. doi: 10.1037/0022-3514.85.3.453.
+Gervais, S. J., Hillard, A. L., & Vescio, T. K. (2010). Confronting sexism: The role of relationship orientation and gender. Sex Roles, 63, 463-474. doi: 10.1007/s11199-010-9838-7.
+Glick, P., & Fiske, S. T. (1996). The Ambivalent Sexism Inventory: Differentiating hostile and benevolent sexism. Journal of Personality and Social Psychology, 70, 491-512. doi: 10.1037/00223514.70.3.491.
+Good, J. J., Moss-Racusin, C. A., & Sanchez, D. T. (2012). When do we confront? Perceptions of costs and benefits predict confronting discrimination on behalf of the self and others. Psychology of Women Quarterly, 36, 210-226. doi: 10.1177/0361684312440958.
+
+Perpetrator Power and Prejudice Confrontation
+
+635
+
+Goodwin, S. A., Gubin, A., Fiske, S. T., & Yzerbyt, V. Y. (2000). Power can bias impression processes: Stereotyping by default and by design. Group Processes & Intergroup Relations, 3, 227-256. doi: 10.1177/1368430200003003001.
+Hayes, A. F., & Preacher, K. J. (2013). Statistical mediation analysis with a multicategorical independent variable. British Journal of Mathematical and Statistical Psychology, doi: 10.1111/bmsp.12028.
+Hyers, L. L. (2007). Resisting prejudice every day: Exploring women's assertive responses to anti-Black racism, anti-Semitism, heterosexism, and sexism. Sex Roles, 56, 1-12. doi: 10.1007/s11199006-9142-8.
+Kaiser, C. R., & Miller, C. T. (2004). A stress and coping perspective on confronting sexism. Psychology of Women Quarterly, 28, 168-178. doi: 10.1111/j.1471-6402.2004.00133.x.
+Keltner, D., Gruenfeld, D. H., & Anderson, C. (2003). Power, approach, and inhibition. Psychological Review, 110, 265-284. doi: 10.1037/0033-295X.110.2.265.
+Lamb, L. M., Bigler, R. S., Liben, L. S., Green, V. A. (2009). Teaching children to confront peers' sexist remarks: Implications for theories of gender development and educational practice. Sex Roles, 61, 361-382. doi: 10.1007/s11199-009-9634-4.
+Lim, S., & Cortina, L. M. (2005). Interpersonal mistreatment in the workplace: The interface and impact of general incivility and sexual harassment. Journal of Applied Psychology, 90, 483-496. doi: 10.1037/0021-9010.90.3.483.
+Mallett, R. K., & Wagner, D. E. (2011). The unexpectedly positive consequences of confronting sexism. Journal of Experimental Social Psychology, 47, 215-220. doi: 10.1016/j.jesp.2010.10.001.
+Milgram, S. (1963). The behavioral study of obedience. Journal of Abnormal and Social Psychology, 67, 371-378. doi: 10.1037/h0040525.
+Nelson, J. K., Dunn, K. M., & Paradies, Y. (2011). Bystander anti-racism: A review of the literature. Analyses of Social Issues and Public Policy, 11, 263-284. doi: 10.1111/j.15302415.2011.01274.x.
+Rattan, A., & Dweck, C. S. (2010). Who confronts prejudice? The role of implicit theories in the motivation to confront prejudice. Psychological Science, 21, 952-959. doi: 10.1177/0956797610374740.
+Sechrist, G. B. (2010). Making attributions to and plans to confront gender discrimination: The role of optimism. Journal of Applied Social Psychology, 40, 1678-1707. doi: 10.1111/j.15591816.2010.00635.x.
+Shelton, J. N., & Stewart, R. E. (2004). Confronting perpetrators of prejudice: The inhibitory effects of social costs. Psychology of Women Quarterly, 28, 215-223. doi:10.1111/j.14716402.2004.00138.x.
+Shelton, J. N., Richeson, J. A., Salvatore, J., & Hill, D. M. (2006). Silence is not golden: The interpersonal consequences of not confronting prejudice. In S. Levin & C. van Laar (Eds.), Stigma and intergroup inequality: Social psychological perspectives (pp. 65-81). Mahwah, NJ: Erlbaum.
+Sutel, S. (2007). CBS chief: Rather comments were "sexist." New York, NY: The Associated Press. Swim, J. K., & Hyers, L. L. (1999). Excuse me--What did you just say?! Women's public and
+private responses to sexist remarks. Journal of Experimental Social Psychology, 35, 68-88. doi: 10.1006/jesp.1998.1370. Swim, J. K., Hyers, L. L., Cohen, L. L., & Ferguson, M. J. (2001). Everyday sexism: Evidence for its incidence, nature, and psychological impact from three daily diary studies. Journal of Social Issues, 57, 31-53. doi: 10.1111/0022-4537.00200. Woodzicka, J. A., & LaFrance, M. (2001). Real versus imagined gender harassment. Journal of Social Issues, 57, 15-30. doi: 10.1111/0022-4537.00199.
+
+LESLIE ASHBURN-NARDO, PhD, is an associate professor of psychology at Indiana University - Purdue University Indianapolis, Indianapolis, Indiana.
+
+636 Ashburn-Nardo et al.
+JOHN C. BLANCHAR earned a BS in psychology from IUPUI and is currently pursuing a PhD in experimental social psychology at the University of Arkansas, Fayetteville, Arkansas. JESSICA PETERSSON earned an MS in industrial and organizational psychology from IUPUI and is a Senior Human Resource Business Partner at Gannett Company, Inc., Indianapolis, Indiana. KATHRYN A. MORRIS, PhD, is provost and professor of psychology at Butler University in Indianapolis, Indiana. STEPHANIE A. GOODWIN, PhD, is a Program Director for the LEADER Consortium and a research assistant professor of psychology at Wright State University in Dayton, Ohio.
+The author has requested enhancement of the downloaded file. All in-text references underlined in blue are l
+
+

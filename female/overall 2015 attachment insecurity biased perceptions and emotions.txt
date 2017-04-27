@@ -1,0 +1,687 @@
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Journal of Personality and Social Psychology 2015, Vol. 108, No. 5, 730 -749
+
+(c) 2015 American Psychological Association 0022-3514/15/$12.00 http://dx.doi.org/10.1037/a0038987
+
+Attachment Insecurity, Biased Perceptions of Romantic Partners' Negative Emotions, and Hostile Relationship Behavior
+
+Nickola C. Overall
+University of Auckland
+Jeffry A. Simpson
+University of Minnesota
+
+Garth J. O. Fletcher
+Victoria University of Wellington
+Jennifer Fillo
+University of Houston
+
+In the current research, we tested the extent to which attachment insecurity produces inaccurate and biased perceptions of intimate partners' emotions and whether more negative perceptions of partners' emotions elicit the damaging behavior often associated with attachment insecurity. Perceptions of partners' emotions as well as partners' actual emotions were assessed multiple times in couples' conflict discussions (Study 1) and daily during a 3-week period in 2 independent samples (Study 2). Using partners' reports of their own emotional experiences as the accuracy benchmark, we simultaneously tested whether attachment insecurity was associated with the degree to which individuals (a) accurately detected shifts in their partners' negative emotions (tracking accuracy), and (b) perceived their partners were feeling more negative relationship-related emotions than they actually experienced (directional bias). Highly avoidant perceivers were equally accurate at tracking their partners' changing emotions compared to less avoidant individuals (tracking accuracy), but they overestimated the intensity of their partners' negative emotions to a greater extent than less avoidant individuals (directional bias). In addition, more negative perceptions of partners' emotions triggered more hostile and defensive behavior in highly avoidant perceivers both during conflict discussions (Study 1) and in daily life (Study 2). In contrast, attachment anxiety was not associated with tracking accuracy, directional bias, or hostile reactions to perceptions of their partners' negative emotions. These findings demonstrate the importance of assessing biased perceptions in actual relationship interactions and reveal that biased perceptions play an important role in activating the defenses of avoidantly attached people.
+Keywords: attachment insecurity, bias, accuracy, emotions, hostile behavior
+
+Negative emotions, such as anger, hurt, or sadness, serve important functions by communicating to close others that a problem needs attention, undesirable behavior must change, or that recon-
+Editor's Note. John Lydon served as the action editor for this article-- KK.
+Nickola C. Overall, School of Psychology, University of Auckland; Garth J. O. Fletcher, School of Psychology, Victoria University of Wellington; Jeffry A. Simpson, Department of Psychology, University of Minnesota; Jennifer Fillo, Department of Psychology, University of Houston.
+This research was supported by a Royal Society of New Zealand Marsden Fund Grant (UOA0811) and University of Auckland Science FRDF Grant (3626244) awarded to Nickola C. Overall, and a Victoria University Wellington Grant (200759) awarded to Garth J. O. Fletcher. We thank Matthew Hammond, Melissa Grouden, Emily Cross, Rachel Low, Valerie Chang, Rosabel Tan, Kelsey Deane, Phoebe Molloy, Lucy Travaglia, Jan Trayes, David Pirie, and Briar Douglas for their help with data collection and observational coding.
+Correspondence concerning this article should be addressed to Nickola C. Overall, School of Psychology, University of Auckland, Private Bag 92019, Auckland, New Zealand. E-mail: n.overall@auckland.ac.nz
+
+ciliation or support needs to be initiated (Clark, Fitness & Brissette, 2001; Fischer & Manstead, 2008; Hareli & Hess, 2012; Keltner & Haidt, 1999; van Kleef, 2010). For these reasons, accurately perceiving others' negative emotions is critical to resolving interpersonal dilemmas and sustaining relationships. Failing to detect an intimate partner's negative emotions, or underestimating the intensity of their hurt and anger, will mean necessary remedial action is not enacted, which may exacerbate partner dissatisfaction and risk further damage to the relationship (Fletcher & Kerr, 2010; Overall, Fletcher, & Kenny, 2012). However, being too perceptually sensitive or overestimating a partner's negative emotions may lead to reactions that are disproportionate to the situation, producing escalated hostility and unnecessary dives in relationship satisfaction and security (Murray & Holmes, 2009; Overall & Hammond, 2013).
+Inaccurate perceptions of partners' emotions can occur because they are guided by perceivers' appraisals of partners' motives and goals (de Melo, Carnevale, Read, & Gratch, 2013; van Kleef, 2010)--appraisals that are shaped by the broader beliefs, expectations, and regulation strategies associated with attachment insecurity (Bowlby, 1973). The current studies tested whether different forms of attachment insecurity produce (a) systematic biases in perceptions of romantic partners' emotions during video-recorded conflict discussions (Study 1) and in couples' daily lives (Study 2);
+
+730
+
+ATTACHMENT INSECURITY AND PERCEPTIONS OF EMOTIONS
+
+731
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+and (b) whether more negative perceptions of partners' emotions trigger more hostile and defensive behavior by insecure individuals (Studies 1 and 2).
+Attachment Avoidance and Biased Perceptions of Partners' Negative Emotions
+Individuals who are high in avoidance believe that partners cannot be relied on to be loving caregivers so they defensively avoid dependence and suppress their attachment needs (Bowlby, 1969, 1973, 1980). To maintain psychological distance and prevent emotional vulnerability, highly avoidant individuals limit emotional closeness (Pietromonaco & Feldman Barrett, 1997; Tan, Overall, & Taylor, 2012; Tidwell, Reis, & Shaver, 1996) and manage their negative emotions by suppressing their feelings, disengaging from their partner, and rejecting emotional support (Diamond, Hicks, & Otter-Henderson, 2006; Fraley & Shaver, 1998; Mikulincer, 1998; Simpson et al., 2007). These defensive reactions help highly avoidant people bypass the danger posed by being emotionally close and dependent on others.
+A partner's emotions should be equally threatening to highly avoidant individuals because they can signal that the partner needs or wants more care and attention. Highly avoidant people react with anger and coldness when their partners are distressed and need support (Rholes, Simpson, & Orina, 1999; Simpson, Rholes, Orina, & Grich, 2002), resent the imposition of their partners' needs, and often perceive their partners' support-seeking and negative emotions as controlling or manipulative (Collins & Feeney, 2000; Pietromonaco & Feldman Barrett, 1997; Simpson et al., 2002). During conflict, when partners' negative emotions are frequently directed at the self, highly avoidant individuals also react with greater anger and defensiveness (Gouin et al., 2009; Overall, Simpson & Struthers, 2013; Simpson, Rholes, & Phillips, 1996).
+The emotion regulation strategies and negative interpersonal expectations associated with avoidance are thought to produce two distinct types of biases in processing emotionally laden information (see Dykas & Cassidy, 2011, for a review). First, Bowlby (1980) claimed that the painful histories associated with avoidance produce defensive exclusion of attachment-relevant information that can trigger distress. When perceiving partners' emotions, defensive exclusion should inhibit attention to and detection of negative emotions. Second, Bowlby (1973) and contemporary theorists (e.g., Baldwin, 1992; Bretherton & Munholland, 1999; Collins & Allard, 2001) propose that the negative beliefs and expectations associated with avoidance should also produce schema-driven information processing (see Dykas & Cassidy, 2011), which involves viewing relationship partners in a biased fashion. Schema-driven biases imply that avoidant individuals should judge their partners' emotions as being more negative than they really are.
+At first glance, these two types of biases seem inconsistent. Highly avoidant individuals should fail to detect their partners' negative emotions, yet they may also perceive their partners' emotions to be more negative than the emotions actually experienced by their partners. However, a recent distinction drawn between two forms of perceptual accuracy--tracking accuracy and directional bias--suggests that these two biases can occur simultaneously (Fletcher & Kerr, 2010; Gagne & Lydon, 2004; West &
+
+Kenny, 2011). Tracking accuracy is the degree to which perceivers accurately track changes in their partners' emotions, such as detecting when partners feel more versus less negatively. In contrast, directional bias reflects the degree to which judgments overestimate or underestimate partners' negative emotions. We suggest that the two types of biased processing hypothesized to arise from attachment avoidance correspond to (a) low tracking accuracy, including less sensitive detection of partners' changing emotions (defensive exclusion), but also (b) high directional bias, including perceiving that partners are experiencing more negative emotions than they are actually feeling (schema-driven processing).
+Prior research examining links between avoidance and the processing of emotionally relevant information can be classified into investigations of tracking accuracy (defensive exclusion) or directional bias (schema-driven processing). Studies that have assessed tracking accuracy (defensive exclusion) have primarily used experimental tasks designed to test the degree to which people detect changes in emotional facial expressions (e.g., Fraley Niedenthal, Marks, Brumbaugh, & Vicary, 2006; Niedenthal, Brauer, Robin, & Innes-Ker, 2002) or direct attention away from negative facial expressions (e.g., Cooper, Rowe, Penton-Voak, & Ludwig, 2009; Dewitte, 2011; Dewitte & De Houwer, 2008) or other relevant stimuli (e.g., Edelstein & Gillath, 2008; Fraley, Garner, & Shaver, 2000). Some of this research shows that highly avoidant individuals inhibit attention to emotional expressions (Dewitte, 2011) and emotionally relevant information (Edelstein & Gillath, 2008; Fraley et al., 2000). However, null and contradictory effects have also emerged (e.g., Cooper et al., 2009; Dewitte & De Houwer, 2008). Moreover, highly avoidant perceivers tend to be as accurate as less avoidant perceivers in detecting the onset and offset of negative emotions when shown changing facial expressions (Fraley et al., 2006)--a task that is more similar to perceiving emotions in real-life interactions.
+The stimuli used in these studies, however, involve reacting to material that is devoid of relational context, such as perceiving expressions of a stranger. Consequently, these studies are uninformative about how highly avoidant individuals perceive the emotions of their close partners during actual dyadic interactions when their partners' negative emotions are more difficult to ignore or dismiss. The research that has focused on perceptions of intimate partners' behavior and evaluations has primarily investigated schema-driven processing (directional bias). Highly avoidant individuals typically underestimate their partners' faith in them (Tucker & Anders, 1999), generate more hostile attributions of their partners' hypothetical behaviors (Collins, 1996; Mikulincer, 1998), and evaluate their partners' support more negatively (Collins & Feeney, 2004; Collins, Ford, Guichard, & Allard, 2006). Though not explicitly examining perceptions of emotions, these findings suggest that highly avoidant individuals' judgments of their partners should be negatively biased, and they ought to perceive their partners' relationship-related emotions as more negative than the emotions their partners report actually feeling.
+Simpson et al. (2011) have provided the most compelling evidence to date that avoidance generates inaccurate perceptions during relationship interactions. In two studies, they asked individuals to review video-recorded discussions they just had with their partners and to describe their partners' thoughts and feelings at several points during the discussion. Independent coders then rated the congruency between individuals' written inferences of
+
+732 OVERALL, FLETCHER, SIMPSON, AND FILLO
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+their partners' thoughts and feelings at each time-point with what their partners reported actually thinking and feeling at each timepoint. Highly avoidant individuals' inferences corresponded poorly with the emotions and thoughts listed by their partners, revealing very low accuracy (see also Noller & Feeney, 1994). However, averaging ratings of congruency across time-points does not allow one to identify the source of inaccuracy; inaccurate inferences could be due to (a) defensive exclusion (poor detection or tracking of partners' thoughts and emotions); (b) schema-driven biases (overestimating the negativity of partners' responses); or (c) both lower tracking accuracy and greater directional bias.
+In the current research, we teased apart defensive exclusion and schema-driven processing by adopting new methodological and data analytic techniques for assessing tracking accuracy and directional bias (see Overall et al., 2012; Overall & Hammond, 2013; West & Kenny, 2011). Specifically, perceptions of the romantic partners' emotions as well as partners' actual reported emotions were gathered multiple times during couples' conflict discussions (Study 1) and each day across a 3-week period (Study 2). Using partners' reports of their own emotional experiences as the benchmark of accuracy, we simultaneously tested whether greater attachment avoidance was associated with (a) lower tracking accuracy, including less accurately detecting shifts in partners' negative emotions; and (b) greater directional bias, including perceiving partners to be feeling more negative emotions than they actually reported.1
+Attachment Avoidance, Biased Perceptions of Negative Emotions, and Defensive Reactions
+Identifying the presence and specific types of perceptual biases associated with attachment avoidance is important because of the critical role that perceptions of partners can assume in activating the damaging responses characteristic of insecure people (Mikulincer & Shaver, 2003; Simpson & Rholes, 2012). However, with two exceptions (Collins, 1996; Collins et al., 2006), the research reviewed above has focused on documenting the existence of bias rather than examining its relational consequences. This is an important omission because partners' negative emotions signal that the partner wants change or greater responsiveness, which should be a primary trigger of the threat-regulation strategies used by avoidantly attached people. Thus, when highly avoidant people perceive high levels of negative emotions in their partner, this should activate the hostility and defensiveness displayed by highly avoidant people when their partners need support or try to influence them (e.g., Overall et al., 2013; Rholes et al., 1999).
+If, however, highly avoidant people display less tracking accuracy because they inhibit detection of their partners' negative feelings, this should prevent or limit hostility and defensive responses. Indeed, defensive exclusion (low tracking accuracy) may be a central way in which highly avoidant people manage relationships by preemptively deactivating the threat of their partners' negative emotions (see Fraley & Brumbaugh, 2007; Fraley et al., 2000). At this point, the evidence for low tracking accuracy in highly avoidant people is minimal, and it is probably unlikely that highly avoidant people can maintain blanket ignorance of their partners' changing emotions during dyadic interactions. Once negative emotions are perceived (tracking accuracy)--and the inten-
+
+sity of those emotions is exaggerated (directional bias)-- highly avoidant individuals should respond with greater hostility and defensiveness. We tested this prediction by assessing whether perceiving high levels of negative emotions in the partner was associated with greater hostile and defensive behaviors by avoidant perceivers during couples' conflict discussions (Study 1) and in their daily relationship lives (Study 2).
+Attachment Anxiety, Biased Perceptions of Negative Emotions, and Insecure Reactions
+Attachment anxiety is another form of insecurity that influences perceptions and behavior in romantic relationships. Highly anxious individuals yearn for closeness and acceptance, but fear that, regardless of their attempts to secure love, they may be rejected or abandoned (Bowlby, 1969, 1973, 1980). As a result, highly anxious individuals are hypersensitive to rejection and become highly distressed when encountering relationship threats (Mikulincer & Shaver, 2003; Simpson & Rholes, 2012), such as during relationship conflict (e.g., Campbell, Simpson, Boldry, & Kashy, 2005; Simpson et al., 1996) or when they feel poorly supported by their partner (Rholes et al., 1999). They also cope less effectively with negative emotions by ruminating on the source of the distress, which amplifies the severity of the issue (Mikulincer & Florian, 1998).
+The rejection-related expectations and emotion regulation strategies associated with anxiety are hypothesized to produce vigilance toward relationship threats and the availability of partners (Mikulincer & Shaver, 2003; Simpson & Rholes, 2012), thereby enhancing sensitivity to partners' negative emotions. The empirical evidence for perceptual vigilance-- or tracking accuracy--is mixed. We know, for example, that highly anxious individuals respond more quickly to the names of their attachment figures (e.g., Mikulincer, Gillath, & Shaver, 2002), seek more information about their partners' negative thoughts and feelings (Rholes, Simpson, Tran, Martin, & Friedman, 2007), and are more sensitive to detecting changes in emotional facial expressions (Fraley et al., 2006; Niedenthal et al., 2002). However, greater anxiety is not associated with heightened attention to, or more sensitive encoding of, emotionally relevant stimuli (e.g., Dewitte, 2011; Edelstein, 2006; Edelstein & Gillath, 2008; Fraley et al., 2000).
+The expectations of rejection associated with attachment anxiety are also assumed to produce pervasive schema-driven biases in relationships (Dykas & Cassidy, 2011). Indeed, highly anxious people attribute hypothetical negative partner behaviors to intentional rejection and disregard (Collins, 1996; Collins et al., 2006; Mikulincer, 1998; Summer & Cozarelli, 2004; Whisman & Allan, 1996), and they have less favorable partner appraisals following difficult relationship interactions (Collins & Feeney, 2004; Gallo
+1 Comparing perceptions to the partner's reports is the primary method used to assess bias and accuracy of relationship-related perceptions (Fletcher & Kerr, 2010; Gagne & Lydon, 2004). This approach has two major strengths. First, it captures variation in people's actual experiences during relationship interactions and, thus, has high ecological validity. Indeed, partner reports are the best benchmark to use when assessing internal emotional states and subjective experiences that cannot be measured objectively. Second, such experiences influence important relational outcomes (Fletcher & Kerr, 2010; Gagne & Lydon, 2004), such as behavioral reactions to partners, which we investigate in the current studies.
+
+ATTACHMENT INSECURITY AND PERCEPTIONS OF EMOTIONS
+
+733
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+& Smith, 2001; Simpson et al., 1996). Some studies, however, also find that highly anxious individuals do not possess negatively biased perceptions of their partners' relationship evaluations (Tucker & Anders, 1999) and infer their partners' thoughts and feelings during relationship-threatening interactions more accurately (Simpson, Ickes, & Grich, 2002; Simpson et al., 2011).
+In sum, theoretical models of attachment anxiety imply that highly anxious individuals should be more accurate at detecting their partners' emotions (i.e., they should exhibit greater tracking accuracy), but they should also perceive their partners' emotions more negatively than is justified (i.e., they should display greater directional bias). Similar to avoidance, however, the evidence for these two perceptual processes is mixed and differs across experimental tasks, assessment procedures (e.g., responses to hypothetical vs. actual relationship interactions), and judgment domains (e.g., perceptions of behavior vs. perceptions of thoughts and feelings). As discussed above, by assessing perceptions of partners' emotions in relation to corresponding benchmark reports from partners themselves, our research design permits tests of the degree to which highly anxious individuals detect (tracking accuracy) and exaggerate (directional bias) their partners' negative emotions when those partners experience shifts in emotions across conflict discussions (Study 1) and in daily life (Study 2).
+We also tested whether perceiving more negative emotions in the partner is associated with more destructive reactions by highly anxious individuals. During relationship conflicts, highly anxious individuals feel more rejected and distressed, report engaging in more hostile behavior (e.g., Campbell et al., 2005; Feeney, Noller, & Callan, 1994; Gaines et al., 1997; Overall & Sibley, 2009; Scharfe & Bartholomew, 1995; Simpson et al., 1996), and exhibit less observer-rated constructive responses (Creasey, 2002; Simpson et al., 1996; Tran & Simpson, 2009). Thus, similar to highly avoidant individuals, highly anxious individuals may display greater hostility when they perceive their partner is experiencing more negative emotions.
+However, there are two reasons why highly anxious individuals might not respond in the same relationship-damaging manner as highly avoidant individuals. First, relationship threats activate opposing motivations in highly anxious individuals-- both selfprotective responses to prevent or punish rejection as well as attempts to restore the closeness and acceptance that highly anxious individuals crave (Mikulincer, Shaver, Bar-On, & Ein-Dor, 2010). This may explain why null associations are sometimes found between anxiety and hostility during relationship conflicts (e.g., Bouthillier et al., 2000; Campbell et al., 2005; Roisman et al., 2007; Simpson et al., 1996).
+Second, negative emotions can serve as signs that the partner is invested and committed to the relationship (Baker, McNulty, & Overall, 2014). For example, anger and frustration can instigate attempts to produce change (Lemay, Overall, & Clark, 2012; Canary, Spitzberg, & Semic, 1998), and expressions of anger during conflict can improve relationship problems and predict higher levels of relationship satisfaction (Cohan & Bradbury, 1997; McNulty & Russell, 2010; Overall, Fletcher, Simpson, & Sibley, 2009). Accordingly, partners' anger may convey that the partner is invested and cares deeply about the relationship (Gottman, 1998; Gottman & Krokoff, 1989; Heavey, Layne, & Christensen, 1993). Hurt feelings can also communicate relationship commitment, and in turn often leads to prorelationship thoughts,
+
+feelings, and behaviors in both partners (Lemay et al., 2012; Overall, Girme, Lemay, & Hammond, 2014). These commitmentsignaling qualities of negative emotions may provide highly anxious individuals with evidence of their partners' care and regard-- evidence that they strongly desire--which might counterbalance the threat of their partners' negative emotions (see Overall et al., 2014).
+Overview of the Present Research
+Perceptual biases are central to theoretical models that articulate why and how attachment insecurity can undermine adult romantic relationships (Collins & Allard, 2001; Mikulincer & Shaver, 2003; Simpson & Rholes, 2012). Currently, however, there is scant and inconsistent evidence that either avoidance or anxiety are systematically associated with inaccurate or biased perceptions of intimate partners during actual relationship interactions. In the current research, we reconcile these inconsistencies and overcome some of the key limitations of prior research by: (a) distinguishing between two types of bias--tracking accuracy and directional bias--that correspond to two unique ways in which avoidance and anxiety have been hypothesized to influence the processing of emotionally laden social information (Bowlby, 1973, 1980; Dykas & Cassidy, 2011); (b) focusing on a set of perceptions that are closely tied to attachment processes and have important implications for relationship functioning--perceptions of intimate partners' relationshiprelated negative emotions; (c) assessing perceptions of partners' emotion in the ecologically valid context of couples' conflict interactions and routine daily experiences; and (d) testing the degree to which more negative perceptions of partners' emotions trigger the damaging behaviors commonly associated with attachment insecurity.
+In Study 1, we video-recorded couples discussing areas of conflict in their relationship. We then asked each partner to review their recorded discussions and, at 14 points during each discussion (every 30 s), rate their own negative emotions and their perceptions of their partner's negative emotions. In Study 2, we collected two independent samples of couples and asked each partner to rate his or her own negative relationship-related emotions and perceptions of his or her partner's emotions at the end of each day over a 3-week period. We followed the most recent statistical procedures designed to measure directional bias and tracking accuracy (West & Kenny, 2011). Using the partners' reports of their own emotional experiences as the benchmark of accuracy, we simultaneously assessed the degree to which individuals' perceptions of their partners' negative emotions accurately tracked the ups and downs of their partners' changing emotions (tracking accuracy) and/or underestimated or overestimated the negative emotions reported by their partners (directional bias). We also assessed whether tracking accuracy and directional bias varied according to perceivers' degree of attachment avoidance or anxiety. In addition, in both studies we measured individuals' hostile and defensive behaviors and examined whether perceiving more negative emotions in partners activated these damaging behaviors in more insecure perceivers.
+Study 1
+In Study 1, romantic couples were video-recorded discussing two areas of conflict in their relationship. In each conflict discus-
+
+734 OVERALL, FLETCHER, SIMPSON, AND FILLO
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+sion, one partner (the agent) wanted the other partner (the target) to change in some way. We examined the degree to which perceptions of the partner's negative emotions by the target of change (the "perceiver") were biased because being targeted for change involves more threat and has been shown to trigger the concerns and defenses linked with attachment insecurity (Overall et al., 2014; Overall & Hammond, 2013). To assess tracking accuracy and directional bias, after each couple's conflict discussions, each partner reviewed both video-recorded discussions. For each 30-s interval of each discussion, perceivers reported how much they perceived their partner was feeling certain negative emotions (anger, frustration, hurt, and sadness), and their partners rated the degree to which they actually felt these negative emotions during that 30-s portion of the discussion. Using partners' own reports of their emotions as the benchmark of accuracy, this procedure allowed us to model the extent to which perceivers: (a) tracked the ups and downs of their partners' negative emotions across each 30-s portion of the discussion (tracking accuracy); and (b) judged their partners' emotions to be, on average, lower or higher than what their partners reported (directional bias). We also compared the veracity of perceivers' judgments of their partners' negative emotions to objective observers' ratings of partners' negative emotions. Our primary aim was to test whether perceivers' attachment avoidance or anxiety systematically predicted tracking accuracy and/or directional bias. We also tested whether more negatively biased perceptions triggered more destructive responses by insecure perceivers. To accomplish this, trained coders independently rated the degree to which perceivers displayed defensive hostility versus more constructive conflict resolution behaviors during each discussion.
+Method
+Participants. Fifty-seven heterosexual couples responded to paper and electronic announcements posted across a New Zealand university. Participants ranged from 18 to 37 years of age (M  21.0, SD  3.1). Forty-six percent of couples were cohabiting or married, and 83% of the remainder classified their relationship as serious. Relationship length ranged from 1 to 6.5 years (M  2.5, SD  1.5). Couples were paid NZ$70 for a 3-hr session.2
+Procedure. Participants first completed the questionnaires described below and then identified and ranked (in order of importance) three aspects of their partner that they wanted improved, which they would then discuss with their partner. The most important ranked feature was selected for discussion. After a short warm-up discussion, each couple had two discussions that were unobtrusively video-recorded. One discussion involved the feature that each woman wanted to change about her male partner; in the other discussion, the woman was targeted for change. The order of the discussions was counterbalanced across couples.
+Immediately following the two discussions, the partners were led to separate rooms where they reviewed their discussions and reported their thoughts and feelings during each discussion. The review procedure was similar to other widely used procedures used to assess subjective experiences and perceptual accuracy during conflict (see Ickes, 2001; Welsh & Dickson, 2005), and it enabled
+
+us to compare perceivers' judgments of their partner's negative emotions with their partner's actual reported negative emotions during the discussion. For each discussion, the video-recording was stopped 14 times (every 30 s) and each partner rated a series of items based on how she or he remembered feeling during the discussion (rather than how she or he felt while watching the recording). Perceivers (targets of change) also rated the degree to which they perceived their partner felt different negative emotions during each 30-s portion of the discussion. Following the study, the discussions were reviewed by trained coders who independently rated the degree to which each partner exhibited destructive versus constructive conflict behaviors during each discussion.
+Measures. Attachment avoidance and anxiety. Participants completed the Adult Attachment Questionnaire (AAQ; Simpson et al., 1996), which involved rating 17-items with reference to their views about romantic relationships in general. Avoidance items assess the degree to which individuals avoid closeness and intimacy (e.g., "I'm not very comfortable having to depend on romantic partners"), and anxiety items tap the degree to which individuals fear rejection and abandonment (e.g., "I often worry that my romantic partners don't really love me;" 1  strongly disagree, 7  strongly agree). Items were keyed so that higher scores represent greater avoidance and anxiety (see Table 1). Avoidance and anxiety were positively correlated, r  .42, p  .05; thus, all analyses were run with avoidance and anxiety as simultaneous predictor variables. Relationship satisfaction. Five items developed by Rusbult, Martz, and Agnew (1998) assessed participants' satisfaction with their relationship (e.g., "I feel satisfied with our relationship;" 1  strongly disagree, 7  strongly agree). Greater avoidance, r  .42, p  .05, and anxiety, r  .41, p  .05, were associated with lower relationship satisfaction. Assessing negative emotions during the discussion. The items participants rated during the video-review procedure were designed to assess: (a) the perceiver's perceptions of his or her partner's negative emotions, (b) the partner's actual negative emotions, and (c) the perceiver's own negative emotions, which we used to ensure that perceptions of the partner were not simply due to perceiver's own negative feelings. Participants first watched each discussion in the order the discussions occurred and, for each
+2 This sample was used by Overall et al. (2012) to test the links between directional bias and tracking accuracy of perceptions of the partner's regard during conflict discussions. However, Overall et al. (2012) did not: (a) test the links between attachment insecurity and perceptions of the partner, (b) examine the bias and accuracy of perceptions of the partner's negative emotions, or (c) investigate the association between biased perceptions and conflict behavior. Thus, the aims and specific hypotheses tested in this article are novel, the measures used do not overlap, and the results are independent of the prior paper. Overall et al. (2012) reported that chronic relationship-specific insecurity in the partner's regard was associated with greater directional bias and tracking accuracy of within-discussion perceptions of partner regard. Demonstrating the important and unique links between attachment security and the processing and management of emotions, chronic insecurity in the partner's regard (as examined in Overall et al., 2012) did not independently predict directional bias or tracking accuracy in perceptions of the partner's negative emotions (ps  .15), and controlling for this moderating variable did not reduce highly avoidant perceivers' greater directional bias as documented here (B  .25, t  2.28, p  .05).
+
+ATTACHMENT INSECURITY AND PERCEPTIONS OF EMOTIONS
+
+735
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Table 1 Descriptive Statistics of All Measures (Study 1)
+
+Measures
+
+Means (SD) 
+
+Questionnaire measures Avoidance Anxiety Relationship satisfaction
+Participants' ratings of negative emotions during the conflict discussion
+Partners' (agents') negative emotions Perceivers' (targets') own negative emotions Perceivers' (targets') perceptions of their
+partners' negative emotions Observational coding of conflict discussion
+Partners' (agents') negative emotions Perceivers' (targets') negative emotions Partners' (agents') hostile and defensive behavior Perceivers' (targets') hostile and defensive
+behavior
+
+2.81 (1.01) 3.02 (1.13) 5.89 (0.91)
+1.97 (1.31) 1.92 (1.26)
+2.15 (1.23)
+1.38 (0.53) 1.42 (0.68) 3.45 (1.75)
+3.54 (1.73)
+
+.76 .80 .85
+.89 .89
+.90
+.67 .72 .80
+.81
+
+Note. Statistics for participants' and observers' ratings of negative emotions represent averages of the repeated measures aggregated across the discussion.
+
+30-s interval, rated the degree to which they felt "angry," "frustrated," "hurt," and "sad" during that portion of the discussion (1  not at all, 7  extremely). Then perceivers rewatched the discussions in which they were the target of change and rated (for each 30-s interval) how they thought their partner was feeling at that time during the discussion (i.e., how they remembered thinking their partner felt at that specific point of the discussion, not what they thought or felt as they watched the discussion). Perceivers rated the degree to which they thought their partner felt "angry," "frustrated," "hurt," and "sad" (1  not at all, 7  extremely).
+Observational coding. Observer ratings of negative emotions. Three coders who were blind to the study aims and participants' scores on all variables judged the partner's emotions following the same review procedure completed by participants. Observers watched each discussion and, for each 30-s interval, independently rated the degree to which they thought the agent of change (i.e., the partner) was feeling "angry," "frustrated," "hurt," and "sad" during that portion of the discussion (1  not at all, 7  extremely). Coders' ratings were highly consistent (average ICC  .85) and were averaged and then summed across items to provide observer ratings of partners' negative emotions. In a second wave of coding, observers rated the degree to which the target of change (i.e., the perceiver) was feeling "angry," "frustrated," "hurt," and "sad" for each 30-s interval. Coders' ratings of targets' negative emotions were averaged (average ICC  .89) and then summed across items to index observer ratings of perceivers' negative emotions. Hostile and defensive behavior. A separate set of trained coders independently rated the extent to which each partner exhibited hostile and defensive communication behaviors. The specific behaviors rated were selected for their consistency across major coding systems of relationship conflict behavior known to predict important relationship outcomes, such as problem resolution (see Overall et al., 2009; Overall, Sibley, & Tan, 2011). In a
+
+first wave, two coders independently rated the presence of: (a) partner derogation (e.g., criticizing and blaming the partner); and (b) invalidation (e.g., rejecting the partner's view, being condescending, and adopting a domineering, no-negotiation stance; 1  low, 4  moderate, 7  high). In a second wave, two different coders rated positive, constructive responses (e.g., being open to the partner's perspective, expressing affection and positive affect such as humor).
+Coders were given a detailed description of each general strategy and were instructed to take into account the frequency, intensity, and duration of the behaviors associated with each strategy over the entire discussion. The behavior of men and women was coded independently in separate viewings, with the order counterbalanced across couples. Coders compared ratings, discussed any discrepancies, and established final ratings through consensus. Coder ratings prior to achieving consensus were highly consistent (average ICC  .85). Final ratings of partner derogation, invalidation, and positive behaviors (reverse-coded) were averaged to construct an overall measure of hostile and defensive behavior exhibited by both perceivers and partners.
+Results
+Attachment insecurity and biased perceptions of partner's negative emotions. Table 1 presents descriptive statistics of all measures. Examining the across-discussion aggregates of the negative emotions experienced during each discussion, perceivers tended to judge that their partners experienced more negative emotions (M  2.15) than their partners reported (M  1.97). To assess whether this tendency represented significant bias, and whether the amount of bias differed according to perceivers' avoidance or anxiety, we used multilevel modeling methods for analyzing repeated measures data within dyads (see Kenny, Kashy, & Cook, 2006) and followed the truth and bias model outlined by West and Kenny (2011) to use the most up-to-date data analytic strategy for assessing bias and predictors of bias.
+Modeling bias and accuracy. Our base model is identical to the within-participant analysis illustrated in Case 3 of West and Kenny (2011, pp. 370 -371) to assess directional bias and tracking accuracy:
+Pij  b0j  b1ij (partner j's actual negative emotions)
+ b2ij (perceiver j's own negative emotions)  eij (1)
+In this equation, the perceptions of the partner's negative emotions (P) by perceiver j at a particular point during the discussion (i) is a function of: (a) an intercept (b0); (b) the effect of the partner's actual self-reported negative emotions (b1) at that point during the discussion (i); (c) the effect of the perceiver's own negative emotions (b1) at that point during the discussion (i); and (d) an error term (eij) representing random error and all other unmeasured biases that influenced perceivers' judgments. As specified by West and Kenny (2011), perceptions of partners' negative emotions (the outcome variable) were centered on partners' actual negative emotions by subtracting the grand mean of partners' selfreported emotions from individuals' perceptions of their partners' negative emotions at each time-point. This centering strategy means that the intercept represents the mean-level difference between partners' reported negative emotions and individuals' perceptions
+
+736 OVERALL, FLETCHER, SIMPSON, AND FILLO
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+of their partners' negative emotions--that is, directional bias. A positive intercept indicates that, on average, perceivers are generally overestimating, and a negative intercept indicates perceivers are underestimating, their partner's negative emotions.3
+The first predictor variable--the partner's actual negative emotions (b1)--was also centered by subtracting the grand mean across dyads and time-points of partners' self-reported emotions. Thus, perceptions of partners' negative emotions and partners' actual negative emotions were centered on the same mean (see West & Kenny, 2011). The resulting coefficient assesses the degree to which perceptions of partners' negative emotions were influenced by partners' actual negative emotions or tracking accuracy. A positive coefficient indicates that perceivers accurately tracked the degree to which their partner's negative emotions varied across the discussion.
+The second predictor variable--the perceiver's own actual negative emotions (b2)--measures the degree to which individuals' own experience of negative emotions influence or are projected onto their judgments of their partner's negative emotions (see West & Kenny, 2011). Modeling the effect of projection ensures that the resulting assessment and prediction of directional bias and tracking accuracy is not simply the result of insecure individuals experiencing more negative emotions and then projecting this heightened negativity onto their partners (Kenny & Acitelli, 2001; West & Kenny, 2011). This predictor was also centered by subtracting the grand mean of self-reported negative emotions (thus, all variables were centered on the same mean; West & Kenny, 2011).4
+Predicting bias and accuracy. To test whether perceivers' avoidance or anxiety predicted bias and accuracy, attachment avoidance and anxiety were entered as simultaneous predictors of the between-person variability in directional bias, tracking accuracy, and projection (i.e., each parameter estimated by Equation 1). In these analyses, the Level 1 intercept (modeling directional bias) and slopes (modeling tracking accuracy and projection) were treated as dependent variables predicted by individual differences in anxiety and avoidance (grand-mean centered) modeled at Level 2. The Level 2 equations are as follows:
+
+b0j  B00  B01(avoidance)  B02(anxiety)  u0j
+
+(2)
+
+b1j  B10  B11(avoidance)  B12(anxiety)  u1j
+
+(3)
+
+b2j  B20  B21(avoidance)  B22(anxiety)  u2j
+
+(4)
+
+Equation 2 tests the effects of avoidance and anxiety on direc-
+tional bias (b0j); B00 represents the Level 2 intercept reflecting average levels of directional bias across perceivers, B01 and B02 are coefficients testing whether perceivers' avoidance and anxiety
+(respectively) are associated with directional bias, and u0j represents individual differences in bias. Equation 3 tests the effects of
+avoidance and anxiety on tracking accuracy (b1j); B10 represents the Level 2 slope reflecting the main effect of tracking accuracy,
+B10 and B11 are coefficients testing whether perceivers' avoidance and anxiety (respectively) are associated with tracking accuracy,
+and u1j is an error term allowing for variation in slopes across perceivers. Equation 4 tests the effects of avoidance and anxiety on
+projection or the biasing effect of perceivers' own negative emo-
+tions (b1j); B20 represents the Level 2 slope reflecting the main effect of projection, B20 and B21 are coefficients testing whether
+
+perceivers' avoidance and anxiety (respectively) are associated with tracking accuracy, and u2j is an error term allowing for variation in slopes across perceivers.
+All analyses were conducted using the MIXED procedure in SPSS 20 (for associated SPSS syntax, see Overall et al., 2014). Accounting for the dependence in the data across dyad members, the model estimated the parameters pooled across men and women. The model allowed the error variances to differ for men and women, errors for a given time to be correlated, directional bias (b0j), accuracy (b1j) and projection (b2j) to vary by male and female perceivers for each dyad, and for these random effects to covary across dyad members. All main and interaction effects of gender were included, which revealed no significant gender differences in the effects of attachment avoidance or anxiety. In addition, as recommended by Bolger and Laurenceau (2013), because the repeated measures were temporally ordered across time, we also controlled for the effect of time (B  .03, t  6.86, p  .001).
+The fixed effects from these analyses are shown in Table 2. First examining average levels of directional bias, tracking accuracy, and projection (see the first rows of Table 2), the intercept assessing directional bias was positive and significantly different from zero, indicating that perceivers tended to overestimate their partners' negative emotions during each discussion. The significant effect of projection also revealed that the more individuals experienced negative emotions, the more they perceived their partner to feel negative emotions. Nonetheless, despite these biases, the tracking accuracy effect revealed that perceivers accurately tracked the degree to which their partners felt higher or lower levels of negative emotions across each discussion.
+Examining the effects of attachment insecurity, avoidance was positively associated with directional bias, but did not predict differences in tracking accuracy (or projection). This pattern reveals that highly avoidant individuals tracked when their partner was feeling more versus less negatively to the same extent as less avoidant individuals (no difference in tracking accuracy), but highly avoidant individuals consistently overestimated the intensity of their partner's negative emotions (greater directional bias) to a greater extent than less avoidant individuals. Attachment anxiety was not associated with directional bias, tracking accuracy, or projection.
+Alternative explanations. Because the primary analyses controlled for projection, the base model demonstrates that the greater
+3 This measurement of bias is directly comparable to most prior relationship research that has examined mean-level discrepancies to assess bias in perceptions (see Fletcher & Kerr, 2010; Gagne & Lydon, 2004), and it follows the model outlined by West and Kenny (2011) and published demonstrations of their approach (e.g., Overall et al., 2012; West et al., 2014). An alternative approach involves centering on each partner's own mean (person mean) rather than the mean across all partners (grand mean). Centering all variables on each partner's person-specific mean did not change the size and significance of directional bias, tracking accuracy, or the effects of attachment avoidance. Results from analyses using personcentered centering are available from the first author.
+4 We included perceivers' own negative emotions (i.e., the effect of projection) in the primary analyses following the approach and case studies presented by West and Kenny (2011). Across both studies, the results are very similar when excluding the effect of projection, although the effects of directional bias, tracking accuracy, and avoidance were (not surprisingly) stronger without controlling for perceivers' own negative emotions.
+
+ATTACHMENT INSECURITY AND PERCEPTIONS OF EMOTIONS
+
+737
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+bias shown by avoidant perceivers is not simply due to avoidant perceivers' experiencing more negative, emotionally charged interactions. We similarly wanted to ensure that highly avoidant perceivers were not responding to more hostile behavior or greater expressions of negativity from their partner. Modeling partners' hostile behavior as a predictor of bias and accuracy as we did with perceivers' own negative emotions revealed that partners' hostile behavior did not predict biased perceptions (B  .01, t  .12, p  .90) over and above the effects of perceivers' avoidance (B  .24, t  2.08, p  .04). We also wanted to ensure that the greater bias shown by avoidant perceivers was not the result of their lower relationship satisfaction, r  .42, p  .01. Perceivers who were less satisfied exhibited greater overestimation of their partner's negative emotions (B  .22, t  2.21, p  .05). However, modeling relationship satisfaction and avoidance as simultaneous predictors only slightly reduced the effect of avoidance on directional bias (B  .20, t  1.81, p  .07), whereas the effect of satisfaction was eliminated (B  .06, t  .51, p  .61).
+Observers' judgments of partners' negative emotions. To provide an additional test of the links between attachment insecurity and biased perceptions of partners' negative emotions, we examined whether observers' judgments of partners' negative emotions showed similar biases as those demonstrated by highly avoidant perceivers. To do this, we reran the truth and bias model described above replacing perceivers' (targets') judgments of their partners' (agents') negative emotions with objective coders' judgments of the partners' (agents') negative emotions. As before, observers' judgments were centered on the grand mean of partners' negative emotions, so the intercept represents whether observers' were, on average, underestimating (in the case of a negative intercept) or overestimating (in the case of a positive intercept) partners' negative emotions. To ensure the analyses were directly comparable to those reported in Table 2, we also modeled the degree to which observers' judgments of the partner were influenced by the targets' (perceivers') experience and expression of negative emotions by including targets' reported negative emotions in the model (analogous to the effects of projection shown in Table 2).5
+The results from these analyses are shown in Table 3. First examining average levels of directional bias, tracking accuracy,
+
+Table 2 Directional Bias and Tracking Accuracy of Targets' Perceptions of Partners' (Agents') Negative Emotions During Conflict Discussions (Study 1)
+
+Bias and accuracy of perceptions
+
+of partners' negative emotions
+
+B SE
+
+t
+
+Directional bias Tracking accuracy Projection Effects of avoidance
+Directional bias Tracking accuracy Projection Effects of anxiety Directional bias Tracking accuracy Projection
+
+.26 .09 .16 .04 .32 .05
+
+2.98 4.30 6.70
+
+.22 .10
+
+2.14
+
+.05 .04
+
+1.18
+
+.01 .05 0.30
+
+.01 .09
+
+0.12
+
+.04 .04 1.04
+
+.04 .04
+
+1.00
+
+ p  .05.  p  .01.
+
+Table 3 Directional Bias and Tracking Accuracy of Observers' Judgments of Partners' (Agents') Negative Emotions During Conflict Discussions (Study 1)
+
+Bias and accuracy of observers' judgments
+
+of partners' negative emotions
+
+B SE
+
+t
+
+Directional bias Tracking accuracy Projection Effect of targets' avoidance
+Directional bias Tracking accuracy Projection Effect of targets' anxiety Directional bias Tracking accuracy Projection
+
+.02 .04 0.55
+
+.09 .02
+
+4.66
+
+.08 .02
+
+3.69
+
+.01 .03
+
+0.54
+
+.01 .02
+
+0.41
+
+.00 .02 0.07
+
+.04 .03 1.34 .01 .02 0.48 .01 .02 0.74
+
+Note. These analyses directly replicate the models assessing perceivers' (targets') judgments of their partner's negative emotions (shown in Table 2), but replace perceivers' judgments of their partner's negative emotions with independent observers' judgments of the partner's negative emotions. The dependent variable is observer ratings of the agents' (partners') negative emotions centered on the emotions partners actually reported feeling. To ensure analyses are analogous to those reported in Table 2, we continued to model projection as the emotions targets' (perceivers') reported feeling during the discussion (as in Table 2), although the results are unchanged when projection is modelled as observer ratings of the targets' (perceivers') negative emotions (see Footnote 5).  p  .05.  p  .01.
+
+and projection (see the first rows of Table 3), the coefficient testing tracking accuracy was positive and significant, indicating that observers accurately detected changes in partners' negative emotions across the discussion. The significant effect of projection (targets' negative emotions) also indicated that observers' judgments were shaped by the general emotional "climate" of the discussion. However, unlike participants' perceptions of their partners' negative emotions, observers did not show directional bias (i.e., the intercept was close to, and did not significantly differ from, zero). This null effect suggests that the average directional bias shown by perceivers in the relationship is (consciously or unconsciously) motivational in nature. Finally, the effects of targets' avoidance and anxiety test whether observers' perceived the partners' of highly avoidant or anxious individuals differently. None of these effects were significant, indicating that the greater overestimation of negative emotions displayed by highly avoidant perceivers was not attributable to any objective properties of their partners' emotions or behaviors.
+Attachment insecurity and reactions to perceptions of partners' negative emotions. Our second goal was to test whether detecting and overestimating partners' negative emotions elicited
+5 Another way of modeling projection involves using the observers' judgments of the targets' negative emotions to control for level of negative emotions expressed across partners. The results are unchanged when projection is modeled as observer-ratings of the targets' negative emotions rather than the targets' self-reported negative emotions. In addition, as with the analyses involving participants' perceptions of their partner's negative emotions, the results remained the same excluding either index of projection (i.e., the effect of targets' emotions as reported by targets or as judged by observers).
+
+738 OVERALL, FLETCHER, SIMPSON, AND FILLO
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+more hostility and defensive behavior in perceivers higher in attachment insecurity. To do this, we averaged the multiple ratings of negative emotions across the discussions used in the above analyses to generate an overall measure of: (a) perceiver's perceptions of their partner's negative emotions, and (b) partner's actual negative emotions across the discussions. Following guidelines for dyadic analyses recommended by Kenny, Kashy, and Cook (2006), we regressed perceivers' hostile behavior (rated by independent coders) on perceptions of partners' negative emotions averaged across each discussion, avoidance and anxiety, and the interactions between perceptions of partners' negative emotions and both avoidance and anxiety. To ensure we were capturing perceptions rather than partners' actual negative emotions, we included partners' self-reported emotions and associated interactions as predictor variables. We also modeled the main and interaction effects of gender, which revealed no gender differences for any of the effects reported below (all ts  .86 to .87).
+The central effects are shown in Table 4. Although the interaction between perceptions of partners' negative emotions and avoidance was only close to the conventional significance level (p  .057), simple slope analyses confirmed that having more negative perceptions of partners' emotions during the conflict discussions triggered greater hostile behavior by individuals high (1 SD; b  .59, t  2.15, p  .05) but not low (1 SD; b  .36, t  1.18, p  .25) in avoidance (see Figure 1). Thus, when individuals perceived their partners were experiencing lower levels of negative emotion, there was no significant difference in hostility across perceivers high versus low in avoidance (b  .42, t  1.26, p  .22), but when individuals held more negative perceptions of their partners' emotions, highly avoidant perceivers displayed greater hostility (b  .56, t  2.05, p  .05).6 These analyses illustrate that perceiving higher levels of negative emotions in partners evoke avoidant defenses.
+We also examined whether perceivers' own negative emotions or their partners' destructive behavior were responsible for these effects. Rerunning the above analyses replacing perceptions of partners' negative emotions with each of these variables indicated that it was not the perceivers' own negative emotions (B  .01, t  .06, p  .95) or their partners' hostile behavior (B  .10, t  1.10, p  .28) that triggered the defensive reactions of more avoidant perceivers. Lower relationship satisfaction also did not activate defensive hostility when partners were perceived to feel more intense negative emotions (B  .06, t  .35, p  .73).
+Discussion
+In Study 1, we gathered ratings of (a) individuals' own negative emotions, and (b) their perceptions of their partner's negative emotions multiple times across couples' conflict discussions. This method allowed us to test whether perceivers accurately tracked the degree to which their partners experienced changes in negative emotions across the discussion (tracking accuracy) and consistently underestimated or overestimated the intensity of their partner's negative emotions (directional bias). The results revealed that highly avoidant individuals were just as accurate as less avoidant individuals at recognizing when their partner was feeling more versus less negatively (tracking accuracy), but highly avoidant individuals consistently overestimated the intensity of their partner's negative emotions (greater directional bias) to a greater
+
+extent than less avoidant individuals. This pattern indicates that highly avoidant individuals do not defensively exclude or ignore their partner's changing emotions when actually interacting with them, but they do have more negatively biased perceptions of their partner's emotions. Of importance, the greater directional bias associated with attachment avoidance was not the result of avoidant perceivers' own negative emotions or their partners' conflict behavior. Furthermore, objective observers did not show similarly biased perceptions. Thus, highly avoidant perceivers' greater overestimation of their partners' negative emotions appears to be internally generated rather than produced by differences in their partners' reactions or more negatively toned conflict discussions. Moreover, when highly avoidant individuals perceived more negative emotions in their partners, they were more likely to engage in hostile and defensive behaviors toward them, highlighting that detecting and overestimating partners' negative emotions has clear behavioral consequences for avoidant perceivers.
+Attachment anxiety, on the other hand, was not associated with either directional bias or tracking accuracy. It might be that the vigilance and negative biases theorized to be associated with anxiety did not emerge in this study because conflict--and particularly being the target of a partner's dissatisfaction--should elicit similar concerns in less anxious individuals. Indeed, on average across the sample, perceivers tended to overestimate the intensity of their partner's negative emotions, which is consistent with prior research showing that relationship-threatening contexts generate more cautious judgments of partner's negative thoughts and feelings, possibly to safeguard against unexpected rejection (Fletcher & Kerr, 2010; Overall et al., 2012). The threat involved in conflict, therefore, might limit differences in levels of bias across individuals who are high versus low in anxiety. We tested this potential explanation in Study 2 by examining biased perceptions as they occur during the routine context of couples' daily lives.
+The lack of bias by highly anxious perceivers, and the null associations between anxiety and hostile conflict behavior, might also arise because perceptual or behavioral reactivity to rejection is offset by the reassurance that their partner's negative emotions might convey regarding their partner's engagement in and commitment to the relationship (Baker et al., 2014; Lemay et al., 2012; Overall et al., 2014). It is also possible that our small sample size in Study 1 limited the degree to which we could detect differences in biased perceptions, tracking accuracy, or hostile and defensive conflict behavior across low versus high anxious perceivers. Study 2 had a more powerful design by repeatedly assessing emotions and behaviors across a 3-week period in two larger couple samples.
+6 Examining the simple effects, despite the interaction effect reaching p  .057, is justified because of our a priori predictions and because the relatively small sample size of Study 1 may have limited our power to detect the predicted effect. In addition, the interaction was p  .012 when removing the nonsignificant gender differences (all ps  .38) from the model. Moreover, the interaction between perceptions of the partner's negative emotions and attachment avoidance was replicated in two samples in Study 2 (see Figure 2), and a meta-analysis across studies provided strong support that this interaction effect was robust (mean r  .30, 95% CI [.17, .42], z  4.39, p  .001).
+
+ATTACHMENT INSECURITY AND PERCEPTIONS OF EMOTIONS
+
+Table 4 The Effects of Perceptions of Partners' Negative Emotions and Avoidance and Anxiety on Hostile and Defensive Communication During Conflict Discussions (Study 1)
+
+Perceptions of partners' negative emotions and attachment insecurity B SE
+
+t
+
+Perceptions of partners' negative emotions Avoidance Avoidance  Perceptions of partners' negative emotions Anxiety Anxiety  Perceptions of partners' negative emotions
+ p  .06.
+
+.11 .16
+
+.72
+
+.07 .17
+
+.41
+
+.47 .24
+
+1.95
+
+.03 .19
+
+.15
+
+.21 .16 1.26
+
+739
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Study 2
+Study 2 was designed to replicate and extend the findings of Study 1 by examining the links between attachment insecurity and biased perceptions of partners' negative emotions across the natural course of couples' daily lives. We recruited two independent samples of couples. Both relationship partners rated (a) their own negative emotions, and (b) perceptions of their partner's negative emotions every day for 3 weeks (see Howland & Rafeili, 2010 and Gadassi, Mor, & Rafaeli, 2011 for a similar approach). Similar to Study 1, by comparing individuals' perceptions of their partner's negative emotions with the negative emotions reported by their partners, we tested whether (a) avoidance and anxiety were associated with the degree to which perceptions of partner's negative emotions accurately tracked daily shifts in partner's actual negative emotions over the 3-week period (tracking accuracy), and (b) were, on average, lower or higher than the partner's actual negative emotions (directional bias). Finally, we also collected ratings of hostile and defensive behaviors each day to examine whether more negative perceptions of the partner's emotions activated more hostile and defensive reactions by insecure perceivers.
+Method
+Study 2 consisted of two independent samples of couples collected at different universities in different cities. Each sample followed the same procedures. For concision, we present the
+
+methods and results for each sample jointly (denoted as Sample A and B).
+Participants. Sample A. Seventy-eight heterosexual couples who replied to campus-wide advertisements were reimbursed $70NZD for completing the procedures described below. Participants were 22.44 years old on average (SD  4.81) and were involved in serious romantic relationships (43.6% married or cohabiting) that averaged 2.57 years in length (SD  1.96).7 Sample B. Seventy-three heterosexual couples who replied to campus-wide advertisements were reimbursed $70NZD for completing the procedures described below. Participants were 23.61 years old on average (SD  6.87) and were involved in serious romantic relationships (47% married or cohabiting) that averaged 3.20 years in length (SD  3.56). Materials and procedure. Initial session. During an initial session, couples completed the scales described below and were given detailed instructions for completing a 3-week daily diary. Attachment avoidance and anxiety. As in Study 1, participants completed the AAQ (Simpson et al., 1996) to assess avoidance and anxiety. Relationship satisfaction. The same scale used in Study 1 (Rusbult et al., 1998) was used to assess relationship satisfaction in both samples. Daily diary. At the end of each day for 21 consecutive days, both partners completed a Web-based record reporting on their relationship-related emotions and behavior. On average, participants completed 19.3 (Sample 1) and 19.1 (Sample 2) diary entries. To assess bias and accuracy, each record asked participants to report on (a) their own and (b) their perceptions of their partner's negative emotions each day. Participants also rated the
+
+Figure 1. The effect of perceptions of partner's negative emotions and perceivers' attachment avoidance on defensive and hostile behavior during conflict discussions (Study 1).
+
+7 Sample A has been used previously to explore the associations between attachment anxiety and individuals' own feelings of hurt and anger (Overall et al., 2014). The aims, hypotheses, analyses, and results presented in this article are separate, and there is no overlap in any of the results reported. Overall et al. (2014) did not examine whether perceivers high in anxiety and avoidance were biased or accurate in their perceptions of their partner's emotions, nor did they test the links between perceptions of partner's emotions and subsequent hostile and defensive behavior. Our analyses also control for the associations between anxiety and one's own negative emotions, which demonstrate that the effects reported here are statistically independent of the links between anxiety and own experiences of negative emotions. The results from sample B are new and have not been previously reported.
+
+740 OVERALL, FLETCHER, SIMPSON, AND FILLO
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+degree to which they engaged in defensive and distancing behaviors each day.
+Negative emotions. Using items similar to Study 1, each participant rated how much he or she felt a series of relationshiprelated emotions, including feeling "angry at my partner," "frustrated with my partner," "hurt by my partner" and either "sad about our relationship" in Sample A or "disappointed by my partner" in Sample B (1  not at all, 7  extremely). The same items were reworded to assess perceptions of the partner's negative emotions (e.g., "My partner was angry at me"). These items were averaged to index negative emotions (see Table 5).
+Hostile and defensive behaviors. Each partner also rated the degree to which she or he enacted hostile and defensive behaviors that occur in daily life and that reliably capture relationshipdamaging responses to threat (e.g., Overall & Sibley, 2009, 2010), such as "I acted in a way that could be hurtful to my partner," "I was critical or unpleasant toward my partner," "I wanted to be left alone and/or spend less time with my partner," and "I withdrew from my partner and did my own thing" (1  not at all, 7  extremely).
+Results
+Descriptive statistics and reliabilities for all measures are shown in Table 5. Means and standard deviations were similar across the two samples.
+Attachment insecurity and biased perceptions of partners' negative emotions. We again used the truth and bias model by West and Kenny (2011) to test whether perceivers' avoidance and anxiety predicted biased perceptions of their partner's emotions. The model was identical to that used in Study 1 (see Equations 1-3), with time-points (i) representing days across the 3-week period rather than portions of the conflict discussion. As in Study 1, because the repeated measures were temporally ordered across time, we followed the recommendations of Bolger and Laurenceau (2013) by controlling for the effect of day of assessment (B  .01, t  2.33, p  .02; and B  .01, t  1.86, p  .06, for Sample A and B). Equivalent models were run with Sample A and B separately. The fixed effects for each sample are presented in Table 6.8
+The results were remarkably similar across samples and replicated the patterns found in Study 1. Perceivers, on average, overestimated their partner's negative emotions across the 3-week assessment (significant directional bias, first row of Table 6).
+
+Table 5 Descriptive Statistics of All Measures (Study 2)
+
+Measures
+
+Sample A
+
+Sample B
+
+Means (SD)  Means (SD) 
+
+Questionnaire measures
+
+Avoidance
+
+2.92 (1.04) .77 2.90 (0.92) .74
+
+Anxiety
+
+2.99 (1.04) .80 3.04 (1.12) .84
+
+Relationship satisfaction
+
+6.01 (0.82) .86 5.91 (0.91) .81
+
+Daily measures
+
+Negative emotions
+
+1.94 (1.31) .89 1.61 (1.14) .92
+
+Perceptions of partners'
+
+negative emotions
+
+2.00 (1.31) .89 1.69 (1.21) .92
+
+Hostile and defensive behaviors 2.08 (1.19) .77 1.82 (1.30) .76
+
+Thus, people's tendency to make cautious assessments of their partner's feelings toward the self is not just limited to times of threat, as in the conflict discussions examined in Study 1; it is also apparent in people's daily judgments of their partner's negative emotions toward the self. This type of bias should bypass the costs associated with missing important information regarding the partner's dissatisfaction and potential rejection (Fletcher & Kerr, 2010; Overall et al., 2012). Also consistent with Study 1, the more individuals experienced negative emotions, the more they perceived their partners to experience negative emotions on that day (revealing a significant projection effect). Despite these biases, however, perceivers accurately tracked the degree to which their partners felt more versus less negative emotions across the 3-week period (revealing significant tracking accuracy).
+Examining the effects of attachment insecurity (see Table 6), as in Study 1, highly avoidant perceivers overestimated the negativity of their partner's emotions to a greater extent than less avoidant individuals (revealing significant directional bias), but tracked the changing reality of their partner's feelings as well as less avoidant individuals (indicating no effect of avoidance on tracking accuracy). Highly avoidant perceivers also did not show greater projection than low avoidant perceivers. Finally, similar to Study 1, attachment anxiety was not associated with directional bias, tracking accuracy, or projection in either sample.
+Finally, as in Study 1, the greater bias associated with avoidance was not the result of lower relationship satisfaction. In Sample A (B  .10, t  3.55, p  .01) but not Sample B (B  .09, t  1.53, p  .13), perceivers who were less satisfied exhibited greater overestimation of their partners negative emotions. However, controlling for satisfaction as we did with projection did not reduce the effect of avoidance on directional bias (B  .11, t  3.04, p  .01, B  .11, t  2.45, p  .02, for Sample A and B). The effects of avoidance and anxiety on directional bias and tracking accuracy also did not significantly differ across men and women in either sample (all ps  .09).
+Attachment insecurity and reactions to perceptions of partners' negative emotions. We next tested whether perceiving more negative emotions in partners activated hostile and defensive behavior in insecure individuals. We followed procedures outlined by Kenny et al. (2006) to analyze repeated measures data within dyads, which allowed us to model the degree to which: (a) perceptions of the partner's negative emotions on day i, perceivers' (b) avoidance and (c) anxiety, and the interactions between perceptions of partner's negative emotions on day i and (d) avoidance and (e) anxiety predicted perceivers' levels of hostile and defensive behavior the following day (on day i1), controlling for perceivers' hostile and defensive behavior on day i. This data analytic strategy tests whether having more negative perceptions of partners' emotions is associated with greater subsequent hostile and defensive behaviors for individuals higher in avoidance or anxiety versus lower in avoidance or anxiety. Controlling for the strong within-day (day i) associations between perceived partners'
+8 As in Study 1, virtually identical results emerged when centering all variables on each partner's own personal mean (i.e., using person-mean rather than grand-mean centering). The results were also similar when excluding the effect of projection, although the effects of directional bias, tracking accuracy, and avoidance were stronger without controlling for perceivers' own negative emotions.
+
+ATTACHMENT INSECURITY AND PERCEPTIONS OF EMOTIONS
+
+Table 6 Directional Bias and Tracking Accuracy of Perceptions of Partners' Daily Negative Emotions (Study 2)
+
+Bias and accuracy of perceptions of partners' negative emotions
+Directional bias Tracking accuracy Projection Effects of avoidance
+Directional bias Tracking accuracy Projection Effects of anxiety Directional bias Tracking accuracy Projection
+ p  .05.  p  .01.
+
+B
+.09 .18 .72
+.06 .01
+.04
+.00 .01 .02
+
+Sample 1
+SE
+.02 .02 .02
+
+t
+3.50 9.77 34.11
+
+.03 2.37 .02 0.67 .02 1.73
+
+.03 0.11 .02 0.57 .02 1.08
+
+B
+.11 .24 .72
+.10 .01
+.01
+.04 .04 .04
+
+Sample 2
+SE
+.03 .03 .03
+
+t
+3.55 8.19 20.67
+
+.04 2.60 .03 0.44 .04 0.22
+
+.03 1.11 .03 1.50 .03 1.35
+
+741
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+negative emotions and hostile behavior provides stronger evidence that perceptions of the partners' negative emotions is triggering defensive and hostile behavior rather than the reverse association or simply the result of the general valence of couples' daily transactions.9 As in Study 1, we also included the partner's self-reported emotions and associated interactions as predictors to ensure we were capturing the effects of perceptions above and beyond partner's actual reported negative emotions.10
+Table 7 presents the effects for the degree to which perceptions of the partner's negative emotions were associated with subsequent hostile and defensive behaviors. In both Sample A and B, more avoidant individuals reported more hostile and defensive behaviors, and a significant interaction between avoidance and perceptions of partners' negative emotions indicated that highly avoidant individuals reported greater hostile and defensive behavior on days after they perceived that their partners had experienced higher (vs. lower) negative emotions. Figure 2 shows the predicted levels of hostile and defensive behavior on the days after individuals perceived their partners had experienced low versus high negative emotions for individuals low versus high in avoidance in both Sample A (top panel) and Sample B (bottom panel). Shown by the solid lines, highly avoidant individuals reported greater hostile and defensive behavior on days after they perceived their partner experienced high levels of negative emotions compared to days they perceived their partners' negative emotions to be low (b  .06, t  2.16, p  .05, b  .07, t  2.21, p  .05, for Sample A and B). In contrast, perceivers low in avoidance (see dashed lined), did not show any differences in hostile and defensive behavior (b  .02, t  .67, p  .51 for Sample A) or reported lower levels of hostile defensive behavior (b  .10, t  2.80, p  .01 for Sample B) after days in which they perceived their partner to experience high compared with low negative emotions. These results provide good evidence that detecting and amplifying negative emotions in partners activates greater hostile and defensive behavior in individuals high versus low in avoidance.
+Finally, we examined whether perceivers' own negative emotions were responsible for the effects reported in Table 7 and Figure 2 by rerunning the above analyses including perceivers' own negative emotions and associated interaction terms. Experi-
+
+encing negative emotions on one day was associated with greater
+hostile and defensive behaviors the next day (B  .08, t  2.68, p  .01; B  .07, t  2.16, p  .05, for Sample A and B,
+respectively), but this effect was not magnified for individuals high
+versus low in avoidance (ts  .34), and the interaction effects in Table 7 remained significant or marginally significant (B  .04, t  1.72, p  .09; B  .08, t  2.36, p  .05, for Sample A and
+B, respectively). We also considered whether relationship satisfac-
+tion was an alternative explanation. Less satisfied individuals were
+more likely to be hostile and defensive (B  .17, t  2.32, p  .05; B  .47, t  5.30, p  .01, respectively), but this effect did not differ by levels of avoidance (ts  .93), and it did not alter
+9 We also ran additional analyses examining whether the within-day associations between perceptions of partners' negative emotions on day i and hostile and defensive behaviors on day i (controlling for day i-1) were moderated by attachment avoidance. The within-day associations between perceptions of partners' negative emotions and hostile and defensive behavior were strong and significant (B  .43, t  31.44, p  .01 and B  .37, t  15.86, p  .01 for Sample A and B, respectively), and were not moderated by perceivers' avoidance (ts  1.25). In addition to behavioral reactions to perceived emotions, the strong within-day connections between perceptions of partners' negative emotions and defensive behavior also capture the overriding sentiments of what is transpiring in the relationship that day, which can "bleed" across self-reports and could impede the detection of moderating effects. On the other hand, taken together with the across-day analyses (shown in Table 7), this pattern might suggest that perceiving negative emotions in partners is typically accompanied by hostile and defensive behavior for people high and low in avoidance, but more avoidant people continue to exhibit hostility and defensiveness across days (consistent with their distancing regulation strategies), whereas the hostility and defensiveness of low avoidant people subsides or decreases.
+10 We also modeled the main and interaction effects of gender in all analyses. Two of the 10 effects presented in Table 7 were significantly different across men and women, and both were found in Sample B (see right-hand column of Table 7). The interaction between perceptions of the partner's negative emotions and avoidance on subsequent hostile and defensive behaviors was stronger for men (b  .14, t  3.83, p  .01) than women (b  .04, t  1.36, p  .17; difference B  .05, t  1.99, p  .05), and anxiety was associated with greater hostile and defensive behavior for women (b  .28, t  4.20, p  .01), but not men (b  .05, t  .61, p  .55; difference B  .12, t  2.46, p  .05). These differences were not found in Sample A (B  .01, t  .86, p  .39; and B  .00, t  .01, p  .99, respectively).
+
+742 OVERALL, FLETCHER, SIMPSON, AND FILLO
+
+Table 7 The Effects of Daily Perceptions of Partners' Negative Emotions and Avoidance and Anxiety on Hostile and Defensive Behaviors (Study 2)
+
+Perceptions of partners' negative emotions and attachment insecurity
+
+Sample A
+
+B SE
+
+t
+
+Sample B
+
+B SE
+
+t
+
+Perceptions of partners' negative emotions
+
+.02 .02 0.87 .01 .03 0.54
+
+Avoidance
+
+.21 .05 4.49 .12 .06 2.07
+
+Avoidance  Perceptions of partners' negative emotions .04 .02 2.27
+
+.09 .02 3.77
+
+Anxiety
+
+.04 .04 0.85
+
+.16 .05 3.12
+
+Anxiety  Perceptions of partners' negative emotions .01 .02 0.36 .02 .02 0.90
+
+ p  .05.  p  .01.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+the significant interaction effects reported in Table 7 (B  .03, t  2.07, p  .05; B  .10, t  3.92, p  .01, for Sample A and B, respectively).
+Discussion
+Study 2 examined the presence of tracking accuracy and directional bias in perceptions of romantic partner's daily negative emotions across a 3-week period in two independent samples. The daily sampling method allowed us to test the pervasiveness of
+
+highly avoidant individuals' biased perceptions and associated defensive reactivity. The results were consistent across the two samples and also replicated the laboratory-based conflict discussion findings of Study 1. Individuals high in avoidance were just as accurate at perceiving shifts in their partner's negative emotions from one day to the next as individuals low in avoidance (tracking accuracy), but highly avoidant perceivers consistently overestimated the intensity of their partner's negative emotions to a greater extent than less avoidant perceivers (directional bias). In addition, above and beyond their partner's actual emotions, highly avoidant individuals reported greater hostile and defensive behavior on days after perceiving their partners experienced high levels of negative emotions compared to days when they perceived their partners' negative emotions to be low. Study 2 also replicated the lack of bias and reactivity that emerged for highly anxious individuals in Study 1. Specifically, in Study 2, attachment anxiety did not significantly predict directional bias, tracking accuracy, or hostile and defensive reactions to perceptions of partners' negative emotions.
+
+Figure 2. The effect of daily perceptions of partner's negative emotions and perceivers' attachment avoidance on subsequent increases in defensive and distancing behaviors the following day (Study 2, Samples A and B).
+
+General Discussion
+A large body of research has investigated connections between attachment insecurity and biased perceptions because biased perceptions are believed to be central to the ways in which attachment insecurity damages romantic relationships. The existing literature, however, contains methodological inconsistencies and contradictory results, and it offers unclear conclusions regarding: (a) what types of bias are associated with avoidance and anxiety, (b) which biases emerge during actual relationship transactions, and (c) how these biases contribute to the destructive behaviors associated with attachment insecurity. We addressed each of these questions in the current studies by: (a) distinguishing between two types of bias-- tracking accuracy and directional bias; (b) assessing the veracity of perceptions of the partner's negative emotions in both observed conflict discussions (Study 1) and across couples' daily lives (Study 2); and (c) testing the degree to which more negative perceptions of the partner's emotions activate the damaging behavior often seen in insecurely attached individuals.
+In three independent samples, we assessed individuals' perceptions of their romantic partner's emotions at multiple time-points and compared those perceptions with the negative emotions actually reported by their partners. Highly avoidant perceivers were just as accurate at tracking their partners' changing emotions as less avoidant individuals (tracking accuracy), but they overesti-
+
+ATTACHMENT INSECURITY AND PERCEPTIONS OF EMOTIONS
+
+743
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+mated the intensity of their partner's negative emotions to a greater extent than less avoidant perceivers (directional bias). Moreover, perceiving higher levels of negative emotions in their partners triggered more hostile and defensive behavior in highly avoidant perceivers. In contrast, attachment anxiety was not associated with tracking accuracy, directional bias, or hostile and defensive reactions to the partner's negative emotions.
+Attachment Avoidance: Accurate Detection, Negative Bias, and the Activation of Hostile and Defensive Behavior
+The current studies advance prior research by using new models of bias and accuracy (see Fletcher & Kerr, 2010, West & Kenny, 2011) to simultaneously test two different ways in which attachment avoidance has been hypothesized to shape relationship perceptions (see Dykas & Cassidy, 2011). The existing experimental research has focused on identifying whether highly avoidant individuals exhibit defensive exclusion--the inhibited processing of threatening social information--which should result in lower accuracy in tracking shifts in partner's emotions during dyadic interactions. In contrast, correlational research has primarily focused on schema-driven processing--perceiving and explaining relationship events in a typically negatively biased fashion--which should produce overestimation of partner's negative emotions or directional bias. The present studies pinpoint which type of bias infiltrates perceptions of partner's emotions during both conflict discussions and daily transactions. Highly avoidant perceivers were equally accurate in detecting when their partners were experiencing negative emotions as less avoidant perceivers, but they overestimated the intensity of their partner's negative emotions to a greater extent than less avoidant perceivers.
+These results help to clarify when defensive exclusion (low tracking accuracy) and schema-driven processing (directional bias) are likely to operate. Prior studies that have found support for defensive exclusion involve encoding attachment-themed stories (e.g., Fraley et al., 2000), processing attachment-relevant words (e.g., Edelstein & Gillath, 2008), and (in some cases) attending to negative expressions (e.g., Dewitte, 2011). These procedures, however, do not mimic the dynamic nature of emotions that emerge during social interactions, and experimental tasks that capture the detection of changing emotions indicate that highly avoidant individuals perform equally well (Fraley et al., 2006). Moreover, these paradigms have not assessed perceptions of relationship partners and do not simulate the interdependence that exists in real-life interactions in which the emotions and behaviors of partners are difficult to ignore.
+We are not suggesting that defensive exclusion never occurs outside the laboratory or is never witnessed in established relationships. Instead, the divergent findings across these different methods suggest some conditions under which defensive exclusion is likely to arise. Defensive exclusion may be most likely to emerge when methods: (a) require passive processing of inert stimuli, such as words or still expressions; (b) involve processes that can be internally controlled, such as thinking about or remembering prior experiences (e.g., Mikulincer & Orbach, 1995); and (c) are independent of current environmental demands that require a response (cf. Dykas & Cassidy, 2011). In contrast, during the highly interdependent context of relationship exchanges, the part-
+
+ner's changing emotions and communication of those emotions are outside individuals' immediate control and may powerfully convey that different levels of responsiveness are required. These conditions are likely to reduce the degree to which highly avoidant people can cope by suppressing their attention, detection, or encoding of their partner's negative emotions.
+Nonetheless, the current findings also confirm that highly avoidant perceivers do enact defensive strategies when they sense negative emotions in their partners. Across our samples, the more that highly avoidant individuals perceived negative emotions in their partners, the more they displayed hostile and defensive behavior. Thus, when the first line of defense (i.e., inhibited attention, detection, or encoding of the partner's emotions) is blocked in dyadic exchanges, the behavioral strategies that avoidant individuals use to manage threat take over. Hostility and defensiveness should protect highly avoidant individuals from the threat of their partner's negative emotions by establishing greater emotional distance and personal control. This should reduce how much the partner can encroach on and hurt avoidant individuals, which in turn should down-regulate their negative feelings (Overall et al., 2013; Simpson & Rholes, 2012). In contrast, more secure (less avoidant) individuals, who trust their partner's motives and intentions, will likely respond to their partner's negative emotions with greater efforts to repair the relationship (Lemay et al., 2012). Consistent with this notion, less avoidant perceivers did not respond with hostile defensiveness when perceiving more negative emotions in their partners.
+The higher levels of directional bias shown by highly avoidant perceivers also indicate that their defensive strategies are likely to be activated before their partner's negative emotions become a real problem. Consistent with the functioning of the attachment system (see Mikulincer & Shaver, 2003; Simpson & Rholes, 2012), avoidant perceivers reacted with hostile and defensive behavior only when they discerned that their partners were experiencing higher levels of negative emotion. However, avoidant perceivers consistently perceived their partner's emotions as being more negative than what their partners actually reported, and did so to a greater extent than low avoidant perceivers. Thus, despite accurately detecting changes in their partner's negative emotions, avoidant perceivers' amplification of the intensity of their partner's negative emotions probably resulted in their defensive responses coming "online" before there was a real threat that needed to be managed. This pattern indicates that more negatively biased perceptions play an important role in the dysfunctional outcomes commonly associated with attachment avoidance by signaling more threat than actually exists and thereby accelerating the activation of avoidant defenses.
+Attachment Anxiety: No Links With Tracking Accuracy, Directional Bias, or Hostile and Defensive Behavior
+In contrast to avoidance, attachment anxiety was not associated with tracking accuracy, directional bias, or hostile and defensive reactions in any of the studies. This may seem incongruent with theoretical accounts of highly anxious individuals being perceptually and behaviorally sensitive to relationship threats (Mikulincer & Shaver, 2003; Simpson & Rholes, 2012). It may also appear inconsistent with research showing that highly anxious individuals
+
+744 OVERALL, FLETCHER, SIMPSON, AND FILLO
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+are more likely to monitor their partner's availability and internal states (e.g., Mikulincer et al., 2002; Rholes et al., 2007), more sensitively detect changing emotions in experimental tasks (e.g., Fraley et al., 2006), and generate more negative attributions in relationship-threatening interactions (e.g., Collins et al., 1996). Our results, however, fit with research showing that highly anxious individuals do, at times, describe their partner's thoughts and feelings more accurately (Simpson et al., 2011), do not react with more observed hostility (e.g., Campbell et al., 2005; Overall et al., 2014; Roisman et al., 2007; Simpson et al., 1996; Tran & Simpson, 2009), and garner more reassurance of their partner's commitment from their partner's negative emotions during emotionally charged interactions (Overall et al., 2014).
+Consistent with these latter set of findings, there are at least two explanations for the null associations we found for anxiety. First, the importance of detecting the partner's emotions in conflict discussions and in daily life may produce higher levels of tracking accuracy and directional bias for anyone who is strongly invested in maintaining their relationship, including people who are secure (low anxiety or low avoidance) and those who are highly anxious. In all three of our samples, perceivers demonstrated substantial accuracy in tracking shifts in their partner's negative emotions but, on average, overestimated their partner's negative emotions. Although highly avoidant individuals demonstrated substantially greater directional bias overall, the tendency for intimates to overestimate their partners' negative emotions is consistent with other biases related to romantic partners' beliefs toward the self, such as overestimating their partner's lack of forgiveness or poor regard (Fletcher & Kerr, 2010; Overall et al., 2012). One explanation for this pattern involves the relative costs of under-estimating a partner's negative sentiments and emotions (Haselton & Buss, 2000). If intimates underestimate their partner's negative emotions (and related evaluations of the self), doing so will not trigger relationship maintenance efforts, which could increase the risk of partner dissatisfaction and subsequent rejection (Fletcher & Kerr, 2010; Overall et al., 2012). This type of cautious approach to reading a partner's negative emotions may limit differences in tracking accuracy and directional bias in perceivers who are motivated to maintain their relationships (i.e., those high and low in anxiety).
+Alternatively, a partner's negative emotions may be more threatening to highly anxious individuals, but this threat and associated bias may be equalized by the reassurance that their partner's negative emotions may provide. There is growing recognition that negative emotions can have positive relationship implications (see Baker et al., 2014). Anger, for example, can exacerbate animosity in the short-term, but it is associated with more active improvement attempts, which can convey high levels of commitment (e.g., Gottman & Krokoff, 1989; Heavey et al., 1993; Overall et al., 2009). Hurt feelings can also communicate a strong desire to maintain a relationship, which can in turn instigate reconciliation attempts (Lemay et al., 2012; Overall et al., 2014). Moreover, the commitment-signaling function of negative emotions is even more important and influential for highly anxious individuals, who yearn for signs of their partner's regard and dedication. Overall et al. (2014), for example, have found that high levels of partner guilt help anxious individuals feel more secure and satisfied in their relationships. Thus, the reassurance that a partner's negative emotions may provide could offset the accompanying threat that could
+
+produce greater tracking accuracy and directional bias in anxious perceivers.
+This second explanation is supported by our consistent finding that highly anxious perceivers did not exhibit greater hostility and defensiveness when perceiving more negative emotions in their partners. This null finding, however, may have occurred because the behaviors we measured more effectively captured the defensive strategies associated with avoidance, which are designed to limit dependence and create emotional distance. Highly anxious people, in contrast, may limit expressions of anger and hostility in order to prevent being rejected by their partners (Mikulincer, 1998; Rholes et al., 1999) and instead engage in strategies designed to restore or coerce more closeness and dependence, such as by being obliging, emphasizing affection for their partners, or attempting to induce guilt in them (e.g., Guerrero, 1998; Overall et al., 2014; Pietromonaco & Feldman Barrett, 1997; Pistole, 1989). It is also possible that highly anxious individuals conceal their hostility to limit the possibility of further rejection, but this latent aggression is manifested in other destructive ways, particularly in later interactions (see Rholes et al., 1999).
+In addition, other biases could arise from attachment anxiety that were not assessed in the current studies. Although highly anxious individuals did not overestimate or show greater sensitivity to their partner's negative emotions, they might show other types of schema-driven processing, such as remembering their own and their partners' emotions as being more negative than they actually were (Gentzler & Kerns, 2006). Moreover, if the potential reassurance provided by partner's negative emotions counteracted the threat that could activate vigilance and negativity in highly anxious perceivers, perceptions of other threatening thoughts and evaluations that do not involve potential evidence of the partner's care or regard, such as drops in the partner's commitment or increases in the partner's attraction to alternatives, should activate more sensitive and biased processing in highly anxious perceivers (e.g., Simpson et al., 2002) and perhaps trigger more aggressive reactions from them. Isolating the particular domains in which the motives, needs, and concerns associated with anxiety produce biased perceptions and potentially damaging reactions is an important next step.
+Strengths, Limitations, and Future Directions
+This research makes methodological contributions on several fronts by: (a) testing two forms of bias that reflect different ways in which attachment insecurity may influence relationship perceptions and behavior, (b) focusing on attachment-relevant perceptions of the partner's emotions during couples' real-life interactions observed in the laboratory and captured in their daily lives, (c) assessing the degree to which biased perceptions trigger hostile and defensive behavior, and (d) ruling out several plausible alternative explanations for the effects. These unique methods, however, also have some limitations, and there are additional questions that need to be addressed in future research.
+Most prior studies examining attachment insecurity and biased perceptions have assessed differences in task performance or perceptions of relationship events in secure versus insecure individuals rather than comparing performance or perceptions to some benchmark. By gathering reports from both partners in romantic
+
+ATTACHMENT INSECURITY AND PERCEPTIONS OF EMOTIONS
+
+745
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+relationships, we tested tracking accuracy and bias by contrasting perceptions of partners' emotions with the actual emotional experiences of those partners. Our use of the partner's reports is consistent with most prior research examining accuracy and bias in relationships (see Fletcher & Kerr, 2010; Gagne & Lydon, 2004), and it is arguably the principle benchmark of partners' internal emotional experiences. Nonetheless, relationship-protection or self-serving mechanisms could lead partners to understate their negative emotions, which might have contributed to perceivers' generally overestimating their partners' negative emotions. However, this sample-level bias and the more negatively biased perceptions associated with attachment avoidance were not evident in observers' judgments, which suggests that participants' perceptions were biased by their own relationship motivations, expectations, and beliefs. Indeed, regardless of overall levels of bias, the greater directional bias demonstrated by perceivers high in avoidance reveal the role of perceivers' beliefs and expectations in shaping judgments of romantic partner's emotions.
+Alternative benchmarks that may seem more objective also face challenges as valid markers of reality. For example, constructed facial expressions or consensus ratings of expressions used in experimental studies are uninformative with respect to the veracity of people's perceptions as they occur in real-life relationship contexts. Our methods, in contrast, assessed accuracy and bias in the ecological context of couples' observed conflict discussions and daily lives. However, one downside of this approach is that the correlational nature of the data prevents strong causal conclusions. Our analyses did rule out several alternative explanations. For example, the links between avoidance, directional bias, and more hostile reactions to perceiving negative emotions in partners were not the result of highly avoidant perceivers' own amplified negative emotions, their relationship dissatisfaction, or their partners' feeling or behaving more negatively. Nonetheless, replicating these results using experimental designs is one good direction for future research.
+Our assessment of tracking accuracy and directional bias is the most up-to-date approach to understanding and testing bias in relationships (Fletcher & Kerr, 2010; West & Kenny, 2011), and it extends widely used procedures for assessing perceptions during relationship interactions (e.g., Howland & Rafaeli, 2010; Ickes, 2001; Welsh & Dickson, 2005). In particular, gathering multiple ratings of perceptions across time is necessary to examine the degree to which people can accurately track changes in partners' emotions. The innovative statistical approach by West and Kenny (2011) also enables simultaneous assessment of directional bias and tracking accuracy. We followed the West and Kenny (2011) approach exactly, including centering perceivers' judgments on the grand mean (across sample average) of the partner's actual emotions (also see Overall et al., 2012; West et al., 2014). The resulting index of directional bias represented how much more negative the average (across sample) judgment was when partners' negative emotions were at average levels, which is directly comparable with most prior research that has examined mean-level discrepancies to assess bias in relationship perceptions (see Fletcher & Kerr, 2010; Gagne & Lydon, 2004). It is also consistent with our primary goal to examine between-person differences in bias when high versus low avoidant perceivers are faced with comparable levels of partners' negative emotions. However, an alternative approach involves centering on each partner's own mean (person mean). In
+
+this case, directional bias represents discrepancies from each partner's typical level of negative emotions and tracking accuracy represents the degree to which perceivers' judgments vary as their partner's emotions shift around that partner's typical emotions. An advantage of a person-centered approach is that it isolates withindyad from between-dyad processes, thereby ensuring any differences in tracking accuracy are not due to other between-dyad factors, such as differences in couples' general emotional climate (Bolger & Laurenceau, 2013). The results across the present studies were similar using either centering strategy (see Footnotes 3 and 8). Nonetheless, which centering strategy is most appropriate for the specific research goals and context under examination needs to be carefully considered in future investigations.
+Average levels of directional bias and tracking accuracy might also vary across different contexts. For example, despite the advantages of assessing perceptions as dyadic interactions and daily life occur across time, the relatively discrete nature of judging emotions within portions of conflict discussions (Study 1) and across specific days (Study 2) might enhance tracking accuracy and/or reduce the degree to which typical relationship-enhancing motives produce positively biased relationship evaluations (see Gagne & Lydon, 2004). When more global perceptions are gathered, such as judgments regarding partners' general levels of negative emotions, perceivers might be more likely to underestimate partners' negative emotions to sustain positive views of their relationship (rather than the tendency for overestimation shown in the current studies; also see Neff & Karney, 2002). However, global judgments also provide more room for beliefs and expectations to infiltrate perceptions, and thus should result in even greater negative bias for highly avoidant perceivers. Moreover, specific judgments of traits and events in relationships also play an important role in the functioning of relationships (Neff & Karney, 2005) as well as determine how perceivers respond during conflict discussions and daily relationship exchanges with their partner (as illustrated by the hostile and defensive responses shown in the current studies).
+However, as is the case when assessing any perceptions, we asked participants to make judgments that they may not have spontaneously made on their own. This could mean that highly avoidant people are capable of tracking accuracy, but do not normally attend to changes in their partner's emotions as sensitively when not prompted to do so. However, if that were true, it would be likely that when encouraged to make those judgments, avoidant perceivers would exhibit somewhat poorer performance, particularly in daily ratings when they are not given additional access to their partner's reactions (which occurred during the review procedure of Study 1). Moreover, the defensive responses that were activated when they perceived their partner's to be experiencing high (but not low) levels of negative emotions provide additional evidence that highly avoidant people do notice when their partners are experiencing higher versus lower levels of negative emotions.
+Of course, there are other ways in which the processing of relationship information can be inaccurate, including the extent to which the meaning and source of negative emotions (and other relationship events) are interpreted and explained. For example, detecting negative emotions may typically cause perceivers to search for the meaning-- and consider the likely consequences-- of their partner's negative emotions, but highly avoidant perceivers may defensively suppress
+
+746 OVERALL, FLETCHER, SIMPSON, AND FILLO
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+this type of in-depth information processing. Failing to engage in these processes may explain why highly avoidant individuals' descriptions of their partner's thoughts and feelings are less consistent with the corresponding descriptions provided by their partners (Simpson et al., 2011): Their accounts describe their partner's thoughts and feelings more negatively than is justified (consistent with the directional bias shown in the current studies), but their accounts may also lack insight into the actual source or cause of their partner's negative emotions. Combining the methods we used with paradigms that collect more descriptive information (e.g., Simpson et al., 2011) and assess memories of events (e.g., Gentzler & Kerns, 2006) could isolate additional ways in which attachment insecurity influences relationship knowledge, including suppressed versus ruminative information seeking and meaning-making, and the operation of distinct biases across different processing tasks (e.g., perceiving, explaining, and remembering).
+Finally, we focused on perceptions of romantic partner's emotions because these judgments are critical to good relationship functioning (Clark et al., 2001; Fischer & Manstead, 2008; Keltner & Haidt, 1999; van Kleef, 2010) and because difficulties in dealing with and regulating emotions lies at the core of attachment insecurity (Mikulincer & Shaver, 2003; Simpson & Rholes, 2012). We also focused on perceptions of negative, rather than positive, emotions because attachment theory makes clearer predictions about how people with different attachment orientations are likely to perceive negative emotions during threatening contexts (see Bowlby, 1969; Mikulincer & Shaver, 2003; Simpson & Rholes, 1994). Similar results might emerge with respect to perceptions of partner's positive emotions. In particular, because the partner's happiness is more weakly tied to avoidant individuals' own personal goals and aspirations (Mikulincer & Shaver, 2005) and avoidant people envision fewer benefits in potentially rewarding (positive) relationship contexts (Gere, MacDonald, Joel, Spielmann, & Impett, 2013), they may perceive their partner's positive emotions as less positive than their partner's actual experience (displaying directional bias). Such negatively skewed perceptions could foster evaluations of fewer (or less valuable) rewards in their relationships, which in turn might maintain lower levels of commitment (Gere et al., 2013).
+Highly anxious perceivers may show a different, and more complicated, pattern. Anxious individuals' desire for closeness may mean that they attend more to their partner's positive emotions, but given their tendency to ruminate about possible relationship loss, their partner's positive emotions may also pose greater threat to anxious perceivers (Gere et al., 2013), particularly if their partner's positive feelings are elicited by sources external to the relationship. These opposing concerns and motivations may produce null effects, just as we found in the current studies. In contrast, as discussed above, judgments that activate fears of rejection without also fulfilling cravings for emotional closeness may trigger more vigilant tracking accuracy and negative biases in highly anxious perceivers. Moreover, we suspect that the wider relational context also influences these processes. For example, highly anxious perceivers' may display higher tracking accuracy and more negatively biased judgments when they believe their partner is not sufficiently committed to them and their relationship is on shaky ground. Disentangling tracking accuracy and directional bias across other important attachment-relevant judgments and contexts is another important goal for future research.
+
+Conclusions
+Understanding an intimate partner's emotions is critical because emotions signal intentions and likely actions, and they provide diagnostic information about how to respond. By gathering multiple assessments of perceptions and associated benchmarks across couples' conflict discussions and daily lives, the current studies revealed that highly avoidant individuals were just as accurate at detecting shifts in their partner's negative emotions as less avoidant individuals, but they consistently overestimated the intensity of their partner's negative emotions to a greater extent than less avoidant individuals. In addition, when highly avoidant individuals perceived their partners were experiencing more negative emotions, they reacted with more hostile and defensive behavior. These results highlight the importance of biased perceptions as people deal with the ongoing flux of emotions in dyadic interactions, and they reveal that partners' emotions and biased perceptions assume a critical role in activating avoidant defenses.
+References
+Baker, L. T., McNulty, J., & Overall, N. C. (2014). When negative emotions benefit relationships. In W. G. Parrott (Ed.), The positive side of negative emotions (pp. 101-125). New York, NY: Guilford Press.
+Baldwin, M. W. (1992). Relational schemas and the processing of social information. Psychological Bulletin, 112, 461- 484. http://dx.doi.org/ 10.1037/0033-2909.112.3.461
+Bolger, N., & Laurenceau, J. P. (2013). Intensive longitudinal methods: An introduction to diary and experience sampling research. New York, NY: Guilford Press.
+Bouthillier, D., Julien, D., Dube, M., Belanger, I., & Hamelin, M. (2002). Predictive validity of adult attachment measures in relation to emotion regulation behaviors in marital interactions. Journal of Adult Development, 9, 291-305. http://dx.doi.org/10.1023/A:1020291011587
+Bowlby, J. (1969). Attachment and loss: Vol. 1. Attachment. New York, NY: Basic Books.
+Bowlby, J. (1973). Attachment and loss: Vol. 2. Separation. New York, NY: Basic Books.
+Bowlby, J. (1980). Attachment and loss: Vol. 3. Loss. New York, NY: Basic Books.
+Bretherton, I., & Munholland, K. A. (1999). Internal working models in attachment relationships: A construct revisited. In J. Cassidy & P. R. Shaver (Eds.), Handbook of attachment: Theory, research and clinical applications (pp. 89 -111). New York, NY: Guilford Press.
+Campbell, L., Simpson, J. A., Boldry, J., & Kashy, D. A. (2005). Perceptions of conflict and support in romantic relationships: The role of attachment anxiety. Journal of Personality and Social Psychology, 88, 510 -531. http://dx.doi.org/10.1037/0022-3514.88.3.510
+Canary, D. J., Spitzberg, B. H., & Semic, B. A. (1998). The experience and expression of anger in interpersonal settings. In P. A. Andersen & L. K. Guerrero (Eds.), Handbook of communication and emotion: Research, theory, applications, and contexts (pp. 189 -213). San Diego, CA: Academic Press.
+Clark, M. S., Fitness, J., & Brissette, I. (2001). Understanding people's perceptions of relationships is crucial to understanding their emotional lives. In G. Fletcher & M. S. Clark (Eds.), Blackwell handbook of social psychology: Interpersonal processes (pp. 253-278). Oxford, UK: Blackwell.
+Cohan, C. L., & Bradbury, T. N. (1997). Negative life events, marital interaction, and the longitudinal course of newlywed marriage. Journal of Personality and Social Psychology, 73, 114 -128. http://dx.doi.org/ 10.1037/0022-3514.73.1.114
+
+ATTACHMENT INSECURITY AND PERCEPTIONS OF EMOTIONS
+
+747
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Collins, N. L. (1996). Working models of attachment: Implications for explanation, emotion and behavior. Journal of Personality and Social Psychology, 71, 810 - 832. http://dx.doi.org/10.1037/0022-3514.71.4 .810
+Collins, N. L., & Allard, L. A. (2001). Cognitive representations of attachment: The content and function of working models. In G. J. O. Fletcher & M. Clark (Eds.), Blackwell handbook of social psychology: Interpersonal processes (pp. 60 - 85). London, UK: Blackwell.
+Collins, N. L., & Feeney, B. C. (2000). A safe haven: An attachment theory perspective on support seeking and caregiving in intimate relationships. Journal of Personality and Social Psychology, 78, 1053-1073. http://dx .doi.org/10.1037/0022-3514.78.6.1053
+Collins, N. L., & Feeney, B. C. (2004). Working models of attachment shape perceptions of social support: Evidence from experimental and observational studies. Journal of Personality and Social Psychology, 87, 363-383. http://dx.doi.org/10.1037/0022-3514.87.3.363
+Collins, N. L., Ford, M. B., Guichard, A. C., & Allard, L. M. (2006). Working models of attachment and attribution processes in intimate relationships. Personality and Social Psychology Bulletin, 32, 201-219. http://dx.doi.org/10.1177/0146167205280907
+Cooper, R. M., Rowe, A. C., Penton-Voak, I. S., & Ludwig, C. (2009). No reliable effects of emotional facial expression, adult attachment orientation, or anxiety on the allocation of visual attention in the spatial cueing paradigm. Journal of Research in Personality, 43, 643- 652. http://dx.doi.org/10.1016/j.jrp.2009.03.005
+Creasey, G. (2002). Association between working models of attachment and conflict management behavior in romantic couples. Journal of Counseling Psychology, 49, 365-375.
+de Melo, C. M., Carnevale, P. J., Read, S. J., & Gratch, J. (2013). Reading people's minds from emotion expressions in interdependent decision making. Journal of Personality and Social Psychology. Advance online publication.
+Dewitte, M. (2011). Adult attachment and attentional inhibition of interpersonal stimuli. Cognition and Emotion, 25, 612- 625. http://dx.doi.org/ 10.1080/02699931.2010.508683
+Dewitte, M., & De Houwer, J. (2008). Adult attachment and attention to positive and negative emotional face expressions. Journal of Research in Personality, 42, 498 -505. http://dx.doi.org/10.1016/j.jrp.2007.07.010
+Diamond, L. M., Hicks, A. M., & Otter-Henderson, K. (2006). Physiological evidence for repressive coping among avoidantly attached adults. Journal of Social and Personal Relationships, 23, 205-229. http://dx .doi.org/10.1177/0265407506062470
+Dykas, M. J., & Cassidy, J. (2011). Attachment and the processing of social information across the life span: Theory and evidence. Psychological Bulletin, 137, 19 - 46. http://dx.doi.org/10.1037/a0021367
+Edelstein, R. S. (2006). Attachment and emotional memory: Investigating the source and extent of avoidant memory impairments. Emotion, 6, 340 -345.
+Edelstein, R. S., & Gillath, O. (2008). Avoiding interference: Adult attachment and emotional processing biases. Personality and Social Psychology Bulletin, 34, 171-181. http://dx.doi.org/10.1177/ 0146167207310024
+Feeney, J. A., Noller, P., & Callan, V. J. (1994). Attachment style, communication and satisfaction in the early years of marriage. In K. Bartholomew & D. Perlman (Eds.), Attachment processes in adulthood: Vol. 5. Advances in personal relationships (pp. 269 -308). London: Jessica Kingsley.
+Fischer, A. H., & Manstead, A. S. R. (2008). Social functions of emotion. Handbook of emotions (3rd ed., pp. 456 - 468). New York, NY: Guilford Press.
+Fletcher, G. J. O., & Kerr, P. S. G. (2010). Through the eyes of love: Reality and illusion in intimate relationships. Psychological Bulletin, 136, 627- 658. http://dx.doi.org/10.1037/a0019792
+
+Fraley, R. C., & Brumbaugh, C. C. (2007). Adult attachment and preemptive defenses: Converging evidence on the role of defensive exclusion at the level of encoding. Journal of Personality, 75, 1033-1050. http://dx .doi.org/10.1111/j.1467-6494.2007.00465.x
+Fraley, R. C., Garner, J. P., & Shaver, P. R. (2000). Adult attachment and the defensive regulation of attention and memory: Examining the role of preemptive and postemptive defensive processes. Journal of Personality and Social Psychology, 79, 816 - 826. http://dx.doi.org/10.1037/00223514.79.5.816
+Fraley, R. C., Niedenthal, P. M., Marks, M., Brumbaugh, C., & Vicary, A. (2006). Adult attachment and the perception of emotional expressions: Probing the hyperactivating strategies underlying anxious attachment. Journal of Personality, 74, 1163-1190. http://dx.doi.org/10.1111/j .1467-6494.2006.00406.x
+Fraley, R. C., & Shaver, P. R. (1998). Airport separations: A naturalistic study of adult attachment dynamics in separating couples. Journal of Personality and Social Psychology, 75, 1198 -1212. http://dx.doi.org/ 10.1037/0022-3514.75.5.1198
+Gadassi, R., Mor, N., & Rafaeli, E. (2011). Depression and empathic accuracy in couples: An interpersonal model of gender differences in depression. Psychological Science, 22, 1033-1041. http://dx.doi.org/ 10.1177/0956797611414728
+Gagne, F. M., & Lydon, J. E. (2004). Bias and accuracy in close relationships: An integrative review. Personality and Social Psychology Review, 8, 322-338. http://dx.doi.org/10.1207/s15327957pspr0804_1
+Gaines, S. O., Jr., Reis, H. T., Summers, S., Rusbult, C. E., Cox, C. L., Wexler, M. O., Marelich, W. D., & Kurland, G. J. (1997). Impact of attachment style on reactions to accommodative dilemmas in close relationships. Personal Relationships, 4, 93-113.
+Gallo, L. C., & Smith, T. W. (2001). Attachment style in marriage: Adjustment and responses to interaction. Journal of Social and Personal Relationships, 18, 263-289. http://dx.doi.org/10.1177/0265407501182006
+Gentzler, A., & Kerns, K. (2006). Adult attachment and memory of emotional reactions to negative and positive events. Cognition and Emotion, 20, 22- 42. http://dx.doi.org/10.1080/02699930500200407
+Gere, J., MacDonald, G., Joel, S., Spielmann, S. S., & Impett, E. A. (2013). The independent contributions of social reward and threat perceptions to romantic commitment. Journal of Personality and Social Psychology, 105, 961-977. http://dx.doi.org/10.1037/a0033874
+Gottman, J. M. (1998). Psychology and the study of marital processes. Annual Review of Psychology, 49, 169 -197. http://dx.doi.org/10.1146/ annurev.psych.49.1.169
+Gottman, J. M., & Krokoff, L. J. (1989). Marital interaction and satisfaction: A longitudinal view. Journal of Consulting and Clinical Psychology, 57, 47-52. http://dx.doi.org/10.1037/0022-006X.57.1.47
+Gouin, J. P., Glaser, R., Loving, T. J., Malarkey, W. B., Stowell, J., Houts, C., & Kiecolt-Glaser, J. K. (2009). Attachment avoidance predicts inflammatory responses to marital conflict. Brain, Behavior, and Immunity, 23, 898 -904. http://dx.doi.org/10.1016/j.bbi.2008.09.016
+Guerrero, L. K. (1998). Attachment-style differences in the experiences and expression of romantic jealousy. Personal Relationships, 5, 273- 291. http://dx.doi.org/10.1111/j.1475-6811.1998.tb00172.x
+Hareli, S., & Hess, U. (2012). The social signal value of emotions. Cognition and Emotion, 26, 385-389. http://dx.doi.org/10.1080/ 02699931.2012.665029
+Haselton, M. G., & Buss, D. M. (2000). Error management theory: A new perspective on biases in cross-sex mind reading. Journal of Personality and Social Psychology, 78, 81-91. http://dx.doi.org/10.1037/0022-3514 .78.1.81
+Heavey, C. L., Layne, C., & Christensen, A. (1993). Gender and conflict structure in marital interaction: A replication and extension. Journal of Consulting and Clinical Psychology, 61, 16 -27. http://dx.doi.org/ 10.1037/0022-006X.61.1.16
+
+748 OVERALL, FLETCHER, SIMPSON, AND FILLO
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Howland, M., & Rafaeli, E. (2010). Bringing everyday mind reading into everyday life: Assessing empathic accuracy with daily diary data. Journal of Personality, 78, 1437-1468. http://dx.doi.org/10.1111/j.14676494.2010.00657.x
+Ickes, W. (2001). Measuring empathic accuracy. In J. A. Hall & F. J. Bernieri (Eds.), Interpersonal sensitivity: Theory and measurement (pp. 219 -241). Mahwah, NJ: Erlbaum.
+Keltner, D., & Haidt, J. (1999). Social functions of emotions at four levels of analysis. Cognition and Emotion, 13, 505-521. http://dx.doi.org/ 10.1080/026999399379168
+Kenny, D. A., & Acitelli, L. K. (2001). Accuracy and bias in the perception of the partner in a close relationship. Journal of Personality and Social Psychology, 80, 439 - 448. http://dx.doi.org/10.1037/0022-3514.80.3 .439
+Kenny, D. A., Kashy, D. A., & Cook, W. L. (2006). Dyadic data analysis. New York, NY: Guilford Press.
+Lemay, E. P., Jr., Overall, N. C., & Clark, M. S. (2012). Experiences and interpersonal consequences of hurt feelings and anger. Journal of Personality and Social Psychology, 103, 982-1006. http://dx.doi.org/ 10.1037/a0030064
+McNulty, J. K., & Russell, V. M. (2010). When "negative" behaviors are positive: A contextual analysis of the long-term effects of problemsolving behaviors on changes in relationship satisfaction. Journal of Personality and Social Psychology, 98, 587- 604. http://dx.doi.org/ 10.1037/a0017479
+Mikulincer, M. (1998). Adult attachment style and individual differences in functional versus dysfunctional experiences of anger. Journal of Personality and Social Psychology, 74, 513-524. http://dx.doi.org/10.1037/ 0022-3514.74.2.513
+Mikulincer, M., & Florian, V. (1998). The relationship between adult attachment styles and emotional and cognitive reactions to stressful events. In J. A. Simpson & W. S. Rholes (Eds.), Attachment theory and close relationships (pp. 143-165). New York: Guilford Press.
+Mikulincer, M., Gillath, O., & Shaver, P. R. (2002). Activation of the attachment system in adulthood: Threat-related primes increase the accessibility of mental representations of attachment figures. Journal of Personality and Social Psychology, 83, 881- 895.
+Mikulincer, M., & Orbach, I. (1995). Attachment styles and repressive defensiveness: The accessibility and architecture of affective memories. Journal of Personality and Social Psychology, 68, 917-925. http://dx .doi.org/10.1037/0022-3514.68.5.917
+Mikulincer, M., & Shaver, P. R. (2003). The attachment behavioral system in adulthood: Activation, psychodynamics, and interpersonal processes. Advances in Experimental Social Psychology, 35, 53-152. http://dx.doi .org/10.1016/S0065-2601(03)01002-5
+Mikulincer, M., & Shaver, P. R. (2005). Attachment theory and emotions in close relationships: Exploring the attachment-related dynamics of emotional reactions to relational events. Personal Relationships, 12, 149 -168. http://dx.doi.org/10.1111/j.1350-4126.2005.00108.x
+Mikulincer, M., Shaver, P. R., Bar-On, N., & Ein-Dor, T. (2010). The pushes and pulls of close relationships: Attachment insecurities and relational ambivalence. Journal of Personality and Social Psychology, 74, 513-524.
+Murray, S. L., & Holmes, J. G. (2009). The architecture of interdependent minds: A Motivation-management theory of mutual responsiveness. Psychological Review, 116, 908 -928. http://dx.doi.org/10.1037/ a0017015
+Neff, L. A., & Karney, B. R. (2002). Judgments of a relationship partner: Specific accuracy but global enhancement. Journal of Personality, 70, 1079 -1112. http://dx.doi.org/10.1111/1467-6494.05032
+Neff, L. A., & Karney, B. R. (2005). To know you is to love you: The implications of global adoration and specific accuracy for marital relationships. Journal of Personality and Social Psychology, 88, 480 - 497.
+
+Niedenthal, P. M., Brauer, M., Robin, L., & Innes-Ker, A. H. (2002). Adult attachment and the perception of facial expression of emotion. Journal of Personality and Social Psychology, 82, 419 - 433. http://dx.doi.org/ 10.1037/0022-3514.82.3.419
+Noller, P., & Feeney, J. A. (1994). Relationship satisfaction, attachment, and nonverbal accuracy in early marriage. Journal of Nonverbal Behavior, 18, 199 -221. http://dx.doi.org/10.1007/BF02170026
+Overall, N. C., Fletcher, G. J. O., & Kenny, D. A. (2012). When bias and insecurity promote accuracy: Mean-level bias and tracking accuracy in couples' conflict discussions. Personality and Social Psychology Bulletin, 38, 642- 655. http://dx.doi.org/10.1177/0146167211432764
+Overall, N. C., Fletcher, G. J. O., Simpson, J. A., & Sibley, C. G. (2009). Regulating partners in intimate relationships: The costs and benefits of different communication strategies. Journal of Personality and Social Psychology, 96, 620 - 639. http://dx.doi.org/10.1037/a0012961
+Overall, N. C., Girme, Y. U., Lemay, E. P., Jr., & Hammond, M. D. (2014). Attachment anxiety and reactions to relationship threat: The benefits and costs of inducing guilt in romantic partners. Journal of Personality and Social Psychology, 106, 235-256. http://dx.doi.org/10.1037/a0034371
+Overall, N. C., & Hammond, M. D. (2013). Biased and accurate: Depressive symptoms and daily perceptions within intimate relationships. Personality and Social Psychology Bulletin, 39, 636 - 650. http://dx.doi.org/ 10.1177/0146167213480188
+Overall, N. C., & Sibley, C. G. (2009). Attachment and dependence regulation within daily interactions with romantic partners. Personal Relationships, 16, 239 -261. http://dx.doi.org/10.1111/j.1475-6811.2009 .01221.x
+Overall, N. C., & Sibley, C. G. (2010). Convergent and discriminant validity of the accommodation scale: Evidence from three diary studies. Personality and Individual Differences, 48, 299 -304. http://dx.doi.org/ 10.1016/j.paid.2009.10.020
+Overall, N. C., Sibley, C. G., & Tan, R. (2011). The costs and benefits of sexism: Resistance to influence during relationship conflict. Journal of Personality and Social Psychology, 101, 271-290. http://dx.doi.org/ 10.1037/a0022727
+Overall, N. C., Simpson, J. A., & Struthers, H. (2013). Buffering attachment-related avoidance: Softening emotional and behavioral defenses during conflict discussions. Journal of Personality and Social Psychology, 104, 854 - 871. http://dx.doi.org/10.1037/a0031798
+Pietromonaco, P. R., & Feldman Barrett, L. (1997). Working models of attachment and daily social interactions. Journal of Personality and Social Psychology, 73, 1409 -1423. http://dx.doi.org/10.1037/0022-3514 .73.6.1409
+Pistole, M. C. (1989). Attachment in adult romantic relationships: Style of conflict resolution and relationship satisfaction. Journal of Social and Personal Relationships, 6, 505-510. http://dx.doi.org/10.1177/ 0265407589064008
+Rholes, W. S., Simpson, J. A., & Orina, M. M. (1999). Attachment and anger in an anxiety-provoking situation. Journal of Personality and Social Psychology, 76, 940 -957. http://dx.doi.org/10.1037/0022-3514 .76.6.940
+Rholes, W. S., Simpson, J. A., Tran, S., Martin, A. M., III, & Friedman, M. (2007). Attachment and information seeking in romantic relationships. Personality and Social Psychology Bulletin, 33, 422- 438. http://dx.doi .org/10.1177/0146167206296302
+Roisman, G. I., Holland, A., Fortuna, K., Fraley, R. C., Clausell, E., & Clarke, A. (2007). The Adult Attachment Interview and self-reports of attachment style: An empirical rapprochement. Journal of Personality and Social Psychology, 92, 678 - 697. http://dx.doi.org/10.1037/00223514.92.4.678
+Rusbult, C. E., Martz, J. M., & Agnew, C. R. (1998). The investment model scale: Measuring commitment level, satisfaction level, quality of alternatives, and investment size. Personal Relationships, 5, 357-391.
+
+ATTACHMENT INSECURITY AND PERCEPTIONS OF EMOTIONS
+
+749
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Scharfe, E., & Bartholomew, K. (1995). Accommodation and attachment representations in young couples. Journal of Social and Personal Relationships, 12, 389 - 401.
+Simpson, J. A., Ickes, W., & Grich, J. (2002). When accuracy hurts: Reactions of anxious-ambivalent dating partners to a relationshipthreatening situation. Personality and Social Psychology Bulletin, 76, 754 -769.
+Simpson, J. A., Kim, J. S., Fillo, J., Ickes, W., Rholes, W. S., Orina, M. M., & Winterheld, H. A. (2011). Attachment and the management of empathic accuracy in relationship-threatening situations. Personality and Social Psychology Bulletin, 37, 242-254. http://dx.doi.org/10.1177/ 0146167210394368
+Simpson, J. A., & Rholes, W. S. (1994). Stress and secure base relationships in adulthood. In K. Bartholomew & D. Perlman (Eds.), Advances in personal relationships: Vol. 5. Attachment processes in adulthood (pp. 181-204). London, UK: Kingsley.
+Simpson, J. A., & Rholes, W. S. (2012). Advances in experimental social psychology. In T. Devine & A. Plante (Eds.), Adult attachment orientations, stress, and romantic relationships (Vol. 45, pp. 279 -328). New York, UK: Elsevier. http://dx.doi.org/10.1016/B978-0-12-394286-9 .00006-8
+Simpson, J. A., Rholes, W. S., & Nelligan, J. S. (1992). Support-seeking and support-giving within couples in an anxiety-provoking situation: The role of attachment styles. Journal of Personality and Social Psychology, 62, 434 - 446. http://dx.doi.org/10.1037/0022-3514.62.3.434
+Simpson, J. A., Rholes, W. S., Orina, M. M., & Grich, J. (2002). Working models of attachment, support giving, and support seeking in a stressful situation. Personality and Social Psychology Bulletin, 28, 598 - 608. http://dx.doi.org/10.1177/0146167202288004
+Simpson, J. A., Rholes, W. S., & Phillips, D. (1996). Conflict in close relationships: An attachment perspective. Journal of Personality and Social Psychology, 71, 899 -914. http://dx.doi.org/10.1037/0022-3514 .71.5.899
+Simpson, J. A., Winterheld, H. A., Rholes, W. S., & Orina, M. M. (2007). Working models of attachment and reactions to different forms of caregiving from romantic partners. Journal of Personality and Social Psychology, 93, 466 - 477. http://dx.doi.org/10.1037/0022-3514.93.3 .466
+
+Summer, N., & Cozzarelli, C. (2004). The impact of adult attachment on partner and self-attributions and relationship quality. Personal Relationships, 11, 355-371.
+Tan, R., Overall, N. C., & Taylor, J. K. (2012). Let's talk about us: Attachment, relationship-focused disclosure, and relationship quality. Personal Relationships, 19, 521-534. http://dx.doi.org/10.1111/j.14756811.2011.01383.x
+Tidwell, M. C., Reis, H. T., & Shaver, P. R. (1996). Attachment, attractiveness, and social interaction: A diary study. Journal of Personality and Social Psychology, 71, 729 -745. http://dx.doi.org/10.1037/00223514.71.4.729
+Tran, S., & Simpson, J. A. (2009). Prorelationship maintenance behaviors: The joint roles of attachment and commitment. Journal of Personality and Social Psychology, 97, 685- 698. http://dx.doi.org/10.1037/ a0016418
+Tucker, J. S., & Anders, S. L. (1999). Attachment style, interpersonal perception accuracy, and relationship satisfaction. Personality and Social Psychology Bulletin, 25, 403- 412. http://dx.doi.org/10.1177/ 0146167299025004001
+van Kleef, G. A. (2010). The emerging view of emotion as social information. Social and Personality Psychology Compass, 4, 331-343.
+Welsh, D. P., & Dickson, J. W. (2005). Video-recall procedures for examining subjective understanding in observational data. Journal of Family Psychology, 19, 62-71.
+West, T. V., Dovidio, J. F., & Pearson, A. R. (2014). Accuracy and bias in perceptions of relationship interest for intergroup and intragroup roommates. Social Psychological & Personality Science, 5, 235-242. http:// dx.doi.org/10.1177/1948550613490966
+West, T. V., & Kenny, D. A. (2011). The truth and bias model of judgment. Psychological Review, 118, 357-378. http://dx.doi.org/10.1037/ a0022936
+Whisman, M. A., & Allan, L. E. (1996). Attachment and social cognition theories of romantic relationships: Convergent or complementary perspectives? Journal of Social and Personal Relationships, 13, 263-278. http://dx.doi.org/10.1177/0265407596132006
+Received December 22, 2013 Revision received January 27, 2015
+Accepted February 3, 2015 
+
+

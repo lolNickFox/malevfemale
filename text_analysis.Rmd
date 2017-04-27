@@ -29,20 +29,26 @@ library("stringr")
 options(stringsAsFactors = FALSE)
 
 #set wd
-setwd("~/Dropbox/papers/male")
+setwd("/Users/Nick_Fox/Dropbox/GitHub_master/data/malevfemale")
 
 ```
 
 ```{r}
 
-male_words1 <- readr::read_lines("Aragones characterization of hispanic population in health research.txt")
+male_words1 <- readr::read_lines("male/Aragones characterization of hispanic population in health research.txt")
+male_words2 <- readr::read_lines("male/Areheart 2008 When Disability Isnt Just Right- The Entrenchment of the Medic.txt")
+male_words3 <- readr::read_lines("male/Baerlocher 2010 data integrity and fraud in medical research.txt")
+male_words4 <- readr::read_lines("male/Bandura SCT of mass communication.txt")
+male_words5 <- readr::read_lines("male/Banglawala 2015 recent randomized controlled trials in otolaryngology.txt")
 
-male_words2 <- readr::read_lines("Areheart 2008 When Disability Isnt Just Right- The Entrenchment of the Medic.txt")
+mwords1 <- tidy(male_words1)
+mwords2 <- tidy(male_words2)
+mwords3 <- tidy(male_words3)
+mwords4 <- tidy(male_words4)
+mwords5 <- tidy(male_words5)
 
-words1 <- tidy(male_words1)
-words2 <- tidy(male_words2)
-
-words <- dplyr::bind_rows(words1, words2)
+words <- dplyr::bind_rows(mwords1, mwords2, mwords3, mwords4, mwords5, .id = "id") %>% 
+  mutate(gender = "male")
 
 tidy_words <- words %>%
   unnest_tokens(word, x)
@@ -51,11 +57,33 @@ data("stop_words")
 tidy_words <- tidy_words %>%
   anti_join(stop_words)
 
-tidy_words <- tidy_words %>% 
+tidy_words %>% 
   dplyr::count(word, sort = TRUE)
 
 
 
 ```
 
+
+```{r}
+
+library(tidyr)
+bing <- sentiments %>%
+        filter(lexicon == "bing") %>%
+        select(-score)
+
+
+word_sentiment <- tidy_words %>%
+  inner_join(bing) %>% 
+  dplyr::count(id, word, gender, sentiment, sort = TRUE) %>% 
+  spread(sentiment, n, fill = 0) %>% 
+  mutate(sentiment = positive - negative)
+  
+
+word_sentiment %>%
+  summary(avr_sentiment = mean(sentiment))
+
+
+
+```
 

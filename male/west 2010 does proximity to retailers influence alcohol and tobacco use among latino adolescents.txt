@@ -1,0 +1,270 @@
+J Immigrant Minority Health (2010) 12:626-633 DOI 10.1007/s10903-009-9303-2
+ORIGINAL PAPER
+Does Proximity to Retailers Influence Alcohol and Tobacco Use Among Latino Adolescents?
+Joshua H. West * Elaine J. Blumberg * Norma J. Kelley * Linda Hill * Carol L. Sipan * Katherine E. Schmitz * Sherry Ryan * John D. Clapp * Melbourne F. Hovell
+
+Published online: 20 November 2009 O The Author(s) 2009. This article is published with open access at Springerlink.com
+
+Abstract Despite decades of research surrounding determinants of alcohol and tobacco (A&T) use among adolescents, built environment influences have only recently been explored. This study used ordinal regression on 205 Latino adolescents to explore the influence of the built environment (proximity to A&T retailers) on A&T use, while controlling for recognized social predictors. The sample was 45% foreign-born. A&T use was associated with distance from respondents' home to the nearest A&T retailer (-), acculturation (?), parents' consistent use of contingency management (-), peer use of A&T (?), skipping school (?), attending school in immediate proximity to the US/Mexico border (?), and the interaction between the distance to the nearest retailer and parents' consistent use of contingency management (?). The association between decreasing distance to the nearest A&T retailer and
+J. H. West (&) Department of Health Science, Brigham Young University, 229-L Richards Building, Provo, UT 84602, USA e-mail: josh.west@byu.edu
+E. J. Blumberg A N. J. Kelley A L. Hill A C. L. Sipan A K. E. Schmitz A M. F. Hovell Center for Behavioral Epidemiology and Community Health, San Diego State University, San Diego, CA, USA
+L. Hill Department of Family and Preventive Medicine, University of California, San Diego, CA, USA
+S. Ryan School of Public Affairs, San Diego State University, San Diego, CA, USA
+J. D. Clapp School of Social Work, San Diego State University, San Diego, CA, USA
+
+increased A&T use in Latino adolescents reveals an additional risk behavior determinant in the US-Mexico border region.
+Keywords GIS A Alcohol use A Tobacco use A Built environment A Latinos A Adolescents
+Introduction
+Adolescent alcohol and tobacco (A&T) use continues to be a serious problem. Decades of research have identified significant individual and social-level predictors of both A&T use. However, ecological influences have only recently been explored. Recent advancements in software programs that use geographic information systems (GIS) technology [1] provide the necessary tools for innovative exploratory analyses of ecological influences on A&T use.
+Results from recent studies that have used GIS technology point to an association between retailer presence and risk behaviors [2-8]. Focusing on A&T retailers to better understand adolescents' use is an important strategy because adolescents frequently purchase A&T from retailers, though often illegally [9, 10]. Indeed, studies indicate it is easy for adolescents to buy both alcohol [11] and tobacco at local neighborhood stores [12].
+The distance between a retailer and adolescents' residence is important for reasons related to cost [8] and the risks associated with adolescents repeatedly observing the purchase and consumption of substances [13]. The first factor relates to cost, which includes transportation and travel time, in relation to disposable income [8]. Living close to a retailer would result in lower transportation costs, and less time spent traveling. This would be especially important for adolescents with limited resources.
+
+123
+
+J Immigrant Minority Health (2010) 12:626-633
+
+627
+
+Additionally, younger adolescents may have unreliable transportation and limited spending money. Use of multiple substances (alcohol and tobacco) may require more disposable income than would be true for youth who use only one substance, e.g., alcohol. Therefore, greater distance may decrease access for youth using multiple drugs.
+Second, the effects of retailer proximity may extend beyond availability of substances, and provide opportunities for modeling, imitation and social reinforcement for A&T purchase and/or use. Modeling is a known risk factor for substance use [13], and observing other people purchase and use A&T may prompt both purchasing and consumption.
+Despite the rationale for environmental approaches and evidence of environmental correlates associated with adolescent substance use [14-19], environmental prevention interventions remain limited in number. However, in recent years research in this area has begun integrating built environmental factors into analytical models that include social factors [2, 3, 7, 8, 20, 21]. This study builds upon past studies by estimating the influence of the structural environment, while controlling for the social environment. Structural environmental factors, as referred to in this study, are influences located in an individual's built environment and are thought to be not easily manipulated, e.g., presence of an A&T retailer. The purpose of this study was to examine the relationship between both structural and social environmental variables and A&T use. Furthermore, studies of this nature conducted among Latino adolescents are noticeably underrepresented in the literature [22].
+Methods
+
+Screening, Recruitment, and Informed Consent
+The sample of 225 Latino adolescents was recruited from seven high schools in south San Diego County. These schools were chosen because of their proximity to the United States (US)-Mexico border and were likely to result in greater likelihood for identifying students with latent tuberculosis infection (LTBI). Free tuberculosis (TB) screenings were offered at all seven schools. The medication adherence trial was presented to all students that had a positive tuberculin skin test. In order to be eligible for the trial, participants had to test positive for LTBI, have a residential address in the US, and plan to receive their LTBI treatment in the US. Data were collected between 2004 and 2005. After obtaining informed consents and assents, trained bilingual staff completed a baseline interview in the participant's home.
+Participants
+The study sample was 50.4% female and 43.1% foreignborn. The participant mean age was 15.9 years (SD = 1.2; Range 13-19). Almost two-thirds of participants were bicultural (63.7%), 27.4% were non-acculturated or Hispanic, and 8.8% were assimilated.
+Measurement-Dependent Variable
+The primary dependent variable was a created index reflecting lifetime use of both A&T. Dichotomous interview questions separately asked respondents if they had ever used A&T. These variables were summed to form an index ranging from 0 to 2, with higher scores indicating more drugs used (Cronbach's Alpha = 0.76).
+
+Study Design
+
+Measurement-Questionnaire Variables
+
+This study was part of a larger randomized controlled trial evaluating the effectiveness of a 14 session counseling intervention designed to increase medication adherence in a sample of Latino adolescents living in the San Diego- Tijuana border region. Peer counselors delivered the sessions during the first 4 months of a 9-month treatment. Contingency management and goal setting comprised the content of the intervention sessions. The control group completed the same number of sessions, but the content was unrelated to medication adherence. For the current study, baseline data from the trial regarding demographics, social environmental variables, and A&T use were used to: (1) Assess the association between neighborhood characteristics and distance to the nearest A&T retailer; and (2) Test the influence of variables from both the social and built environment on A&T use.
+
+Independent variables included age, gender, acculturation, parental consistency, school truancy, and peer modeling of A&T. The Bidimensional Acculturation Scale for Hispanics [23] was used to measure acculturation. This standardized acculturation measure (Cronbach's Alpha = 0.86 in current sample) consists of 24 questions primarily assessing language competence, including language use (e.g., How often do you speak English/Spanish?), linguistic proficiency (e.g., How well do you read in English/Spanish?), and electronic media use (e.g., How often do you listen to music in English/Spanish?). Each question had four possible responses: very poorly, poorly, well, or very well. The questions were separated into two domains, Hispanic (all items about Spanish usage) and non-Hispanic (all items about English usage), with 12 items in each. For each cultural domain, an average of the 12 items was
+
+123
+
+628 J Immigrant Minority Health (2010) 12:626-633
+
+calculated, obtaining a mean range of scores between 1 and 4. Scores on both domains were used to determine the level of acculturation. Acculturation categories were computed using a 2.5 cutoff score to indicate low or high level of adherence to each cultural domain. Individuals scoring higher than 2.5 in both domains were considered bicultural [23]. Adolescents scoring high in the Hispanic domain, but low in the non-Hispanic domain were coded non-acculturated. Likewise, a high score in the non-Hispanic domain combined with a low score in the Hispanic domain resulted in a coding of assimilated.
+Parents' child management procedures were measured by adolescents' perceived reports of the consistency of parents' use of rewards and punishment. This scale included three questions about the level of consistent use of parental rules, punishment, and rewards (Cronbach's a = 0.65). Individual item responses were based on a 5-point scale, 1 = very inconsistent to 5 = very consistent, resulting in a parental consistency scale ranging from 3 to 15.
+A measure of school truancy was also constructed. Respondents were asked how many times in the last year they had skipped or ditched school. This variable was dichotomized (0 = never, 1 = ever) in order to correct a positive skew.
+Peer modeling of A&T use was measured with the following two items: ``How many of your close friends have ever used cigarettes?'' and ``...ever used alcohol?'' These two variables were summed to create a peer modeling scale (Cronbach's a = 0.75).
+Measurement-GIS Variables
+Two variables representing the built environment were utilized in this study, proximity of the school to the border and distance to the nearest A&T retailer from the participant's home. Proximity of the school to the US/Mexico border distinguished between respondents enrolled at schools closest to the border, versus students from the remaining schools. All participating schools were within 10.5 miles of the border, but the three closest averaged 4.3 miles in distance, while the remaining four averaged 7.9 miles. This variable was included in analyses because of the high likelihood that those attending schools closest to the border also visit Mexico more frequently and are therefore exposed to less difficulty obtaining alcohol or tobacco [24, 25].
+The participant residential address was geocoded in ArcView 9.2. Geocoding refers to the process of creating a point along a roadway segment that defines the location of any given address. A quarter-mile street network buffer was then created around each participant's residential location or point. This buffer was intended to reflect the
+
+``walking neighborhood,'' or those locations where the participant could easily walk to access nearby A&T retailers. Currently no standard exists to define a buffer size that appropriately reflects ``neighborhood.'' However, given the typically limited travel choices of adolescents, the area within a 5-min walk of his/her home can reasonably be considered a highly accessible area. The quartermile distance was developed assuming a walking speed of 3.4 miles/h [26]. Buffers created using distances along the street network, such as that employed in the current study, exclude areas of the urban environment that are not accessible via roadways.
+US Census Bureau data were obtained from San Diego Geographic Information Source (SanGIS), and used to identify neighborhood characteristics. Items representing neighborhood characteristics were selected using an adaptation of an approach employed by Sampson et al. [27, 28] and primarily represent indicators of neighborhood poverty. The values used in this study were: (1) percentage of families living below the poverty level; (2) percentage of unemployment; (3) percentage of adults (25 and older) with a high school diploma; (4) percentage of owner occupied homes; (5) percentage of the population under 18 years of age; (6) percentage of homes headed by a single mother; and (7) percentage of Hispanics.
+The neighborhood characteristic variables from SanGIS were available by Census Block Groups (CBGs), a census geography that reflects aggregations of several Census Blocks. Since participant neighborhood buffers were irregular and did not fall exactly on the boundaries of the CBGs, it was necessary to estimate Census Bureau values within each participant's buffer using a method referred to as ``apportioning''. This procedure involves calculating the proportion of each CBG that overlaps with a neighborhood buffer and then using that percentage to factor each respective Census variable. For example, if a participant's neighborhood buffer included 25% of one CBG, 55% of another, and 20% of a third CBG, then these percentages were used to weight the census values associated with each CBG to develop a unique value more closely aligned with the boundaries of the neighborhood buffer. This approach to adjusting Census data (available only in limited geographies) reflects a unique, non-census geography.
+The San Diego County Department of Environmental Health, Food & Housing Division maintains a database of all county retailers that apply for food permits. This study analyzed retailers from the 2004 database. Stores that did not sell A&T were removed. The retailer address was geocoded using ArcView 9.2 and then used to measure the distance to the nearest retailer from each participant's residential location. Distance to the nearest retailer was calculated using the Network Analyst function in ArcView, which is capable of finding and then measuring the distance
+
+123
+
+J Immigrant Minority Health (2010) 12:626-633
+
+629
+
+of the shortest roadway path between a given participant's residential point and the nearest retailer point. This variable demonstrated a non-normal distribution (positive skew) and required square root transformations to reach normality.
+Analysis
+All statistical analyses were conducted using SPSS version 15.0. Pearson correlations were used to estimate the association between neighborhood indicators (community characteristics) and the distance from the participant's home and the nearest retailer. Ordinal regression was used to explore the influence of the built environment on A&T use, while controlling for hypothesized social predictors. A sample size of 205 (regression sample) was used for regression analyses and excluded adolescent responses with missing data, whereas other analyses utilized the entire sample of n = 225.
+Two interactions including distance to the nearest retailer were tested in the regression analyses: (1) parental consistency by distance to the nearest retailer; and (2) peer use of A&T by distance to the nearest retailer. The latter was not significant and therefore excluded from the final analysis.
+
+(n = 225) and regression subsample (n = 205). Table 2 presents descriptive information for the dependent variable. Sixty-two percent (61.8%) of the full sample was coded as attending school in closest proximity to the border. Thirtynine percent (38.7%) reported skipping school in the past year. Almost a third (29.3%) of the full sample reported no alcohol or tobacco use, 49.8% used alcohol only, and 20.9% used alcohol and tobacco. There were no significant differences between the full sample and the regression sample on any of the variables included in Tables 1 and 2.
+Correlation Between Neighborhood Characteristics and Distance to the Nearest Retailer
+Table 3 presents the correlation between neighborhood characteristics and distance to the nearest retailer. Increasing distance between a participant's home and the nearest retailer (i.e., moving further away) was significantly associated with a decrease in the percentage of families living below poverty, unemployment, population under 18 years of age, households headed by single mothers, percentage of Hispanics, and an increase in the percentage of adults (25 and older) with high school diplomas and the percentage of owner-occupied homes.
+
+Results
+Sample Characteristics
+Table 1 presents descriptive statistics for the eight independent variables included in our multivariate model (excluding our interaction term) for both the full sample
+
+Regression Results
+Table 4 displays the results of the ordinal regression analysis. Seven variables were significantly associated with increasing use of A&T: decreasing parental consistency (OR = 0.57; P \ .01), increasing acculturation (OR = 2.10; P \ .01), skipping school in the past year (OR = 2.01; P \ .01), peer modeling of A&T use (2.36; P \ .01),
+
+Table 1 Descriptives of potential determinants of alcohol and tobacco use
+Full sample n = 225
+
+Regression sample n = 205
+
+n (%)
+
+x" (SD; range)
+
+n (%)
+
+Age Peer models of alcohol and tobaccoa Parental consistency Foreign-born Female Proximity to border-Schoolb Skipped School in the past year Acculturation
+Hispanic Bicultural Assimilated
+
+97 (43.1) 114 (50.7) 140 (61.8) 88 (38.7)
+62 (27.1) 144 (64.0) 20 (8.9)
+
+15.9 (1.2; 14-19) 5.6 (7.7; 0-60)
+11.1 (2.3; 3-15)
+
+92 (44.9) 104 (50.7) 123 (60.0) 76 (37.1)
+56 (27.3) 131 (63.9) 18 (8.8)
+
+a Square root transformation used to correct positive skew: n = 225(2.5(1.2; 1-7.8)), n = 205(2.3(1.2; 1-7.8)) b Reflects students attending schools closes to the border
+
+x" (SD; range)
+15.9 (1.2; 14-19) 5.6 (7.7; 0-60)
+10.9 (2.3; 3-15)
+
+123
+
+630 Table 2 Reported use of alcohol and tobacco
+No respondent used tobacco without also using alcohol
+
+Number and type(s) of substance(s) used None Alcohol Alcohol ? tobacco
+
+J Immigrant Minority Health (2010) 12:626-633
+
+Full sample n = 225
+n (%) 66 (29.3) 112 (49.8) 47 (20.9)
+
+Regression sample n = 205
+n (%) 58 (28.3) 104 (50.7) 43 (21.0)
+
+Table 3 Correlations between distance to nearest retailer and neighborhood characteristics (n = 225)
+
+Variables
+
+12345
+
+6
+
+78
+
+1. % families below poverty 2. % unemployed 3. % high school grad., adults over 25 4. % owner occupied home 5. % of population under 18 6. % homes led by single mother 7. % Hispanics of total population 8. Distance to nearest retailera Mean Standard deviation
+
+- 0.33*** -0.66*** -0.62*** 0.54*** 0.65*** 0.62*** -0.33*** 0.18 0.11
+
+- -0.57*** -0.39***
+0.32*** 0.31*** 0.29*** -0.16* 0.05 0.02
+
+a Distance in feet; * P \ .05; ** P \ .01; *** P \ .001
+
+- 0.56*** -0.62*** -0.57*** -0.60*** 0.31*** 0.23 0.08
+
+- -0.50*** -0.78*** -0.50***
+0.40*** 0.48 0.27
+
+- 0.78*** 0.71*** -0.27*** 0.31 0.07
+
+- 0.71*** -0.28*** 0.18 0.07
+
+- -0.17*
+0.66 0.21
+
+- 1,925.76 1,581.33
+
+Table 4 Summary of regression analysis of alcohol and tobacco use (n = 205)
+
+Variable
+
+B
+
+Parental consistency Age Acculturation Gender-male Distance to the nearest retailera Border proximity Skipped school in past year Peer modeling of alcohol and drug use Parental consistency 9 distance to the nearest retailer R2,b v2
+a Distance in feet b Nagelkerke R2 * P \ .05; ** P \ .01; *** P \ .001
+
+-0.57 0.14 0.74 0.25
+-0.10 0.88 0.69 0.86 0.01 0.38 81.11***
+
+SE B
+0.18 0.12 0.26 0.29 0.05 0.30 0.32 0.14 0.01
+
+OR
+0.57** 1.15 2.10** 1.29 0.90* 2.41** 2.01* 2.36*** 1.01*
+
+95% CI
+0.39, 0.82 0.89, 1.46 1.27, 3.48 0.73, 2.28 0.82, 0.99 1.33, 4.37 1.08, 3.74 1.79, 3.11 1.01, 1.02
+
+attending school in close proximity to the US/Mexico
+border (OR = 2.41; P \ .01), decreasing distance to the
+nearest retailer (0.90; P \ .01) and the interaction between
+parental consistency and distance to the nearest retailer (OR = 1.01; P \ .05). Using a Nagelkerke R2 estimate (as ordinal regression does not contain a direct R2 equivalent),
+this model explained a significant 37.5% of the variance in the use of A&T (v2 9,205 = 81.11; P \ .01). The test of the proportional odds assumption (i.e., the parallel regression
+
+assumption) for the model did not reach significance (P = 0.95), providing evidence that the modeling approach was appropriate.
+Discussion
+The purpose of this exploratory study was to examine the association between A&T use and structural environmental
+
+123
+
+J Immigrant Minority Health (2010) 12:626-633
+
+631
+
+variables while controlling for hypothesized social environmental variables.
+The pattern observed between the distance to the nearest retailer and neighborhood characteristics is reflective of US urban development patterns and housing preferences whereby multi-family, multi-use neighborhoods typically have lower property values and lower socio-economic status of residents. Retailers also tend to concentrate near high traffic volume roadways, which are generally lower income neighborhoods and considered less desirable residential locations.
+The finding that neighborhoods closer to retailers correlate with less favorable neighborhood characteristics has multiple implications. First, it confirms findings from recent studies [3, 6, 7, 29]; second, it extends previous literature to a US/Mexico border county and geographical area with high proportions of Latinos; and third, because the direction of the correlations were consistent with the literature, it provides construct validity support for use of this variable in regression analysis.
+The social environmental variables performed as expected in the multivariate analyses. Risk for using A&T was almost cut in half by consistent parenting, while increased acculturation and skipping school in the past year was each associated with twice the risk. Parental consistency was included in analyses because of the powerful influence parents can have in adolescents' lives [30]. Truancy very likely represents possible problems in academic performance and/or peer pressures to engage in recreation instead of attending class. This might be a marker for more serious delinquent behavior, including use of A&T. In spite of the truancy variable possibly serving as a marker for relatively intensive peer influence, peer use of A&T was associated with almost two and a half times the risk for use of A&T. Selection of these variables for inclusion in multivariate analyses was based on their empirical associations with A&T use, shown in previous studies [31-37]. Controlling for their influence in this study provided more definitive evidence of the built environment influence.
+Tijuana and San Diego share the busiest land border crossing in the world [38], with 45.9 million northbound legal border crossings in 2006 alone [39]. More than just the busy crossing, a previous study comparing Tijuana and San Diego demonstrated greater acceptance of substance use in Tijuana [40]. Our finding of almost two and a half times increased risk for participants in closest proximity to the border to use A&T may be an indication of this crossborder influence. We observed that participants attending schools closest to the border spent significant amounts of time in Mexico, some on a daily basis. This finding parallels previous reports [41], but is unique in its specific geographic context of being near the San Diego-Tijuana
+
+border. This also may expose youth to A&T models or ready access where the enforcement is less strict for use of both alcohol and tobacco [24, 42, 43]. It is important for studies conducted in this region to attempt to account for this unique influence [25].
+Results from this study revealed increased risk for A&T use among respondents living closest to retailers. The finding persisted even after controlling for numerous social environment influences. This extends current scientific literature surrounding substance use and the presence of A&T retailers. To date, studies of this sort have focused only on retailer density (rather than distance) as a metric of retailer dispersion [1, 3, 7, 8, 44]. The current study also differs from extant literature in that we tested distance to the nearest retailer in a multivariate model, combining other variables from the social environment. The inclusion of social environmental variables strengthens our conclusions.
+The implications for future studies include added focus on the potential modifying effect of modeling on retailer dispersion. Retailers may be great locations for substance use modeling, (i.e., venues for modeling and observing substance use behaviors). New models of environmental influences should account for these mediating and moderating processes, as well as other neighborhood features with potential to modify adolescent access to A&T by increasing adolescent mobility, such as public transportation [29].
+Should distance from retail businesses hold with replication, or should it be possible to use experimental or quasi-experimental models to verify the functional relationship to A&T use, policy interventions that restrict the distance to residential neighborhoods (and/or low income neighborhoods) might lower adolescents' and Latino adolescents' use of A&T on a long-term basis.
+The significant interaction of parental consistency and distance to the nearest retailer was associated with increased A&T use. This is interesting because the direction of the interaction is opposite that of both main effects. We interpreted the findings as suggesting that the impact of consistent parenting practices is reduced as the distance of the retailer increases. This may be due to a reduction in motivation for parent monitoring as the distance to the retailer increases (e.g., parents feel there is less need to monitor so closely). It may also suggest that some adolescents travel greater distance from home in order to avoid parent monitoring. If similar findings are obtained from future studies, media and/or formal parent training might enable parents to better manage their adolescent youth with respect to sales sites at relatively longer distances from home. Since this relationship was both weak and in an unexpected direction, replication by independent investigators is warranted.
+
+123
+
+632 J Immigrant Minority Health (2010) 12:626-633
+
+The design employed in this study enabled a conservative estimate of the relationship between A&T use and variables representing the structural and social environment. Attempts were made to represent significant theoretical domains, but the analytical model employed was underspecified as many of the variables expected to influence adolescent behavior were not available (e.g., family members' use of gateway drugs). Furthermore, no direct measure of purchasing was included (e.g., observing participants purchase A&T at a retailer), and the conclusions of this study should not be misinterpreted to suggest that substances were necessarily purchased or otherwise obtained in areas of shortest distances from residence to the nearest retailer. Future studies should assess the direct exposure to retailers, as well as the abilities to purchase substances from the store and to ask others in the neighborhood to purchase for them, thereby increasing the likelihood that relationships found at the ecological level reflect individual exposure to retailers.
+Lastly, adolescent experimenters usually do not purchase substances for first time use [13, 45]. Rather, they obtain them through social contacts, including friends or acquaintances at parties or other group gatherings. Such conditions may lessen the influence of retailer proximity, at least for experimenters. More sensitive measures that capture frequent use should be used in future studies. In the current study, attempts to address this analytically are made in the form of peer use of A&T. Thus, future studies should endeavor to more fully distinguish the complexities of assessing the relationship of both structural and social environmental influences and A&T use.
+Acknowledgments This research was supported by grant number R01 HL068595 awarded to Dr. Melbourne Hovell from the National Heart, Lung and Blood Institute, National Institutes of Health, as well as intramural support from the Center for Behavioral Epidemiology and Community Health.
+Open Access This article is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited.
+References
+1. Gruenewald PJ, Freisthler B, Remer L, LaScala EA, Treno A. Ecological models of alcohol outlets and violent assaults: crime potentials and geospatial analysis. Addiction. 2006;101(5): 666-77.
+2. Pokorny SB, Jason LA, Schoeny ME. The relation of retail tobacco availability to initiation and continued smoking. J Clin Adol Psychol. 2003;32(2):193-204.
+3. Leatherdale ST, Strath JM. Tobacco retailer density surrounding schools and cigarette access behaviors among underage smoking students. Ann Behav Med. 2007;33(1):105-11.
+
+4. Henriksen L, Feighery E, Wang Y, Fortmann S. Association of retail tobacco marketing with adolescent smoking. Am J Public Health. 2004;94(12):2081-3.
+5. Henriksen L, Feighery E, Schleicher N, Cowling D, Kline R, Fortmann S. Is adolescent smoking related to the density and proximity of tobacco outlets and retail cigarette advertising near schools? Prev Med. 2008;47(2):210-4.
+6. Schneider JE, Reid RJ, Peterson NA, Lowe JB, Hughey J. Tobacco outlet density and demographics at the tract level of analysis in Iowa: implications for environmentally based prevention initiatives. Prev Sci. 2005;6(4):319-25.
+7. Novak SP, Reardon SF, Raudenbush SW, Buka SL. Retail tobacco outlet density and youth cigarette smoking: a propensitymodeling approach. Am J Public Health. 2006;96(4):670-6.
+8. Hyland A, Travers MJ, Cummings KM, Bauer J, Alford T, Wieczorek WF. Tobacco outlet density and demographics in Erie County, New York. Am J Public Health. 2003;93(7):1075-6.
+9. Gilpin E, Lee L, Pierce J. Does adolescent perception of difficulty in getting cigarettes deter experimentation? Prev Med. 2004; 38(4):485-91.
+10. Klonoff EA, Landrine H. Predicting youth access to tobacco: the role of youth versus store-clerk behavior and issues of ecological validity. Health Psychol. 2004;23(5):517-24.
+11. Freisthler B, Gruenewald PJ, Treno A, Lee J. Evaluating alcohol access and the alcohol environment in neighborhood areas. Alcohol Clin Exp Res. 2003;27(3):477-84.
+12. California Department of Public Health and Tobacco Control. 2004 [December 31, 2007]; Available from: www.dhs.ca.gov/ tobacco/documents/pubs/RetailerPresentation.pdf.
+13. DiFranza JR, Coleman M. Sources of tobacco for youths in communities with strong enforcement of youth access laws. Tob Control. 2001;10(4):323-328.
+14. Glaser RR, Van Horn ML, Arthur MW, Hawkins JD, Catalano RF. Measurement properties of the Communities That CareO youth survey across demographic groups. J Quant Criminol. 2005;21(1):73-102.
+15. Hawkins JD, Catalano RF, Miller JY. Risk and protective factors for alcohol and other drug problems in adolescence and early adulthood: implications for substance abuse prevention. Psychol Bull. 1992;112(1):64-105.
+16. Patterson GR. A comparison of models for interstate wars and for individual violence. Perspect Psychol Sci. 2008;3(3):203- 23.
+17. Clapp JD, Reed MB, Holmes MR, Lange JE, Voas RB. Drunk in public, drunk in private: the relationship between college students, drinking environments and alcohol consumption. Am J Drug Alcohol Abuse. 2006;32(2):275-85.
+18. Clapp JD, Lange J, Min JW, Shillington A, Johnson M, Voas R. Two studies examining environmental predictors of heavy drinking by college students. Prev Sci. 2003;4(2):99-108.
+19. Bousman CA, Blumberg EJ, Shillington AM, Hovell MF, Ji M, Lehman S, et al. Predictors of substance use among homeless youth in San Diego. Add Behav. 2005;30(6):1100-10.
+20. Prado GJ, Schwartz SJ, Maldonado-Molina M, Huang S, Pantin HM, Lopez B, et al. Ecodevelopmental x intrapersonal risk: substance use and sexual behavior in Hispanic adolescents. Health Educ Behav. 2009;36(1):45-61.
+21. Robbins MS, Szapocznik J, Dillon FR, Turner CW, Mitrani VB, Feaster DJ. The efficacy of structural ecosystems therapy with drug-abusing/dependent African American and Hispanic American adolescents. J Fam Psychol. 2008;22(1):51-61.
+22. Flores G, Fuentes-Afflick E, Barbot O, Carter-Pokras O, Claudio L, Lara M, et al. The health of Latino children urgent priorities, unanswered questions, and a research agenda. J Am Med Assoc. 2002;288(1):82-90.
+
+123
+
+J Immigrant Minority Health (2010) 12:626-633
+
+633
+
+23. Marin G, Gamba RJ. A new measurement of acculturation for Hispanics: the bidimensional acculturation scale for Hispanics (BAS). Hisp J Behav Sci. 1996;18(3):297-316.
+24. Tapia-Conyer R, Kuri-Morales P, Hoy-Gutierrez M. An epidemiologic overview of smoking in Mexico. Salud Publica Mex. 2001;43(5):1-6.
+25. Marsiglia F, Kulis S, Martinez Rodriguez G, Becerra D, Castillo J. Culturally specific youth substance abuse resistance skills: Applicability across the US-Mexico border. Res Soc Work Pract. 2009;19(2):152.
+26. Knoblauch RL, Pietrucha MT, Nitzburg M. Field studies of pedestrian walking speeds and start-up time. Transp Res Rec. 1996;1538:27-38.
+27. Sampson RJ, Morenoff JD, Earls F. Beyond social capital: spatial dynamics of collective efficacy for children. Am Sociol Rev. 1999;64(5):633-60.
+28. Sampson RJ, Raudenbush SW, Earls F. Neighborhoods and violent crime: a multilevel study of collective efficacy. Science. 1997;277:918-24.
+29. Pollack CE, Cubbin C, Ahn D, Winkleby M. Neighbourhood deprivation and alcohol consumption: does the availability of alcohol play a role? Int J Epidemiol. 2005;34(4):772-80.
+30. Szapocznik J, Prado G, Burlew AK, Williams RA, Santisteban DA. Drug abuse in African American and Hispanic adolescents: culture, development, and behavior. Annu Rev Clin Psychol. 2007;3:77-105.
+31. Ary DV, Duncan TE, Biglan A, Metzler CW, Noell JW, Smolkowski K. Development of adolescent problem behavior. J Abnorm Child Psychol. 1999;27:141-50.
+32. Almodovar A, Tomaka J, Thompson S, McKinnon S, O'Rourke K. Risk and protective factors among high school students on the US/Mexico border. Am J Health Behav. 2006;30(6):745-52.
+33. Beal AC, Ausiello J, Perrin JM. Social influences on health-risk behaviors among minority middle school students. J Adolesc Health. 2001;28(6):474-80.
+34. Mowery PD, Farrelly MC, Haviland ML, Gable JM, Wells HE. Progression to established amoking among US youths. Am J Public Health. 2004;94(2):331-7.
+35. Kandel DB, Kiros G-E, Schaffran C, Hu M-C. Racial/ethnicdifferences in cigarette smoking initiation and progression to
+
+daily smoking: a multilevel analysis. Am J Public Health. 2004;94(1):128-35. 36. Elder JP, Campbell NR, Litrownik AJ, Ayala GX, Slymen DJ, Parra-Medina D, et al. Predictors of cigarette and alcohol susceptibility and use among Hispanic migrant adolescents. Prev Med. 2000;31(2,Pt.1):115-23. 37. Mason M, Cheung I, Walker L. Substance use, social networks, and the geography of urban adolescents. Subst Use Misuse. 2004;39(10):1751-77. 38. US Department of Transportation. Bureau of Transportation Statistics, Special tabulation, June 2005. Table 1-45: US-Mexican border land-passenger gateways: entering the United States. 2005. Available from: http://www.bts.gov/publications/national_ transportation_statistics/excel/table_01_45.xls. 39. US Department of Transportation. Research and Innovative Technology Administration, Bureau of Transportation Statistics, Border Crossing/Entry Data, Based on data from US Department of Homeland Security, Customs and Border Protection, OMR database. 2006. Available from: http://www.transtats.bts.gov/ bordercrossing.aspx. 40. Martinez-Donate AP, Hovell MF, Hofstetter CR, Gonzalez-Perez GJ, Kotay A, Adams MA. Crossing Borders: the impact of the california tobacco control program on both sides of the USMexico border. Am J Public Health. 2008;98(2):258. 41. Maxwell JC, Wallisch LS. Texas school survey of substance use among students on the border grades 4-12. Texas Commission on Alcohol and Drug Abuse, Austin, TX (2000) 1998. 42. Lazcano-Ponce E, Hernandez B, Cruz-Valdez A, Allen B, Diaz R, Hernandez C, et al. Chronic disease risk factors among healthy adolescents attending public schools in the State of Morelos, Mexico. Arch Med Res. 2003;34(3):222-36. 43. Valdes-Salgado R, Lazcano-Ponce E, Hernandez-Avila M. Current panorama of tobacco consumption and control measures in Mexico. Prev Control. 2005;1(4):319-27. 44. Peterson NA, Lowe JB, Reid RJ. Tobacco outlet density, cigarette smoking prevalence, and demographics at the county level of analysis. Subst Use Misuse. 2005;40(11):1627-35. 45. Emery S, Gilpin EA, White MM, Pierce JP. How adolescents get their cigarettes: implications for policies on access and price. J Natl Cancer Inst. 1999;91(2):184-6.
+
+123
+
+

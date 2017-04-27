@@ -1,0 +1,594 @@
+Downloaded from ajcn.nutrition.org by guest on March 3, 2016
+
+Food-group and nutrient-density intakes by Hispanic and Latino backgrounds in the Hispanic Community Health Study/Study of Latinos1-3
+
+Anna Maria Siega-Riz, Daniela Sotres-Alvarez, Guadalupe X Ayala, Mindy Ginsberg, John H Himes, Kiang Liu, Catherine M Loria, Yasmin Mossavar-Rahmani, Cheryl L Rock, Brendaly Rodriguez, Marc D Gellman, and Linda Van Horn
+
+ABSTRACT Background: Hispanics are a heterogeneous group of individuals with a variation in dietary habits that is reflective of their cultural heritage and country of origin. It is important to identify differences in their dietary habits because it has been well established that nutrition contributes substantially to the burden of preventable diseases and early deaths in the United States. Objective: We estimated the distribution of usual intakes (of both food groups and nutrients) by Hispanic and Latino backgrounds by using National Cancer Institute methodology. Design: The Hispanic Community Health Study/Study of Latinos is a population-based cohort study that recruited participants who were 18-74 y of age from 4 US cities in 2008-2011 (Miami, Bronx, Chicago, and San Diego). Participants who provided at least one 24-h dietary recall and completed a food propensity questionnaire (n = 13,285) were included in the analyses. Results were adjusted for age, sex, field center, weekend, sequencing, and typical amount of intake. Results: Overall, Cubans (n = 2128) had higher intakes of total energy, macronutrients (including all subtypes of fat), and alcohol than those of other groups. Mexicans (n = 5371) had higher intakes of vitamin C, calcium, and fiber. Lowest intakes of total energy, macronutrients, folate, iron, and calcium were reported by Dominicans (n = 1217), whereas Puerto Ricans (n = 2176) had lowest intakes of vitamin C and fiber. Food-group servings reflected nutrient intakes, with Cubans having higher intakes of refined grains, vegetables, red meat, and fats and Dominicans having higher intakes of fruit and poultry, whereas Puerto Ricans had lowest intakes of fruit and vegetables. Central and South Americans (n = 1468 and 925, respectively) were characterized by being second in their reported intakes of fruit and poultry and the highest in fish intake in comparison with other groups. Conclusion: Variations in diet noted in this study, with additional analysis, may help explain diet-related differences in health outcomes observed in Hispanics and Latinos. This trial was registered at clinicaltrials.gov as NCT02060344. Am J Clin Nutr 2014;99:1487-98.
+INTRODUCTION
+Together, Hispanics and Latinos are the fastest growing segment of the US population, and in 2011, they became the largest ethnic minority group representing 16% of the total US population (1). As a group, the age structure of the Hispanic and
+
+Latino population is relatively young, and they are predominantly of a lower socioeconomic class with little or no health insurance compared with for non-Hispanic whites and blacks (2). The combination of their socioeconomic circumstances and high prevalence of cardiovascular disease (CVD)4 risk factors such as hypertension, diabetes, physical inactivity, and obesity (3) but lower all-cause mortality compared with that of non-Hispanic
+1 From the Departments of Epidemiology and Nutrition (AMS-R) and Biostatistics and the Collaborative Studies Coordinator Center (DS-A), Gillings School of Global Public Health, University of North Carolina at Chapel Hill, Chapel Hill, NC; the Division of Health Promotion and Behavioral Science, Graduate School of Public Health, San Diego State University, San Diego, CA (GXA); the Department of Epidemiology and Population Health, Albert Einstein College of Medicine, Bronx, NY (MG and YM-R); the Division of Epidemiology and Community Health, University of Minnesota, School of Public Health, Minneapolis, MN (JHH); the Departments of Preventive Medicine (KL) and Preventive Medicine, Feinberg School of Medicine (LVH), University of Illinois at Chicago, Chicago, IL; the Epidemiology Branch, National Heart, Lung, and Blood Institute, Bethesda, MD (CML); the Department of Family and Preventive Medicine, Moores University of California at San Diego Cancer Center, University of California at San Diego, San Diego, CA (CLR); and the Department of Psychology, Behavioral Medicine Research Center, University of Miami, Miami, FL (BR and MDG).
+2 The Hispanic Community Health Study/Study of Latinos (HCHS/SOL) was supported by contracts from the National Heart, Lung, and Blood Institute (NHLBI) to the University of North Carolina (N01-HC65233), University of Miami (N01-HC65234), Albert Einstein College of Medicine (N01-HC65235), Northwestern University (N01-HC65236), and San Diego State University (N01-HC65237). The following institutes, centers, and offices contribute to the HCHS/SOL through a transfer of funds to the NHLBI: the National Institute on Minority Health and Health Disparities, the National Institute on Deafness and Other Communication Disorders, the National Institute of Dental and Craniofacial Research, the National Institute of Diabetes and Digestive and Kidney Diseases, the National Institute of Neurological Disorders and Stroke, and the NIH Institution-Office of Dietary Supplements.
+3 Address correspondence to AM Siega-Riz, Departments of Epidemiology and Nutrition, 2105-A McGavran Greenberg building, University of North Carolina Gillings School of Global Public Health, 135 Dauer Drive, Chapel Hill, NC 27514. E-mail: am_siegariz@unc.edu.
+4 Abbreviations used: BRR, balanced repeated replication; CVD, cardiovascular disease; FPQ, food propensity questionnaire; HCHS/SOL, Hispanic Community Health Study/Study of Latinos; NCI, National Cancer Institute; NDS-R, Nutrition Data System for Research.
+Received December 26, 2013. Accepted for publication March 25, 2014. First published online April 23, 2014; doi: 10.3945/ajcn.113.082685.
+
+Am J Clin Nutr 2014;99:1487-98. Printed in USA. O 2014 American Society for Nutrition
+
+1487
+
+Supplemental Material can be found at: http://ajcn.nutrition.org/content/suppl/2014/05/13/ajcn.113.0 82685.DCSupplemental.html
+
+1488
+
+SIEGA-RIZ ET AL
+
+whites and blacks (4) is perplexing. This enigma is commonly referred to as the Hispanic paradox (5).
+The Hispanic paradox has helped to emphasize the heterogeneity of this population. Despite the common lumping of this population into one group categorized as Hispanic or Latino, the Hispanic and Latino population encompasses individuals with heritage from many different countries, each with its own traditions and foods. It is important to identify differences in the dietary habits of the various Hispanic and Latino backgrounds because it has been well established that nutrition contributes substantially to the burden of preventable diseases and early deaths in the United States (6, 7). However, few previous studies have included sufficient sample sizes to examine differences in diets across various Hispanic and Latino backgrounds.
+The US Hispanic Health and Nutrition Examination Survey conducted in the 1980s was the last nationally representative study that included detailed diet information for several Hispanic and Latino subgroups (8). These data helped to explain differences in dietary profiles of various subgroups that may explain some variations in CVD risk factors that existed at that time (9). Since the 1980s, demographic characteristics of the Hispanic and Latino population have changed, and a marked increase in the prevalence of obesity has occurred, which has necessitated an update of information concerning the dietary practices of this population. In this study, we estimate the distribution of usual intakes (of both food groups and nutrients), with the exclusion of supplements by using a recent advancement in the statistical methodology for estimation that accounted for the intervariability and intravariability intrinsic to 24-h recalls and, for nonepisodically consumed food groups, the correlation between the probability of intake and quantity of intake.
+
+identified Hispanic or Latino adult. Disproportionate stratified sampling was implemented in both stages of the sample selection to increase the likelihood that a selected address would yield an eligible Hispanic or Latino household. Moreover, oversampling of the 45-74-y age group (n = 9714, 59.2%) was done to facilitate an examination of cardiovascular outcomes in older adults (10). Overrepresentation of this age group required subsampling households or persons within households during screening. Originally, households were kept intact, but 6 mo into recruitment, adults were subsampled within a household to screen fewer households. Hence, the 45-74-y-old subclusters were selected with certainty (probability = 1), whereas the 18-44-y-old subclusters were selected with a probability ,1. To recruit individuals, a letter was sent to selected households, individuals within the household were contacted and screened for eligibility (living in the household, age from 18 to 74 y, ability to attend a clinic visit, and not planning to move within 6 mo) (11). Eligible individuals visited the field-center clinic where informed consent was obtained, and study assessments were completed. The study enrolled 16,415 Hispanics and Latinos between 8 March 2008 and 30 June 2011. The baseline data collection included a medical history and physical examination as well as assessments of acculturation, health behaviors (including diet and physical activity), and health care access (11).
+Ethics
+HCHS/SOL protocols were approved by the institutional review boards at each field center, the University of North Carolina (Coordinating Center), and the National Heart, Lung and Blood Institute.
+
+Downloaded from ajcn.nutrition.org by guest on March 3, 2016
+
+SUBJECTS AND METHODS
+Sample population
+The Hispanic Community Health Study/Study of Latinos (HCHS/SOL) is a population-based cohort study designed to identify risk factors and disease-prevalence rates of Hispanic and Latino populations residing within 4 communities in the United States (Miami, Bronx, Chicago, and San Diego) and representing individuals with origins from Cuba, the Dominican Republic, Mexico, Puerto Rico, and Central and South America. HCHS/ SOL participants were selected by using a probability sampling design within these areas to provide a representative sample of the target population [ie, all noninstitutionalized Hispanic and Latino adults aged 18-74 y and residing in the defined geographical areas (census block groups) across the 4 participating field centers]. The sample design and cohort selection has been previously described (10). Briefly, a stratified 2-stage area probability sample of household addresses was selected in each of the 4 field centers. The first sampling stage randomly selected census block groups with stratification on the basis of Hispanic and Latino concentrations and proportions of high and low socioeconomic status. The second sampling stage randomly selected households with stratification formed by whether the occupant had a Hispanic surname from US Postal Service registries that covered the randomly selected census block groups. Both stages oversampled certain strata to increase the likelihood that a selected address yielded a household with at least one self-
+
+Dietary data collection
+Diet was assessed by using two 24-h recalls and a food propensity questionnaire (FPQ). Both the 24-h recall and FPQ have similar limitations because of the self-reported nature of data that result in a substantial systematic bias in the direction of underreporting (12, 13). Methods developed by Subar et al (14) combine data from the 2 instruments to estimate a population's distribution of usual food intake. Frequencies from a FPQ are used to enhance the predictive power of the 24-h recall data (15). The FPQ is similar to a food-frequency questionnaire but without portion sizes. The instrument makes it possible to distinguish individuals who are nonconsumers from consumers of specific foods and, thus, allows for the calculation of the probability of consumption. For example, it is likely that a food that is not eaten very frequently may be not consumed and reported during the two 24-h periods covered by dietary recalls. The FPQ allows for the identification of these less-frequently eaten foods to be included in estimations of usual intakes.
+One 24-h food recall was conducted in person at the time of the baseline interview and the other recall was conducted via telephone #30 d of the baseline interview. Interviews were conducted in Spanish (80% of participants) or English (20% of participants) depending on the participant's preference with the Nutrition Data System for Research (NDS-R) software (version 11) developed by the Nutrition Coordinating Center at the University of Minnesota, which uses the multiple-pass method (16). A food-amounts booklet was provided to each participant
+
+DIETARY INTAKES OF HISPANICS
+
+1489
+
+Downloaded from ajcn.nutrition.org by guest on March 3, 2016
+
+for use in estimating portion sizes at the subsequent telephone interview. The NDS-R version 2011 contains over 18,000 foods, 8000 brand-name products, and many Hispanic and Latino foods. The software provides values for 139 nutrients, nutrient ratios, food-group serving counts, and other food components. Virtually all participants (99%) provided at least one recall.
+The FPQ, which was administered at the 1-y follow-up call, asked participants to report frequencies of foods eaten in the previous year (17). We adapted the FPQ developed by the National Cancer Institute (NCI) for this population following a similar methodology used to create the tool (18), and the FPQ was shortened to reduce a participant burden (time). This reduction entailed the elimination of foods and food groups that were poorly correlated between 24-h recalls and the FPQ (r , 0.5 and P-monotone trend . 0.05) by using data from the first 1200 recalls, questions related to seasonality, and food items that could be encompassed with an overall food-group question (ie, other types of vegetables) or details of the information that would be available from the 24-h recall data (ie, type of milk). After all exclusions were applied, the FPQ was reduced from 139 food items and 228 individual questions to 115 food items and 137 individual questions that represented a 40% reduction in the number of items. This increase in efficiency was important for a study with so many other instruments competing for the limited time available during the follow-up call.
+As previously mentioned, the HCHS/SOL sample size is 16,415 individuals. For this analysis, we excluded individuals with an incomplete or no follow-up interview (n = 1907), missing Hispanic or Latino background (n = 87), Hispanics and Latinos from other or mixed backgrounds (n = 503), missing dietary recalls (n = 37), recalls considered unreliable or with extreme energy intake (n = 148), or a missing FPQ (n = 448). All of these exclusions resulted in a final sample size of 13,285 individuals for analyses.
+Statistics
+Estimated usual intake distributions were modeled by using the NCI method (19) with SAS software macros (version 9.3; SAS Institute) developed at the NCI (20). This method allowed for the estimation of within- and between-person variance components and correction for the high intraindividual variation intrinsic to 24-h recalls because individuals do not eat the same foods every day. Recalls with energy below the sequencesex-specific first percentile or .99th percentile or that were unreliable according to the interviewer were excluded. Models were adjusted for sex, age, Hispanic or Latino background, field center, weekend (including Friday), self-reported intake amount (more, same, or less than usual amount), and sequence (first recall conducted in person or second recall majority conducted by phone). A one-part nonlinear mixed model was used for all nutrients (except alcohol) and food groups consumed daily by almost everyone (19) and operationalized by both recalls at ,5% (unweighted) with zero intake, and zeros were replaced with one-half the minimum observed nonzero value. The BoxCox exponential power variable and covariate effects were estimated at the same time during the model fitting so that the best transformation was chosen after adjustment for these covariates. A 2-part model was used for all food groups, except for vegetables (all and other), grains (refined and all), meat, milk, diet
+
+beverages, sugar (all), and fat (from oils and all), which were estimated by using an amount-only model because these foods were almost universally consumed by everyone. The first part of the model estimated the probability of consumption by using logistic regression with a person-specific random effect, and the second part specified the consumption-day amount by using a linear regression on a transformed scale, also with a personspecific effect. Person-specific random effects were allowed to be correlated across the 2 parts because the probability of consumption is often related to the amount consumed (21). The same covariates were specified in both parts of the model, and the corresponding food group from the FPQ was included to improve estimates for episodically consumed foods. Although repeated 24-h recalls capture the natural day-to-day (intraindividual) variation in dietary intake, the FPQ captures the consumption of episodically consumed foods; hence, the FPQ can substantially improve the power to detect associations between dietary intakes as predictor variables and health outcomes, with a relatively greater impact for those foods with a large proportion of zero intakes from 24-h recalls (21).
+Because the HCHS/SOL uses a complex, multistage, probability design, a variance estimation was carried out via the balanced repeated replication (BRR) (22) technique with Fay's adjustment (23). Primary sampling units were first combined randomly into 2 pseudo-primary sampling units per strata. Twenty-four replications for BRR were used. For each replicate, Fay's method used a Fay coefficient 0.5 to impose a perturbation of the original weights in the full sample that was gentler than the use of only one-half samples as in the traditional BRR method. Furthermore, distributions of usual intakes were adjusted to the overall mean age (42.4 y) and percentage of women (53.5%), which accounted for differences in age and sex distribution in Hispanic and Latino backgrounds. We tested the null hypothesis that usual mean intake was equal in backgrounds, and when significant, we performed pairwise comparisons by adjusting for multiple comparisons by using the Tukey-Kramer method (unplanned and unbalanced design) with a = 0.05. All analyses accounted for the complex survey design and sampling weights by using SAS (version 9.3) corresponding procedures or SAS-callable SUDAAN (version 10) software package (RTI International).
+RESULTS
+Population characteristics overall and by Hispanic and Latino backgrounds are shown in Table 1. The largest Hispanic or Latino background was of Mexican origin (40%) followed by 16.4% Puerto Rican, 16% Cuban, 11.0% Central American, 9.2% Dominican, and 6.9% South American. The mean age of Cubans was 5 y higher than the overall mean and Mexicans were, on average, younger than other backgrounds. The majority (80.6%) of the target population was born outside the United States and its territories, except for Puerto Ricans. A higher percentage of Cubans have lived in the United States the shortest amount of time (30.5% lived in the United States ,5 y), whereas Puerto Ricans, Dominicans, Mexicans, and Central Americans tended to have lived in the United States longer (.20 y). The percentage of employed subjects ranged from a low of 38.8% in Puerto Ricans to a high of 60.9% in South Americans. Overall, 51% of subjects reported being married or living with
+
+1490
+
+SIEGA-RIZ ET AL
+
+Downloaded from ajcn.nutrition.org by guest on March 3, 2016
+
+TABLE 1 Sociodemographic characteristics by Hispanic and Latino backgrounds1
+
+Variable and category
+
+Total
+
+Cuban Dominican Mexican Puerto Rican Central American South American
+
+(n = 13,285) (n = 2128) (n = 1217) (n = 5371) (n = 2176)
+
+(n = 1468)
+
+(n = 925)
+
+Age (y)2,3 Sex (F) (%)3 Language preference (Spanish) (%) Immigrant generation (%)
+First Second or greater Years lived in mainland United States
+(50 states and DC) (%) Born in mainland United States ,5 y 5-9 y 10-14 y 15-19 y $20 y Employment (%) Retired and not currently employed Not retired and not currently employed Employed Marital status (%) Single Married/living with partner Separated/divorced/widowed Yearly household income (%) Missing #$10,000 $10,001-$20,000 $20,001-$40,000 $40,001-$75,000 .$75,000 Education status (%) Less than high school education High school education or equivalent Greater than high school education BMI (%) Underweight (,18.5 kg/m2) Normal (18.5-24.9 kg/m2) Overweight (25-29.9 kg/m2) Obese ($30 kg/m2) General health (%) Excellent Very good Good Fair Poor
+
+42.4 6 0.24 53.5 6 0.60 78.0 6 0.65
+79.2 6 0.63 20.6 6 0.62
+19.4 6 0.59 13.4 6 0.56 14.7 6 0.51 12.6 6 0.44 10.8 6 0.45 28.1 6 0.54
+8.8 6 0.31 40.4 6 0.70 49.6 6 0.67
+31.5 6 0.57 51.1 6 0.73 17.3 6 0.46
+9.0 6 0.34 13.5 6 0.52 28.9 6 0.75 30.4 6 0.68 12.9 6 0.51 5.2 6 0.62
+31.9 6 0.74 27.6 6 0.58 38.8 6 0.84
+1.2 6 0.16 20.8 6 0.52 37.8 6 0.67 40.0 6 0.74
+9.5 6 0.44 18.2 6 0.55 46.2 6 0.64 21.1 6 0.55 4.6 6 0.25
+
+47.0 6 0.52 48.8 6 1.05 89.8 6 1.00
+89.4 6 1.10 10.6 6 1.09
+10.6 6 1.09 30.5 6 1.68 19.7 6 1.24 14.0 6 1.02 9.7 6 0.74 13.2 6 1.22
+7.5 6 0.67 49.4 6 1.47 42.6 6 1.40
+30.2 6 1.24 50.4 6 1.55 19.1 6 1.05
+15.8 6 1.04 15.2 6 1.03 30.4 6 1.27 26.3 6 1.37 8.6 6 0.86 3.6 6 0.66
+19.0 6 1.08 30.8 6 1.48 48.1 6 1.49
+1.9 6 0.39 24.7 6 1.14 35.8 6 1.32 37.5 6 1.33
+11.2 6 1.02 16.6 6 1.03 46.6 6 1.51 20.0 6 0.95 4.8 6 0.56
+
+40.2 6 0.71 59.8 6 2.03 81.2 6 1.85
+87.9 6 1.48 12.1 6 1.48
+12.1 6 1.49 9.9 6 1.26 12.8 6 1.50 13.0 6 1.58 19.3 6 1.82 31.4 6 1.36
+10.0 6 0.77 39.2 6 2.25 46.8 6 2.14
+42.2 6 1.64 39.4 6 1.86 18.4 6 1.32
+9.8 6 1.09 15.4 6 1.38 32.0 6 1.98 30.2 6 1.90 9.9 6 1.18 2.8 6 0.81
+38.4 6 1.81 22.0 6 1.80 38.7 6 1.92
+1.0 6 0.42 18.3 6 1.36 39.0 6 1.89 41.5 6 1.85
+11.0 6 1.20 17.4 6 2.08 36.9 6 1.85 27.6 6 1.85 6.8 6 0.80
+
+39.6 6 0.40 54.8 6 1.11 80.8 6 1.11
+77.3 6 1.19 22.7 6 1.18
+20.0 6 1.08 8.1 6 0.89 13.7 6 0.84 13.3 6 0.78 11.7 6 0.80 32.9 6 0.97
+7.4 6 0.45 36.5 6 1.15 55.7 6 1.14
+22.3 6 0.96 63.0 6 1.23 14.6 6 0.69
+4.5 6 0.40 10.6 6 0.85 26.9 6 1.47 34.5 6 1.20 16.5 6 0.91 7.1 6 1.38
+37.1 6 1.47 27.7 6 0.96 33.2 6 1.59
+1.0 6 0.29 18.1 6 0.82 40.7 6 1.31 40.0 6 1.51
+8.2 6 0.75 18.8 6 0.97 50.3 6 1.04 19.0 6 0.93 3.5 6 0.40
+
+44.4 6 0.55 51.9 6 1.55 41.2 6 1.95
+50.2 6 1.47 49.5 6 1.46
+48.2 6 1.49 3.4 6 0.55 3.4 6 0.66 4.4 6 0.72 2.9 6 0.48 37.4 6 1.27
+16.0 6 1.11 42.8 6 1.61 38.8 6 1.51
+47.8 6 1.68 32.3 6 1.67 19.9 6 1.34
+8.9 6 0.80 18.2 6 1.28 26.7 6 1.50 25.8 6 1.64 14.3 6 1.18 6.1 6 0.82
+34.6 6 1.70 28.2 6 1.33 36.3 6 1.74
+0.9 6 0.32 19.9 6 1.36 31.0 6 1.52 47.8 6 1.70
+9.8 6 0.98 17.4 6 1.09 39.9 6 1.62 26.3 6 1.31 6.7 6 0.72
+
+1 Values were design-based and age- and sex-adjusted unless otherwise specified. All 6 values are SEs. 2 Values are means. 3 Design based but with no additional adjustment.
+
+40.6 6 0.56 54.4 6 1.84 89.6 6 1.67
+94.1 6 1.31 5.6 6 1.33
+5.2 6 1.31 13.9 6 1.23 20.4 6 1.74 15.2 6 1.30 12.7 6 1.18 31.7 6 1.35
+6.2 6 0.63 35.2 6 1.52 57.9 6 1.60
+35.0 6 1.51 48.0 6 1.65 16.6 6 1.11
+11.3 6 1.06 14.5 6 1.35 33.3 6 1.77 29.3 6 1.79 9.5 6 1.26 2.1 6 0.55
+38.0 6 1.70 24.8 6 1.48 35.1 6 1.75
+0.9 6 0.41 22.0 6 1.61 39.3 6 1.80 37.6 6 1.55
+8.9 6 1.18 19.3 6 1.48 46.4 6 1.69 20.8 6 1.19 4.3 6 0.77
+
+43.5 6 0.81 56.4 6 1.95 89.9 6 1.34
+94.4 6 1.05 5.6 6 1.05
+5.6 6 1.05 12.6 6 1.70 27.9 6 1.99 19.7 6 1.77 13.0 6 1.39 20.9 6 1.74
+5.1 6 0.94 31.9 6 1.95 60.9 6 2.26
+29.7 6 1.84 50.2 6 2.27 20.1 6 1.80
+8.0 6 1.27 9.1 6 1.18 30.9 6 2.05 34.6 6 2.20 12.8 6 1.47 4.5 6 1.00
+20.9 6 1.95 26.4 6 1.96 50.1 6 2.27
+1.1 6 0.48 28.2 6 2.30 40.9 6 2.09 29.5 6 2.04
+8.4 6 1.16 23.7 6 1.96 50.0 6 2.29 15.0 6 1.64 2.7 6 0.71
+
+a partner, although this number varied, with Mexicans with a higher percentage (63%) and Puerto Ricans with a lower percentage (32%) than those of other backgrounds. There was great variation in the yearly household income across backgrounds with approximately from one-half to two-thirds of households earning between $10,000 and $40,000/y. Education status also varied, with almost one-half of Cubans and South Americans having reported more than a high school education and at least one-third of Dominicans, Mexicans, Puerto Ricans, and Central Americans having reported less than a high school education.
+Overall, 20.8% of subjects had a measured weight within the normal BMI (in kg/m2) range (18.5-24.9), and greater two-thirds
+
+of subjects were classified as overweight or obese (BMI $25). Puerto Ricans had the highest prevalence of obesity (47.8%), whereas the percentage of subjects who were overweight varied little (31.0-40.9%) across all backgrounds. Slightly less than one-third of subjects considered their health to be excellent or very good, whereas only 4.6% of subjects considered it to be poor.
+On the first day of recall, mean intakes were higher (2041 6 901 kcal) and included more weekend days (36%; Friday, Saturday, or Sunday) than in the second recall (1747 6 748 kcal and 25% weekend days). Fewer individuals reported that their consumption was greater than usual (8.2% and 6.2% on first and
+
+DIETARY INTAKES OF HISPANICS
+
+1491
+
+second recalls, respectively) compared with those who reported intakes were less than usual (19.6% and 15.2% on first and second recalls, respectively).
+
+minicans and Central and South Americans and lower, closer to 50%, in Cubans and Puerto Ricans.
+
+Total energy and macronutrient intakes
+Age- and sex-adjusted energy intake distributions are shown in Figure 1. Usual mean intake was significantly different in Hispanic and Latino backgrounds (overall test P , 0.001). Cubans had higher mean total energy intakes than those of other backgrounds (2235 6 14.2 kcal), whereas Dominicans reported consuming the lowest intake (1708 6 18.7 kcal). Because of these differences in energy intake, we present selected nutrients standardized as a ratio per 1000 kcal in Figure 2 (see Supplemental Table 1 under "Supplemental data" in the online issue) to illustrate differences in nutrient intakes that did not reflect total energy intake. Total fat intake was higher in Cubans followed by Puerto Ricans and Mexicans; lowest intakes were reported by Dominicans. Cubans had higher intakes of monounsaturated and polyunsaturated fats, whereas Puerto Ricans had higher saturated fat intakes. Carbohydrate intake was higher in Dominicans followed by Central Americans, South Americans, and Mexicans; lowest intakes were reported by Cubans. However, daily protein intake varied little by Hispanic or Latino background, ranging from 41 to 43 g/1000 kcal.
+The macronutrient composition of the diet expressed as a percentage of energy is shown in Figure 3. The percentage of energy from fat ranged from a high of 32% in Cubans to a low of 28.3% in Dominicans. The percentage of energy from protein varied little across backgrounds (16.6-17.6%), whereas the percentage of energy from carbohydrates was w52% in Do-
+
+Micronutrients
+Mexicans had higher intakes of vitamins A and C, folate, calcium, and iron whereas Cubans had lowest intakes except for of vitamin C, for which Puerto Ricans had the lowest intake (Figure 2; see Supplemental Table 1 under "Supplemental data" in the online issue).
+Sodium, potassium, and fiber
+The mean sodium intake was 1705 mg/1000 kcal (see Supplemental Table 1 under "Supplemental data" in the online issue). Cubans tended to have higher intakes, whereas Mexicans had lower intakes, than those of other backgrounds. Potassium intake was higher in Dominicans and Mexicans, whereas Puerto Ricans had lowest intakes of backgrounds (Figure 2; see Supplemental Table 1 under "Supplemental data" in the online issue). Fiber intake was highest in Mexicans (11 g/1000 kcal) followed by Central Americans and Dominicans, whereas Puerto Ricans and Cubans had lowest intakes (w7.8 g/1000 kcal).
+Food groups
+The previously discussed nutrient intakes were reflective of food-group intakes by Hispanic backgrounds shown in Table 2 (see table footnotes for serving-size definitions). Dominicans and South Americans had higher total fruit intake (w2 one-half servings/d) of which citrus made up from one-quarter to one-third
+
+Downloaded from ajcn.nutrition.org by guest on March 3, 2016
+
+FIGURE 1. Age- and sex-adjusted distribution of usual energy intake (kcal/d) by Hispanic and Latino backgrounds (n = 13,285). These distributions (means and percentiles) were estimated by using the National Cancer Institute method with a one-part nonlinear mixed model for repeated 24-h recalls with adjustment for age, sex, field center, weekend (including Friday), self-report intake amount (more, same, or less than usual), and recall sequence (first recall in person and second recall by phone). The distribution of usual energy intake was estimated empirically for the first recall adjusted for the second recall and for the usual self-report amount (as opposed to less or more). The simulated population had the same covariate patterns as the Hispanic Community Health Study/ Study of Latinos for sex (women: 53.5%), age (42.4 y), and Hispanic and Latino backgrounds. Usual mean intake was significantly different in Hispanic and Latino backgrounds (overall test P , 0.001).
+
+1492
+
+SIEGA-RIZ ET AL
+
+Downloaded from ajcn.nutrition.org by guest on March 3, 2016
+
+FIGURE 2. Age- and sex-adjusted distribution of selected nutrient densities (per 1000 kcal) from food intake only by Hispanic and Latino backgrounds (n = 13,285). Nutrients presented are from food intake; dietary supplements and vitamins were not considered. These distributions (means and percentiles) were estimated by using the National Cancer Institute method with a one-part nonlinear mixed model for repeated 24-h recalls with adjustment for age, sex, field center, weekend (including Friday), self-report intake amount (more, same, or less than usual), and recall sequence (first recall in person and second recall by phone). The distribution of usual energy intake was estimated empirically for the first recall adjusted for the second recall and for the usual self-report amount (as opposed to less or more). The simulated population had the same covariate patterns as the Hispanic Community Health Study/Study of Latinos for sex (women: 53.5%), age (42.4 y), and Hispanic and Latino backgrounds. Usual mean intake was significantly different in Hispanic and Latino backgrounds (overall test P , 0.001). RAE, retinol activity equivalents.
+
+DIETARY INTAKES OF HISPANICS
+
+1493
+
+Downloaded from ajcn.nutrition.org by guest on March 3, 2016
+
+FIGURE 3. Age- and sex-adjusted mean (6SE) macronutrient composition (percentage of total energy) by Hispanic and Latino backgrounds (n = 13,285). Means were estimated by using the National Cancer Institute method with a one-part nonlinear mixed model for repeated 24-h recalls with adjustment for age, sex, field center, weekend (including Friday), self-report intake amount (more, same, or less than usual), and recall sequence (first recall in person and second recall by phone). The distribution of usual energy intake was estimated empirically for the first recall adjusted for the second recall and for the usual self-report amount (as opposed to less or more). The simulated population had the same covariate patterns as the Hispanic Community Health Study/Study of Latinos for sex (women: 53.5%), age (42.4 y), and Hispanic and Latino backgrounds. Bars with different lowercase letters are significantly different at P , 0.05 (ANCOVA and Tukey-Kramer paired comparisons).
+
+of fruit intakes, whereas Puerto Ricans had the lowest total fruit intake (1.4 servings/d of total fruit) with one-third of intake from citrus fruit. Total vegetable intakes ranged from two 0.5 to w4 servings/d, with Cubans having the highest and Dominicans and Puerto Ricans having the lowest intakes. The proportion of vegetables that came from nutrient-rich sources such as dark-green or orange vegetables was low and accounted for only 3-10% of the total intake each, whereas tomatoes made up w10-19% of total vegetable intake. On average, the proportion of vegetable intake from tomatoes (17%) was greater than that from white potatoes (8%) or starchy vegetables (5%).
+Grain intakes ranged from 5 (Dominicans) to 7.3 (Mexicans) servings/d. Refined grains made up 77%, on average, of total grain intake, and this proportion did not vary much across backgrounds (mostly 88-95%), with the exception of Mexicans who had much higher intake of whole grains (close to 44%) and less refined-grain intake.
+Red meat made up approximately one-third of total meat intake, and intakes were higher in Cubans reaching almost 3 servings (1 serving = 1 oz or 28.3 g)/d, whereas Mexicans, Central Americans, and South Americans had, on average, 2 servings/d, and Dominicans had w1 serving/d. Poultry consumption was w2 servings/d for all groups, with the exception of Mexicans who consumed w1.5 servings/d. Fish intake was between 0.5 and 1 serving/d across all Hispanic and Latino backgrounds, whereas egg intake was close to one-half of a serving, and nut and seed intake was w0.25 serving/d with slighter higher intakes in Mexicans.
+On average, the daily consumption of dairy products was w1.6 servings/d, with Cubans having higher intakes and Dominicans lower intakes than those of other backgrounds. Milk as opposed to cheese, yogurt, or a dessert contributed most of the dairy-product intake.
+
+Mean servings of fats (eg, margarine, butter, oils, creams, and salad dressings) ranged from a high of 6.7 servings/d in Cubans to a low of 3.9 servings/d in Dominicans.
+Intakes of sugar-sweetened beverages ranged from 1.1 servings/d in Dominicans to a high of 1.8 servings/d in Puerto Ricans. In contrast, diet beverages were not consumed much by Cubans (0.3 servings/d) but averaged w1 serving/d for all other Hispanic and Latino backgrounds.
+Mean alcohol consumption was 0.3 servings/d, which translated to 4 fl oz (0.12 L) beer or 1.5 fl oz (0.04 L) wine/d. Cuban and Mexicans had intakes at the higher end (w0.4 servings/d), whereas intakes for Dominicans and Central Americans were almost one-half of the overall mean daily serving.
+DISCUSSION
+In the HCHS/SOL, self-reported CVD prevalence and coronary heart disease and stroke were 4% and 2%, respectively, for men and 2% and 1%, respectively, for women (24). CVD risk factors (hypercholesterolemia, hypertension, obesity, diabetes, and smoking) and disease prevalence were shown to vary by Hispanic and Latino backgrounds with Puerto Ricans followed by Cubans having the highest and South Americans having the lowest prevalence rates of CVD and risk factors. These differences appeared to correspond to nutrient and food-group differences described in the current study. For example, Cubans and Puerto Ricans had relatively higher intakes of foods and nutrients associated with CVD risk such as total fat, saturated fat, sodium, refined carbohydrates, and red meats and lower intakes of foods associated with lower risk of CVD such as fiber, folate, fish, and fruit (25). In contrast, South Americans exhibited relatively lower intakes of these nutrients associated with higher CVD risk with
+
+1494
+
+SIEGA-RIZ ET AL
+
+Downloaded from ajcn.nutrition.org by guest on March 3, 2016
+
+TABLE 2 Age- and sex-adjusted usual intakes for select food groups by Hispanic and Latino backgrounds in the HCHS/SOL1
+
+Food group and statistic
+
+Overall point Cuban point Dominican point Mexican point Puerto Rican Central American South American
+
+estimate
+
+estimate
+
+estimate
+
+estimate point estimate point estimate point estimate
+
+Subjects (n) Citrus fruits2
+Mean P25th Median P75th All fruit2 Mean P25th Median P75th Dark vegetables3 Mean P25th Median P75th Orange vegetables3 Mean P25th Median P75th Tomatoes3 Mean P25th Median P75th White potato3 Mean P25th Median P75th Starchy vegetables3 Mean P25th Median P75th All vegetables3 Mean P25th Median P75th Whole grains4 Mean P25th Median P75th Refined grains4 Mean P25th Median P75th All grains4 Mean P25th Median P75th Red meat5 Mean P25th Median P75th
+
+13,285
+0.5 6 0.02 0.1 6 0.01 0.3 6 0.01 0.7 6 0.02
+1.9 6 0.04 0.9 6 0.03 1.6 6 0.04 2.5 6 0.06
+0.2 6 0.02 0.0 6 0.01 0.1 6 0.01 0.2 6 0.01
+0.1 6 0.01 0.0 6 0.01 0.1 6 0.01 0.2 6 0.01
+0.5 6 0.01 0.3 6 0.02 0.5 6 0.02 0.7 6 0.02
+0.3 6 0.01 0.1 6 0.01 0.2 6 0.01 0.4 6 0.01
+0.2 6 0.01 0.1 6 0.00 0.1 6 0.01 0.2 6 0.01
+3.2 6 0.04 2.2 6 0.06 3.0 6 0.04 4.0 6 0.04
+1.5 6 0.04 0.3 6 0.02 1.0 6 0.05 2.3 6 0.06
+5.2 6 0.05 3.6 6 0.03 4.9 6 0.04 6.5 6 0.07
+6.7 6 0.06 5.0 6 0.05 6.5 6 0.05 8.2 6 0.08
+2.0 6 0.05 1.2 6 0.06 1.8 6 0.05 2.6 6 0.06
+
+2128
+0.5 6 0.04c 0.1 6 0.01 0.2 6 0.02 0.6 6 0.05
+1.7 6 0.07c 0.8 6 0.04 1.4 6 0.07 2.3 6 0.10
+0.2 6 0.01b 0.0 6 0.01 0.1 6 0.01 0.2 6 0.01
+0.2 6 0.01c 0.0 6 0.01 0.1 6 0.01 0.2 6 0.01
+0.6 6 0.03b 0.4 6 0.03 0.6 6 0.03 0.8 6 0.03
+0.4 6 0.02b 0.2 6 0.03 0.4 6 0.02 0.5 6 0.02
+0.2 6 0.01b 0.1 6 0.01 0.2 6 0.01 0.3 6 0.01
+3.8 6 0.04a 2.7 6 0.05 3.6 6 0.04 4.6 6 0.05
+0.5 6 0.02e 0.1 6 0.01 0.2 6 0.01 0.6 6 0.03
+6.5 6 0.12a 4.9 6 0.10 6.3 6 0.12 7.9 6 0.14
+6.9 6 0.13b 5.2 6 0.12 6.7 6 0.14 8.3 6 0.15
+2.7 6 0.06e 1.8 6 0.08 2.6 6 0.07 3.4 6 0.08
+
+1217
+0.6 6 0.04b 0.1 6 0.02 0.4 6 0.04 0.8 6 0.06
+2.4 6 0.06a 1.3 6 0.06 2.2 6 0.06 3.3 6 0.08
+0.1 6 0.02c 0.0 6 0.01 0.0 6 0.01 0.1 6 0.02
+0.1 6 0.01d 0.0 6 0.01 0.1 6 0.01 0.2 6 0.01
+0.3 6 0.01e 0.2 6 0.01 0.2 6 0.01 0.4 6 0.02
+0.2 6 0.02e 0.1 6 0.01 0.2 6 0.01 0.3 6 0.02
+0.2 6 0.02d 0.1 6 0.01 0.1 6 0.01 0.2 6 0.02
+2.5 6 0.06d 1.7 6 0.06 2.3 6 0.06 3.2 6 0.06
+0.7 6 0.06d 0.1 6 0.02 0.4 6 0.05 0.9 6 0.10
+4.4 6 0.12d 3.1 6 0.08 4.2 6 0.11 5.5 6 0.15
+5.0 6 0.17e 3.6 6 0.14 4.8 6 0.17 6.2 6 0.20
+1.2 6 0.04e 0.7 6 0.04 1.1 6 0.04 1.6 6 0.05
+
+5371
+0.6 6 0.04b 0.1 6 0.01 0.4 6 0.03 0.8 6 0.06
+1.9 6 0.07b 1.0 6 0.04 1.7 6 0.06 2.6 6 0.09
+0.3 6 0.02a 0.1 6 0.01 0.1 6 0.01 0.3 6 0.02
+0.1 6 0.01d 0.0 6 0.00 0.1 6 0.00 0.2 6 0.01
+0.7 6 0.01a 0.4 6 0.02 0.6 6 0.01 0.8 6 0.02
+0.2 6 0.01d 0.1 6 0.01 0.2 6 0.01 0.3 6 0.01
+0.1 6 0.01e 0.1 6 0.01 0.1 6 0.01 0.2 6 0.01
+3.4 6 0.05b 2.4 6 0.06 3.2 6 0.05 4.2 6 0.05
+2.8 6 0.06a 1.6 6 0.05 2.6 6 0.05 3.7 6 0.08
+4.4 6 0.03d 3.1 6 0.03 4.2 6 0.03 5.5 6 0.04
+7.3 6 0.08a 5.6 6 0.07 7.1 6 0.07 8.8 6 0.10
+2.0 6 0.05c 1.2 6 0.08 1.8 6 0.06 2.5 6 0.06
+
+2176
+0.5 6 0.03c 0.1 6 0.02 0.2 6 0.03 0.6 6 0.05
+1.4 6 0.07d 0.6 6 0.04 1.2 6 0.07 2.0 6 0.10
+0.1 6 0.02c 0.0 6 0.01 0.0 6 0.01 0.1 6 0.03
+0.1 6 0.01e 0.0 6 0.01 0.0 6 0.01 0.1 6 0.01
+0.4 6 0.03d 0.2 6 0.02 0.4 6 0.02 0.5 6 0.03
+0.2 6 0.01e 0.1 6 0.01 0.2 6 0.01 0.3 6 0.02
+0.2 6 0.01c 0.1 6 0.01 0.1 6 0.01 0.2 6 0.01
+2.5 6 0.08d 1.6 6 0.08 2.3 6 0.09 3.2 6 0.09
+0.8 6 0.07d 0.2 6 0.02 0.5 6 0.06 1.1 6 0.11
+5.6 6 0.09b 4.1 6 0.08 5.4 6 0.09 6.9 6 0.11
+6.3 6 0.12d 4.6 6 0.10 6.0 6 0.11 7.7 6 0.14
+1.7 6 0.05d 1.0 6 0.06 1.5 6 0.06 2.2 6 0.06
+
+1468
+0.5 6 0.03c 0.1 6 0.01 0.3 6 0.03 0.6 6 0.05
+2.0 6 0.08b 1.0 6 0.06 1.7 6 0.08 2.7 6 0.10
+0.2 6 0.02b 0.0 6 0.01 0.1 6 0.01 0.2 6 0.02
+0.2 6 0.01b 0.1 6 0.01 0.1 6 0.01 0.2 6 0.02
+0.4 6 0.02c 0.3 6 0.02 0.4 6 0.02 0.6 6 0.03
+0.3 6 0.02c 0.2 6 0.02 0.3 6 0.02 0.4 6 0.02
+0.1 6 0.01e 0.1 6 0.01 0.1 6 0.01 0.2 6 0.02
+3.1 6 0.06c 2.2 6 0.08 3.0 6 0.07 3.9 6 0.06
+1.4 6 0.05b 0.5 6 0.04 1.1 6 0.06 1.9 6 0.07
+5.1 6 0.12c 3.7 6 0.10 4.9 6 0.12 6.3 6 0.13
+6.5 6 0.10c 4.8 6 0.08 6.3 6 0.10 7.9 6 0.13
+2.1 6 0.06b 1.3 6 0.07 1.9 6 0.06 2.7 6 0.08
+
+925
+0.7 6 0.04a 0.2 6 0.02 0.5 6 0.03 1.0 6 0.05
+2.3 6 0.09a 1.3 6 0.07 2.1 6 0.09 3.1 6 0.12
+0.3 6 0.05a 0.1 6 0.01 0.1 6 0.03 0.4 6 0.05
+0.2 6 0.02a 0.1 6 0.01 0.1 6 0.02 0.3 6 0.03
+0.4 6 0.03c 0.3 6 0.02 0.4 6 0.03 0.6 6 0.04
+0.4 6 0.03a 0.2 6 0.02 0.4 6 0.03 0.6 6 0.05
+0.3 6 0.02a 0.1 6 0.01 0.2 6 0.01 0.3 6 0.02
+3.2 6 0.10c 2.2 6 0.10 3.0 6 0.10 4.0 6 0.11
+1.0 6 0.06c 0.3 6 0.03 0.7 6 0.06 1.4 6 0.10
+5.6 6 0.16b 4.1 6 0.13 5.4 6 0.15 6.9 6 0.19
+6.6 6 0.15b,c 5.0 6 0.14 6.4 6 0.15 8.0 6 0.17
+1.9 6 0.11c 1.2 6 0.11 1.7 6 0.12 2.5 6 0.13
+
+(Continued)
+
+TABLE 2 (Continued )
+
+DIETARY INTAKES OF HISPANICS
+
+1495
+
+Downloaded from ajcn.nutrition.org by guest on March 3, 2016
+
+Food group and statistic
+Frankfurter/luncheon meat5 Mean P25th Median P75th
+Poultry5 Mean P25th Median P75th
+Fish5 Mean P25th Median P75th
+Eggs5 Mean P25th Median P75th
+Nuts and seeds5 Mean P25th Median P75th
+All meat5 Mean P25th Median P75th
+Milk6 Mean P25th Median P75th
+Cheese6 Mean P25th Median P75th
+Yogurt6 Mean P25th Median P75th
+Dairy desserts6 Mean P25th Median P75th
+All dairy6 Mean P25th Median P75th
+All fats7 Mean P25th Median P75th
+
+Overall point estimate
+0.8 6 0.01 0.4 6 0.02 0.7 6 0.02 1.1 6 0.02
+1.8 6 0.02 1.2 6 0.04 1.7 6 0.03 2.3 6 0.04
+0.7 6 0.04 0.3 6 0.03 0.5 6 0.04 0.9 6 0.05
+0.5 6 0.01 0.2 6 0.02 0.3 6 0.02 0.6 6 0.02
+0.2 6 0.01 0.0 6 0.01 0.0 6 0.01 0.2 6 0.02
+6.1 6 0.09 4.5 6 0.07 5.9 6 0.09 7.5 6 0.12
+0.9 6 0.01 0.3 6 0.01 0.7 6 0.01 1.2 6 0.02
+0.5 6 0.01 0.3 6 0.02 0.4 6 0.02 0.7 6 0.02
+0.1 6 0.01 0.0 6 0.01 0.0 6 0.01 0.0 6 0.01
+0.2 6 0.01 0.0 6 0.01 0.1 6 0.01 0.2 6 0.02
+1.6 6 0.02 0.9 6 0.02 1.4 6 0.02 2.1 6 0.03
+5.1 6 0.07 3.3 6 0.07 4.7 6 0.07 6.4 6 0.09
+
+Cuban point estimate
+1.1 6 0.03a 0.7 6 0.03 1.0 6 0.03 1.4 6 0.04
+1.8 6 0.03d 1.2 6 0.06 1.7 6 0.04 2.3 6 0.05
+0.6 6 0.03d 0.2 6 0.03 0.5 6 0.03 0.8 6 0.04
+0.4 6 0.02d 0.1 6 0.02 0.3 6 0.02 0.5 6 0.03
+0.1 6 0.02c 0.0 6 0.01 0.0 6 0.01 0.1 6 0.01
+6.8 6 0.08a 5.2 6 0.07 6.6 6 0.08 8.3 6 0.11
+1.0 6 0.05a 0.3 6 0.02 0.8 6 0.04 1.4 6 0.07
+0.5 6 0.02b 0.2 6 0.02 0.4 6 0.02 0.6 6 0.03
+0.1 6 0.01a 0.0 6 0.01 0.0 6 0.01 0.1 6 0.01
+0.3 6 0.01a 0.1 6 0.01 0.2 6 0.02 0.4 6 0.02
+1.7 6 0.06a 1.0 6 0.04 1.6 6 0.06 2.3 6 0.08
+6.7 6 0.14a 4.9 6 0.15 6.4 6 0.14 8.2 6 0.15
+
+Dominican point Mexican point Puerto Rican Central American South American
+
+estimate
+
+estimate point estimate point estimate point estimate
+
+0.6 6 0.02e 0.3 6 0.03 0.5 6 0.03 0.8 6 0.03
+2.2 6 0.07b 1.5 6 0.07 2.1 6 0.07 2.7 6 0.09
+0.7 6 0.10b,c 0.3 6 0.06 0.5 6 0.09 0.9 6 0.15
+0.4 6 0.02c 0.1 6 0.02 0.3 6 0.02 0.5 6 0.03
+0.2 6 0.03b 0.0 6 0.01 0.0 6 0.01 0.1 6 0.02
+5.4 6 0.11c 3.9 6 0.10 5.2 6 0.11 6.6 6 0.13
+0.6 6 0.02d 0.2 6 0.01 0.5 6 0.02 0.9 6 0.03
+0.4 6 0.01b 0.2 6 0.02 0.4 6 0.02 0.6 6 0.02
+0.0 6 0.01b,c 0.0 6 0.01 0.0 6 0.01 0.0 6 0.01
+0.1 6 0.02d 0.0 6 0.01 0.0 6 0.01 0.1 6 0.03
+1.2 6 0.03e 0.7 6 0.02 1.1 6 0.03 1.6 6 0.04
+3.9 6 0.09d 2.6 6 0.08 3.6 6 0.08 4.9 6 0.11
+
+0.7 6 0.02d 0.4 6 0.02 0.6 6 0.02 1.0 6 0.02
+1.5 6 0.04e 1.0 6 0.04 1.4 6 0.04 1.9 6 0.06
+0.7 6 0.05b 0.3 6 0.04 0.5 6 0.05 1.0 6 0.08
+0.5 6 0.02a 0.2 6 0.03 0.4 6 0.03 0.8 6 0.03
+0.3 6 0.02a 0.0 6 0.01 0.1 6 0.02 0.3 6 0.04
+5.9 6 0.14b 4.4 6 0.11 5.7 6 0.14 7.2 6 0.18
+0.9 6 0.02b 0.4 6 0.02 0.8 6 0.02 1.3 6 0.02
+0.5 6 0.01a 0.3 6 0.02 0.5 6 0.02 0.7 6 0.02
+0.1 6 0.01b 0.0 6 0.01 0.0 6 0.01 0.1 6 0.01
+0.1 6 0.01c 0.0 6 0.01 0.0 6 0.01 0.1 6 0.02
+1.7 6 0.03a,b 1.0 6 0.02 1.5 6 0.03 2.2 6 0.03
+4.5 6 0.06c 3.1 6 0.08 4.3 6 0.06 5.7 6 0.07
+
+1.0 6 0.04b 0.5 6 0.03 0.8 6 0.03 1.3 6 0.05
+1.9 6 0.08c 1.2 6 0.09 1.8 6 0.09 2.4 6 0.09
+0.5 6 0.06e 0.2 6 0.03 0.4 6 0.04 0.7 6 0.08
+0.5 6 0.02b 0.2 6 0.02 0.4 6 0.02 0.6 6 0.02
+0.2 6 0.02b 0.0 6 0.01 0.0 6 0.01 0.1 6 0.02
+5.9 6 0.13b 4.3 6 0.10 5.6 6 0.12 7.2 6 0.16
+0.8 6 0.03c 0.3 6 0.02 0.7 6 0.03 1.2 6 0.04
+0.6 6 0.03a 0.3 6 0.03 0.5 6 0.03 0.7 6 0.04
+0.0 6 0.01c 0.0 6 0.01 0.0 6 0.01 0.0 6 0.01
+0.1 6 0.02b 0.0 6 0.01 0.1 6 0.01 0.1 6 0.02
+1.6 6 0.05b,c 0.9 6 0.04 1.4 6 0.05 2.1 6 0.06
+4.6 6 0.11c 3.1 6 0.08 4.2 6 0.09 5.7 6 0.14
+
+0.6 6 0.04e 0.3 6 0.04 0.5 6 0.05 0.9 6 0.05
+1.9 6 0.07c 1.3 6 0.06 1.8 6 0.07 2.4 6 0.09
+0.7 6 0.04c 0.3 6 0.04 0.5 6 0.05 0.9 6 0.06
+0.5 6 0.02b 0.2 6 0.02 0.4 6 0.02 0.7 6 0.03
+0.1 6 0.01b 0.0 6 0.01 0.0 6 0.01 0.1 6 0.01
+6.0 6 0.11b 4.5 6 0.10 5.8 6 0.12 7.4 6 0.14
+0.8 6 0.03c 0.3 6 0.02 0.6 6 0.03 1.1 6 0.04
+0.4 6 0.03c 0.2 6 0.02 0.3 6 0.03 0.5 6 0.04
+0.0 6 0.01c 0.0 6 0.01 0.0 6 0.01 0.0 6 0.01
+0.1 6 0.02c,d 0.0 6 0.01 0.0 6 0.01 0.1 6 0.02
+1.3 6 0.05d 0.7 6 0.04 1.2 6 0.05 1.7 6 0.07
+5.2 6 0.15b 3.5 6 0.12 4.8 6 0.15 6.5 6 0.20
+
+0.8 6 0.05c 0.4 6 0.04 0.7 6 0.05 1.0 6 0.07
+2.3 6 0.12a 1.6 6 0.12 2.2 6 0.13 2.8 6 0.14
+0.9 6 0.07a 0.4 6 0.04 0.7 6 0.06 1.3 6 0.10
+0.4 6 0.02c 0.1 6 0.02 0.3 6 0.02 0.5 6 0.04
+0.2 6 0.03b 0.0 6 0.01 0.0 6 0.01 0.1 6 0.04
+6.6 6 0.12a 5.0 6 0.10 6.4 6 0.12 8.0 6 0.15
+0.9 6 0.05a,b 0.4 6 0.03 0.8 6 0.05 1.3 6 0.07
+0.4 6 0.03b 0.2 6 0.02 0.4 6 0.03 0.6 6 0.04
+0.1 6 0.01b 0.0 6 0.01 0.0 6 0.01 0.1 6 0.01
+0.1 6 0.01b 0.0 6 0.01 0.1 6 0.01 0.2 6 0.02
+1.6 6 0.05c 0.9 6 0.04 1.4 6 0.05 2.0 6 0.06
+5.2 6 0.17b 3.6 6 0.13 4.9 6 0.16 6.5 6 0.22
+(Continued)
+
+1496
+TABLE 2 (Continued )
+
+SIEGA-RIZ ET AL
+
+Food group and statistic
+
+Overall point Cuban point Dominican point Mexican point Puerto Rican Central American South American
+
+estimate
+
+estimate
+
+estimate
+
+estimate point estimate point estimate point estimate
+
+Sweetened beverages8 Mean P25th Median P75th
+Diet beverages8 Mean P25th Median P75th
+Alcohol9 Mean P25th Median P75th
+
+1.4 6 0.02 0.6 6 0.02 1.2 6 0.02 2.0 6 0.03
+0.9 6 0.02 0.1 6 0.02 0.6 6 0.03 1.4 6 0.03
+0.3 6 0.02 0.0 6 0.01 0.0 6 0.01 0.2 6 0.02
+
+1.3 6 0.03c 0.7 6 0.03 1.2 6 0.03 1.8 6 0.04
+0.3 6 0.02e 0.0 6 0.01 0.1 6 0.01 0.3 6 0.04
+0.4 6 0.03a,b 0.0 6 0.01 0.1 6 0.01 0.3 6 0.03
+
+1.1 6 0.05d 0.4 6 0.03 0.9 6 0.06 1.6 6 0.07
+0.7 6 0.03d 0.1 6 0.02 0.5 6 0.03 1.0 6 0.03
+0.2 6 0.04c,d 0.0 6 0.01 0.0 6 0.01 0.1 6 0.03
+
+1.5 6 0.03b 0.6 6 0.03 1.2 6 0.03 2.1 6 0.04
+1.3 6 0.04a 0.4 6 0.03 1.0 6 0.05 1.9 6 0.06
+0.4 6 0.05a 0.0 6 0.01 0.0 6 0.01 0.2 6 0.03
+
+1.8 6 0.04a 0.8 6 0.04 1.5 6 0.05 2.4 6 0.05
+1.0 6 0.03b 0.3 6 0.03 0.8 6 0.03 1.5 6 0.03
+0.2 6 0.05b,c 0.0 6 0.01 0.0 6 0.01 0.1 6 0.03
+
+1.5 6 0.05b 0.6 6 0.04 1.3 6 0.05 2.1 6 0.06
+0.9 6 0.03c 0.2 6 0.03 0.7 6 0.04 1.3 6 0.04
+0.2 6 0.02d 0.0 6 0.01 0.0 6 0.01 0.1 6 0.02
+
+1.4 6 0.05b 0.6 6 0.04 1.1 6 0.05 1.9 6 0.06
+1.1 6 0.05b 0.4 6 0.05 0.9 6 0.05 1.6 6 0.06
+0.3 6 0.03b,c 0.0 6 0.01 0.0 6 0.01 0.1 6 0.03
+
+1 Usual intakes were calculated by using the National Cancer Institute methodology. Point estimates were calculated with MIXTRAN and DISTRIB National Cancer Institute macros, and SEs were calculated with balanced repeated replication in SAS software (version 9.3; SAS Institute Inc). All 6 values are SEs. Means in the same row with different superscript letters are significantly different at P , 0.05 [ANCOVA and Tukey-Kramer paired comparisons with
+adjustment to the overall mean age (42.4 y) and percentage of women (53.5%)]. HCHS/SOL, Hispanic Community Health Study/Study of Latinos; P25th, 25th
+percentile; P75th, 75th percentile. 2 One serving is equal to 0.5 cup fresh, frozen, canned, or cooked; 1 medium piece; 4 fl oz juice; or 0.25 cup dried fruit. Conversion factors: 1 cup =
+236.59 mL; 4 fl oz = 118.29 mL. 3 One serving is equal to 0.5 cup raw, cooked, or canned vegetables; 1 cup leafy vegetables; 4 fl oz juice; or 1 medium baked potato. Conversion factors:
+1 cup = 236.59 mL; 4 fl oz = 118.29 mL. 4 One serving is equal to 0.5 cup cooked grain or cereal pasta or rice; 16 g flour, cornmeal, bran, or wheat germ; 1 slice of bread; one-half of a bagel,
+hamburger bun, or English muffin; or 1 oz tortilla, ready-to-eat cereal, or chips. Conversion factors: 0.5 cup = 118.29 mL; 1 oz = 28.35 g. 5 One serving is equal to 1 oz, 1 large egg, 1 tbsp peanut butter, or 0.5 oz nuts or seeds. Conversion factors: 1 oz = 28.35 g; 1 tbsp = 14.79 mL. 6 One serving is equal to 1 cup fluid milk, 0.5 cup evaporated milk, 1.5 oz natural cheese or 2 oz processed cheese, 2 cups cottage cheese, 0.5 cup ricotta
+or ice cream, or 1 cup yogurt or pudding. Conversion factors: 1 cup = 236.59 mL; 1 oz = 28.35 g. 7 One serving is equal to 1 tsp margarine, oil, shortening, or butter; 30 g salad dressing; 15 g mayonnaise; 1 tbsp cream; or 30 g sour cream. Conversion
+factors: 1 tsp = 4.93 mL; 1 tbsp = 14.79 mL. 8 One serving is equal to 8 fl oz (236.59 mL). 9 One serving is equal to 12 fl oz (354.88 mL) beer or wine cooler, 5 fl oz (147.87 mL) wine, or 1.5 fl oz (44.36 mL) liquor or cordial.
+
+Downloaded from ajcn.nutrition.org by guest on March 3, 2016
+
+the exception of refined grains. Thus, studies that combine Hispanics and Latinos into one group will miss these important differences in dietary intakes that may help explain differential CVD risk profiles. Additional work within the HCHS/SOL will investigate associations between dietary intake and CVD prevalence as well as individual risk factors.
+Our observation, that dietary intakes of Dominicans were relatively lower in fat and higher in total carbohydrate and fruit intakes were similar to previous research in a smaller group conducted in Massachusetts (26). Another Hispanic-Latino group in whom previous published dietary estimates exist is Puerto Ricans. HCHS/SOL Puerto Ricans, who were mainly from the Bronx, reported lower intakes of total energy, macronutrients, and fiber than did those who were living in the greater Boston area (27). However, differences may have been attributed to the type of methodology used to collect dietary data (ie, 24-h recalls compared with a food-frequency questionnaire). Although the NDS-R version that was used for this study included more Hispanic and Latino foods, it is possible that underestimation occurred because amounts of oils used in cooking that might have differed by background were not captured, or small portion sizes that were related to amorphous foods such as rice were missed.
+Overall, median sodium intake in the HCHS/SOL (3269 mg/d) is similar to that reported in Mexican-Americans in NHANES
+
+2003-2008 (3251 mg/d) (28), whereas the estimate for Mexicans in the HCHS/SOL was slighter lower (3099 mg/d).
+The amount of sugar-sweetened beverages consumption seen in this study and other trials (29, 30) is an area of concern in the Hispanic population because of its observed associations with cardiovascular risk factors (25), abdominal obesity, and obesity in general, although the evidence for the latter association has been less conclusive (31). On average, in the HCHS/SOL, individuals reported the consumption of 18 fl oz (0.5 L) sugarsweetened beverages/d (1.5 servings), and 25% of the population reported the consumption of w23 fl oz (0.7 L) sugar-sweetened beverages/d. Within Hispanic and Latino backgrounds, Puerto Ricans reported the consumption of higher amounts of sugarsweetened beverages than these averages, and they also had the highest prevalence of obesity. The prevalence of obesity and overweight is high in the HCHS/SOL population, and additional work will explore associations between weight status and various dietary factors, including the consumption of sugar-sweetened beverages.
+Our estimates of total fruit and vegetable intakes for Mexicans in the HCHS/SOL were slightly higher that what was previously reported in the NHANES III 1988-1994 (1.52 and 3.05 servings/d of fruit and vegetables, respectively) (32). Overall, in the HCHS/SOL, intakes of dark-green or orange vegetables
+
+DIETARY INTAKES OF HISPANICS
+
+1497
+
+Downloaded from ajcn.nutrition.org by guest on March 3, 2016
+
+were low and similar to those shown in other studies (33). At the same time, the consumption of tomatoes was higher than that of potatoes, which as a pattern that was also seen in Hispanic and Latino groups who tended to be predominantly Spanish speaking (34). There is room for improvement with targeting messages concerning the health advantages of consuming nutrient-rich vegetables in the Hispanic and Latino population, notwithstanding the mixed evidence for disparities in access to these foods (35, 36).
+We purposely did not adjust for other factors besides age and sex that may have explained differences in intake across Hispanic and Latino backgrounds because our focus was to provide information on the distribution of usual nutrient and food-group intakes, which is lacking in the literature for this population. Although the use of the NCI methodology helps to improve estimates of dietary intakes, for our purpose, it does not produce results that are adjusted for income or acculturation, which may be key determinants of dietary intakes in this population (30, 33, 37). Analyses related to determinants of dietary patterns in the HCHS/SOL cohort are forthcoming.
+Our study had several limitations that should be taken into consideration including the measurement error related to selfreported diet. These limitations included both random and systematic errors. For example, participants may have had difficulty describing their diets because of memory or cognitive issues, or they may have underreported unhealthy foods or overreported healthy foods. A biomarker-based study that compares self-report to objective markers of intake, such as doubly labeled water for total energy expenditure and urinary nitrogen for protein and urinary sodium and potassium for sodium and potassium intakes, are being conducted in a subsample of the HCHS/SOL cohort. This biomarker research will help elucidate some of the measurement-error issues. Finally, the HCHS/SOL does not include other US racial-ethnic groups for comparison or a nationally representative sample of all Hispanics and Latinos living in the US because it does not cover all 50 states and territories. Despite these limitations, study protocols and, specifically, the collection of dietary data are similar in the HCHS/SOL and NHANES, which will make future comparisons to other racial-ethnic groups possible.
+In conclusion, we showed variations in nutrient and foodgroup intakes across Hispanic and Latino backgrounds that may help to explain differences in several health outcomes. Individuals from South America appear to have an overall diet that generally follows guidelines established by the American Heart Association (25), whereas this is less the case for individuals from Cuba and Puerto Rico. The practice of combining Hispanics and Latinos into one group can easily mask these differences and, thereby, minimize our ability to understand differences in health disparities that exist in the United States. Dietary patterns seen in this study may help to guide intervention studies aimed at improving dietary habits of specific Hispanic and Latino backgrounds in a more-targeted fashion.
+We thank the staff and participants in the HCHS/SOL for their important contributions.
+The authors' responsibilities were as follows--AMS-R: designed the overall research plan, wrote the manuscript, and had primary responsibility
+for the final content of the manuscript; DS-A: assisted with the research plan
+and writing of the manuscript and conducted all statistical analyses; GXA,
+JHH, KL, CML, YM-R, CLR, MDG, and LVH: assisted with the research
+plan and interpretation of results and provided critical review of the manu-
+
+script; and MG and BR: assisted in the data collection and critical review of
+the manuscript. None of the authors had a conflict of interest.
+REFERENCES
+1. US Census Bureau. 2010 census briefs: overview of race and Hispanic origin. Washington, DC: US Census Bureau, 2011.
+2. Hajat A, Lucas J, Kington R. Health outcomes among Hispanic subgroups: United States, 1992-95. Advanced data from vital and health statistics. Hyattsville, MD: National Center for Health Statistics, 2000.
+3. Willey JZ, Rodriguez CJ, Moon YP, Paik MC, Di Tullio MR, Homma S, Sacco R, Elkind M. Coronary death and myocardial infarction among Hispanics in the Northern Manhattan Study: exploring the hispanic paradox. Ann Epidemiol 2012;22:303-9.
+4. Sorlie PD, Backlund E, Johnson NJ, Rogot E. Mortality by Hispanic status in the United States. JAMA 1993;270:2464-8.
+5. Markides KS, Coreil J. The health of Hispanics in the southwestern United States: an epidemiologic paradox. Public Health Rep 1986;101: 253-65.
+6. Lock K, Pomerleau J, Causer L, Altmann DR, McKee M. The global burden of disease attributable to low consumption of fruit and vegetables: implications for the global strategy on diet. Bull World Health Organ 2005;83:100-8.
+7. Ezzati M, Lopez AD, Rodgers A, Vander Hoorn S, Murray CJ, Comparative Risk Assessment Collaborating Group. Selected major risk factors and global and regional burden of disease. Lancet 2002;360:1347-60.
+8. The Hispanic Health and Nutrition Examination Survey. Nutr Rev 1991;49:156-8.
+9. Loria CM, Bush TL, Carroll MD, Looker AC, McDowell M, Johnson CL, Sempos C. Macronutrient intakes among adult Hispanics: a comparison of Mexican Americans, Cuban Americans and mainland Puerto Ricans. Am J Public Health 1995;85:684-9.
+10. Lavange LM, Kalsbeek WD, Sorlie PD, Aviles-Santa LM, Kaplan RC, Barnhart J, Liu K, Giachello A, Lee DJ, Ryan J, et al. Sample design and cohort selection in the Hispanic Community Health Study/Study of Latinos. Ann Epidemiol 2010;20:642-9.
+11. Sorlie PD, Aviles-Santa LM, Wassertheil-Smoller S, Kaplan RC, Daviglus ML, Giachello AL, Schneiderman N, Raij L, Talavera G, Allison M, et al. Design and implementation of the Hispanic Community Health Study/Study of Latinos. Ann Epidemiol 2010;20:629- 41.
+12. Prentice RL, Mossavar-Rahmani Y, Huang Y, Van Horn L, Beresford SAA, Caan B, Tinker L, Schoeller D, Bingham S, Eaton CB, et al. Evaluation and comparison of food records, recalls and frequencies for energy and protein assessment by using recovery biomarkers. Am J Epidemiol 2011;174:591-603.
+13. Neuhouser ML, Tinker L, Shaw PA, Schoeller D, Bingham SA, Van Horn L, Beresford SAA, Caan B, Thomson C, Satterfield S, et al. Use of recovery biomarkers to calibrate nutrient consumption self-reports in the Women's Health Initiative. Am J Epidemiol 2008;167:1247-59.
+14. Subar AF, Dodd KW, Guenther PM, Kipnis V, Midthune D, McDowell M, Tooze JA, Freedman LS, Krebs-Smith SM. The food propensity questionnaire: concept, development, and validation for use as a covariate in a model to estimate usual food intake. J Am Diet Assoc 2006; 106:1556-63.
+15. Tooze JA, Grunwald GK, Jones RH. Analysis of repeated measures data with clumping at zero. Stat Methods Med Res 2002;11:341-55.
+16. Nutrition Data System for Research (NDS-R) version 2011. NDS-R software, 1998-1999 Regents of the University of Minnesota. Minneapolis, MN: Nutrition Coordinating Center, University of Minnesota.
+17. The Hispanic Community Health Study/Study of Latinos. Food Propensity Questionnaire. Available from: http://www.cscc.unc. edu/hchs/public/docfilter.php?study=hchs&filter_type=public.
+18. Block G, Hartman AM, Dresser CM, Carroll MD, Gannon J, Gardner L. A data-based approach to diet questionnaire design and testing. Am J Epidemiol 1986;124:453-69.
+19. Tooze JA, Kipnis V, Buckman DW, Carroll RJ, Freedman LS, Guenther PM, Krebs-Smith SM, Subar AF, Dodd KW. A mixed-effects model approach for estimating the distribution of usual intake of nutrients: the NCI method. Stat Med 2010;29:2857-68.
+20. Parsons R, Munuo SS, Buckman DW, Tooze JA, Dodd KW. User's Guide for Analysis of Usual Intakes. SAS macros for analysis of a single dietary component. Available from: http://riskfactor.cancer. gov/diet/usualintakes/macros_single.html (cited 10 October 2012).
+
+1498
+
+SIEGA-RIZ ET AL
+
+21. Tooze JA, Midthune D, Dodd KW, Freedman LS, Krebs-Smith SM, Subar AF, Guenther PM, Carroll RJ, Kipnis V. A new statistical method for estimating the usual intake of episodically consumed foods with application to their distribution. J Am Diet Assoc 2006;106:1575-87.
+22. Korn EL, Graubard BI. Analysis of health surveys. New York, NY: Wiley Inter-Science, 1999.
+23. Judkins DR. Fay's methods for variance estimation. J Off Stat 1990;6: 223-39.
+24. Daviglus ML, Talavera GA, Aviles-Santa ML, Allison M, Cai J, Criqui M, Gellman M, Giachello AL, Gouskova N, Kaplan RC, et al. Prevalence of major cardiovascular risk factors and cardiovascular diseases among Hispanic/Latino individuals of diverse background in the United States. JAMA 2012;308:1775-84.
+25. Eckel RH, Jakicic JM, Ard JD, Hubbard VS, deJesus JM, Lee IM, Lichtenstein AH, Loria CM, Millen BE, Miller NH, et al. AHA/ACC guideline on lifestyle management to reduce cardiovascular risk. A report of the American College of Cardiology and American Heart Association Task Force on Practice Guidelines. Circulation 2013;2013.
+26. Bermudez OI, Falcon LM, Tucker KL. Intake and food sources of macronutrients among older Hispanic adults: association with ethnicity, acculturation, and length of residence in the United States. J Am Diet Assoc 2000;100:665-73.
+27. van Rompay MI, McKeown NM, Castaneda-Sceppa C, Falcon LM, Ordovas JM, Tucker KL. Acculturation and sociocultural influences on dietary intake and health status among Puerto Rican adults in Massachusetts. J Acad Nutr Diet 2012;112:64-74.
+28. Cogswell ME, Zhang Z, Carriquiry AL, Gunn JP, Kuklina EV, Saydah SH, Yang Q, Moshfegh AJ. Sodium and potassium intakes among US adults: NHANES 2003-2008. Am J Clin Nutr 2012;96:647-57.
+
+29. Barquera S, Hernandez-Barrera L, Tolentino ML, Espinosa J, Ng SW, Rivera J, Popkin BM. Energy intake from beverages is increasing among Mexican adolescents and adults. J Nutr 2008;138:2454-61.
+30. Batis C, Hernandez-Barrera L, Barquera S, Rivera JA, Popkin BM. Food acculturation drives dietary differences among Mexicans, Mexican Americans, and non-Hispanic whites. J Nutr 2011;141: 1898-906.
+31. Bermudez OI, Gao X. Greater consumption of sweentened beverages and added sugars is associated with obesity among US young adults. Ann Nutr Metab 2010;57:211-8.
+32. Dubowitz T, Heron M, Bird CE, Lurie N, Finch BK, Basurto-Davila R, Hale L, Escarce JJ. Neighborhood socioeconomic status and fruit and vegetable intake among whites, blacks, and Mexican Americans in the United States. Am J Clin Nutr 2008;87:1883-91.
+33. Kirkpatrick SI, Dodd K, Reedy J, Krebs-Smith S. Income and race/ ethnicity are associated with adherence to food-based dietary guidance among US adults and children. J Acad Nutr Diet 2012;112:624-35.
+34. Duffey KJ, Gordon-Larsen P, Ayala GX, Popkin BM. Birthplace is associated with more adverse dietary profiles for US-born than for foreign-born Latino adults. J Nutr 2008;138:2428-35.
+35. Caspi CE, Sorensen G, Subramanian SV, Kawachi I. The local food environment and diet: a systematic review. Health Place 2012;18: 1172-87.
+36. Walker RE, Keane CR, Burke JG. Disparities and access to healthy food in the United States: a review of food deserts literature. Health Place 2010;16:876-84.
+37. Williams DR, Mohammed SA, Leavell J, Collins C. Race, socioeconomic status and health: complexities, ongoing challenges, and research opportunities. Ann N Y Acad Sci 2010;1186:69-101.
+
+Downloaded from ajcn.nutrition.org by guest on March 3, 2016
+
+

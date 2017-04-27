@@ -1,0 +1,451 @@
+Financial Conflicts of Interest and Reporting Bias Regarding the Association between Sugar-Sweetened Beverages and Weight Gain: A Systematic Review of Systematic Reviews
+Maira Bes-Rastrollo1*, Matthias B. Schulze2, Miguel Ruiz-Canela1,3, Miguel A. Martinez-Gonzalez1,3
+1 Department of Preventive Medicine and Public Health, University of Navarra, Pamplona, Spain, 2 Departament of Molecular Epidemiology, German Institute of Human Nutrition Potsdam-Rehbruecke, Nuthetal, Germany, 3 CIBERobn, Instituto de Salud Carlos III, Madrid, Spain
+Abstract
+Background: Industry sponsors' financial interests might bias the conclusions of scientific research. We examined whether financial industry funding or the disclosure of potential conflicts of interest influenced the results of published systematic reviews (SRs) conducted in the field of sugar-sweetened beverages (SSBs) and weight gain or obesity.
+Methods and Findings: We conducted a search of the PubMed, Cochrane Library, and Scopus databases to identify published SRs from the inception of the databases to August 31, 2013, on the association between SSB consumption and weight gain or obesity. SR conclusions were independently classified by two researchers into two groups: those that found a positive association and those that did not. These two reviewers were blinded with respect to the stated source of funding and the disclosure of conflicts of interest. We identified 17 SRs (with 18 conclusions). In six of the SRs a financial conflict of interest with some food industry was disclosed. Among those reviews without any reported conflict of interest, 83.3% of the conclusions (10/12) were that SSB consumption could be a potential risk factor for weight gain. In contrast, the same percentage of conclusions, 83.3% (5/6), of those SRs disclosing some financial conflict of interest with the food industry were that the scientific evidence was insufficient to support a positive association between SSB consumption and weight gain or obesity. Those reviews with conflicts of interest were five times more likely to present a conclusion of no positive association than those without them (relative risk: 5.0, 95% CI: 1.3-19.3). An important limitation of this study is the impossibility of ruling out the existence of publication bias among those studies not declaring any conflict of interest. However, the best large randomized trials also support a direct association between SSB consumption and weight gain or obesity.
+Conclusions: Financial conflicts of interest may bias conclusions from SRs on SSB consumption and weight gain or obesity.
+Please see later in the article for the Editors' Summary.
+Citation: Bes-Rastrollo M, Schulze MB, Ruiz-Canela M, Martinez-Gonzalez MA (2013) Financial Conflicts of Interest and Reporting Bias Regarding the Association between Sugar-Sweetened Beverages and Weight Gain: A Systematic Review of Systematic Reviews. PLoS Med 10(12): e1001578. doi:10.1371/ journal.pmed.1001578
+Academic Editor: David Stuckler, University of Oxford, United Kingdom
+Received June 5, 2013; Accepted November 18, 2013; Published December 31, 2013
+Copyright:  2013 Bes-Rastrollo et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Funding: No funding was received for this work.
+Competing Interests: The authors have declared that no competing interests exist.
+Abbreviations: RCT, randomized controlled trial; SR, systematic review; SSB, sugar-sweetened beverage.
+* E-mail: mbes@unav.es
+
+Introduction
+The use of industry funding for scientific research might influence the results of published studies, leading to conclusions that could ultimately support the industry's interests. Examples of this include biased findings by the tobacco industry [1] and the energy industry's approach to climate change [2]. This issue has been thoroughly discussed in pharmaceutical studies, where the dangers of the use of so-called scientific evidence in industry marketing and profit-making strategies have been noted [3-6]. However, little is known about the potential role of industry sponsorship in the field of nutrition, where not only
+
+industry-sponsored studies might be biased: it is also possible that some degree of bias might exist in studies conducted by academic authors who work independently of industry funding. They may have other sources of funding with other interests, and they may have their prejudices, too. In an ideal world free from such biases, a perfect consistency between studies with different sources of funding would be expected. If that consistency is not found, this may represent empirical evidence of bias. This issue requires serious analysis, because biased information about scientific evidence regarding nutrition may negatively affect the health of the entire population. Furthermore, scientific evidence from nutrition research leads to the
+
+PLOS Medicine | www.plosmedicine.org
+
+1 December 2013 | Volume 10 | Issue 12 | e1001578
+
+Conclusions from Food Industry Sponsorship
+
+formulation of governmental and professional dietary guidelines as well as public health interventions and regulation [7], heightening our concern regarding possible partiality or distortion of facts.
+The influence of sugar-sweetened beverages (SSBs) on weight gain and obesity has been extensively researched and debated in the last few years [8,9]. The potential influence of the source of sponsorship has become a crucial issue in this context, because high financial profits are at stake [10,11]. For example, in May 2008, the Australian Competition and Consumer Commission reported that a marketing campaign for a well-known SSB company was misleading [12]. However, little information exists regarding how research funded by beverage companies or sugar industries may try to counteract detrimental findings by independent researchers, and may contribute to disseminating contradictory and inconclusive information to the scientific community and the general public.
+Systematic reviews (SRs) and meta-analyses represent an efficient and comprehensive way to access the available evidence on particular exposure-disease associations. However, publication bias related to authors' conflicts of interest in a SR may affect the reliability of its conclusions. Beverage and sugar industries tend to play leading roles in the reported conflicts of interest of some researchers actively publishing in the field of SSB and obesity. Therefore, we assessed whether the disclosure of potential financial conflicts of interest with these industries was associated with conclusions on SSB consumption and weight gain or obesity in published SRs.
+Methods
+Standard methods for conducting and reporting SRs were used [13].
+We conducted a search of three databases (PubMed [http:// www.ncbi.nlm.nih.gov/pubmed/], the Cochrane Library [http:// www.thecochranelibrary.com/view/0/index.html], and Scopus [http://www.elsevier.com/online-tools/scopus]) in the time period from the inception of the databases to August 31, 2013. Additional articles were identified from reference lists of relevant studies and reviews. We used a sensitive search strategy in order to retrieve SRs of studies conducted on humans and written in English, Spanish, or French. The following combinations of terms were used: (soft drink or soft drinks or soda or beverage*) and (body mass index or bmi or weight or obes* or overweight). We included all SRs (with or without meta-analyses) that stated specific search criteria and information about the databases used, and that conducted a SR on the topic of SSBs as a potential risk factor for weight gain or obesity.
+Two researchers, blinded to the authors' financial conflicts of interest and stated sources of funding, independently extracted the conclusions stated in the articles. The agreement between the researchers was 93.3% (Kappa index: 0.86; p,0.001); disagreement was resolved through a third researcher's assessment, to reach a consensus. Based on these conclusions, we classified the SRs into those that had found a positive association versus those that had not for the relationship between SSB consumption and weight gain or obesity. SRs were considered to have a conclusion of a positive association when they concluded that SSB consumption may increase the risk of weight gain or overweight/obesity. By contrast, SRs were considered to have a conclusion of no positive association when they concluded that there was insufficient evidence to assess the risk of SSB consumption on weight gain or obesity, or when they presented contradictory results without stating any definitive conclusion about the association.
+
+A third researcher classified the SRs according to the authors' financial conflicts of interest or stated sources of funding. Potential financial conflicts of interest were identified if an explicit statement in this regard was made in the text by any of the authors, or if a declared affiliation or financial disclosure by the author evidenced a link with a food industry.
+We also evaluated whether the identified SRs used standard methods for conducting and reporting SRs.
+The association between stated conflicts of interest and the articles' conclusions was assessed using Poisson regression analysis to adjust for year of publication and whether the article was published in a journal in the first quartile of impact factor within its category (according to ISI Web of Knowledge), or to adjust for the number of citations per year for each SR since its publication. We also adjusted for the existence/inexistence of summarizing point estimates (meta-analyses). Risk ratios and their 95% confidence intervals were calculated. Stata 12.1 (StataCorp) was used for all analyses.
+Results
+Our final study was based on 17 out of 405 potentially eligible articles (Figure 1) [14-30]. Twelve of them focused on adults and child/adolescent populations, four only on children/adolescents, and one only on adults. Twelve were SRs with no meta-analysis (Table 1).
+One of the reviews [15] was identified twice because the analyses were reported separately for adults and children/ adolescents and achieved different conclusions; therefore we included a total of 18 conclusions from the 17 SRs in the analysis.
+Six SRs [17,19,21-23,27] declared potential conflicts of interest with industry, and 11 declared having no potential conflicts of interest with industry or did not report on potential conflicts of interest. Among those that reported having no potential conflicts of interest, seven of them stated that grants from governments, universities, or academic research centers funded their studies. Four SRs did not report on sources of funding [16,20,24,30], although two of these SRs explicitly declared having no conflicts of interest [20,30]. We contacted the corresponding authors for the other two SRs [16,24], who confirmed that there were no conflicts of interest when the SRs were performed.
+Sixty-one percent of the conclusions from the 17 SRs (11/18 conclusions) supported an adverse association between SSB consumption and weight gain or obesity; none reported any significant benefit.
+Thirty-three percent (6/18 conclusions) of the conclusions from the 17 SRs were associated with a potential financial conflict of interest. The conflict of interest in four of these six reviews (66.7%) was based on the funding to conduct the SR. However, three out of four SRs in this category stated that the food company did not play a role in the selection or methodological assessment of the included studies, nor in the interpretation of the results or conclusions reached.
+Among the SRs that reported having no conflict of interest (11 SRs with 12 conclusions), 83.3% conclusions (10/12) were that SSBs were directly associated with increased weight gain or obesity. In contrast, 83.3% (5/6) of the conclusions from SRs that reported having some conflict of interest with the food industry were that there was insufficient scientific evidence to support a positive association (Table 2). The SRs with conflicts of interest were five times more likely to present a conclusion of no positive association than those without them (95% CI: 1.29-19.34 for the non-adjusted risk ratio). This association remained basically unchanged even after considering the year of publication and
+
+PLOS Medicine | www.plosmedicine.org
+
+2 December 2013 | Volume 10 | Issue 12 | e1001578
+
+Conclusions from Food Industry Sponsorship
+
+Figure 1. Flow-chart of systematic reviews included in the final analysis. The search used the following combinations of terms: (soft drink or soft drinks or beverage* or soda) and (body mass index or bmi or weight or obes* or overweight); filters: Review and Human; date: up to August 31, 2013. doi:10.1371/journal.pmed.1001578.g001
+
+the impact factor quartile of the journal in the analysis (adjusted relative risk: 5.16, 95% CI: 1.30-20.48) (Table 3). No substantial modifications were noted when adjusting for the number of citations per year since publication, or the existence of summarizing point estimates (relative risk: 4.71, 95% CI: 1.22-18.13, and relative risk: 5.00, 95% CI: 1.32-18.96, respectively).
+We identified only two SRs [15,29] that specifically reported using the PRISMA guidelines as the standard method for conducting and reporting the meta-analysis. Nine of the SRs were published in 2009 or before, but none of these mentioned the MOOSE guidelines, the standard reference before the PRISMA statement was issued in 2009. One SR [19] reported the use of the Scottish Intercollegiate Guidelines Network as the guideline for reporting the SR. Among the 17 SRs included in our study, only three [15,17,29] reported a flowchart of the study search and selection process as recommended by PRISMA.
+When we analyzed the original articles included in each SR, we observed the existence of high heterogeneity in the selection of original studies to be included in the SRs. Part, but not all, of this heterogeneity could be explained by differences in inclusion criteria such as the time frame of the meta-analyses, the types of study designs to be included (there were some SRs that included only randomized controlled trials [RCTs], others selected only prospective studies and RCTs, and other SRs also included crosssectional studies as well as prospective studies and RCTs), and the population included in the meta-analysis (in some SRs only children and adolescents, and in other SRs only adults). We identified two SRs without conflicts of interest [14,16] and one SR funded by the food industry [19] that did not include in their search strategy all the available literature when the review was undertaken. Similarly, another food industry-funded SR [27] did
+
+not include one of the RCTs already included in a previous SR [28], and therefore available at the time of the literature search.
+Discussion
+The main finding of our assessment was that those SRs with stated sponsorship or conflicts of interest with food or beverage companies were five times more likely to report a conclusion of no positive association between SSB consumption and weight gain or obesity than those reporting having no industry sponsorship or conflicts of interest. This difference could be explained by a potential bias in the design, analysis, or interpretation of the results obtained in the SRs, depending on whether the authors reported having any financial conflict of interest or not.
+To our knowledge, this is the first SR that specifically examines the influence of financial conflicts of interest on the conclusions of SRs connecting SSBs and weight gain. Our results concur with those of a previous study that concluded that industry funding of nutrition-related scientific articles may bias conclusions in favor of sponsors' products [7]. The blind and independent assessment by two researchers reinforces the reliability of our data. To maintain objectivity, we did not attempt to acquire independent information about study sponsorship beyond that declared by the authors in their articles. The strengths of our study include the blinded scaling of the conclusions of SRs, and the almost unanimous agreement between the two researchers.
+It might be worthwhile to further explore the implications of biased reviews, with their consequent dissemination of flawed information to public health policy makers and medical practitioners. Industry sponsorship is likely to have contributed to this detrimental bias. On the other hand, some researchers argue that
+
+PLOS Medicine | www.plosmedicine.org
+
+3 December 2013 | Volume 10 | Issue 12 | e1001578
+
+PLOS Medicine | www.plosmedicine.org
+
+Table 1. Characteristics of the systematic reviews about sugar-sweetened beverages and obesity up to August 31, 2013.
+
+Conclusions from Food Industry Sponsorship
+
+4 December 2013 | Volume 10 | Issue 12 | e1001578
+
+SR
+Malik et al. [29]
+
+Number of
+
+Year of
+
+Studies Included
+
+Publication in the SRs
+
+2013
+
+22 prospective studies 10 RCTs
+
+Population
+Adults and children/ adolescents
+
+Study Type
+
+Conflicts of Interest with Food Companies
+
+SR and metaanalysis
+
+No
+
+Te Morenga et al. [15]
+
+2012
+
+Hauner et al. [30]
+
+2012
+
+Osei-Assibey et al. [14]
+Clabaugh and Neuberger [16]
+
+2012 2011
+
+Mattes et al. [17]
+
+2011
+
+WoodwardLopez et al. [18]
+Ruxton et al. [19]
+Dennis et al. [21]
+
+2010 2010 2009
+
+Olsen and
+
+2009
+
+Heitmann [20]
+
+Wolff and
+
+2008
+
+Dansinger [25]
+
+Harrington [24] 2008
+
+7 prospective studies 5 RCTs
+
+Adults and children/ adolescents
+
+23 prospective studies 10 RCTs
+
+Adults and children/ adolescents
+
+4 prospective studies 4 RCTs
+3 cross-sectional studies 5 prospective studies 1 RCT
+12 RCTs in the SR 10 RCTs in the meta-analysis
+
+Children/ adolescents
+Children/ adolescents
+Adults and children/ adolescents
+
+32 cross-sectional studies 24 prospective studies
+5 prospective studies 3 RCTs
+2 cross-sectional studies 1 prospective study 4 RCTs
+
+Adults and children/ adolescents
+Adults and children/ adolescents
+Adults
+
+14 prospective studies 5 RCTs
+15 cross-sectional studies 10 prospective studies 5 RCTs
+2 time trend studies 3 prospective studies 2 RCTs
+
+Adults and children/ adolescents
+Adults and children/ adolescents
+Children/ adolescents
+
+SR and metaanalysis
+
+No
+
+SR No
+
+SR No SR No
+
+SR and metaanalysis
+
+Yes (Coca-Cola Company, PepsiCo)
+
+SR No
+
+SR Yes (Sugar Bureau, UK)
+SR Yes (Institute for Public Health and Water Research)
+SR No
+
+SR No
+
+SR No
+
+Grading of SR Conclusion
+
+SR Conclusions (Meta-Analysis Estimates)
+
+Positive association
+No positive association and positive association Positive association
+Positive association Positive association
+
+``Our systematic review and meta-analysis of prospective cohort studies and RCTs provides evidence that SSB consumption promotes weight gain in children and adults.'' (Prospective studies--children: BMI change: 0.06; 95% CI: 0.02-0.10; prospective studies--adults: weight change: 0.22 kg, 95% CI: 0.09-0.34, per one daily serving increment; RCTs--children: BMI change: 20.17, 95% CI: 20.39 to 0.05, when SSBs were reduced; RCTs--adults: weight change: 0.85 kg, 95% CI: 0.50-1.20, when SSBs were added.)
+``Trials in children which involved the recommendations to reduce intake of sugar sweetened foods and beverages showed no overall change in body weight....In prospective studies SSB consumption was associated with the risk of being overweight or obese.'' (odds ratio: 1.55, 95% CI: 1.32-1.82, highest consumption versus lowest consumption).
+``The available cohort and intervention studies regarding adults mainly show that a higher consumption of sugar-sweetened beverages is accompanied by an increased risk of obesity. The overall evidence regarding an increased risk of obesity due to higher consumption of sugarsweetened beverages in children and adolescents is therefore only judged as possible.''
+``Providing alternatives to sugar-sweetened soft drinks should be considered in obesity prevention.''
+``Education and political action by nurses to promote a decrease in SSB intake is a step in the right direction in reducing obesity in our children.''
+
+No positive association
+Positive association
+
+``The current evidence does not demonstrate conclusively that nutritively sweetened beverage (NSB) consumption has uniquely contributed to obesity or that reducing (NSB) consumption will reduce BMI levels in general.'' (BMI change: 20.004, 95% CI: 20.079 to 0.072, when SSBs were reduced.)
+``All lines of evidence consistently support the conclusion that the consumption of sweetened beverages has contributed to the obesity epidemic.''
+
+No positive ``Some studies, specifically on sweetened beverages, highlighted a potential concern in relation association to obesity risk, although these were limited by important methodological issues.''
+
+Positive association
+
+``A reduced intake of energy-containing beverages may facilitate weight management.''
+
+Positive association
+
+``A high intake of calorically sweetened beverages can be regarded as a determinant of obesity.''
+
+No positive association
+Positive association
+
+``Given the magnitude of the public health concern, larger and longer intervention trials should be considered to clarify the specific effects of sugar-sweetened soft drinks on body weight and other cardiovascular risk factors.''
+``Single intervention manipulation, elimination, or marked reduction of SSB consumption may serve to decrease caloric intake, increase satiety levels, decrease tendencies towards insulin resistance, and simplify the process of weight management in children and adolescents.''
+
+PLOS Medicine | www.plosmedicine.org
+
+Table 1. Cont.
+
+Conclusions from Food Industry Sponsorship
+
+5 December 2013 | Volume 10 | Issue 12 | e1001578
+
+SR Gibson [22]
+Forshee et al. [23]
+Vartanian et al. [26] Forshee et al. [27]
+Malik et al. [28]
+
+Number of
+
+Year of
+
+Studies Included
+
+Publication in the SRs
+
+2008 2008
+2007
+
+23 cross-sectional studies 17 prospective studies 4 RCTs
+12 (10 prospective studies and 2 RCTs) in the SR 10 (8 prospective studies and 2 RCTs) in the meta-analysis
+12 prospective studies 7 RCTs
+
+2007 2006
+
+4 ecological studies 8 cross-sectional studies 7 prospective studies 1 RCT
+15 cross-sectional studies 10 prospective studies 5 RCTs
+
+Population Adults and children/ adolescents
+Children/ adolescents
+Adults and children/ adolescents Adults and children/ adolescents
+Adults and children/ adolescents
+
+BMI, body mass index. doi:10.1371/journal.pmed.1001578.t001
+
+Study Type SR
+SR and metaanalysis
+
+Conflicts of Interest with Food Companies
+Yes (Union of European Beverages Associations)
+Yes (American Beverage Association)
+
+SR and metaanalysis
+SR
+
+No
+Yes (Tate and Lyle)
+
+SR No
+
+Grading of SR Conclusion
+
+SR Conclusions (Meta-Analysis Estimates)
+
+No positive association
+
+``Despite the large number of studies on this topic, the inconsistencies of definition, design, statistical treatment and interpretation make it difficult to draw definitive conclusions as to whether sugar-sweetened beverages are significantly implicated in weight gain.''
+
+No positive association
+
+``The quantitative meta-analysis and qualitative review found that the association between sugar-sweetened beverages consumption and BMI was near zero, based on the current body of scientific evidence.'' (BMI change per one serving of SSB increase: 0.03, 95% CI: 20.01 to 0.07.)
+
+Positive association
+
+``Recommendations to reduce population soft drink consumption are strongly supported by the available science.'' (Overall average body weight effect size: 0.08, 95% CI: 0.06-0.09.)
+
+No positive association
+
+``Evidence from ecological studies linking high fructose corn syrup (HFCS) or `soft drinks' (proxy for HFCS) with rising BMI rates is unreliable. Evidence from epidemiologic studies and randomized controlled trials is inconclusive.''
+
+Positive association
+
+``Although more research is needed, sufficient evidence exists for public health strategies to discourage consumption of sugary drinks as part of a healthy lifestyle.''
+
+Conclusions from Food Industry Sponsorship
+
+Table 2. Relationship between conflicts of interest with food companies and conclusions on sugar-sweetened beverage consumption and weight gain in the systematic reviews conducted up to August 31, 2013.
+
+Conflict of Interest with Food Companies
+Yes No
+
+Grading of SR Conclusion
+Number (Percent) Reporting Positive Association
+1 (16.7%) 10 (83.3%)
+
+Number (Percent) Reporting No Positive Association
+5 (83.3%) 2 (16.7%)
+
+Total
+6 12
+
+One study, Te Morenga et al. [14], that reported having no conflict of interests with food companies was included twice, one for positive association (in adults) and another for no positive association (in children and adolescents). doi:10.1371/journal.pmed.1001578.t002
+
+industry should be allowed to also play a role because science should not be the dominion of only one segment of society. In their view, the body of literature would be poorer in both breath and scope if some segments were excluded from the research arena [31]. We agree with this view, as industry-funded research projects, large and small, comprise a large proportion of all food science and nutrition research [32,33], but the present results remain as a reason for concern when interpreting reviews funded by food industries with vested interests in the conclusions of those reviews.
+An alternative, but less likely, explanation for our results could be the potential existence of publication bias only among nonindustry-funded research projects [34].
+Our results showed that potential financial conflicts of interest do influence the conclusions of SRs. It could be argued that we have not assessed which interpretation is truly accurate and that the bias might be on the part of the non-industry-funded researchers because of prejudices or publication bias [34]. However, the interests of food industry (increased sales of food products) are different from a researcher's task (which, at best, is the honest pursuit of knowledge and, at worst, the advancement of her or his career). In addition, the most recently published evidence in this field [35] and a new comprehensive SR and metaanalysis [29] support a positive direct association between SSB consumption and weight gain or obesity. The two largest and best RCTs in children [36,37] and the largest study assessing the biological plausibility of gene-SSB interactions in adults [38] also support a detrimental effect of SSB on overweight/obesity. Notably, the last review with potential conflicts of interest was conducted in 2009. After that year, research funded by the food industry on this topic centered more on methodological issues than on providing new numerical results [39].
+We should consider that, in the first place, scientific endeavor should seek the truth, irrespective of financial or other interests. If other concerns influence the results of research, nutrition science
+
+as a whole is likely to suffer, partly because of incorrect information and partly through a loss of confidence in the discipline from the general public. Eventually, nutrition research itself might be at risk because perceived biases would threaten to make it irrelevant. The influence of biased reviews on policy makers and medical practitioners might also be another potential threat for public health [40,41]. Furthermore, we must take into account the fact that the potential misleading role of the food industry on health issues is greater in developing countries than in developed ones [42].
+For all these reasons, the scientific community should make special efforts to preclude funding by parties with vested interests at all levels, to sustain the credibility of nutritional science within the general population and to protect the scientific endeavors in this field. This does not imply that industry sponsorship should be avoided completely, since it serves to drive nutrition research. However, clearly implemented guidelines and principles need to be established, to avoid dangerous conflicts of interest (for example, requiring industry sponsors to sign contracts that state that they will not participate in the selection of data or methodological assessment, nor in the interpretation of the results or conclusions reached) [32]. All the stakeholders should take the necessary steps to achieve this goal. Public health organizations should play a leading role in addressing these issues, to revitalize their upstream political functions and to regain their role in society [43]. In addition, according to Moodie and colleagues, there is no evidence to support the effectiveness or safety of self-regulation and public-private partnerships to improve public health [44]. Indeed, requiring or creating the conditions that would permit the public health sector to work independently of the food industry might actually lead to more significant results, with no threat of bias.
+Our results confirm the hypothesis that authors of SRs may draw their conclusions in ways consistent with their sponsors' interests [45]. Researchers working with or sponsored by the
+
+Table 3. Risk ratios for the conclusion of no positive association between sugar-sweetened beverages and weight gain in the systematic reviews conducted up to August 31, 2013.
+
+Risk Ratio
+Crude risk ratio (95% CI) Adjusted for year of publication (95% CI) Adjusted for year of publication and the whether published in a journal in the first impact factor quartile of its category (95% CI)
+
+No Conflict of Interest with Food Companies
+1 (Ref.) 1 (Ref.) 1 (Ref.)
+
+doi:10.1371/journal.pmed.1001578.t003
+
+Conflict of Interest with Food Companies
+5.00 (1.29-19.34) 4.94 (1.23-19.90) 5.16 (1.30-20.48)
+
+PLOS Medicine | www.plosmedicine.org
+
+6 December 2013 | Volume 10 | Issue 12 | e1001578
+
+Conclusions from Food Industry Sponsorship
+
+industry may be subjected to conscious or unconscious pressure, and they need help to resist such pressure. In this context, journal editors have a role in reducing this potential bias by formulating and reinforcing policies that require the disclosure of conflicts of interest, and assuring that objective standards are achieved [46]. A uniform and full disclosure of conflicts of interest is an important, though not the only, step in the prevention of bias in research, though some might consider it excessively burdensome [47].
+Summarizing, conclusions that are based on evidence about SSBs and weight gain substantially differ depending on the authors' financial conflicts of interest. SRs supported by beverage and sugar industries frequently reported a lack of association between the consumption of SSBs and obesity, leading to contradictory results when compared to original studies included in the SR. However, most reviews that reported having no conflicts of interest argued that current evidence justified public health strategies that discourage the consumption of SSBs. This lack of consistency between both groups of SRs suggests an empirical evidence of bias.
+Conclusions SRs with financial conflicts of interest were five times more
+likely to present a conclusion of no positive association between SSB consumption and obesity than those without them.
+Our findings serve to draw attention to possible inaccuracies in scientific evidence from research funded by the food industry.
+References
+1. Barnes DE, Hanauer P, Slade J, Bero LA, Glantz SA (1995) Environmental tobacco smoke. The Brown and Williamson documents. JAMA 274: 248-253.
+2. Shrader-Frechette K (2011) Climate change, nuclear economics, and conflicts of interest. Sci Eng Ethics 17: 75-107.
+3. Bekelman JE, Li Y, Gross CP (2003) Scope and impact of financial conflicts of interest in biomedical research: a systematic review. JAMA 289: 454-465.
+4. Kottow M (2010) Ethical quandaries posing as conflicts of interest. J Med Ethics 36: 328-332.
+5. Wang AT, McCoy CP, Murad MH, Montori VM (2010) Association between industry affiliation and position on cardiovascular risk with rosiglitazone: cross sectional systematic review. BMJ 340: c1344. doi:10.1136/bmj.c1344.
+6. Angell M (2005) The truth about the drug companies: how they deceive us and what to do about it. New York: Random House Trade Paperbacks.
+7. Lesser LI, Ebbeling CB, Goozner M, Wypij D, Ludwig DS (2007) Relationship between funding source and conclusion among nutrition-related scientific articles. PLoS Med 4: e5. doi:10.1371/journal.pmed.0040005
+8. Allison DB, Mattes RD (2009) Nutritively sweetened beverage consumption and obesity: the need for solid evidence on a fluid issue. JAMA 301: 318-320.
+9. Weed DL, Althuis MD, Mink PJ (2011) Quality of reviews on sugar-sweetened beverages and health outcomes: a systematic review. Am J Clin Nutr 94: 1340-1347.
+10. Nestle M (2007) Food politics: how the food industry influences nutrition and health, 2nd edition. Berkeley: University of California Press.
+11. Nestle M (2001) Food company sponsorship of nutrition research and professional activities: a conflict of interest? Public Health Nutr 4: 1015-1022.
+12. Australian Competition and Consumer Commission (2009) ACCC acts on Coca-Cola myth-busting. Available: http://www.accc.gov.au/media-release/ accc-acts-on-coca-cola-myth-busting. Accessed 19 November 2013.
+13. Moher D, Liberati A, Tetzlaff J, Altman DG (2009) Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. PLoS Med 6: e1000097. doi:10.1371/journal.pmed.1000097
+14. Osei-Assibey G, Dick S, Macdiarmid J, Semple S, Reilly JJ, et al. (2012) The influence of the food environment on overweight and obesity in young children: a systematic review. BMJ Open 2: e001538. doi:10.1136/bmjopen-2012-001538
+15. Te Morenga L, Mallard S, Mann J (2012) Dietary sugars and body weight: systematic review and meta-analyses of randomised controlled trials and cohort studies. BMJ 346: e7492. doi:10.1136/bmj.e7492
+16. Clabaugh K, Neuberger GB (2011) Research evidence for reducing sugar sweetened beverages in children. Issues Compr Pediatr Nurs 34: 119-130.
+17. Mattes RD, Shikany JM, Kaiser KA, Allison DB (2011) Nutritively sweetened beverage consumption and body weight: a systematic review and meta-analysis of randomized experiments. Obes Rev 12: 346-365.
+18. Woodward-Lopez G, Kao J, Ritchie L (2010) To what extent have sweetened beverages contributed to the obesity epidemic? Public Health Nutr 14: 499-509.
+19. Ruxton CHS, Gardner EJ, McNulty HM (2010) Is sugar consumption detrimental to health? A review of the evidence 1995-2006. Crit Rev Food Sci Nutr 50: 1-19.
+
+Supporting Information
+Protocol S1 Protocol for the systematic review. (PDF)
+Table S1 Original articles included in the systematic reviews. (DOCX)
+Text S1 PRISMA statement. (DOCX)
+Acknowledgments
+We thank Dr. Kimberly Clabaugh and Dr. Susan Harrington for their attention to our query about their potential conflicts of interest in the development of their SRs. We also thank Dr. Rosalia Baena for her help in the copyediting of this text.
+Author Contributions
+Conceived and designed the experiments: MBR MAMG. Performed the experiments: MBR MAMG MRC. Analyzed the data: MBR. Wrote the first draft of the manuscript: MBR. Contributed to the writing of the manuscript: MBR MBS MRC MAMG. ICMJE criteria for authorship read and met: MBR MBS MRC MAMG. Agree with manuscript results and conclusions: MBR MBS MRC MAMG.
+20. Olsen NJ, Heitmann BL (2009) Intake of calorically sweetened beverages and obesity. Obes Rev 10: 68-75.
+21. Dennis EA, Flack KD, Davy BM (2009) Beverage consumption and adult weight management: a review. Eating Behav 10: 237-246.
+22. Gibson S (2008) Sugar-sweetened soft drinks and obesity: a systematic review of the evidence from observational studies and interventions. Nutr Res Rev 21: 134-147.
+23. Forshee RA, Anderson PA, Storey ML (2008) Sugar-sweetened beverages and body mass index in children and adolescents: a meta-analysis. Am J Clin Nutr 87: 1662-1671.
+24. Harrington S (2008) The role of sugar-sweetened beverage consumption in adolescent obesity: a review of the literature. J Sch Nurs 24: 3-12.
+25. Wolff E, Dansinger ML (2008) Soft drinks and weight gain: how strong is the link? Medscape J Med 10: 189.
+26. Vartanian LR, Schwartz MB, Brownell KD (2007) Effects of soft drink consumption on nutrition and health: a systematic review and meta-analysis. Am J Public Health 97: 667-675.
+27. Forshee RA, Storey ML, Allison DB, Glinsmann WH, Hein GL, et al. (2007) A critical examination of the evidence relating high fructose corn syrup and weight gain. Crit Rev Food Sci Nutr 47: 561-582.
+28. Malik VS, Schulze MB, Hu FB (2006) Intake of sugar-sweetened beverages and weight gain: a systematic review. Am J Clin Nutr 84: 274-288.
+29. Malik VS, Pan A, Willett WC, Hu FB (2013) Sugar-sweetened beverages and weight gain in children and adults: a systematic review and meta-analysis. Am J Clin Nutr 98: 1084-1102.
+30. Hauner H, Bechtold A, Boeing H, Bronstrup A, Buyken A, et al. (2012) Evidence-Based guideline of the German Nutrition Society: carbohydrate intake and prevention of nutrition-related diseases. Ann Nutr Metab 60 (Suppl 1): 1- 58.
+31. Hentges E (2009) Reply to LI Lesser. Am J Clin Nutr 90: 700-701. 32. Rowe S, Alexander N, Clydesdale FM, Applebaum RS, Atkinson S, et al. (2009)
+Funding food science and nutrition research: financial conflicts and scientific integrity. Am J Clin Nutr 89: 1285-1291. 33. Thomas O, Thabane L, Douketis J, Chur R, Westfall AO, et al. (2008) Industry funding and the reporting quality of large long-term weight loss trials. Int J Obes (Lond) 32: 1531-1536. 34. Cope MB, Allison DB (2010) White hat bias: examples of its presence in obesity research and a call for renewed commitment of faithfulness in research reporting. Int J Obes (Lond) 34: 84-88. 35. Hu FB (2013) Resolved: there is sufficient scientific evidence that decreasing sugar-sweetened beverage consumption will reduce the prevalence of obesity and obesity-related diseases. Obes Rev 14: 606-619. 36. Ebbeling CB, Feldman HA, Chomitz VR, Antonelli TA, Gortmaker SL, et al. (2012) A randomized trial of sugar-sweetened beverages and adolescent body weight. N Engl J Med 367: 1407-1416.
+
+PLOS Medicine | www.plosmedicine.org
+
+7 December 2013 | Volume 10 | Issue 12 | e1001578
+
+Conclusions from Food Industry Sponsorship
+
+37. De Ruyter JC, Olthof MR, Seidell JC, Katan MB (2012) A trial of sugar-free or sugar-sweetened beverages and body weight in children. N Engl J Med 367: 1397-1406.
+38. Qi Q, Chu AY, Kang JH, Jensen MK, Curhan GC, et al. (2012) Sugarsweetened beverages and genetic risk of obesity. N Engl J Med 367: 1387-1396.
+39. Althuis MD, Weed DL (2013) Evidence mapping: methodologic foundations and application to intervention and observational research on sugar-sweetened beverages and health outcomes. Am J Clin Nutr 98: 755-768.
+40. The PLoS Medicine Editors (2012) PLoS Medicine series on Big Food: the food industry is ripe for scrutiny. PLoS Med 9: e1001246. doi:10.1371/ journal.pmed.1001246
+41. Stuckler D, Nestle M (2012) Big Food, food systems, and global health. PLoS Med 9: e1001242. doi:10.1371/journal.pmed.1001242
+42. Stuckler D, McKee M, Ebrahim S, Basu S (2012) Manufacturing epidemics: the role of global producers in increased consumption of unhealthy commodities
+
+including processed foods, alcohol, and tobacco. PLoS Med 9: e1001235. doi:10.1371/journal.pmed.1001235 43. Hastings G (2012) Why corporate power is a public health priority. BMJ 345: e5124. doi:10.1136/bmj.e5124 44. Moodie R, Stuckler D, Monteiro C, Sheron N, Neal B, et al. (2013) Profits and pandemics: prevention of harmful effects of tobacco, alcohol, and ultraprocessed food and drink industries. Lancet 381: 670-679. 45. Lesser LI (2009) Reducing potential bias in industry-funded nutrition research. Am J Clin Nutr 90: 699-700. 46. Kuehn BM (2013) Harmonizing reporting of financial conflicts. JAMA 309: 19. 47. Drazen JM, de Leeuw PW, Laine C, Mulrow C, DeAngelis CD, et al. (2010) Toward more uniform conflicts disclosures--the updated ICMJE conflicts of interest reporting form. JAMA 304: 212-213.
+
+PLOS Medicine | www.plosmedicine.org
+
+8 December 2013 | Volume 10 | Issue 12 | e1001578
+
+Conclusions from Food Industry Sponsorship
+
+Editors' Summary
+Background. In our daily lives, we frequently rely on the results of scientific research to make decisions about our health. If we are healthy, we may seek out scientific advice about how much exercise to do to reduce our risk of a heart attack, and we may follow dietary advice issued by public health bodies to help us maintain a healthy weight. If we are ill, we expect our treatment to be based on the results of clinical trials and other studies. We assume that the scientific research that underlies our decisions about health-related issues is unbiased and accurate. However, there is increasing evidence that the conclusions of industry-sponsored scientific research are sometimes biased. So, for example, reports of drug trials sponsored by pharmaceutical companies sometimes emphasize the positive results of trials and ``hide'' unwanted side effects deep within the report or omit them altogether.
+Why Was This Study Done? Although the effects of company sponsors on the conclusions of pharmaceutical research have been extensively examined, little is known about the effects of industry sponsorship on nutrition research, even though large commercial entities are increasingly involved in global food and drink production. It is important to know whether the scientific evidence about nutrition is free of bias because biased information might negatively affect the health of entire populations. Moreover, scientific evidence from nutrition research underlies the formulation of governmental dietary guidelines and foodrelated public health interventions. In this systematic review, the researchers investigate whether the disclosure of potential financial conflicts of interest (for example, research funding by a beverage company) has influenced the results of systematic reviews undertaken to examine the association between the consumption of highly lucrative sugar-sweetened beverages (SSBs) and weight gain or obesity. Systematic reviews identify all the research on a given topic using predefined criteria. In an ideal world, systematic reviews provide access to all the available evidence on specific exposure-disease associations, but publication bias related to authors' conflicts of interest may affect the reliability of the conclusions of such studies.
+What Did the Researchers Do and Find? The researchers identified 18 conclusions from 17 systematic reviews that had investigated the association between SSB consumption and weight gain or obesity. In six of these reviews, a financial conflict of interest with a food industry was disclosed. Among the reviews that reported having no conflict of interest, 83.3% of the conclusions were that SSB consumption could be a potential risk factor for weight gain. By contrast, the same percentage of reviews in which a potential financial conflict of interest was disclosed concluded that the scientific evidence was insufficient to support a positive association between SSB consumption and weight gain, or reported contradictory results and did not state any definitive conclusion about the association between SSB
+
+consumption and weight gain. Reviews in which a potential conflict of interest was disclosed were five times more likely to present a conclusion of no positive association between SSB consumption and weight gain than reviews that reported having no financial conflict of interest.
+What Do These Findings Mean? These findings indicate that systematic reviews that reported financial conflicts of interest or sponsorship from food or drink companies were more likely to reach a conclusion of no positive association between SSB consumption and weight gain than reviews that reported having no conflicts of interest. A major limitation of this study is that it cannot assess which interpretation of the available evidence is truly accurate. For example, the scientists involved in the systematic reviews that reported having no conflict of interest may have had preexisting prejudices that affected their interpretation of their findings. However, the interests of the food industry (increased sales of their products) are very different from those of most researchers (the honest pursuit of knowledge), and recent randomized trials support a positive association between SSB consumption and overweight/obesity. Thus, these findings draw attention to possible inaccuracies in scientific evidence from research funded by the food and drink industry. They do not imply that industry sponsorship of nutrition research should be avoided entirely. Rather, as in other research areas, clear guidelines and principles (for example, sponsors should sign contracts that state that they will not be involved in the interpretation of results) need to be established to avoid dangerous conflicts of interest.
+Additional Information. Please access these websites via the online version of this summary at http://dx.doi.org/10. 1371/journal.pmed.1001578.
+N The Research Ethics Program at the University of California,
+San Diego provides an overview of conflicts of interest for researchers and details of US regulations and guidelines
+N The PLOS Medicine series on Big Food examines the
+activities and influence of the food industry in global health
+N A PLOS Medicine Research Article by Basu et al. uses
+mathematical modeling to investigate whether SSB taxation would avert obesity and diabetes in India
+N A 2012 policy brief from the Yale Rudd Center for Food
+Policy and Obesity discusses current evidence regarding SSB taxes
+N The US National Institutes of Health has regulations on
+financial conflicts of interest for institutions applying to receive funding
+N Wikipedia has pages on conflict of interest, reporting bias,
+systematic review, and SSBs (note that Wikipedia is a free online encyclopedia that anyone can edit; available in several languages)
+
+PLOS Medicine | www.plosmedicine.org
+
+9 December 2013 | Volume 10 | Issue 12 | e1001578
+
+

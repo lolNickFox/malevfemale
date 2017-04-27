@@ -1,0 +1,246 @@
+Psychological Science http://pss.sagepub.com/
+Who Confronts Prejudice?: The Role of Implicit Theories in the Motivation to Confront Prejudice Aneeta Rattan and Carol S. Dweck
+Psychological Science 2010 21: 952 originally published online 15 June 2010 DOI: 10.1177/0956797610374740
+The online version of this article can be found at: http://pss.sagepub.com/content/21/7/952 Published by: http://www.sagepublications.com On behalf of:
+Association for Psychological Science Additional services and information for Psychological Science can be found at:
+Email Alerts: http://pss.sagepub.com/cgi/alerts Subscriptions: http://pss.sagepub.com/subscriptions Reprints: http://www.sagepub.com/journalsReprints.nav Permissions: http://www.sagepub.com/journalsPermissions.nav
+>> Version of Record - Jul 8, 2010 OnlineFirst Version of Record - Jun 15, 2010
+What is This?
+Downloaded from pss.sagepub.com at RUTGERS UNIV on August 19, 2014
+
+Research Article
+Who Confronts Prejudice? The Role of Implicit Theories in the Motivation to Confront Prejudice
+
+Psychological Science 21(7) 952-959 (c) The Author(s) 2010 Reprints and permission: sagepub.com/journalsPermissions.nav DOI: 10.1177/0956797610374740 http://pss.sagepub.com
+
+Aneeta Rattan and Carol S. Dweck
+Stanford University
+Abstract Despite the possible costs, confronting prejudice can have important benefits, ranging from the well-being of the target of prejudice to social change.What, then, motivates targets of prejudice to confront people who express explicit bias? In three studies, we tested the hypothesis that targets who hold an incremental theory of personality (i.e., the belief that people can change) are more likely to confront prejudice than targets who hold an entity theory of personality (i.e., the belief that people have fixed traits). In Study 1, targets' beliefs about the malleability of personality predicted whether they spontaneously confronted an individual who expressed bias. In Study 2, targets who held more of an incremental theory reported that they would be more likely to confront prejudice and less likely to withdraw from future interactions with an individual who expressed prejudice. In Study 3, we manipulated implicit theories and replicated these findings. By highlighting the central role that implicit theories of personality play in targets' motivation to confront prejudice, this research has important implications for intergroup relations and social change.
+Keywords confronting, prejudice, implicit theories
+Received 7/7/09; Revision accepted 9/18/09
+
+Our lives begin to end the moment we become silent about things that matter.
+This statement, popularly attributed to Martin Luther King, Jr., highlights the key role that confronting prejudice played in his mission to achieve equality in American society. Yet even today, women and minorities encounter frequent, explicit expressions of prejudice in their everyday lives (Swim, Hyers, Cohen, & Ferguson, 2001; Swim, Hyers, Cohen, Fitzgerald, & Bylsma, 2003), and the confronting of prejudice remains relatively rare (Swim & Hyers, 1999; Woodzicka & LaFrance, 2001). Nevertheless, confronting someone who makes a biased statement (i.e., expressing disagreement in an informative way) may provide an opportunity to change or educate the person who made the statement (Czopp, Monteith, & Mark, 2006). Not speaking up in such situations can also have important consequences. Remaining silent fails to communicate important antiprejudice norms (Blanchard, Crandall, Brigham, & Vaughn, 1994), can affect the psychological well-being of targets of prejudice (Shelton, Richeson, Salvatore, & Hill, 2006), and may have implications for targets' future interactions with people who express prejudice.
+
+When do targets of prejudice confront bias? Although some studies have found that stable individual differences, such as optimism (Kaiser & Miller, 2004) or activism (Hyers, 2007; Swim & Hyers, 1999), can play a role, research has largely focused on situational variables as the critical factor in targets' decisions to confront prejudice. For example, it has been shown that people are less likely to confront other individuals when there are potential costs for doing so (Shelton & Stewart, 2004) or when the context is public (Stangor, Swim, Van Allen, & Sechrist, 2002). However, we contend that it is not just targets' static traits or the given situation, both of which are relatively uncontrollable, that affect their willingness to confront prejudice. Instead, we propose that targets' general beliefs about others also affect their decisions about confronting someone who expresses prejudice.
+We predicted that implicit theories of personality, which are beliefs about whether or not others can change (Chiu, Hong, &
+Corresponding Author: Aneeta Rattan, Department of Psychology, 450 Serra Mall, Building 420, Stanford, CA 94305-2130 E-mail: arattan@stanford.edu
+
+Downloaded from pss.sagepub.com at RUTGERS UNIV on August 19, 2014
+
+Who Confronts Prejudice?
+
+953
+
+Dweck, 1997), are central to targets' motivation to confront prejudice. Targets of prejudice who believe that others can change (i.e., who endorse an incremental theory of personality) may be more likely to speak up in the face of explicit bias in order to educate the speaker, thereby opening the door to the possibility of growth for people who make biased statements. Another consequence of an incremental theory may be a sustained openness to interacting with someone who has expressed bias; that is, targets who believe people can change may be less likely to reject someone on the basis of a single expression of bias. However, targets who do not believe others can change (i.e., who endorse an entity theory of personality) may be less motivated to confront prejudice. If people who express bias cannot change, why bother confronting them? For similar reasons, targets who hold an entity theory may feel that withdrawing from future interactions with someone who expressed prejudice may be a reasonable and preferable reaction. It is important to note that implicit theories of personality are dynamic and malleable (Chiu et al., 1997), so understanding their role in targets' motivation to confront prejudice may present opportunities for intervention that previous research has been unable to explore.
+Three studies tested the hypothesis that implicit theories of personality predict how likely targets of prejudice are to confront explicit bias. This hypothesis was tested on multiple groups targeted by prejudice, including ethnic minorities and females. Our focus on minorities and females stems from past research showing the importance of such experiences for members of these groups: Targets may face interpersonal costs for speaking up (Kaiser & Miller, 2001) or intrapersonal costs if they remain silent (Shelton et al., 2006), and their reactions are used by nontargets for cues about what is appropriate (Crosby, Monin, & Richardson, 2008). Study 1 placed participants in a situation in which they were targeted by a peer's biased comment, allowing us to examine who confronted the statement. Study 2 examined the hypothesis that implicit theories of personality would affect targets' willingness to engage in future interactions with someone who makes a biased statement. Study 2 also tested the alternative explanation that entity and incremental theorists simply construe the expression of prejudice differently. Study 3 tested whether there is a causal relationship between implicit theories of personality and targets' self-reported likelihood of confronting someone who expressed prejudice and withdrawing from future interactions with that person.
+Study 1
+Study 1 tested the hypothesis that members of racial or ethnic minorities who endorsed more of an incremental theory will be more likely than those who endorsed more of an entity theory to spontaneously confront the speaker of a biased statement.
+
+Method
+Participants. Sixty-four Stanford University undergraduates (16 males and 48 females; mean age = 19.7 years, SD = 1.4) participated for course credit or pay. All were ethnic minorities (27 African Americans, 22 Latino Americans, and 15 mixedrace participants who self-identified African American or Latino American as a component race/ethnicity).
+Procedure. Participants agreed to participate in a study of "online first impression formation." They believed that they would interact with another Stanford University undergraduate. In a laboratory equipped with computers, they received an introduction on how to use an instant-message (IM) program. They then completed a demographics questionnaire and a six-item measure of implicit theories of personality. On a 6-point scale, this measure assessed participants'agreement or disagreement with three statements indicating that personality is fixed (e.g., "Someone's personality is a part of them that they can't change very much," reverse-scored) and three statements indicating that personality is malleable (e.g., "People can always change their personality"). Participants then completed a distractor task, which created a situation shown to be comparable to administering the implicit theory questionnaire in a prior session (Dweck, 1999).
+After explaining that the study would be conducted via IM, the experimenter went to an adjacent laboratory room and signed into an online chat room that allowed multiple people to converse together over the Internet. Unbeknownst to participants, the experimenter also played the role of the interaction partner. The experimenter was blind to participants' theories of personality.
+When the participant indicated via IM that his or her survey was completed, the interaction partner responded with an IM indicating that he, too, was ready to begin. The experimenter asked participants to introduce themselves by stating their first name, year in school, gender, ethnicity, and dormitory. The interaction partner was introduced as Matt, a White male sophomore, who lived in the largest dormitory on campus. Next, the experimenter explained the structure of the interaction: One person would send an IM (with the interaction partner always first), each would privately complete surveys, and then the other person (the actual participant) would send an IM. The experimenter also explained that the conversation topic was the undergraduate application and admission process. We selected this topic because students are generally knowledgeable about it, and it allowed us to introduce a biased comment directed toward each participant's race or ethnicity. The experimenter then exited the online chat room, leaving only the actual participant and the interaction partner.
+Matt's script began with general comments about his likes and dislikes and ended with the following statement: "I was really worried that I had to be even more overqualified because of the whole diversity admissions thing . . . so many schools
+
+Downloaded from pss.sagepub.com at RUTGERS UNIV on August 19, 2014
+
+954 Rattan, Dweck
+
+reserve admissions for students who don't really qualify the same way so I was pretty freaked out."
+Participants then completed a survey, in which they rated Matt's comments using 7-point bipolar scales to indicate how friendly-unfriendly, warm-cold, likeable-not likeable, unbiasedbiased, and agreeable-hostile they found the comments to be. The experimenter then sent a separate message to the participant stating that it was "their turn to IM." This instruction allowed participants to respond to the interaction partner's comments or not. After participants sent a response, the experimenter ended the study and conducted a careful funnel debriefing (Bargh & Chartrand, 2000).1
+Results and discussion
+Theories of personality. We reverse-scored the entityoriented items of the questionnaire and computed mean scores for theories of personality, which were mean-centered in the following analyses (Aiken & West, 1991). Higher scores indicate a more incremental theory.
+Reactions to the interaction partner's comments. Ratings of the comments were regressed on theories of personality. We found no differences as a function of implicit theories of personality in how friendly, warm, likeable, biased, or agreeable the comments were perceived to be (ps > .45). Thus, differences in confronting the biased statement were not attributable to different evaluations of the comments. Mean bias ratings (M = 4.74, SD = 1.33) confirmed that participants did, in fact, experience the comment as biased, and a one-sample t test demonstrated that the mean bias ratings were significantly above the midpoint of the scale, t(46) = 3.85, p < .01.
+
+Instant messages. Two independent coders, who were blind to participants' theory of personality, rated the participants' IMs for instances of confronting the biased statement. A response qualified as confronting if it both identified the biased content (diversity admissions) and expressed disagreement. The coders achieved a high reliability ( = .91). The incidence of confronting (25.5%) was comparable to frequencies reported in previous studies (e.g., Swim & Hyers, 1999).
+A logistic regression found that theories of personality reliably predicted the confronting of bias; participants who held more of an incremental theory were more likely to spontaneously confront the interaction partner ( = 0.88, SE = 0.45, p = .05). In fact, for every 1 unit of increase on the 6-point scale of implicit theories, participants became more than twice as likely to confront the speaker of the biased statement (odds ratio = 2.4).
+Discussion. Thus, endorsing an incremental rather than an entity theory was associated with a greater likelihood of confronting the interaction partner (see Fig. 1). Although the overall rate of confronting the interaction partner was comparable to that observed in previous research (25.5%), the rate of confronting the interaction partner among participants holding an incremental theory (dividing the sample at the midpoint of the scale) was 37.0%.
+Study 2
+Study 1 supports our hypothesis that targets of prejudice who hold more of an incremental theory of personality are more likely to spontaneously confront someone who makes a biased statement. However, the comment used, although rated by
+
+50
+
+Participants Who Confronted the Partner (%)
+
+40
+
+30
+
+20
+
+10
+
+0
+
+Entity
+
+Incremental
+
+Implicit Theories
+Fig. 1. Results from Study 1: percentage of participants who confronted the interaction partner as a function of implicit theories of personality. The results are depicted in terms of the chi-square table, with participants grouped according to whether their scores for theories of personality fell above (incremental) or below (entity) the midpoint of the scale.
+
+Downloaded from pss.sagepub.com at RUTGERS UNIV on August 19, 2014
+
+Who Confronts Prejudice?
+
+955
+
+participants as biased, may not have communicated the type of blatant prejudice that would engender a universal desire to confront the person who expressed it. Therefore, in Study 2, we used a hypothetical scenario to examine the relationship between implicit theories of personality and reported confronting in response to a more extreme biased statement. In Study 2, we also more fully examined the role of implicit theories of personality in targets' long-term responses to expressions of prejudice. If targets of prejudice who hold more of an incremental theory confront a person who expresses prejudice because they believe that the person expressing prejudice can change, then those targets may also show a greater willingness to continue interacting with that person in the future. Study 2 also examined whether implicit theories affect the likelihood of confronting prejudice because they lead to different situational construals. Although Study 1 showed that implicit theories did not affect ratings of the biased comment, we examined other possibilities in Study 2, including factors that previous research had found to be important (e.g., perceptions of risks to confronting prejudice; Shelton & Stewart, 2004).
+Thus, Study 2 examined the effect of implicit theories of personality on targets' reported likelihood of confronting a blatantly biased statement and of withdrawing from future interactions with that person. We expected no differences in participants' construals of the expression of bias based on implicit theories.
+Method
+Participants. Sixty-five Stanford University undergraduates (18 males and 47 females; mean age = 19.77 years, SD = 1.34) participated for course credit or pay. All participants were targeted by the biased comment, which implicated racial and ethnic identity as well as gender identity. Participants included 6 African Americans, 14 Asian Americans, 23 European Americans, 4 Latino Americans, 1 Native American, and 17 mixed-race participants with at least one previous component race.
+Procedure. Participants completed a demographics questionnaire and the six-item measure of implicit theories of personality (Dweck, 1999). After completing a filler questionnaire, they read a scenario describing their first day of a summer internship at a prestigious company. Participants were told that as they discussed their first impressions of the company with the other new interns, a male intern said, "I'm really surprised at the types of people who are working here . . . with all of this `diversity' hiring--women, minorities, foreigners, etc., I wonder how long this company will stay on top?" In pilot testing, 27 female and ethnic-minority students rated this comment as highly offensive (M = 5.48, SD = 1.01), significantly above the midpoint of the 7-point scale ranging from 1, not at all, to 7, extremely, t(26) = 7.59, p < .01.
+
+Confronting. We asked participants about a number of possible responses in order to provide a realistic set of reactions and reduce demand suggesting that confronting bias was the appropriate response. Anticipated confronting was measured with the following item: "I would calmly but firmly communicate my point of view to try to educate him." Another item assessed whether participants anticipated engaging in a noneducational, hostile response (e.g., trying to humiliate the speaker), and seven items represented different types of other, more avoidant responses, such as, "I would do my best to pretend it didn't happen," "I would leave as soon as possible," and "I wouldn't dignify it with a response." We aggregated these responses into an index of avoidance ( = .83). These and all of the following measures used a 7-point scale ranging from 1, not at all, to 7, extremely, unless otherwise noted.
+Affective reactions. Participants completed an adapted Positive and Negative Affect Schedule (PANAS; Watson, Clark, & Tellegen, 1988) that included positive (e.g., determined, motivated, proud, strong;  = .79) and negative (e.g., upset, angry, nervous, hostile;  = .86) emotions.
+Perceptions of the situation. To assess whether implicit theories affected situational construals, we asked participants how offended they were by the comment, how included they felt in the groups mentioned, how personally they took the comment, how invested they were in the situation, and how risky they thought speaking up would be. Participants also rated how bad they thought the comment was on a 7-point scale that ranged from 1, extremely bad, to 7, not so bad (reverse-coded).
+Future interactions. Participants indicated their likelihood of withdrawing from future interactions with the speaker by responding to an index of four items: "avoid socializing with him," "seek out people more like myself," "develop a relationship [with him]" (reverse-coded), and "collaborate with him on a project" in the future (reverse-coded),  = .68.
+Results and discussion
+Theories of personality. Scores on the measure of implicit theories were computed in the same manner as in Study 1. In the following analyses, we regressed the variable of interest on mean-centered implicit theories scores (Aiken & West, 1991).
+Confronting. Implicit theories of personality significantly predicted anticipated confronting of the intern,  = 0.59, t(63) = 2.41, p < .05. Participants who held more of an incremental theory were more likely to report confronting him (see Fig. 2). It was possible that participants who held more of an
+
+Downloaded from pss.sagepub.com at RUTGERS UNIV on August 19, 2014
+
+956 Rattan, Dweck
+
+6
+
+Entity Theory
+
+Incremental Theory
+
+5
+
+Anticipated Response
+
+4
+
+3
+
+2
+
+1 Confront
+
+Avoid
+
+Withdraw From Future Interactions
+
+Behavior
+Fig. 2. Results from Study 2: implicit theory of personality (estimated at 1 SD below and above the mean) as a predictor of anticipated responses to the biased statement. Participants used a scale from 1, not at all, to 7, extremely, to rate whether they anticipated engaging in each category of behavior (confront, avoid, and withdraw from future interactions).
+
+entity theory would engage in behavior that was more hostile, but we did not find differences in hostility by implicit theories (p > .5). Participants endorsing more of an entity theory were actually more likely to anticipate engaging in avoidant behaviors,  = -0.32, t(63) = -1.96, p = .05 (see Fig. 2).
+Affective reactions. We averaged responses to positive- and negative-affect words to create positive- and negative-affect scores. Although we found no differences in ratings of positive affect by implicit theories (p > .7), participants who endorsed more of an entity theory expressed marginally more negative affect,  = -0.25, t(63) = -1.97, p < .06, than those who endorsed more of an incremental theory. However, the effect of implicit theories on anticipated confronting was not accounted for by this difference, controlling for negative affect,  = 0.54, t(62) = 2.14, p < .05. The effect of implicit theories on avoidant behaviors was, in fact, attenuated when controlling for negative affect,  = -0.25, t(62) = -1.50, p < .15.
+Perceptions of the situation. We found no significant differences by implicit theories in participants' ratings of the situation (how offended, included, or personally they took the comment; how invested they felt; how risky speaking up would be; and how bad the comment was), controlling for negative affect (ps > .15). Overall, participants found the statement highly offensive (M = 5.77, SD = 1.2) and thought the comment was quite "bad" (M = 5.65, SD = 1.22).
+Future interactions. As hypothesized, participants who held more of an incremental theory were less likely to say they would withdraw from future interactions with the intern,  = -0.37, t(63) = -2.5, p < .05 (see Fig. 2).
+
+Discussion. These results show that even holding equal how targets experienced an expression of bias (e.g., how offended they felt, how risky speaking up would be), the more they endorsed an incremental theory, the more likely they were to report confronting the prejudice expressed. Study 2 also highlights another important consequence of holding an incremental theory of personality: The more targets believed that people can change, the less likely they were to withdraw from future social or work interactions with the offending colleague. Next, we explored whether implicit theories play a causal role in responses to prejudice.
+Study 3
+We hypothesized that a causal relationship exists between implicit theories of personality and the outcomes examined. To test this hypothesis, we manipulated implicit theories of personality and examined both participants' anticipated confronting of prejudice and their attitudes toward future interactions.
+Method
+Participants. Seventy-three female Stanford University undergraduates (2 African Americans, 17 Asian Americans, 27 European Americans, 8 Latino Americans, and 19 participants whose ethnicity was unreported; mean age = 19.48 years, SD = 1.27) participated for course credit or pay.
+Materials. Following the methods of Chiu et al. (1997), we created a pair of Psychology Today-type articles that presented the latest verdict on whether personality can change or not. For
+
+Downloaded from pss.sagepub.com at RUTGERS UNIV on August 19, 2014
+
+Who Confronts Prejudice?
+
+957
+
+example, the entity theory article included quotations from experts highlighting the fixedness of personality (e.g., "Personality characteristics seem to be rather fixed and to develop along the same path over time"), whereas experts cited in the incremental theory article stated that "personality characteristics are basically a bundle of possibilities that wait to be developed and cultivated." Neither article mentioned bias or confronting prejudice.
+Procedure. Participants believed that they were participating in two separate studies. In the first, they read one of the articles (randomly assigned) and rated its grade-level appropriateness for high-school students. In the second study, participants read the scenario from Study 2 and completed the same measures of anticipated response (confronting, hostile, or avoidant), affect, and attitudes toward future interactions. Finally, the experimenter conducted a careful funnel debriefing (Bargh & Chartrand, 2000).2
+Results and discussion
+At the end of the study, participants responded to a manipulationcheck item that asked "How much do you think personality is changeable?" Ratings were made on a 7-point scale ranging from 1, not at all, to 7, extremely. Personality was rated as significantly more changeable by participants in the incremental theory condition (M = 4.46, SD = .71) than by participants
+
+in the entity theory condition (M = 3.11, SD = 1.06), indicating that the manipulation was successful, t(52) = 5.46, p < .01, Cohen's d = 1.49.
+Confronting. As hypothesized, participants in the incremental rather than the entity theory condition were more likely to anticipate confronting the offending colleague, t(52) = 2.07, p < .05, Cohen's d = 0.56 (see Fig. 3). We found no differences in hostile reactions by condition (p > .6), and participants in the entity theory condition were marginally more likely than participants in the incremental theory condition to report that they would avoid the situation, t(52) = 2.01, p = .055, Cohen's d = 0.54 (see Fig. 3).
+Affective reactions. We found no differences by condition in either positive or negative affect ratings (ps > .4).
+Future interactions. In line with our previous findings, participants in the incremental theory condition were less likely to report that they would withdraw from future social and work interactions with the speaker than were participants in the entity theory condition, t(52) = 2.15, p < .05, Cohen's d = 0.59 (see Fig. 3).
+Discussion. Study 3 provides evidence of a causal relationship between implicit theories of personality and reported confronting of prejudice, with participants in the incremental theory
+
+Entity-Theory Condition 6
+Incremental-Theory Condition 5
+
+Anticipated Response
+
+4
+
+3
+
+2
+
+1
+
+Confront
+
+Avoid
+
+Withdraw From Future Interactions
+
+Behavior
+
+Fig. 3. Results from Study 3: anticipated response toward the source of a biased statement as a function of the manipulation of implicit theories. Participants used a scale from 1, not at all, to 7, extremely, to rate whether they anticipated engaging in each category of behavior (confront, avoid, and withdraw from future interactions). Error bars indicate 1 SEM.
+
+Downloaded from pss.sagepub.com at RUTGERS UNIV on August 19, 2014
+
+958 Rattan, Dweck
+
+condition anticipating a higher likelihood of confronting the intern who made the biased statement and withdrawing from him less compared with participants in the entity theory condition. This study did not replicate the differences in negative affect found in Study 2. This raises the possibility that, over time, experiences with prejudice viewed through the lens of an entity theory may become associated with concomitant negative affect. Although our manipulation changed behavior, participants in Study 3 may not have yet accrued enough experience responding to prejudice from an entity or incremental perspective to exhibit differences in associated affect. Further research could elucidate the role of affect in dealing with prejudice, both in the moment and in terms of future interactions.
+General Discussion
+Across three studies, we have shown that targets' beliefs about others' ability to change play a key role in their motivation to confront prejudice. Study 1 provided an initial, behavioral test of this hypothesis: When interacting with a peer, those endorsing a more incremental theory were more likely to directly confront a biased comment. Study 2 ruled out various perceptions of the situation and affective reactions as alternative routes through which implicit theories affect reactions to prejudice. Study 3 confirmed that implicit theories play a causal role in the motivation to confront bias. These findings show that even with situational variables held constant, targets of prejudice systematically differ in their likelihood of confronting bias, in part based on their beliefs about others' ability to change.
+Studies 2 and 3 examined another important consequence of implicit theories of personality, namely, attitudes toward future interactions. Targets who believed that people can change were less likely to withdraw from future interactions with a person who expressed prejudice than were targets who believed that people cannot change. Even though they were equally offended, incremental theorists were less likely than entity theorists to reject a person who made a biased statement on the basis of a single interaction, thereby leaving the door open for the possibility of professional or social interchange.
+Although we propose that these results suggest a direct link between targets' implicit theories of personality and their willingness to confront prejudice, these results can perhaps also be considered in light of a cost-benefit analysis. For example, those holding more of an entity theory might think it unwise to invest time and energy in behavior that they view as having a low probability of effecting change and in relationships that they feel are unlikely to become positive. In line with our argument, this reasoning would mean that preexisting beliefs, and not just evaluations of "objective" situational variables, play into targets' decision to pursue or not pursue a course of action.
+Our findings encourage us to ask what follows from people's decisions about whether to confront bias in real-world situations when they face explicit prejudice. This is, of course, a complex question that requires much further investigation. For example, what is the quality of incremental theorists' continued interaction
+
+with someone who has expressed bias against their group, and how long do they remain open to future interactions if the person who expressed bias fails to change (cf. Kammrath & Peetz, 2009)? Entity theorists may be using a more objectively selfprotective strategy than incremental theorists by avoiding possible negative and marginalizing interactions. However, could this strategy over time limit their interactions in a group or organization more broadly, such that their sense of belonging and ultimately their engagement begin to erode (cf. Good, Rattan, & Dweck, 2009)? Future research should explore these possibilities and examine how implicit theories of personality relate to the growing literature that shows the negative consequences of experiencing bias for targets of prejudice (Shelton et al., 2006; Tropp, 2003) and for targets' subsequent intergroup interactions (Johnson, Ashburn-Nardo, Spicer, & Dovidio, 2008; Tropp, 2003).
+Notably, research suggests that people holding biased views are often malleable (Page-Gould, Mendoza-Denton, & Tropp, 2008; Tropp & Pettigrew, 2005) and that confronting them in a direct, educational manner can be effective in reducing prejudiced behavior (Czopp et al., 2006). Believing that others can change may allow targets the opportunity (but not the mandate) to confront prejudice when they feel it is appropriate.
+Confronting prejudice is also an especially important tool for those who only witness acts or statements of bias. Although bystanders are unlikely to confront prejudice (Kawakami, Dunn, Karmali, & Dovidio, 2009), it may be especially effective when they do (Czopp & Monteith, 2003). Moreover, targets of prejudice should not bear the unfair burden of responsibility for confronting prejudice. Therefore, future research should examine how implicit theories relate to bystanders' motivation to confront prejudice. As such, implicit theories may be important to broader prejudice reduction programs aimed at both addressing prejudice when it occurs-- and promoting intergroup interactions in the future. In this way, over time, society may achieve the goal of having fewer people remain "silent about things that matter."
+Acknowledgments
+We are indebted to Ali Craig, Loretta Hickman, Taylor Phillips, and Alex Willen for their invaluable work. We thank Jennifer Eberhardt, Valerie Jones, Shantal Marshall, Krishna Savani, Greg Walton, DweckWalton Lab, RaceLab, and SASSI for their helpful comments.
+Declaration of Conflicting Interests
+The authors declared that they had no conflicts of interest with respect to their authorship or the publication of this article.
+Funding
+Aneeta Rattan was supported by a National Science Foundation Graduate Research Fellowship.
+Notes
+1. We set a strict criterion, excluding 17 participants who expressed suspicion regarding whether the interaction partner was real. These participants were equally likely to endorse an entity versus incremental theory.
+
+Downloaded from pss.sagepub.com at RUTGERS UNIV on August 19, 2014
+
+Who Confronts Prejudice?
+
+959
+
+2. Again, we set a stringent criterion. Nineteen participants were excluded for previously completing a "two studies" cover story and therefore expressing suspicion. Equal numbers of participants were excluded across the conditions. When we included those participants in our analysis, our primary hypothesis was still supported, with participants in the incremental theory condition anticipating greater confronting of prejudice than participants in the entity theory condition, t(72) = -1.96, p = .05.
+References
+Aiken, L.S., & West, S.G. (1991). Multiple regression: Testing and interpreting interactions. Newbury Park, CA: Sage.
+Bargh, J.A., & Chartrand, T.L. (2000). The mind in the middle: A practical guide to priming and automaticity research. In H.T. Reis & C.M. Judd (Eds.), Handbook of research methods in social and personality psychology (pp. 253-285). New York: Cambridge University Press.
+Blanchard, F.A., Crandall, C.S., Brigham, J.C., & Vaughn, L.A. (1994). Condemning and condoning racism: A social context approach to interracial settings. Journal of Applied Psychology, 79, 993-997.
+Chiu, C., Hong, Y., & Dweck, C.S. (1997). Lay dispositionism and implicit theories of personality. Journal of Personality and Social Psychology, 73, 19-30.
+Crosby, J., Monin, B., & Richardson, D. (2008). Where do we look during potentially offensive behavior? Psychological Science, 19, 226-228.
+Czopp, A.M., & Monteith, M.J. (2003). Confronting prejudice (literally): Reactions to confrontations of racial and gender bias. Personality and Social Psychology Bulletin, 29, 532-544.
+Czopp, A.M., Monteith, M.J., & Mark, A.Y. (2006). Standing up for a change: Reducing bias through interpersonal confrontation. Journal of Personality and Social Psychology, 90, 784-803.
+Dweck, C.S. (1999). Self-theories: Their role in motivation, personality and development. Philadelphia: Taylor & Francis/Psychology Press.
+Good, C.D., Rattan, A., & Dweck, C.S. (2009). Why do women opt out? Sense of belonging and women's representation in mathematics. Manuscript submitted for publication.
+Hyers, L.L. (2007). Resisting prejudice every day: Exploring women's assertive responses to anti-black racism, anti-Semitism, heterosexism, and sexism. Sex Roles, 56, 1-12.
+Johnson, J.D., Ashburn-Nardo, L.A., Spicer, C.V., & Dovidio, J. (2008). The role of Blacks' discriminatory expectations in their prosocial orientations toward Whites and Blacks. Journal of Experimental Social Psychology, 44, 1498-1505.
+Kaiser, C.R., & Miller, C.T. (2001). Stop complaining! The social costs of making attributions to discrimination. Personality and Social Psychology Bulletin, 27, 254-263.
+
+Kaiser, C.R., & Miller, C.T. (2004). A stress and coping perspective on confronting sexism. Psychology of Women Quarterly, 28, 168-178.
+Kammrath, L., & Peetz, J. (2009). You promised you'd change: How incremental and entity theorists respond to romantic partners' change attempts. Manuscript in preparation.
+Kawakami, K., Dunn, L., Karmali, F., & Dovidio, J.F. (2009). Mispredicting affective and behavioral responses to racism. Science, 323, 276-278.
+Page-Gould, E., Mendoza-Denton, R., & Tropp, L.R. (2008). With a little help from my cross-group friend: Reducing anxiety in intergroup contexts through cross-group friendship. Journal of Personality and Social Psychology, 95, 1080-1094.
+Shelton, J.N., Richeson, J.A., Salvatore, J., & Hill, D.M. (2006). Silence is not golden: The intrapersonal consequences of not confronting prejudice. In S. Levin & C. Van Laar (Eds.), Stigma and group inequality: Social psychological perspectives (pp. 65-82). Mahwah, NJ: Erlbaum.
+Shelton, J.N., & Stewart, R.E. (2004). Confront perpetrators of prejudice: The inhibitory effects of social costs. Psychology of Women Quarterly, 28, 215-223.
+Stangor, C., Swim, J.K., Van Allen, K., & Sechrist, G.B. (2002). Reporting discrimination in public and private contexts. Journal of Personality and Social Psychology, 82, 69-74.
+Swim, J.K., & Hyers, L.L. (1999). Excuse me--what did you say?! Women's public and private responses to sexist remarks. Journal of Experimental Social Psychology, 35, 68-88.
+Swim, J.K., Hyers, L.L., Cohen, L.L., & Ferguson, M.J. (2001). Everyday sexism: Evidence for its incidence, nature, and psychological impact from three daily diary studies. Journal of Social Issues, 57, 31-53.
+Swim, J.K., Hyers, L.L., Cohen, L.L., Fitzgerald, D.C., & Bylsma, W.H. (2003). African American college students' experiences with everyday racism: Characteristics of and responses to these incidents. Journal of Black Psychology, 29, 38-67.
+Tropp, L.R. (2003). The psychological impact of prejudice: Implications for intergroup contact. Group Processes and Intergroup Relations, 6, 131-149.
+Tropp, L.R., & Pettigrew, T.F. (2005). Relationships between intergroup contact and prejudice among minority and majority status groups. Psychological Science, 16, 951-957.
+Watson, D., Clark, L.A., & Tellegen, A. (1988). Development and validation of brief measures of positive and negative affect: The PANAS scales. Journal of Personality and Social Psychology, 54, 1063-1070.
+Woodzicka, J.A., & LaFrance, M. (2001). Real versus imagined gender harassment. Journal of Social Issues, 57, 15-30.
+
+Downloaded from pss.sagepub.com at RUTGERS UNIV on August 19, 2014
+
+

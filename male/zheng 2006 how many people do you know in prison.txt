@@ -1,0 +1,790 @@
+How Many People Do You Know in Prison?: Using Overdispersion in Count Data to Estimate Social Structure in Networks
+Tian ZHENG, Matthew J. SALGANIK, and Andrew GELMAN
+
+Networks--sets of objects connected by relationships--are important in a number of fields. The study of networks has long been central to sociology, where researchers have attempted to understand the causes and consequences of the structure of relationships in large groups of people. Using insight from previous network research, Killworth et al. and McCarty et al. have developed and evaluated a method for estimating the sizes of hard-to-count populations using network data collected from a simple random sample of Americans. In this article we show how, using a multilevel overdispersed Poisson regression model, these data also can be used to estimate aspects of social structure in the population. Our work goes beyond most previous research on networks by using variation, as well as average responses, as a source of information. We apply our method to the data of McCarty et al. and find that Americans vary greatly in their number of acquaintances. Further, Americans show great variation in propensity to form ties to people in some groups (e.g., males in prison, the homeless, and American Indians), but little variation for other groups (e.g., twins, people named Michael or Nicole). We also explore other features of these data and consider ways in which survey data can be used to estimate network structure.
+KEY WORDS: Negative binomial distribution; Overdispersion; Sampling; Social networks; Social structure.
+
+1. INTRODUCTION
+Recently a survey was taken of Americans asking, among other things, "How many males do you know incarcerated in state or federal prison?" The mean of the responses to this question was 1.0. To a reader of this journal, that number may seem shockingly high. We would guess that you probably do not know anyone in prison. In fact, we would guess that most of your friends do not know anyone in prison either. This number may seem totally incompatible with your social world.
+So how was the mean of the responses 1? According to the data, 70% of the respondents reported knowing 0 people in prison. However, the responses show a wide range of variation, with almost 3% reporting that they know at least 10 prisoners. Responses to some other questions of the same format, for example, "How many people do you know named Nicole?," show much less variation.
+This difference in the variability of responses to these "How many X's do you know?" questions is the manifestation of fundamental social processes at work. Through careful examination of this pattern, as well as others in the data, we can learn about important characteristics of the social network connecting Americans, as well as the processes that create this network.
+This analysis also furthers our understanding of statistical models of two-way data, by treating overdispersion as a source of information, not just an issue that requires correction. More specifically, we include overdispersion as a parameter that measures the variation in the relative propensities of individuals to form ties to a given social group, and allow it to vary among so-
+Tian Zheng is Assistant Professor, Department of Statistics (E-mail: tzheng@stat.columbia.edu), Andrew Gelman is Professor, Department of Statistics and Department of Political Science (E-mail: gelman@stat.columbia. edu), and Matthew J. Salganik is a Doctoral Student, Department of Sociology and Institute for Social and Economic Research and Policy (E-mail: mjs2105@columbia.edu), Columbia University, New York, NY 10027. The authors thank Peter Killworth and Chris McCarty for the survey data on which this study was based, and Francis Tuerlinckx, Tom Snijders, Peter Bearman, Michael Sobel, Tom DiPrete, and Erik Volz for helpful discussions. They also thank three anonymous reviewers for their constructive suggestions. This research was supported by the National Science Foundation, a Fulbright Fellowship, and the Netherland-America Foundation. The material presented in this article is partly based on work supported under a National Science Foundation Graduate Research Fellowship.
+
+cial groups. Through such modeling of the variation of the relative propensities, we derive a new measure of social structure that uses only survey responses from a sample of individuals, not data on the complete network.
+1.1 Background
+Understanding the structure of social networks, and the social processes that form them, is a central concern of sociology for both theoretical and practical reasons (Wasserman and Faust 1994; Freeman 2004). Social networks have been found to have important implications for the social mobility (Lin 1999), getting a job (Granovetter 1995), the dynamics of fads and fashion (Watts 2002), attitude formation (Lee, Farrell, and Link 2004), and the spread of infectious disease (Morris and Kretzchmar 1995).
+When talking about social networks, sociologists often use the term "social structure," which, in practice, has taken on many different meanings, sometimes unclear or contradictory. In this article, as in the article by Heckathorn and Jeffri (2001), we generalize the conception put forth by Blau (1974) that social structure is the difference in affiliation patterns from what would be observed if people formed friendships entirely randomly.
+Sociologists are not the only scientists interested in the structure of networks. Methods presented here can be applied to a more generally defined network, as any set of objects (nodes) connected to each other by a set of links (edges). In addition to social networks (friendship network, collaboration networks of scientists, sexual networks), examples include technological networks (e.g., the internet backbone, the world-wide web, the power grid) and biological networks (e.g., metabolic networks, protein interaction networks, neural networks, food webs); reviews have been provided by Strogatz (2001), Newman (2003b), and Watts (2004).
+1.2 Overview of the Article
+In this article we show how to use "How many X's do you know?" count data to learn about the social structure of the ac-
+(c) 2006 American Statistical Association Journal of the American Statistical Association June 2006, Vol. 101, No. 474, Applications and Case Studies
+DOI 10.1198/016214505000001168
+
+409
+
+410 Journal of the American Statistical Association, June 2006
+
+quaintanceship network in the United States. More specifically, we can learn to what extent people vary in their number of acquaintances, to what extent people vary in their propensity to form ties to people in specific groups, and also to what extent specific subpopulations (including those that are otherwise hard to count) vary in their popularities.
+The data used in this article were collected by McCarty, Killworth, Bernard, Johnsen, and Shelley (2001) and consist of survey responses from 1,370 individuals on their acquaintances with groups defined by name (e.g., Michael, Christina, Nicole), occupation (e.g., postal worker, pilot, gun dealer), ethnicity (e.g., Native American), or experience (e.g., prisoner, auto accident victim); for a complete list of the groups, see Figure 4 in Section 4.2. Our estimates come from fitting a multilevel Poisson regression with variance components corresponding to survey respondents and subpopulations and an overdispersion factor that varies by group. We fit the model using Bayesian inference and the Gibbs-Metropolis algorithm, and identify some areas in which the model fit could be improved using predictive checks. Fitting the data with a multilevel model allows separation of individual and subpopulation effects. Our analysis of the McCarty et al. data gives reasonable results and provides a useful external check on our methods. Potential areas of further work include more sophisticated interaction models, application to data collected by network sampling (Heckathorn 1997, 2002; Salganik and Heckathorn 2004), and application to count data in other fields.
+2. THE PROBLEM AND DATA
+The original goals of the McCarty et al. surveys were (1) to estimate the distribution of individuals' network size, defined as the number of acquaintances, in the U.S. population (which can also be called the degree distribution) and (2) to estimate the sizes of certain subpopulations, especially those that are hard to count using regular survey results (Killworth, Johnsen, McCarty, Shelley, and Bernard 1998a; Killworth, McCarty, Bernard, Shelley, and Johnsen 1998b).
+The data from the survey are responses from 1,370 adults (survey 1, 796 respondents, January 1998; survey 2, 574 respondents, January 1999) in the United States (selected by random digit dialing) to a series of questions of the form "How many people do you know in group X?" Figure 4 provides a list of the 32 groups asked about in the survey. In addition to the network data, background demographic information, including sex, age, income, and marital status, was also collected. The respondents were told, "For the purposes of this study, the definition of knowing someone is that you know them and they know you by sight or by name, that you could contact them, that they live within the United States, and that there has been some contact (either in person, by telephone or mail) in the past 2 years." In addition, there are some minor complications with the data. For the fewer than .4% of responses that were missing, we followed the usual practice with this sort of unbalanced data of assuming an ignorable model (i.e., constructing the likelihood using the observed data). Sometimes responses were categorized, in which case we used the central value in the bin (e.g., imputing 7.5 for the response "5-10"). To correct for some responses that were suspiciously large
+
+(e.g., a person claiming to know over 50 Michaels), we trun-
+
+cated all responses at 30. (Truncating at value 30 affects .25%
+
+of the data. As a sensitivity analysis, we tried changing the
+
+truncation point to 50; this had essentially no effect on our
+
+results.) We also inspected the data using scatterplots of re-
+
+sponses, which revealed a respondent who was coded as know-
+
+ing seven persons of every category. We removed this case from
+
+the dataset.
+
+Killworth et al. (1998a,b) summarized the data in two ways.
+
+First, for their first goal of estimating the social network size for
+
+any given individual surveyed, they used his or her responses
+
+for a set of subpopulations with known sizes and scaled up us-
+
+ing the sizes of these groups in the population. To illustrate,
+
+suppose that you know two persons named Nicole, and that
+
+at the time of the survey, there were 358,000 Nicoles out of
+
+280 million Americans. Thus your two Nicoles represent a frac-
+
+ttiroynyi3e5l8d2,0s0a0noefsatilml tahtee
+
+Nicoles. of
+
+Extrapolating
+
+to
+
+the
+
+entire
+
+coun-
+
+2 358, 000
+
+*
+
+(280
+
+million)
+
+=
+
+1,560
+
+people
+
+known by you. A more precise estimate can be obtained by av-
+
+eraging these estimates using a range of different groups. This
+
+is only a crude inference, because it assumes that everyone has
+
+equal propensity to know someone from each group. However,
+
+as an estimation procedure, it has the advantage of not requiring
+
+a respondent to recall his or her entire network, which typically
+
+numbers in the hundreds (McCarty et al. 2001).
+
+The second use for which this survey was designed is to
+
+estimate the size of certain hard-to-count populations. To do
+
+this, Killworth et al. (1998a,b) combined the estimated network
+
+size information with the responses to the questions about how
+
+many people the respondents know in the hard-to-count popu-
+
+lation. For example, the survey respondents know, on average,
+
+.63 homeless people. If it is estimated that the average network
+
+size
+
+is
+
+750,
+
+then
+
+homeless
+
+people
+
+represent
+
+a
+
+fraction
+
+of
+
+.63 750
+
+of
+
+an average person's social network. The total number of home-
+
+less people in the country can then be estimated as
+
+.63 750
+
+*
+
+(280
+
+million)
+
+=
+
+.24
+
+million.
+
+This estimate relies on idealized assumptions (most notably, that homeless persons have the same social network size on average as Americans as a whole) but can be used as a starting point for estimating the sizes of groups that are difficult to measure directly (Killworth et al. 1998a,b).
+In this article we demonstrate a new use of the data from this type of survey to reveal information about social structure in the acquaintanceship network. We use the variation in response data to study the heterogeneity of relative propensities for people to form ties to people in specific groups. In addition, we provide support for some of the findings of McCarty et al. (2001) and Killworth et al. (2003).
+
+3. FORMULATING AND FITTING THE MODEL 3.1 Notation
+
+We introduce a general notation for the links between persons i and j in the population (with groups k defined as subsets Sk of
+
+Zheng, Salganik, and Gelman: Estimate Social Structure in Networks
+
+411
+
+the population), with a total population size of N:
+
+pij = probability that person i knows person j,
+N
+ai = pij
+j=1
+= gregariousness parameter or the expected degree of person i,
+N
+B = ai
+i=1
+= expected total degree of the population
+= 2 * (expected # link),
+
+Bk = ai
+iSk
+= expected total degree of persons in group k,
+
+bk
+
+=
+
+Bk B
+
+= prevalence parameter or the proportion
+
+of total links that involve group k,
+
+(1)
+
+ik = pij
+jSk
+= expected number of persons in group k known by person i,
+
+gik
+
+=
+
+ik aibk
+
+= individual i's relative propensity
+
+to know a person in group k.
+
+We are implicitly assuming acquaintanceship to be symmetric,
+which is consistent with the wording of the survey question.
+To the extent that the relation is not symmetric, our results still
+hold if we replace the term "degree" by "in-degree" or "out-
+degree" as appropriate.
+The parameter bk is not the proportion of persons in the population who are in group k; rather, bk is the proportion of links that involve group k. (For this purpose, we count a link twice
+if it connects two members of group k.) If the links in the ac-
+quaintance network are assigned completely at random, then
+bk = Nk/N, where Nk is the number of individuals in group k. Realistically, and in our model, the values of bk may not be proportional to the Nk's. If bk is higher than the population proportion of group k, then this indicates that the average degree
+of individuals from group k is higher than the average degree of
+the population.
+For the parameter gik, a careful inspection reveals that
+
+gik =
+
+jSk pij/ bk
+
+N j=1
+
+pij
+
+(2)
+
+is the ratio of the proportion of the links that involve group k in individual i's network, divided by the proportion of the links that involve group k in the population network. In other words, gik > 1 if individual i has higher propensity to form ties with
+
+individuals from group k than an average person in the population. This property of gik is why we have termed it the relative propensity.
+We use the following notation for our survey data: n survey respondents and K population subgroups under study; for the McCarty et al. data, n = 1,370 and K = 32. We label yik as the response of individual i to the question, "How many people do you know of subpopulation k?"; that is, yik = number of persons in group k known by person i. We implicitly assume in this section that the respondents have perfect recall of the number of acquaintances in each subpopulation k. Issues of imperfect recall are discussed in Section 4.2. We now discuss three increasingly general models for the data yik.
+Erdos-Renyi Model. We study social structure as departures from patterns that would be observed if the acquaintances are formed randomly. The classical mathematical model for completely randomly formed acquaintances is the Erdos- Renyi model (Erdos and Renyi 1959), under which the probability, pij, of a link between person i and person j is the same for all pairs (i, j). Following the foregoing notation, this model leads to equal expected degrees ai for all individuals and relative propensities gik that all equal to 1. The model also implies that the set of responses yik for subpopulation k should follow a Poisson distribution.
+However, if the expected degrees of individuals were actually heterogenous, then we would expect super-Poisson variation in the responses to "How many X's do you know?" questions ( yik). Because numerous network studies have found large variation in degrees (Newman 2003b), it is no surprise the Erdos-Renyi model is a poor fit to our yik data--a chi-squared goodness-of-fit test values 350,000 on 1,369 x 32  44,000 df.
+Null Model. To account for the variability in the degrees of individuals, we introduce a null model in which individuals have varying gregariousness parameters (or the expected degrees) ai. Under this model, for each individual, the acquaintances with others are still formed randomly. However, the gregariousness may differ from individual to individual. In our notation, the null model implies that pij = aiaj/B, and relative propensities gik are still all equal to 1. Departure from this model can be viewed as evidence of structured social acquaintance networks. A similar approach was taken by Handcock and Jones (2004) in their attempt to model human sexual networks, although their model is different because it does not deal with two-way data.
+In the case of the "How many X's do you know?" count data, this null model fails to account for much of social reality. For example, under the null model, the relative propensity to know people in prison is the same for a reader of this journal and a person without a high school degree. The failure of such an unrealistic model to fit the data is confirmed by a chi-squared goodness-of-fit test that values 160,000 on 1,369 x 31  42,000 df.
+Overdispersed Model. The failure of the null model motivates a more general model that allows individuals to vary not only in their gregariousness (ai), but also in their relative propensity to know people in different groups (gik). We call this the overdispersed model, because variation in these gik's results in overdispersion in the "How many X's do you know?"
+
+412 Journal of the American Statistical Association, June 2006
+
+count data. As is standard in generalized linear models (e.g., McCullagh and Nelder 1989), we use "overdispersion" to refer to data with more variance than expected under a null model, and also as a parameter in an expanded model that captures this variation.
+Comparison of the Three Models Using "How Many X's Do You Know?" Count Data. Figure 1 shows some of the data-- the distributions of responses, yik, to the questions "How many people named Nicole do you know?" and "How many Jaycees do you know?," along with the expected distributions under the Erdos-Renyi model, our null model, and our overdispersed model. ("Jaycees" are members of the Junior Chamber of Commerce, a community organization of people age 21-39. Because the Jaycees are a social organization, it makes sense that not everyone has the same propensity to know one--people who are in the social circle of one Jaycee are particularly likely to know others.) We chose these two groups to plot because they are close in average number known (.9 Nicoles, 1.2 Jaycees) but have much different distributions; the distribution for Jaycees has much more variation, with more zero responses and more responses in the upper tail.
+
+The three models can be written as follows in statistical notation as yik  Poisson(ik), with increasingly general forms for ik:
+
+Erdos-Renyi model: Our null model: Our overdispersed model:
+
+ik= abk, ik= aibk, ik= aibkgik.
+
+Comparing the models, the Erdos-Renyi model implies a Poisson distribution for the responses to each "How many X's do you know?" question, whereas the other models allow for more dispersion. The null model turns out to be a much better fit to the Nicoles than to the Jaycees, indicating that there is comparably less variation in the propensity to form ties with Nicoles than with Jaycees. The overdispersed model fits both distributions reasonably well and captures the difference between the patterns of the acquaintance with Nicoles and Jaycees by allowing individuals to differ in their relative propensities to form ties to people in specific groups (gik). As we show, using the overdispersed model, both variation in social network sizes and variations in relative propensities to form ties to specific groups can be estimated from the McCarty et al. data.
+
+Figure 1. Histograms (on the square-root scale) of Responses to "How Many Persons Do You Know Named Nicole?" and "How Many Jaycees Do You Know?" From the McCarty et al. Data and From Random Simulations Under Three Fitted Models: The Erdos-Renyi Model (completely random links), Our Null Model (some people more gregarious than others, but uniform relative propensities for people to form ties to all groups), and Our Overdispersed Model (variation in gregariousness and variation in propensities to form ties to different groups). Each model shows more dispersion than the one above, with the overdispersed model fitting the data reasonably well. The propensities to form ties to Jaycees show much more variation than the propensities to form ties to Nicoles, and hence the Jaycees counts are much more overdispersed. (The data also show minor idiosyncrasies such as small peaks at the responses 10, 15, 20, and 25. All values >30 have been truncated at 30.) We display the results on square-root scale to more clearly reveal patterns in the tails.
+
+Zheng, Salganik, and Gelman: Estimate Social Structure in Networks
+
+413
+
+As described in the next section, when fitting the overdispersed model, we do not attempt to estimate all of the individual gik's; rather, we estimate certain properties of their distributions.
+
+3.2 The Overdispersed Model
+
+Overdispersion in these data can arise if the relative propensity for knowing someone in prison, for example, varies from respondent to respondent. We can write this in the generalized linear model framework as
+overdispersed model: yik  Poisson ei+k+ik , (3)
+where i = log(ai), k = log(bk), and ik = log(gik). In the null model, ik  0. For each subpopulation k, we let the multiplicative factor gik = eik follow a gamma distribution with a value of 1 for the mean and a value of 1/(k - 1) for the shape parameter. [If we wanted, we could allow the mean of the gamma distribution to vary also; however, this would be redundant with a location shift in k; see (3). The mean of the gamma distribution for the eik 's cannot be identified separately from k, which we are already estimating from the data.] This distribution is convenient because then the  's can be integrated out of (3) to yield
+
+overdispersed model:
+
+yik  negative-binomial mean = ei+k ,
+
+overdispersion = k . (4)
+
+The usual parameterization (see, e.g., Gelman, Carlin, Stern, and Rubin 2003) of the negative binomial distribution is y  Neg-bin(A, B), but for this article it is more convenient to express in terms of the mean  = A/B and overdispersion  = 1 + 1/B. Setting k = 1 corresponds to setting the shape parameter in the gamma distribution to , which in turn implies that the gik's have zero variance, reducing to the null model. Higher values of k correspond to overdispersion, that is, more variation in the distribution of connections involving group k than would be expected under the Poisson model, as would be expected if there is variation among respondents in the relative propensity to know someone in group k.
+The overdispersion parameter  can be interpreted in a number of ways. Most simply, it scales the variance, var( yik) = kE( yik), in the negative binomial distribution for yik. A perhaps more intuitive interpretation uses the probabilities of knowing exactly zero or one person in subgroup k. Under the negative binomial distribution for data y,
+
+Pr(
+
+y
+
+=
+
+1)
+
+=
+
+Pr( y = 0)E( y) overdispersion
+
+.
+
+(5)
+
+Thus we can interpret the overdispersion as a factor that decreases the frequency of people who know exactly one person of type X, as compared to the frequency of people who know none. As overdispersion increases from its null value of 1, it is less likely for a person to have an isolated acquaintance from that group.
+Our primary goal in fitting model (4) is to estimate the overdispersions k and thus learn about biases that exist in the formation of social networks. As a byproduct, we also estimate the gregariousness parameters ai = ei , representing the
+
+expected number of persons known by respondent i, and the
+
+group prevalence parameters bk = ek , which is the proportion of subgroup k in the social network.
+
+We estimate the i's, k's, and k's with a hierarchical (multilevel) model and Bayesian inference (see, e.g., Snijders and
+
+Bosker 1999; Raudenbush and Bryk 2002; Gelman et al. 2003).
+
+The respondent parameters i are assumed to follow a normal distribution with unknown mean  and standard deviation , which corresponds to a lognormal distribution for the gregariousness parameters ai = ei . This is a reasonable prior given previous research on the degree distribution of the ac-
+
+quaintanceship network of Americans (McCarty et al. 2001).
+
+We similarly fit the group-effect parameters k with a normal
+
+distribution mated from
+
+Nth(ed,ata2.),Fowritshimthpelsiceithyy, pwerepaarsasmigenteirnsdaelpseonedsetni-t
+
+uniform(0, 1) prior distributions to the overdispersion parame-
+
+ters on the inverse scale, p(1/k)  1. [The overdispersions k are constrained to the range (1, ), and so it is convenient to
+
+put a model on the inverses 1/k, which fall in (0, 1).] The sample size of the McCarty et al. dataset is large enough so that
+
+this noninformative model works fine; in general, however, it
+
+would be more appropriate to model the k's hierarchically as well. We complete the Bayesian model with a noninformative
+
+uniform prior distribution for the hyperparameters ,  , , and  . The joint posterior density can then be written as
+
+p(, , , ,  , ,  |y)
+
+nK
+
+i=1 k=1
+
+yik + ik - 1 ik - 1
+
+1 ik k - 1 yik k k
+
+nK
+x N(i|, 2) N(k| , 2),
+i=1 k=1
+
+where ik = ei+k /(k - 1), from the definition of the negative binomial distribution.
+
+Normalization. The model as given has a nonidentifiability. Any constant C can be added to all of the i's and subtracted from all of the k's, and the likelihood will remain unchanged (because it depends on these parameters only through sums of the form i + k). If we also add C to  and subtract C from  , then the prior density also is unchanged. It is possible to identify the model by anchoring it at some arbitrary point-- for example, setting  to 0--but we prefer to let all of the parameters float, because including this redundancy can speed the Gibbs sampler computation (van Dyk and Meng 2001).
+However, in summarizing the model we want to identify the  and 's so that each bk = ek represents the proportion of the links in the network that go to members of group k. We identify the model in this way by renormalizing the bk's for the rarest names (in the McCarty et al. survey, these are Jacqueline, Christina, and Nicole) so that they line up to their proportions in the general population. We renormalize to the rare names rather than to all 12 names because there is evidence that respondents have difficulty recalling all their acquaintances with common names (see Killworth et al. 2003 and also Sec. 4.2). Finally, because the rarest names asked about in our survey are female names--and people tend to know more persons of their own sex--we further adjust by adding half the discrepancy between
+
+414 Journal of the American Statistical Association, June 2006
+
+a set of intermediately popular male and female names in our dataset.
+This procedure is complicated but is our best attempt at an accurate normalization for the general population (which is roughly half women and half men) given the particularities of the data that we have at hand. In the future, it would be desirable to gather data on a balanced set of rare female and male names. Figure 5(a) in Section 4.2 illustrates how after renormalization, the rare names in the dataset have group sizes equal to their proportion in the population. This specific procedure is designed for the recall problems that exist in the McCarty et al. dataset. Researchers working with different datasets may need to develop a procedure appropriate to their specific data.
+In summary, for each simulation draw of the vector of model parameters, we define the constant
+
+C
+
+=
+
+C1
+
++
+
+1 2
+
+C2,
+
+(6)
+
+where C1 = log( kG1 ek /PG1 ) adjusts for the rare girls'
+
+names and C2 represents the
+
+d=iffleorgen( cekbBe2tweeke/nPbBo2 )ys-'
+
+log( and
+
+girkls'G2neamk /ePs.GI2n)
+
+these expressions G1, G2, and B2 are the set of rare girls' names (Jacqueline, Christina, and Nicole), somewhat popular girls'
+
+names (Stephanie, Nicole, and Jennifer), and somewhat popular
+
+boys' names (Anthony and Christopher), and PG1 , PG2 , and PB2 are the proportion of people with these groups of names in the
+
+U.S. population.
+
+We add C to all of the i's and to  and subtract it from all of the k's and  , so that all of the parameters are uniquely defined. We can then interpret the parameters ai = ei as the
+
+expected social network sizes of the individuals i and the para-
+
+meters bk = ek as the sizes of the groups as a proportion of the entire network, as in the definitions (1).
+
+3.3 Fitting the Model Using the Gibbs-Metropolis Algorithm
+
+We obtain posterior simulations for the foregoing model using a Gibbs-Metropolis algorithm, iterating the following steps:
+
+1. For each i, update i using a Metropolis step with jumping
+
+distribution i  N(i(t-1), ( jumping scale of i)2).
+
+2. For each k, update k using a Metropolis step with jump-
+
+3. UinpgddaitsetributioNn (k, N2(/ni)(t,-w1)h,e(rjeum pi=ngn1scanil=e1ofi. k)2).
+
+4.
+
+Upnid=a1t(ei-2
+
+ Inv-  )2 .
+
+2
+
+(n
+
+-
+
+1, 2),
+
+where
+
+5.
+
+Update 
+
+ N(  , 2/n), where  
+
+=
+
+1 K
+
+2
+
+=
+
+1 n
+
+K k=1
+
+k
+
+.
+
+x
+
+6.
+
+UpkKd=a1te(k -2
+
+ Inv-  )2.
+
+2
+
+(K
+
+- 1, 2),
+
+wherev
+
+2 =
+
+1 K
+
+x
+
+7. For each k, update k using a Metropolis step with jump-
+
+ing distribution k  N(k(t-1), ( jumping scale of k)2).
+
+8. Rescale the 's and 's by computing C from (6) and
+
+adding it to all of the i's and  and subtracting it from
+
+all of the k's and  , as discussed at the end of Sec-
+
+tion 3.2.
+
+We construct starting points for the algorithm by fitting a
+
+classical Poisson regression [the null model, yik  Poisson(ik),
+
+with each
+
+ik = aibk] and subpopulation k
+
+then estimating the
+
+using
+
+1 n
+
+n i=1
+
+(
+
+yik
+
+-
+
+overdispersion for aibk)2/(aibk). The
+
+Metropolis jumping scales for the individual components
+
+of , , and  are set adaptively so that average acceptance
+
+probabilities are approximately 40% for each scalar parameter
+
+(Gelman, Roberts, and Gilks 1996).
+
+4. RESULTS
+
+We fit the overdispersed model to the McCarty et al. (2001) data, achieving approximate convergence (R < 1.1; see Gelman et al. 2003) of three parallel chains after 2,000 iterations. We present our inferences for the gregariousness parameters ai = ei , the prevalence parameters bk = ek , and the overdispersion parameters k, in that order.
+We fit the model first using all of the data and then separately for the male and female respondents (582 males and 784 females, with 4 individuals excluded because of missing gender information). Fitting the models separately for men and women makes sense because many of the subpopulations under study are single-sex groups. As we show, men tend to know more men and women tend to know more women, and more subtle sexlinked patterns also occur. Other interesting patterns arise when we examine the correlation structure of the model residuals, as we discuss in Section 4.5.
+
+4.1 Distribution of Social Network Sizes ai
+The estimation of the distribution of social network sizes, the distribution of the ai's in our study, is a problem that has troubled researchers for some time. Good estimates of this basic social parameter have remained elusive despite numerous efforts. Some attempts have included diary studies (Gurevich 1961; Pool and Kochen 1978), phone book studies (Pool and Kochen 1978; Freeman and Thompson 1989; Killworth, Johnsen, Bernard, Shelley, and McCarty 1990), the reverse small-world method (Killworth and Bernard 1978), the scale-up method described earlier in this article (Killworth et al. 1998a,b), and the summation method (McCarty et al. 2001). Despite a great amount of work, this body of research offers little consensus. Our estimates of the distribution of the ai's shed more light on this question of estimating the degree distribution of the acquaintanceship network. Further, we are able to go beyond previous studies by using our statistical model to summarize the uncertainty of the estimated distribution, as shown in Figure 2.
+Figure 2 displays estimated distributions of the gregariousness parameters ai = ei for the survey respondents, showing separate histograms of the posterior simulations from the model estimated separately to the men and the women. Recall that these values are calibrated based on the implicit assumption that the rare names in the data have the same average degrees as the population as a whole (see the end of Sec. 3.2). The similarity between the distributions for men and for women is intriguing. This similarity is not an artifact of our analysis, but instead seems to be telling us something interesting about the social world.
+We estimate the median degree of the population to be about 610 (650 for men and 590 for women), with an estimated 90% of the population having expected degrees between
+
+Zheng, Salganik, and Gelman: Estimate Social Structure in Networks
+
+415
+
+Figure 2. Estimated Distributions of "Gregariousness" or Expected Degree, ai = ei From the Fitted Model. Men and women have similar distributions (with medians of about 610 and means about 750), with a great deal of variation among persons. The overlain lines are posterior simulation draws indicating inferential uncertainty in the histograms.
+
+250 and 1,710. These estimates are a bit higher than those of McCarty et al. (2001), for reasons that we discuss near the end of Section 4.2.
+The spread in each of the histograms of Figure 2 represents population variability almost entirely. The model allows us to estimate the individual ai's to within a coefficient of variation of about 25%. When taken together, this allows us to estimate the distribution precisely. This precision can be seen in the solid lines overlaid on Figure 2 that represent inferential uncertainty.
+Figure 3 presents a simple regression analysis estimating some of the factors predictive of i = log(ai), using the data on the respondents in the McCarty et al. survey. These explanatory factors are relatively unimportant in explaining social network size; the regression summarized in Figure 3 has an R2 of only 10%. The strongest patterns are that persons with a college education, a job outside the home, and high incomes know more people and that persons over 65 and those with low incomes know fewer people. 4.2 Relative Sizes bk of Subpopulations
+We now consider the group-level parameters. The left panel of Figure 4 shows the 32 subpopulations k and the estimates
+Figure 3. Coefficients (and 1 standard error and 2 standard error intervals) of the Regression of Estimated Log Gregariousness Parameters i on Personal Characteristics. Because the regression is on the logarithmic scale, the coefficients (with the exception of the constant term) can be interpreted as proportional differences: thus, with all else held constant, women have social network sizes 11% smaller than men, persons over 65 have social network sizes 14% lower than others, and so forth. The R2 of the model is only 10%, indicating that these predictors explain little of the variation in gregariousness in the population.
+
+of ek , the proportion of links in the network that go to a member of group k (where Bek is the total degree of group k). The right panel displays the estimated overdispersions k. The sample size is large enough so that the 95% error bars are tiny for the k's and reasonably small for the k's as well. [It is a general property of statistical estimation that mean parameters (such as the 's in this example) are easier to estimate than dispersion parameters such as the 's.] The figure also displays the separate estimates from the men and women.
+Considering the 's first, the clearest pattern in Figure 4 is that respondents of each sex tend to know more people in groups of their own sex. We can also see that the 95% intervals are wider for groups with lower 's, which makes sense because the data are discrete, and for these groups, the counts yik are smaller and provide less information.
+Another pattern in the estimated bk's is the way in which they scale with the size of group k. One would expect an approximate linear relation between the number of people in group k and our estimate for bk; that is, on a graph of log bk versus log(group size), we would expect the groups to fall roughly along a line with slope 1. However, as can be seen in Figure 5, this is not the case. Rather, the estimated prevalence increases approximately with square root of population size, a pattern that is particularly clean for the names. This relation has also been observed by Killworth et al. (2003).
+Discrepancies from the linear relation can be explained by difference in average degrees (e.g., as members of a social organization, Jaycees would be expected to know more people than average, so their bk should be larger than an average group of an equal size), inconsistency in definitions (e.g., what is the definition of an American Indian?), and ease or difficulty of recall (e.g., a friend might be a twin without you knowing it, whereas you would probably know whether she gave birth in the last year).
+This still leaves unanswered the question of why a square root (i.e., a slope of 1/2 in the log-log plot), rather than a linear (a slope of 1) pattern. Killworth et al. (2003) discussed various explanations for this pattern. As they note, it is easier to recall rare persons and events, whereas more people in more common categories are easily forgotten. You will probably remember every Ulysses you ever met, but may find it difficult to recall all the Michaels and Roberts you know even now.
+This reasoning suggests that acquaintance networks are systematically underestimated, and hence when this scale-up
+
+416 Journal of the American Statistical Association, June 2006
+Figure 4. Estimates (and 95% intervals) of bk and k , Plotted for Groups X in the "How Many X's Do You Know?" Survey of McCarty et al. (2001). The estimates and uncertainty lines are clustered in groups of three; for each group, the top, middle, and bottom dots/lines correspond to men, all respondents, and women. The groups are listed in categories--female names, male names, female groups, male (or primarily male) groups, and mixed-sex groups--and in increasing average overdispersion within each category.
+(a) (b)
+Figure 5. Log-Log Plots of Estimated Prevalence of Groups in the Population (as estimated from the "How many X's do you know?" survey) Plotted versus Actual Group Size (as determined from public sources). Names (a) and other groups (b) are plotted separately, on a common scale, with fitted regression lines shown. The solid lines have slopes .53 and .42, compared to a theoretical slope of 1 (as indicated by the dotted lines) that would be expected if all groups were equally popular and equally recalled by respondents.
+
+Zheng, Salganik, and Gelman: Estimate Social Structure in Networks
+
+417
+
+method is used to estimate social network size, it is more appropriate to normalize based on the known populations of the rarer names (e.g., Jacqueline, Nicole, and Christina in this study) rather than on more common names such as Michael or James, or even on the entire group of 12 names in the data. We discussed the particular renormalization that we use at the end of Section 3.2. This also explains why our estimate of the mean of the degree distribution is 750, as compared with the 290 estimated from the same data by McCarty et al. (2001).
+Another pattern in Figure 5 is that the slope of the line is steeper for the names than for the other groups. We suppose that this is because for a given group size, it is easier to recall names than characteristics. After all, you know the name of almost all your acquaintances, but you could easily be unaware that a friend has diabetes, for example.
+4.3 Overdispersion Parameters k for Subpopulations
+Recall that we introduced the overdispersed model in an attempt to estimate the variability in individuals' relative propensities to form ties to members of different groups. For groups where k = 1, we can conclude that there is no variation in these relative propensities. However, larger values of k imply variation in individuals' relative propensities.
+The right panel of Figure 4 displays the estimated overdispersions k, and they are striking. First, we observe that the names have overdispersions of between 1 and 2--indicating little variation in relative propensities. In contrast, the other groups have a wide range of overdispersions, ranging from near 1 for twins (which are in fact distributed nearly at random in the population) to 2-3 for diabetics, recent mothers, new business owners, and dialysis patients (who are broadly distributed geographically and through social classes), with higher values for more socially localized groups, such as gun dealers and HIV/AIDS patients, and demographically localized groups, such as widows/widowers; and even higher values for Jaycees and American Indians, two groups with dense internal networks. Overdispersion is highest for homeless persons, who are both geographically and socially localized.
+These results are consistent with our general understanding and also potentially reveal patterns that would not be apparent without this analysis. For example, it is no surprise that there is high variation in the propensity to know someone who is homeless, but it is perhaps surprising that AIDS patients are less overdispersed than HIV-positive persons, or that new business owners are no more overdispersed than new mothers.
+
+One way to understand the parameters k in the data, which range from about 1 to 10, is to examine the effect these overdispersions have on the distribution of the responses to the question, "How many people do you know of type X?" The distribution becomes broader as the ai's vary and as  increases. Figure 6 illustrates that for several values of , as the overdispersion parameter increases, we expect to see increasingly many 0's and high values and fewer 1's [as expressed analytically in (5)].
+
+4.4 Differences Between Men and Women
+
+A more subtle pattern in the data involves the differences between male and female respondents. Figure 7 plots the difference between men and women in the overdispersion parameters, k, versus the "popularity" estimates, bk, for each subpopulation k. For names and for the other groups, there is a general pattern that overdispersion is higher among the sex for which the group is more popular. This makes some sense; overdispersion occurs when members of a subgroup are known in clusters or, more generally, when knowing one member of the subgroup makes it more likely that you will know several. For example, on average, men know relatively more airline pilots than women, perhaps because they are more likely to be pilots themselves, in which case they might know many pilots, yielding a relatively high overdispersion. We do not claim to understand all of the patterns in Figure 7, for example, that Roberts and Jameses tend to be especially popular and overdispersed among men compared with women.
+
+4.5 Analysis Using Residuals
+
+Further features of these data can be studied using residuals
+
+from the overdispersed model. A natural object of study is cor-
+
+relation; for example, do people who know more Anthonys tend
+
+to know more gun dealers (after controlling for the fact that so-
+
+cial network sizes differ, so that anyone who knows more X's
+
+will tend to know more Y's)? For each survey response yik, we can define the standardized residual as
+
+residual: rik = yik - aibk,
+
+(7)
+
+the excess people known after accounting for individual and group parameters. (It is standard to compute residuals of count data on the square root scale to stabilize the variance; see Tukey 1972.)
+For each pair of groups k1 and k2, we can compute the correlation of their vectors of residuals; Figure 8 displays the matrix
+
+Figure 6. Distributions of "How Many X's Do You Know?" Count Data Simulated From the Overdispersed Model Corresponding to Groups of Equal Size (representing .5% of the population) With Overdispersion Parameters 1 (the null model), 1.5, 3, and 10. All of the distributions displayed here have the same mean; however, as the overdispersion parameter () increases, we observe broader distributions with more 0's, more high values, and fewer 1's.
+
+418 Journal of the American Statistical Association, June 2006
+
+Figure 7. Differences Between Men and Women in the Overdispersion Parameter k and Log-Prevalence k , for Each Group k . In each graph,
+
+the y -axis shows j(men) - j(women),
+
+the the
+
+estimate of j(men) - j(women), the difference difference in log-prevalences among men and
+
+in overdispersions women for group j
+
+among men . Names and
+
+and women other groups
+
+for group j, are plotted
+
+and the x -axis shows separately on different
+
+scales. In general, groups that are more popular among men have higher variations in propensities for men. A similar pattern is observed for women.
+
+of these correlations. Care must be taken when interpreting this figure, however. At first, it may appear that the correlations are quite small, but this is in some sense a natural result of our model; that is, if the correlations were all positive for group k, then the popularity bk of that group would increase.
+
+Several patterns can be seen in Figure 8. First, there is a slight positive correlation within male and female names. Second, perhaps more interesting sociologically, there is a positive correlation between the categories that can be considered negative experiences--homicide, suicide, rape, died in a car accident,
+
+Figure 8. Correlations of the Residuals rik Among the Survey Respondents (e.g., people who know more HIV-positive persons know more AIDS patients, etc.). The groups other than the names are ordered based on a clustering algorithm that maximizes correlations between nearby groups.
+
+Zheng, Salganik, and Gelman: Estimate Social Structure in Networks
+
+419
+
+homelessness, and being in prison. That is, someone with a higher relative propensity to know someone with one bad experience is also likely to have a higher propensity to know someone who had a different bad experience. The strength of this correlation is a potentially interesting measure of inequality. Another pattern is the mostly positive correlations among the names and mostly positive correlations among the non-name groups, but not much correlation between these two general categories. One possible explanation for this is that for some individuals names are easier to recall, whereas for some others non-name traits (such as new births) are more memorable.
+Instead of correlating the residuals, we could have examined the correlations of the raw data. However, these would be more difficult to interpret, because we would find positive correlations everywhere, for the uninteresting reason that some respondents know many more people than others, so that if you know more of any one category of person, then you are likely to know more in just about any other category.
+Another alternative would be to calculate the correlation of estimated interactions ik (the logarithms of the relative propensities of respondents i to know persons in group k) rather than the residuals (7). However, estimates of the individual ik are extremely noisy (recall that we focus our interpretation on their distributional parameter k) and so are not very useful. However, as shown in Figure 8, the residuals still provide useful information.
+In addition to correlations, one can attempt to model the residuals based on individual-level predictors. For example, Figure 9 shows the estimated coefficients of a regression model fit to the residuals of the null model for the "How many males do you know in state or federal prison?" question. It is no surprise that being male, nonwhite, young, unmarried, and so on are associated with knowing more males than expected in state or federal prison. However, somewhat surprisingly, the R2 of the regression model is only 11%.
+As with the correlation analysis, by performing this regression on the residuals and not on the raw data, we are able to focus on the relative number of prisoners known without being distracted by the total network size of each respondent (which we analyzed separately in Fig. 3).
+Figure 9. Coefficients (and 1 standard error and 2 standard error intervals) of the Regression of Residuals for the "How Many Males Do You Know Incarcerated in State or Federal Prison?" Question on Personal Characteristics. Being male, nonwhite, young, unmarried, and so on are associated with knowing more people than expected in federal prison. However, the R2 of the regression is only 11%, indicting that most of the variation in the data is not captured by these predictors.
+
+4.6 Posterior Predictive Checking
+We can also check the quality of the overdispersed model by comparing posterior predictive simulations from the fitted model to the data (see, e.g., Gelman et al. 2003, chap. 6). We create a set of predictive simulations by sampling new data, yik, independently from the negative binomial distributions given the parameter vectors , , and  drawn from the posterior simulations already calculated. We can then examine various aspects of the real and simulated data, as illustrated in Figure 10. For now, just look at the bottom row of graphs in the figure; we return in Section 5 to the top three rows. For each subpopulation k, we compute the proportion of the 1,370 respondents for which yik = 0, yik = 1, yik = 3, and so forth. We then compare these values with posterior predictive simulations under the model. On the whole, the model fits the aggregate counts fairly well but tends to underpredict the proportion of respondents who know exactly one person in a category. In addition, the data and predicted values for y = 9 and y = 10 show the artifact that persons are more likely to answer with round numbers (which can also be seen in the histograms in Fig. 1). This phenomenon, often called "heaping," was also noted by McCarty et al. (2001).
+5. MEASURING OVERDISPERSION WITHOUT COMPLETE COUNT DATA
+Our approach relies crucially on having count data, so that we can measure departures from our null model of independent links; hence the Poisson model on counts. However, several previous studies have been done in which only dichotomous data were collected. Examples include the position generator studies (for a review, see Lin 1999) and the resource generator studies (van Der Gaag and Snijders 2005), both of which attempted to measure individual-level social capital. In these studies, respondents were asked whether they knew someone in a specific category--either an occupational group (e.g., doctor, lawyer) or a resource group (someone who knows how to fix a car, someone who speaks a foreign language)--and responses were dichotomous. It would be important to know whether could use such data to estimate the variation in popularities of individuals, groups, and overdispersions of groups--the i's, k's, and k's in our model.
+First, the two-way structure in the data could be used to estimate overdispersion from mere yes/no data, given reasonable estimates of bk's. However, good informative estimates of bk are not always available. Without them, estimates from binary data are extremely noisy and not particularly useful. More encouragingly, we find that by slightly increasing the response burden on respondents and collecting data of the type 0, 1, 2, and 3 or more, researchers would be able to make reasonable estimates of overdispersion even with such censored data. Such multiple-choice question naturally would capture less information than an exact count but would perhaps be less subject to the recall biases discussed in Section 4.2.
+5.1 Theoretical Ideas for Estimating the Model From Partial Data
+We briefly discuss, from a theoretical perspective, the information needed to estimate overdispersion from partial information such as yes/no data or questions such as, "Do you know 0,
+
+420 Journal of the American Statistical Association, June 2006
+
+Figure 10. Model-Checking Graphs: Observed versus Expected Proportions of Responses yik of 0, 1, 3, 5, 9, 10, and 13. Each row of plots compares actual data with the estimate from one of four fitted models. The bottom row shows our main model, and the top three rows show models fit censoring the data at 1, 3, and 5, as explained in Section 5. In each plot, each dot represents a subpopulation, with names in gray, non-names in black, and 95% posterior intervals indicated by horizontal lines.
+
+1, 2, or more than 2 person(s) of type X?" We illustrate with the
+
+McCarty et al. data in the next section.
+
+With simple yes/no data ("Do you know any X's?"), overdis-
+
+persion can only be estimated if external information is avail-
+
+able on the bk's. However, overdispersion can be estimated if questions are asked of the form "Do you know 0, 1, . . . , c or
+
+more person(s) named Michael?" for any c  2. It is straight-
+
+forward to fit the overdispersed model from these censored
+
+data, with the only change being in the likelihood function.
+
+blFokrgoambnkdt-helkongecgaankti-bveelobskgei-np1okaamraibitaekld),.maIonfddyeiwlk, iPitshr(tihyniefko=nrmu1ma)tbi=oenreooxfnp(atlhcoqegubaakii'n+s-, tances in group k known by person i, then we can write the
+
+censored data (for, say, c = 2) as zik = 0 if yik = 0, 1 if yik = 1,
+
+and 2 if yik  2. The likelihood for zik is then simply the neg-
+
+ative binomial density and Pr(zik  2) = 1 -
+
+at
+
+0 and 1
+
+1 m=0
+
+Pr(
+
+for the cases zik = 0 yik = m) for zik = 2,
+
+and the
+
+1, "2
+
+or more" response, with the separate terms computed from the
+
+negative binomial density.
+
+5.2 Empirical Application With Artificially Censored Data
+
+To examine the fitting of the model from partial information, we artificially censor the McCarty et al. (2001) data, creating a yes/no dataset (converting all responses yik > 0 to yeses), a "0/1/2/3+" dataset, and a "0/1/2/3/4/5+" dataset, fitting the appropriate censored-data model to each, and then comparing the parameter estimates with those from the full dataset. We compare the estimated group prevalence parameters k and overdispersion parameters k from each of the three censored
+
+datasets with the estimates from the complete (uncensored) data. From these results (not shown), we conclude that censoring at 3 or 5 preserves much but not all of the information for estimation of k and k, whereas censoring at 1 (yes/no data) gives reasonable estimates for the k's but nearly useless estimates for the k's. In addition, the Gibbs-Metropolis algorithm is slow to converge with the yes/no data.
+Along with having wider confidence intervals, the estimates from the censored data differ in some systematic ways from the complete-data estimates. Most notably, the overdispersion parameters k are generally lower when estimated from censored data.
+To better understand this phenomenon, we repeat our procedure--fitting the model to complete and censored data--but using a fake dataset constructed by simulating from the model given the parameter estimates (as was done for posterior predictive checking in Sec. 4.6). Our computation (not shown) reveals that the estimation procedure seems to be working well with the fake data when censored at 3 or 5. Most notably, no underestimation for the overdispersion parameters k is observed due to the censoring. However, the nonidentification appears up when estimating from yes/no data.
+A comparison of the results using the real data and the results using the simulated fake data reveals that some of the changes obtained from fitting to censored data arise from the poor fit of model to the data. To explore this further, we compute the expected proportions of yik = 0, yik = 1, etc., from the model as fit to the different censored datasets. The top three rows of Figure 10 show the results. The censored-data models fit the data reasonably well or even better than the noncensored data
+
+Zheng, Salganik, and Gelman: Estimate Social Structure in Networks
+
+421
+
+for low counts but do not perform as well at predicting the rates of high values of y, which makes sense because this part of the distribution is being estimated entirely by extrapolation.
+6. DISCUSSION
+6.1 Connections to Previous Work
+We have developed a new method for measuring one aspect of social structure that can be estimated from sample data--variation in the propensities for individuals to form ties with people in certain groups. Our measure of overdispersion may seem similar to--but is, in fact, distinct from--previous measures that have attempted to uncover deviations from random mixing, such as homophily (McPherson, Smith-Lovin, and Cook 2001) and assortative mixing (Newman 2002, 2003a).
+Originally defined by Lazarsfeld and Merton (1954), homophily represents the tendency for people to associate with those who are similar. Later, Coleman (1958) developed a way of quantifying this tendency that is now commonly used (see, e.g., Heckathorn 2002). Newman's measures of assortative mixing are another attempt to measure the tendency for vertices in networks to be connected to other similar vertices.
+Our object of study is different because we are estimating the variation in propensities of respondents to form ties to people in a specific group, whether or not the respondents are actually in the group themselves. That is, we are looking at how contact with a group is distributed throughout the population (group members and non-group members), whereas homophily and assortative mixing focus only on the tendency for group members to form ties to other group members. For example, people with certain diseases may not necessarily associate with each other, but they could have a higher propensity to know health care workers.
+From the McCarty et al. data, we estimate overdispersion for groups that do not appear in our sample (e.g., homeless, death by suicide, death by autoaccident, homicide victims, males in prison). We estimate varying degrees of overdispersion for these groups without the need for, or even the possibility of, measuring the homophily or assortative mixing of these groups.
+We are able to make estimates about these groups that are not included in our sample because our method of detecting social structure is indirect. By surveying a random sample of 1,370 Americans and then asking about all of their acquaintances, we are gathering partial information about the hundreds of thousands of persons in their social network (using our estimate of the mean of the degree distribution, the survey potentially gathers information on 1,370 x 750 = 1 million individuals), thus providing information on small and otherwise hard-to-reach groups.
+Further, by explicitly focusing on variation among people, our method differs from many existing network measures that tend to focus on measures of central tendency of group behaviors. Our method also differs from many statistical models for count data that treat super-Poisson variation as a problem to be corrected and not a source of information itself. We suspect that this increased attention to variation could yield useful insights on other problems.
+
+6.2 Future Improvements and Applications of These Methods
+Our model is not perfect, of course, as can be seen from the model-checking graphs of Figure 10. For one thing, the model cannot capture underdispersion, which can be considered an increased probability of knowing exactly one person of type X [see (5)], which could occur with, for example, occupational categories where it is typical to know exactly one person (e.g., dentists). To model this phenomenon, it would be necessary to go beyond the negative binomial distribution, with a natural model class being mixture distributions that explicitly augment the possibility of low positive values of y.
+A different way to study variance in the propensity to form ties to specific groups would be to classify links using the characteristics of the survey respondents, following the ideas of Hoff, Raftery, and Handcock (2002), Jones and Handcock (2003), and Hoff (2005) in adapting logistic regression models to model social ties. For example, the McCarty et al. data show that men on average know nearly twice as many commercial pilots than do women, and the two sexes have approximately the same average social network size, so this difference represents a clear difference in the relative propensities of men versus women to know an airline pilot. The nonuniformity revealed here would show up in simple yes/no data as well, for example, 35% of men in our survey, compared to 29% of women, know at least one airline pilot. So we can discern at least some patterns without the need to measure overdispersion.
+Given the complexity of actual social networks, however, in practice there will always be overdispersion even after accounting for background variables. A natural way to proceed is to combine the two approaches by allowing the probability of a link to a person in group k to depend on the observed characteristics of person i, with overdispersion after controlling for these characteristics. This corresponds to fitting regression models to the latent parameters i and ik given individual-level predictors Xi. Regressions such as those displayed in Figures 3 and 9 would then be part of the model, thus allowing more efficient estimation than could be obtained by postprocessing of parameter estimates and residuals. Controlling for individual characteristics also allows poststratified estimates of population quantities (see, e.g., Lohr 1999; Park, Gelman, and Bafumi 2004).
+For the goal of estimating social network size, it would make sense to include several rare names of both sexes to minimize the bias, demonstrated in Figure 5 and discussed by Killworth et al. (2003), of underrecall for common categories. Using rarer names would increase the variance of the estimates, but this problem could be mitigated by asking about a large number of such names. Fundamentally, if recall is a problem, then the only way to get accurate estimates of network sizes for individuals is to ask many questions.
+In this article we have fit the overdispersion model separately for men and women. One would also expect race and ethnicity to be important covariates, especially for the recognition of names whose popularity varies across racial groups. We have run analyses separately for the whites and the nonwhites (results not shown), and found that the differences for most estimated parameters were not statistically significant. A difficulty with these analyses is that there were only 233 nonwhites in the survey data.
+
+422 Journal of the American Statistical Association, June 2006
+
+6.3 Understanding the Origins and Consequences of Overdispersion
+Perhaps the biggest unanswered questions that come from this article deal not with model formulation or fitting, but rather with understanding the origins and consequences of the phenomena that we have observed. We found a large variation in individual propensities to form ties to different groups, but we do not have a clear understanding of how or why this happens. In some cases, the group membership itself may be important in how friendships are formed, for example, being homeless or being a Jaycee. However, for other groups [e.g., people named Jose (a group that, unfortunately, was not included in our data)], there might be variation in propensity caused not by the group membership itself, but rather by associated factors, such as ethnicity and geographic location. Sorting out the effect of group membership itself versus its correlates is an interesting problem for future work. Insights in this area may come from the generalized affiliation model of Watts, Dodds, and Newman (2002). Understanding how social institutions like schools help create this variation in propensity is another area for further research.
+In addition to trying to understand the origins of overdispersion, it is also important to understand its consequences. A large amount of research in psychology has shown that under certain conditions, intergroup contact affects opinions (for a review, see Pettigrew 1998). For example, one could imagine that a person's support for the death penalty is affected by how many people that he or she knows in prison. These psychological findings imply that the distribution of opinions in the society are determined at least partially by the social structure in a society, not simply by the demographics of its members. That is, we could imagine two societies with exactly the same demographic structures but with very different distributions of opinions only because of differences in social structure.
+Overdispersion, which means that acquaintanceship counts with specific subpopulations have more 0's and more high numbers than expected under the null model, will have the effect of polarizing opinions on issues. If contact with the specific subpopulation were more evenly distributed in the population, then we might see a different, more homogeneous, distribution of opinions about that group.
+In addition to changing the distribution of opinions, overdispersion can also influence the average opinion. For example,
+
+consider support for the rights of indigenous people in the two hypothetical populations in Figure 11. Figure 11(a) shows the distributions of the number of American Indians known. In both distributions the mean is the same (as our estimate from McCarty et al. data), but the distributions differ in their overdispersion. In one population there is no variation in relative propensities to form ties to the American Indians ( = 1), whereas in the other population there is substantial variation in relative propensities--in this case  = 7.7, which matches our estimate with respect to the American Indians in the acquaintanceship network of Americans.
+Figure 11(b) shows a hypothetical function that maps the number of people known in a specific group to an opinion (on a scale of 0-1, with 1 being most positive) on a specific issue-- in this example a map from the number of American Indians known--to a composite score measuring an individual's support for the rights of indigenous people. Here we assume that the function is increasing, monotonic, and nonlinear with diminishing returns (with derivative and second derivative that approach 0). In this case the change in a subject's opinion caused by knowing an American Indian is likely to be larger if that person previously knew 0 American Indians than if the subject previously knew 10 American Indians. In our simplified example this mapping is the same for everyone in both of these populations, so the two populations can considered as being made up of identical people.
+Even though the people in both populations are identical, Figure 11(c) shows that the distributions of opinions in the populations are substantially different. There is much more support for the American Indians in the population without overdispersion ( = 1) than in the population with overdispersion ( = 7.7). One way to think about this difference is that in the population in which contact with American Indians is overdispersed, the impact of the contact is concentrated in fewer people, so each contact is likely to have less of an effect.
+The difference in mean support for the rights of indigenous people (.42 vs. .28 on a scale of 0-1) in the two populations can be attributed entirely to differences in social structure. In both cases the populations are made up of identical individuals with identical mean amount of contact with American Indians; they differ only in social structure. This hypothetical example indicates that it is possible that certain macro-level sociological
+
+(a) (b) (c)
+
+Figure 11. Illustration of the Effect of Overdispersion on Mean Opinion in a Population. (a) Two different populations each with the same number of people and the same mean number of connections to a specific group but different overdispersions [ = 1 (gray bars) and  = 7.7 (empty bars)]. (b) A function, which applies to all individuals in both populations, that maps the number of persons an individual knows in a specific group to that individual's opinion on a specific issue. (c) The resulting distribution of opinions. The population with no overdispersion has substantially higher mean opinion (.42 vs. .28, indicated in the graph); thus observed differences in opinion distributions across different societies could potentially be attributed entirely to differences in social structure rather than to any differences between individuals.
+
+Zheng, Salganik, and Gelman: Estimate Social Structure in Networks
+
+423
+
+differences between societies are not attributable to differences
+between individuals in these societies. Rather, macro-level dif-
+ferences of opinion can sometimes be attributed to micro-level
+differences in social structure.
+In this article we have shown that Americans have varying
+propensities to form ties to specific groups, and we have es-
+timated this variation for a number of traits. Future empiri-
+cal work could explore this phenomenon for groups other than
+those included in the McCarty et al. (2001) data or explore this
+phenomena in other countries. Important work also remains to
+be done in better understanding the origins and consequences
+of this aspect of social structure.
+[Received September 2004. Revised June 2005.]
+REFERENCES
+Blau, P. M. (1974), "Parameters of Social Structure," American Sociological Review, 39, 615-635.
+Coleman, J. S. (1958), "Relational Analysis: The Study of Social Organization With Survey Methods," Human Organization, 17, 28-36.
+Erdos, P., and Renyi, A. (1959), "On Random Graphs," Publicationes Mathematicae, 6, 290-297.
+Freeman, L. C. (2004), The Development of Social Network Analysis: A Study in the Sociology of Science, Vancouver: Empirical Press.
+Freeman, L. C., and Thompson, C. R. (1989), "Estimating Acquaintanceship Volume," in The Small World, ed. M. Kochen, Norwood, NJ: Ablex Publishing, pp. 147-158.
+Gelman, A., Carlin, J. B., Stern, H. S., and Rubin, D. B. (2003), Bayesian Data Analysis (2nd ed.), London: Chapman & Hall.
+Gelman, A., Roberts, G., and Gilks, W. (1996), "Efficient Metropolis Jumping Rules," in Bayesian Statistics 5, eds. J. M. Bernardo, J. O. Berger, A. P. Dawid, and A. F. M. Smith, Oxford, U.K.: Oxford University Press, pp. 599-607.
+Gurevich, M. (1961), "The Social Structure of Acquaintanceship Networks," unpublished doctoral dissertation, Massachusetts Institute of Technology.
+Granovetter, M. (1995), Getting a Job: A Study in Contacts and Careers (2nd ed.), Chicago: University of Chicago Press.
+Handcock, M. S., and Jones, J. (2004), "Likelihood-Based Inference for Stochastic Models of Sexual Network Formation," Theoretical Population Biology, 65, 413-422.
+Heckathorn, D. D. (1997), "Respondent-Driven Sampling: A New Approach to the Study of Hidden Populations," Social Problems, 44, 174-199. (2002), "Respondent-Driven Sampling II: Deriving Valid Population Estimates From Chain-Referral Samples of Hidden Populations," Social Problems, 49, 11-34.
+Heckathorn, D. D., and Jeffri, J. (2001), "Finding the Beat: Using RespondentDriven Sampling to Study Jazz Musicians," Poetics, 28, 307-329.
+Hoff, P. D. (2005), "Bilinear Mixed-Effects Models for Dyadic Data," Journal of the American Statistical Association, 100, 286-295.
+Hoff, P. D., Raftery, A. E., and Handcock, M. S. (2002), "Latent Space Approaches to Social Network Analysis," Journal of the American Statistical Association, 97, 1090-1098.
+Jones, J., and Handcock, M. S. (2003), "An Assessment of Preferential Attachment as a Mechanism for Human Sexual Network Formation," Proceedings of the Royal Society of London, Ser. B, 270, 1123-1128.
+Killworth, P. D., and Bernard, H. R. (1978), "The Reverse Small-World Experiment," Social Networks, 1, 159-192.
+Killworth, P. D., Johnsen, E. C., Bernard, H. R., Shelley, G. A., and McCarty, C. (1990), "Estimating the Size of Personal Networks," Social Networks, 12, 289-312.
+
+Killworth, P. D., Johnsen, E. C., McCarty, C., Shelley, G. A., and Bernard, H. R. (1998a), "A Social Network Approach to Estimating Seroprevalence in the United States," Social Networks, 20, 23-50.
+Killworth, P. D., McCarty, C., Bernard, H. R., Johnsen, E. C., Domini, J., and Shelley, G. A. (2003), "Two Interpretations of Reports of Knowledge of Subpopulation Sizes," Social Networks, 25, 141-160.
+Killworth, P. D., McCarty, C., Bernard, H. R., Shelley, G. A., and Johnsen, E. C. (1998b), "Estimation of Seroprevalence, Rape, and Homelessness in the U.S. Using a Social Network Approach," Evaluation Review, 22, 289-308.
+Lazarsfeld, P. F., and Merton, R. K. (1954), "Friendship as a Social Process:
+A Substantive and Methodological Analysis," in Freedom and Control in Modern Society, ed. M. Berger, New York: Van Nostrand, pp. 11-66. Lee, B. A., Farrell, C. R., and Link, B. G. (2004), "Revisiting the Contact Hypothesis: The Cases of Public Exposure to Homelessness," American Sociological Review, 69, 40-63. Lin, N. (1999), "Social Networks and Status Attainment," Annual Review of Sociology, 25, 467-487. Lohr, S. L. (1999), Sampling: Design and Analysis, Belmont, CA: Duxbury
+Press. McCarty, C., Killworth, P. D., Bernard, H. R., Johnsen, E. C., and Shelley, G. A.
+(2001), "Comparing Two Methods for Estimating Network Size," Human Organization, 60, 28-39. McCullagh, P., and Nelder, J. A. (1989), Generalized Linear Models (2nd ed.), London: Chapman & Hall. McPherson, M., Smith-Lovin, L., and Cook, J. M. (2001), "Birds of a Feather:
+Homophily in Social Networks," Annual Review of Sociology, 27, 415-444. Morris, M., and Kretzchmar, M. (1995), "Concurrent Partnerships and Trans-
+mission Dynamics in Networks," Social Networks, 17, 299-318. Newman, M. E. J. (2002), "Assortative Mixing in Networks," Physical Review
+Letters, 89, 208701. (2003a), "Mixing Patterns in Networks," Physical Review E, 67,
+026126. (2003b), "The Structure and Function of Complex Networks,"
+SIAM Review, 45, 167-256. Park, D. K., Gelman, A., and Bafumi, J. (2004), "Bayesian Multilevel Esti-
+mation With Poststratification: State-Level Estimates From National Polls," Political Analysis, 12, 375-385. Pettigrew, T. F. (1998), "Intergroup Contact Theory," Annual Review of Psychology, 49, 65-85. Pool, I. D. S., and Kochen, M. (1978), "Contacts and Influence," Social Net-
+works, 1, 5-51. Raudenbush, S. W., and Bryk, A. S. (2002), Hierarchical Linear Models
+(2nd ed.), Thousand Oaks, CA: Sage. Salganik, M. J., and Heckathorn, D. D. (2004), "Sampling and Estimation
+in Hidden Populations Using Respondent-Driven Sampling," Sociological Methodology, 34, 193-239. Snijders, T. A. B., and Bosker, R. J. (1999), Multilevel Analysis, London: Sage. Strogatz, S. H. (2001), "Exploring Complex Networks," Nature, 410, 268-276.
+Tukey, J. W. (1972), "Some Graphic and Semigraphic Displays," in Statistical Papers in Honor of George W. Snedecor, ed. T. A. Bancroft, Ames, IA: Iowa State University Press, pp. 293-316.
+van Der Gaag, M., and Snijders, T. A. B. (2005), "The Resource Generator: Social Capital Quantification With Concrete Items," Social Networks, 27, 1-29.
+van Dyk, D. A., and Meng, X. L. (2001), "The Art of Data Augmentation" (with discussion), Journal of Computational and Graphical Statistics, 10, 1-111.
+Wasserman, S., and Faust, K. (1994), Social Network Analysis: Methods and
+Applications, Cambridge, U.K.: Cambridge University Press. Watts, D. J. (2002), "A Simple Model of Global Cascades on Random
+Networks," Proceedings of the National Academy of Sciences USA, 99, 5766-5771.
+(2004), "The `New' Science of Networks," Annual Review of Sociology, 30, 243-270. Watts, D. J., Dodds, P. S., and Newman, M. E. J. (2002), "Identity and Search
+in Social Networks," Science, 296, 1302-1035.
+
+

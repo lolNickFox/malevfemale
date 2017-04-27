@@ -1,0 +1,444 @@
+Epidemiologic Reviews
+Copyright  2007 by the Johns Hopkins Bloomberg School of Public Health
+All rights reserved; printed in U.S.A.
+
+Vol. 29, 2007 DOI: 10.1093/epirev/mxm011 Advance Access publication June 24, 2007
+
+The Real Contribution of Added Sugars and Fats to Obesity
+
+Downloaded from http://epirev.oxfordjournals.org/ by guest on March 6, 2016
+
+Adam Drewnowski
+From the Center for Public Health Nutrition and the Nutritional Sciences Program, School of Public Health and Community Medicine, University of Washington, Seattle, WA.
+Accepted for publication May 9, 2007.
+Obesity rates in the United States are a function of socioeconomic status. Higher rates are found among groups with lower educational and income levels, among racial and ethnic minorities, and in high-poverty areas. Yet, the relation between obesity, nutrition, and diet continues to be viewed in biologic terms, with the search for likely causes focused on consumption of specific macronutrients, foods, or food groups. Epidemiologic evidence linking diet composition and body weight has mostly relied on ecologic comparisons, time trends, and analyses of crosssectional studies. Plausible physiologic mechanisms have included the metabolic effects of dietary components, mostly sugars and fats, on regulation of food intake and deposition of body fat. However, the evidence could not have been convincing since the blame for rising obesity rates seems to shift regularly, every 10 years or so, from fats to sugars and then back again. This review demonstrates that much of past epidemiologic research is consistent with a single parsimonious explanation: obesity has been linked repeatedly to consumption of low-cost foods. Refined grains, added sugars, and added fats are inexpensive, good tasting, and convenient. The fact that energy-dense foods (megajoules/kilogram) cost less per megajoule than do nutrient-dense foods means that energy-dense diets are not only cheaper but may be preferentially selected by the lower-income consumer. In other words, the low cost of dietary energy (dollars/megajoule), rather than specific food, beverage, or macronutrient choices, may be the main predictor of population weight gain. Examining past studies of the contribution of added sugars and fats to obesity rates through the prism of food prices and diet costs is the purpose of this review.
+beverages; diet; economics; energy intake; fats; obesity; poverty; sweetening agents
+Abbreviations: BMI, body mass index; USDA, US Department of Agriculture.
+
+INTRODUCTION
+The obesity epidemic in the United States follows a sharp socioeconomic gradient (1). Most affected are population subgroups with lower educational and income levels (2-4). The impact of low socioeconomic status on obesity rates is most apparent for White women; associations of obesity with race, ethnicity, and socioeconomic status are more complex (4). Analyses of obesity rates by geographic location indicate that the rates are higher in lower-income states and low-income counties compared with more affluent areas (5). Absence of wealth, minority status, and living in impoverished neighborhoods appear to be the major predictors of both obesity (1-5) and type 2 diabetes (6). Prevalence rates for obesity and diabetes, based on national survey data for US adults by age, race, and education, are
+
+shown in figure 1. These disparities by race and social class persist as obesity rates continue to increase nationwide (2).
+High obesity rates have also been linked, many times, to global dietary trends (7, 8) and to the current food environment (9, 10). For the most part, studies on obesity, nutrition, and diet have drawn evidence from ecologic comparisons, time trends, and cross-sectional surveys on diets and health. Several studies, most of them based on US data sets, have pointed to statistical links between obesity and the consumption of fats (11), sugars (12, 13), fast foods (14), snacks (15, 16), and caloric beverages (17, 18); larger food portions (19); and eating away from home (20). Fewer studies have focused on the low cost of energy-dense foods (21, 22) and on the links between household economic resources, diet quality, and diet cost (23, 24).
+
+Correspondence to Dr. Adam Drewnowski, 305 Raitt Hall, Box 353410, University of Washington, Seattle, WA 98195 (e-mail: adamdrew@ u.washington.edu).
+
+160 Epidemiol Rev 2007;29:160-171
+
+Obesity, Sugar, and Fat 161
+
+Downloaded from http://epirev.oxfordjournals.org/ by guest on March 6, 2016
+
+Prevalence (%)
+
+30 Obesity Diabetes
+25
+
+20
+
+15
+
+10
+
+5
+
+0 18-29
+
+30-39
+
+40-49 50-59 Age (years)
+
+60-69
+
+70
+
+Prevalence (%)
+
+35 30 25 20 15 10
+5 0
+White Black His Other Race
+
+<12 12 >12 >16 Education (years)
+
+FIGURE 1. Prevalence of obesity and diabetes in the United States by age (top) and by race and education (bottom). Based on data from Mokdad et al. (2). His, Hispanic.
+
+One requirement for establishing causality in epidemiologic studies is a plausible physiologic mechanism, which has led researchers to emphasize the impact of macronutrients on human metabolism and regulation of body weight. Dietary fat (11), starch (25), corn sweeteners (12, 13), and even protein (26) have all been linked, at different times and through a variety of metabolic mechanisms, to adiposity and weight gain. The impact of liquid beverages versus solid foods on short-term satiety was also explored, though sometimes with inconsistent results (27). Whereas some studies claimed that humans failed to compensate for dietary energy in caloric beverages (28), others reported that humans were ill adapted to energy-dense solid foods (29). Caloric highfructose corn syrup (12) and noncaloric sweeteners (30) were each said to promote weight gain through some combination of physiology and behavior. Dietary practices were also scrutinized. Meals at fast-food and full-service restaurants were identified as one potential cause of obesity (14, 20), but so were between-meal snacks (16) and large portions of foods consumed in restaurants or at home (31).
+One forgotten concept is that obesity rates in the United States are tied, perhaps inextricably, to social class (1, 32). Diet quality also follows a socioeconomic gradient (1). Existing measures of diet quality are invariably tied to age, educational, and income levels (1) and are likely to be associated with higher food expenditures (24).
+The intrusion of class structure into epidemiologic studies on diets and health has multiple consequences. Different
+Epidemiol Rev 2007;29:160-171
+
+levels of dietary exposure for foods or nutrients may be associated with differences in wealth, social capital, and social context. In other words, people with one type of dietary pattern may differ in several unobserved ways from people with another type of dietary pattern. People who consume healthier diets may well be thinner (33), but they are also more affluent and may have more opportunities to purchase healthier foods or engage in physical activity (1). Such sociodemographic factors are either missing from epidemiologic studies altogether or, even when available, are treated as covariates rather than as important variables in their own right (34).
+Interestingly, a single group of researchers has, in succession, identified dietary fats (11, 35), sugars and corn sweeteners (12, 36), soft drinks (11, 37), fast foods (38), snacks (16), and larger portion sizes (19) as potential culprits in the obesity epidemic. Their conclusions were mostly based on analyses of time trends, ecologic comparisons, and crosssectional epidemiologic data. In each case, the researchers suggested that obesity was very likely caused by the particular dietary factor under study, which was duly identified as a cause for concern. To signify enthusiasm, titles of articles sometimes carried exclamation points for added emphasis (11, 16).
+Given that epidemiologic research does in fact serve as the evidence base for modifying health policy (39, 40), there is a need for a critical review of the likely contribution of added sugars and added fats to rising obesity rates. However, whereas past research on obesity and diet composition has emphasized physiology and metabolism, the present focus is on the economics of food choice behavior (41, 42). Refined grains, added sugars, and added fats may contribute to obesity not because of any inherent metabolic effects but because they are readily available, highly palatable--and inexpensive (1, 22, 43). What different obesogenic diets may have in common is not their nutrient composition but their low energy cost (1, 22, 43). The inclusion of the cost variable would help explain why obesity is concentrated among the lower socioeconomic groups (1). Examining past literature on dietary factors in obesity through the prism of food prices and diet costs is the chief purpose of this review.
+DIETARY TRENDS
+Food supply trends in the United States
+The US Department of Agriculture (USDA) has described food supply trends as more refined grains, more added sugars, and more added fats (44). Based on food disappearance data, these trends reflect the availability of commodities per capita, as opposed to actual measures of consumption, and have not been adjusted for waste (44, 45).
+Per capita availability of flour and cereal products in year 2000 was estimated at 200 pounds (91 kg), a 48 percent increase from 1970-1974 (44). Most cereals were refined grains as opposed to the more costly whole grains (44, 45). The availability of added fats and oils reached an all-time high of 77 pounds (35 kg) per capita in 2000, a 38 percent increase from 1970-1974 levels (44). The availability of caloric sweeteners rose from 124 pounds to 149 pounds (56 kg to 68 kg), a 20 percent increase (44). Whereas
+
+162 Drewnowski
+
+Downloaded from http://epirev.oxfordjournals.org/ by guest on March 6, 2016
+
+consumption of cane and beet sugar declined by 35 percent, that of corn sweeteners, including high-fructose corn syrup, rose by 277 percent.
+In contrast, by year 2000, the availability of fruit and fruit juices was only 1.4 servings per person per day. Half of this amount was accounted for by low-cost oranges, apples, and bananas, whereas consumption of melons, berries, fresh grapes, and other fruit was low. The food supply also provided 429 pounds (195 kg) of vegetables, equivalent to 3.8 daily servings. Half of this amount was supplied by lowcost frozen potatoes (mainly French fries), fresh potatoes, potato chips, canned tomatoes, and iceberg lettuce (44). The more expensive dark-green leafy vegetables and deep yellow vegetables accounted for only 0.4 servings per person per day (44, 46). Adding to the growing disparities in food costs, the retail prices of fruit and vegetables more than doubled between 1985 and 2000, whereas the price of added sugars and fats remained the same (44, 45).
+Diet choices of lower-income groups
+One question is whether lower-cost diets are preferentially selected by the lower-income consumer. Analyses of diets by poverty status (47, 48) showed little difference in energy intakes or in the total fat or carbohydrate content of the diet. There appeared to be no major differences by income group in consumption of major food groups, meat, dairy, or grains. However, finer-scale analyses demonstrated that food prices did affect household food choices. In 1992, US households in the top quintile by income, compared with lower-income households, bought higher-quality meats, more seafood, and more fruits and vegetables (49, 50). Lower-income households purchased lower-quality meats and less expensive fruits and vegetables. Bananas were selected in preference to more expensive berries and other fresh fruit (51). Higher-income households purchased more lettuce and lettuce-based salads, melons, and berries (48). In the 1994-1996 Continuing Survey of Food Intake of Individuals, consumers who ate more fruit and vegetables tended to be older, better educated, and more affluent (46).
+The more affluent consumers not only purchased higherquality diets but also were less likely to be either overweight or obese. Typically, lower obesity rates in such crosssectional studies were ascribed to consumption of extra vegetables and fruit rather than to better economic resources or to greater wealth. For example, in one study, higher fruit consumption was linked with lower body mass index (BMI; weight (kg)/height (m)2) values (52). Regression analyses controlled for the effects of age, gender, and race/ethnicity but did not control for any relevant economic variables, education, or income (52). Diet costs were not considered.
+Interestingly, consumption of white potatoes was positively correlated with BMI for adult women and men. The authors speculated that the preparation of vegetables was the reason (52). An alternative explanation is that potatoes were cheaper than fresh fruit and were preferentially selected by the overweight, low-income consumer.
+Low-income households saved money by purchasing more discounted foods, choosing generic products over brand names, taking advantage of volume discounts, or settling
+
+for less expensive products within a product class (51, 53). Despite buying lower-cost items, and higher-energy-density diets, lower-income households devoted a much higher percentage of their disposable income to food (44, 45). Whereas food costs may not be perceived as a barrier to dietary change by more affluent respondents, the proportion of persons who view costs as a barrier rises sharply as incomes drop (54).
+Mean daily spending on foods and beverages has been estimated at approximately $8 per person per day (45). Assuming a daily ration of 2,500 kcal (10.4 MJ), each food dollar needs to yield approximately 300 kcal (1.3 MJ) of dietary energy, on the average. Processed food products high in refined grains, added sugars, and added fats easily provide 300-500 kcal/$ at retail, whereas fresh fruits and vegetables do not. Recent analyses of the national Continuing Survey of Food Intake of Individuals data set showed that groups of lower socioeconomic status consumed higher-energydensity diets (55), which were presumably associated with lower diet costs.
+One interpretation of US dietary trends is that more consumers are purchasing more lower-cost foods. As a result, the proportion in the diet of refined grains, added sugars, and added fats continues to rise (1, 47). For example, analyses of nationally representative dietary intake data between 1977 and 1996 showed increases in portion sizes for specific foods (19). Substantial increases were observed for grains (salty snacks, desserts), sugars (soft drinks), and fats (burgers and French fries) both inside and outside the home. The largest portions were consumed at fast-food restaurants. The report concluded that education was the answer and that the public needed to be better educated about controlling portion size (19). An alternative explanation is that more Americans were simply consuming larger amounts of lower-cost foods at low-cost venues.
+It is not clear whether those trends are susceptible to meaningful motivational, social marketing, or even economic interventions. A recent USDA study showed that low-income households spent about $1.43 less per person per week on fruit and vegetables compared with higher-income households (56). Whereas higher-income households did increase fruit and vegetable consumption following an increase in income, lower-income households did not. One interpretation is that fruit and vegetables were not a priority and that low-income households chose to spend limited resources on more essential items such as meat, clothing, or rent (56).
+In summary, a number of cross-sectional studies, some conducted at the national level, have shown statistical associations between consumption of specific foods or food groups and body weight. However, eating habits are not randomly distributed in the population but follow a socioeconomic gradient. It may be that the observed association between eating patterns and obesity rates will be attenuated by appropriate measures of socioeconomic status (57).
+FAT OR SUGAR?
+Is dietary fat a major determinant of body fat?
+For a period of time, at the height of the fat phobia in the 1990s, the percentage of energy from dietary fat was thought
+Epidemiol Rev 2007;29:160-171
+
+Obesity, Sugar, and Fat 163
+
+Downloaded from http://epirev.oxfordjournals.org/ by guest on March 6, 2016
+
+to be a major predictor of body fat. Three types of evidence were advanced to support the hypothesis.
+First, between-population (ecologic) studies showed an association between estimated percentage of fat in the national diet and rates of obesity (BMI >30) or overweight (BMI >25) (11). In general, wealthier nations consumed more animal products, added sugars, and fats than did nations in early stages of economic development, and they also had higher rates of obesity, cancer, and cardiovascular disease (58). Ecologic comparisons of fat consumption in European countries showed a significant correlation between percentage of fat energy and national BMI values, but only for women and not for men (59).
+Second, dietary trends, again at the national level, showed a temporal parallel between increasing fat consumption and population weight gain. Studies in China, cited by Bray and Popkin (11), showed a parallel between economic development, increasing fat consumption, and rising rates of overweight. The change in dietary patterns associated with nutrition transition was thus directly linked to obesity and weight gain.
+Third, increasing dietary fat consumption in animal studies was said to accelerate the development of obesity, whereas the adoption of low-fat diets in human clinical studies led to weight loss (11). Among physiologic mechanisms invoked to explain why fat consumption should lead to greater body fat were high energy density and palatability of dietary fat (60, 61), its greater metabolic efficiency, weak satiating power, and weaker physiologic regulation of fat intake relative to carbohydrate intake (62, 63).
+Each of those points was countered at the time by opposing arguments. First, between-population ecologic studies typically contrasted vastly different nations, from very rich to very poor. As noted by Willet (64, 65), such correlations are confounded by economic variables, food availability, and physical activity levels and can be completely misleading. The dietary fat variable, typically shown on the x-axis, could have been replaced by gross national product, number of cars, or any other index of economic development. Furthermore, the relation between obesity and socioeconomic status within nations depends not only on gender but also on level of economic development (32). In poor nations, it is the more affluent persons who are likely to be obese; the situation reverses in rich nations (66). In both cases, socioeconomic status has a more marked impact on the body weight of women than of men (66). The median BMI for a specific country may reflect no more than the age or the demographics of a particular population sample. It is unlikely that some of the data cited in earlier studies (11) were based on truly nationally representative samples of adults in such places as the Congo; more likely they were drawn from small and potentially biased samples of convenience.
+Second, time trends are not in themselves sufficient to establish causality. Not only that, but a reexamination by Willett (64) of longitudinal analysis of dietary fat intake and weight gain in China showed that the association was in fact trivial. An increase of 10 percent of energy from fat would increase body mass indices 0.1 unit in adolescents and 0.03 unit in adults. The high observed prevalence of overweight in South Africa (>55 percent), despite low fat
+Epidemiol Rev 2007;29:160-171
+
+intakes (<22 percent energy), supported Willett's argument (64) that other dietary factors were also involved.
+Third, clinical studies on the impact of low-fat diets on weight loss cited provided fodder for a lively controversy. Some researchers argued that low-fat diets were more effective than isoenergetic diets of different macronutrient composition (11). As long as the diets were low in fat, one argument went, calories made little difference. A critical examination of the impact of dietary fat on weight change in animals and humans is outside the scope of the present review. However, the then-popular argument that low-fat diets promoted weight loss, independent of energy intake, seems quaint now given the current emphasis on calories, not macronutrients, and the reported success of the high-fat Atkins diet (67, 68).
+This particular controversy surrounding dietary fat peaked around 1997-1998, leading to a number of articles, rebuttals, editorials, and letters to the editor (11, 35, 64, 65, 69). The position taken by Willett (65, 69) was that the relation between dietary fat and obesity was unconvincing. The position taken by Bray and Popkin (11) was that dietary fat did, too, affect obesity, exclamation mark. Seidell (70) made the sensible observation that inferences about causality could not be made based on data from cross-sectional studies. Pointing to potential biases in the reporting of energy intake, dietary fat intake, physical activity, and height and weight, Seidell concluded that existing studies were unable to infer a causal relation between fat consumption and obesity and that prospective studies might be necessary. At that point there was no evidence that, under isoenergetic conditions, dietary fat intake promoted obesity more than any other macronutrient did (65, 69, 70).
+One set of time trends deserves special mention. The argument that fat consumption played no role in obesity was based on the observation that obesity rates in the United States increased at the same time that fat consumption dropped (65, 71). One suggestion was that overemphasis on eating low-fat foods may have actually contributed to overweight among US adults (71). On the basis of this and other evidence, Willett (65) concluded that diets high in fat were not a primary cause of obesity and that reducing dietary fat was not a viable solution. Bray and Popkin (11, 35) argued that the apparent decline in the proportion of energy from fat was not only small (3-5 percent) but also very likely caused by underreporting.
+However, underreporting was probably not the main issue. A closer examination of USDA data showed that only the percentage of fat in the diet decreased, whereas the absolute amount of fat expressed in terms of grams per capita per day was higher than ever. Extra calories in the diet were provided by carbohydrate, notably sugar. A few years later, media and public attention turned away from fat (72) and back toward sugar.
+Is sugar a major determinant of body fat?
+At the present time, much like in the 1980s (73), dietary sweeteners are again thought to be the major determinant of body fat (12, 13). Three types of evidence have been advanced to support the new hypothesis: ecologic comparisons,
+
+164 Drewnowski
+
+Downloaded from http://epirev.oxfordjournals.org/ by guest on March 6, 2016
+
+time trends, and cross-sectional studies, each supported by plausible metabolic mechanisms. Interestingly, the arguments now advanced for sugar were much the same as those proposed some 10 years previously, and by some of the same researchers (11, 35), for dietary fat.
+First, between-country comparisons of intake of caloric sweeteners pointed to a major increase in sugars consumption between 1962 and 2000 (36). Those analyses were based on food disappearance data by country, maintained by the Food and Agriculture Organization of the United Nations. The increases were proportionately much higher for poor countries in the bottom quintile of gross national product (90-155 kcal/day) than for rich countries in the top quintile of gross national product (402-418 kcal/day). Urbanization in the developing world was highly correlated with rising sugar consumption. However, between-country comparisons are confounded by myriad economic variables, as had been noted previously by Willett (64, 65) in the context of dietary fat.
+A similar ecologic comparison, based on annual consumption data in the United States over time, stressed temporal parallels between the growing consumption of refined carbohydrates and the epidemic of type 2 diabetes (13). Per capita nutrient consumption between 1909 and 1997 was compared with the available data for the same-year prevalence of diabetes by using multivariate analyses and controlling for energy intakes. Corn syrup was associated with type 2 diabetes, whereas protein and fat were not. The obligatory mention of plausible physiologic mechanisms now focused on the glycemic index, fructose metabolism, dyslipidemia, and the metabolic syndrome (13).
+Another examination of time trends, based on the USDA food disappearance statistics, drew further parallels between the growing consumption of high-fructose corn syrup and rising obesity rates (12), both at the national level. The authors wrote that the increased use of high-fructose corn syrup mirrored the rapid increase in obesity in the United States, noting that the digestion, absorption, and metabolism of fructose differed from that of glucose (12). This time, the plausible physiologic mechanisms invoked satiety deficits following consumption of caloric beverages and the role of leptin and insulin resistance in the regulation of food intake (12).
+Some studies narrowed the search for culprit foods from all sweeteners to sugars contained in caloric beverages (17). Examination of consumption time trends within the United States showed a mean increase of 83 kcal/day in sweetener consumption for all persons older than 2 years of age (17). Of this amount, 67 kcal/day was derived from caloric beverages and only 14 kcal from candy and desserts. Without arguing for causality, the researchers noted that excessive added sugar intake may contribute to higher obesity rates (17). A similar argument, also based on time trends, had been made previously for dietary fat.
+Analyses of cross-sectional data by other research groups further explored the association between sugars consumption, mostly in the form of caloric beverages, and body weight in children, adolescents, and adults. The six or so studies were described and dissected in almost as many reviews (74-77) and will not be summarized here. Though
+
+largely based on analyses of cross-sectional data, many studies and reviews made repeated references to weight gain (75, 77). As had been pointed out before in the context of dietary fat, the dynamics of weight change cannot be inferred from data collected at a single point in time.
+Physiologic mechanisms focused on glycemic index and fructose metabolism (78, 79). Studies were cited to show that fructose consumption in animal studies accelerated the development of obesity, whereas the removal of highfructose corn syrup from soft drinks in studies with humans led to weight loss. Physiologic mechanisms invoked to explain why sugar (or high-fructose corn syrup) consumption should lead to greater body fat included high energy density and palatability of dietary sugars and weaker satiating properties of beverage calories relative to solid foods (80). In other words, many of the arguments made in support of a link between obesity and sugar consumption had been made before, sometimes by the same researchers, to establish a link between obesity and dietary fat.
+Demographics of sweetener consumption
+Although sugars consumption and obesity rates at the national level have both increased with time, temporal parallels do not mean that the highest sugars consumers are also the most overweight or obese. A recent USDA report on distribution of sweetener consumption by demographic characteristics provided a much-needed breakdown of sweeteners consumption in the United States by age, race/ ethnicity, and social class (81).
+On the national level, added sugars consumption increased by 23 percent between 1985 and 1999. The growth was only a modest 5.3 percent for refined sugar (sucrose) and much higher (27.7 percent) for high-fructose corn syrup. The authors then combined two USDA databases to examine sweetener consumption patterns by demographic characteristics of survey respondents (81). Analyses showed that sweetener consumption was 25 percent higher among men than women and that it dropped dramatically after the age of 24 years (81). Sweetener consumption was the same for Whites and for Blacks and was much higher than for Hispanics. Sweetener consumption was highest in suburban areas but was only slightly lower in rural areas, and it was higher in the Midwest than in the South. The distribution of sweetener consumption by incomes, expressed as percent poverty, showed that consumption of sugars, sweets, and beverages rose with increasing incomes and then fell. Consumption of sugar and corn sweeteners in milk and grain products rose with incomes (81). These data are summarized in figure 2.
+It can be seen that the demographic distribution of sweetener consumption in the United States does not correspond to the demographic distribution of obesity. Obesity rates are higher for women than for men, and--as shown in figure 1--tend to increase with age, peaking for the age group 50-59 years. Obesity rates are much higher in the South and the Southeast than in the Midwest. Figure 1 also shows that obesity rates are higher among Blacks and Hispanics than among Whites, and they plunge dramatically with increased education and income, whereas consumption
+Epidemiol Rev 2007;29:160-171
+
+Obesity, Sugar, and Fat 165
+
+Downloaded from http://epirev.oxfordjournals.org/ by guest on March 6, 2016
+
+Pounds per capita
+
+100 Corn sweeteners Sugar
+80
+
+60
+
+40
+
+20
+
+0 2-11 12- 20- 40- 60
+19 39 59
+
+2-11 12- 20- 40- 60 19 39 59
+
+Age (years)
+
+Pounds per capita
+
+70 60 50 40 30 20 10
+0 White Black His Other
+Race
+
+130 131- >350 350
+Percent poverty
+
+FIGURE 2. Sugars consumption in the United States by demographic characteristics (1 pound 5 0.45 kg). Based on data from Haley et al. (81). His, Hispanic.
+
+of sugars apparently does not. Clearly, ecologic comparisons at the national level do not translate well to population subgroups.
+Ecologic comparisons have limited validity but can be useful for hypothesis testing. The USDA data are cited here because many published studies have made use of national statistics without exploring disparities in diet quality or obesity rates among population subgroups (12, 13). It would appear that the population subgroups at greatest risk of obesity are not necessarily those that consume the most sugar. Individual-level data on added sugars consumption by social class are not available at this time.
+It has long been known that the highest consumers of sugar in all its forms are younger males, who are both thinner and more active than older persons, whose sugar consumption is low (82). Attempts to exonerate sugar, published during the period of fat phobia, pointed to studies showing that sugar consumption, as well as carbohydrate consumption, was associated with leanness rather than obesity (83-85). Some researchers even suggested that high sugar intakes, inversely associated with fat intakes, might protect consumers against obesity (84). However, that was another unwarranted causal inference based on crosssectional data, very likely confounded by age and activity levels. Unfortunately, increasing sugar consumption was unlikely to make anyone thinner, younger--or male.
+Epidemiol Rev 2007;29:160-171
+
+Are other foods or beverages to blame?
+A number of studies have explored the contribution of fast foods, caloric beverages, and snacks to the obesity epidemic (15, 16, 38, 86). Three types of evidence were advanced to support those hypotheses: ecologic comparisons, time trends, and analyses of cross-sectional data. Although the researchers were by now careful not to claim causality, inferences were drawn to support interventions and other policy measures.
+What most of the studies missed was the link between dietary patterns and affluence--and its implications. One study of water consumption, based on 2001 National Health and Nutrition Examination Survey data (86), showed that high-water consumers were better-educated older adults who were also more likely to have healthier dietary patterns. That group consumed more vegetables, fruit, and 100 percent fruit juices and more low-fat dairy products. That group was also less likely to consume fast foods, snacks, and caloric soft drinks (86). In other words, education, a proxy measure of socioeconomic status, was yet again associated with healthier eating habits and lower obesity risk.
+Finding that water consumption was also associated with healthier eating patterns, the researchers suggested that younger and less-educated adults should be encouraged to drink more water to prevent obesity (84). Again, the policy suggestion was based on cross-sectional data confounded by social class. The study did not discuss the underlying differences in socioeconomic status between the two groups, the likely root cause of disparities in both diets and health. The notion that low-income youth should consume more water (as opposed to say, improve their economic situation) to escape obesity seems particularly callous.
+Another study (38), based on cross-sectional analyses of data from the Coronary Artery Risk Development in Young Adults Study, showed that fast food but not restaurant food was positively associated with BMI. On the basis of year 7 data, each additional fast-food meal per week was associated with an increase of 0.13 in BMI, or 0.42 kg (38). In other words, an additional estimated 52,000 kcal/year or so was associated with a trivial weight difference of 420 g, suggesting that dietary data may have been unreliable. The researchers concluded that greater fast food consumption was associated with higher BMIs and called for policy makers to focus on potentially important differences between fast-food and restaurant food consumption (35). The researchers did not mention the difference in food prices per megajoule at fast-food outlets compared with full-service restaurants. As people who frequent fast-food restaurants well know, the most significant difference between fast-food outlets and full-service restaurants is the price of the meal.
+A study of time trends in beverage consumption (17) by the same team examined data for children and adults in three cross-sectional national studies conducted between 1977 and 2001. Overall, intake of sweetened beverages increased by 135 percent, whereas consumption of fluid milk was reduced by 38 percent. The resulting increase in net dietary energy, undifferentiated by social class, was promptly linked to the obesity epidemic. The fact that soft drinks were
+
+166 Drewnowski
+
+Downloaded from http://epirev.oxfordjournals.org/ by guest on March 6, 2016
+
+sweetened with high-fructose corn syrup as opposed to sucrose was identified as an additional cause for concern (17). In another instance of basing public policy on time trend data, reducing consumption of soft drinks was described as one of the simpler ways to reduce obesity in the United States.
+In summary, data from the various studies on obesity and diet composition are consistent with a simple economic hypothesis. In most such studies, stronger associations with obesity or ill health were obtained for soft drinks than for 100 percent juices (87), for refined grains as opposed to fiber-rich whole grains (88), for fast foods than for fullservice restaurants (37), and for ``Western'' eating patterns as opposed to more ``prudent'' ones (89). In other words, the foods, beverages, snacks, or diets said to promote obesity were, in every case, inexpensive. In contrast, the more costly dietary patterns were associated with leanness, weight maintenance, or greater weight loss (90). What epidemiologic research seems to have shown, fairly consistently, is that obesity is most closely associated with habitual consumption of low-cost foods.
+ECONOMICS OF FOOD CHOICE
+The low cost of energy-dense foods
+Developments in agriculture and food technology have made added sugars and vegetable oils accessible globally at a remarkably low cost. The commodity cost of refined sugar (sucrose) in global markets was recently about 9 cents a pound, while the cost of most vegetable oils was about 20 cents a pound (22). In other words, approximately 40,000 kcal from added sugars and fats could be obtained at world market rates for $2. Although there is little relation between commodity cost and retail cost of the finished food product, added sugars and fats may help to hold down diet costs (22). Although not all food purchases are price driven, the average American spends less than $8 per day on food and beverages, with low-income families spending as little as $25 per person per week (44, 45). However, the unspoken premise of many studies on diets and disease risk has been that healthy diets are largely a matter of awareness, motivation, and making the right choice.
+Epidemiologic studies conducted in the United States have taken little notice of diet costs. Most of the available evidence comes from studies conducted in the European Union. A series of studies (10, 21) estimated diet costs based on mean national retail price for each of the 895 foods in the nutrient database. Energy density (kcal/100 g) was calculated by using food composition tables. Mean cost per edible portion of food was calculated, after adjusting for preparation and waste.
+Figure 3 shows a scatter plot of the energy density of foods (megajoule per kilogram) and their energy cost (cents/10 MJ), separately for each food group. Energy cost is represented on a logarithmic scale. Fats and oils, sugar, refined grains, potatoes, and beans provided dietary energy at the lowest cost. At retail prices, the energy cost of sugar or oil was less than 10 eurocents per 1,000 kcal. In contrast, the cost per calorie of meats, fish and shellfish, dairy products,
+
+vegetables, and fruit was considerably higher. As figure 3 shows, added sugars and added fats and the recommended healthier foods were, in reality, separated by an immense gap in energy costs.
+Studies also examined the relation between energy density and dietary energy cost (21, 23). The Val-de-Marne dietary survey, conducted in 1988-1989, assessed dietary intakes in terms of frequencies of consumption (per week) and quantities consumed (portion sizes) in a manner similar to a food frequency questionnaire. Analyses were based on 837 adults (361 men and 476 women) and on 57 food items, after excluding drinking water, alcoholic beverages, and baby foods. Dietary energy density (megajoules per kilogram) was obtained by dividing energy intakes by the estimated edible weight of all foods and caloric beverages (10, 21, 23). Diet costs were estimated by attaching a price to each of the 57 food items. Mean national retail prices for year 2000 for each of the 57 items were provided by the French National Institute of Statistics. A column of prices in Euros (1E 5 1.17 US$ in June 2003) was added to the Valde-Marne food composition database. This procedure, which assumes that all foods were purchased and then prepared and consumed at home, is analogous in every way to procedures developed by the USDA to estimate the cost of healthful diets in the Thrifty Food Plan (91).
+The more energy-dense diets were associated with higher consumption of grains, fats, and sweets and with lower consumption of fruit and vegetables, after adjusting for energy. Figure 4 shows that for each quintile of energy intake, energy density of the diet and energy cost were inversely linked (21). In regression models, each 100-g increment in fats and sweets was associated with a net saving in diet costs, up to 0.40 E/day depending on energy intakes. In contrast, fruit and vegetable consumption was associated with an increase in diet costs of 0.18-0.29 E/day, again depending on energy intakes. In other words, diets composed of sweets and fats cost less, whereas diets high in vegetables and fruit cost more (10, 21, 23, 24).
+Do low-cost diets predict weight gain?
+Population groups with higher educational and income levels tend to have higher-quality diets. Those groups consume fewer fast foods and soft drinks and more fruit, vegetables, low-fat dairy products, and water (38, 51, 92). The more affluent population groups with higher educational and income levels are also less likely to be obese (2-4). Diet quality and obesity rates in the United States appear to be influenced by social class, a variable rarely explored in epidemiologic studies (93). Few studies on obesity and diets have calculated food prices and diet costs or taken a full range of socioeconomic variables into account.
+Nonetheless, one persistent research focus has been to identify the one food, beverage, or nutrient that has ``caused'' the observed rise in obesity rates. Current evidence showing that added fats, added sugars, refined carbohydrates, high-fructose corn syrup, fast foods, snacks, and caloric beverages are each associated with either obesity or weight gain can be interpreted by a single and parsimonious economic hypothesis. All these foods are inexpensive and
+Epidemiol Rev 2007;29:160-171
+
+Downloaded from http://epirev.oxfordjournals.org/ by guest on March 6, 2016
+
+Obesity, Sugar, and Fat 167
+
+1000 800
+
+Fats/oils Sugars Grains
+
+Energy density (kcal/100g)
+
+600
+
+400
+
+200
+
+0 0.1
+1000
+800
+
+1 10 100 Meat Fish Dairy
+
+Energy density (kcal/100g)
+
+600
+
+400
+
+200
+
+0 0.1
+1000
+800
+
+1 10 100 Fruit/nuts Vegetables
+
+Energy density (kcal/100g)
+
+600
+
+400
+
+200
+
+0 0.1 1 10 100 Energy cost (Euros/1000kcal)
+FIGURE 3. Relation between energy density (kcal/100 g) and energy cost (Euros/100 kcal). Reprinted with permission from Am J Clin Nutr (2005;82(suppl):265S-273S), American Society for Nutrition.
+
+are likely to be selectively purchased by the lower-income consumer. In contrast, foods with supposed protective power, such as lean meats, fish, vegetables, and fruit, are not only more expensive but also likely to be selected by the
+Epidemiol Rev 2007;29:160-171
+
+more affluent groups. As a result, it has been difficult to assign the blame for the obesity epidemic to a single food, beverage, or nutrient, independent of socioeconomic status of the consumer.
+
+168 Drewnowski
+
+Diet cost (Euros/d)
+
+11 10
+9 8 7 6 5 4 3 2 1 0
+0
+
+E E
+
+I I
+
+5 4
+
+EI3
+
+EI2
+
+EI1
+
+2
+
+46 Energy density (KJ/g)
+
+8
+
+10
+
+FIGURE 4. Inverse relation between energy density and daily diet cost (Euros/day (d)) at each quintile of energy intake (EI). Asterisk, EI quintile 5; square, EI quintile 4; open circle, EI quintile 3; solid circle, EI quintile 2; solid triangle, EI quintile 1. Reprinted with permission from J Nutr (2005;135:900-4), American Society for Nutrition.
+
+Downloaded from http://epirev.oxfordjournals.org/ by guest on March 6, 2016
+
+Defining social class can be problematic (57). Perhaps for those reasons, the dietary behaviors of obese persons continue to be viewed through the prism of physiology and medicine. Cravings for energy-dense fats and sweets have
+
+been explained by neurotransmitter imbalance (94, 95). Excess consumption of energy-dense foods, added sugars, and added fats has been explained in terms of satiety deficits and passive overeating (94, 95). Consumption of sweets and
+
+TABLE 1. The many prices of sugar*,y,z
+
+Beverage
+Tampico Tropical Punch1 Safeway Select Cola2 Reduced-fat Chocolate Milk3 A&W Root Beer4 Coca Cola Classic5 Sunny D Tangy Original (5% juice)6 Hi-C Blast Fruit Pow (10% juice)5 Safeway White Grape Juice (100% juice)2 Welch's Grape Juice (100% juice)7 Ocean Spray Cranberry Juice Cocktail (27% juice)8 Minute Maid Orange Juice (100% from concentrate)5 Tropicana Orange Juice (100% pure squeezed)9 V8 Fusion Fruit & Vegetable Juice10 Slim Fast Optima French Vanilla (low sugar)11 Slim Fast French Vanilla Classic (original formula)11 Odwalla Orange Juice (100% juice squeezed)5
+
+Sugar (g/100 g)
+10.8 12.1 12.3 12.9 11.3 11.3 12.7 15.8 16.7 13.8 10.0
+9.2 11.2
+4.8 10.8 10.0
+
+$/MJ
+0.25 0.32 0.38 0.40 0.44 0.44 0.66 0.77 0.82 0.89 0.94 1.08 1.49 1.59 1.59 2.92
+
+* Reprinted with permission from Am J Clin Nutr (2007;85:851-61), American Society for
+Nutrition.
+y Prices were obtained from the following website: www.safeway.com (accessed March 2006). z Manufacturers: 1 Heartland Farms, City of Industry, CA 91748; 2 Safeway Inc., Pleasanton, CA 94588; 3 Darigold Dairies, Seattle, WA 98119; 4 Dr. Pepper/SevenUp Inc., Plano, TX 75086; 5 Coca Cola Company, Atlanta, GA 30313; 6 Sunny Delight Beverages, Cincinnati, OH 45242; 7 Welch Foods Inc., Concord, MA 01742; 8 Ocean Spray Cranberries Inc., Lakeville-Middleboro, MA 02349; 9 PepsiCo Inc., Purchase, NY 10577; 10 Campbell's, Camden, NJ 08103; 11 Unilever,
+Vlaardingen, The Netherlands.
+
+Epidemiol Rev 2007;29:160-171
+
+Obesity, Sugar, and Fat 169
+
+Downloaded from http://epirev.oxfordjournals.org/ by guest on March 6, 2016
+
+desserts has been explained in terms of an addictive personality, stress, depression, and seeking comfort in high-fat foods. The failure to select healthy diets has been explained in terms of physical access to supermarkets and grocery stores, marketing and distribution of healthy foods, urban sprawl, and the time spent commuting to work (96).
+The importance of economic factors when it comes to sugars consumption is illustrated in table 1. Shown are the relative prices per kilocalorie for a number of sugarcontaining beverages, from generic cola to 100 percent fruit juices and meal replacement products. Although the prices per 100 kcal varied by an order of magnitude, the sweetener content per 100 g was much the same. The same caloric sweeteners, differently priced, have been associated in epidemiologic and in clinical studies with both weight gain and weight loss. Previous studies have associated the low-cost sugars with obesity and weight gain, whereas the higher-cost juices and meal replacement shakes have been associated with weight maintenance or weight loss (90, 97). The present point is that these beverages, containing added or natural sugars, may be selected by consumers at different levels of socioeconomic status. It would appear that the relevant obesogenic factor is not the sugar content of foods but its price.
+CONCLUSION
+Epidemiologic analyses have shown numerous associations between consumption of refined grains, added sugars, and fats and higher rates of obesity and diabetes in both the United States and elsewhere. As the present review demonstrates, such low-cost, energy-dense diets are indeed consumed by lower-income people, who are also more likely to be overweight. Diets of lower-socioeconomic status households provide cheap, concentrated energy from fat, sugar, cereals, potatoes, and fatty meats, but they offer little in the way of whole grains, fish, vegetables, and fruit (98, 99). Likewise, low-income consumers are more likely to be frequent users of fast-food as opposed to full-service restaurants and are more likely to live in areas with less physical access to healthier foods. In contrast, costly diets consumed by more-affluent people are likely to be associated with less obesity and better health outcomes (1).
+The search for obesity-causing foods or macronutrients needs to take food prices and diet costs into account. The present unifying hypothesis is that low cost of dietary energy (dollars per megajoule) (40) may be a more powerful predictor of weight gain than any one food or beverage. The real contribution of added sugars and fats to obesity may be through reduced energy costs (100, 101). Future studies should examine the relative costs of healthy and unhealthy diets in relation to the purchasing power of the obese consumer. There is convincing evidence that obesity in the United States is an economic issue.
+ACKNOWLEDGMENTS
+Supported by NIH grant 1P20 RR020774-01 for the Exploratory Center for Obesity Research (ECOR) and by
+Epidemiol Rev 2007;29:160-171
+
+US Department of Agriculture Cooperative State Research Education and Extension Service National Research Initiative grant 2004-35215-144441.
+The author has received past and current research funding from US and international food companies and trade associations. He is not a member of a scientific advisory board for any food or beverage company, and the food industry had no involvement in this review.
+REFERENCES
+1. Drewnowski A, Specter SE. Poverty and obesity: the role of energy density and energy costs. Am J Clin Nutr 2004;79: 6-16.
+2. Mokdad AH, Ford ES, Bowman BA, et al. Prevalence of obesity, diabetes, and obesity-related health risk factors, 2001. JAMA 2003;289:76-9.
+3. Schoenborn CA, Adams PF, Barnes PM. Body weight status of adults: United States, 1997-98. Advance data from vital and health statistics 2002, no. 330. Hyattsville, MD: National Center for Health Statistics.
+4. Wang Y, Beydoun MA. The obesity epidemic in the United States--gender, age, socioeconomic, racial/ethnic, and geographic characteristics: a systematic review and metaregression analysis. Epidemiol Rev 2007;29:6-28.
+5. Booth KM, Pinkston MM, Poston WSC. Obesity and the built environment. J Am Diet Assoc 2005;105(5 suppl 1):S110-17.
+6. Evans JM, Newton RW, Ruta DA, et al. Socio-economic status, obesity and prevalence of type 1 and type 2 diabetes mellitus. Diabet Med 2000;17:478-80.
+7. World Health Organization and Food and Agriculture Organization. Report of the joint WHO/FAO expert consultation on diet, nutrition and the prevention of chronic diseases. Geneva, Switzerland: World Health Organization, 2002. (WHO technical report series 916).
+8. Swinburn BA, Caterson I, Seidell JC, et al. Diet, nutrition and the prevention of excess weight gain and obesity. Public Health Nutr 2004;7:123-46.
+9. French SA, Story M, Jeffery RW. Environmental influences on eating and physical activity. Annu Rev Public Health 2001;22:309-35.
+10. Drewnowski A, Darmon N. The economics of obesity: dietary energy density and energy cost. Am J Clin Nutr 2005; 82(suppl):265S-73S.
+11. Bray GA, Popkin BM. Dietary fat intake does affect obesity! Am J Clin Nutr 1998;68:1157-73.
+12. Bray GA, Nielsen SJ, Popkin BM. Consumption of highfructose corn syrup in beverages may play a role in the epidemic of obesity. Am J Clin Nutr 2004;79:537-43.
+13. Gross LS, Ford ES, Liu S. Increased consumption of refined carbohydrates and the epidemic of type 2 diabetes in the United States: an ecologic assessment. Am J Clin Nutr 2004; 79:774-9.
+14. Bowman SA, Gortmaker SL, Ebbeling CB, et al. Effects of fast-food consumption on energy intake and diet quality among children in a national household survey. Pediatrics 2004;113:112-18.
+15. Adair LS, Popkin BM. Are child eating patterns being transformed globally? Obes Res 2005;13:1281-99.
+16. Zizza C, Siega-Riz AM, Popkin BM. Significant increase in young adults' snacking between 1977-1978 and 1994- 1996 represents a cause for concern! Prev Med 2001;32: 303-10.
+
+170 Drewnowski
+17. Nielsen SJ, Popkin BM. Changes in beverage intake between 1977 and 2001. Am J Prev Med 2004;27:205-10.
+18. Berkey CS, Rockett HR, Field AE, et al. Sugar-added beverages and adolescent weight change. Obes Res 2004;12: 778-88.
+19. Nielsen SJ, Popkin BM. Patterns and trends in food portion sizes, 1977-1998. JAMA 2003;289:450-3.
+20. McCrory MA, Fuss PJ, Hays NP, et al. Overeating in America: association between restaurant food consumption and body fatness in healthy adult men and women ages 19 to 80. Obes Res 1999;7:564-71.
+21. Darmon N, Briend A, Drewnowski A. Energy-dense diets are associated with lower diet costs: a community study of French adults. Public Health Nutr 2004;7:21-7.
+22. Drewnowski A. Fat and sugar: an economic analysis. J Nutr 2003;133:838S-40S.
+23. Drewnowski A, Darmon N, Briend A. Replacing fats and sweets with vegetables and fruit--a question of cost. Am J Public Health 2004;94:1555-9.
+24. Andrieu E, Darmon N, Drewnowski A. Low cost diets: more energy, fewer nutrients. Eur J Clin Nutr 2006;60: 434-6.
+25. Brand-Miller JC, Holt SH, Pawlak DB, et al. Glycemic index and obesity. Am J Clin Nutr 2002;76:281S-5S.
+26. Rolland-Cachera MF, Deheeger M, Akrout M, et al. Influence of macronutrients on adiposity development: a follow up study of nutrition and growth from 10 months to 8 years of age. Int J Obes Relat Metab Disord 1995;19: 573-8.
+27. Almiron-Roig E, Chen Y, Drewnowski A. Liquid calories and the failure of satiety: how good is the evidence? Obes Rev 2003;4:201-12.
+28. DiMeglio DP, Mattes RD. Liquid versus solid carbohydrate: effects on food intake and body weight. Int J Obes Relat Metab Disord 2000;24:794-800.
+29. Prentice AM, Jebb SA. Fast foods, energy density and obesity: a possible mechanistic link. Obes Rev 2003;4: 187-94.
+30. Davidson TL, Swithers SE. A Pavlovian approach to the problem of obesity. Int J Obes Relat Metab Disord 2004;28: 933-5.
+31. Nielsen SJ, Popkin BM. Patterns and trends in food portion sizes, 1977-1998. JAMA 2003;289:450-3.
+32. McLaren L. Socioeconomic status and obesity. Epidemiol Rev 2007;29:29-48.
+33. Guo X, Warden BA, Paeratakul S, et al. Healthy Eating Index and obesity. Eur J Clin Nutr 2004;50:1580-6.
+34. Braveman PA, Cubbin C, Egerter S, et al. Socioeconomic status in health research: one size does not fit all. JAMA 2005;294:2879-88.
+35. Bray GA, Popkin BM. Dietary fat affects obesity rate. Am J Clin Nutr 1999;70:572-7.
+36. Popkin BM, Nielsen SJ. The sweetening of the world's diet. Obes Res 2003;11:1325-32.
+37. Duffey KJ, Popkin BM. Adults with healthier dietary patterns have healthier beverage patterns. J Nutr 2006;136: 2901-7.
+38. Duffey KJ, Gordon-Larsen P, Jacobs DR, et al. Differential association of fast food and restaurant food consumption with 3-y change in body mass index: the Coronary Artery Risk Development in Young Adults Study. Am J Clin Nutr 2007; 85:201-8.
+39. Dietz WH, Bland MG, Gortmaker SL, et al. Policy tools for the childhood obesity epidemic. J Law Med Ethics 2002; 30(suppl):83-7.
+
+40. WHO. Global strategy on diet, physical activity and health. Geneva, Switzerland: World Health Organization, April 2004. (available at http://www.who.int).
+41. Lakdawalla D, Philipson T. The growth of obesity and technological change: a theoretical and empirical examination. Cambridge, MA: National Bureau of Economic Research, 2002. (NBER working paper no. 8946). (www.nber.org/papers/w8946).
+42. Chou SY, Grossman M, Saffer H. An economic analysis of adult obesity: results from the Behavioral Risk Factor Surveillance System. J Health Econ 2004;23: 565-87.
+43. Drewnowski A. Obesity and the food environment: dietary energy density and diet costs. Am J Prev Med 2004;27(suppl): 154-62.
+44. Putnam J, Allshouse J, Kantor LS. U.S. per capita food supply trends: more calories, refined carbohydrates, and fats. Food Rev 2002;25:2-15.
+45. Putnam JJ, Allshouse JE. Food consumption, prices, and expenditures, 1970-97. Washington, DC: Food and Rural Economic Division, US Department of Agriculture, 1999. (Statistical bulletin no. 965).
+46. Johnson CS, Taylor CA, Hampl JS. More Americans are eating ``5 a day'' but intakes of dark green and cruciferous vegetables remain low. J Nutr 2000;130:3063-7.
+47. US Department of Agriculture, Agricultural Research Service, Food Surveys Group. Food and nutrient intakes by individuals in the United States by income, 1994-96. Table set 14. (www.barc.usda.gov/bhnrc/foodsurvey).
+48. Wilde PE, McNamara PE, Ranney CK. The effect on dietary quality of participation in the food stamp and WIC programs. Washington, DC: Economic Research Service, US Department of Agriculture, September 2000. (Agricultural economic FANR report #9).
+49. Kaufman PR, MacDonald JM, Lutz SM, et al. Do the poor pay more for food? Item selection and price differences affect low-income household food costs. Washington, DC: Economic Research Service, US Department of Agriculture, 1997. (USDA report no. 759).
+50. Lutz SM, Blaylock JR, Smallwood DM. Household characteristics affect food choices. Food Rev 1993;16:12-18.
+51. Leibtag ES, Kaufman PR. Exploring food purchase behavior of low-income households. Current issues in economics of food markets. Washington, DC: Economic Research Service, US Department of Agriculture, 2003. (AIB 747-07).
+52. Lin BH, Morrison RM. Higher fruit consumption linked with lower body mass index. Food Rev 2003;25:28-32.
+53. Attree P. A critical analysis of UK public health policies in relation to diet and nutrition in low-income households. Matern Child Nutr 2006;2:67-78.
+54. Beydoun MA, Wang Y. How do socio-economic status, perceived economic barriers and nutritional benefits affect quality of dietary intake among US adults? Eur J Clin Nutr. Advance Access: March 7, 2007. (DOI: 10.1038/sj.ecjn. 1602700).
+55. Mendoza JA, Drewnowski A, Christakis DA. Dietary energy density is associated with obesity and the metabolic syndrome in US adults. Diabetes Care 2007;30:974-9.
+56. Blisard N, Stewart H, Jolliffe D. Low income households' expenditures on fruit and vegetables. Washington, DC: Economic Research Service, US Department of Agriculture, 2004. (Agricultural economic report no. 833).
+57. Krieger N, Williams DR, Moss NE. Measuring social class in US public health research: concepts, methodologies, and guidelines. Annu Rev Public Health 1997;18:341-78.
+Epidemiol Rev 2007;29:160-171
+
+Downloaded from http://epirev.oxfordjournals.org/ by guest on March 6, 2016
+
+Downloaded from http://epirev.oxfordjournals.org/ by guest on March 6, 2016
+
+Obesity, Sugar, and Fat 171
+
+58. Drewnowski A, Popkin BM. Dietary fats and the nutrition transition: new trends in the global diet. Nutr Rev 1997;133: 838S-40S.
+59. Lissner L, Heitman BL. Dietary fat and obesity: evidence from epidemiology. Eur J Clin Nutr 1995;49:79-90.
+60. Drewnowski A. Energy density, palatability, and satiety: implications for weight control. Nutr Rev 1998;56:347-53.
+61. Stubbs RJ, Whybrow S. Energy density, diet composition and palatability: influences on overall food energy intake in humans. Physiol Behav 2004;81:755-64.
+62. Prentice AM, Poppit SD. Importance of energy density and macronutrients in the regulation of energy intake. Int J Obes Relat Metab Disord 1996;20(suppl):S18-23.
+63. Blundell JE, MacDiarmid JI. Passive overconsumption. Fat intake and short-term energy balance. Ann N Y Acad Sci 1997;827:392-407.
+64. Willett WC. Is dietary fat a major determinant of body fat? Am J Clin Nutr 1998;67(suppl):556S-62S.
+65. Willett WC. Dietary fat and obesity: an unconvincing relation. Am J Clin Nutr 1998;68:1149-50.
+66. Monteiro CA, Moura EC, Conde WL, et al. Socioeconomic status and obesity in adult populations of developing countries: a review. Bull World Health Organ 2004;82: 940-6.
+67. Malik VS, Hu FB. Popular weight-loss diets: from evidence to practice. Nat Clin Pract Cardiovasc Med 2007;4: 34-41.
+68. Gardner CD, Kiazand A, Alhassan S, et al. Comparison of the Atkins, Zone, Ornish, and LEARN diets for change in weight and related risk factors among overweight premenopausal women: the A to Z Weight Loss Study: a randomized trial. JAMA 2007;297:969-77.
+69. Willett WC. Dietary fat plays a major role in obesity: no. Obes Rev 2002;3:59-68.
+70. Seidell JC. Dietary fat and obesity: an epidemiologic perspective. Am J Clin Nutr 1998;67(suppl):546S-50S.
+71. Heini AF, Weinsier RL. Divergent trends in obesity and fat intake patterns: the American paradox. Am J Med 1997;102: 259-64.
+72. Taubes G. The soft science of dietary fat. Science 2001;291: 2536-45.
+73. Yudkin J. Pure, white and deadly. London, United Kingdom: Viking, 1986.
+74. Pereira MA. The possible role of sugar-sweetened beverages in obesity etiology: a review of the evidence. Int J Obes (Lond) 2006;30:528-36.
+75. Malik VS, Schulze MB, Hu FB. Intake of sugar-sweetened beverages and weight gain: a systematic review. Am J Clin Nutr 2006;84:274-88.
+76. Bachman CM, Baranowski T, Nicklas TA. Is there an association between sweetened beverages and adiposity? Nutr Rev 2006;64:153-74.
+77. Vartanian LR, Schwartz MB, Brownell KD. Effects of soft drink consumption on nutrition and health: a systematic review and meta-analysis. Am J Public Health 2007;97:667-75.
+78. Howard BV, Wylie-Rosett J. Sugar and cardiovascular disease. Circulation 2002;106:523-7.
+79. Ludwig DS. The glycemic index: physiological mechanisms relating to obesity, diabetes and cardiovascular disease. JAMA 2002;287:2414-23.
+80. Popkin BM, Armstrong LE, Bray GM, et al. A new proposed guidance system for beverage consumption in the United States. Am J Clin Nutr 2006;83:529-42.
+
+81. Haley S, Reed J, Lin BH, et al. Sweetener consumption in the United States: distribution by demographic and product characteristics. Washington, DC: US Department of Agriculture, August 2005. (USDA report SSS-243-01).
+82. Drewnowski A, Henderson SA, Shore AB, et al. The fatsucrose seesaw in relation to age and dietary variety in French adults. Obes Res 1997;5:511-18.
+83. Gibney M, Sigman-Grant M, Stanton JL, et al. Consumption of sugars. Am J Clin Nutr 1995;62(suppl):178S-94S.
+84. Hill JO, Prentice AM. Sugar and body weight regulation. Am J Clin Nutr 1995;62(suppl):264S-74S.
+85. Anderson GH. Sugars, sweetness, and food intake. Am J Clin Nutr 1995;62(suppl):195S-202S.
+86. Popkin BM, Barclay DV, Nielsen SJ. Water and food consumption patterns of US adults from 1999 to 2001. Obes Res 2005;13:2146-52.
+87. Schulze MB, Manson JE, Ludwig DS, et al. Sugar-sweetened beverages, weight gain, and incidence of type 2 diabetes in young and middle-aged women. JAMA 2004;292:927-34.
+88. Liu S, Willett WC, Manson JE, et al. Relation between changes in intakes of dietary fiber and grain products and changes in weight and development of obesity among middle aged women. Am J Clin Nutr 2003;78:920-7.
+89. Schulze MB, Fung TT, Manson JE, et al. Dietary patterns and changes in body weight in women. Obesity (Silver Spring) 2006;14:1444-53.
+90. Ledikwe JH, Rolls BJ, Smiciklas-Wright H, et al. Reductions in dietary energy density are associated with weight loss in overweight and obese participants in the PREMIER trial. Am J Clin Nutr 2007;85:1212-21.
+91. USDA Thrifty Food Plan. US Department of Agriculture. (Available at http://www.usda.gov). (Accessed July 10, 2004).
+92. Huang KS. Prices and incomes affect nutrients consumed. Food Rev 1998;2:11-15.
+93. Kumanyika SK, Krebs-Smith SM. Preventive nutrition issues in ethnic and socioeconomic groups in the United States. In: Bendich A, Deckelbaum RJ, eds. Primary and secondary preventive nutrition. Totowa, NJ: Humana Press Inc, 2001: 325-56.
+94. Yanovski S. Sugar and fat: cravings and aversions. J Nutr 2003;133:835S-7S.
+95. Levine AS, Kotz CM, Gosnell BA. Sugars and fats: the neurobiology of preference. J Nutr 2003;133:831S-4S.
+96. Morland K, Wing S, Diez RA. The contextual effect of the local food environment on residents' diets: the Atherosclerosis Risk in Communities Study. Am J Public Health 2002; 92:1761-7.
+97. Drewnowski A, Bellisle F. Liquid sugar, satiety and body weight. Am J Clin Nutr 2007;85:851-61.
+98. Quan T, Salomon J, Nitzke S, et al. Behaviors of low-income mothers related to fruit and vegetable consumption. J Am Diet Assoc 2000;100:567-70.
+99. Dittus KL, Hillers VN, Beerman KA. Benefits and barriers to fruit and vegetable intake: relationship between attitudes and consumption. J Nutr Educ 1995;27:120-6.
+100. Darmon N, Ferguson EL, Briend A. Do economic constraints encourage the selection of energy dense diets? Appetite 2003;41:315-22.
+101. Darmon N, Ferguson EL, Briend A. A cost constraint alone has adverse effects on food selection and nutrient density: an analysis of human diets by linear programming. J Nutr 2002;132:3764-71.
+
+Epidemiol Rev 2007;29:160-171
+
+

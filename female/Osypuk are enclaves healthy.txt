@@ -1,0 +1,1142 @@
+Social Science & Medicine 69 (2009) 110-120
+Contents lists available at ScienceDirect
+Social Science & Medicine
+journal homepage: www.elsevier.com/locate/socscimed
+
+Are immigrant enclaves healthy places to live? The Multi-ethnic Study of Atherosclerosis
+Theresa L. Osypuk a,*, Ana V. Diez Roux b, Craig Hadley c, Namratha R. Kandula d
+a Northeastern University, Boston, MA, United States b University of Michigan School of Public Health, Ann Arbor, MI, United States c Emory University, Atlanta, GA, United States d Northwestern University, Feinberg School of Medicine, Division of General Internal Medicine, Chicago, IL, United States
+
+article info
+Article history: Available online 8 May 2009
+Keywords: Health inequalities Neighborhood Immigrants Health behaviors USA Hispanic Americans Chinese Americans
+
+abstract
+The growing size and changing composition of the foreign-born population in the USA highlights the importance of examining the health consequences of living in neighborhoods with higher proportions of immigrants. Using data from the Multi-ethnic Study of Atherosclerosis in four US cities, we examined whether neighborhood immigrant composition was associated with health behaviors (diet, physical activity) among Hispanic and Chinese Americans (n 1/4 1902). Secondarily we tested whether neighborhoods with high proportions of immigrants exhibited better or worse neighborhood quality, and whether these dimensions of neighborhood quality were associated with healthy behaviors. Neighborhood immigrant composition was defined based on the Census 2000 tract percent of foreign-born from Latin-America, and separately, percent foreign-born from China. After adjustment for age, gender, income, education, neighborhood poverty, and acculturation, living in a tract with a higher proportion of immigrants was associated with lower consumption of high-fat foods among Hispanics and Chinese, but with being less physically active among Hispanics. Residents in neighborhoods with higher proportions of immigrants reported better healthy food availability, but also worse walkability, fewer recreational exercise resources, worse safety, lower social cohesion, and lower neighborhood-based civic engagement. Associations of neighborhood immigrant composition with diet persisted after adjustment for reported neighborhood characteristics, and associations with physical activity were attenuated. Respondent-reported neighborhood healthy food availability, walkability, availability of exercise facilities and civic participation remained associated with behaviors after adjusting for immigrant composition and other covariates. Results show that living in an immigrant enclave is not monolithically beneficial and may have different associations with different health behaviors.
+O 2009 Elsevier Ltd. All rights reserved.
+
+Introduction
+Immigrants are a large and increasingly important segment of the US population, and today's immigrants are more ethnically diverse than ever (Grieco, 2003; Zhou, 2001). Immigrants and ethnic minorities are highly likely to live in neighborhoods with high proportions of other immigrants and/or with other residents from the same ethnic group (Logan, Zhang, & Alba, 2002; Suro & Tafoya, 2004). Immigrant enclaves (neighborhoods with high proportions of immigrants) are one feature of the American receiving context that may facilitate successful immigrant adaptation (Logan & Lewis Mumford Center, 2003; Portes & Stepick, 1993;
+* Corresponding author: Tel.: 1 617 373 3667; Fax: 1 617 373 2968 E-mail address: t.osypuk@neu.edu (T.L. Osypuk).
+0277-9536/$ - see front matter O 2009 Elsevier Ltd. All rights reserved. doi:10.1016/j.socscimed.2009.04.010
+
+Wilson & Portes, 1980), by offering cultural goods, social networks, and lower communication costs for non-English language speakers (Fernandez Kelly & Schauffler, 1996). Through these pathways and others, immigrant enclaves may affect health.
+Neighborhoods with high proportions of immigrants may be associated with health behaviors simply due to the individual-level characteristics of residents. For example, immigrants in immigrant enclaves may be less acculturated than those in neighborhoods with fewer immigrants, and acculturation has been linked to health behaviors (Abraido-Lanza, Chao, & Florez, 2005; Gordon, 1964; Kandula, Kersey, & Lurie, 2004; Lara, Gamboa, Kahramanian, Morales, & Bautista, 2005; Salant & Lauderdale, 2003; Singh & Siahpush, 2002). However, there are a number of mechanisms through which neighborhood immigrant composition may affect health independently of individual-level characteristics such as level of acculturation or socioeconomic position.
+
+T.L. Osypuk et al. / Social Science & Medicine 69 (2009) 110-120
+
+111
+
+A variety of health-relevant social features of neighborhoods may be associated with neighborhood immigrant composition. For example, neighborhood-linked social networks and social control may reinforce norms regarding healthy behaviors or sanction unhealthy ones (Zhou & Bankston, 1996). The resources flowing through social capital and social networks (Fernandez Kelly & Schauffler, 1996; Portes, 1998; Portes & Rumbaut, 2006; Zhou & Bankston, 1996) may support healthy behavior. In addition, immigrant enclaves may insulate individuals from potentially stressful discriminatory exposures (Fernandez Kelly & Schauffler, 1996; Portes & Rumbaut, 2006), which may result in the adoption of unhealthy behaviors as coping mechanisms.
+Neighborhood structural context may also play a role. Certain migrant-related resources such as the presence of ethnic food stores relevant for diet, or services like gyms accessible in other languages (Portes, Kyle, & Eaton, 1992; Zhou & Bankston, 1996) may be more common in immigrant enclave neighborhoods. Other structural features such as high poverty or lack of safe walking environments, or advertising of harmful products like tobacco may also be associated with neighborhood immigrant composition (Hackbarth, Silvestri, & Cosper, 1995; Pucci, Joseph, & Siegel, 1998). Immigrants, including immigrants from racial minority groups, are likely to live in very poor neighborhoods (Logan et al., 2002; Logan & Lewis Mumford Center, 2003; Menjivar, 2000; Osypuk, Galea, McArdle, & Acevedo-Garcia, in press), and neighborhood poverty may have detrimental effects on health behaviors. On the other hand, neighborhoods characterized by high immigrant concentration may buffer co-ethnic immigrants from the deleterious effects of poverty (Patel, Eschbach, Rudkin, Peek, & Markides, 2003; Zhou & Bankston, 1996).
+Using data from a large, multi-ethnic population-based study, we investigated whether neighborhood immigrant composition was associated with health behaviors (diet, physical activity) after adjustment for individual-level characteristics (including individual-level measures of acculturation) in a multi-ethnic study of middle-aged and older adults, in four major US cities. We also investigated the specific social and structural features of neighborhoods that may explain the links between immigrant enclaves and health. We exploit data that are rich in measures of health behaviors and of multiple dimensions of neighborhood context, to investigate whether immigrant neighborhoods may matter for diet and physical activity, and if so, why, and whether the associations are the same across different ethnic groups and different health behaviors. Lastly, we test whether certain neighborhood quality factors, articulated in our theoretical framework, may mediate enclave-health behavior associations including: individual-level SES, neighborhood poverty, neighborhood-based physical resources (availability of healthy foods, presence of physical activity facilities, walking environment), or neighborhood social context (social cohesion, civic participation, safety).
+Methods
+We used individual-level data from the Multi-ethnic Study of Atherosclerosis (MESA), a 10-year longitudinal study of risk factors for atherosclerosis (Bild et al., 2002). The MESA cohort includes 6814 men and women aged 45-84 years and free of clinical cardiovascular disease at baseline, recruited from six field centers: Baltimore, MD; Chicago, IL; Forsyth County, NC; Los Angeles, CA; New York, NY; and St Paul, MN. At each site, a probability sample of more than 1000 participants was selected through a variety of population-based approaches. This analysis includes the MESA Hispanic and Chinese samples only. Hispanic participants were recruited in New York, Los Angeles, and St Paul; and Chinese participants were recruited in Los Angeles and Chicago. The
+
+baseline visit for the cohort (on which these analyses are based) took place between July 2000 and September 2002.
+Diet quality was assessed by a 120-item food frequency questionnaire (FFQ) adapted from the Insulin Resistance Atherosclerosis Study instrument, which has comparable validity for multi-ethnic populations (Mayer-Davis, Vitolins, Carmichael et al., 1999). The FFQ was modified to include Chinese foods and culinary practices. We operationalized diet as the principal factor identified through factor analysis of diet patterns among 47 food groups (Nettleton et al., 2006). Higher levels of this factor indicate higher consumption of fats and processed meats (fats, oils, processed meats, fried potatoes, salty snacks, and desserts). This dietary outcome was chosen because recent work in nutritional epidemiology highlights the importance of investigating dietary patterns as opposed to individual nutritional items (Hu, 2002). This dietary pattern score reflects dietary variability in this sample and has been linked to cardiovascular risk in prior work (Nettleton et al., 2007). A factor score for each participant was calculated from the sum of the servings per day from all food groups, multiplied by their respective factor loadings (Nettleton et al., 2006).
+Physical activity during a typical week was assessed using a detailed, semi-quantitative questionnaire adapted from the Cross-Cultural Activity Participation Study (LaMonte, Durstine, Addy, Irwin, & Ainsworth, 2001). For these analyses we focused on activities that we hypothesized would be linked to the neighborhood context including transportation, walking, dance/sport, conditioning, and leisure activities. We multiplied reported time of activity per week in each activity, by activity intensity values for the specific activity, and summed across activities to obtain metabolic equivalents (METs) (minutes per week). METs are a policy-relevant metric combining time and intensity, used in the American Heart Association physical activity guidelines (Haskell et al., 2007). Physical activity was modeled linearly as weekly METS for the five dimensions relevant to neighborhoods. Sensitivity analyses found comparable results with different categorizations of physical activity.
+Acculturation was measured with nativity, language spoken, and length of residence in the US. Nativity (place of birth) was modeled as US-born (reference), foreign-born, or Puerto Ricanborn (among Hispanics only), based on respondent's reported country-of birth. Language spoken at home was categorized as English, Spanish and English (bilingual), Spanish, Chinese (Mandarin or Cantonese), Chinese and English (bilingual), or another language. Number of years in the US among the foreignborn was categorized as 0-14 years, 15-30 years, over 30 years, or missing, compared to US-born. Gender was modeled as dichotomous, and age was modeled in four categories: 45-54, 55-64, 65-74, and 75-84. Annual income was modeled in tertiles (<$16,000, $16,000-34,999, and $35,000 or more); those missing income data were coded separately (n 1/4 31). Highest year of educational attainment was modeled in three categories: less than high school degree; high school diploma, some college, and/or vocational/technical school; bachelor's degree or more.
+Tract-level census data were used to create two neighborhood immigrant composition variables, specific to the countries of origin present in the MESA sample: tract percent of residents born in Latin America (including Caribbean, Central America, Mexico and South America) and tract percent of residents born in China or Chinese territories (including Mainland China, Taiwan, or Hong Kong). We explored a number of nativity-related census variables and found them to be highly correlated. The variables we chose are simpler to interpret than composite indices and appropriately capture variation across neighborhoods in the percent of ethnic-specific foreignborn residents, which underlies our definition of enclaves as previously noted. Both variables were categorized into quartiles
+
+112 T.L. Osypuk et al. / Social Science & Medicine 69 (2009) 110-120
+
+based on the MESA sample distribution (cut points: % foreign-born Chinese at 2.2%, 14.0%, 24.2%; % foreign-born Latin-American at 8.1%, 16.6%, 38.5%). The use of distribution-based categories is a common approach when there is no a priori theory to justify a particular threshold or cutoff. It makes no assumptions about linearity and provides a clear and intuitive interpretation. In this manuscript, immigrant enclaves refer to the 4th quartile: the quartile with the largest proportion of immigrants. When referring to the entire range we use the term neighborhood immigrant composition or neighborhood proportion of immigrants. We adjusted for neighborhood poverty as a commonly used measure of neighborhood socioeconomic status that has been studied with respect to immigrant neighborhoods (Logan et al., 2002). Census tract poverty (percent of residents below the poverty threshold) was categorized into quartiles (cutpoints at 8.1%, 15.9%, and 27.4%).
+Information on neighborhood quality was obtained from questionnaires administered to MESA participants. We created four scales (healthy food availability, walking environment, safety, social cohesion) and two indices (number of exercise-related recreational facilities, and neighborhood-based civic participation, e.g. the number of organizations that people joined with neighbors). In the survey MESA participants were asked to refer to the area about a mile around their home. Scale items were derived from published work whenever possible (Echeverria, Diez-Roux, & Link, 2004; Mujahid, Diez Roux, Morenoff, & Raghunathan, 2007). All scale items were answered on a 4- or 5-point Likert scale. For index questions, we assigned a value of 1 to ``yes'' responses and a value of 0 to ``no'' responses and summed across all items. The coding for the scale and index items is listed in Table 1. Internal consistency reliability was acceptable (0.61-0.90). Only observations for which we had complete (nonmissing) information were used in the scale and index creation; aside from the exercise facilities index, few (<0.7%) observations were missing. There was 16% missing for the exercise facilities question, due to those answering ``I don't know'' to whether exercise facilities were present in their neighborhood. Each neighborhood-level scale or index was created by taking the mean of the individual-level scale or index for each census tract, using all baseline MESA data for the four MESA sites where Chinese and Hispanic MESA participants were recruited.
+Analyses were restricted to Hispanic and Chinese participants due to the limited number of foreign-born whites (n 1/4 162) and foreign-born African Americans (n 1/4 150) in the MESA sample. Race/ethnicity was measured via self-report. Of 1457 Hispanics and 797 Chinese in the MESA sample, 2059 had geocoded address information. We excluded persons missing data on any of the outcomes (n 1/4 140), and excluded extreme physical activity outliers (n 1/4 20). The final sample sizes were 1191 Hispanics and 711 Chinese.
+Statistical analysis
+We stratified all models by race/ethnicity (Hispanics and Chinese) since sociological theory suggests that immigrant experiences may differ (Fernandez Kelly & Schauffler, 1996) due to the resources that immigrants bring to the US, the reception of the host community, and other ethnic-specific features. We tested bivariate associations between neighborhood immigrant composition quartiles and covariates using chi-squared tests or one-way analysis of variance. Marginal or population-average models (Diez Roux, 2002) were used to account for any residual correlations of the outcomes for individuals within census tracts using Sudaan 10.0.1. These models are appropriate and more robust than multilevel models when interest centers on the fixed effects of predictors on the outcome, as in our case. We applied linear regression and built several sequential models for each outcome: Model 1 included the
+
+neighborhood immigrant composition quartiles, adjusted for respondent age and gender; Model 2 added nativity among the Hispanics (for Chinese, the vast majority (96%) of the sample was foreign-born, so power was constrained to model nativity - therefore there is no Model 2 for Chinese; sensitivity analyses including nativity among Chinese found no differences though the model was unstable); Model 3 added income and education; Model 4 added neighborhood poverty; Model 5 added language and number of years in the US. Models 6 (for diet) and 7(for physical activity) built on Model 5 when immigrant neighborhoods were significantly associated with health behaviors. Models 6 and 7 added relevant neighborhood-level residential characteristics as reported by MESA participants, one at a time to Model 5.
+Results
+Selected characteristics of the sample are shown in Table 2. The mean age was 61.7 years and 51% of the sample was female. The Hispanic sample was heterogeneous by country of birth: 33% were born in the US, 24% in Mexico, 24% in Central America or the Caribbean (primarily Dominican Republic and Cuba), 10% in Puerto Rico, and 8% in South America. The majority of the Chinese sample was born in Mainland China (61%), 18% was born in Taiwan, 5% in Hong Kong, and 4% in the US. Hispanics were of lower socioeconomic status and lived in tracts with higher neighborhood poverty than the Chinese (percent of the group with less than high school diploma was 44% for Hispanics and 22% for Chinese; mean neighborhood poverty was 21% for Hispanics vs. 13% for Chinese).
+Hispanics lived in tracts with a mean of 24% foreign-born LatinAmerican residents; Chinese lived in tracts with a mean of 17% foreign-born Chinese residents. Among both Hispanics and Chinese, participants living in neighborhoods with high proportions of foreign-born residents were less likely to have been born in the US and were less likely to speak English at home than those living in neighborhoods with lower proportions of foreign-born (P < 0.001). In general, participants living in areas with a higher proportion of Hispanic or Chinese immigrants were less educated (P < 0.001) and had lower income (P < 0.001) than those living in areas with fewer foreign-born residents. Census tracts with a higher proportion of immigrants had higher poverty levels (correlation between tract % poverty and tract % foreign-born was 0.5).
+Among both Hispanics and Chinese, dietary intake of high-fat/ processed foods was lower in neighborhoods with a higher proportion of foreign-born Hispanics and Chinese (P < 0.001 for Hispanics, and P 1/4 0.003 for Chinese). Among Hispanics, physical activity levels were higher among participants living in areas with lower proportions of foreign-born residents than among those living in areas with more foreign-born residents (P < 0.001). No clear pattern was present among Chinese.
+Participant reports of neighborhood quality were significantly (at P < 0.05) and linearly patterned by neighborhood immigrant composition quartile for 10 of 12 tests (Fig. 1, crude associations presented). With the exception of the availability of healthy food environment scale, higher quartiles of neighborhood immigrant composition exhibited worse environments than the lower quartiles for all significant associations. Hispanic residents living in the higher quartiles of neighborhood immigrant composition reported significantly better healthy food environments (P < 0.001), but also reported worse walkability (P < 0.001), worse neighborhood safety (P < 0.001), worse social cohesion/trust (P < 0.001), and lower neighborhood civic participation (P < 0.001) than their counterparts living in neighborhoods with lower proportions of foreignborn Latin-Americans. Likewise, Chinese participants living with higher proportions of foreign-born Chinese neighbors reported
+
+T.L. Osypuk et al. / Social Science & Medicine 69 (2009) 110-120
+
+Table 1 MESA neighborhood scale and index coding and items.
+
+Scale/index
+
+Higher values indicate
+
+No. of items
+
+Healthy Food Availability Scale
+
+More healthy food availability
+
+2
+
+Scale internal consistency reliability (Cronbach's alpha)
+0.90
+
+Walking Environment Scale
+
+Better walkability
+
+6
+
+0.61
+
+Safety Scale
+
+Safer
+
+3 0.62
+
+Items
+A large selection of fresh fruits and vegetables is available in my neighborhood; a large selection of low fat products is available in my neighborhood It is pleasant to walk in my neighborhood; the trees in my neighborhood provide enough shade; in my neighborhood it is easy to walk to places; I often see other people walking in my neighborhood; I often see other people exercise in my neighborhood; there are stores within walking distance of my home I feel safe walking, Violence is a problem in my neighborhood (REV) I feel very safe from crime
+
+Social Cohesion Scale
+
+Higher cohesion
+
+5
+
+0.65
+
+Neighborhood-based civic participation index, a.k.a. Joins Organizations with Neighbors Index
+
+More organizations
+
+12
+
+NA
+
+Presence of Recreational Facilities Index
+
+More structures conducive for exercise
+
+8
+
+NA
+
+People in the neighborhood can be trusted; people are willing to help their neighbors; this is a close-knit neighborhood; people in the neighborhood don't get along (REV); people in the neighborhood do not share the same values (REV) Did subjects regularly join in the activities of any of 12 organizations with people in their neighborhood: a neighborhood association like a block association, a homeowner/tenant association or crime watch group; religious groups or charitable organizations; parent- teacher associations or other school support/ service groups; youth organizations such as youth sports leagues or the scouts; clubs or associations for senior citizens or older people; a labor union; a professional, trade, farm, or business association; adult sports clubs or leagues or an outdoor activity club; a literary art, discuss or study group or a musical, dancing or singing group; any other hobby club or society; ethnic, nationality, or civil rights organizations; other public interest groups, political groups, or party committees Are these facilities available or not within a 20 minute walk (about a mile) from your home: public park, public sports field; basketball court or tennis court; public pool or beach; schools, colleges, or community centers with recreational facilities that are free and open to the public; gyms, health/fitness clubs, or pools that you have to join and pay for; YMCAs or YWCAs, bicycle path; sidewalks in the neighborhood
+
+REV indicates that the item was reverse coded. Note: 16% missing for recreation facilities index due to ``don't know'' responses.
+
+113
+Rating scale for each item 1 1/4 strongly disagree to 5 1/4 strongly agree 1 1/4 strongly disagree to 5 1/4 strongly agree
+1 1/4 strongly disagree to 5 1/4 strongly agree 1 1/4 not at all safe to 5 1/4 very safe 1 1/4 strongly disagree to 5 1/4 strongly agree
+1 1/4 yes, 0 1/4 no
+1 1/4 yes, 0 1/4 no
+
+marginally better healthy food environments (P 1/4 0.06) than counterparts living with fewer foreign-born Chinese neighbors, but also worse walkability (P 1/4 0.04), worse neighborhood safety (P < 0.001), worse social cohesion/trust (P 1/4 0.017), fewer recreational exercise facilities (P 1/4 0.001), and lower neighborhood-based civic participation (P 1/4 0.02).
+Table 3 shows the associations of neighborhood immigrant composition with diet after adjustment for covariates. Living in a neighborhood with high proportions of immigrants was
+
+significantly associated with beneficial dietary intake among both Hispanics and Chinese. The age and gender adjusted mean difference in the high-fats/processed meats dietary factor, comparing the top to bottom neighborhood % immigrant quartile, was A0.57 (95% confidence limits (CL): A0.71, A0.43) for Hispanics and was A0.15 (CL: A0.24, A0.06) for Chinese. (Table 3, Model 1). These differences persisted (P < 0.10) after adjustment for nativity, income, education, tract poverty, language, and years in the US among both groups (Model 5). For example, the adjusted mean difference in the
+
+114 T.L. Osypuk et al. / Social Science & Medicine 69 (2009) 110-120
+
+Table 2 Selected characteristics of Hispanic and Chinese participants for the MESA sample and by quartiles of tract immigrant composition.
+
+Hispanics
+
+Chinese
+
+Total
+
+Quartiles of tract % foreign-born Latin-American among Hispanic sample
+
+Total
+
+Quartiles of tract % foreign-born Chinese among Chinese sample
+
+n % Or Q1 Q2 Q3 Q4 Chi-sq or n % Or Q1 Q2 Q3 Q4 Chi-sq or
+
+mean
+
+ANOVA
+
+mean
+
+ANOVA
+
+P-value
+
+P-value
+
+Total (n 1/4 1902) Neighborhood variables
+Tract % foreign-born Latin-American Tract % foreign-born Chinese Tract % poverty Individual predictor variables Age Gender
+Female Region of Birth
+US Mainland (Hispanic ethnicity)
+Mexico Central America or Caribbean Puerto Rico South America Other Hispanic US (Chinese ethnicity) Mainland China Taiwan Hong Kong Other Asian country Education Less than high school diploma High school diploma, technical, some college, associates degree Bachelors degree or more Income Less than $16,000 $16,000-34,999 $35,000 or more Language Spoken at Home Other English English & Spanish Spanish Other English English & Chinese Chinese Years in the US US-born Foreign-born 30 years Foreign-born 15-30 years Foreign-born 0-15 years Outcomes Diet (high-fats/processed foods factor pattern) Physical activity (min/week METS)
+
+1191
+1191
+- 1191
+1191
+622
+390
+290 284 117 97 13 - - - - -
+522 543
+126
+351 435 379
+5 363 185 638
+- -
+397 399 204 116
+1191
+1191
+
+62.6%
+23.9%
+- 20.8%
+61.4
+52.2%
+32.8%
+24.2% 23.9%
+9.8% 8.1% 1.1% - - - - -
+43.8% 45.6%
+10.6%
+29.5% 36.5% 31.8%
+0.4% 30.5% 15.5% 53.6%
+- -
+33.3% 33.5% 17.1%
+9.7%
+A0.302
+4095
+
+296
+3.2%
+- 8.6%
+60.9
+45.3%
+53.7%
+17.2% 8.1% 7.4% 12.2% 1.4% - - - - -
+26.4% 52.7%
+21.0%
+16.9% 28.7% 52.7%
+1.0% 51.7% 18.6% 28.7%
+- -
+54.1% 21.3%
+9.8% 10.5%
+A0.004
+5084
+
+307
+13.3%
+- 19.1%
+59.6
+56.0%
+40.7%
+25.1% 16.6%
+9.5% 6.5% 1.6% - - - - -
+38.4% 52.8%
+8.8%
+25.7% 39.4% 31.3%
+0.7% 39.1% 12.7% 47.6%
+- -
+41.7% 26.7% 11.1% 11.1%
+A0.205
+4211
+
+287
+27.9%
+- 25.7%
+61.6
+55.1%
+23.0%
+25.4% 28.2% 15.0%
+7.7% 0.7% - - - - -
+47.7% 46.0%
+6.3%
+37.3% 39.4% 22.3%
+0.0% 19.9% 16.4% 63.8%
+- -
+23.0% 43.2% 19.9%
+9.4%
+A0.383
+3605
+
+301
+51.5%
+- 29.9%
+63.3
+52.5%
+13.3%
+29.6% 42.5%
+7.6% 6.3% 0.7% - - - - -
+62.8% 30.9%
+6.3%
+38.2% 38.5% 20.9%
+0.0% 11.0% 14.6% 74.4%
+- -
+14.3% 43.2% 27.9%
+8.0%
+A0.619
+3472
+
+***
+-
+*** ***
+* ***
+*** *** ***
+***
+*** ***
+
+711 37.4% 171 182 179 179
+
+--
+711 16.7% 711 13.2%
+
+-
+1.0% 6.7%
+
+-
+6.6% 13.6%
+
+-
+19.3% 13.4%
+
+--
+
+39.3% 18.9%
+
+*** ***
+
+711 61.9
+
+61.0
+
+60.1
+
+62.6
+
+63.7
+
+**
+
+361 50.8% --
+
+49.7% -
+
+51.7% -
+
+50.8% -
+
+50.8% -
+
+***
+
+-- -- -- -- -- 27 3.8% 436 61.3% 128 18.0% 34 4.8% 86 12.1%
+158 22.2% 264 37.1%
+
+- - - - - 7.0% 49.7% 31.0% 3.5% 8.8%
+8.2% 31.6%
+
+- - - - - 6.6% 59.3% 14.8% 3.3% 15.9%
+29.1% 33.5%
+
+- - - - - 0.6% 63.1% 17.3% 6.7% 12.3%
+20.1% 40.2%
+
+- - - - - 1.1% 72.6% 9.5% 5.6% 11.2%
+30.7% 43.0%
+
+***
+
+289 40.6%
+238 33.5% 185 26.0% 283 39.8%
+-- -- --
+
+60.2%
+22.8% 15.2% 61.4%
+- - -
+
+37.4%
+30.2% 30.2% 38.5%
+- - -
+
+39.7%
+36.9% 29.6% 33.0%
+- - -
+
+26.3%
+43.6% 28.5% 27.4%
+- - -
+
+*** ***
+
+5 0.7% 43 6.0% 58 8.2% 605 85.1%
+26 3.7% 135 19.0% 268 37.7% 238 33.5%
+
+0.6% 11.7% 14.6% 73.1%
+7.0% 29.2% 35.7% 17.5%
+
+1.1% 8.8% 6.6% 83.5%
+6.0% 17.6% 36.8% 33.0%
+
+0.6% 1.7% 6.2% 91.6%
+0.6% 11.2% 44.7% 39.7%
+
+0.6% 2.2% 5.6% 91.6%
+1.1% 18.4% 33.5% 43.0%
+
+***
+
+711 A0.661 A0.544 A0.656 A0.710 A0.727 **
+
+711 3732 4051 3657 3483 3753
+
+P-value: ***<0.001; **<0.01; *<0.05; #<0.10. Cut points for quartiles of % census tract foreign-born Latin-American are 8.1%, 16.6%, and 38.5%. Cut points for quartiles of % census tract foreign-born Chinese are 2.2%, 14.0%, 24.2%. Cut points for quartiles of % census tract poverty are 8.1 %, 15.9%, and 27.4%. Exact tests used for frequency tests with small cell sizes.
+
+high-fats/processed meat dietary factor for the top vs. bottom quartile among Hispanics was A0.47 (CL: A0.69, A0.25); however, neighborhood immigrant composition associations with diet were marginally significant in Model 5 among Chinese (top vs. bottom quartile: A0.10 (CL: A0.21, 0.00)). The linear trend in diet across enclave categories was statistically significant for Hispanics and marginally significant for Chinese, and associations were substantially (over four times) stronger in Hispanics than in Chinese.
+Mean weekly physical activity was associated with immigrant neighborhood composition in Hispanics but not in Chinese (Table 4). Hispanics living in the highest quartile of immigrant
+
+Latino neighborhoods exhibited lower weekly physical activity compared with those in the lowest quartile of neighborhood immigrants (Table 4, Model 1: age and gender adjusted mean difference: A1564, CL: A2050, A1079). This association remained after additional adjustment for nativity, education, income, neighborhood poverty, language, and time in the US (Table 4, Model 5, comparing the top to bottom quartile of neighborhood immigrant composition A756, CL: A1395, A117). There was a significant linear trend among Hispanics (P 1/4 0.027), where neighborhoods with higher immigrant composition displayed lower average physical activity.
+
+Mean Neighborhood Value
+
+T.L. Osypuk et al. / Social Science & Medicine 69 (2009) 110-120
+
+Q1 very low % immigrants Q2 low % immigrants 5 ns
+4 *** *** *** ***
+
+Q3 moderate % immigrants
+* *** #*
+
+Q4 high % immigrants
+***
+
+3
+
+2
+***
+1
+
+*
+
+0
+
+115
+
+Healthy Food Walking
+CiSviocEcixPalearrtcCiicosihepSeaaFtsfiiaeootcilnny Healthy Food Walking
+CiSviocEcixPalearrtcCiiocsiheSpeaaFfstiiaeootciynln
+
+Hispanics
+
+Neighborhood Quality
+
+Chinese
+
+Fig. 1. Census tract mean neighborhood quality by neighborhood immigrant composition. Trend test P-value: ***<0.001; *<0.05; #<0.10. The quartiles of the tract % immigrant variable are: Q1 1/4 Quartile 1, Q2 1/4 Quartile 2, Q3 1/4 Quartile 3, Q4 1/4 Quartile 4. The tract % immigrant variable for Hispanics was % of tract residents born in Latin America, and for Chinese was % of tract residents born in China. Higher values on each scale/index indicate: better healthy food availability (healthy food), better walking environment (walking), safer (safety), higher cohesion (social cohesion), higher civic participation (civic participation), more structures conducive for exercise (exercise facil). Neighborhood quality values for each participant were created by aggregating the mean response for each scale or index for all participants in the census tract. Means presented in the figure are unadjusted for covariates.
+
+Table 5 shows associations of neighborhood immigrant composition with diet and physical activity after further adjustment for reported neighborhood characteristics (presented in the four leftmost columns of Table 5). Among both Hispanic and Chinese participants, immigrant neighborhood composition remained significantly associated with diet, after adjusting for reported neighborhood quality variables (see trend tests for neighborhood % immigrant quartiles in Table 5, Models 6A-D). In contrast, among Hispanics, associations of neighborhood immigrant composition with physical activity were reduced in magnitude and were no longer statistically significant after adjustment for the neighborhood walkability scale or neighborhood civic participation index (Models 7A and 7D in Table 5). However, associations of immigrant composition with physical activity among Hispanics remained significant after adjustment for neighborhood safety, social cohesion, and more exercise facilities (Models 7B, 7C, 7E, respectively).
+Table 5 also shows associations of each of the self-reported neighborhood quality measures with diet or physical activity after controlling for neighborhood immigrant composition, neighborhood poverty, and all the individual-level variables shown in Table 3 and 4 (see the extreme right columns of Table 5). Hispanics living in neighborhoods with healthier food neighborhood environments displayed better diets, before (not shown) and after adjustment for all covariates in Model 5 (Table 5 rightmost column, Model 6A, a one-point increase in healthy food environment scale is associated with A0.11-point difference in the high-fat/processed meats dietary pattern, P 1/4 0.009). In contrast, healthier neighborhood food environment was not significantly associated with diet among Chinese (Model 6A).
+Among Hispanics, three of the five tract-level neighborhood quality scales/indices were associated with physical activity in final models. For example, those reporting one-point better walking environments exhibited 1393 more weekly METS of physical activity (P < 0.001, Model 7A). Neighborhood contexts associated
+
+with more physical activity among Hispanics, in addition to walkability, included more neighborhood-based civic participation (P < 0.001, Model 7D), and the presence of more reported exercise facilities (P < 0.001, Model 7E). Neither neighborhood safety nor social cohesion was associated with diet or physical activity in final models.
+Discussion
+This study has four principal findings. First, Chinese and Hispanic adults living in neighborhoods with higher immigrant composition tended to have diets lower in fat or processed foods than their counterparts who lived in neighborhoods with lower proportions of immigrants. Second, among Hispanic individuals, living in a neighborhood with higher proportions of Latin-American immigrants was associated with lower levels of physical activity. Third, consistent with our results for diet and physical activity, immigrant enclave neighborhoods appeared to have better access to healthy foods but had worse environments related to physical activity (safety, walkability, presence of recreational exercise facilities), and worse social environments (social cohesion and neighborhood-based civic participation). Fourth, we found support for several explanations for the neighborhood immigrant composition-health behavior associations, including individuallevel compositional explanations (composition by socioeconomic status, acculturation), differential neighborhood poverty explanations, as well as contextual explanations of neighborhood quality. For example, after adjusting for aspects of the physical environment (e.g. walkability) and other neighborhood and individual-level factors, the neighborhood immigrant composition associations with physical activity became nonsignificant among Hispanics.
+Our results suggest that the spatial concentration of immigrants in neighborhood enclaves may simultaneously promote health (via diet) and erode health (via physical activity). Although some
+
+116 T.L. Osypuk et al. / Social Science & Medicine 69 (2009) 110-120
+
+Table 3 Adjusted mean differences in the high-fat and processed meats dietary pattern associated with neighborhood immigrant composition, neighborhood poverty, and individuallevel variables.
+
+Variable
+
+Hispanics (n 1/4 1191), mean difference (se)
+
+Chinese (n 1/4 711), mean difference (se)
+
+Model 1
+
+Model 2
+
+Model 3
+
+Model 4
+
+Model 5
+
+Model 1
+
+Model 3
+
+Model 4
+
+Model 5
+
+Tract % immigrants (ethnic-specific)
+
+Quartile 4
+
+A0.57 (0.07)*** A0.38 (0.07)*** A0.38 (0.08)*** A0.47 (0.11)*** A0.47 (0.11)***
+
+Quartile 3
+
+A0.35 (0.08)*** A0.23 (0.08)** A0.24 (0.08)** A0.32 (0.10)** A0.32 (0.11)**
+
+Quartile 2
+
+A0.21 (0.07)** A0.16 (0.07)* A0.17 (0.07)* A0.23 (0.10)* A0.23 (0.10)*
+
+A0.15 (0.05)** A0.15 (0.05)** A0.12 (0.05)*
+
+A0.09 (0.05)# A0.11 (0.05)* A0.07 (0.05)
+
+A0.14 (0.05)* A0.10 (0.05)# A0.15 (0.06)** A0.10 (0.05)# A0.10 (0.05)# A0.09 (0.05)#
+
+Quartile 1 (REF)
+
+Test for trend for tract % *** *** *** *** *** **
+
+#
+
+*
+
+#
+
+immigrant quartiles
+
+Gender
+
+Female
+
+A0.27 (0.04)*** A0.24 (0.04)*** A0.25 (0.05)*** A0.25 (0.04)*** A0.26 (0.04)*** A0.25 (0.04)*** A0.21 (0.04)*** A0.21 (0.04)*** A0.20 (0.04)***
+
+Age
+
+75-84
+
+A0.38 (0.07)*** A0.41 (0.07)*** A0.41 (0.08)*** A0.41 (0.08)*** A0.43 (0.08)*** A0.24 (0.07)** A0.18 (0.07)* A0.18 (0.07)* A0.20 (0.07)***
+
+65-74 55-64
+
+A0.46 (0.07)*** A0.49 (0.06)*** A0.48 (0.07)*** A0.48 (0.07)*** A0.50 (0.07)*** A0.18 (0.04)*** A0.14 (0.04)** A0.14 (0.04)*** A0.16 (0.04)*** A0.22 (0.07)*** A0.25 (0.07)*** A0.25 (0.07)*** A0.24 (0.07)*** A0.26 (0.07)*** A0.09 (0.04)* A0.07 (0.04)# A0.07 (0.04) A0.09 (0.04)#
+
+45-54 (REF)
+
+Nativity
+
+Foreign-born Puerto Rican
+
+A0.48 (0.08)*** A0.46 (0.08)*** A0.46 (0.08)*** A0.62 (0.20)*** A0.16 (0.10) A0.14 (0.11) A0.16 (0.11) A0.34 (0.19)#
+
+US-Born (REF)
+
+Education
+
+Less than high school
+
+A0.05 (0.08) A0.05 (0.08) A0.04 (0.09)
+
+A0.12 (0.05)* A0.14 (0.05)** A0.11 (0.05)*
+
+diploma High school diploma,
+
+0.07 (0.08)
+
+0.07 (0.08)
+
+0.07 (0.08)
+
+A0.09 (0.05)# A0.10 (0.05)* A0.08 (0.05)#
+
+technical, some college,
+
+associates degree
+
+Bachelors degree or
+
+more (REF)
+
+Annual gross income
+
+$35,000 or more
+
+A0.07 (0.08) A0.06 (0.08) A0.07 (0.08)
+
+0.08 (0.05) 0.08 (0.05) 0.03 (0.06)
+
+$16,000-34,999
+
+A0.02 (0.06)
+
+0.01 (0.06) A0.02 (0.06)
+
+A0.00 (0.05) A0.01 (0.05) A0.03 (0.04)
+
+Less than $16,000 (REF)
+
+Tract % poverty
+
+Quartile 4 Quartile 3
+
+0.13 (0.11) 0.13 (0.11)
+
+0.15 (0.12) 0.14 (0.11)
+
+0.08 (0.06) 0.10 (0.05)#
+
+0.06 (0.07) 0.10 (0.05)*
+
+Quartile 2
+
+0.06 (0.11)
+
+0.07 (0.11)
+
+0.07 (0.05) 0.07 (0.05)
+
+Quartile 1 (REF)
+
+Language
+
+Other English
+
+0.14 (0.36) 0.02 (0.09)
+
+A0.06(0.09) A0.21(0.11)#
+
+Bilingual: English
+
+0.11 (0.08)
+
+0.12 (0.08)
+
+& Spanish or
+
+English & Chinese
+
+Spanish or Chinese (REF)
+
+Number of years since
+
+arrived to US
+
+Foreign-born, 0-15 years
+
+0.19 (0.20)
+
+A0.27 (0.18)
+
+Foreign-born, 15-30 years
+
+0.12 (0.19)
+
+A0.28 (0.18)
+
+Foreign-born, 30 years
+
+0.22 (0.19)
+
+A0.22 (0.19)
+
+US-born (REF)
+
+P-value: ***<0.001; **<0.01; *<0.05; #<0.10. REF 1/4 Reference Group. Model 1 is adjusted for age and gender. Model 2 adjusts additionally for nativity (among Hispanics only). Model 3 adjusts additionally for income and education. Model 4 adjusts additionally for tract % poverty. Model 5 adjusts additionally for language and years in the US. Cut points for quartiles of % census tract foreign-born Latin-American are 8.1%, 16.6%, and 38.5%. Cut points for quartiles of % census tract foreign-born Chinese are 2.2%, 14.0%, 24.2%. Quartiles of % census tract poverty are 8.1%, 15.9%, and 27.4%.
+
+findings were consistent for both ethnic groups, our results also suggest the relationship between some health-related behaviors (e.g. physical activity) and immigrant neighborhoods may be specific to certain ethnic groups, and the neighborhood quality of immigrant enclaves may vary along different dimensions based on ethnic group. These results suggest that the association between immigrant enclaves and health is more complex than often presented.
+Studies of acculturation have shown that immigrants generally exhibit healthier diets than their native-born counterparts, and over time dietary patterns appear to shift towards those of nativeborns (Dixon, Sundquist, & Winkleby, 2000; Dubowitz, SmithWarner, Acevedo-Garcia, Subramanian, & Peterson, 2007; Lara et al., 2005; Lee et al., 1994; Loria et al., 1995; Pe rez-Escamilla & Putnik, 2007). If immigrant enclaves are comprised in large part of
+
+fairly recent arrivals who were consuming relatively healthier diets, then we might expect to see local businesses catering to these dietary demands and to see generally healthier diets. In turn, the availability of healthy food options may facilitate and promote the maintenance of healthy diets in all residents, independently of how recently they arrived in the US. Our results with respect to diet and to neighborhood healthy food environments are consistent with this explanation. Prior studies have documented that the local food environment, as determined by objective measures, varies by socioeconomic and racial/ethnic composition of neighborhoods (Moore & Diez Roux, 2006; Morland, Wing, Diez-Roux, & Poole, 2002), so it is not surprising that more subjective measures (as in our study) would also capture this variation.
+Our results for diet are consistent with one national study that found adolescents living in higher percent Hispanic neighborhoods
+
+T.L. Osypuk et al. / Social Science & Medicine 69 (2009) 110-120
+
+117
+
+Table 4 Adjusted mean differences in physical activity METS associated with neighborhood immigrant composition, neighborhood poverty, and individual-level variables.
+
+Variable
+
+Hispanics (mean difference (se))
+
+Chinese (mean difference (se))
+
+Model 1
+
+Model 2
+
+Model 3
+
+Model 4
+
+Model 5
+
+Model 1
+
+Model 3
+
+Model 4
+
+Model 5
+
+Tract % immigrants (ethnic-specific)
+
+Quartile 4
+
+A1564 (247)*** A1028 (251)*** A685 (247)** A771 (330)* A756 (325)* A324 (240) A14 (253)
+
+151 (268)
+
+202 (262)
+
+Quartile 3 Quartile 2
+
+A1409 (248)*** A1122 (249)*** A890 (249)** A944 (291)** A931 (288)** A579 (230)* A377 (239) A812 (331)* A685 (323)* A485 (299) A490 (303) A489 (293)# A375 (281) A97 (286)
+
+A119 (239) 64 (279)
+
+A30 (236) 103 (279)
+
+Quartile 1 (REF)
+
+Test for trend for tract %
+
+immigrant quartiles
+
+***
+
+***
+
+**
+
+*
+
+*
+
+#
+
+Gender
+
+Female
+
+A745 (183)*** A697 (186)*** A597 (189)** A598 (190)** A598 (190)** A479 (166)** A263 (175) A267 (177) A274 (172)
+
+Age
+
+75-84 65-74 55-64
+
+58 (241) A186 (244)
+A62 (275)
+
+A61 (248) A278 (241) A188 (270)
+
+288 (258) 30 (238) A5 (264)
+
+284 (260) 37 (236) 0 (260)
+
+180 (271) A25 (248) A33 (270)
+
+553 (270)* 1007 (323)** 1003 (313)**
+
+232 (214) 568 (229)* 435 (244)# 536 (251)*
+
+587 (230)* 529 (252)*
+
+832 (316)** 446 (250)#
+391 (251)
+
+45-54 (REF)
+
+Nativity
+
+Foreign-born
+
+A1336 (198)*** A876 (189)*** A873 (189)*** A450 (589)
+
+Puerto Rican
+
+189 (308)
+
+420 (301)
+
+408 (310)
+
+657 (540)
+
+US-Born (REF)
+
+Education
+
+Less than high school
+
+A1390 (308)*** A1385 (310)*** A1265 (323)***
+
+A932 (240)*** A888 (238)*** A862 (244)***
+
+diploma
+
+High school diploma,
+
+A209 (289) A202 (288) A177 (294)
+
+A82 (180) A56 (176) A24 (171)
+
+technical, some college,
+
+associates degree
+
+Bachelors degree or more (REF)
+
+Annual gross income $35,000 or more $16,000-34,999
+
+292 (211) 12 (160)
+
+301 (212) 14 (160)
+
+225 (212) A19 (159)
+
+617 (241)* 422 (218)#
+
+655 (245)** 449 (252)# 507 (232)* 448 (228)#
+
+Less than $16,000 (REF)
+
+Tract % poverty
+
+Quartile 4
+
+63 (376)
+
+142 (375)
+
+161 (324)
+
+195 (330)
+
+Quartile 3
+
+117 (335)
+
+163 (333)
+
+A454 (239)# A402 (239)#
+
+Quartile 2
+
+A108 (314)
+
+A45 (310)
+
+A518 (228)* A479 (232)*
+
+Quartile 1 (REF)
+
+Language
+
+Other language
+
+435 (741)
+
+A385 (498)
+
+English
+
+626 (271)*
+
+402 (442)
+
+Bilingual: English
+
+505 (256)*
+
+507 (437)
+
+& Spanish or
+
+English & Chinese
+
+Spanish or Chinese
+
+Number of years since
+
+arrived to US
+
+Foreign-born, 0-15 years
+
+A101 (582)
+
+A304 (591)
+
+Foreign-born, 15-30 years
+
+A62 (563)
+
+A255 (572)
+
+Foreign-born, 30 years
+
+44 (541)
+
+95 (620)
+
+US-born (REF)
+
+P-value: ***<0.001; **<0.01; *<0.05; #<0.10. 95% REF 1/4 Reference Group. Model 1 is adjusted for age and gender. Model 2 adjusts additionally for nativity (among Hispanics only). Model 3 adjusts additionally for income and education. Model 4 adjusts additionally for tract % poverty. Model 5 adjusts additionally for language and years in the US. Cut points for quartiles of % census tract foreign-born Latin-American are 8.1%, 16.6%, and 38.5%. Cut points for quartiles of % census tract foreign-born Chinese are 2.2%, 14.0%, 24.2%. Cut points for quartiles of % census tract poverty are 8.1%, 15.9%, and 27.4%.
+
+exhibited better diets (Lee & Cubbin, 2002), and with one study in Massachusetts among multi-ethnic, low income post-partum mothers that found that living in higher percent foreign-born neighborhoods was associated with eating more fruits and vegetables (Dubowitz, Subramanian, Acevedo-Garcia, Osypuk, & Peterson, 2008). However these studies did not control for neighborhood socioeconomic variables, and only one (Dubowitz et al., 2008) controlled for individual-level measures of acculturation, while both characterized enclave by race/ethnicity or percent foreignborn (rather than using a country-of-origin, immigrant-specific operationalization as we did), and neither included large numbers of Asians. We extend prior work by testing these associations adjusted for individual-level characteristics in a large populationbased sample of Hispanic and Chinese adults from several cities.
+We found different physical activity-neighborhood immigrant composition associations in Hispanics and in Chinese: Hispanics
+
+living in immigrant enclave neighborhoods reported being less physically active than counterparts in neighborhoods with fewer Latin-origin immigrants, but no associations were observed for Chinese. The associations of immigrant neighborhoods with less physical activity in Hispanics persisted after adjustment for individual-level measures of acculturation (which has been shown to be associated with greater physical activity in some studies (Crespo, Smit, Carter-Pokras, & Anderson, 2001; Pe rez-Escamilla & Putnik, 2007), although others have reported inverse or null associations (Berrigan, Dodd, Troiano, Reeve, & Ballard-Barbash, 2006; Lara et al., 2005; Pe rez-Escamilla & Putnik, 2007)). We also found that residents living in immigrant enclave neighborhoods reported worse physical activity-related environments than those not living in such neighborhoods, and that respondents living in neighborhoods with more exercise-conducive environments (walkability, exercise facilities) reported more physical activity.
+
+118 T.L. Osypuk et al. / Social Science & Medicine 69 (2009) 110-120
+
+Table 5
+Adjusted mean differences in diet and physical activity associated with neighborhood immigrant composition after additional adjustment for selected neighborhood quality measuresa.
+
+Neighborhood quality measure Model No. Q2c
+
+Q3c
+
+included in the model
+
+Mean difference (se)
+
+Q4c
+
+Trend test
+Tract % Latino immigrant Mean difference (se) quartile trend testd
+
+Hispanics
+
+Healthier food environment Better safety Better social cohesion Higher civic participation Chinese
+
+6A 6B 6C 6D
+
+Healthier food environment Better safety Better social cohesion Higher civic participation Hispanics
+
+6A 6B 6C 6D
+
+Better Walking Environment Better Safety Better Social Cohesion Higher civic participation More exercise facilities
+
+7A 7B 7C 7D 7E
+
+Mean differences in high-fat dietary score associated with neighborhood Latino immigrant composition quartiles, compared to quartile 1a,b
+
+A0.25 (0.10)** A0.29 (0.10)** A0.44 (0.11)*** *** A0.24 (0.10)* A0.31 (0.10)** A0.47 (0.11)*** *** A0.24 (0.10)* A0.31 (0.10)** A0.47 (0.11)*** *** A0.24 (0.10)* A0.31 (0.10)** A0.46 (0.11)*** *** Mean differences in high-fat dietary score associated with neighborhood Chinese immigrant composition quartiles, compared to quartile 1a,b
+
+A0.09 (0.05)# A0.10 (0.06)# A0.10 (0.05)# A0.10 (0.06)#
+
+A0.15 (0.06)** A0.15 (0.06)** A0.15 (0.06)** A0.15 (0.06)*
+
+A0.15 (0.05)** A0.13 (0.05)* A0.14 (0.05)* A0.13 (0.05)*
+
+** * * *
+
+Mean differences in physical activity (in METS) associated with neighborhood
+
+Latino immigrant composition quartiles, compared to quartile 1a
+
+A311 (281)
+A485 (295) A487 (292)# A514 (285)# A499 (280)#
+
+A678 (283)** A928 (290)** A940 (287)** A847 (282)** A939 (282)***
+
+A476 (322) A749 (333)* A759 (325)* A656 (319)* A797 (318)*
+
+* *
+#
+*
+
+Mean difference in high-fat dietary score associated with a 1-point increase in neighborhood qualitya,b A0.11 (0.04)**
+0.01 (0.06) A0.01 (0.07)
+0.02 (0.03) Mean difference in high-fat dietary score associated with a 1-point increase in neighborhood qualitya,b
+0.07 (0.04)# 0.00 (0.06) A0.01 (0.07) 0.00 (0.02) Mean difference in physical activity (in METS) associated with a 1-point increase in neighborhood qualitya,b 1393 (309)***
+24 (196) A217 (207)
+315 (93)*** 267 (54)***
+
+P-value: ***<0.001; **<0.01; *<0.05; #<0.10. a Estimated from models including neighborhood immigrant composition, neighborhood poverty, all individual-level variables shown in Tables 3 and 4, and the corre-
+sponding neighborhood quality measure. b The diet outcome modeled is a high-fats and processed meats dietary pattern. c Q2 1/4 quartile 2, Q3 1/4 quartile 3, Q4 1/4 quartile 4. Cut points for quartiles of % census tract foreign-born Latin-American are 8.1%, 16.6%, and 38.5%. Cut points for quartiles of %
+census tract foreign-born Chinese are 2.2%, 14.0%, 24.2%. d Neighborhood immigrant composition quartile trend test statistic P-value reported.
+
+The differential physical activity associations with immigrant neighborhoods among Hispanics and Chinese may reflect true differences in the patterning of physical activity environments by immigrant neighborhood composition in the two ethnic groups. In addition, because MESA Hispanic participants lived in neighborhoods that were more impoverished and that generally displayed worse environments than those of MESA Chinese participants, the race/ethnic differences that we found may also reflect differences in associations across the range of neighborhood poverty. The opposite associations of neighborhood enclaves with diet vs. with physical activity behavior (and neighborhood food and activity environments) in Hispanics may relate to the differential ability of residents of poor neighborhoods to modify environments. For example, in impoverished areas the food environment may be more easily changed than the physical activity environment, since food stores or their offerings may respond to resident preferences more rapidly.
+Among both Hispanics and Chinese, associations of neighborhood immigrant composition with diet generally persisted after additional adjustment for neighborhood healthy food availability. Neighborhood food availability was itself related to better diet in Hispanics but not in Chinese. The absence of the expected associations of healthy food availability with diet in Chinese may relate to limitations of the neighborhood measure and/or of the diet measure in the Chinese sample or to limited sample size. In Hispanics, the associations of neighborhood immigrant composition with physical activity were reduced and became nonsignificant after adjustment for better walking environment, but adjustment for other neighborhood factors such as safety and availability of recreational exercise facilities did not substantially influence associations. Neighborhood characteristics are notoriously difficult to measure and are subject to substantial measurement error; this
+
+could explain their limited impact on immigrant neighborhood associations after adjustment even if these attributes truly mediated the immigrant composition effects. Alternatively other unmeasured neighborhood-level factors may also play a role.
+Prior studies have suggested that immigrant enclaves may be health promoting because the social networks of immigrants may help maintain the presumably healthier behaviors practiced in the sending country (Eschbach, Ostir, Patel, Markides, & Goodwin, 2004; Patel et al., 2003). Our limited findings for social cohesion/ trust and civic participation do not support this assumption. In fact we found that enclaves were characterized by relatively lower reports of neighborhood-based social cohesion and trust as well as lower levels of neighborhood civic participation; however, only civic participation was associated with health (e.g. for physical activity among Hispanics). So despite the prevailing image of immigrant enclaves as ``nurturing hives'', immigrants may actually be spatially and socially isolated, in a way that is similar to nativeborn ethnic minority groups (Wierzbicki, 2004: p. 27). The two neighborhood-based social environmental measures we employed (social cohesion/trust and civic participation) are two commonly operationalized indicators of social capital (Harpham, Grant, & Thomas, 2002; Kawachi, Kim, Coutts, & Subramanian, 2004), and these indicators have been linked to health and health behaviors (Kawachi et al., 2004). However, our measures may not capture other aspects of the social environment that sociologists theorize may relate to successful immigrant adaptation.
+Important strengths of our study include the population-based biethnic sample with detailed measures of behaviors and neighborhood characteristics. This analysis modeled not only Census variables, but also other aspects of neighborhood quality to probe why immigrant enclaves may matter for health behaviors. Unlike other studies, our study controlled for several individual-level
+
+T.L. Osypuk et al. / Social Science & Medicine 69 (2009) 110-120
+
+119
+
+measures of immigrant assimilation/acculturation and continued to find that enclaves exhibited associations with diet and physical activity. Limitations include the cross-sectional and observational nature of the study, which provides weak evidence for causal associations due to the threat to internal validity arising from residential-related selection. We attempted to control confounding via multiple regression. However, like the majority of the neighborhood effects literature, we were unable to control for other confounding factors that may have predicted both neighborhood of residence, and the factors under study (Diez Roux, 2004). We therefore cannot make strong assertions about how these contextual variables influence the outcomes of interest, and stronger research designs should be marshalled to address this topic in the future. Our measures of neighborhood quality are based on selfreport by residents and therefore may be subject to important measurement error, which could differ by place of residence (e.g. immigrant composition) and produce bias. This may have affected our ability to examine the mediating role of neighborhood characteristics. Our neighborhood immigrant composition measure also has its limitations, as it is not necessarily specific to the country-oforigin of the MESA participant, although arguably the measure should capture immigrants with similar cultural attributes as opposed to immigrants from the same country (for example, common language among immigrants from Latin America).
+An important challenge in isolating the effects of neighborhood immigrant composition is controlling for individual-level measures of acculturation. Our analysis was able to separate the effects of individual-level acculturation from the effects of immigrant neighborhoods, predominantly because we had substantial variation in the type of neighborhoods in which persons with similar levels of assimilation lived. We used three common measures of acculturation: place of birth, language, and time in the US. Unfortunately detailed acculturation scales for each ethnic group were not available. The relative homogeneity of the Chinese sample in terms of individual-level acculturation (e.g. nativity, language) also facilitated our maintaining this factor relatively constant in examining associations with neighborhood immigrant composition. Another complexity is that individual-level acculturation may be one of the mechanisms through which neighborhood immigrant composition affects health. More detailed longitudinal studies with better measures of acculturation and changes in acculturation over time are necessary to address these issues.
+The MESA sample was not designed to be representative of all US Hispanics and Chinese. However, comparisons of the sample to the broader US Hispanic and Chinese population suggest that our results may be generalizable. MESA recruitment occurred in the three largest metropolitan areas (MAs) for immigrant population size (Logan & Lewis Mumford Center, 2003), including the second largest MA for new Chinese arrivals (LA) and two of the three largest MAs for new Latin-American arrivals (New York and LA) (Office of Immigration Statistics, 2006b). Thirty percent of all new US immigrants settled in one of the four MAs from which MESA Hispanics and Chinese were recruited (Office of Immigration Statistics, 2006a). The neighborhood poverty experienced by the Chinese and Hispanics in MESA is comparable to the neighborhood environments experienced by their racial/ethnic and nativity groups nationally (Logan & Lewis Mumford Center, 2003). For example, in the 69 metropolitan areas with the largest population shares of immigrants, foreign-born Asians live on average in neighborhoods with 12% of residents below the poverty line (compared to 13% in MESA data); both foreign-born and US-born Hispanics live in neighborhoods with an average of 20% of residents below poverty (compared to 21% in MESA data) (Logan & Lewis Mumford Center, 2003). MESA Hispanics lived in strikingly comparable types of neighborhoods (tracts) with respect to
+
+foreign-born composition as Hispanics in the 69 largest immigrant MAs in year 2000 (Logan & Lewis Mumford Center, 2003). However, the MESA Chinese sample exhibited higher average tract foreignborn composition (44%) compared to the average tract of foreignborn Asians in the MESA MAs (32%). The MESA sample of Asians was restricted by design to Chinese, although the MESA sample of Hispanics was quite heterogeneous. It is plausible that immigrant neighborhood composition associations differ by country-of-origin, but sample size limitations did not allow us to test this hypothesis in our data. In addition, the generalizability of the neighborhood immigrant composition-health behavior associations may be limited to the extent that ethnic enclaves (e.g. Chinatowns) are different in different cities in terms of structure or composition. The differential distribution of tract % foreign-born for Hispanics and Chinese also makes direct comparison of the categories across the two groups difficult. The MESA sample was composed of older adults so the associations we report may not be generalizable to younger populations.
+Immigrants, especially immigrants of racial minority groups, are likely to live in neighborhoods with other members of their ethnic group upon settling in the US (Iceland & Scopilliti, 2008; Logan et al., 2002), and this is reflected in their higher residential segregation compared to US-born non-Hispanic whites (Acevedo-Garcia, Lochner, Osypuk, & Subramanian, 2003; Iceland & Scopilliti, 2008). Our results show that living in immigrant enclave neighborhoods, compared to living in neighborhoods with fewer immigrants, is linked to health behaviors, and that neighborhoods that vary along immigrant composition also differ in environmental features related to diet and physical activity. Understanding why neighborhood context matters is important for understanding the health of different groups, and may suggest strategies for improving neighborhood environments that are conducive to health among all groups.
+Acknowledgements
+The Multi-ethnic Study of Atherosclerosis (MESA) is conducted and supported by the National Heart, Lung, and Blood Institute (NHLBI) in collaboration with MESA investigators. MESA is supported by contracts N01-HC-95159 through N01-HC-95165 and N01-HC-95169 from the National Heart, Lung, and Blood Institute. This work was supported in part by R01 HL071759 and P60 MD002249 (Dr Diez Roux). Funding for this analysis for Drs. Osypuk and Hadley was provided by the Robert Wood Johnson Foundation Health and Society Scholar program at University of Michigan.
+References
+Abraido-Lanza, A. F., Chao, M. T., & Florez, K. R. (2005). Do healthy behaviors decline with greater acculturation? Implications for the Latino mortality paradox. Social Science & Medicine, 61(6), 1243-1255.
+Acevedo-Garcia, D., Lochner, K. A., Osypuk, T. L., & Subramanian, S. V. (2003). Future directions in residential segregation and health research: A multilevel approach. American Journal of Public Health, 93(2), 215-221.
+Berrigan, D., Dodd, K., Troiano, R., Reeve, B., & Ballard-Barbash, R. (2006). Physical activity and acculturation among adult Hispanics in the United States. Research Quarterly for Exercise and Sports, 77(2), 147-157.
+Bild, D. E., Bluemke, D. A., Burke, G. L., Detrano, R., Diez Roux, A. V., Folsom, A. R., et al. (2002). Multi-ethnic study of atherosclerosis: Objectives and design. American Journal of Epidemiology, 156(9), 871-881.
+Crespo, C., Smit, E., Carter-Pokras, O., & Anderson, R. (2001). Acculturation and leisure-time physical activity in Mexican American adults: Results from NHANES III, 1988-1994. American Journal of Public Health, 91(8), 1254-1257.
+Diez Roux, A. V. (2002). A glossary for multilevel analysis. Journal of Epidemiology and Community Health, 56(8), 588-594.
+Diez Roux, A. V. (2004). Estimating neighborhood health effects: The challenges of causal inference in a complex world. Social Science & Medicine, 58(10),1953-1960.
+Dixon, L. B., Sundquist, J., & Winkleby, M. (2000). Differences in energy, nutrient, and food intakes in a US sample of Mexican-American women and men: Findings from the Third National Health and Nutrition Examination Survey, 1988-1994. American Journal of Epidemiology, 152(6), 548-557.
+
+120 T.L. Osypuk et al. / Social Science & Medicine 69 (2009) 110-120
+
+Dubowitz, T., Smith-Warner, S. A., Acevedo-Garcia, D., Subramanian, S. V., & Peterson, K. E. (2007). Nativity and duration of time in the United States: Differences in fruit and vegetable intake among low-income postpartum women. American Journal of Public Health, 97(10), 1787-1790.
+Dubowitz, T., Subramanian, S. V., Acevedo-Garcia, D., Osypuk, T. L., & Peterson, K. E. (2008). Individual and neighborhood differences in diet among low-income foreign and U.S.-born women. Women's Health Issues, 18(3), 181-190.
+Echeverria, S. E., Diez-Roux, A. V., & Link, B. G. (2004). Reliability of self-reported neighborhood characteristics. Journal of Urban Health, 81(4), 682-701.
+Eschbach, K., Ostir, G. V., Patel, K. V., Markides, K. S., & Goodwin, J. S. (2004). Neighborhood context and mortality among older Mexican Americans: Is there a barrio advantage? American Journal of Public Health, 94(10), 1807-1812.
+Fernandez Kelly, M. P., & Schauffler, R. (1996). Divided fates: Immigrant children and the new assimilation. In A. Portes (Ed.), The new second generation (pp. 30- 53). New York: Russell Sage Foundation.
+Gordon, M. M. (1964). Assimilation in American life: The role of race, religion and national origins. New York: Oxford University Press.
+Grieco, E. (2003). Census 2010 and the foreign born: Averting the data crisis, migration policy institute policy brief. Washington DC: Migration Policy Institute. http:// www.migrationpolicy.org/pubs/MPIPolicyBriefCensus.pdf.
+Hackbarth, D., Silvestri, B., & Cosper, W. (1995). Tobacco and alcohol billboards in 50 Chicago neighborhoods: Market segmentation to sell dangerous products to the poor. Journal of Public Health Policy, 16, 213-230.
+Harpham, T., Grant, E., & Thomas, E. (2002). Measuring social capital within health surveys: Key issues. Health Policy and Planning, 17(1), 106-111.
+Haskell, W. L., Lee, I.-M., Pate, R. R., Powell, K. E., Blair, S. N., Franklin, B. A., et al. (2007). Physical activity and public health: Updated recommendation for adults from the American College of Sports Medicine and the American Heart Association. Circulation, 116(9), 1081-1093.
+Hu, F. B. (2002). Dietary pattern analysis: A new direction in nutritional epidemiology. Current Opinion in Lipidology, 13(1), 3-9.
+Iceland, J., & Scopilliti, M. (2008). Immigrant residential segregation in U.S. metropolitan areas, 1990-2000. Demography, 45(1), 79-94.
+Kandula, N. R., Kersey, M., & Lurie, N. (2004). Assuring the health of immigrants: What the leading health indicators tell us. Annual Review of Public Health, 25, 357-376.
+Kawachi, I., Kim, D., Coutts, A., & Subramanian, S. (2004). Commentary: Reconciling the three accounts of social capital. International Journal of Epidemiology, 33(4), 682-690.
+LaMonte, M., Durstine, J., Addy, C., Irwin, M., & Ainsworth, B. (2001). Physical activity, physical fitness, and Framingham 10-year risk score: The cross-cultural activity participation study. Journal of Cardiopulmonary Rehabilitation, 21(2), 63-70.
+Lara, M., Gamboa, C., Kahramanian, M. I., Morales, L. S., & Bautista, D. E. H. (2005). Acculturation and Latino health in the United States: A review of the literature and its sociopolitical context. Annual Review of Public Health, 26(1), 367-397.
+Lee, M. M., Wu-Williams, A., Whittemore, A. S., Zheng, S., Gallagher, R., Teh, C. Z., et al. (1994). Comparison of dietary habits, physical activity and body size among Chinese in North America and China. International Journal of Epidemiology, 23(5), 984-990.
+Lee, R., & Cubbin, C. (2002). Neighborhood context and youth cardiovascular health behaviors. American Journal of Public Health, 92, 428-436.
+Logan, J., Zhang, W., & Alba, R. D. (2002). Immigrant enclaves and ethnic communities. American Sociological Review, 67(2), 299-322.
+Logan, J. R., & Lewis Mumford Center. (2003). http://mumford.albany.edu/census/ NewComersReport/NewComer01.htm America's Newcomers. Albany NYSUNY Albany.
+Loria, C. M., Bush, T. L., Carroll, M. D., Looker, A. C., McDowell, M. A., Johnson, C. L., et al. (1995). Macronutrient intakes among adult Hispanics: a comparison of Mexican Americans, Cuban Americans, and mainland Puerto Ricans. American Journal of Public Health, 85(5), 684-689.
+Mayer-Davis, E., Vitolins, M., Carmichael, S., Hemphill, S., Tsaroucha, G., Rushing, J., et al. (1999). Validity and reproducibility of a food frequency interview in a Multi-Cultural Epidemiology Study. Annals of Epidemiology, 9, 314-324.
+Menjivar, C. (2000). Fragmented ties: Salvadoran immigrant networks in America. Berkeley, CA: University of California Press.
+Moore, L., & Diez Roux, A. (2006). Associations of neighborhood characteristics with the location and type of food stores. American Journal of Public Health, 96(2), 325-331.
+
+Morland, K., Wing, S., Diez Roux, A., & Poole, C. (2002). Neighborhood character-
+
+istics associated with the location of food stores and food service places.
+
+American Journal of Preventive Medicine, 22(1), 23-29.
+
+Mujahid, M. S., Diez Roux, A. V., Morenoff, J. D., & Raghunathan, T. (2007). Assessing
+
+the measurement properties of neighborhood scales: From psychometrics to
+
+ecometrics. American Journal of Epidemiology, 165(8), 858-867.
+
+Nettleton, J. A., Steffen, L. M., Mayer-Davis, E. J., Jenny, N. S., Jiang, R.,
+
+Herrington, D. M., et al. (2006). Dietary patterns are associated with
+
+biochemical markers of inflammation and endothelial activation in the Multi-
+
+Ethnic Study of Atherosclerosis (MESA). American Journal of Clinical Nutrition,
+
+83(6), 1369-1379.
+
+Nettleton, J. A., Steffen, L. M., Schulze, M. B., Jenny, N. S., Barr, R. G., Bertoni, A. G.,
+
+et al. (2007). Associations between markers of subclinical atherosclerosis and
+
+dietary patterns derived by principal components analysis and reduced rank
+
+regression in the Multi-Ethnic Study of Atherosclerosis (MESA). American
+
+Journal of Clinical Nutrition, 85(6), 1615-1625.
+
+Office of Immigration Statistics. (2006a). Yearbook of immigration statistics, 2005.
+
+Table 5: Legal permanent resident flow by Core-Based Statistical Area (CBSA) of
+
+residence, fiscal years 1996 to 2005. U.S. Department of Homeland Security.
+
+http://www.dhs.gov/ximgtn/statistics/publications/LPR05.shtm.
+
+Accessed
+
+16.07.07.
+
+Office of Immigration Statistics. (2006b). Yearbook of immigration statistics, 2005.
+
+Supplemental Table 2: Legal permanent resident flow by leading Core-Based
+
+Statistical Areas (CBSAs) of residence and region and country of birth, fiscal year
+
+2005. U.S. Department of Homeland Security. http://149.101.23.2/graphics/
+
+shared/statistics/yearbook/LPR05.htm. Accessed 16.07.07.
+
+Osypuk, T. L., Galea, S., McArdle, N., Acevedo-Garcia, D. Quantifying separate and
+
+unequal: Racial-ethnic distributions of neighborhood poverty in metropolitan
+
+America. Urban Affairs Review, in press., doi: 10.1177/1078087408331119.
+
+Patel, K. V., Eschbach, K., Rudkin, L. L., Peek, M. K., & Markides, K. S. (2003).
+
+Neighborhood context and self-rated health in older Mexican Americans.
+
+Annals of Epidemiology, 13(9), 620-628.
+
+Pe rez-Escamilla, R., & Putnik, P. (2007). The role of acculturation in nutrition, life-
+
+style, and incidence of type 2 diabetes among Latinos. Journal of Nutrition,
+
+137(4), 860-870.
+
+Portes, A. (1998). Social capital: Its origins and applications in modern sociology.
+
+Annual Review of Sociology, 24, 1-24.
+
+Portes, A., Kyle, D., & Eaton, W. W. (1992). Mental-illness and help-seeking behavior
+
+among Mariel Cuban and Haitian Refugees in South-Florida. Journal of Health
+
+and Social Behavior, 33(4), 283-298.
+
+Portes, A., & Rumbaut, R. G. (2006). Immigrant America: A portrait. Berkeley, CA:
+
+University of California Press.
+
+Portes, A., & Stepick, A. (1993). City on the edge: The transformation of Miami.
+
+Berkeley, CA: University of California Press.
+
+Pucci, L., Joseph, H., & Siegel, M. (1998). Outdoor tobacco advertising in six Boston
+
+neighborhoods. American Journal of Preventive Medicine, 15, 155-159.
+
+Salant, T., & Lauderdale, D. S. (2003). Measuring culture: A critical review of
+
+acculturation and health in Asian immigrant populations. Social Science &
+
+Medicine, 57(1), 71-90.
+
+Singh, G. K., & Siahpush, M. (2002). Ethnic-immigrant differentials in health
+
+behaviors, morbidity, and cause-specific mortality in the United States: An
+
+analysis of two national data bases. Human Biology, 74(1), 83-109.
+
+Suro, R., & Tafoya, S. (2004). Dispersal and concentration: patterns of Latino resi-
+
+dential settlement, a PewResearchCenter project. Washington, DC: Pew
+
+Hispanic Center.
+
+Wierzbicki, S. (2004). Beyond the immigrant enclave: Network change and assimila-
+
+tion. New York: LFB Scholarly Publishing.
+
+Wilson, K. L., & Portes, A. (1980). Immigrant enclavesdAn analysis of the labor-market
+
+experiences of Cubans in Miami. American Journal of Sociology, 86(2), 295-319.
+
+Zhou, M. (2001). Contemporary immigration and the dynamics of race and
+
+ethnicity. In National Research Council., N. J. Smelser, W. J. Wilson, & F. Mitchell
+
+(Eds.), America becoming: Racial trends and their consequences: Volume I (pp.
+
+200-242). Washington DC: National Academy Press.
+
+Zhou, M., & Bankston, C. L. (1996). Social capital and the adaptation of the
+
+second generation: the case of Vietnamese youth in New Orleans. In A. Portes
+
+(Ed.), The New Second Generation (pp. 197-220). New York: Russell Sage
+
+Foundation.
+
+

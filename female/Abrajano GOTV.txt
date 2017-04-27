@@ -1,0 +1,367 @@
+397000
+
+no and PanagopoulosAmerican Politics Research (c) The Author(s) 2011
+
+APR39410.1177/1532673X10397000Abraja
+
+Reprints and permission: http://www. sagepub.com/journalsPermissions.nav
+
+Does Language Matter? The Impact of Spanish Versus English-Language GOTV Efforts on Latino Turnout
+
+American Politics Research 39(4) 643-663
+(c) The Author(s) 2011 Reprints and permission: http://www. sagepub.com/journalsPermissions.nav
+DOI: 10.1177/1532673X10397000 http://apr.sagepub.com
+
+Marisa Abrajano1 and Costas Panagopoulos2
+
+Abstract
+Latino voters comprise a growing segment of the voting electorate, yet their levels of participation in elections lags behind the general population and even other ethnic and racial groups. Recent experimental studies have found mobilization efforts directed at the Latino electorate to boost electoral turnout in federal, state, and local elections. Over the past two decades, campaign organizations and operatives have been increasingly relying on the use of Spanish-language appeals to mobilize Latinos. Surprisingly, the impact of language use in targeting Latino voters has, for the most part, eluded scholarly inquiry. We conduct a randomized field experiment in which Latino voters were randomly exposed to a mobilization message in either English or Spanish. It is, to the best of our knowledge, the first randomized experiment to present a direct test between English- and Spanish-language appeals. The experiment was conducted in the context of a special election that took place in February 2009 to fill a vacancy on the New York City Council for District 21, located in Queens. The results from our field experiment suggest that both Spanish- and English-language mobilization
+1University of California, San Diego 2Fordham University, Bronx, NY
+Corresponding Author: Costas Panagopoulos, Department of Political Science, Fordham University, 441 E. Fordham Rd. Faber 667, Bronx, NY 10458 Email: costas@post.harvard.edu
+
+Downloaded from apr.sagepub.com at RUTGERS UNIV on February 27, 2016
+
+644 American Politics Research 39(4)
+have the capacity to boost Latino turnout. That said, English-language appeals were effective across the board for Latinos in our sample, whereas Spanishlanguage outreach was only effective among low-propensity voters and participants whose primary language was Spanish.
+Keywords field experiments, Latino voters, political participation, Spanish-language, ethnic politics, voter mobilization, GOTV
+Latinos represent the largest racial or ethnic group in the United States and currently comprise 14.5% of the population. In elections, Latinos are also one of the most coveted swing groups in states and cities across the nation (Abrajano & Alvarez, 2010; Barreto et al., 2008). At the same time, however, Latinos' rates of electoral participation are significantly lower compared to turnout rates for the general population and other racial or ethnic groups. Consider that in the 2008 presidential election, an estimated 66.1% of non-Hispanic Whites, and 65.3% of Blacks, voted, whereas 49.9% of Latinos did so.1
+In light of this political reality, numerous efforts have been made to study Latino turnout in local, statewide, and national elections. Such efforts include the employment of randomized field experiments (Michelson, 2003, 2005, 2006a, 2006b; Panagopoulos & Green, 2008; Ramirez, 2005; Sinclair et al., 2007) to determine whether certain mobilization strategies are more effective than others. These experimental studies have focused on different aspects of mobilization, from its mode of delivery (e.g., phone, direct mail, face-to-face, televised campaign ads) to its actual content (Michelson, 2003). Scholars have also used observational data to understand the factors influencing Latino turnout rates (Barreto, 2007; Barreto, Segura, & Woods, 2004; de la Garza, Abrajano, & Cortina et al., 2008; Merolla & DeFrancesco Soto, 2008; Pantoja, Ramirez, & Segura, 2001; Shaw, de la Garza, & Lee, 2000).
+Rather surprisingly, for a population in which 71.5% are bilingual in both Spanish and English and 28.5% are considered to be Spanish dominant (those who do not speak English well or at all), little experimental research has examined whether the language of these outreach efforts affects Latino rates of turnout. Several field experimental studies targeting Latinos, including Ramirez (2005) and Panagopoulos and Green (forthcoming), employ mobilization appeals delivered in Spanish but do not randomly vary the language of message delivery to advance a direct test between the impact of Spanish- versus English-language messages. Thus, whether or not Latinos who are contacted
+Downloaded from apr.sagepub.com at RUTGERS UNIV on February 27, 2016
+
+Abrajano and Panagopoulos
+
+645
+
+in Spanish are more likely to turn out compared to Latinos contacted in English remains an open question.
+This basic and fundamental question serves as the basis for a randomized field experiment targeting Latino voters we conducted during the special election for the New York City Council that took place on February 24, 2009. The experiment targeted 7,868 Latino voters via direct mail (postcard mailing) in the 21st NYC council district. We are primarily interested in exploring the impact of the language of message delivery. Thus, registered Latino voters were randomly divided into two treatment groups, assigned to receive cards in either Spanish or English, or to a control group assigned to receive no treatment. This is, to our knowledge, the first direct, field experimental test of the impact of the language of message delivery (Spanish vs. English) on mobilizing Latino voters.
+Although mobilization efforts via direct mail have been found to be less effective at getting voters to the polls than personal contact (Gerber & Green 2000; Green, Gerber, & Nickerson, 2003), recent research by Gerber, Green, and Larimer (2008) demonstrates that direct mail can be as effective as doorto-door canvassing if the messages in these mailers prime voters to consider civic duty as well as place a certain amount of social pressure on them. As such, the message used in our postcards emulates the social pressure mailers used by Gerber et al. (2008; details about the treatments are provided below). The decision to use a variant of the social pressure message was partly a practical consideration; such appeals have produced some of the strongest effects on record for a mail treatment. To the extent we would be able to detect a mobilization effect, using an appeal known to generate a strong effect would boost the chances of doing so. Moreover, using these messages enables us to determine whether the social pressure effects detected for the general population (Gerber et al.,2008) can be generalized to one of the most targeted subgroups in both national and subnational elections--Latinos.
+This article proceeds as follows. In the following section, we present an overview of the scholarly literature as it relates to Latino voter mobilization. Our summary of the theoretical claims we describe enables us to develop a series of hypotheses that will be tested with our experiment. The following sections describe the field experimental procedures and present the results. We conclude with a discussion about the implications of our findings.
+Getting Latinos to the Polls
+Latino turnout has received considerable attention in both the Latino politics literature and the broader literature on racial or ethnic politics.2 Recent work has explored factors aside from socioeconomics (see Rosenstone & Hanson,
+
+Downloaded from apr.sagepub.com at RUTGERS UNIV on February 27, 2016
+
+646 American Politics Research 39(4)
+1993; Wolfinger, 1980) that could potentially influence Latino turnout. For instance, both Leighley (2001) and Barreto (2007) note the importance of geographic context in the mobilization of Latino voters; Latinos residing in areas with large Latino populations are more likely to vote. Electoral representation by coethnics can also enhance rates of turnout among Latinos (Barreto et al., 2004). Important political events that galvanize the Latino community can also serve as a mobilizing tool; such was the case for Latino participation both during and after several Latino-specific ballot initiatives that were introduced in California in the mid-1990s (Bedolla, 2005; Pantoja et al., 2001).
+Studies suggest individuals are more likely to vote if they are asked to do so (Gerber & Green, 2000; Verba, Schlozman, & Brady, 1995). Latinos are no exception, and the field experiments conducted by Michelson (2003, 2005, 2006a, 2006b) reveal the importance of door-to-door, personal contact in mobilizing Latino voters. Likewise, a field experiment conducted by Sinclair et al. (2007) finds that personal contact by local canvassers increased Latino turnout rates in Los Angeles to a greater degree than personal contact by nonlocal canvassers. Observational work by Leighley (2001) and de la Garza et al. (2008) notes the importance of personal contact, but focuses on the impact of personal contact from coethnics as a way to boost turnout levels among Latinos.
+Spanish Versus English-Language GOTV Efforts
+Relatively little work in political science has focused on whether the language of political communication produces differential effects on one's political behavior. To date, only the studies by Abrajano (2010), DeFrancesco Soto and Merolla (2008) investigate this topic. Both of these studies find that English and Spanish-language televised ads produced differential outcomes on Latino turnout rates, with Spanish-dominant Latinos being mobilized by Spanishlanguage ads more so than by English-language ads. Abrajano (2010) also finds distinctions on the effects of Spanish and English-language advertising on Latino vote choice in the 2000 and 2004 presidential elections. In both of these works, language serves as proxy for acculturation. Both of these works attribute receptivity to Spanish-language advertising partly to Latinos' levels of social and political incorporation to the United States. Recently-arrived Latinos tend to be more receptive to Spanish-language efforts, given that their ethnic or racial identity may still be highly salient to them and also as many may not be proficient in English. These Latinos may view Spanishlanguage communications as a sign of respect and recognition on the part of candidates. By contrast, Latinos who have resided in the United States for
+Downloaded from apr.sagepub.com at RUTGERS UNIV on February 27, 2016
+
+Abrajano and Panagopoulos
+
+647
+
+a long period of time, such as third and fourth generation Latinos, may no longer posses as strong a cultural affinity or identity as earlier generation Latinos.
+A field experiment conducted by Panagopoulos and Green (forthcoming) focuses on the effects of Spanish-language radio ads on Latino turnout during the 2006 midterm election cycle. The results from their nationwide, randomized field experiment indicate that nonpartisan radio ads, which encouraged Latinos to vote and also informed them of the candidates competing in the election, boosted Latino turnout rates by 4.3 percentage points. Although this work is the first to speak to the effectiveness of Spanish-language radio ads on Latino electoral participation, one cannot disentangle whether its positive impact on Latino turnout can be attributed to the language of the advertisement as only Spanish-language advertisements were employed.
+Overall, we hypothesize that both of our treatments (Spanish and English) should, all else equal, boost electoral participation, relative to the control group, by raising the salience of the election, encouraging voters to participate, and by emphasizing elements of surveillance to apply social pressure. Expectations about the contrast in the impact between the Spanish- and Englishlanguage versions of the treatment are more nuanced, and we explain them in detail below.
+Research conducted by advertising and marketing scholars offers further insight on this matter. Koslow, Shamdasani, & Touchstone (1994) contend that Latinos' responses to Spanish-language consumer ads can go in two directions. First, Latinos can view efforts to communicate with them in Spanish as an, "indicator of the advertiser's respect for the Latino culture," (p. 576). Moreover, marketing researchers have found that, among bilingual Latinos, Spanish is used often as the "emotional" language, whereas English acts as the "rational" language (Valdes & Seoane, 1995). That is, English can be viewed as the language that connects bilingual Latinos to the outside world (e.g., workplace, marketplace, and government); Spanish, however, is used when bilingual Latinos wish to convey affect (Valdes & Seoane, 1995, p. 227). Thus, when advertisers wish to tap into Latinos' emotions, they typically do so in Spanish. As the message in our postcard mailing focuses on both social pressure (in the form of shaming) and civic duty, the language of communication could potentially impact Latino turnout in distinct ways. This would reinforce the hypothesis that Spanish-language appeals should be more effective than messages delivered in English.
+Alternatively, previous studies demonstrate the use of Spanish could have a, "direct negative effect on affect toward the advertisement due to language-related inferiority complexes," (Koslow et al., 1994, p. 577). With respect to our experiment, a Latina voter in Queens who is fully integrated into American
+
+Downloaded from apr.sagepub.com at RUTGERS UNIV on February 27, 2016
+
+648 American Politics Research 39(4)
+society may have found the Spanish language mailer to be offensive. As Garcia Bedolla (2005) and Crawford (1992) point out, language, and, more specifically, the use of Spanish, has long been a source of stigma for the Latino population in the United States. Thus, an alternative hypothesis suggests the Spanish treatment will be less effective than the English-language message. The alternative hypothesis is also consistent with work by Valdes and Seoane (1995) who argue that Latinos exposed to appeals in English may view these messages as more "official" and nonemotional in nature, relative to messages in Spanish. Our randomized field experiment is designed to help adjudicate between these two, competing hypotheses. The experiment is described below.
+Experimental Design
+Randomized experiments allocate units of observation randomly to treatment and control groups, ensuring that the samples' characteristics (observed and unobserved) are similarly distributed. Randomization is thus an effective method for balancing potential confounders across treatment and control groups, facilitating unbiased estimates of causal effects and reliable causal inference. Unlike laboratory experiments, field experiments study the effects of an intervention within a naturalistic setting. Field experimentation enjoys a long tradition in political science, with applications in electoral settings dating as far back as Gosnell (1927). More recently, scholars have turned increasingly to randomized field experiments to isolate the causal impact of various activities on voter turnout (Green & Gerber, 2008). In our experiment, the units of observation are individuals (registered voters), the intervention is a nonpartisan postcard mailing, and the outcome variable is individual voter turnout in the election, verified using official public records. We note that previous field experiments have found only weak, direct effects from nonpartisan mail interventions; such treatments typically raise turnout by less than 0.5 percentage points on average (Green & Gerber, 2008). Similar mailings whose message appeals trigger powerful sociopsychological mechanisms, like social pressure, however, exert far more potent effects on mobilization, stimulating turnout by 5 to 8 percentage points on average (Gerber et al., 2008).
+Setting
+Our field experiment was conducted in New York City Council District 21, located in Queens, New York, prior to the February 24, 2009 special election to fill a vacancy on the New York City Council. Special elections are typically
+Downloaded from apr.sagepub.com at RUTGERS UNIV on February 27, 2016
+
+Abrajano and Panagopoulos
+
+649
+
+low-salience affairs that attract relatively few competing communications, making them an ideal laboratory to study the effect of our intervention.3 A total of 50,318 registered voters (including 25,316 Latinos) were eligible to vote in the February 2009 election in Queens, and the election featured a contest between four opponents. This area of Queens includes the neighborhoods of Corona, East Elmhurst, Elmhurst, and Jackson Heights. As the number of registered Latino voters above suggests, all four neighborhoods contain sizable Latino populations, ranging from a low of 42.4% in East Elmhurst to a high of 64% in Corona.4 In particular, the neighborhood of Corona is predominantly comprised of Spanish-speaking immigrants from South and Central America, as well as the Caribbean (Ricourt & Danta, 2003). Elmhurst has the largest foreign-born population (70.3%), followed by Jackson Heights (66%) and Corona (62.3%). Given the high concentration of immigrants in these areas, language use also varies greatly. For example, 62.7% of Corona's population speaks Spanish, and within this population, 39.5% speaks English less than "very well." Based on these estimates, 23.2% of the population is bilingual in both English and Spanish. The Jackson Heights area features 54.6% of the population speaking Spanish, with 35.5% of the Spanish-speaking population not speaking English "very well." Given that our treatment focuses on language, the study population we focus on contains enough variation in language use to make the treatment relevant.
+Candidates in special elections in New York City are not permitted to appear on the ballot under established party labels, so the election was essentially nonpartisan. Ultimately, Julissa Ferreras, who was the chief of staff to her predecessor and is also of Dominican heritage, was elected with 45.2% of the vote, whereas Francisco Moya received 25.1% of the vote to earn second place. Unsurprisingly, voter turnout in the special election was low, with 5,034, or 10% of registered voters participating. Such low levels of voter turnout are common in local elections in the United States. Hajnal (2010) estimates turnout in city council elections nationally to be about 27%, and, in Michelson's (2003) field experimental study, turnout in local school board elections was less than 20%.
+Study Population
+The complete experimental sample included 6,931 registered Latino voters residing in single-voter households5 who had failed to vote in the previous (November 2005) municipal election in New York City.6 Individual voters were randomly assigned to either the control group or to one of two treatment groups described in the following section. Voters assigned to the
+
+Downloaded from apr.sagepub.com at RUTGERS UNIV on February 27, 2016
+
+650 American Politics Research 39(4)
+
+Table 1. Relationship Between Treatment Group Assignment and Covariates (Mean Levels)
+
+Spanish
+
+English
+
+Control
+
+Prob > Fa
+
+Voted November 2001 Voted November 2003 Voted November 2004 Voted November 2007 Partisan Male English-dominant
+
+13.4 2.5
+33.1 1.9
+78.9 45.0 27.6
+
+12.5 3.1
+35.3 1.7
+79.7 45.8 26.0
+
+13.5 3.2
+35.1 2.5
+79.7 47.7 26.8
+
+.58 .36 .27 .13 .78 .15 .59
+
+Note: Figures in columns represent mean percentages unless otherwise indicated. a.Test statistics generated using one way ANOVA to evaluate whether mean turnout levels differ across categories of random assignment. In all cases, we cannot reject the hypothesis of equal means at standard significance levels (p < .05), implying balance across groups.
+
+treatment groups were sent a postcard mailing within the week prior to the election.
+To ensure that random assignment generated treatment and control groups that were balanced in terms of observable characteristics, we conducted a series of randomization checks.7 Table 1 displays mean levels for turnout in four, prior general elections (2001, 2003, 2004, and 2007), gender, partisanship (whether subjects were registered with a political party or unaffiliated), and dominant language use (English or Spanish). The data confirm the randomization exercise yielded experimental groups that were balanced with respect to these attributes. Even so, it appears voters assigned to receive the Spanish-language treatment are slightly older, so the results below present specifications with and without covariates. Balance can be confirmed statistically using multinomial logit to predict experimental assignment as a function of the nine covariates. As expected, a likelihood ratio test with 14 degrees of freedom (7 covariates x 2 treatments) is nonsignificant (Likelihood ratio (LR) = 14.77, p = .39).
+Treatments
+Participants assigned to the treatment conditions received one of two mailings printed on simple, 4" x 6" white postcards. Both mailings were strictly nonpartisan. The message on the postcards noted that official records indicated participants had failed to vote in the November 2005 election, reminded them
+
+Downloaded from apr.sagepub.com at RUTGERS UNIV on February 27, 2016
+
+Abrajano and Panagopoulos
+
+651
+
+Table 2. Experimental Results
+
+Experimental group
+
+Intent-to-treat Contact Treatment-on-treated
+
+N Turnout
+
+(ITT)
+
+rate
+
+(ATT)
+
+Spanish treatment 1,747 3.78%
+
+English treatment 1,739 4.72%
+
+Control
+
+3,445 3.13%
+
++0.65 +1.59
+
+92.9% 91.9%
+
++0.70 +1.73
+
+about the special election taking place on February 24, 2009, and encouraged them to participate. The two mailings were identical, except that one was in English (N = 1,739) and the other in Spanish (N = 1,747). Participants assigned to the control group (N = 3,445) received no mailing (see appendix for mailing samples). The mailings were arranged so that participants would receive the postcards approximately 3 to 7 days prior to the election.
+Experimental Results
+Following the February 2009 special election, we obtained validated voter turnout data from the official New York City voter file. Table 2 reports the basic turnout rates for the group of participants assigned to each experimental condition. The control group in the experiment voted at a rate of 3.13%. Turnout among voters assigned to receive the Spanish-language mailing was only somewhat higher (3.78%), suggesting a modest turnout boost of 0.65 percentage points. Participants assigned to receive the English-language treatment voted at a rate of 4.72%, implying an intent-to-treat (ITT) effect of 1.59 percentage points.
+One advantage of randomized field experiments is that they are conducted under natural conditions, thus allaying concerns about external validity. In such a scenario, however, researchers cannot be assured of successful contact with participants assigned to be treated. Despite our efforts to expose all participants assigned to the treatment conditions to the stimulus, some participants were not successfully contacted (postcards were returned as undeliverable). In the two treatment conditions, 91.9% of participants assigned to receive the English-language mailing and 92.9% of those assigned to receive the Spanishlanguage treatment were successfully contacted.8 For accurate estimates of the direct effects of contact, it is necessary to take the rate of contact into consideration. Dividing the ITT effects described above by the contact rate produces the average, treatment-on-treated (ATT) effects. These estimates for our experiment are reported in the final column in Table 2.
+
+Downloaded from apr.sagepub.com at RUTGERS UNIV on February 27, 2016
+
+652 American Politics Research 39(4)
+
+Table 3. Estimates of the Effects of Two Mail Treatments on Voter Turnout in the February 2009 Special Election (NYC, City Council District 21, Queens)
+
+Model specification
+
+Excludes covariates
+
+Includes covariates
+
+Spanish treatment English treatment N of individuals Covariatesa RMSE
+
+.007 (.006) .017*** (.006)
+6,931 No .188
+
+.010** (.006) .022*** (.006)
+6,771 Yes .182
+
+Note: Estimates derived from two-stage least squares regression using treatment assignment as an instrument for successful treatment. Dependent variable is voter turnout in the February 24, 2009 special election (NYC Council District 21, Queens). Numbers in parentheses represent robust standard errors. a.Covariates include prior turnout in the 2001, 2003, 2004, and 2007 general elections (November) as well as gender, partisanship, and dominant language use (English or Spanish). See Table 1 for details. **p < .05. ***p < .01, one-tailed.
+
+As an alternative, essentially the same objective can be achieved by performing a two-stage least squares regression of vote on actual contact using randomization as an instrumental variable (Angrist, Imbens, & Rubin, 1996; Gerber & Green, 2005). Assignment to treatment conditions is a perfect instrument for contact because assignment causes contact but is independent of other influences of voting behavior. This estimator also permits the additional inclusion of control variables to correct for imbalances between experimental groups due to chance.
+Table 3 reports the results of a series of two-stage least squares regression analyses in which individual turnout is regressed on actual contact; in these analyses, random assignment is the instrumental variable. We estimate two models: The first expresses individual voter turnout as a linear function of the experimental treatment conditions, using dummy variables to denote each treatment accordingly (the control group is the reference category). Note that each treatment variable represents actual contact instrumented by random assignment. The second model we estimate includes the battery of covariates described above (prior voting in 2001, 2003, 2004, and 2007, gender, partisanship, and dominant language) as embellishments. The inclusion of covariates is optional, but it may reduce the disturbance variance and improve the statistical precision of the estimated treatment effects.
+Both sets of estimates presented in Table 3 are generally consistent, suggesting that both treatments exerted a positive impact on voter turnout in the
+
+Downloaded from apr.sagepub.com at RUTGERS UNIV on February 27, 2016
+
+Abrajano and Panagopoulos
+
+653
+
+special election. That said, there is consistent evidence in both models that participants who were exposed to the English-language treatment were effectively mobilized to vote in the special election, relative to the control group, whereas the impact of the Spanish-language is only statistically significant in the model that includes covariates. The results reported in the second column indicate that the English-language treatment elevated turnout by 2.2 percentage points on average, an effect that is statistically significant at the p < .01 level, using a one-tailed test. We underscore the fact that the magnitude of this effect is more than four times stronger than what is typical for a nonpartisan mail intervention (Green & Gerber, 2008) but not nearly as strong as the impact one could have expected for a mailing that includes a social pressure component (Gerber et al., 2008). The Spanish-language treatment raised turnout by 1.0 percentage points on average, an effect that is twice as large as a typical mailing but, again, substantially less effective than messages that deploy social pressure to mobilize voters (Gerber et al., 2008).
+Despite the evidence that the Spanish-language intervention boosted turnout in the election, greater support exists for the contention that the Englishlanguage mailer was more effective in mobilizing our participants. The analysis indicates the English-language treatment is significantly more effective than the Spanish-language treatment (at the p < .10 level, using a two-tailed test). We conclude from these results that relying exclusively on mobilization appeals delivered solely in Spanish to stimulate Latinos' electoral participation may not be the optimal strategy, at least for Latinos residing in these neighborhoods of New York City and in a low-salience election.
+Heterogeneous Treatment Effects Among Key Subgroups
+It is reasonable to expect that specific voter attributes may have conditioned the impact of our interventions, resulting in heterogeneous treatment effects across key subgroups. We investigated a series of interactions to examine these possibilities. Below we focus on interactions between the treatments and participants' primary language and vote propensity. We present these findings in Table 4. For simplicity, we include covariates (as described above) in all of the models presented in Table 4, although the results are virtually identical when covariates are excluded (data available on request).
+We turn first to the question of language use. Using data obtained from a commercial vendor about participants' primary language use, we examine whether or not the impact of our treatments differs by whether participants are English or Spanish-dominant.9 We may expect that the English-language treatment will exert a strong impact on voters who are English dominant,
+
+Downloaded from apr.sagepub.com at RUTGERS UNIV on February 27, 2016
+
+654 American Politics Research 39(4)
+
+Table 4. Estimates of the Effects of Two Mail Treatments on Voter Turnout in the February 2009 Special Election by Dominant Language and Vote Propensity
+
+Dominant languagea
+
+Vote propensityb
+
+English
+
+Spanish
+
+Low
+
+High
+
+Spanish treatment English treatment N of individuals RMSE
+
+.005 (.011) .024** (.013)
+1,815 .186
+
+.011** (.006) .021*** (.007)
+4,956 .180
+
+.007* (.005) .015*** (.006)
+6,044 .161
+
+.018 (.027) .066** (.031)
+727 .298
+
+Note: Estimates derived from two-stage least squares regression using treatment assignment as an instrument for successful treatment. Dependent variable is voter turnout in the February 24, 2009 special election (NYC Council District 21, Queens). Numbers in parentheses represent robust standard errors. All models we present above include the following covariates: Prior turnout in the 2001, 2003, 2004, and 2007 general elections (November), gender, partisanship, and dominant language use, accordingly. See Table 1 for details. Data for models excluding covariates available from authors on request. a. Details about primary language are unavailable for 189 participants. b. We classify voters who voted in fewer than two of the four prior elections (2001, 2003, 2004, and 2007) as "low propensity" voters, and voters who voted in two or more of these elections as "high propensity" voters. *p < .10. **p < .05. ***p < .01, one-tailed.
+
+compared to the Spanish-language treatment and vice versa.10 The results, presented in the first and second columns of Table 4, suggest there is some heterogeneity in the impact of the treatments. The English-language treatment exerted similar effects across both subgroups, but the Spanish-language treatment elevated turnout only among Spanish-dominant participants. In fact, for these voters, the effects of both treatments were statistically indistinguishable, implying the Spanish-language appeal was as effective in mobilizing participants as the English-language message. For English-dominant Latinos, only the Englishlanguage appeal was effective in mobilizing them to vote.
+Next we consider the possibility in treatment effect heterogeneity attributable to participants' baseline propensities to vote. Recent studies suggest voting propensity may condition the relationship between efforts designed to mobilize voters and the decision to vote (Arceneaux & Nickerson, 2009). Moreover, the type of voter for whom mobilization is effective is contingent on the electoral context (Arceneaux & Nickerson, 2009). Arceneaux and Nickerson (2009) argue that, in low-salience elections, in which few voters are either aware of or interested in the campaign, only high-propensity voters will be receptive to mobilization efforts. By contrast, low voting propensity voters will be more likely to respond to get-out-the vote efforts in high-salience
+
+Downloaded from apr.sagepub.com at RUTGERS UNIV on February 27, 2016
+
+Abrajano and Panagopoulos
+
+655
+
+elections. Given our field experiment was conducted in a low-salience electoral context, we investigate whether or not we observe heterogeneous treatment effects across ranges of participants' voting propensities. Based on the hypotheses advanced by Arceneaux and Nickerson (2009), high voting propensity participants in our sample should be most responsive to our interventions, whereas the treatment effects we observe should be more modest for low voting propensity participants. We classify participants who voted in fewer than two of the four prior elections we include as "low propensity" voters and those who voted in two or more of these elections as "high propensity" voters.11 We then divide our sample, based on these classifications, to investigate the impact of our treatments on each subgroup respectively.
+The results are presented in the final two columns of Table 4 reveal evidence of heterogeneity in the impact of the treatments by vote propensity. Consistent with the results we describe above, we observe the English-language treatment motivated turnout regardless of voters'propensity to vote, whereas the Spanishlanguage mailer effectively raised turnout only among low-propensity voters.12 In fact, for low-propensity voters, both treatments exerted similar, and statistically indistinguishable, mobilization effects. We also find the effect of the English-language treatment is substantially stronger among high-propensity voters. Consistent with the hypothesis that high-propensity voters would be most responsive to mobilization efforts in low-salience elections (Arceneaux & Nickerson, 2009), our results reveal that the English-language treatment elevated turnout by 6.6 percentage points among these voters, an effect that is statistically significant at the p < .05 level, using a one-tailed test. By comparison, the treatment effect among low-propensity voters is 1.5 percentage points. The magnitude of the effect for high-propensity voters is rather substantial. Treatment effects for a single mailing in this range are rare; prior to the social pressure experiment conducted by Gerber et al. (2008) study, effects in the 5 to 8 percentage-point range had never before been observed, even for as many as nine-piece mailings (Gerber et al., 2008). Moreover, the impact for the English-language message we uncover, at least among high-propensity voters, is in close range of the 4.9 percentage-point treatment effect Gerber et al. (2008) estimate for the "self" treatment they test, which the message content of our treatments is designed to emulate. Our estimate of the treatment effect for high voting-propensity Latinos is also consistent with the 8.1 percentagepoint effect Gerber et al. (2008) uncover for the treatment that exposed participants to their own and their neighbors voting histories (designed to maximize the application of social pressure on participants), suggesting social pressure, at least as applied via the English-language treatment among high-propensity voters, operated similarly in our experiment.
+
+Downloaded from apr.sagepub.com at RUTGERS UNIV on February 27, 2016
+
+656 American Politics Research 39(4)
+Discussion
+The results from our field experiment suggest that both Spanish- and Englishlanguage mobilization has the capacity to boost Latino turnout. That said, English-language appeals were effective across the board for Latinos in our sample, whereas Spanish-language outreach was only effective among low-propensity voters and participants whose primary language was Spanish. From a theoretical vantage point, these findings help to advance our understanding of how language use operates within the context of communicating with targeted populations. In low-salience election settings, using Englishlanguage social pressure messages to mobilize high-propensity Latinos is highly effective. Such behavior therefore mirrors the voting behavior of the broader electorate as documented by Gerber et al. (2008) and Arceneaux and Nickerson (2009). Moreover, potentially more acculturated Latinos (as indicated by language use) seem to be more responsive to mobilization messages that are communicated in English as opposed to Spanish, a finding that is consistent with extant research.
+At the very least, the results we present convey there is still much to learn about the nuances of communicating to, and attempting to mobilize, Latinos or other minority groups generally. As with all experimental research, replication and extension is crucial to the advancement of knowledge about the questions we explore in this study, but we view the current project as an important first step in this direction. Of course, these results must be taken into account with proper perspective, given that our study focused only on four Latino communities in one region of the United States. Based on this particular case, however, the evidence suggests that although Latinos were responsive to appeals in both Spanish and English, English-language appeals boosted turnout rates at moderately higher levels than did Spanish-language messages.
+The practical implications of this research are potentially far reaching. The findings provide useful knowledge for scholars as well as campaign organizations and operatives, who, over the past two decades, have grown increasingly reliant on Spanish as the primary mode of communication to target the Latino electorate (Abrajano, 2010). At least with respect to mobilization messages pertaining to social norms and social pressure, we find those communicated in English were more effective than those communicated in Spanish. From the point of view of scholarship, we note that although our study focuses specifically on the use of Spanish versus English appeals to target Latino voters, this research paradigm could also be applied to other ethnic groups in the United States (e.g., Asian Americans).
+Whether the language effects we detect generalize to other types of political messages (candidate persuasion, issue-based, nonelectoral participation
+Downloaded from apr.sagepub.com at RUTGERS UNIV on February 27, 2016
+
+Abrajano and Panagopoulos
+
+657
+
+or ethnic group solidarity appeals, for example), different delivery mechanisms (via phones, mass media, or personal canvassing) or to other election settings--most notably, high salience contexts--cannot be discerned from this research, though such are questions ripe for future investigation. Based on the works linking emotion and politics (Brader, 2006; Isbell & Ottati, 2002; Marcus, Neuman, & MacKuen, 2000), the role of emotion could play a central role in persuading voters to support one candidate over another, so perhaps the effects that we find in our study are only relevant to these social pressure messages.
+Finally, our study suggests that the mechanism of social pressure may not operate uniformly across subgroups of voters. Given these messages had a substantially stronger mobilizing effect on high-propensity Latino voters in New York City suggests the context of the election does matter. This finding lends further support for the results offered in Arceneaux and Nickerson's (2009) recent study.
+Field experimental inquiry that studies language effects in ethnic or racial minority group mobilization can also be extended to include partisan communications. Although recent studies find few differences between partisan and nonpartisan messages' capacity to mobilize voters (Panagopoulos, 2009), expanding this research to focus on Latinos or other racial or ethnic groups could provide further insights about the interplay between message content, language of delivery, and voter mobilization.
+
+Appendix Postcard Copy (English Version)
+Dear Registered Voter:
+WHO VOTES IS PUBLIC INFORMATION!
+Why do so many people fail to vote? We've been talking about the problem for years, but it only seems to get worse.
+This year, we're taking a different approach. We are reminding people that who votes is a matter of public record.
+Official voter records indicate YOU DID NOT VOTE in the last local elections held in November 2005.
+(continued)
+
+Downloaded from apr.sagepub.com at RUTGERS UNIV on February 27, 2016
+
+658 American Politics Research 39(4)
+Appendix (continued)
+On February 24, 2009, a special election will be held in your district to fill a vacancy on the New York City Council. You are eligible to vote.
+DO YOUR CIVIC DUTY--VOTE!
+The Vote New York Project
+Postcard Copy (Spanish Version)
+Estimado Votante Registrado:
+EL REGISTRO DE VOTANTES ES PUBLICO!
+Por que mucha gente no se presenta a votar? Esta cuestion ha sido motivo de debate durante muchos anos; sin embargo en los ultimos tiempos la situacion ha empeorado.
+Este ano, hemos decido adoptar una estrategia diferente. Le recordamos a la gente que el registro de votantes es publico.
+De acuerdo con los registros oficiales Ud. NO ha votado en la eleccion local de Noviembre de 2005.
+El 24 de Febrero de 2009, se llevara a cabo una eleccion especial para cubrir una vacante en el consejo municipal de la ciudad de Nueva York, y Ud. esta habilitado para votar.
+Cumpla con su deber civico--VOTE!
+El proyecto Vote Nueva York! Acknowledgement
+Earlier versions of this article were presented at the 2009 Annual Meeting of the American Political Science Association (Toronto, Canada) and at the 2010 Colloquium on Race, Ethnicity and Immigration at the University of California Berkeley. The authors are grateful to participants at these meetings, and especially to David Nickerson, Lisa Garcia Bedolla and Taeku Lee, for invaluable feedback and comments. The authors also thank Donald Green, Melissa Michelson, Betsy Sinclair, Thad Kousser, the editor and anonymous referees for
+Downloaded from apr.sagepub.com at RUTGERS UNIV on February 27, 2016
+
+Abrajano and Panagopoulos
+
+659
+
+helpful comments and suggestions as well as Dean Phillips, Beau Picotte, Al Handel, and James Wilson.
+
+Declaration of Conflicting Interests
+The authors declared no potential conflicts of interest with respect to the authorship and/or publication of this article.
+Funding
+The authors are grateful for financial support for this study. Faculty research funding was provided by the University of California San Diego and Fordham University. The experiment we report received IRB approvals at both UCSD and Fordham.
+Notes
+1. Turnout data are from the November 2008 Voting and Registration Supplement to the Current Population Survey (CPS).
+2. See Michelson (2005) for a good overview of this subject. 3. That said, we also acknowledge potential disadvantages associated with low-
+salience election contexts in which the information environments may be less rich and in which voters may be less engaged. Further research is necessary to determine whether the language effects we investigate and detect in the current study obtain in higher salience elections that attract a broader segment of the Latino population. 4. This demographic information was obtained from the 2000 U.S. Census Bureau by conducting a search for each neighborhood by zip code. 5. For simplicity, we restrict the sample to single-voter households to avoid spillover effects resulting in Stable Unit Treatment Value Assumption (SUTVA) violations that could compromise causal inference. 6. In an earlier version of this manuscript, we inadvertently included participants who were not registered (and therefore ineligible to vote) in the November 2005 election. These cases are now excluded. 7. We remind readers that the experimental randomization took place at the level of the individual voter. 8. We note that rates of successful contact do not differ by experimental condition or across key subgroups. Data available on request. 9. We acknowledge there may be some measurement error associated with this indicator, however it is the best information available at the individual level. The vendor has compiled this information from a variety of sources, and it is commonly used for commercial purposes, and so on. We remind readers that as the experimental samples were assigned at random, the distribution of language dominance, as well as any error associated with the measure we employ, will be
+
+Downloaded from apr.sagepub.com at RUTGERS UNIV on February 27, 2016
+
+660 American Politics Research 39(4)
+randomly and uniformly distributed in our samples (see Table 1 for confirmation). Data on bilingualism was not available. 10. Language dominance has been used as a proxy for acculturation in previous studies (DeFrancesco Soto & Merolla, 2008). We do not dispute these claims but remain largely agnostic about the underlying mechanisms by which language dominance exerts effects. We accept that language dominance may reflect one's degree of acculturation or simply be a language measure. Thus, the mechanism driving differences in language effectiveness may be simply language comprehension or some, deeper psychological process relating to acculturation. 11. Baseline vote propensities are determined from available turnout information in three, recent municipal (2001, 2003, and 2007) and one presidential (2004) general elections. The vote-propensity interaction results we report throughout are meant to be illustrative, depending on available vote history data, but we note the results are substantively robust to alternative cut-points for baseline propensities to vote. Data available on request. 12. One plausible explanation for this finding is that language dominance may be confounded with the propensity to vote. We dismiss this possibility, however, because we find no significant differences in the distribution of language dominance across baseline vote propensities. Fully 27.7% of high-propensity and 27.8% of low-propensity voters are English dominant in our sample (p < .53). Moreover, a three-way interaction to take language dominance and vote propensity into account is insignificant. Data available on request.
+References
+Abrajano, M. (2010). Campaigning to the new American electorate: Advertising to Latino voters. Palo Alto, CA: Stanford University Press.
+Abrajano, M. & Alvarez, R. M. (2010). New faces, new voices: The Hispanic Latino electorate in America. Princeton, NJ: Princeton University Press.
+Angrist, J. D., Imbens, G. W., & Rubin, D. B. (1996, June). Identification of casual effects using instrumental variables. Journal of the American Statistical Association,91, 444-455.
+Arceneaux, K., & Nickerson, D. (2009). Who is mobilized to vote? A re-analysis of eleven field experiments. American Journal of Political Science,53(1), 1-16.
+Barreto, M. (2007). Si Se Puede! Candidates and the mobilization of Latino voters. American Political Science Review,101, 425-441.
+Barreto, M. A., Fraga, L., Luis, R., Manzano, S., Martinez-Ebers, V., & Segura, G. (2008). Should They Dance with the One Who Brung `Em? Latinos and the 2008 Presidential Election. PS: Political Science & Politics, 41: 753-760.
+Barreto, M., Segura, G., & Woods, N. (2004). The mobilizing effect of majority- minority districts on Latino turnout. American Political Science Review,98, 65-75.
+Downloaded from apr.sagepub.com at RUTGERS UNIV on February 27, 2016
+
+Abrajano and Panagopoulos
+
+661
+
+Bedolla, L. G. (2005). Fluid borders: Latino power, identity, and politics in Los Angeles. Berkeley: University of California Press.
+Brader, T. (2006). Campaigning for the hearts and minds: How emotional appeals in political ads work. Chicago, IL: University of Chicago Press.
+Crawford, J. (1992). Language diversity and education. In J. Crawford (Ed.), Language loyalties: A source book on the official English controversy (pp. 171-177). Chicago, IL: University of Chicago Press.
+DeFrancesco Soto, V., & Merolla, J. (2008). Spanish language political advertising and Latino voters. In K. Haynie & J. Junn (Eds.), New race politics: Understanding minority and immigrant voting (pp. 114-129). New York, NY: Cambridge University Press.
+de la Garza, R. O., Abrajano, M., & Cortina, J. (2008). Get me to the polls on time: Latino mobilization and turnout in the 2000 election. In J. Junn & K. Haynie (Ed.), New race politics: Understanding minority and immigrant politics (pp. 95-113). New York, NY: Cambridge University Press.
+Gerber, A., & Green, D. P. (2000). The effects of canvassing, telephone calls, and direct mail on voter turnout: A field experiment. American Political Science Review,94, 653-663.
+Gerber, A., & Green, D. P. (2005, September). Do phone calls increase voter turnout? An update. Annals of the American Academy of Political and Social Science, 601, 142-154.
+Gerber, A. S., Green, D. P., & Larimer, C.W. (2008). Social pressure and voter turnout: Evidence from a large-scale field experiment. American Political Science Review,102(1), 33-48.
+Gosnell, H. (1927). Getting-Out-the-Vote: An Experiment in the Stimulation of Voting. Chicago, IL: University of Chicago Press.
+Green, D. P, Gerber, A., & Nickerson, D. (2003). Getting out the vote in local elections: Results from six door-to-door canvassing experiments. Journal of Politics,65, 1083-1096.
+Green, D. & Gerber, A. (2008). Get Out the Vote! 2nd edition. Washington, DC: Brookings Institution Press.
+Hajnal, Z. L. (2010). America's uneven democracy: Race, turnout, and representation in city politics. New York, NY: Cambridge University Press.
+Isbell, L. M., & Ottati, V. C. (2002). The emotional voter. In V. C. Ottati et al. (Eds.), The social psychology of politics (pp. 55-74). New York, NY: Kluwer.
+Koslow, S., Shamdasani, P. N., & Touchstone, E. (1994). Exploring language effects in ethnic advertising: A sociolinguistic perspective. Journal of Consumer Research,20, 575-585.
+Leighley, J. E. (2001). Strength in numbers? The political mobilization of racial and ethnic minorities. Princeton, NJ: Princeton University Press.
+
+Downloaded from apr.sagepub.com at RUTGERS UNIV on February 27, 2016
+
+662 American Politics Research 39(4)
+Marcus, G., Neuman, W. R., & MacKuen, M. (2000). Affective intelligence and political judgment. Chicago, IL: The University of Chicago Press.
+Michelson, M. R. (2003). Getting out the Latino vote: How door-to-door canvassing influences voter turnout in rural central California. Political Behavior,25(3), 247-263.
+Michelson, M. R. (2005, September). Meeting the challenge of Latino voter mobilization. Annals of the American Academy of Political and Social Science,601, 85-101.
+Michelson, M. R. (2006a). Mobilizing the Latino youth vote: Some experimental results. Social Science Quarterly,87, 1188-1206.
+Michelson, M. R. (2006b). Mobilizing Latino voters for a ballot proposition. Latino(a) Research Review,6,(1-2): 33-49.
+Panagopoulos, C. (2009). Partisan and Nonpartisan message content and voter mobilization. Political Research Quarterly,62(1), 70-76.
+Panagopoulos, C., & Green, D. (In press). Spanish-language radio advertisements and Latino voter turnout in the 2006 congressional elections: Field experiment evidence. Political Research Quarterly.
+Panagopoulos, C., & Green, D. (2008). Field Experiments Testing the Impact of Radio Advertisements on Electoral Competition. American Journal of Political Science, 52, 156-168.
+Pantoja, A., Ramirez, R., & Segura, G. (2001). Citizens by choice, voters by necessity: Patterns in political mobilization by naturalized Latinos. Political Research Quarterly, 54, 729-750.
+Ramirez, R. (2005, September). Giving voice to Latino voters: A field experiment on the effectiveness of a national nonpartisan mobilization effort. Annals of Political and Social Science,601, 66-84.
+Ricourt, M., & Danta, R. (2003). Hispanas De Queens: Latino panethnicity in a New York City neighborhood. Ithaca, NY: Cornell University Press.
+Rosenstone, S. J., & Hansen, M. (1993). Mobilization, participation, and democracy in America. New York, NY: Macmillan.
+Sinclair, B., McConnell, M., & Michelson, M. (2010). Local Canvassing and Social Pressure: The Efficacy of Grassroots Voter Mobilization. Working Paper.
+Shaw, D., de la Garza, R. O., & Lee, J. (2000). Examining Latino turnout in 1996: A three state validated survey approach. American Journal of Political Science, 44, 338-346.
+Valdes, M.I. & Seoane, M.H. (1995). Hispanic Market Handbook. Detroit, MI: Gale Research.
+Verba, S., Schlozman, K. L., & Brady, H. E. (1995). Voice and equality: Civic voluntarism in American politics. Cambridge, MA: Harvard University Press.
+Wolfinger, R. E. (1980). Who votes? New Haven, CT: Yale University Press.
+Downloaded from apr.sagepub.com at RUTGERS UNIV on February 27, 2016
+
+Abrajano and Panagopoulos
+
+663
+
+Bios
+Marisa Abrajano is associate professor of Political Science at the University of California at San Diego.
+Costas Panagopoulos is assistant professor of Political Science and director of the Center for Electoral Politics and Democracy at Fordham University, Bronx, New York.
+
+Downloaded from apr.sagepub.com at RUTGERS UNIV on February 27, 2016
+
+

@@ -1,0 +1,728 @@
+Social Desirability
+
+and the Validity of
+
+Indirect Questioning
+
+ROBERT J. FISHER
+
+Indirect (i.e., structured projective) questioning has been employed frequently in marketing and other social sciences to reduce social desirability bias, that is, systematic error in self-report measures resulting from the desire of respondents to avoid embarrassment and project a favorable image to others. Yet little is known about the validity of indirect questioning in reducing social desirability bias. This article reports on three studies that examine indirect questioning as a technique to reduce social desirability bias on self-report measures. The effects of asking indirect (i.e., structured, projective) questions were compared with direct (i.e., structured, personal) questions. The pattern of results indicates that indirect questioning reduces social desirability bias on variables subject to social influence and has no significant effect on socially neutral variables. The social nature of the differences between direct and indirect questioning groups, and the attribution of an undesirable trait to an out-group but not an in-group target, supports the view that subjects projected their beliefs and evaluations in the indirect response situation. These results are consistent across several product categories and indirect question wordings.
+
+M uch of what we think we know about human behavior comes from self-report measures (Peterson and Kerin 1981). Unfortunately, the basic human tendency to present oneself in the best possible light can significantly distort the information gained from self-reports. Respondents are often unwilling or unable to report accurately on sensitive topics for egodefensive or impression management reasons. The result is data that are systematically biased toward respondents' perceptions of what is "correct" or socially acceptable (Maecoby and Maccoby 1954). This phenomenon is called social desirability bias and has been found to occur in virtually all types of self-report measures and across nearly all social sciences literatures (e.g.. Levy 1981; Peltier and Walsh 1990; Robinette 1991; Simon and Simon 1975; Zerbe and Paulhus 1987).
+Not only is social desirability bias pervasive, but it can lead to the reporting of spurious or misleading research results. Prior studies have found that social desirability bias can attenuate, inflate, or moderate variable relationships (Zerbe and Paulhus 1987); increase measurement error (cf. Cote and Buckley 1988); and
+
+affect variable means (Peterson and Kerin 1981), Research that does not recognize and compensate for social desirability bias may lead to unwarranted theoretical or practical conclusions about consumers' psychological traits (e.g.. Campbell 1950; Peltier and Walsh 1990); purchase motivations (e.g.. Levy 1981); and attitudes, intentions, and behaviors (e.g., Mensch and Kandel 1988).
+An important technique used by researchers to mitigate the effects of social desirability bias is indirect (i.e., structured, projective) questioning.' Indirect questioning is a projective technique that asks subjects or respondents to answer structured questions from the perspective of another person or group (Anderson 1978; Calder and Burnkrant 1977; Robertson and Joselyn 1974). For example, marketing researchers have asked subjects to predict the types of people most likely to eat hot cereal (Westfall. Boyd, and Campbell 1957); to indicate the extent to which "a consumer" would react to reference group influence (Bearden and Etzel 1982; Brinberg and Plimpton 1986; Park and Lessig 1977); to identify the emotional responses of the anonymous author of a story describing a past consumption experience (Havlena and Holbrook 1986); and to state the
+
+*Robert J. Fisher is assistant professor of marketing. School of Business Administration. University of Southern California. Los Angeles. CA. 90089-1421. The author would like to thank Valerie S. Folkes. Jill A. Grace. J. Jeffrey Inman. Kent Nakamoto. Linda L. Price. Dennis W. Rook, and David W. Stewart for comments on earlier versions of this article. The author also benefited from discussions with Stephen J. Hoch and comments by the editor and three reviewers.
+
+'In marketing research the emphasis has been on /istructured projective methods such as thematic apperception tests, sentence completion, and word association (e.g., Levy 1981; Rook 1985; for a review see Kassarjian [1974]). Unlike the structured approach identified here, unstructured metJiods allow subjects much greater freedom in organizing and responding to the projective stimulus. Consequently, unstructured projective questioning is particularly valuable in helping subjects express latent motivations.
+
+303
+
+1993 by JOURNAL OF CONSUMER RESEARCH, Inc. * Vol. 20 * September 1993 All rights reserved. 0093-5301/94/2002-0010$2.00
+
+304
+importance of various attributes in determining the choices of "most people" (Alpert 1971).
+Indirect questioning is thought to reduce the distortion of "private" opinions that are revealed to the researcher by asking respondents to "report on the nature of the external world" rather than about themselves (Westfall et al. 1957. p. 138). It is expected that respondents project their unconscious biases into ambiguous response situations and reveal their own attitudes (Campbell 1950; Holmes 1968; Sherwood 1981). For example, if a respondent predicts that "other people" drink and drive under certain circumstances the answer would be interpreted to mean that the respondent is likely to behave in this manner. Indirect questioning allows respondents to "describe their own feelings behind a facade of impersonality" (Simon and Simon 1975. p. 586).
+Despite good theoretical reasons to believe that indirect questioning compensates for social desirability bias, empirical research on the subject is limited and inconclusive. Only one prior study in marketing has empirically examined the validity of indirect questioning as a technique to reduce social desirability bias. Unfortunately, this study used unstructured indirect measures and structured direct measures, making interpretation ofthe results problematic (see Steele 1964). Other researchers have focused on topics such as the predictive validity of direct versus indirect methods (Alpert 1971) or methodological studies related to the design of projective stimuli (Anderson 1978; Robertson and Joselyn 1974).
+Beyond the lack of empirical verification to support the use of indirect questioning as a means of reducing social desirability bias, the extent to which indirect questioning provides information about the respondent is unclear. Rather than provide insights into the self, indirect questions may actually reveal what respondents predict a "typical other" might do or think (Maccoby and Maccoby 1954). For example, an adolescent might predict that his or her peers will shoplift under certain circumstances on the basis of knowledge of peer shoplifting and not because s/he is likely to shoplift him- or herself. The adolescent's response is an objective judgment that is independent of his or her own intentions and behaviors.
+The objectives ofthe three studies reported here are to evaluate indirect questioning as a means of reducing social desirability bias, to explore the potential for this method to add other forms of systematic error to selfreport measures, and to gain insights into the extent to which indirect questioning reveals information about the self. The following sections develop the research hypotheses, specify the research designs, present the findings, and discuss the results and implications of these experiments.
+STUDY 1
+The effects of questioning method on social desirability bias depend on the constructs under investigation
+
+JOURNAL OF CONSUMER RESEARCH
+and the social expectations perceived by the respondent (Paulhus 1984). On this basis, hypotheses must be developed within a conceptual context that specifies the likely nature and direction of these effects. The present study employs the Miniard and Cohen (1983) model of behavioral intentions for this purpose because it partitions the determinants of behavioral intentions into variables that are likely to be differentially affected by social desirability bias.
+The Miniard and Cohen model specifies that behavioral intentions are a function of individuals' expectations about the personal and normative consequences of undertaking a behavior (see Miniard and Cohen [1983] for more details on this model). The personal component ofthe model is composed of an individual's beliefs about the likelihood that a behavior leads to salient personal outcomes and an evaluation of these outcomes. Salient personal outcomes may be positive or negative and are valued as ends in themselves, that is, they have intrinsic worth to the individual. These consequences are perceived without reference to the visibility of the considered behavior, the subsequent approval or disapproval of referent others, or the extent to which the behavior serves to affiliate one with a social group.
+Social desirability bias is unlikely to distort self-report measures of personal outcomes because this type of outcome is based on internalized values that are independent of social considerations. For example, the purchase of a new compact-disc player might be motivated by personal outcomes related to the durability of the compact disc's recording medium. This product characteristic provides both financial and psychological benefits or outcomes because valued recordings deteriorate less quickly than is the case with other media. The likelihood and importance of these outcomes do not depend on what others might think or do. Accordingly, self-reported personal outcomes should not be affected by social desirability bias because respondents are unlikely to feel threatened or embarrassed about accurately reporting their views. If personal outcomes are independent of social desirability bias, significant differences should not exist between direct and indirect measures of this variable.
+A test ofthe independence of personal outcomes to social expectations is achieved by an examination of the variable's behavior under anonymous and unanonymous response conditions. Removing anonymity increases the pressure on subjects to respond in a socially acceptable manner (cf. Kelman 1961). Given that personal outcomes are socially neutral, the anonymity of the research setting should not affect responses under either direct or indirect questioning. In both cases, subjects are reporting beliefs and evaluations that are independent of social influence.
+The normative component ofthe model is composed of individuals' beliefs about the likelihood a behavior leads to salient social outcomes and an evaluation of
+
+SOCIAL DESIRABILITY BIAS .
+these outcomes. This component reflects the extent to which individuals are motivated by the expectations of another person or group. The individual, by fulfilling (or acting contrary to) the expectations of others, anticipates socially mediated rewards (or punishments). The individual does what a referent wants him or her to do because it is instrumental in achieving a social purpose.
+Social desirability bias is likely to affect self-reported normative outcomes because the pursuit of social approval as a purchase motivation is inconsistent with social norms and expectations. For example, "shopping list" research by Haire (1950) and replications or extensions by others (e.g., Robertson and Joselyn 1974) suggest that consumers are unable or unwilling to express the extent to which they are motivated by social factors. When asked directly, consumption motivations tend to focus on the functional aspects of a product such as taste or gas mileage (Haire 1950). Consumption motivations such as social positioning and the approval of others are revealed only with indirect questioning.
+Research on American values also indicates that the overt pursuit of social approval through consumption is undesirable. Americans consistently assign a low rank to social recognition (the respect and admiration of others) and a high rank to independence as cultural values (Rokeach 1979, p. 133: Rokeach and Ball-Rokeach 1989, p. 778). Of 18 terminal values, social recognition was ranked 17th in 1971 and 18th in 1974 and 1981, while independence was ranked third in all three studies. Given that self-reported values represent culturally desirable ideals (Rokeach 1979), these rankings imply that expressing one's desire for social approval is inappropriate in American culture.
+Accordingly, socially desirable responding behavior should cause normative outcomes to be understated with direct questioning because subjects are inclined to present themselves in a way that is consistent with social expectations. Under indirect questioning, however, subjects are able to disengage themselves from the social implications of their responses, leading to larger estimates of normative beliefs and evaluations. Subjects should most actively engage in impression management when they believe their responses will be used as evidence about themselves and not as objective statements about the "real world."
+The anonymity of the research setting should interact with questioning method to have a differential effect on self-reported normative outcomes. Removal of anonymity should cause subjects answering direct questions to feel greater pressure to make their responses consistent with social expectations. These responses are most likely to have symbolic or communicational properties because they represent the personal thoughts and feelings of the subject on a socially sensitive topic and the responses are visible to others. However, eliminating anonymity is not expected to have the same effect on subjects answering indirect questions because they are
+
+305
+distanced from their responses by the projective method. A summary of study hypotheses related to the effects of questioning method and anonymity on mean scores follows:
+Hla: Method of questioning has no effect on mean personal outcomes because of the social neutrality of this variable.
+, Hlb: Indirect questioning reduces social desirability bias, resulting in higher mean normative outcomes.
+H2a: Anonymity has no effect on mean personal outcomes because of the social neutrality of this variable.
+H2b: Removing anonymity increases social desirability bias, resulting in lower mean normative outcomes under direct questioning.
+Method
+A 2 (questioning method) X 2 (anonymity) betweensubjects experiment was performed to test the hypotheses. A convenience sample of 184 male and female undergraduate students was selected and randomly assigned to the conditions (46 per cell). A student sample was selected because of the widespread study of this population in consumer research on normative influence and other socially sensitive topics. Subjects were contacted within a normal classroom situation and told that the purpose of the study was to generate information to be used in the advertising campaign for a new product targeted at college students. A fictional new product was selected to avoid the influence of prior beliefs on subjects' responses. A pretest indicated the new product, an innovative stereo headphone designed for use with Walkman-type cassette or compact-disc players, was believable and of interest to those in the target market." Moreover, the pretest indicated that students perceived that adoption of the new product had significant social implications because of its visibility and innovative features. To enhance involvement, subjects were shown a mock-up of the new product, a professionally designed brochure layout, and entered in a drawing for three $50 prizes for participating in the study.
+The experimental manipulations took the form of instructions to subjects and question wording.-* In the direct questioning condition, subjects were asked to respond to a series of items in terms of their own beliefs and evaluations. In the indirect questioning condition, subjects were asked to predict the likely responses of "a typical college student." Item wording differed be-
+^The new headphone design was described as similar in size and weight lo those currently used with portable stereo systems, except that the new design does not require wires connecting the headphone set to the player unit.
+'All manipulations and measures are available from the author.
+
+306
+Iween conditions only to the extent that third-person wording was substituted for first-person wording in the indirect condition. For example, the words "the typical college student will . . ." were substituted for "I will . . ." in the indirect condition. The items measuring the constructs of interest were randomly mixed with other items unrelated to this study.
+Anonymity was manipulated with information about the likelihood subjects would be asked to discuss their responses with a researcher after completing the instrument. Subjects in the unanonymous condition were told, "You may be asked to discuss your responses with a researcher when you have finished." In addition, subjects in this condition were asked to include their student identification number on the first page of the instrument. Subjects in the anonymous condition were told. "Your responses are completely anonymous," and they were not asked to include their student identification number.
+Measurement
+After a review of the relevant literatures, 10 items were generated to measure the personal and normative outcome constructs. The items, worded in the first person {i.e., directly), were administered as part of a larger data collection efi'ort to 90 graduate and undergraduate students at another university. Two items were deleted by corrected item-to-total correlations and principal axis factor analysis with varimax rotation. The analyses resulted in eight items measuring the two constructs of interest.
+Measures of the constructs were designed specifically for the student sample and new headphone product. For personal outcomes, a pretest on an unrelated sample indicated that one of the new product's key advantages was the increased freedom of movement it afforded. This attribute was identified by pretest respondents as being intrinsically valued, that is. desirable regardless of the social aspects ofconsumption. Consequently, beliefs and evaluations of personal outcomes were measured with items such as "the new headphones provide more freedom of movement than other headphones." For normative outcomes, subjects were asked to indicate their beliefs and evaluations of statements such as "students I know would have a favorable reaction if I bought one of the new products." The belief components of the outcome variables were measured with seven-point "highly likely" to "not at all likely" scales. The evaluation components were measured with sevenpoint "very important" to "very unimportant" scales. For hypothesis testing, the multi-item scales were summated to form a single indicator of each construct.
+Results
+Measurement. Confirmatory factor analyses were conducted for the individual two-factor models within
+
+JOURNAL OF CONSUMER RESEARCH
+
+TABLE 1 SCALE CHARACTERISTICS: STUDY 1
+
+Group measure
+
+No, Actual
+
+of
+
+scale
+
+Scale
+
+items range mean SD Alpha
+
+Direct {n = 92):
+
+Personal outcomes
+
+4
+
+47-144
+
+109,4
+
+23.2
+
+79
+
+Beliefs only
+
+4 12-24
+
+20,4 2.9 .68
+
+Evaluations only
+
+4 15-24
+
+21.3 2.6 .73
+
+Normative outcomes
+
+4
+
+0-105
+
+36,4 29.6
+
+.91
+
+Beliefs only
+
+4 0-22 12.7 5.8 .91
+
+Evaluations only
+
+4 0-24
+
+9 2 6.4 .92
+
+Indirect {n ^ 92):
+
+Personal outcomes
+
+4
+
+42-144
+
+111.8
+
+27.1
+
+,81
+
+Beliefs only
+
+4 9-24 20.6 3.3 .75
+
+Evaluations only
+
+4 11-24
+
+21.4 2.9 .79
+
+Normative outcomes
+
+4
+
+0-132
+
+65.8 31.6
+
+.89
+
+Beliefs orly
+
+4 5-22 15.9 4.0 .82
+
+Evaluations only
+
+4 0-24 15.3 5.2 ,88
+
+NOTE,--Personal outcomes and normative outcomes were measured as the sum of the product of beliefs (i.e.. "not at all likely" to 'highly likely") and evaluations (i,e., "very unimportant" to "very important'). All scales were scored from zero to six. Higher numbers indicate higher levels of each variable.
+
+the direct and indirect questioning groups. Both models have acceptable internal and external consistency given an overall X" of 34.25 (df^ 19, p = .017) with a goodness-of-fit index (GFI) ^ .92 for the direct group and a X^ of 33.45 {df= 19. p = .021) with a GFI = .92 for the indirect group. The normed-fit index (Bentler and Bonett 1980) indicates that 91 percent of the observedmeasure covariation is explained in each of the measurement models.
+The internal consistency of the measures is supported by three additional tests. First, the scales exhibited good internal consistency with coefficient alphas for personal outcomes of .79 (direct) and .81 (indirect) and fornormative outcomes of .91 (direct) and .89 (indirect). Second, variance-extracted estimates reflect the amount of variance captured by a measure relative to random measurement error (Fornell and Larcker 1981). Ail measures had variance-extracted estimates that approached or exceeded the .50 level with values of .48 (direct) and .53 (indirect) for personal outcomes and .71 (direct) and .66 (indirect) for normative outcomes. Finally, all indicator /-values in the confirmatory factor analysis exceeded 5.0 (p < .001) in both groups. See Table 1 for a summary of scale characteristics.
+Manipulation Checks. Data from the experiment were analyzed with an ANOVA. First, the anonymity manipulation was evaluated via a summated four-item manipulation check on perceived anonymity. Items included "My responses on this survey can be traced back to me" (reverse scored). The manipulation was successful given a significant main effect of the manipulation on perceptions of anonymity (/^( 1,180) ^ 90.42, p< .001) with the anonymous mean {X = 17.17) higher
+
+SOCIAL DESIRABILITY BIAS
+
+307
+
+than the unanonymous mean (X = 10.96). No unin- beliefs and evaluations and the anonymity X question-
+
+tended main or interaction effects were found. Second, ing method interaction only for evaluations. The larger
+
+the anonymity manipulation may have caused subjects effect for the evaluations component suggests it is more
+
+to feel more accountable for their responses than stu- acceptable to predict that others are likely to approve
+
+dents in the unanonymous condition, thus causing subjects in this group to respond more carefully (cf.
+
+of a consumption behavior than it is to indicate that this outcome is important.
+
+Tetlock and Kim 1987). To evaluate this possible con-
+
+found, a summated four-item manipulation check was
+
+used to measure subjects' perceptions about the care Discussion
+
+with which they responded. Items included "1 was care-
+
+ful when I answered the questions on this survey." No
+
+The results of this experiment suggest that indirect
+
+significant effects (/? > .10) were found for anonymity, questioning operates to mitigate social desirability bias
+
+questioning method, or anonymity X questioning method on response care.
+
+and does not systematically affect the means of variables that are independent of social influence. Overall, the pattern of effects implies that subjects projected their
+
+Tests of Hypotheses. Hypothesis la was supported beliefs and evaluations when responding to indirect
+
+with no main effect of questioning method on personal questions. The specific findings of study 1 are discussed
+
+outcomes (F(l,180) ^ .43, NS), with similar means in below.
+
+both the direct {X = 109.4) and indirect (A' = 111.8) conditions. Hypothesis lb was supported with a main effect of questioning method on normative outcomes (F{ 1.180) = 43.15, /J < .01), with the indirect question-
+
+The lack of questioning method and anonymity effects on self-reported personal outcomes is evidence that personal outcomes are independent of social influence and that indirect questioning does not systematically
+
+ing mean (A* = 65.8) higher than the direct questioning bias mean scores of variables of this type. First, the lack
+
+mean {X = 36.4). These two results indicate that subjects of an anonymity effect indicates that subjects* self-re-
+
+made the same evaluations for a socially neutral variable ports of personal outcomes were not influenced by the
+
+across questioning conditions but reported significantly threat of social pressure. This finding is consistent with
+
+lower evaluations for a socially sensitive (undesirable) the asocial nature of personal outcomes and demon-
+
+purchase motivation when asked directly.
+
+strates that subjects were not concerned about the sym-
+
+The lack of a main effect for anonymity on personal outcomes with indirect questioning predicted in Hypothesis 2a was supported (F(M80) = .02, NS), with similar mean scores across the anonymous {X = 110.3) and unanonymous (A' = 110.8) conditions. This result suggests that personal outcomes are independent of social influence because subjects made the same evaluations for themselves as for others, regardless of the anonymity of their responses. Hypothesis 2b stated that a reduction in anonymity will lower mean normative
+
+bolic or communicational aspects of their responses (cf. Miniard and Cohen 1983). Second, subjects made very similar predictions in the direct and indirect questioning groups for personal outcomes. The lack of a main effect for questioning method on personal outcomes suggests that subjects projected their own beliefs and evaluations into the ambiguous response situation. That is, no systematic upward or downward bias resulted from asking subjects to make predictions about typical others as op' posed to making evaluations in the first person.
+
+outcomes only in the direct questioning condition. A
+
+Indirect questioning, by contrast, produces a very dif-
+
+simple-effects test revealed a significant reduction ferent pattern of responses for self- and typical-other
+
+(F( I. i 80) = 3.97, p < .05) in mean normative outcome questions. Mean estimates of normative outcomes var-
+
+scores in the direct questioning condition (.^anonymous ied across questioning-method conditions, and remov-
+
+- 42.7 and .V^n^inonymoas ^ 30.1), but not in the in- ing response anonymity lowered mean normative out-
+
+direct questioning condition (JC^^^nymous ^ 61.1 and comes with direct questioning. The main effect of
+
+Vunanonymous = 70.5). These differences were also re- questioning method on normative outcomes combined
+
+flected in a significant anonymity X questioning method interaction (/*( 1,180) ^ 6.04, p < .05). There was no main effect of anonymity on normative outcomes (F( 1,180) = . 13, NS), with similar means across the anonymous {X = 51.9) and unanonymous (A" = 50.3) conditions. These results indicate the social sensitivity of normative outcomes given the lower mean scores that occurred in the unanonymous, direct cell. The results are summarized in Table 2 and Figure 1. Table 2 also includes the effects of the manipulations on the individual beWei' and evaluation components of the outcome variables. In terms of the individual components. Table 2 reveals significant effects for questioning method on normative
+
+with the absence of a main eflect for personal outcomes implies that social desirability bias is operating on selfreported normative outcomes. The sociai nature of the effect is evidence that the results are not due to global variations in how subjects evaluated these outcomes for themselves and others. If subjects simply make different self- versus other predictions, mean differences should result for both personal and normative outcomes across questioning methods. The significantly lower normative outcome mean in the unanonymous. direct questioning cell supports this interpretation because removing anonymity only affected the mean of the socially sensitive variable. Subjects evidently felt the need
+
+308 JOURNAL OF CONSUMER RESEARCH
+
+TABLE 2 ANQVA RESULTS: STUDY 1
+
+Means
+
+Measure and source
+
+Sum of df squares
+
+F
+
+Anonymous and direct
+
+Unanonymous and indirect
+
+Personal outcome:
+
+Beliefs X evaluations
+
+Anon
+
+1 13.6 .02
+
+Oues
+
+1
+
+272.7
+
+.43
+
+Anon X ques
+
+1
+
+869.6
+
+1.37
+
+Beliefs only:
+
+Anon
+
+1 .2 .02
+
+Ques
+
+1 2.2 .23
+
+Anon X ques
+
+1 26.6 2.81
+
+Evaluations only:
+
+Anon
+
+1 1.4 .18
+
+Ques
+
+1 .2 .03
+
+Anon X ques
+
+1
+
+.2 .03
+
+Normative outcomes:
+
+Beliefs X evaluations
+
+Anon
+
+1
+
+115.8
+
+.13
+
+Ques
+
+t
+
+39.619.6
+
+43.15"
+
+.18
+
+Anon X ques
+
+1
+
+5,544,0
+
+6.04-
+
+.02
+
+Beliefs only:
+
+Anon
+
+1 1.6 .06
+
+Ques
+
+1
+
+453.9
+
+18.30"
+
+.09
+
+Anon X ques
+
+1 35.7 1.44
+
+Evaluations only:
+
+Anon
+
+1 52 2 1.62
+
+Ques
+
+1
+
+1,704.4
+
+52.77-
+
+.21
+
+Anon X ques
+
+1
+
+244.3
+
+7.56"
+
+.03
+
+110.3 109.4
+20.5 20,4
+21.3 21.3
+51.9 36.4
+14.2 12.7
+12.8 9,2
+
+110.8 111.8
+20.4 20.6
+21.4 21.4
+' *"
+* 'I
+50.3 65,8
+14.4 15.9
+11.7 15.3
+
+NOTE.--n = 184 for Study 1. The independent variables are the djchotomous manipulations while the dependent variables are the continuous manipulatjon checks.
+
+Anon, manipulated anonymity: ques, manipulated questioning method. Although the hypotheses relate to the overall personal outcome and normative outcome
+
+variables, the effects of the manipulations on the individual belief and evaluation components are included to provide additional detail.
+
+*p < .05.
+
+"p < .01.
+
+''
+
+to manage their responses when answering directly worded questions on a socially sensitive variable in an unanonymous situation.
+STUDY 2
+A second experiment was designed to investigate the effects of indirect questioning on the relationships between personal and normative outcomes and intentions. This study was undertaken for two reasons. First, many consumer researchers on socially sensitive topics are interested in structural orassociational evidence rather than mean scores {e.g., Alpert 1971; Fishbein and Ajzen 1975). This investigation could not be carried out in study 1 because a Box's M-test revealed significant differences in the covariance matrices across anonymity conditions within the indirect group (X" ^ 13.67, df = 3, /? < .01). As a consequence, it would be inappropriate to pool the anonymous and unanonymous covariance matrices within each questioning group. Second, it is desirable to establish the reliability of the key findings of study 1 through a partial replication.
+
+Consistent with study I, social desirability bias should differentially affect variables that are neutral and sensitive to social influence. Again using the Miniard and Cohen (1983) model of behavioral intentions, the relationship between personal outcomes and intentions is expected to be unaffected by questioning method. Subjects should not be motivated to "manage" the relationship between persona! outcomes and intentions because their responses are independent of social expectations. In the present context, there appear to be no relevant norms governing beliefs and evaluations of the freedom of movement offered by the new headphones. No differences should exist in the relationship between personal outcomes and intentions across questioning methods.
+The estimated effect of normative outcomes on intentions, however, should be attenuated by social desirability bias when direct questioning is used. Subjects may consciously or unconsciously engage in image management by distorting the association between their normative outcome and intention scores. For example,
+
+SOCIAL DESIRABILITY BIAS
+FIGURE 1 PERSONAL AND NORMATIVE OUTCOME BY OUESTIONING METHOD AND ANONYMITY
+
+Anonymity
+
+150140130-
+'ersonai Outcomes n o -
+100-
+90BO7060-
+
+Indirect
+0* -- = = 2 Direct
+I Yes No
+Anonymity
+
+subjects may lower normative outcome scores when intentions are high to avoid giving the impression they are motivated by social approval. The relationship between normative outcomes and intentions is suppressed because social desirability bias adds systematic variance to the normative outcome variable that is unrelated to behavioral intentions (cf. Conger 1974). Formally,
+H3a: The association between persona! outcomes and intentions is the same with direct and indirect questioning because the variance common to these variables is not subject to social desirability bias.
+H3b: Indirect questioning removes social desirability variance from normative outcomes, resulting in a stronger association between normative outcomes and intentions under this form of questioning.
+Method
+A two-group experiment was conducted in which the single factor was questioning method. Data collection procedures, the new product example, and the manipulation of questioning method remained the same as in study 1. Male and female undergraduate students were randomly assigned to either the direct {u = 170) or indirect (n = 182) groups. This sample was drawn from a different university than that of study 1.
+Measurement
+Measures of persona! and normative outcomes were the same as those used in study 1. Intentions to adopt
+
+early were measured with one indicator composed of the summation of four self-report items. The four-item directly worded scale included items such as "I will probably purchase one ofthe new products soon after they are on the market," measured on a seven-point "strongly agree" to "strongly disagree" scale. The indirect scale asked subjects to respond in terms of the typical student. The coefficient alphas for this scale were .93 (direct) and .81 (indirect). The means were 13.5 (direct) and 14.9 (indirect).
+Results
+Before testing the formal hypotheses, an analysis of personal and normative outcome mean scores reveals the same pattern of differences between groups found in study 1. Specifically, the means for personal outcomes are not significantly different across the direct and indirect questioning groups (A'dircci = 96.7, .findireci = 101.2, t = 1.5. NS), while the mean for normative outcomes is significantly higher in the indirect group (Xa.tcci = 39.4, X.^direa ^ 63.2, / - 8.72. /J < .001, one-tailed test). As in study I. these results suggest a systematic social desirability effect on normative outcome mean scores with direct questioning.
+Tests of differences in the estimated effects of personal and normative outcomes on intentions in study 2 were undertaken in two ways. First, given differences in the ratio of the standard deviations for the predictor and criterion variables across questioning groups, the appropriate test of differences in the relationship between outcomes and intentions is a comparison of productmoment correlations across subgroups (Arnold 1982). On the basis of Fisher's Z-transformation, Hypothesis
+
+310 JOURNAL OF CONSUMER RESEARCH
+
+3a is supported with no significant difference in the correlation between personal outcomes and intentions across groups (rawca = -432, r.ndirect = -493, z = .77, NS). Hypothesis 3b is supported with a significantly higher correlation between normative outcomes and intentions in the indirect group (rdirea = -269. rindireci ^ -442, z = 1.81, ;? < .05. one-tailed test). Second, an ordinary least squares path analysis model was run for each questioning-method group in which intention to early adopt was regressed on personal and normative outcomes. This analysis was performed to compare the parameter estimates that might result from path-analytic studies under different questioning methods (see Table 3). Congruent with the study's hypotheses, the standardized beta weight for normative outcomes on intentions is higher in the indirect (/? = .332, / = 5.19, p < .001) compared to the direct (^ = .205, t - 2.94, p <.OO1) groups. Additionally, the standardized beta weights for personal outcomes on intentions are highly similar across the indirect (,8 ^ .402, / = 6.30,/?< .001) and direct (^ - .399,/ = 5.73, p < .001) groups.
+Discussion
+Study 2 replicates the mean score results of study 1 with a significantly lower normative outcome mean in the direct condition but no mean difference between groups for personal outcomes. These results provide further evidence of the effect of indirect questioning on variables that are subject to social norms and expectations. Further, subjects appear to make similar predictions for themselves and others about the likelihood and importance of factors that are socially neutral. Together, these results support the view that indirect questioning operates to reduce social desirability bias and has no additional systematic effects on mean scores.
+The results of this study also provide insights into the effects of questioning method on relations between variables that are socially sensitive and those that are socially neutral. First, the absence of differences in the association between personal outcomes and intentions across the direct and indirect groups supports the argument that indirect questioning does not systematically bias relationships between socially neutral variables. The covariation between personal outcomes and intentions was not significantly affected by questioning method. Second, subjects appear to have systematically understated the role of socially undesirable motivations for consumption when questioned directly.
+STUDY 3
+The first objective of study 3 was to examine the robustness of the earlier results across product categories and variations in question wordings. First, the norm against social approval as a behavioral motivation operates at a cultural level and so the tendency to underreport the influence of others should not be product
+
+TABLE 3
+REGRESSION MODELS FOR DIRECT AND INDIRECT GROUPS: STUDY 2
+
+Independent variables
+
+Group
+
+Dependent variable
+
+Personal outcome
+
+Normative outcome
+
+Direct (n = 170) Indirect (n = 182)
+
+INT INT
+
+.399"* .402"*
+
+.205'" .332"*
+
+NOTE,--Abbreviation as follows: INT, Intentions. -- p < .001,
+
+specific. The effects observed in studies 1 and 2 for a functional innovation (i.e., the new headphone product) are therefore likely to exist for more expressive products such as clothing and music. Second, the reluctance to express one's desire for the approval and recognition of others should not depend on the source of influence (i.e., referent). Although it is perhaps more socially acceptable to seek approval from family members, friends, or co-workers than from "others in general," it is still contrary to a favorable representation of the self. Formally,
+H4: Social desirability bias operates to reduce direct questioning estimates of the importance of social approval across both (a) product categories and (h) influence sources.
+The second objective of study 3 was to evaluate the extent to which classical projection theory is able to explain the results of the first two studies. Classical projection occurs when the individual denies possessing a negative trait that is projected toward an out-group rather than in-group target (Sherwood 1981). The individual distances himself or herself from the undesirable trait by attributing it to those who are socially distant rather than to the self or similar others. Results of the first two studies are consistent with a classic projection interpretation insofar as subjects understated (i.e., denied) the importance of social approval for themselves and assigned significantly higher importance levels to a typical other. Nevertheless, a complete test of the classical projection hypothesis requires that subjects not only attribute higher levels of social approval as a purchase motivation to an out-group target but also deny the importance of social approval for an ingroup target. Formally,
+H5: Compared to self-ratings of the importance of social approval as a consumption motivation, subjects will predict that it is (a) more important to an out-group target and (h) of equal importance to an in-group target.
+Method
+A pretest was undertaken to identify expressive products that would be widely accessible within the stu-
+
+SOCIAL DESIRABILITY BIAS
+
+311
+
+dent population. Twelve undergraduate students were asked to rate the importance of social approval in the brand decisions for a list of 25 products thought to be relevant to this population. The five products with the highest mean scores on a zero-to-six scale anchored by "purchases influenced only by self" and "purchases influenced only by others'^ were selected for inclusion in the main experiment. The five product categories were athletic shoes, spring-break vacation destination, music, hairstyle, and cologne/perfume.
+A convenience sample of 75 male and female undergraduate students were randomly assigned to one of three groups (from 24 to 26 per group) that differed only in the source of influence identified in the questions. Subjects in groups 1, 2, and 3 answered questions that identified the source of influence as others, friends, and their best friend, respectively. Subjects \yilhin each group provided evaluations of the importance of social approval for themselves, their best friend, and the typical student in the purchase of each of the five products idenlitied in the pretest. For example, the following three question stems were used in group 1:
+"It's very important TO ME that OTHERS approve of . . ." "It's very important TO MY BEST FRIEND that OTHERS approve of . . ." "It's very important TO THE TYPICAL STUDENT that OTHERS approve of . . ."
+Questions were randomized within the groups to avoid order bias.
+Measurement
+Items for the five expressive products were summed to form a single indicator of the importance of social influence for expressive products to simplify the presentation of the results and provide more reliable measures."* Scale characteristics are presented in Table 4. As indicated, the internal consistency of the scales is acceptable given that all alphas exceed .70 with only one exception (.67).
+The tendency to respond in a socially desirable manner was measured with Reynolds's (1982) short form of the Marlowe-Crowne social desirability scale. The scale comprises 13 culturally approved behaviors (five worded positively and eight worded negatively) that have a low probability of occurrence. The scale is ad-
+^This approach dratnatically reduces the number of significance tests but does not materially affect the overall results. Spiecifically, using summated scales reduced the number of Ntests from 30 to six and the number of associational tests from 45 to nine. Nevertheless, the mean and associational results using summated scales are consistent with the individual results. For the mean contrasts, 29 of 30 individual tests were consistent with the results reported for the summated scales. Of the nine associational tests, five results held for all five products, two for four of five products, and two for three of five products. Individual test results are available from the author.
+
+TABLE 4 SCALE CHARACTERISTICS: STUDY 3
+
+No. Actual
+
+Source of influence of scale Scale
+
+and measure
+
+items range mean SD Alpha
+
+Others {n = 25):
+
+SELF BEST
+
+5 0-24 13.0 6.4 5 2-25 12.8 6.1
+
+.67 .72
+
+TS
+
+5 9-30 21.7 5.6
+
+,85
+
+Friends (n = 26):
+
+SELF
+
+5 1-22 9.6 5.9
+
+.78
+
+BEST
+
+5 0-26 10.7 7.1
+
+.82
+
+TS
+
+S 6-30 17.8 6.9
+
+.73
+
+Best friend (n = 24):
+
+SELF BEST
+
+5 0-20 10.8 6.5 5 0-20 11.3 6.4
+
+.78
+.82
+
+TS
+
+5 0-27 17.5 6.3
+
+.73
+
+Overall (n = 75):
+
+SDR 13 0-11 4.49 2.78 .69
+
+NOTE.--Abbreviations are as follows: SELF, predictions about self; BEST, predictions about biest friend: TS, predictions about typical student: SDR, the tendency to respond in a soctally desirat>le manner as measursd by the MarloweCrowne short form.
+
+ministered in a true or false format, and a high score on the scale indicates the subject's tendency to present himself or herself in a socially favorable manner. Scale characteristics are consistent with prior studies (e.g., Reynolds 1982; see Table 4).
+Results
+An examination of mean scores for the importance of social approval in the purchase of expressive products reveals the same pattern of results as studies I and 2. Specifically, subjects consistently indicated that the typical student is more motivated by social approval in consumption behavior than they are themselves. Through dependent /-tests, this difference was found when the source of influence was others (A's^f = 13.0, -^typical studeni = 21.7, / = 5.11, /? < .001); friends {A'^cif = 9.8, X,,pie,u,,den. = 17._8, t = 5.47, p < Mi): and best friend (X^^K = 10.8. -V,ypjeaismdcm = 17.5, / - 5.36, p< .001). The results for the three groups are also clear when the projective target was the subject's best friend. Predictions for the best friend were not significantly different from the means for the self when the source of influence was others (X^^ij = 13.0, Xbejifnend = 12.8, t = -.26, p > . 10); friends (^,eif = 9-8, X^,, u,.r.A_= 10.7, t = .86, p > .10); and best (ncnd {X^^it = 10.8, Xbesi friend = 11.3,/ = .61,/?> .10).
+The effects of social desirability bias on self-reports and predictions about others were evaluated by regressing the direct and indirect scales on the tendency to respond in a socially desirable manner. All hypotheses were directional, and thus all relational tests are onetailed. As summarized in Table 5, response tendency was significantly associated with direct questions on so-
+
+312
+
+TABLE 5
+EFFECTS OF SOCIAL DESIRABILITY BIAS ON PREDICTIONS ABOUT SELF, BEST FRIEND,
+AND TYPICAL OTHER: STUDY 3
+
+Source of influence and dependent variable
+
+Independent variable (SDR)
+
+Others {n = 25): SELF BEST TS
+Friends {n = 26): SELF BEST
+TS Best friend (n = 24):
+SELF BEST TS
+
+.37.49' .10
+.32* .34* .16
+.47' .10 .06
+
+NOTE.--Abbreviations are as follows: SELF, predictions about self; BEST, predictions about best friend; TS, predictions about typical student; SDR, the tendency to respond in a soaally desiraWe manner as measured by the MarloweGrowne short form.
+"p < .05 (one-tailed test). "p < .01 (one-tailed test).
+
+cial approval tnotives when the source of influence was others(/3 = -.37, / = -1.91, p < .05); friends (/3 - -.32, t = -\.68,p < .05); and best friend (/3 = -.47. / - -2.51, p < .01). No significant association was found between the tendency to respond in a socially desirable manner and the indirect measures when the predictive target was the typical student and the source of influence was others ()3 = .10,/ = .47, ;? > .10); friends ()3 = -.16, f = -.80, p > .10); and best friend {0 = --06, / = -.27, p> .10). The results are less straightforward when the predictive target was the subject's best friend, with a significant relationship when the source of influence was others (^ = -.49, / = -2.74, p < .01) and friends {0 = -.34, t = -1.78, p < .05) but not best friend ((3 = -.10,/ = -.46, p> .10).
+Overall, the results support the hypotheses. For Hypothesis 4a. the pattern of effects for direct and typical student indirect questions is the same as was found in thefirsttwo studies for a functional innovation. Subjects in all three groups indicated that social approval for expressive products was more important for the typical student than for themselves. Also, the tendency to respond in a socially desirable manner was significant for ail direct questions and nonsignificant for all indirect questions in which the typical student was the projective target. Hypothesis 4b is supported because the mean and structural results supporting Hypothesis 4a were consistent across all three sources of influence, namely, others, friends, and best friend. Hypothesis 5a is supported with a significantly higher mean importance rating for the out-group rating compared to the self-rating. Finally, Hypothesis 5b is supported given no significant
+
+JOURNAL OF CONSUMER RESEARCH
+difference in the mean importance of social approval between self and best friend reports. The combination of the results of Hypothesis 5a and 5b suggests that subjects engaged in classical projection when making predictions about a typical other.
+Discussion
+Study 3 reveals a pattern of results similar to that found in studies I and 2 for mean scores on the importance of social approval as a consumption motive. Individuals consistently evaluated themselves as less motivated by social approval than typical others. Considering all three studies, the mean results are comparable across influence sources (i.e., others, friends, and best friend), between- and within-subject designs, and product categories. The results suggest predictable mean differences between direct and indirect questions for socially sensitive variables and no differences for socially neutral variables.
+The associationai tests in study 3 support the above interpretation. First, the tendency to respond in a socially desirable manner was significantly associated with direct measures of the influence of others, friends, and best friend. In each case the inclination to bias responses toward social norms resulted in lower self-reports of social approval as a purchase motive. Second, response tendency was not significantly associated with predictions about the importance of social approval for the typical student, regardless of the source of influence.
+Analysis of the mean scores and social desirability effects on indirect questions in which the predictive target was the subject's best friend suggests that the responses were affected by social desirability bias in the same direction and degree as direct questions. First, no differences were found in the mean scores between selfand best friend predictions across the three influence sources. Second, the tendency to respond in a socially desirable manner was found to have a significant negative effect on best friend predictions when the source of influence was others and friends. These findings support the proposition that subjects engaged in classical projection by denying an undesirable trait in themselves and their best friend but attributing it to a socially distant other.
+The one inconsistency in study 3 results is the finding of no significant effect of response tendency on best friend predictions when the source of influence was the best friend's best friend. This result may have occurred because of the unique nature of the prediction required for this question. To simplify the indirect wording it was assumed that the best friend's best friend was the subject. On this basis, the question stem was "It's very important to MY BEST FRIEND that / approve of . . ." The anomalous finding may have occurred because the social norms governing the subject's influence over his or her best friend are different than the norms affecting other influence sources. Specifically, it
+
+SOCIAL DESIRABILITY BIAS
+may be more acceptable for you to influence your best friend than vice versa.
+OVERALL DISCUSSION
+Overall, it appears that indirect questions can be constructed that are not significantly affected by social desirability bias. All three studies produced results consistent with the theory underlying indirect questioning. First, responses to indirect questions in which the projective target is a typical other appear to reflect the self as predicted by classical projection theory. Studies 1 and 2 found that subjects made systematically different predictions for themselves and typical others for the socially sensitive variable but not for the socially neutral variable. The lack of systematic differences in both variables for self- versus other predictions suggests that the effect is not related to global subject-target differences. Additional support for the projection hypothesis was found in study 3. Consistent with classical projection theory, subjects attributed an undesirable trait to a typical other and denied the trait for themselves and their best friend.
+Second, the research provides some guidance as to the use of indirect questions to measure socially sensitive variables in consumer research. Although they are not a measurement panacea, indirect methods may increase our knowledge of the social context of purchase behaviors when used in conjunction with direct questions. Specifically, using both types of measures should increase our understanding of the significance and direction of social norms governing a behavior. Also, the use of two measurement approaches is consistent with the recent call for multitrait-multimethod (MTMM) matrices in consumer research (Bagozzi and Yi 1991). The MTMM approach enables researchers to partition systematic variance into its trait and nontrait components, providing more rigorous evaluations of construct validity and increasing the reliability of parameter estimates.
+LIMITATIONS AND DIRECTIONS FOR EUTURE RESEARCH
+The three studies reported here are subject to the same limitations as other experimental designs using student samples and cannot be generalized beyond the present context. Social desirability bias may be of varying importance depending on the population under consideration (Park and Lessig 1977). Although the use of a student sample in the present study is appropriate insofar as a large percentage of consumer research is based on student samples, research on other populations would be useful. Moreover, the present study only considers a motivation that is contrary to social norms. It would be worthwhile to investigate the effects of social desirability bias and questioning method on socially acceptable attitudes and behaviors such as charity giving and blood donation.
+
+313
+The social desirability effects found in this study may be much stronger in other research contexts. First, my findings point out that a relatively weak manipulation of anonymity (i.e.. the threat of possible follow-up) can have a significant effect on subjects' perceptions and responses under direct questioning. Face-to-face interviews, focus groups, or even telephone interviews may induce feelings of low anonymity that exert a strong bias on directly worded questions. While more research is needed on this subject, the result implies that academic and applied marketing researchers must be sensitive to this issue in the design and execution of research studies. Second, the subject matter is relatively benign compared with a variety of recent investigations in consumer behavior such as drug use and sexuality, plastic surgery, and adolescent shoplifting. The stronger the social norms governing the topic under investigation,
+the more likely social desirability bias is to occur. The
+combination of unanonymous research settings and socially sensitive topics may be particularly troublesome.
+Additionally, individual differences in subjects' susceptibility to social influence may cause systematic variations in perceived anonymity and the strength of social norms governing a behavior. For example, because drinking and drug use norms are likely to vary by sex within the undergraduate population, research on this topic may find very different results depending on whether a same- or opposite-sex interviewer is used. Also, since susceptibility to social influence decreases with age (Park and Lessig 1977), the bias may vary systematically from juniors to seniors in the undergraduate population. Longitudinal research or designs that use age as a predictor may reach false conclusions because the systematic effects of social desirability bias are exacerbated by the research design.
+Further research is needed to examine the distinction between projection and prediction more closely. Despite the methodological difliculties associated with the task (Holmes 1968). research is needed to distinguish between variance related to the self and variance related to the predictive target in indirect questioning. Also, future research is needed to investigate the impact of factors such as information availability (Davis. Hoch. and Ragsdale 1986). task involvement and accountability (Tetlock and Kim 1987), and explicit instructions to make objective predictions about others.
+CONCLUSION
+The three studies reported here differ significantly from prior research on social desirability bias and indirect questioning. First, the experiments provide a comparison of direct and indirect methods through structured measures that difltr only in wording "directness." Second, the studies incorporate variables that are a priori designated as either socially neutral or sensitive. Third, the studies provide evidence of the effects of social desirability bias on both mean scores and as-
+
+314 JOURNAL OF CONSUMER RESEARCH
+
+sociations between variables. Fourth, the studies provide insights into the generality of effects across product categories, influence sources, and experimental designs. Overall, the research contributes to our understanding of the validity of indirect questioning as a technique for reducing social desirability bias and insights into how consumers make predictions about others.
+[Received August 1992. Revised February 1993.]
+REFERENCES
+Alpert. Mark 1. (1971). "Identification of Determinant Attributes: A Comparison of Methods," Journal of Marketing Re.search. 8 (May). 184-191.
+Anderson. James C. (1978), "The Validity of Haire's Shopping List Projective Technique." Journal of Marketing Research. 15 (November). 644-649.
+Arnold. Hugh J. (1982), "Moderator Variables: A Clarification of Conceptual. Analytic, and Psychometric Issues," Organizational Behavior and Human Performance. 29 (April). 143-174.
+Bagozzi. Richard P. and Youjae Yi (1991), "Multitrait-Multimethod Matrices In Consumer Research." Journal of Consumer Re.search. 17 (March). 426-439.
+Bearden. William O, and Michael J. Etzel (1982). "Reference Group Influence on Product and Brand Purchase Decisions." Journal of Consumer Research. 9 (September). 183-194.
+Bentler. P. M. and Douglas G. Bonett (1980), "Significance Tests and Goodness of Fit in the Analysis of Covariance Structures," Psychological Bulletin. 88 (November), 588606.
+Brinberg. David and Linda Plimpton (1986). "Self-Monitoring and Product Conspicuousness on Reference Group Influence." in Advances in Consutner Reseatch. Vol. 13, ed. Richard J. Lutz. Provo. UT: Association for Consumer Research. 297-300.
+Calder, Bobby J. and Robert E. Burnkrant (1977). "Interpersonal Influence on Consumer Behavior: An Attribution Theory Approach." Journal of Consumer Research. 4 (June). 29-38.
+Campbell, Donald T. (1950). "The Indirect Assessment of Social Attitudes," Psychological Bulletin. 47 (January), 15-38.
+Conger, Anthony J. (1974), "A Revised Definition for Suppressor Variables: A Guide to their Identification and Interpretation." Educational and Psychological Measuretnent. 34 (Spring). 35-46.
+Cote. Joseph A. and M. Ronald Buckley (1988). "Measurement Error and Theory Testing in Consumer Research: An Illustration of the Importance of Construct Validation." Journat of Consumer Research. 14 (March). 579582.
+Davis, Harry L., Stephen J. Hoch. and E. K. Easton Ragsdale (1986), "An Anchoring and Adjustment Model of Spousal Predictions." Journal ofConsumer Research. 13 (June). 25-37.
+Fishbein, Martin and Icek Ajzen (1975), Belief Attitude, Intention, and Behavior. Reading. MA: Addison-Wesley.
+Fornell. Claes and David F. Larcker (1981), "Evaluating Structural Equation Models with Unobservable Variables
+
+and Measurement Error." Journal of Marketitig Re-
+search. 18 (February). 39-50.
+Haire, Mason (1950). "Projective Techniques in Marketing
+Research." Journal of Marketing. 14 (April). 649-656.
+Haviena. William J. and Morris B. Holbrook (1986). "The
+Varieties of Consumption Experience: Comparing Two
+Typologies of Emotion in Consumer Behavior." Journal
+of Consumer Research. 13 (December). 394-404.
+Holmes. David S, (1968), "Dimensions of Projection." Psy-
+chological Bulletin. 69 (April), 248-268.
+Kassarjian, Harold H. (1974), "Projective Methods." in
+Ilatidhook of Marketing Research, ed. Robert Ferber.
+New York: McGraw-Hill, pp. 3-85 to 3-100.
+Kelman. Herbert C. (1961). "Process of Opinion Change."
+Public Opinion Qttarterly. 25 (Spring). 57-78.
+Levy. Sidney J. (1981). "Interpreting Consumer Mythology:
+A Structural Approach to Consumer Behavior," Journal
+of Marketing. 45 (Summer). 49-61.
+Maccoby, Eleanor E. and Nathan Maccoby (1954), "The In-
+terview: A Tool of Social Science." in Handhook ofSocial
+Psychology. Vol. I, ed. Gardiner Lindzey. Cambridge,
+MA: Addison-Wesley. 449-487.
+Mensch. Barbara S. and Denisc B. Kandel (1988), "Underre-
+porting of Substance Use in a National Longitudinal
+Youth Cohort." Public Opinion Quarterly. 52 (Spring).
+100-124.
+Miniard, Paul W. and Joel B. Cohen (1983). "Modeling Per-
+sonal and Normative Influences on Behavior." Journal
+of Consumer Research. 10 (September), 169-180.
+Park. C. Whan and V. Parker Lessig (1977), "Students and
+Housewives: Differences in Susceptibility to Reference
+Group Influence." Journal of Consumer Re.warch. 4
+(September). 102-110.
+Paulhus. Delroy L. (1984), "Two-Component Models of So-
+cially Desirable Responding." Journal of Personality and
+Social Psychology. 46 (March). 598-609.
+Peltier, B. David and James A. Walsh (1990). "An Investigation of Response Bias in the Chapman Scales." Educational and Psychological Measurement. 50 (Winter). 803-815.
+Peterson. Robert A. and Roger A. Kerin(1981). "The Quality of Self-Report Data: Review and Synthesis," in Review of Marketing, ed. Ben M. Enis and Kenneth J. Roering, Chicago: American Marketing Association. 5-20.
+Reynolds. William M. (1982). "Development of Reliable and Valid Short Forms of the Marlowe-Crowne Social Desirability Sca\c." Journal ofClinical Psychology. 38 (January), l'l9-125.
+Robertson. Dan H. and Robert W. Joselyn (1974), "Projective Techniques in Research." Journal of Advertising Re.search. 14 (October). 27-31.
+Robinette, Randy L. (1991). "The Relationship between the Marlowe-Crowne Form C and the Validity Scales of the MMPl," Journal of Clinical Psychology. 47 (May). 396399.
+Rokeaeh. Milton (1979), Understanding Human Values. New York: Free Press.
+and Sandra J. Ball-Rokeach (1989), "Stability and
+Change in American Value Priorities," American Psychologist. 44 (May). 775-784.
+Rook. Dennis (1985). "The Ritual Dimension of Consumer Behavior," Joutnal of Consumer Research. 12 (December), 251-264.
+
+SOCIAL DESIRABILITY BIAS
+
+.
+
+315
+
+Sherwood. Gregory G. (!98I). "Self-serving Biases in Person Perception: A Reexamination of Projection as a Mech- i anism of Defense." Psychological Bulletin, 90 (Novemher). 445-459.
+Simon. Julian and Rita Simon (1975). "The Effect of Money Incentives on Family Size: A Hypothetical-Question Study." Public Opinion Quarterly. 38 (Winter). 585-595.
+Steele. Howard (1964), "On the Validity of Indirect Quesuons.,'" Journal of Marketing Re.search, 2S (Augusi), 46-
+49. Ietlock, Phillip E, and Jae il Kim (1987), "Accountability
+
+and Judgement Processes in a Personality Prediction Task," Journal of Personality and Social Psychology. 52 (April), 700-709. Westfall. Ralph L.. Harper W. Boyd. Jr.. and Donald T. Campbell (1957), "The Use of Structured Techniques in Motivation Research," Journal of Marketing, 22 (Oc-
+tober). 134-139.
+Zerbe. Wilfred J, and Delroy L, Paulhus (1987). "Socially Desirable Responding in Organizational Behavior: A
+Reconception." Academy of Management Review, 12 (April), 250-264.
+
+View publication stats
+
+

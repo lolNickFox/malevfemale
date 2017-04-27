@@ -1,0 +1,318 @@
+. . . . . Alcohol Use . . . . .
+
+Rural, Suburban, and Urban Variations in Alcohol Consumption in the United States: Findings From the National Epidemiologic Survey on Alcohol and Related Conditions
+Tyrone F. Borders, PhD;1 and Brenda M. Booth, PhD2,3
+
+ABSTRACT: Context: Alcohol consumption is a major public health problem nationally, but little research has investigated drinking patterns by rurality of residence. Purpose: To describe the prevalence of abstinence, alcohol use disorders, and risky drinking in rural, suburban, and urban areas of the United States. Methods: Analyses of the 2001-2002 National Epidemiologic Survey on Alcohol and Related Conditions (NESARC) were conducted to estimate prevalence rates for abstinence, a current alcohol use disorder, and exceeding recommended daily and weekly drinking limits. Logistic regression analyses were conducted to test for rural and urban versus suburban differences after adjusting for potential confounders. Additional analyses were stratified by Census Region. Findings: Nationally, the odds of abstinence and, among drinkers, the odds of a current alcohol disorder and exceeding daily limits were higher in rural than suburban areas. Stratified analyses revealed differences in the associations between rurality of residence and drinking across Census Regions. Rural residents of the Northeast, Midwest, and South and urban residents of the Northeast had higher odds of abstinence than their suburban peers. Among drinkers, rural and urban residents of the Midwest had higher odds of a current alcohol disorder and exceeding daily limits; urban residents of the Midwest had higher odds of exceeding weekly limits. Conclusions: Abstinence is particularly common in the rural South, whereas alcohol disorders and excessive drinking are more problematic in the urban and rural Midwest. Health policies and interventions should be further targeted toward those places with higher risks of problem drinking.
+E xcessive alcohol consumption remains a substantial public health concern in the United States. According to estimates from the National Institute on Alcohol Abuse and Alcoholism (NIAAA), 8.4% of the adult population has a psychiatric classification of an alcohol
+
+abuse or dependence disorder1 and many more persons exceed low-risk drinking guidelines.2 In response to concerns about risky drinking, Healthy People 2010 included a goal of decreasing the proportion of the population exceeding low-risk drinking limits.3 However, a recent study comparing historical data from two national alcohol epidemiology surveys showed that risky drinking declined very little between 1991-1992 and 2001-2002, leading the investigators to recommend more selective targeting of prevention programs.2 Because resources and programs are frequently allocated according to the distribution of health problems across geographic strata, additional research which compares and contrasts drinking patterns in rural, suburban, and urban areas is greatly needed.
+Very little research to date has examined alcohol consumption by rurality of residence. A 1990 study by Midanik and Clark found that abstinence was more common in nonmetropolitan as compared to metropolitan areas.4 The 1991-1992 National Longitudinal Alcohol Epidemiologic Survey (NLAES)
+1Department of Health Policy and Management, Fay W. Boozman College of Public Health, University of Arkansas for Medical Sciences, Little Rock, Ark. 2Division of Health Services Research, Department of Psychiatry, College of Medicine, University of Arkansas for Medical Sciences, Little Rock, Ark. 3VA HSR&D Center for Mental Healthcare Outcomes and Effectiveness, Central Arkansas Veterans Healthcare System, Little Rock, Ark.
+For further information, contact: Tyrone F. Borders, PhD, Department of Health Policy and Management, Fay W. Boozman College of Public Health, University of Arkansas for Medical Sciences, 4301 W. Markham St., #820, Little Rock, AR 72205; e-mail tfborders@uams.edu.
+
+C 2007 National Rural Health Association
+
+314
+
+Fall 2007
+
+. . . . . Alcohol Use . . . . .
+
+showed that rural residents had significantly lower odds of drinking and that rural drinkers had lower average daily ethanol intake than their urban counterparts.5 More recently, a population-based study conducted in six Southern states found that rural residents had lower odds of current drinking and problem drinking than urban residents.6 Based on these comparisons between rural and urban areas, one might conclude that rural residents have favorable drinking behaviors. However, a simple rural versus urban comparison may fail to distinguish important disparities between rural and suburban areas, which have traditionally been included in urban classifications.7-9 The Urban and Rural Health Chartbook, United States, 2001 reported that unconditional binge drinking rates (the proportion of the entire population consuming 5 or more drinks in a single day) were lowest in the most urban and rural places.7,8 However, because unconditional risky drinking rates are attenuated by the proportion of the population that abstains, a different conclusion is reached when comparing conditional drinking indicators. Findings from the 1991-1992 NLAES demonstrated that abstinence was more common in urban and rural as compared to suburban areas, but that urban and rural drinkers drank more heavily than their suburban peers.5
+In addition to incorporating suburban classifications, some rural health scholars have argued for more regionally focused research, citing the heterogeneity of cultural norms, health system characteristics, and the physical environment characterizing different rural areas of the United States.9,10 A small number of prior studies have examined drinking patterns across regions of the United States, but did not distinguish rural and urban areas.4,5,11,12 Room found that per drinker consumption was higher in areas with higher abstinence rates, which he characterized as "drier" areas.11 Hilton later updated Room's analyses, showing that drier regions had higher per capita consumption.12 More contemporary estimates from the 1991-1992 NLAES indicated that the South Census Region had the highest abstinence rate.5
+For this report, data from a nationally representative survey, the 2001-2002 National Epidemiologic Survey on Alcohol and Related Conditions (NESARC), were analyzed to test for variations in alcohol consumption between residents of rural, suburban, and urban areas. Based on past findings from the NESARC's predecessor, the 1991-1992 NLAES,5 we hypothesized that suburban residents would be more likely to drink than their rural and urban counterparts but that, among drinkers, those residing in rural and urban areas would be more likely
+
+to consume alcohol at excessive levels. We also hypothesized that rural, suburban, and urban differences in alcohol use would vary across the Census Regions of the United States, with the rural South having particularly higher odds of abstinence. The findings have implications for more effective diffusion of policies and programs aimed at promoting safe alcohol consumption.
+Methodology
+Data. The data source was the 2001-2002 NESARC, a nationally representative in-person survey of alcohol and drug use and related psychiatric disorders conducted by NIAAA. Detailed information about its sample design is available in other publications.13,14 Briefly, the sample was comprised of non-institutionalized Americans age 18 years and older, including persons living in households, boarding houses, non-transient hotels and motels, shelters, and group homes. The survey involved a complex, multistage sample design that over-sampled blacks, Hispanics, and adults ages 18-24 years. Interviews were conducted among a total of 43,093 persons, with an overall response rate of 81%.
+Alcohol Measures. From the numerous alcohol-related items in the NESARC, we selected measures of abstinence as well as indicators of serious (a past year alcohol use disorder) and low-risk drinking (exceeding recommended daily and weekly drinking limits). Abstinence was defined as not drinking any alcohol in the past year; we further classified abstinence according to lifetime and past year abstinence (former drinkers who did not consume alcohol in the past year). A recent alcohol use disorder was defined as having an alcohol dependence and/or abuse disorder in the past 12 months. Diagnoses of alcohol abuse and dependence were obtained in the NESARC via administration of the Alcohol Use Disorder and Associated Disabilities Interview Schedule (AUDADIS-IV), a structured interview which yields psychiatric diagnoses corresponding to Diagnostic and Statistical Manual of Mental Disorders, 4th Edition (DSM-IV) criteria.15-19 Exceeding low-risk daily drinking limits, or binge drinking, in the past year was defined according to NIAAA recommendations that men consume no more than 4 and women no more than 3 drinks on a single occasion.20 Consumption of alcohol beyond these daily limits impairs cognition21 and increases the risk of developing an alcohol disorder.22,23 Exceeding low-risk weekly drinking limits, or heavy drinking, in the past year was defined according to NIAAA recommendations which state that men should
+
+Borders and Booth
+
+315
+
+Fall 2007
+
+. . . . . Alcohol Use . . . . .
+
+consume no more than 13 drinks and women consume no more than 6 drinks in a typical week.20 The number of drinks consumed per week was based on average daily ethanol intake, which the NESARC calculated as a function of the quantity and frequency of consuming each beverage type (beer, wine, coolers, and distilled spirits) and estimates of the ethanol content per drink.2,24 Some persons may not exceed the daily drinking limit, but could drink enough drinks over the course of 1 week to be counted as exceeding the weekly limit, which has also been shown to increase the risk of an alcohol disorder.23
+Rurality of Residence. Urban versus rural residence is frequently defined by residence within versus outside a metropolitan statistical area (MSA), a county or group of adjacent and economically linked counties that has at least one urbanized area with a population of 50,000 or more.25 All areas within the MSA are considered urban and all others rural. The 2001-2002 NESARC includes a more detailed categorization of metropolitan central city (residence in the central city comprising an MSA), metropolitan non-central city (residence outside of the central city but within an MSA), and nonmetropolitan (residence outside of an MSA). We refer to these areas throughout the paper as urban, suburban, and rural.
+Analysis. The SAS-callable SUDAAN software package (RTI International, Research Triangle Park, NC) was used for all analyses to account for the NESARC's complex, multistage sampling design.26 Chi-square analyses were conducted to test for differences in unadjusted prevalence rates for abstinence (all abstainers, lifetime abstainers, and past year abstainers), an alcohol use disorder, exceeding daily limits, and exceeding weekly limits across urban, suburban, and rural areas. Multiple logistic regression analyses were conducted to test for suburban versus rural and urban differences in the odds of abstinence and, among drinkers, the odds of risky drinking while controlling for age, sex, race/ethnicity, marital status, educational level, and Census Region, all of which have been shown in prior research to be correlated with alcohol use.27,28
+Additional analyses were conducted to determine if the rural, suburban, and urban drinking patterns differed across Census Regions within the United States. The US Census Bureau defines Census Regions for the purposes of describing contiguous and economically connected states.29 The four regions are the Northeast, Midwest, South, and the West, which was arbitrarily chosen as the comparison region in our analyses. Each region includes at least 2 Census
+
+Divisions of contiguous and economically connected states. We chose to stratify our analyses by Census Region, as opposed to the smaller Census Divisions, for the sake of brevity and because the former classification allows for more direct comparisons to prior studies of drinking patterns5 and rural health.7
+Results
+Respondent Characteristics. A majority (50.8%) resided in suburban areas, while 29.5% and 19.7% resided in urban and rural areas, respectively. The sample distribution by Census Region was as follows: Northeast, 19.7%; Midwest, 23.2%; South, 35.2%; and West, 22%. Because the NESARC is nationally representative, the age (mean 45.24 years), gender (47.9% male), race/ethnicity (70.9% white, 11.1% black, 11.6% Hispanic, 2.1% Native American/Indian, and 4.4% Asian), marital status (20.9% single, 58.2% married, 3.4% living with partner, 6.5% widowed, 8.8% divorced, and 2.1% separated), and educational attainment (6.2% < high school, 9.5% some high school, 29.3% high school, 30.1% some college, 16.8% college, and 8.1% graduate school) characteristics reflect those of the US population age 18 years and older.
+Prevalence of Abstinence. Table 1 displays the prevalence of abstinence (lifetime/past year abstinence) as well as the prevalence of lifetime and past year abstinence by urban, suburban, and rural residence. Nationally, lifetime/past year abstinence rates varied significantly (P < .00001) and were lower in suburban (31.3%) as compared to urban (35.4%) and rural (41.7%) areas. The percentages who were lifetime abstainers as compared to former drinkers varied by place of residence in a similar fashion, with suburban areas having lower rates of lifetime and past year abstinence than urban and rural areas. Rural, suburban, and urban drinking patterns differed by Census Region. The rural South and suburban Northeast had notably high and low lifetime/past year abstinence rates (52.06 and 23.98%, respectively). Other differences in the prevalence of lifetime abstinence as compared to former drinking emerged. In the rural Northeast, Midwest, and West, abstainers tended to be former drinkers. In the rural South, abstainers tended to be lifetime abstainers.
+Prevalence of Alcohol Disorders and Risky Drinking. As shown in Table 2, we estimated unconditional prevalence rates (proportions among the entire population) and conditional prevalence rates (proportions among drinkers) for a current alcohol use disorder, exceeding recommended daily drinking
+
+The Journal of Rural Health
+
+316
+
+Vol. 23, No. 4
+
+. . . . . Alcohol Use . . . . .
+
+Table 1. Prevalence of Abstinence by Urban, Suburban, and Rural Residence
+
+Nation Urban Suburban Rural
+Census Region Northeast Urban Suburban Rural
+Midwest Urban Suburban Rural
+South Urban Suburban Rural
+West Urban Suburban Rural
+
+Lifetime/ Past Year Abstinence
+%
+35.40 31.32 41.65
+38.95 23.98 29.36
+29.68 27.53 35.05
+36.56 37.88 52.06
+35.84 32.65 33.24
+
+Lifetime Abstinence
+%
+19.34 15.36 19.11
+24.63 10.29
+9.21
+12.30 11.17 13.36
+19.88 19.88 27.51
+20.23 17.87 13.15
+
+Past Year Abstinence (Former Drinker)
+%
+16.06 15.96 22.54
+14.32 13.69 20.14
+17.37 16.36 21.69
+16.68 17.99 24.55
+15.61 14.78 20.09
+
+P < .0001; P < .001; P < .01; P < .05.
+
+limits, and exceeding recommended weekly drinking limits. Among the entire population nationally, the prevalence of exceeding weekly limits varied significantly (P < .05), with suburban areas having a lower prevalence (14.6%) than urban (16.0%) and rural (16.6%) areas. Within the Midwest, alcohol use disorder rates differed significantly (P < .05), with suburban areas having a lower prevalence (9.3%) than urban (12.4%) and rural (11.0%) areas; exceeding weekly limits also varied significantly (P < .05), with suburban areas again having a lower prevalence (12.7%) than urban (17.5%) and rural (15.4%) areas. Within the South, there was a different trend (P < .001), as rural areas had a lower prevalence of exceeding daily limits (17.3%) than urban (23.0%) and suburban (21.7%) places.
+We found greater urban, suburban, and rural variations in conditional prevalence rates, or rates among drinkers. Although abstinence was more common in urban and rural areas nationally, the prevalence of a current alcohol disorder among drinkers varied significantly (P < .001), with suburban areas having a lower prevalence (11.6%) than urban (14.0%) and rural (15.1%) areas. A similar trend was found for exceeding daily limits, as the prevalence
+
+varied significantly (P < .0001) between suburban (34.5%), urban (37.4%), and rural (40.0%) areas. The prevalence of exceeding weekly limits varied significantly (P < .05) in a similar fashion between suburban (14.9%), urban (17.1%), and rural (16.7%) areas.
+Among drinkers in the Northeast, the prevalence of exceeding daily limits differed significantly (P < .05) and was lower in suburban (32.12%) as compared to urban (35.5%) and rural (38.8%) areas. Among drinkers in the Midwest, the prevalence of a current alcohol disorder varied significantly (P < .01) and again was lower in suburban (12.8%) than urban (16.9%) and rural (17.7%) areas. Moreover, the prevalence of exceeding daily limits differed significantly (P < .01) in a similar fashion and was lower in suburban (36.8%) than urban (41.9%) and rural (44.0%) areas. The prevalence of exceeding weekly limits also varied significantly (P < .05) with a lower rate in suburban (13.0%) than urban (17.8%) and rural (15.9%) areas. Prevalence rates for a current alcohol disorder, exceeding daily limits, and exceeding weekly limits did not differ significantly between rural, suburban, and urban drinkers in the South and West.
+Adjusted Odds of Abstinence, Any Alcohol
+Disorder, and Risky Drinking. Findings from multiple logistic regression analyses which test for suburban versus rural and urban differences after adjusting for age, sex, race/ethnicity, marital status, educational level, and Census Region are displayed in Table 3. Nationally, rural residents had significantly higher odds of abstinence (odds ratio [OR] = 1.45) than suburban residents. Among those who drank, rural residents had significantly higher odds of a current alcohol disorder (OR = 1.20) and exceeding daily limits (OR = 1.14) than suburban residents. Urban residents also had a significantly higher odds of exceeding weekly limits (OR = 1.14) than suburban residents.
+Within the Northeast, urban (OR = 1.47) and rural (OR = 1.38) residents had higher odds of abstinence than suburban residents. Within the Midwest and South, rural residents had higher odds of abstinence (OR = 1.37 and 1.64, respectively) than their suburban counterparts, but there was no significant difference between urban and suburban residents. No significant differences in abstinence were found by rurality of residence in the West. Among drinkers in the Midwest, the odds of a current alcohol disorder were higher among urban (OR = 1.38) and rural (OR = 1.30) as compared to suburban residents. Moreover, the odds of exceeding daily limits were higher among urban (OR = 1.24) and rural (OR = 1.25) as compared to suburban drinkers in the Midwest. Urban drinkers in the Midwest
+
+Borders and Booth
+
+317
+
+Fall 2007
+
+. . . . . Alcohol Use . . . . .
+
+Table 2. Prevalence of Risky Drinking by Urban, Suburban, and Rural Residence
+
+Nation Urban Suburban Rural
+Census Region Northeast
+Urban Suburban Rural Midwest Urban Suburban Rural South Urban Suburban Rural West Urban Suburban Rural
+
+Current Alcohol Disorder
+%
+
+Risky Drinking Among Entire Population
+Exceed Daily Limits %
+
+Exceed Weekly Limits
+%
+
+9.07 7.97 8.81
+
+23.27 23.67 24.13
+
+16.03 14.58 16.63
+
+7.63 7.62 9.23
+12.44 9.25
+10.99
+8.15 7.09 6.65
+8.60 8.43 10.32
+
+21.63 24.39 27.42
+29.40 26.63 28.48
+23.02 21.67 17.28
+23.21 23.06 27.23
+
+13.50 15.10 15.75
+17.51 12.66 15.35
+16.50 14.19 16.13
+18.26 16.56 17.33
+
+Current Alcohol Disorder
+%
+
+Risky Drinking Among Past Year Drinkers
+Exceed Daily Limits %
+
+14.04 11.60 15.09
+
+37.44 34.52 39.98
+
+12.49 10.02 13.06
+16.91 12.76 17.68
+12.84 11.41 13.88
+13.41 12.52 15.46
+
+35.49 32.12 38.84
+41.90 36.82 43.95
+36.38 34.97 36.17
+36.26 34.30 40.87
+
+P < .0001; P < .001; P < .01; P < .05.
+
+Exceed Weekly Limits
+%
+17.07 14.88 16.69
+14.17 15.33 16.16
+17.84 13.00 15.92
+16.90 14.55 16.78
+18.69 16.81 18.38
+
+also had higher odds of exceeding weekly limits (OR = 1.40) than their suburban counterparts, but there was no significant rural versus suburban difference.
+Discussion
+Because policy-makers often make decisions according to place of residence, comparisons of drinking patterns between urban, suburban, and rural subgroups could facilitate more effective allocation of alcohol prevention and treatment programs. A small number of nationally representative studies have documented rural versus urban differences in alcohol use, indicating that rural residents are more likely to abstain and, if they drink, consume less alcohol than their urban peers.4,5 However, the traditional rural versus urban comparison could mask important suburban versus rural and urban disparities. While there is emerging evidence that suburban residents have better physical health status than their rural and urban counterparts,8 very little research has focused on
+
+alcohol consumption, with the notable exception of analyses of the 1991-1992 National Longitudinal Alcohol Epidemiologic Survey, or NLAES.5
+The purpose of the present study was to provide up-to-date, nationally representative comparisons of drinking patterns between residents of rural, suburban, and urban areas. Similar to results from the 1991-1992 NLAES,5 the prevalence of abstinence was lowest among suburban and highest among rural residents nationally. Among drinkers, the prevalence of exceeding recommended daily limits was higher in rural and urban as compared to suburban areas, a trend which is also similar to prior NLAES findings.5 In multivariate models adjusting for the potential confounding effects of demographic and social characteristics, rural residents continued to have higher odds of abstinence and rural drinkers had higher odds of an alcohol use disorder and exceeding recommended daily limits than their suburban counterparts. Thus, rural residence appears to be protective against any alcohol consumption, but a risk factor for the development of an alcohol disorder and exceeding
+
+The Journal of Rural Health
+
+318
+
+Vol. 23, No. 4
+
+. . . . . Alcohol Use . . . . .
+
+Table 3. Adjusted Odds of Abstinence and Risky Drinking Among Current Drinkers
+
+Nation Urban Suburban Rural
+Census Region Northeast
+Urban Suburban Rural Midwest Urban Suburban Rural South Urban Suburban Rural West Urban Suburban Rural
+
+Lifetime / Past Year Abstinence
+OR (95% CI)
+1.07 (0.97-1.17) 1.0
+1.45 (1.30-1.62)
+1.47 (1.28-1.69) 1.0
+1.38 (1.07-1.77)
+0.89 (0.76-1.03) 1.0
+1.37 (1.11-1.68)
+0.90 (0.81-1.01) 1.0
+1.64 (1.39-1.92)
+1.12 (0.98-1.29) 1.0
+1.05 (0.80-1.39)
+
+Current Alcohol Disorder
+OR (95% CI)
+1.11 (0.98, 1.26) 1.0
+1.20 (1.04, 1.39)
+1.21 (0.85, 1.73) 1.0
+1.20 (0.85, 1.70)
+1.38 (1.10, 1.73) 1.0
+1.30 (1.01, 1.69)
+1.00 (0.83, 1.20) 1.0
+1.10 (0.85, 1.42)
+0.99 (0.80, 1.22) 1.0
+1.23 (0.89, 1.71)
+
+Risky Drinking Among Current Drinkers
+Exceed Daily Limits
+OR (95% CI)
+1.07 (0.97, 1.17) 1.0
+1.14 (1.02, 1.27)
+1.21 (0.92, 1.59) 1.0
+1.21 (0.99, 1.48)
+1.24 (1.07, 1.43) 1.0
+1.25 (1.02, 1.53)
+0.97 (0.85, 1.12) 1.0
+0.93 (0.78, 1.12)
+1.01 (0.84-1.22) 1.0
+1.32 (0.98, 1.78)
+
+Exceed Weekly Limits
+OR (95% CI)
+1.14 (1.02, 1.28) 1.0
+1.07 (0.95, 1.20)
+0.92 (0.75, 1.13) 1.0
+0.98 (0.72, 1.33)
+1.40 (1.12, 1.75) 1.0
+1.17 (0.93, 1.47)
+1.15 (0.96, 1.38) 1.0
+1.11 (0.93, 1.32)
+1.14 (0.93, 1.41) 1.0
+0.96 (0.73, 1.26)
+
+Odds ratios (OR) are adjusted for age, sex, race/ethnicity, marital status, educational level, and Census Region by logistic regression; significant ORs are bolded.
+Odds ratios (OR) are adjusted for age, sex, race/ethnicity, marital status, and educational level by logistic regression; significant ORs are bolded.
+
+recommended daily drinking limits among those who currently make the decision to drink. These rural versus suburban differences initially appear to justify further investments in alcohol prevention and treatment programs in rural areas nationally. However, analyses stratified by Census Region point to a more complex association between rurality of residence and alcohol consumption, which has important implications for rural health policy and promotion.
+Rural, suburban, and urban drinking patterns did not vary in the same fashion within each Census Region, underscoring that not all rural areas are alike. To further illustrate this point, we discuss findings from the South and Midwest. As noted earlier, a majority of rural Southerners abstained from drinking and those who were current drinkers had no higher odds of an alcohol disorder or risky drinking than their suburban counterparts. Thus, drinking appears relatively unproblematic in the rural South. In contrast, greater
+
+risks of an alcohol use disorder and drinking in excess of daily limits points to a need for increased access to alcohol treatment and the expansion of safe drinking campaigns targeting drinkers in rural and urban, as opposed to suburban, locales of the Midwest.
+While stratification by place of residence facilitates the identification of population subgroups with higher risks of problem drinking, place of residence is undoubtedly a proxy for a range of social, cultural, legal, and health system characteristics which more directly influence drinking behaviors. Social factors which have been cited as potential determinants of rural/urban differences in alcohol consumption include cultural traditions of abstinence and religious norms.6 For example, the South's higher prevalence of abstinence may be partially attributable to conservative religious beliefs.6 Persons affiliated with conservative Protestant groups, which are common in the South, have been shown to have higher abstinence
+
+Borders and Booth
+
+319
+
+Fall 2007
+
+. . . . . Alcohol Use . . . . .
+
+but lower weekly and binge drinking rates than individuals affiliated with more liberal Protestant and Catholic congegrations.4 Heterogeneity in cultural norms could partially explain the disparities we uncovered between rural and urban as compared to suburban areas of the Midwest, whereas commonality in cultural norms could explain why we did not detect any difference by rurality of residence in the West. In lieu of further speculation about the causes of regional variations in alcohol consumption, we suggest that future studies directly examine the effects of a range of social, cultural, and policy-level factors.
+In summary, alcohol consumption varies across the urban and rural areas of the United States. Findings from analyses stratified by Census Region indicate that abstinence is particularly common in the rural South, whereas excessive drinking is particularly common among drinkers in the rural and urban Midwest. To further advance understanding of the epidemiology of alcohol consumption, we recommend that future research test for rural, suburban, and urban differences by other regional classification, such as smaller Census Divisions. By further understanding the drinking behaviors of persons in different regions of the United States, policy makers and practitioners should be better informed to selectively target prevention and treatment programs toward the highest risk population subgroups.
+References
+1. Grant BF, Dawson DA, Stinson FS, Chou SP, Dufour MC, Pickering RP. The 12-month prevalence and trends in DSM-IV alcohol abuse and dependence: United States, 1991-1992 and 2001-2002. Drug Alcohol Depend. 2004;74(3):223-234.
+2. Dawson DA, Grant BF, Stinson FS, Chou PS. Toward the attainment of low-risk drinking goals: a 10-year progress report. Alcohol Clin Exper Res. 2004;28(9):1371-1378.
+3. U.S. Department of Health and Human Services. Healthy People 2010: Objectives for Improving Health. 2nd ed. Washington, DC: U.S. Government Printing Office; 2000.
+4. Midanik LT, Clark WB. The demographic distribution of U.S. drinking patterns in 1990: description and trends from 1984. Am J Pub Health. 1994;84:1218-1222.
+5. Dawson DA, Grant BF, Chou SP, Pickering RP. Subgroup variation in U.S. drinking patterns: results of the 1992 National Longitudinal Alcohol Epidemiologic Study. J Subst Abuse. 1995;7(3):331-344.
+6. Booth BM, Curran GM. Variations in drinking patterns in the Rural South: joint effects of race, gender, and rural residence. Am J Drug Alcohol Abuse. 2006;32:561-568.
+7. Eberhardt MS, Ingram DD, Makuc DM, et al. Urban and Rural Health Chartbook, United States, 2001. Hyattsville, MD: National Center for Health Statistics; 2001.
+8. Eberhardt MS, Pamuk ER. The importance of place of residence: examining health in rural and nonrural areas. Am J Pub Health. 2004;94:1682-1686.
+
+9. Hartley D. Rural health disparities, population health, and rural culture. Am J Pub Health. 2004;94:1675-1678.
+10. Ricketts TC. Arguing for rural health in Medicare: a progressive rhetoric for rural America. J Rural Health. 2004;20:43-51.
+11. Hilton ME. Regional diversity in United States drinking practices. Brit J Addict. 1988;83:519-532.
+12. Room R. Region and urbanization as factors in drinking practices and problems. The Biology of Alcoholims, Vol. 6. The Pathogenesis of Alcoholism: Psychosocial Factors. New York: Plenum; 1983:555-604.
+13. Dawson DA, Grant BF, Li TK. Quantifying the risks associated with exceeding recommended drinking limits. Alcohol Clin Exper Res. 2005;29(5):902-908.
+14. Grant BF, Moore TC, Shepard J, Kaplan K. Source and accuracy statement: Wave 1 National Epidemiologic Survey of Alcohol and Related Conditions (NESARC). Bethesda, MD: National Institute on Alcohol Abuse and Alcoholism; 2003.
+15. Grant BF. DSM-IV, DSM-III-R, and ICD-10 alcohol and drug abuse/harmful use and dependence, United States, 1992: a nosological comparison. Alcohol Clin Exper Res. 1996;20(8):1481-1488.
+16. Grant BF, Harford TC. The relationship between ethanol intake and DSM-III alcohol use disorders: a cross-perspective analysis. J Subst Abuse. 1988;1(2):231-252.
+17. Grant BF, Harford TC, Dawson DA, Chou PS, Pickering RP. The Alcohol Use Disorder and Associated Disabilities Interview schedule (AUDADIS): reliability of alcohol and drug modules in a general population sample. Drug Alcohol Depend. 1995;39(1):37-44.
+18. Grant BF, Dawson DA, Stinson FS, Chou PS, Kay W, Pickering R. The Alcohol Use Disorder and Associated Disabilities Interview Schedule-IV (AUDADIS-IV): reliability of alcohol consumption, tobacco use, family history of depression and psychiatric diagnostic modules in a general population sample. Drug Alcohol Depend. 2003;71(1):7-16.
+19. Pull CB, Saunders JB, Mavreas V, et al. Concordance between ICD-10 alcohol and drug use disorder criteria and diagnoses as measured by the AUDADIS-ADR, CIDI and SCAN: results of a cross-national study. Drug Alcohol Depend. 1997;47(3):207216.
+20. Chen CM, Dufour MC, Yi HY. Alcohol consumption among young adults ages 18-24 in the United States: results from the 2001-2002 NESARC survey. Alcohol Res Health. 2005;28:269-280.
+21. Hindmarch I, Kerr JS, Sherwood N. The effects of alcohol and other drugs on psychomotor performance and cognitive function. Alcohol Alcohol. 1991;26:71-79.
+22. Caetano R, Tam T, Greenfield T, Cherpitel C, Midanik L. DSM-IV alcohol dependence and drinking in the U.S. population: a risk analysis. Annal Epidemiol. 1997;7:542-549.
+23. Dawson DA, Grant BF, Li TK. Quantifying the risks associated with exceeding recommended drinking limits. Alcohol Clin Exper Res. 2005;29(5):902-908.
+24. National Institute on Alcohol Abuse and Alcoholism. NESARC Data Notes. Available at: http://niaaa.census.gov/pdfs/ datanotes.pdf. Accessed March 14, 2007.
+25. Ricketts TCI, Johnson-Webb KD, Randolph RK. Populations and places in rural America. In: Ricketts TCI, ed. Rural Health in the United States. New York: Oxford University Press; 1999:7-24.
+26. Research Triangle Institute. SUDAAN Language Manual, Release 9.0. Research Triangle Park, NC: Research Triangle Institute; 2004.
+27. Grant BF. Alcohol consumption, alcohol abuse and alcohol dependence. The United States as an example. Addiction. 1994;89(11):1357-1365.
+
+The Journal of Rural Health
+
+320
+
+Vol. 23, No. 4
+
+. . . . . Alcohol Use . . . . .
+
+28. Grant BF. Prevalence and correlates of alcohol use and DSM-IV alcohol dependence in the United States: results of the National Longitudinal Alcohol Epidemiologic Survey. J Stud Alcohol. 1997;58(5):464-473.
+
+29. U.S. Census Bureau. Census regions and divisions of the United States. Available at: http://www.census.gov/ geo/www/us_regdiv.pdf. Accessed November 7, 2006.
+
+Borders and Booth
+
+321
+
+Fall 2007
+
+

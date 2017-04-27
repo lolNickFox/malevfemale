@@ -1,0 +1,532 @@
+NIH funding trajectories and their correlations with US health dynamics from 1950 to 2004
+
+Kenneth G. Mantona,1, Xi-Liang Gua, Gene Lowrimorea, Arthur Ullianb, and H. Dennis Tolleyc
+
+aArts and Sciences, Duke University, Box 90408, 331 Trent Drive, Durham, NC 27708; bNational Council of Spinal Cord Injury Association, Boston, MA 02458; and cDepartment of Statistics, Brigham Young University, Department of Statistics, Provo, UT 84602
+
+Communicated by Robert W. Fogel, University of Chicago, Chicago, IL, May 15, 2009 (received for review August 28, 2008)
+
+To determine optimal future National Institutes of Health (NIH) funding levels, the longitudinal correlation of the level of investment in NIH research with population changes in the risk of specific diseases should be analyzed. This is because NIH research is the primary source of new therapies and treatments for major chronic diseases, many of which were viewed as relatively untreatable in the 1950s. NIH research is also important in developing preventative and screening strategies to support public health interventions. These correlations are examined 1938 to 2004 for 4 major chronic diseases [cardiovascular disease (CVD), stroke, cancer, and diabetes] and the NIH institutes responsible for research for those diseases. This analysis shows consistent non-linear temporal correlations of funding to mortality rates across diseases. The economic implications of this are discussed assuming that improved health at later ages will allow projected declines in the rate of growth of the US labor force to be partly offset by a higher rate of labor force participation in the US elderly population due to reduced chronic disease risks and functional impairment.
+cancer  heart disease  longitudinal  mortality
+S cientific and clinical investment directed at reducing the prevalence and progression of chronic diseases, and associated chronic disability, could be a major stimulus to US economic growth by preserving and enhancing the volume and quality of human capital at later ages (1, 2). Using the 1982 to 2004 National Long Term Care Survey (NLTCS), linked to Medicare records of individual sample members, we found significant health intervention innovations are not only probable, but that human capital growth has been accelerating (3). Efforts to improve clinical and preventative interventions, and the health care delivery system, to maintain and increase human capital at later ages will also be important for growth in economically developing societies [e.g., China, Russia, India (4)]. Those countries do not yet appear to be systematically responding to these socio-demographic and economic challenges. This is currently a competitive advantage for the US, Japan, and selected European economies, that is, they will have more rapid rates of innovation in health technology inputs for labor force enhancement and maintenance at later ages (4). Failure to invest in human capital is a ``latent'' cost of current growth which, like environmental degradation, will be charged against future growth.
+A major issue in evaluating human capital growth effects on the US economy is to determine how expenditure growth for the National Institutes of Health (NIH), the primary federal public health organization for sponsoring biomedical and clinical research and its dissemination, operated over time to increase the volume and quality of human capital in the US (5). Establishing the effects of NIH funding and biomedical research on US population health trajectories over time is difficult. Not only is there complexity in biomedical research and the physiological mechanisms of health problems at later ages, but also in the health service, economic and insurance systems, necessary to translate new biotechnologies and clinical innovations into their population health potential.
+Such analyses require data sources describing long-term NIH funding and US population health trajectories. Data are available
+
+on annual expenditures of institutes comprising the NIH starting in 1938 with the inception of the National Cancer Institute (NCI). NIH traces its roots to 1887 with the creation of the Laboratory of Hygiene at the Marine Hospital in Staten Island, New York. The modern NIH was formed in 1948 with the creation of 4 institutes. The National Health Blood and Lung Institute (NHLBI) was created to deal with circulatory diseases emerging as the dominant health problem facing US post WWII society. Epidemiological research sponsored by NHLBI was crucial to targeting behavioral and nutritional inputs to circulatory disease primary and secondary prevention as well as to improved clinical control of risk factors and disease outcomes. Three other institutes were established in 1948: the National Institute of Allergy and Infectious Diseases (NIAID), the National Institute of Dental and Craniofacial Research (NIDCR), and the National Institute of Diabetes and Kidney Diseases (NIDDK). New institutes and centers have been added. In 2000, the National Institute of Biomedical Imaging and Bioengineering (NIBIB) became the 27th institute.
+The expectation chronic diseases would evolve as dominant health problems in industrialized nations was expressed by US and European epidemiologists and demographers who observed 1) improved control of infectious diseases and childhood and infant mortality in the first half of the 20th century, 2)changes in socioeconomic, behavioral, socio-hygienic, and nutritional fabric of US society (6), and 3) as US life expectancy increased, future health improvements coming at later ages and being due to better long term control of chronic circulatory diseases and cancer emerged-- medical interventions whose population efficacy had not been, heretofore, observed. Authors such as McKinlay and McKinlay (7), suggested modern medicine had not made significant progress in treating chronic diseases. Omran (8) argued the US and other industrialized nations were undergoing socioeconomic and environmental changes increasing chronic degenerative disease risk (i.e., the third stage of the epidemiological transition).
+Bourgeoise-Pichat (9) and other demographers felt US life expectancy reached intrinsic biological limits in the 1970s. Fries (10) agreed that a biological limit to US life expectancy was manifest in the US and other industrialized nations (e.g., Japan) but, in his ``morbidity compression'' model, he suggested the age at onset of chronic morbidity and disability was more ``plastic'' than age at death and could be more readily delayed--nearly to biological life expectancy limits. In the US, the pessimistic population health arguments driven by the concept of biological (longevity and chronic morbidity) determinism (lack of plasticity) were initially supported by the observation that cardiovascular disease (CVD) increased mortality for adult males from 1954 to 1968. This 14-year hiatus in post WWII adult health improvements (not experienced by US females) was used in US projections to argue human life expectancy limits would be reached by 1977 (11).
+Author contributions: K.G.M., G.L., and H.D.T. designed research; K.G.M., X.G., and G.L. performed research; K.G.M. contributed new reagents/analytic tools; K.G.M., X.G., G.L., A.U., and H.D.T. analyzed data; and K.G.M., X.G., G.L., A.U., and H.D.T. wrote the paper. The authors declare no conflict of interest. Freely available online through the PNAS open access option. 1To whom correspondence should be addressed. E-mail: kgmanton@duke.edu.
+
+SOCIAL SCIENCES
+
+www.pnas.orgcgidoi10.1073pnas.0905104106
+
+PNAS  July 7, 2009  vol. 106  no. 27  10981-10986
+
+In 1969, health conditions changed and male CVD mortality began to decline--a trajectory continuing to 2006. Other authors (e.g., 12) suggested that, along with plasticity in the rate of aging and progression of chronic degenerative diseases, there was not a ``fixed'' biological limit to human life expectancy. Changes in health and function at late ages were positively correlated with human longevity increases so that population morbidity, disability, and mortality were processes in dynamic equilibrium (3), each subject to modification to ever advancing ages by biomedical, clinical and public health innovations.
+Fogel (6) argued techno-physiological evolution in the US improved health by making the socio-environmental context "friendlier" to health parameters. Techno-physiological evolution (13) explained a slow (0.6% per annum), long-term rate of improvement in US health since the Civil War. Manton et al. (1) suggested societal evolution may enhance aggregate cognitive fitness and mental function in addition to physical health--further enhancing positive economic effects. Manton's (12) arguments about the equilibrium of plastic morbidity, disability, and mortality processes, correlated with increases in NIH funding, may, in part, explain the recent acceleration of chronic disability declines at later ages.
+Much of the early decline in male CVD mortality could be traced to observations made early in the Framingham heart study (started in 1950 by NHLBI) the first of a number of US longitudinal community studies of circulatory diseases investigating the role of cholesterol, smoking, blood pressure and diabetes in CVD (and stroke). Identification of risk factors, development of effective interventions (e.g., new antihypertensive drugs with fewer side effects), and their dissemination into national clinical practice and health behavior patterns, took 14 years (1954 to 1968) before positive health effects emerged nationally. During this period, smoking (and later, obesity and diabetes) risks increased-- adverse trends that clinical and public health innovations stimulated by NIH research also had to overcome to manifest net positive health effects for the US population. Thus, the benefits of NIH biomedical and clinical research may be underestimated, that is, pessimistic sociodemographic and epidemiological theories were not wrong about adverse health effects of modern industrial society. Additionally, the importance of NIH research for innovation in public health interventions is often underestimated. Recent medical technologies are often based on improved knowledge of the genetic and molecular basis of circulatory disease [e.g., research on progenitor cell interventions in atherosclerosis, Kravchanka et al. (14) and the role of inflammatory cytokines as CVD risk factors, like c-reactive protein and IL-6 (15)], and improved population screening for diseases.
+In 1972, the War on Cancer was declared, which stimulated growth in cancer funding in the 1970s and 1980s. Critics argued there was insufficient progress in the War on Cancer because of disproportionate effort expended on cancer therapy and treatment (e.g., 16). It is incorrect to suggest that the war on cancer ignored prevention and public health strategies. One problem in preventing and treating (and curing) cancer was that it is many diseases each tied to heterogeneous genetic profiles and molecular dynamics. Early treatment advances against cancer mortality were primarily made for rapidly growing childhood tumors and leukemias. Early age-limited progress in clinical management of cancer reflected the initial focus of NCI research on cytotoxic drugs generally tested, starting in 1955, against rapidly growing tumor cell lines. In the mid 1980s NCI drug screening was modified to better focus on solid tumor cell lines in adults, and in the 1990s, to emphasize alternative cancer treatment modalities (e.g., high drug dose regimens with bone marrow rescue). Changes in anti-tumor therapy, including chemotherapy to attack tumors using mechanisms other than cytotoxicity [e.g., cell signaling pathways, angiostatic agents (17); growth factor blockers; anti-metastatic drugs and immunotherapy], and public health initiatives against smoking, and promoting screening for breast and colon cancers, led to the initiation of US cancer mortality reductions in 1990. Cancer mortality rates declined 16% 1990 to 2006.
+
+Age-adjusted death rate (per 100,000 population) 1938 1944 1950 1956 1962 1968 1974 1980 1986 1992 1998 2004 NIH funds (M, in 1938 $)
+
+600 1000
+500 800 400 600 300 200 400 100 200
+00
+
+Cancer Diabetes
+
+Year Heart NIH funds
+
+Stroke
+
+Fig. 1. Age adjusted death rate for multiple causes and NIH funds, United States, 1938 -2004.
+
+To characterize these processes, we analyzed trends in total mortality, and cause-specific mortality for 4 chronic diseases (CVD, stroke, cancer, and diabetes), which were related to the funding trajectory of NIH--and to each of 4 relevant NIH institutes. Results The temporal relation of NIH funding and age adjusted death rates for each of the 4 causes is in Fig. 1. We used inflation adjusted annual expenditures for all NIH institutes beginning in 1938 with the creation of NCI. The national health trend data are rates (age-standardized to 2000) for total mortality and mortality specific to heart disease, stroke, cancer, and diabetes, for 1938 to 2004. Additionally, we examined national chronic disability trends from the 1982 to 2004 NLTCS, BLS labor force participation rates 1976 to 2006, and individually linked individual Medicare records 1982 to 2006 (1, 3).
+Declines in heart disease and stroke began after large real increases in the NIH budget from 1956 to 1967. Total cancer mortality rates did not decline until 1990, 25 years after identification of the effect of smoking on lung and other cancers and 18 years after the start of the War on Cancer. The diabetes pattern is obscured by the health effects of increases in obesity prevalence, and changes in diabetes diagnostic and screening practices (18).
+There is evidence of lagged negative correlations between the trajectory of NIH (and institute specific) funding and 3 of 4 causes of death representing 2/3 of US mortality 1950 to 2006. Dependent competing risks (19) and physiologic correlations of the 4 diseases exist at the individual level. Some increase in diabetes mortality may be due to biomedical and clinical advances preventing lethal circulatory events and delaying death for the individual to later ages where there is an increased direct mortality risk of diabetes.
+In Fig. 2 we relate institute specific funding to each of 4 mortality trends. Fig. 2A and B, for heart disease and stroke, are similar with large declines beginning in the late 1960s. To provide substance to the time lines the numerals indicate select research and therapeutic milestones.
+Selected Milestones (Fig. 2A). 1. NHLBI founded (1948). 2. Framingham Study started (1950). 3. Male CVD mortality starts to decline (1968). 4. Innovation of angioplastic procedures (1977). 5. Improved treatment of congestive heart failure, for example,
+ACE inhibitors (1983). 6. Arterial stents (1986). 7. Introduction of tPA and streptokinase (1987). 8. Drug-eluting stents (2003). 9. Progenitor cell therapy (2004).
+
+10982  www.pnas.orgcgidoi10.1073pnas.0905104106
+
+Manton et al.
+
+Funds (M, in 1938 $)
+
+Death rate per 100,000 population
+
+A 700 600 500 400 300 200 100 0
+
+(2) (1)| || ||
+
+(7)
+
+(4) (6) |
+
+(3) | |
+
+| | |
+
+(5|| )|||
+
+| |
+
+Heart
+
+(8) 120
+
+|(9) ||
+
+100
+
+| 80
+
+60
+
+40
+
+NHLBI_funds
+
+20
+
+0
+
+1938 1944 1950 1956 1962 1968 1974 1980 1986 1992 1998 2004
+
+Funds (M, in 1938 $)
+
+Death rate per 100,000 population
+
+B 200
+160 120
+80 40
+0
+
+(3) | (1||| )(2||| ) |
+
+Year
+
+(5) (4) | || || |
+Stroke
+NINDS_funds
+
+(6)
+
+(9|| )(1||1)
+
+60 50
+
+|(7) 40
+
+|| | |(8| )(10)
+||
+
+30 20
+
+| 10
+
+0
+
+1950 1956 1962 1968 1974 1980 1986 1992 1998 2004
+
+Death rate per 100,000 population
+1938 1944 1950 1956 1962 1968 1974 1980 1986 1992 1998 2004
+Funds (M, in 1938 $)
+
+C 220
+210 200 190 180 170 160
+
+(2) (3) || ||
+
+(4) | |
+
+Year
+
+(5), (6) | |
+
+(10)
+
+(7) |
+
+(8) |
+
+||(9| )
+
+| |
+
+200 (11)
+| 160 |
+120
+80
+
+Cancer NCI_funds
+
+40
+
+0
+
+Year
+
+(1) Recognition of nitrogen mustards could be used to treat cancer
+
+Death rates per 100,000 population
+
+D 50
+40
+30
+20
+10
+
+(3)
+| (2) | || |
+
+(5) (4) | ||
+
+(6) |
+
+(8) 70 | 60
+
+(7) 50 | 40
+| 30
+
+Diabetes NIDDK_funds
+
+20 10
+
+00
+
+Funds (M, in 1938 $)
+
+1938 1944 1950 1956 1962 1968 1974 1980 1986 1992 1998 2004
+
+Year
+(1) Insulin discovered (1921).
+Fig. 2. Relation between age adjusted death rate for specific diseases and institute funds, United States, 1938 -2004.
+
+Selected Milestones (Fig. 2B). 1. Start of NINDS (1954). 2. Ultrasound use in medical diagnosis (1956). 3. Recognition of role of carotid atherosclerosis in stroke (1960). 4. CT scanning of strokes (1978). 5. Use of ultrasound to diagnosis arterial wall thickness (1986). 6. Platelet coagulation inhibitors (1995). 7. Cerebral thrombus dissolution using tPA and streptokinase
+(1996).
+
+8. Identification of stem cell and neuronal replacement in brain (1999).
+9. Approval of altace (ACE inhibitor) in hypertension control to reduce strokes (2000).
+10. Use of MRI in stroke diagnosis (2002). 11. Use of warfarin in severe stroke (2006). For NCI (Fig. 2C) the funding spike occurred in 1976. Declines in cancer mortality started after in 1990 and continued to 2006.
+Selected Milestones (Fig. 2C). 1. Recognition nitrogen mustards could be used to treat cancer. 2. Folic acid inhibitors identified for ALL therapy (1950). 3. National Cancer Chemotherapy Service Center (1955). 4. Surgeon General reports on smoking (1962). 5. Adjuvant therapy (osteosarcoma) (1974). 6. Angiogenesis identified (1974) (17). 7. New cell lines used for drug screening (1986). 8. Cell signaling targets identified (1986). 9. Taxol effective in ovarian cancer (1987). 10. Amelioration of bone marrow toxicity (GM-CSF; G-CSF;
+1991). 11. Cervical cancer (HPV) vaccine (2005). For diabetes, after a post-World War II drop in mortality, there is an irregular pattern in which health improvements due to improved management of diabetes and related risk factors was hidden by surges in US obesity prevalence (2) and improved screening of previously undiagnosed adult diabetes (18). Diabetes mortality declined 1970 to 1990 due to reduction in co-morbid circulatory diseases and increased 1990 to 2005.
+Selected Milestones (Fig. 2D). 1. Insulin discovered (1921). 2. Oral drugs to lower blood glucose (1955). 3. Two types of diabetes recognized (1959). 4. First pancreas transplant (1966). 5. Insulin pumps (1970). 6. Recombinant insulin (1978). 7. DCCT Report on stringent insulin control (1993). 8. Genetic engineering of insulin producing cells (2004). 9. Repair of insulin-producing islet cells (2007). Although cause-specific mortality is an index of efficacy in changing the risk of specific diseases, the economic impact of cause-specific changes can also be summarized by their effect on the function of individuals at late ages where chronic disease has its greatest impact. This is relevant to human capital and may be a better index of health program efficacy in economically developed nations [e.g., measures of active life expectancy (20, 21)].
+Estimates of the rate of disability changes before 1980 are from analyses of Civil War veterans and recruits by Fogel and Costa (13) that suggest a long term (from the end of the Civil War to the 1980s), slow decline in chronic disease and disability of 0.6% per annum occurred. Much of this improvement was due to health interventions at earlier ages which reduced individual chronic disease risks (e.g., preventing rheumatic heart disease at young ages prevented damage to the myocardium that would have produced congestive heart disease in survivors at later ages).
+NIH funding did not manifest significant correlations with declines in the prevalence of disability in the elderly until 1984- 1989--16 years after CVD and stroke mortality began to decline. For circulatory diseases, specific clinical and public health innovations have been shown to have large effects on mortality and disability and to be cost-effective (22). Labor force participation rates of persons 65 (23) began to increase in the mid 1980s, for example, rates above 65 increased 1.5% per annum 1986 to 1996
+
+SOCIAL SCIENCES
+
+Manton et al.
+
+PNAS  July 7, 2009  vol. 106  no. 27  10983
+
+and 3% per annum 1996 to 2006. Pressures to delay retirement will increase due to changes in pension programs and recent adverse economic events, such as the loss of equity in the US housing market (24).
+More detailed analyses of US health changes would examine effects of biomedical interventions on intra-individual processes determining the progression of physiologic decline to frank morbidity, disability and death. This suggests the impact of the agespecific schedule of interventions should be studied (some diseases having higher risks in certain age ranges) as should diseases (and conditions like obesity) with significant functional impairment (e.g., osteoarthritis and peripheral neurological consequences of diabetes) but small, not immediate, mortality risk.
+Many health policy, economic and aging researchers initially rejected the concept that functioning at later ages (e.g., 65) could be significantly improved. In 1980, there was little US population evidence to indicate the age at onset of chronic disability increased in parallel to increases in life expectancy (25). The Greenspan Commission suggested, in 1982, unanticipated increases in US male life expectancy 1969 to 1980, be adjusted by an increase in the normal retirement age from 65 to 67. The 1982 to 2004 NLTCS and linked Medicare records are currently the primary longitudinal data source for documenting chronic disability declines in the elderly (3). Britain (to 69 years) and Japan (to 74 years) are now considering larger increases in the retirement age to respond to increased longevity. Manton et al. (3) found much of the recent increase in longevity is spent in physically active states.
+Analysis of US labor force dynamics (23, 26) suggests that, for US economic growth to continue, improvements in human capital at late ages is not only desirable, but necessary (1). Increased investment in health research and improvement is necessary to enhance the human capital infrastructure necessary for current economic stimulus plans to succeed. This is because the rate of growth of the US labor force is projected to decrease, for example, from 1.2% 1996 to 2006 to 0.8% from 2006 to 2016. In addition the length of training for high technology occupations is increasing, and rapid rates of technological innovation require re-training for elements of the labor pool to switch to new high technology occupations. Such processes will affect economic growth in the US and its global competitiveness (4).
+In addition to positive NIH budget growth effects on human capital the rate of increase in per capita Medicare expenditures may moderate as individual health is improved at later ages [e.g., ages 65 and 85 (3)]. The correlation of per capita NIH expenditures for Medicare enrollees with per capita Medicare expenditures (both in 1966 dollars) shows that the doubling of the NIH budget 1998 to 2003 is associated with declines in Medicare per capita expenditures 1998 to 2000 with little increase 2000 to 2004. Manton et al. (1) showed per capita, per annum Medicare cost decreases occurred after 1980 in the non-disabled US elderly population. Starting in 2004, the NIH budget has not kept pace with inflation.
+In Figs. 2 A-D it is hard to discern the correlation of NIH expenditures with mortality declines. To make this transparent, in Figs. 3 A-D, this relation is plotted, after filtering for inflation, with investment averaged over a 10-year window and rates agestandardized to remove confounding effects of changes in population age structure. In Fig. 3 A-D we present the correlation of the age-adjusted mortality rate to 10-year aggregated institute-specific inflation adjusted budgets for 4 chronic diseases. To help relate this nonlinear correlation to calendar time we include dates for specific events on the trajectories Since expenditures are inflation adjusted, trajectories can ``fold back'' (i.e., ``real'' expenditures may decrease). A 10-year window was used to aggregate expenditures because research expenditures accumulated over such a time window better predict scientific advances than concurrent single year budgets. The 10-year window was selected based on the typical time (10 to 15 years) between major shifts in institute budgets and the emergence of health effects for specific diseases.
+
+A 600 1950
+500
+
+1968 1972
+
+Age-adjusted death rate for heart diseases (per
+100,000 population)
+
+400
+
+obs
+
+300
+
+reg 1990 1998
+
+200 2004
+
+0 20 40 60 80 100
+
+10-year lagged NHLBI funds average (M, in 1938 $)
+
+Age-adjusted death rates for stroke (per 100,000 population)
+
+B 200
+160 1954
+120
+
+1968 1972
+
+Age-adjusted death rate for cancer (per 100,000
+population)
+
+80
+
+obs
+
+reg
+
+1998
+
+1990
+
+40 2004
+
+0 10 20 30 40
+
+10-year lagged NINDS funds average (M, in 1938 $)
+
+50
+
+C 220
+210
+200 1950
+
+1972 1968
+
+1990 1998
+
+1985 1980
+
+190
+180 0
+
+obs 2004 reg
+
+50 100 10-year lagged NCI funds average (M, in 1938 $)
+
+150
+
+Age-adjusted death rate for diabetes (per 100,000 population)
+
+D 30
+25 20 1954
+15
+
+obs reg
+
+1968 1998
+
+2004 1972
+
+1990
+
+1980
+
+10 0
+
+10 20 30 40 10-year lagged NIDDK funds average (M, in 1938 $)
+
+50
+
+Fig. 3. Age-adjusted death rates for specific diseases as a function of 10-year lagged institute funds average.
+
+Three causes show an acceleration of mortality declines after passing a threshold 10-year budget level. Figs. 3 A and B show circulatory disease mortality was responsive to investment to establish a disease specific biotechnology, clinical, and basic science base. Instead of decreasing returns, disease specific benefits accrued at an increasing rate once the threshold for a disease was established. In Fig. 3C, despite increases in the inflation-adjusted NCI budget to 1986, cancer mortality rates increased. The NCI budget decline 1986 to 1990 was concurrent with continuing increases in cancer mortality. Despite continuing declines in inflation adjusted expenditures to 1995, cancer mortality stated to decline in 1990.
+For diabetes (Fig. 3D), we may not have yet reached the level of scientific understanding necessary for rapid mortality reductions-- as distinct from modification of the risk of related co-morbidity.
+
+10984  www.pnas.orgcgidoi10.1073pnas.0905104106
+
+Manton et al.
+
+Age-adjusted death rate (per 100,000 population) SOCIAL SCIENCES
+
+1500---------------------------------------------------------------------
+
+1954
+
+Constant age adjusted mortality rate
+
+1300
+
+1969
+
+1973
+
+1100
+
+1980
+
+900
+700 0
+
+1990 1997 obs 2004 reg
+200 400 600 800 10-year lagged NIH funds average (M, in 1938 $)
+
+Fig. 4. Age-adjusted death rates as a function of 10-year lagged NIH funds average.
+
+Funding for diabetes (NIDDK) followed a trend similar to that for both CVD (NHLBI) and stroke (NINDS). Anticipating the same lag as for CVD and stroke, one could expect a downturn in diabetes mortality. Although a decline is evident 1970 to 1990, thereafter diabetes mortality increased. This may be because the most common risk factor for diabetes is obesity as measured by high body mass index (BMI). Diabetes is 3 times more prevalent for individuals with a BMI of 35 relative to those with BMIs below 30. For BMIs of 30 to 35, there is a 50% to 100% increased prevalence relative to BMIs below 30 (see 27). In surveys (28) obesity was stable, 1960 to 1980, for females aged 60 to 74 and for the total population aged 20. After 1980, obesity increased.
+Although the age adjusted prevalence of obesity and diabetes increased, treatment and health outcomes for diabetic individuals improved significantly (29, 30), delaying population mortality increases. Analyses of mortality from CVD and stroke show a lag of 10 to 15 years from the time research funding increased until a mortality effect was observed. For both CVD and stroke, in the first decade after the effect was visible, mortality declined 2.5% to 3% per annum. Increases in obesity starting in 1980 appear mitigated by research, delaying diabetes mortality increases until 1990, that is, the 4.5% per annum increase in obesity prevalence is offset by an 2.5% decrease in mortality. After 1990, diabetes mortality should increase 2% per annum due to obesity. Fig. 3D shows a 2.5% per annum increase in mortality 1990 to 2004. Had obesity prevalence remained constant (a counter factual case) diabetes mortality would have dropped from 17 per 100,000 in 1980 to 9 in 2004--a proportionate decrease similar to that observed for CVD and stroke. The rise in obesity may reflect adverse effects of nutritional changes that earlier fueled many dimensions of positive population health gains, that is, in the competition between obesity increases, and improved clinical control of circulatory risk factors, biomedical research advances dominated health risk trends.
+Health Time Trend and Budget Correlations The proportion of GDP associated with NIH funding spiked at 0.33% in 1962 and 0.30% in 1974. Post-1960, its low was 0.16%
+
+(in 1997). The 1998 to 2003 doubling increased the NIH/GDP ratio to 0.23%. In real terms, NIH research investment was modestly increased by the 1998 to 2003 budget doubling. It was not as significant, nor prolonged, an increase in funding as the War on Cancer. It is far lower than the current per annum increases for all scientific research in China (17%), which occurred over a longer period (12 years) (4). Evaluation of the level of investment in research suggests that a significantly greater, and more prolonged, investment in NIH, and indeed all, federal research would provide a greater stimulus to US economic growth (1).
+The trajectory of NIH funds with age-adjusted total mortality is displayed in Fig. 4. The dotted line indicates the least square fit of age adjusted mortality to the expenditure trajectory with 4 shift parameters 1) NIH formation (1948) up to the first evidence of a national health impact (1950 to 1969), 2) Budget growth (1970 to 1989) stimulated by the War on Cancer (1972) leading to the emergence of cancer mortality declines (1990), 3) a slowing of improvements due to relatively low funding levels (1990 to 1997), and 4) ``doubling'' of the NIH budget after the passage of the Balanced Budget Act of 1997 (1998 to 2003). The regression fit over the 55 years was excellent, explaining 98% of the variation of age-adjusted mortality rates. Although the fit does not prove causation it makes the search for alternate explanatory variables of equal power difficult. The plausibility of the longitudinal correlations is substantiated by numerous studies indicating the cost effectiveness of specific innovative clinical strategies for circulatory diseases (22, 31)--many of which would not have developed without NIH involvement. Thus, there is considerable evidence on the mechanisms linking correlations of NIH funding growth and population health improvements.
+In Fig. 4, the dotted line at the top (constant age adjusted mortality rate) reflects our null hypothesis that adverse trends in socioeconomic and environmental conditions post WWII would sustain chronic disease mortality risk levels even in the face of biomedical innovation due to NIH research. This is a conservative ``null'' hypothesis assumed to determine the number of deaths ``averted'' over time due to NIH (and sister agencies, e.g., CDC) activities--scientific, clinical, public health, and education. A more adverse null hypothesis assuming declining national health based on obesity increases (to 2000) and increased smoking risk (to 1995) would produce larger estimates of ``averted'' deaths.
+Table 1 shows the highest annual number of excess deaths averted (1.47 million) occurred 1998 to 2004. The average deaths averted per annum 1950 to 1969 is only 60,000--mostly due to CVD. Thus, progress was slow for early NIH activity and accelerated with time. If one assumes the initial 60,000 deaths averted per annum are due to public health interventions (pre-1950) not related to NIH research (e.g., improvements in water quality and nutrition), and that such interventions continue (although, some like improved nutrition, may have significant negative effects), one can discount the 3 later stages by the early population weighted averted deaths
+
+Table 1. Deaths (million) avoided by NIH funding
+
+All causes
+
+Heart diseases
+
+Avoided
+
+Avoided
+
+Year
+
+Obs Total Annual Obs Total Annual
+
+1950-1969* 47.3
+
+1.2
+
+0.06 19.6
+
+1970-1989
+
+47.5 14.2
+
+0.71 18.5
+
+1990-1997
+
+19.2 9.4
+
+1.18
+
+6.2
+
+1998-2004
+
+17.0 10.3
+
+1.47
+
+4.9
+
+1950-2004 130.9 35.2
+
+0.64 49.3
+
+Cancer (based on age adjusted death rate in 1990)
+
+1990-1997
+
+1998-2004
+
+0.5 7.1 5.5 6.3 19.4
+
+0.03 0.36 0.69 0.90 0.35
+
+Obs
+6.9 9.1 4.4 3.9 24.3
+4.396 3.884
+
+Cancer
+
+Avoided
+
+Total Annual
+
+0.1 0.4 0.4
+0.0 0.9
+
+0.01 0.02 0.05
+0.00 0.02
+
+0.120 0.456
+
+0.015 0.065
+
+Stroke
+
+Avoided
+
+Obs* Total Annual Obs
+
+5.0 0.3
+
+0.02
+
+4.6 3.5
+
+0.18
+
+1.3 2.4
+
+0.30
+
+1.1 2.5
+
+0.36
+
+12.1 8.7
+
+0.16
+
+* Stroke for 1954-1969
+
+Obs: observed
+
+31.5 32.2 11.9 9.9 85.7
+
+Subtotal
+Avoided
+Total Annual
+0.7 0.04 10.2 0.51 7.5 0.94 8.8 1.26 27.2 0.49
+
+Manton et al.
+
+PNAS  July 7, 2009  vol. 106  no. 27  10985
+
+Table 2. Per annum national GDP increase (plus 20% for health capital) and tax revenue (20%) increases due to labor force increase and reduction in Medicare costs
+
+Disability decline National GDP increase plus 20% due Tax revenues increase due to Reductions in Medicare cost to nondisabled
+
+Year rates (DDR), %
+
+to labor force increase, $ billions
+
+labor force increase, $ billions
+
+persons' health, $ billions
+
+2006 2016
+
+2.05 2.05 2.20
+
+178 706 1386
+
+36 141 277
+
+79 175 179
+
+per annum (i.e., 60,000  2  120,000 to reflect the doubling of the US population 1950 to 2000). This reduces the deaths estimated to be averted to 1.35 million. Using averted death estimates discounted by pre NIH rates of improvement the NIH inflationadjusted per annum costs per 1,000 averted deaths declined from $635,000 in the 1970 to 1989 period to $518,000 in the fourth period suggesting synergisms of the accumulated productivity of research investment streams leading to cost-effective technological innovations at the national level over time.
+A Significant Number of Cancer Deaths Were Averted Based on the Peak Cancer Mortality Rate Observed in 1990 In Table 1, no diabetes deaths were averted. However, if one uses a counter factual argument that the deaths expected to be averted should be calculated based on observed obesity trends, and the age specific risk of obesity-related risk factors in 1950, diabetes mortality would have been reduced. After accounting for obesity trends, NIH research may have produced relatively as much benefit for diabetes as research for CVD.
+In Table 2, we illustrate 3 economic benefits associated with health changes related to NIH expenditures. 1) GDP increase plus 20% for health capital as estimated for the 1990s in Table 3 of ref. (5), 2) increases in tax revenues, and 3) reductions in Medicare costs due to health improvements 1996 to 2006 (1). The gain in tax revenues ($36 billion in 2006; $885 billion over 10 years) is far larger than the incremental costs of doubling the NIH budget from $30 to $60 billion in 10 years ($150 billion). Reductions in Medicare costs due to health improvements are large. Thus, NIH funding can be argued to be a potent growth stimulus in the US (1).
+Summary We showed the long-term correlation of increases in NIH funding and reductions in national cause specific mortality rates.
+
+Table 1 quantifies this in terms of deaths averted. Use of Medicare costs, labor force participation rates, and disability prevalence data allow calculation of the degree to which the US elderly labor force is preserved by improved health. Returns are large (5). If NIH had not been formed, many fewer deaths would have been averted, because many public health and health education programs would not have occurred and the dissemination of biomedical innovations to general practice would have been far slower. Failure to respond to chronic disease and population aging in the US labor force would have been aggravated by changes in health due to obesity prevalence and smoking increases (to 1990).
+This paper complements Manton et al. (3) which demonstrates continuing declines in the prevalence of chronic disability and increases in active life expectancy and Manton et al. (1), which shows how health changes stimulate US economic growth by enhancing labor force size and quality. This paper relates those phenomena to NIH funding and research. An important next step is to determine the level of NIH and other research necessary to achieve the labor force increases suggested in Manton et al. (1). The discussion indicates that relating such investment to changes in health parameters will be difficult because of the non-linear nature of the relation. Additionally, the nature of future health effects will change because they occur at increasing ages. To compensate for the slower future growth of the US labor force (e.g., from 1.2% per annum in 1996 to 2006 to 0.3% after 2017) on economic growth, the size of NIH expenditures relative to GDP should quadruple to about 1% ($120 Billion) and be done sufficiently rapidly (10 years) to compensate for the slowing growth of the US labor force.
+ACKNOWLEDGMENTS. This research was funded by the National Institute on Aging, National Institutes of Health Grant AG01159 -31.
+
+1. Manton KG, Lowrimore G, Ullian A, Xi-Liang G, Tolley HD (2007) Labor force participation and human capital increases in an aging population and implications for US research investment. Proc Natl Acad Sci USA 104:10802-10807.
+2. Manton KG (2008) Recent declines in chronic disability in the elderly US population: Risk factors and future dynamics. Ann Rev Pub Health 29:91-113.
+3. Manton KG, Gu X, Lamb VL (2006) Change in chronic disability 1982 to 2004 -2005: Long-term changes in function and health in the US elderly population. Proc Natl Acad Sci USA 103:18374 -18379.
+4. Manton KG (2008) Population and labor force aging, effect on socio-economic development in Brazil, Russia, India, and China. In International Encyclopedia of Public Health (Elsevier), pp 170 -181.
+5. Murphy KM, Topel RH (2006) The value of health and longevity. J Polit Econ 114:871-904. 6. Fogel RW (2004) The escape from hunger and premature death, 1700 -2100: Europe,
+America, and the Third World. In Cambridge Studies in Population, Economy and Society in Past Time (Cambridge Univ Press, New York), pp 1-191. 7. McKinlay JB, McKinlay SM (1977) The questionable contribution of medical measures to the decline of mortality in the United States in the twentieth century. Milbank Q 55:405-428. 8. Omran A (1971) The epidemiologic transition: A theory of the epidemiology of population change. Milbank Q 49:509 -538. 9. Bourgeois-Pichat J (1971) Stable, semi-stable populations and growth potential. Popul Stud 25(2):235-254. 10. Fries JF (1980) Aging, natural death, and the compression of morbidity. N Engl J Med 303:130 -135. 11. Myers G (1981) in Aging: A Challenge to Science and Social Policy, eds Gilmore A (Oxford Univ Press, Oxford), pp 248 -260. 12. Manton KG (1989) Life-style risk factors. Ann Am Acad Pol Soc Sci 503:72- 88. 13. Fogel R, Costa D (1997) A theory of technophysio evolution, with some implications for forecasting population, health care costs, and pension costs. Demography 34:49 - 66. 14. Kravchenko J, et al. (2005) Endothelial progenitor cell therapy for atherosclerosis: The philosopher's stone for an aging population. Sci Aging Knowledge Environ 2005:pe18. 15. Cohen HJ, Pieper CF, Harris T, Rao KM, Currie MS (1997) The association of plasma IL-6 levels with functional disability in community-dwelling elderly. J Gerontol A Biol Sci Med Sci 52:M201-M208.
+
+16. Bailar JC 3rd, Gornick HL (1997) Cancer undefeated. N Engl J Med 336:1569 -1574. 17. Folkman J (1995) Angiogenesis in cancer, vascular, rheumatoid and other disease. Nat Med
+1:27-31. 18. Smith JP (2007) Nature and causes of trends in male diabetes prevalence, undiagnosed
+diabetes and the socioeconomic status health gradient. Proc Natl Acad Sci USA 104:13225-13231. 19. Yashin AI, Manton KG, Stallard E (1986) Dependent competing risks: A stochastic process model. J Math Biology 24:119 -140. 20. World Health Organization. (2000) World Health Report 2000. (WHO, Geneva). 21. Robine JM, Michel JP (2004) Disability-free life expectancy (DFE) in EU countries from 1991 to 2003. J of Gerontol 59A:590 -597. 22. Cutler DM, Landrum MB, Stewart KA (2006) Intensive medical care and cardiovascular disease disability reductions. In NBER Working Paper Series 12184 (National Bureau of Economic Research, Stanford, CA), pp 1-55. 23. Toossi M (2007) Labor Force Projections to 2016: more workers in their golden years. Mon Labor Rev 130:33-52. 24. Rix SE (2006) The aging of the American workforce. Chic Kent Law Rev 81:593- 620. 25. Feldman JJ (1983) Work ability of the aged under conditions of improving mortality. Milbank Q 61:430 - 444. 26. Toossi M (2006) A new look at long-term labor force projections to 2050. Mon Labor Rev 129:19 -39. 27. Porte D, Sherwin RS, Baron A (2003) in Ellenberg and Rifkin's Diabetes Mellitus (McGrawHill, Medical Pub, New York), pp 288. 28. Flegal KM, Carroll MD, Ogden CL, Johnson CL (2002) Prevalence and trends in obesity among US adults, 1999 -2000. JAMA 288:1723-1727. 29. Fox CS, et al. (2007) Increasing cardiovascular disease burden due to diabetes mellitus: The Framingham heart study. Circulation 115:1544 -1550. 30. Gregg EW, Gu QP, Cheng YJ, Narayan KMV, Cowie CC (2007) Mortality Trends in Men and Women with Diabetes, 1971 to 2000. Ann Internal Med 147:149 -155. 31. Cutler DM, McClellan MB, Newhouse JP, Remler D (1998) Are medical prices declining? Evidence for heart attack treatments. Q J Econ 113:991-1024.
+
+10986  www.pnas.orgcgidoi10.1073pnas.0905104106
+
+Manton et al.
+
+

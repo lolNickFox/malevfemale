@@ -1,0 +1,511 @@
+The Crisis of Confidence in Social Psychology
+
+ALAN C. ELMS University of California, Davis
+
+Social psychologists once knew who they were and where they were going. The field's major scientific problems were obvious, and means to solve them were readily available. Particularly during World War II and the two subsequent decades, the total number of social psychologists increased rapidly, exciting new research discoveries were often reported, and theoretical developments seemed to promise dramatic advances in the understanding of human behavior.
+One observer, after visiting a number of researchers, noted,
+My impression is that as a group they are tremendously interested in what they are doing, are sure of the value of their work, and are confident of their ability to achieve worthwhile results. They have a contagious enthusiasm and a loyalty to their purpose which will carry them to achievement. (Dennis, 1948, pp. 12-13)
+"The contributions are both profound and numerous," another wrote of a series of war-related studies that initiated many postwar lines of research (Katz, 1951, p. 512). "The powerful weapon of systematic theory is now more nearly within the grasp of the wise psychologist than formerly," we are told in the preface to the Handbook of Social Psychology (Lindzey, 1954, p. viii). Though there were indications by the early 1960s that "much of the excitement has died down" (Cartwright, 1961, p. 11), the same article comments, "During the past decade social psychology has grown in size, expanded its facilities for research and graduate instruction, broadened in the scope of problems investigated, and penetrated more deeply into important social phenomena" (p.
+I wish to thank all those who commented upon earlier drafts of this paper. Irving L. Janis, Carl Jorgensen,Karen Ericksen Paige, Barry R. Schlenker, M. Brewster Smith, Robert Sommer, and Cheryl Brown Travis were particularly helpful.
+Requests for reprints should be sent to Alan C. Elms, Department of Psychology, University of California, Davis, California 95616.
+
+28). The preface to the second edition of the Handbook still reports confidently that "the field of social psychology has evolved at a rapid rate," and notes "the increased quantitative and methodological sophistication of social psychologists" as well as the need for five summary volumes rather than two (Lindzey & Aronson, 1968, p. viii).
+The Handbook's second edition may now be seen as the high-water mark in social psychological sanguinity. During the past decade, beginning even before the revised Handbook's publication, many social psychologists appear to have lost not only their enthusiasm but also their sense of direction and their faith in the discipline's future. Whether they are experiencing an identity crisis, a paradigmatic crisis, or a crisis of confidence, most seem agreed that a crisis is at hand.
+Several leaders in the field have expressed their concerns publicly, in terms far different from those o f . 10 or 20 years ago. According to Leonard Berkowitz (quoted in Smith, 1972),
+social psychology is now in a "crisis stage", in the sense that Kuhn used this term in his book The Structure of Scientific Revolutions. We seem to-be somewhat at a loss for important problems to investigate and models to employ in our research and theory, (p. 86)
+M. Brewster Smith has repeatedly registered his agreement; for example: "Our best scientists are flounderingin the search for a viable paradigm. It is hard to tell the blind alleys from the salients of advance" (Smith, 1973a, p. 464). William McGuire (1973) has noted that "social psychology is currently passing through' a period of more than usual uneasiness, an uneasiness which is felt even more by researchers inside the field than by outside observers" (p. 456). European social psychologists reflect the same troubled concern: "From time to time the interests of the researcher are mobilized by themes or areas which appear new and important at the moment; but sooner,or later these prove to be sterile or exhausted and they are abandoned" (Moscovici, 1972, p. 32). Indeed,
+
+AMERICAN PSYCHOLOGIST * OCTOBER 1975 * 967
+
+confidence has ebbed so dramatically that some critics within social psychology (e.g., Gergen, 1973) have returned to questioning whether the field is really a science--a question that critics outside the field have never abandoned.
+These widespread self-doubts about goals, methods, and accomplishments are by no means unique to social psychology. Similar doubts have been expressed recently within many other areas of psychology, particularly the closely related fields of personality research (Carlson, 1971; Fiske, 1974), developmental psychology (Wohlwill, 1973), and clinical psychology fAlbee, 1970; Farberow, 1973). Serious self-questioning has developed simultaneously in the other social sciences, including sociology (Gouldner, 1970), anthropology (Hymes, 1972), and economics (Roberts, 1974).
+Perhaps the self-questioning seems particularly intense and pervasive in social psychology only because the author is a social psychologist. But though various shared influences have contributed to a crisis of confidence in all these fields, certain factors may have made the crisis particularly acute in social psychology; and certain other factors may make its resolution in this field unusually difficult. If reasonable resolutions are found for the current difficulties in social psychology, perhaps they can be adapted in part by other fields suffering similar problems.
+The origins of the crisis--indeed, even the existence of a crisis--do not readily appear in a survey of the research literature itself. The literature continues to grow at a fast rate; new theories are proposed, new research areas are investigated. The classic problems and theoretical approaches remain alive and reasonably well. But when social psychologists describe their personal reactions or those of their colleagues to the present state of the field, three major sources of Discomfort are often cited: difficulties in conducting research; discrepancies between researchers' expectations and the field's actual course of development; and pressures arising mainly outside the profession, but reflected in social psychologists' attitudes and behaviors regarding their own research. Each source of discomfort appears to demand somewhat different means of coping with the resultant!sense of crisis.
+Research Difficulties
+Social psychologists have felt almost from the field's beginning that theirs is an unusually difficult area in which to conduct precise scientific research.
+
+This feeling has grown much more acute in recent years as research studies have increased in number and in complexity without, apparently, much improvement in our grasp of human social behavior. Janis (in press) describes the frustrations involved:
+Time and again the social psychologist's laboratory findings on main effects and simple interactions that are expected to be dependable generalizations turn out to be will-o'-the-wisps, because they fail to stand up in conceptual replications or turn out to be the product of higher interactions with relatively trivial variables that are specific to the experimental setting. The same demoralizing fate can sometimes beset the field experimenter, since nature will continue to be ingenious in finding new ways to fool even the most wary of investigators.
+Campbell (1973) similarly observes,
+If we take the one social science that uses the analysis of variance approach, experimental social psychology, the general finding is of higher order interactions in abundance, and main effects but rarely, Even where we get main effects, it is certainly often due to the failure to include dimensions E, F, G, etc., which would have produced interactions, (p. 74)
+Campbell contrasts this situation with the history of the physical sciences, where "many strong main effects were found," and where these strong effects served as "a rich nourishment of 'laws of nature' which could be stated without specifying the conditions on the infinitude of other potentially relevant variables" (p. 74).
+This contrast between social psychology and the physical sciences has impressed Gergen (1973) so much that he denies social psychology the status of science and suggests that its practitioners might best limit their goal to providing "a systematic account of contemporary affairs" (p. 316). Gergen argues that the facts with which social psychology deals are "largely nonrepeatable and . . . fluctuate markedly over time" (p. 310). The variables that interact with presumably "basic" social psychological phenomena are often culturally determined; and because cultures vary so greatly across both space and time, Gergen asserts, social psychology can never make any lasting or truly generalizable discoveries: "The observed regularities, and thus the major theoretical principles, are firmly wedded to historical circumstances" (p. 315). * As if this growing awareness of the true scope of human complexity were not enough, social psychologists have also recently become much more concerned with the difficulties created by interactions between researcher and research subject. These difficulties are nonexistent or much less serious in scientific fields that deal with nonhuman entities or that do not collect primary data from human subjects. Though the potential. effects of
+
+968 * OCTOBER 1975 * AMERICAN PSYCHOLOGIST
+
+demand characteristics (Orne, 1969) and experi- A false idea of research simplicity may also be
+
+menter bias (Rosenthal, 1969) are by now well conveyed by comparisons of social psychology with
+
+known to social psychqlogists, such phenomena such fields as physics or chemistry. Social psy-
+
+have -by no means lost their power to unnerve the chologists are typically familiar with only the
+
+cautious experimenter. Gergen (1973, p. 314) has simplest (and often, again, the earliest) research
+
+added to this list the broader influence of "enlight- in these fields. Though they are sure human social
+
+enment effects": changes in behavior as the result behavior is more complicated than chemical pro-
+
+of subjects' increasing awareness (and, indeed, in- cesses or gravitational attraction, they often seem
+
+creasing awareness by most members of our so- not to realize how complex modern physical re-
+
+ciety) of social-scientific hypotheses and findings. search must be in order to control all the im-
+
+According to Gergen, individuals who are knowl- portant interacting variables and to make the ac-
+
+edgeable about social psychology will intentionally curate and subtle measurements required to produce
+
+alter their behavior in unpredictable ways; and as meaningful results. Gergen (1973), for example,
+
+psychologists seek to offset such reactions, subjects refers to "the velocity of falling bodies or the com-
+
+will devise other means of asserting their individu- pounding of chemical elements" as "events that
+
+ality or their freedom from psychological laws, in can be recreated in any laboratory, 50 years ago,
+
+an infinite regress of ploys and counterploys.
+
+today, or 100 years from now" (p. 309). He then
+
+uses these examples to argue that social psychology
+
+Researcher Expectancies
+
+is not a true science because the phenomena it studies are much less reliable and much more sub-
+
+Difficulties would remain inherent in the conduct ject to modification through interaction with other
+
+of social psychological research regardless of the variables. If he were discussing instead contem-
+
+researcher's expectations about the research. But porary research in biochemistry or particle phys-
+
+the malaise in the field is compounded by many ics--or if social psychologists typically devoted as
+
+researchers' apparent expectation that research much care to the preparation, conduct, and analysis
+
+should be relatively easy to conduct, should readily of their research as do modern biochemists or
+
+produce clear-cut and statistically significant re- physicists--the contrast would ring much less true.
+
+sults, and should lead directly to the development Social psychological researchers do eventually
+
+of theories that are both sweeping and elegant.
+
+discover, of course, that research demands a great
+
+The expectation that research should be easy to deal more effort and ingenuity than seemed neces-
+
+perform despite the field's overall complexity may sary during their undergraduate or graduate educa-
+
+derive both from the typical socialization patterns tion. But having established these early expecta-
+
+of researchers and from bases of comparison taken tions, they may either abandon research altogether
+
+from outside the field. For ease of presentation, when it becomes more difficult than they had an-
+
+most undergraduate textbooks select only the ticipated, or they may begin a pattern of shifting
+
+simplest of the major research studies in an area from one apparently simple research area to an-
+
+and describe the procedures sketchily and schemati- other, until the required research complexity in the
+
+cally, if at all. Even in graduate education, the latest area again becomes too great to tolerate.
+
+greatest emphasis (other than on the instructor's Similar patterns may establish themselves with
+
+own research) is likely to be placed on relatively regard to research outcomes. The early modern
+
+simple procedures and neat (if possible, 2 X 2 or research in social psychology often produced what
+
+2 X 3 ) experimental designs. This emphasis is at first seemed to be readily interpretable find-
+
+promoted by the recency of the earliest important ings--revealing the power of social conformity, the
+
+studies in most areas of social psychology. For development of sleeper effects, the existence of
+
+instance, the basic attitude-change studies of the task-oriented and social-emotional group leaders.
+
+Hovland group (Hovland, Janis, & Kelley, 1953) Certain lines of research even established as a cri-
+
+or the initial dissonance research of Festinger and terion for a good research outcome that it dramati-
+
+his students (Festinger, 1957) are still of con- cally contradict popular assumptions about human
+
+siderably more than historical interest. A new behavior. Textbook filtering further exaggerated
+
+researcher in the field is likely to model his re- the apparent clarity of such research outcomes. To
+
+search on just such simply designed studies, as a researcher thus trained to expect a major con-
+
+most researchers have done throughout the postwar tribution from every study, a mere increment in
+
+era in social psychology.
+
+knowledge or a simple replication of a previous
+
+AMERICAN PSYCHOLOGIST * OCTOBER 1975 * 969
+
+finding may be profoundly disappointing. But as the field grows, as more and more areas are studied by more and more people, the simpler relationships and the more dramatic phenomena are likelier to have been preempted by earlier research. The identification of a "new" variable involved in counterattitudinal role playing, for example, no longer has much chance of appearing to be the decisive resolution to that now extensive line of research, either to the researcher or to his professional audience.
+The same is true with regard to theoretical formulations. The most influential theories in modern social psychology have been sweeping single-factor or two-factor propositions, attempting to account for a wide range of variables with as little acknowledgment of human complexity as possible. These theories have not fared well when subjected to intensive empirical study. As Smith (1973a) laments, "Where, today, are the exciting frontiers of dissonance theory in which so much experimental ingenuity was invested?" (p. 464). Where, indeed, are the exciting frontiers of any consistency theory, or of any other grand theory applied to social psychological phenomena early in the field's development (Deutsch & Krauss, 1965)? They have either been forced into much narrower confines or have been replaced by theories intended for limited application. These narrowfocus theories too tend to be framed in terms of one or two explanatory variables, and they too are likely to be severely buffeted by data as empirical work on them increases. Today's would-be theorist will find it difficult to propose any level of integrative theory with reasonable confidence in its usefulness or long life.
+One interesting product of all these high expectations contradicted by harsh reality, other than the field's general malaise, is the active search for signs of a paradigmatic crisis. Thomas Kuhn
+(1970, pp. 74-75) has argued that major scientific
+advances in a field are likely to emerge "only after
+a pronounced failure in the normal problem-solving
+activity" within the field, that is, only after a
+crisis. The frequent mention of Kuhn's name in
+connection with the current crisis of confidence in
+social psychology suggests the occurrence of a good
+deal of wishful thinking along these lines: Real
+sciences advance through crisis. Social psychology
+is a real science, but obviously needs to make major
+advances. Therefore, let's hope that what we're
+feeling now is a real crisis, because that would both
+
+validate our scientific status and presage the advances we need.
+Such hopes are described as wishful because regardless of whether Kuhn's analysis is correct, it clearly does not apply to social psychology. A crisis of confidence is not the same as a paradigmatic crisis. To experience the latter, one must first have a paradigm, and there is scant'evidence for the existence of a Kuhnian paradigm in social psychology.
+Kuhn (1970) has given two nonexclusive definitions of a paradigm:
+On the one hand, it stands for the entire constellation of beliefs, values, techniques, and so on shared by the members of a given community. On the other, it denotes one sort of element in that constellation, the concrete puzzle-solutions which, employed as models or examples, can replace explicit rules as a basis for the solution of the remaining- puzzles of normal science, (p. 175)
+In some ways, the expectations we have discussed about what constitutes an appropriate experimental design or the scope of a valid theory may qualify as aspects of an incomplete paradigm, or as miniparadigms. But no theory or methodology in social psychology has ever attained the general acceptance and even dogmatic status accorded the physical science paradigms cited by Kuhn. Research methods were, if anything, more diverse during the years preceding the crisis than now (Fried, Gumpper, & Allen, 1973; Higbee & Wells, 1972). A study of the frequency of reference citations in social psychology, which might indicate the exis-
+tence of widely shared theoretical orientations, concludes that "a small fraction of this field is comprised of coordinated efforts within common conceptual frameworks" (Shulman & Silverman,
+1972, p. 235). The wide availability of alternative theories and
+methods in social psychology suggests that the field is still at what Kuhn calls a preparadigmatic stage. (Kuhn himself applies that term to the
+social sciences generally; 1970, pp. 160-161.) Social psychology does not appear ready for the development even of its first overarching paradigm, let alone for the crisis-ridden replacement of one
+paradigm by another. Social psychologists may have lost some of their faith in laboratory experimentation, or in dissonance theory, or in significance levels. But they never approached unanimity in sharing those faiths in the first place--and such unanimity of orthodoxy is the basic criterion for a Kuhnian paradigm.
+
+970 * OCTOBER 1975 * AMERICAN PSYCHOLOGIST
+
+Outside Pressures
+
+The insistence on proper attention to women
+
+Although troubled by the difficulties inherent in the iield and disappointed by the nonrealization of their own expectations, social psychologists might have gone on tending their own gardens in their own ways for years to come, had not powerful pressures begun to be felt from outside the field. Not all of these pressures have remained outside; some have gained added power through internalization by social psychologists. But probably none would have developed any genuinely discomfiting strength within the field by this time, had they not been initiated or intensified by forces in the society at large.
+The most obvious pressure has been the demand for relevance. At least a substantial minority of social psychologists have always been concerned with the relationship between scientific knowledge and social application, but the student movements of the 1960s elevated social relevance to a major criterion for social psychological research. That would not in itself have necessarily contributed to a crisis in confidence, but as the decade neared its end, the inadequacy of social psychology in meeting immediate social needs became more and more obvious. Theodore Newcomb (1951) had much earlier expressed concern that the field's "too rapid inflation" might be "based upon expectations which are greater than anything which we can deliver in the near future" (p. 31). His fears proved more soundly based than the generally elevated expectations of the 1950s--expectations perhaps elevated even further in the mid-1960s by leftist students' and professionals' argument that
+social psychologists had produced few truly rele-
+vant findings mainly because they were being in-
+tentionally irrelevant. When social psychologists
+
+and minority members had an even broader effect than advocates of those groups intended. It literally brought home, to many social psychologists who had discussed the issue abstractly for years, the need to assess the impact of cultural variables on social psychological research. When "cultural variables" meant "how the French or Zulus differ from Americans," social psychologists could feel fairly comfortable as they continued to conduct research on their undergraduate students, assuming that one day someone else would show how different or similar the French or Zulus were to their subjects. But when black students at one's own university began to insist that they often held different and perhaps superior values to whites, or when women activists began to argue that they had been exposed to different but not inherently inferior socialization processes than males, social psychologists were forced to reconsider the generality of their often narrowly based findings, as well as their own biases in interpreting and apply-
+ing those findings. Complaints about ethical abuses may have been
+initiated as much by social psychologists' own experimental excesses as by generally increasing concern, particularly among student activists, about violations of individual rights. Whatever inclination social psychologists felt to ignore such complaints was discouraged by government involvement in the enforcement of professional ethical standards. The result was not so much a serious and widespread examination of ethical principles among social psychologists, as it was a constriction in the kinds of research they felt willing to conduct. Once again, whatever the merits of specific ethical arguments, social psychologists were given cause to worry about what they had been doing in the
+
+in substantial numbers tried to be more relevant, past and what they would be able to do in the
+
+the lack of major social breakthroughs produced by future.
+
+their research was all the more disappointing.
+
+In addition to citing the role of several pre-
+
+At roughly the same time, and in some instances from the same sources as the insistence on social relevance, came two other demands: for serious consideration of the psychologies of women and racial minorities, and for greater concern for the rights of research subjects. In both instances, social psychologists widely acknowledged guilt for past neglect and began moving toward more responsible positions; but meeting these new demands
+
+viously mentioned factors in the growth of "disillusionment" within social psychology, Smith
+(1973b, p. 63) has noted one other external pressure: the "cold winds from Washington" that signaled the end of relatively easy research money. Basic research in social psychology not only aroused governmental concerns about ethical shortcomings, it also shared in the general reductions of federal scientific research funding and suffered from the redirection of remaining funds toward highly spe-
+
+made the conduct of research more difficult than cific problem-solving research, A social psycholo-
+
+ever. gist could perhaps still obtain financial support by
+
+AMERICAN PSYCHOLOGIST * OCTOBER 1975 * 971
+
+relating his research to the energy crisis or to safe streets, but he might well feel at the same time that his efforts to contribute to the field's scientific foundations were being constrained.
+The contributions other factors have made to the crisis of confidence are less clear: for instance, the publish-or-perish pressures and shrinking job market within the academic world; the kinds of individuals recruited into social psychology at various stages of the field's development and their reactions to later changes in the field (Berkowitz, 1970). The factors already discussed are sufficient to account for much of the current sense of crisis. If a substantial portion of them can be dealt with effectively, the crisis should be considerably alleviated if not resolved.
+Coping with Crisis
+Previous discussions of the crisis or its components have generally argued that significant deficiencies exist in social psychological theory or research, which must be corrected by appropriate changes in theory development and/or research conduct. This is certainly one essential line of response. But the sense 'of crisis has not developed from these observed deficiencies alone, and it will not be relieved entirely by dealing with them. Social psychologists must reconsider the ways in which they think about the discipline as well as the ways they practice it, and they must develop more confident responses to outside pressures.
+CHANGES IN THEORY AND METHODOLOGY
+Social psychology is clearly in need of new and better theories. Probably the most persistent complaint in the field's history, from within and without, is that it is largely empirical, with little theoretical guidance. But the fate of previous theoretical "advances," such as the various consistency theories, should be sufficient warning not to seek premature theoretical closure when the available data are too skimpy to guide intuitive conceptualizations. Even more importantly, social psychologists need to forego the theoretical imperialism that has long been practiced in personality theory and that has occasionally obtained a foothold in this field as well (Berkowitz, 1970). Here the best model from the field of personality may be the work of Henry Murray (1938, 1959). His personal modesty is perhaps too great for most theorists to emulate, but his willingness to tolerate the
+
+existence of a diversity of other theories beyond that which seems most immediately useful, and often to incorporate significant aspects of those other theories into his own thinking, is surely worthy of wide adoption. Robert Merton's (1957) warning against "the sacrilegious and .masochistic error of assuming oneself to be omniscient," of believing that "to admit less than universal knowledge is to admit failure" (p. 7), provides a similar lesson from a different direction. Murray and Merton do not propose that all theories should be given equal weight regardless of their logical and evidential base, but that because of theorists' own human limitations, any one theory of human behavior will be insufficiently comprehensive to merit exclusive allegiance.
+We cannot here suggest the probable lines of future theoretical development in social psychology; in McGuire's (1973) vividly mixed metaphor, they "will be hammered out by theoretically and empirically skilled researchers in a hundred eyeballto-eyeball confrontations of thought with data" (p. 450). But it is reasonable to insist that these confrontations not be treated as winner-take-all battles, with the hardest hammerer obliterating his opponents. Theoretical pluralism may be disturbing to those who feel they need certainty, and it may appear inferior to the unitary paradigms enjoyed in certain areas of the physical sciences. But at the current stage in the history of social psychology, such pluralism is likely to impede the field's progress much less than a temporary all-out adherence to one model. It may also prove in the long run to be a more adequate way to treat human thought and behavior than the near-absolute reductionism of the physical sciences.
+Pluralism is appropriate with regard to methodology as well. No doubt laboratory experimentation procedures, including techniques for coping with subject-experimenter interactions, will continue to be improved. (The subject-experimenter problem will probably not be as difficult to deal with as Gergen's conc'ept of "enlightenment effects" suggests; see Schlenker, 1974.) Field studies, both experimental and relatively nonreactive, will surely increase in sophistication as well as frequency, though they have not yet become nearly as popular as professional homilies or textbook anthologies often indicate (Fried et al., 1973; Higbee & Wells, 1972). Wider dissemination of statistical innova-
+tions may permit increased use of time-series data and various kinds of multivariate analysis (McGuire, 1973). But these diverse methodological
+
+972 * OCTOBER 1975 * AMERICAN PSYCHOLOGIST
+
+approaches should not be seen as somehow replac- are of current social psychological interest. Such
+
+ing each other in a paradigmatic succession or as information would be valuable in itself, especially
+
+being generally inferior or superior. Not every in making long-term comparisons of behavior pat-
+
+problem can be studied effectively in the same terns (Barker, 1965). It could also serve as a
+
+way, and any attempt to eliminate a research pro- useful basis for the formulation of hypotheses and
+
+cedure by fiat, for whatever reason, is likely to sow the development of more precise research designs.
+
+more confusion than clarification. Shaw (1974) The typical procedure in social psychology, in
+
+urges that social psychologists really try the scien- which hypothesis or even theory development is
+
+tific method implied in the traditional philosophy based on casual observation or speculation, followed
+
+of science before they conclude that it has failed. by pilot studies designed to select a specific pro-
+
+The same could be said for any particular meth- cedure likely to generate statistically significant
+
+odology now in use, in the sense that it very likely differences, often seems more effective in producing
+
+has not been explored to its fullest or applied to professional publications than in locating and ex-
+
+all those problems about which it can contribute plaining important aspects of human social inter-
+
+useful data.
+
+action.
+
+One method rarely used in social psychology,
+
+though it has been strongly recommended both RE-VIEWING THE FIELD within the field (McGuire, 1973) and in related
+
+areas (e.g., LeVine, 1973; Murray, 1938), is that Such methodological shifts as increased use of
+
+of longitudinal study. Traditional social psycho- behavioral surveys may have the added advantage
+
+logical techniques, whether applied in the labora- of lowering social psychologists' expectation levels.
+
+tory or in the field, typically involve a researcher's Knowledge of the full range of likely behaviors in
+
+brief contact with each of many subjects. Such a research area, as well as of a representative array
+
+techniques, though they can be powerful ones for of the variables that influence those behaviors, may
+
+certain problems, are likely to restrict the scope chasten the researcher who begins with the idea
+
+of investigations, may mislead the investigator as that one univariate theory, one line of research, or
+
+to the important variables in the situation, and can even a single experiment, is going to change every-
+
+deaden his sense of dealing with real human beings, thing. Such expectations may also be made more
+
+in turn negatively influencing both his development realistic by revisions in our educational procedures,
+
+of explanatory concepts and his ethical sense. Lon- though there are obvious-difficulties in conveying
+
+gitudinal study can be pursued in many ways, but simultaneously to students the appeal of the field
+
+the general effect should be to increase the proba- and the confusion of variables and outcomes to be
+
+bility that the psychologist focuses on processes of observed there. Perhaps, in view of past distor-
+
+human rather than merely statistical significance. tions in expectations and the resultant disappoint-
+
+Another technique much more often encountered ments, honest confusion is to be preferred over
+
+in other fields than in social psychology '(e.g., in misleading confidence.
+
+anthropology and nonhuman primate research) is Most social psychologists who have engaged in
+
+the behavioral census. (A broader term is needed research for several years will not need such les-
+
+in social psychology, because various internal states sons. But they may still be able to benefit from
+
+are often of as much interest as behavior; perhaps lessons in the philosophy and history of science.
+
+Armistead's, 1974, "experiential map" [p. 117] Seekers after a new paradigm should first carefully
+
+would be more appropriate.) If an area of human study Kuhn's (1970) definitions and examples of
+
+social behavior attracts social psychological atten- paradigms, as well as the somewhat discrepant
+
+tion, it would seem desirable to collect prelimi- viewpoints of his critics (Lakatos & Musgrave,
+
+nary--but, as much as possible, systematic and ob- 1970). Those who persist in comparing social psy-
+
+jective--data on the distribution of variants of that chology with physics should be aware of the princi-
+
+behavior within a given population, as well as in- pal characteristics of modern-day physics and its
+
+formation on apparently associated variables. historical development, as well as of the major
+
+Barker (1963, 1968) and his associates have con- similarities and distinctions between psychology
+
+ducted wide-ranging surveys of human behavior and the physical sciences (Schlenker, 1974). Those
+
+in "natural" habitats, but they have seldom focused who argue either that social psychology has made
+
+on particular classes of variables (e.g., behavioral- no real advances during this century, or that dra-
+
+attitudinal inconsistencies, social conformity) that matic advances await only some brilliant methodo-
+
+AMERICAN PSYCHOLOGIST * OCTOBER 197S * 973
+
+logical innovation or radical reform in professional education, often could profit from closer attention to the history of social psychology than the field has usually received (Baumgardner, Note 1). Such lessons need not be restricted to graduate school courses; self-education and the education of others through journal articles are also of value. At least temporarily, such educative articles might represent a more valuable use of journal space than the usual empirical research reports, though Moscovici's (1972) suggestion that data collection halt'in the meantime seems a little extreme. Limitation of empirical journal papers to those involving a coherent series of studies or several strategic replications could simultaneously free space for these evaluations of the field's scientific and philosophical foundations and diminish the misleading effects of impressive single studies that never pan out in sustained contributions.
+Another area of professional education whose improvement is essential to crisis relief is that of ethics. Psychologists are not unusual in considering their individual moral code, typically built up from early childhood on in unsystematic fashion, as the ultimate arbiter of ethical issues; but they should know better. It is striking that as yet we have not even one full-length treatment of ethical issues in social psychology, nor any fully developed statement of even a single view of ethics that rests upon foundations more substantial than an appeal to everyone's good will and presumably shared assumptions of right and wrong. The American Psychological Association's (1973) Ethical Principles are based on just such appeals, and are therefore useful mainly in discriminating fairly innocuous research from truly blatant violations of community standards. An earlier draft of this document (APA Ad Hoc Committee on Ethical Standards, 1971) recommended a risk/benefit model of ethical decision making, reflecting a sound concern with the interests of all the parties affected by a research decision, including members of society at large as well as the individual researcher and his subjects. The risk/benefit model is at least as defensible as any other ethical position in modern philosophy and is particularly applicable in a field in which the needs of society are in fact a major concern. But the final draft adopted by the APA largely removed specific references to this risk/benefit model, in favor of generalities upon which everyone could agree but which offer little guidance to the researcher confronted with difficult problems in research ethics.
+
+According to legend, Davy Crockett's motto was "Be sure you're right, then go ahead." The motto of some current-day critics of ethical standards within social psychology seems instead to be, "Be sure you're right, then stop dead." Social psychologists are obligated to be attentive to ethical issues, especially because their research is largely directed toward other humans. But their attentiveness should be of the kind that allows them to work through an ethical issue, to arrive at a satisfactory resolution in their own eyes and as much as possible in the eyes of other informed observers, and then to go ahead with ethically sound and meaningful research. As McGuire (1969) has argued, the decision to stop doing research has its own serious ethical problems. For those whose sense of crisis comes in part from an ethically dictated decision to do nothing (or to seek out only the weakest methodological approaches), a more extensive exploration of possible ethical positions within the field and their philosophical bases might be sufficient impetus for a move off dead center. Social psychologists do not need as much contention or as much abstract hairsplitting as the moral philosophers who devote their lives to such issues; but they could benefit from confrontations among a diversity of strongly stated, closely reasoned positions going beyond the question of whether a specific experiment is evil or whether a specific research practice (e.g., deception) is always wrong on its face.
+DEALING WITH OUTSIDE PRESSURES
+Once having themselves arrived at a set (or sets) of defensible moral positions, social psychologists should be better able to educate those outside the field concerning appropriate ethical criteria by which to judge the field's work, rather than simply to allow others to impose upon them either the medical informed-consent model or the antivivisectionist stance that it is better to do nothing than to attempt balancing diverse ethical interests. Even if social psychologists never achieve complete success in improving the general public's ability to make moral discriminations, their own more fully developed ethical position should reduce their discomfort at public criticism.
+Student demands for relevance have for the time being slackened; those from the federal government have not. With regard to students, social psychologists can again best meet any future pressures by working through their own feelings about what
+
+974 * OCTOBER 1975 * AMERICAN PSYCHOLOGIST
+
+sorts of research are of the greatest long-term rele- * population declines and as relatively short-term
+
+vanee, and their own expectations about the rea- contracts begin to replace academic tenure. Further,
+
+sonable size and speed of research payoffs. They most university promotion systems appear not to
+
+can then devote more of the educational process to make fine discriminations about reasonable rates
+
+a discussion of these issues, and perhaps propor- of publication among various disciplines. Perhaps
+
+tionately less to the "fun-and-games" social psy- increased publication of the sorts of papers sug-
+
+chology that may keep students entertained but at geted previously, including discussions of social
+
+the same time paints them a picture of the social psychology's scientific foundations and of the bases
+
+psychologist as Machiavellian rather than as a for various ethical positions, will for a time take
+
+socially concerned scientist (Ring, 1967). Govern- up some of the slack. But an educational effort
+
+mental funding agencies, as well as congressional will probably be needed here too, including clear
+
+and executive sources of agency funds, have in the public statements by the social psychological jour-
+
+past proven rather resistant to such education. nals of their intent to accept for publication only
+
+Social psychologists will therefore either have to those broad-scope and/or multiple-study research
+
+prove more resourceful in relating their theoretical papers that would have previously been published
+
+interests to specific programmatic concerns or (as in several units. Individual faculty can then com-
+
+McGuire, 1973, suggests) will need to accept the municate such statements to their institutional
+
+"virtues" of research asceticism.
+
+hierarchies and hope for sympathetic treatment.
+
+Social psychologists are already allocating sub-
+stantially greater attention than in past decades Conclusion
+
+to the concerns of minorities and women. In- The crisis of confidence in social psychology should
+
+creased attention to these concerns should benefit be readily understandable by social psychologists,
+
+social psychology, not only by expanding the sub- because it is based on familiar phenomena: social
+
+ject populations normally studied but by increasing comparison processes, levels of aspiration, discon-
+
+the degree to which subjects' individual cognitions firmed expectations, etc. Unfortunately, social psy-
+
+are taken into account. Recently Armistead chologists have spent more time identifying the
+
+(1974), Smith (1974), and Argyris (1975) have existence of such phenomena than devising reliable
+
+all argued strongly that social psychologists should procedures to negate their undesirable aspects.
+
+seek more information on the subject's conceptuali- Advice to be more tolerant of others' views, to work
+
+zation of the social situation than has traditionally harder at developing a sound moral and philosophi-
+
+been collected. As Armistead observes, such in- cal stance, to lower one's aspiration level, and to
+
+formation is most needed when the researcher at- be less insistent on immediate payoffs, would surely
+
+tempts to study "the experience of people in com- be considered by most social psychologists as in-
+
+pletely different situations from himself" (p. 118), effectual intervention procedures for use on their
+
+though he is by no means safe in assuming that own research subjects. Such advice is, however,
+
+those whose social situation looks similar to his often communicated in one form or another by the
+
+own also share his interpretation of it. More ex- psychotherapist who wishes to strengthen a client's
+
+tensive cross-cultural research is likely to grow ego or to raise the client's self-esteem level.
+
+out of this focus on individual and subcultural di- Social psychologists are currently facing certain
+
+vergencies; and such research, combined with the difficulties in scientific methodology, which with
+
+longitudinal and behavioral-survey research men- typical resourcefulness they will probably find ways
+
+tioned earlier, should considerably clarify the scien- of resolving. But they are also facing serious self-
+
+tific status of social psychology.
+
+esteem problems, which at this time may be re-
+
+Finally, social psychologists must find ways of solved most effectively by following just such kinds
+
+adjusting to or moderating academic pressures to of therapeutic advice. Fortunately, most social
+
+publish, at the same time that they reduce their psychologists- are ideal psychotherapeutic clients:
+
+own rate of publishing findings that are so incom- intelligent, verbal, capable in many ways, and,
+
+plete as to be misleading. This is a problem widely most of all, increasingly miserable as the crisis of
+
+shared with other academic fields, but it could pre- confidence continues. They will have to be their
+
+sent particular difficulties if social psychologists own therapists, and that is a major challenge in
+
+unilaterally began to restrict their own output. itself. But it is a challenge that they should be
+
+Publication pressures may be expected to increase able to meet, and well-met challenges are the best
+
+in many institutions, as the undergraduate student tonic of all for crises of self-confidence.
+
+AMERICAN PSYCHOLOGIST * OCTOBER 197S * 975
+
+REFERENCE NOTE
+1. Baumgardner, S. R. The need for critical history in social psychology. Paper presented at the meeting of the Western Psychological Association, Sacramento, California, April 197S.
+REFERENCES
+Albee, G. W. The uncertain future of clinical psychology. American Psychologist, 1970, 25, 1071-1080.
+American Psychological Association. Ethical principles in the conduct of research with human participants. Washington, D.C.: Author, 1973.
+APA Ad Hoc Committee on Ethical Standards in Psychological Research. Ethical standards for psychological research. APA Monitor, July 1971, pp. 9-28.
+Argyris, C. Dangers in applying results from experimental social psychology. American Psychologist, 1975, 30, 469485.
+Armistead, N. Experience in everyday life. In N. Armistead (Ed.), Reconstructing social psychology. Baltimore, Md.: Penguin Books, 1974.
+Barker, R. G. (Ed.). The stream of behavior. New York: Appleton-Century-Crofts, 1963.
+Barker, R. G. Explorations in ecological psychology. American Psychologist, 1965, 20, 1-14.
+Barker, R. G. Ecological psychology. Stanford, Calif.: Stanford University Press, 1968.
+Berkowitz, L. Theoretical and research approaches in experimental social psychology. In A. R. Gilgen (Ed.), Contemporary scientific psychology. New York: Academic Press, 1970.
+Campbell, D. T. The social scientist as methodological servant of the experimenting society. Policy Studies Journal, 1973, 2, 72-75.
+Carlson, R. Where is the person in personality research? Psychological Bulletin, 1971, 75, 203-219.
+Cartwright, D. A decade of social psychology. In R. Patton (Ed.), Current trends in psychological theory. Pittsburgh, Pa.: University of Pittsburgh Press, 1961.
+Dennis, W. The new social psychology. In R. Patton (Ed.), Current trends in social psychology. Pittsburgh, Pa.: University of Pittsburgh Press, 1948.
+Deutsch, M., & Krauss, R. M. Theories in social psychology. New York: Basic Books, 1965.
+Farberow, N. L. The crisis is chronic. American Psychologist, 1973, 28, 388-394.
+Festinger, L. A theory of cognitive dissonance. Evanston, 111.: Row, Peterson, 1957.
+Fiske, D. W. The limits for the conventional science of personality. Journal of Personality, 1974, 42, 1-11.
+Fried, S. B., Gumpper, D. C., & Allen, J. C. Ten years of social psychology: Is there a growing commitment to field research? American Psychologist, 1973, 28, 155156.
+Gergen, K. J. Social psychology as history. Journal of Personality and Social Psychology, 1973, 26, 309-320.
+Gouldner, A. W. The coming crisis of Western sociology. New York: Basic Books, 1970.
+Higbee, K. L., & Wells, M. G. Some research trends in social psychology during the 1960s. American Psychologist, 1972,27, 963-966.
+Hovland, C. I., Janis, I. L., & Kelley, H. H. Communication and persuasion. New Haven, Conn.: Yale University Press, 1953.
+Hymes, D. (Ed.). Reinventing anthropology. New York: Pantheon, 1972.
+Janis, I. L. Field experiments on the effectiveness of social support for stressful decisions. In M. Deutsch & H. Hornstein (Eds.), Problems of applying social psychology (The Majorca Conference, 1973). Hillsdale, N.J.: Erlbaum Associates, in press.
+
+Katz, D. Studies in social psychology in World War II. Psychological Bulletin, 1951, 48, 512-519.
+Kuhn, T. S. The structure of scientific revolutions (2nd ed.). Chicago, 111.: University of Chicago Press, 1970.
+Lakatos, L, & Musgrave, A. (Eds.). Criticism and the growth of knowledge. New York: Cambridge University Press, 1970.
+LeVine, R. A. Culture, behavior, and personality. Chicago, 111.: Aldine, 1973.
+Lindzey, G. Preface. In G. Lindzey (Ed.), Handbook of social psychology (Vol. 1). Reading, Mass.: AddisonWesley, 1954.
+Lindzey, G., & Aronson, E. Preface to the second edition. In G. Lindzey & E. Aronson (Eds.), Handbook of social psychology (2nd ed., Vol. 1). Reading, Mass.: Addison-Wesley, 1968.
+McGuire, W. J. Theory-oriented research in natural settings: The best of both worlds for social psychology. In M. Sherif & C. Sherif (Eds.), Interdisciplinary relationships in the social sciences. Chicago, 111.: Aldine, 1969.
+McGuire, W. J. The yin and yang of progress in social psychology: Seven koan. Journal of Personality and Social Psychology, 1973, 26, 446-456.
+Merton, R. K. Social theory and social structure (Rev. ed.). Glencoe, 111.: Free Press, 1957.
+Moscovici, S. Society and theory in social psychology. In J. Israel & H. Tajfel (Eds.), The context of social psychology. New York: Academic Press, 1972.
+Murray, H. A. Explorations in personality. New York: Oxford University Press, 1938.
+Murray, H. A. Preparations for the scaffold of a comprehensive system. In S. Koch (Ed.), Psychology: A study of a science (Vol. 3). New York: McGraw-Hill, 1959.
+Newcomb, T. M. Social psychological theory: Integrating individual and social approaches. In J. Rohrer & M. Sherif (Eds.), Social psychology at the crossroads. New York: Harper, 1951.
+Orne, M. T. Demand characteristics and the concept of design controls. In R. Rosenthal & R. L. Rosnow (Eds.), Artifact in behavioral research. New York: Academic Press, 1969.
+Ring, K. Experimental social psychology: Some sober questions about some frivolous values. Journal of Experimental Social Psychology, 1967, 3, 113-123.
+Roberts, M. J. On the nature and condition of social science. Daedalus, 1974, 103(3), 47-64.
+Rosenthal, R. Interpersonal expectations: Effects of the experimenter's hypothesis. In R. Rosenthal & R. L. Rosnow (Eds.), Artifact in behavioral research. New York: Academic Press, 1969.
+Schlenker, B. R. Social psychology and science. Journal of Personality and Social Psychology, 1974, 29, 1-15.
+Shaw, M. E. New science or non-science? Contemporary Psychology, 1974,19, 96-97.
+Shulman, A. D., & Silverman, I. Profile of social psychology: A preliminary application of "reference analysis." Journal of the History of the Behavioral Sciences, 1972, 8, 232-236.
+Smith, M. B. Is experimental social psychology advancing? Journal of Experimental Social Psychology, 1972, 8, 8696.
+Smith, M. B. Is psychology relevant to new priorities? American Psychologist, 1973, 28, 463-471. (a)
+Smith, M. B. Political attitudes. In J. N. Knutson (Ed.), Handbook of political psychology. San Francisco, Calif.: Jossey-Bass, 1973. (b)
+Smith, M. B. 'Humanizing social psychology. San Francisco, Calif.: Jossey-Bass, 1974.
+Wohlwill, J. F. The study of behavioral development. New York: Academic Press, 1973.
+
+976 * OCTOBER 1975 * AMERICAN PSYCHOLOGIST
+
+

@@ -1,0 +1,185 @@
+J Immigrant Minority Health (2010) 12:806-809 DOI 10.1007/s10903-008-9201-z
+BRIEF COMMUNICATION
+Neighborhood Context and Acculturation Among Central American Immigrants
+Laila Hochhausen AE Deborah F. Perry AE Huynh-Nhu Le
+
+Published online: 24 October 2008 O Springer Science+Business Media, LLC 2008
+
+Abstract Years in the US is often used as a proxy for acculturation, and level of acculturation may be an important predictor of differential health outcomes for immigrants. Some studies have examined the interaction between community level factors and acculturation, but not among Latinos. Level of acculturation and neighborhood concentration of Latinos was assessed in a sample of 194 Spanishspeaking, immigrant, pregnant Latinas. Neighborhood concentration of Latinos moderated the association between years living in the US and acculturation level. For individuals living in a high concentration of Latinos, longer time in the US was less related to higher levels of acculturation. In contrast, among Latinas living in a low concentration of other Latinos, the amount of time since immigrating to the US was strongly associated with level of acculturation. These findings have implications for health outcomes research done with immigrant groups, particularly Latinos.
+Keywords Acculturation A Neighborhood A Latinas
+Background
+In 2004, approximately 14% (40.3 million) of the documented U.S. population was of Latino or Hispanic descent, making Latinos the largest ethnic minority in the country-- approximately 40% foreign-born [1]. As one of the largest
+L. Hochhausen (&) A H.-N. Le Department of Psychology, George Washington University, 2125 G St., NW, Suite 212, Washington, DC 20052, USA e-mail: lhoch@gwu.edu
+D. F. Perry Department of Population, Family, and Reproductive Health, Johns Hopkins University, Baltimore, MD, USA
+
+U.S. immigrant groups, and one with a discrepant primary language, Latinos/as are an important group to target in acculturation research. Data on the relationship between level of acculturation and health paints a complex picture: some studies have shown greater acculturation predicts worse health outcomes, while other studies suggest that acculturation may be associated with improved health service use and thus better health outcomes [2]. As the number of Latino immigrants grows, there is a need for more studies which can describe patterns in health-related consequences of immigration.
+Acculturation is a complex process of change--with psychological and behavioral manifestations--experienced over time as an individual or a group is exposed to a culture different from their own [3]. For many immigrant groups, including Latinos in the U.S., a consistent predictor of acculturation level is the amount of time an individual has lived in a host country [4]. A strong relationship has also been found between language acquisition and acculturation. In one study [4], the length of time Latinos had resided in the U.S. was significantly related to their level of acculturation measured by the Short Acculturation Scale (SAS; 4, 5). This finding was replicated across two different Latino immigrant populations (i.e., Mexican Americans and first-generation Central Americans). These studies suggest that language ability is a reliable proxy measure for acculturation, and that short scales appear to measure language ability adequately.
+However, language ability may not be the only component of acculturation that is relevant for health research. Community and neighborhood context may affect the process of language acquisition and other dimensions of acculturation, and thus impact the relationship between acculturation and health outcomes. In a study of Chinese-, Polish-, and Dutch-speaking immigrants to Canada, age at
+
+123
+
+J Immigrant Minority Health (2010) 12:806-809
+
+807
+
+migration, educational attainment, and duration of residence were all significant predictors of their English ability [5]. In this study, an increase in the proportion of the surrounding population who spoke the immigrant's native language correlated with a decrease in an individual's ability to speak the new country's language. Similar findings were reported in studies of Russian immigrants in the U.S. where individuals in highly-concentrated areas of Russians reported lower levels of and slower processes of acculturation [6]. Comparable evidence of the importance of the ethnic composition of an individual's environment has also been reported in studies of Latinos. Portes and Schauffler [7] found that Latino students who lived in Miami retained more of their ability to speak Spanish compared to students in Fort Lauderdale, an area with a much lower proportion of Latinos.
+These findings underscore the need to expand health services research to include contextual (i.e., neighborhood) factors related to the acculturation process. Given the large number of Latino immigrants in the U.S., coupled with the importance of neighborhood characteristics for groups typically living in `ethnic enclaves,' we examined relationships among these variables in a sample of Latina women. The purpose of this study is to highlight the complexity of the relationship between time in the U.S. (a simple construct often used in health research) and acculturation, a complex outcome with profound effects on immigrants' health.
+Method
+Participants and Data Collection
+Participants in this study were part of a longitudinal study, approved by the George Washington University Human Subjects Review Board, evaluating the effectiveness of a cognitive-behavioral preventive intervention for perinatal depression [8]. Two-hundred and twenty participants were recruited as part of a community-based convenience sample of women accessing prenatal services at a community clinic; census data on neighborhood characteristics were available for 194 women. The remaining 26 participants did not have geocodable address information. There were no significant differences on any demographic or independent variables between the groups for those with and without census information.
+Measures
+Acculturation
+Acculturation was measured using the Spanish version of the Short Acculturation Scale (SAS; 5). This is a 4-item
+
+scale used to assess level of acculturation based on language use. Scores range from 4 to 20, where higher scores indicate a greater level of acculturation (i.e., more English use). The scale has good psychometric properties in both English and Spanish versions [9] and in this study, the reliability of the SAS was acceptable (a = .74).
+Neighborhood Concentration
+Neighborhood concentration was measured by the percentage of Latinos living in the census tract of a given participant. Each participant's current address was used to determine her census tract based on American FactFinder (http://factfinder.census.gov). Although census tracts are government-assigned, they are a constant and accessible way to measure neighborhood and have been shown to correlate with other more proximal measures of neighborhood characteristics [10]. High, medium (i.e., mean), and low levels of neighborhood concentration were calculated in order to graphically compare its effects on acculturation.
+Analysis
+Bivariate analyses were computed to elucidate the nature of the relationships among the variables. Based on the bivariate results, we plotted acculturation scores with different levels of neighborhood concentration. Last, we ran a two-step multivariate linear regression, including years in the US, years of education, and neighborhood concentration as independent variables and acculturation (i.e., SAS score) as the outcome variable in the first step (i.e., Model 1). In Model 2, we included the interaction term (Years in US with neighborhood concentration) as an additional independent variable, based on the diagram generated by the data points (see Fig. 1).
+Results
+The sample reported low overall acculturation scores (M = 5.31, SD = 1.92). The participants lived in 93 different census tracts, which ranged from 0 to 80% Latino in concentration. The mean neighborhood concentration in the sample was 23.68% (see Table 1 for demographic characteristics of the sample). There was a positive and significant relationship between years in the U.S. and level of acculturation, as well as a significant negative relationship between language score and neighborhood concentration (see Table 2 for the correlation matrix).
+To probe the interaction term, simple slopes were calculated for low, medium, and high levels of the moderator (neighborhood concentration) and plotted (see Fig. 1). The relationship between years in the U.S. and acculturation
+
+123
+
+808 J Immigrant Minority Health (2010) 12:806-809
+
+Acculturation
+
+Low Concentration Mean Concentration
+3
+2.5
+2
+1.5
+1
+0.5
+
+High Concentration
+
+with greater acculturation (see Table 3). Model 2 (with the interaction term included) was also significant (R2 = .374, P \ .001), where years in the U.S. and years of education remained significant, but the main effect of neighborhood concentration became insignificant (see Table 3). The interaction term was significant (b = .127, P \ .001), even after controlling for the other independent variables in the model 1, respectively), however the interaction term also emerged significantly as mentioned above as well as an interaction term. The inclusion of the interaction term accounted for a significant increase (7.9%) in the variance accounted for by the model, such that the equation including all four terms accounted for 37.4% of the variance in acculturation score in this sample.
+
+0 0
+
+4.5
+
+Years in US
+
+Fig. 1 Interaction between years in the US and neighborhood concentration and their effect on level of acculturation. Note: 4.5 years in the US was selected as the ``higher'' value included in the graph because it was the mean for the sample. The slopes of the lines may be extrapolated to any value for years in the US, increasing in divergence as years increase
+
+Table 1 Demographic characteristics of the sample (n = 194)
+
+M SD Range
+
+Age
+
+25.58
+
+4.53
+
+18-37
+
+Education
+
+8.91 4.03
+
+0-17
+
+Age arrived
+
+21.66
+
+5.16
+
+2-34
+
+Years in US
+
+4.54
+
+4.96 .08-34
+
+n%
+
+Country of birth Partner status
+
+El Salvador Mexico Guatemala Honduras Nicaragua Other Married/
+Cohabitating Single Other
+
+106 29 20 18 2 12
+116
+58 9
+
+56.4 15.4 10.6 9.6 1.1 6.4 63.4
+31.7 4.9
+
+was stronger for individuals living in neighborhoods with a lower concentration of Latinos. However, the relationship between years in the US and acculturation was attenuated for Latinas living with primarily other Latinos (i.e., higher concentrations).
+Model 1 was significant (R2 = .295, P \ .001), and all the independent variables were significantly associated
+
+Discussion
+The purpose of this study was to elucidate one aspect of the complex relationship among length of time in the U.S., acculturation (i.e., language ability), and neighborhood context. Consistent with other published reports (e.g., 4), the present study found that longer time in the U.S. was related to higher levels of acculturation. In this sample of predominantly Central American women, the concentration of Latinos in an individual's neighborhood affected the relationship between time in the U.S. and level of acculturation. For women living in neighborhoods with a high concentration of other Latino immigrants, longer time in the U.S. was less predictive of greater acculturation. In contrast, for those Latinas living among lower concentrations of Spanish-speaking individuals, the amount of time in the US very strongly predicted their level of acculturation. Our study replicates findings with Russian [6] immigrants in the U.S. as well as a largerscale (i.e., county-wide) study of Latinos [7], and underscores the additional role that neighborhood context may play in the acculturation process of Central American women.
+Limitations
+There are limitations to the generalizability of the current study. We measured acculturation using the four-item SAS [8], which does not assess the multiple domains of Latinas' acculturation experiences. Our measurement of neighborhood characteristics, reliant on census tracts as a measure of neighborhood concentration of Latinos, was similarly limited. Census data are static measures of the neighborhood and do not reflect the change in neighborhoods over time or individuals' perceptions of their neighborhoods. And we did not directly measure health outcomes in this study. More extensive and in-depth future research is needed to address
+
+123
+
+J Immigrant Minority Health (2010) 12:806-809
+
+809
+
+Table 2 Correlations among demographic and acculturation variables
+* P \ .05 ** P \ .001
+
+Age Years in US Age arrived Years of education Acculturation
+
+Age Years in US Age arrived Education Acculturation Neighborhood concentration
+
+.24** .64** -.06 -.08 -.03
+
+-.36** .02 .49**
+-.16**
+
+-.07 -.47**
+.18*
+
+.25** -.12
+
+-.21**
+
+Table 3 Results of multiple linear regression with acculturation as outcome variable
+* P \ .05 ** P B .001
+
+Variable
+Years in US Years of education Neighborhood concentration (Years in US 9 Neighborhood Concentration)
+
+Model 1 No interaction term b 95% CI
+
+.45** .23** -.13*
+
+.40-.50 .17-.29 -.14--.12
+
+Model 2 Interaction term included b 95% CI
+
+.86** .20** .13 -.52**
+
+.78-.94 .14-.26 .11-.15 -.57--.47
+
+the complexities of acculturation, its components, process of change over time, and impact on health outcomes.
+New Contribution to the Literature
+Nonetheless, the current study has important implications for health researchers. Given the common use of simple measures of acculturation in health services research, our findings underscore the need to consider contextual factors (e.g., neighborhood) that might influence these relationships. It is likely that influence of acculturation on health outcomes is not straightforward, and thus should be studied in-depth. When designing future health research, programs and policies for immigrant groups, levels of acculturation should be considered as well as characteristics of the community or neighborhood.
+Acknowledgement This work was supported by a grant from the Health Resources and Services Administration/Maternal Child Health Bureau (R40 MC 02497; Le, PI).
+References
+1. Pew Hispanic Center: Hispanic trends: a people in motion. http://pewhispanic.org/reports/report.php?ReportID=40 2005. Retrieved 9 Nov 2005.
+2. Lara M, Gamboa C, Kahramanian MI, Morales LS, Bautista DE. Acculturation and Latino health in the United States: a review of the literature and its sociopolitical context. Annu Rev Public Health. 2005;26:367-97. doi:10.1146/annurev.publhealth.26.021 304.144615.
+
+3. Berry JW, Sam D. Acculturation and adaptation. In: Berry JW, Segall MH, Kagitcibasi C, editors. Handbook of cross-cultural psychology: social behavior and applications. 2nd ed. Boston: Allyn & Bacon; 1997. p. 291-326.
+4. Wallen GR, Feldman RH, Anliker J. Measuring acculturation among Central American women with the use of a brief language scale. J Immigr Health. 2002;4:95-102. doi:10.1023/A:1014550 626218.
+5. Chiswick B, Miller P. A model of destination-language acquisition: application to male immigrants in Canada. Demography. 2001;38:391-409. doi:10.1353/dem.2001.0025.
+6. Birman D, Trickett E, Vinokurov A. Acculturation and adaptation of Soviet Jewish refugees in the United States: predictors of adjustment across life domains. Am J Community Psychol. 2002;30:585-607. doi:10.1023/A:1016323213871.
+7. Portes A, Schauffler R. Language and the second generation: bilingualism yesterday and today. Int Migr Rev. 1994;28:640-61. doi:10.2307/2547152.
+8. Le HN, Lara A, Perry DF. Recruiting Hispanic women in the US and women in Mexico in postpartum depression prevention research. Arch Womens Ment Health. 2008;11:159-69. doi: 10.1007/s00737-008-0009-6.
+9. Marin G, Sabogal G, Marin BV, Otero-Sabogal R, Perez-Stable EJ. Development of a short acculturation scale for Hispanics. Hisp J Behav Sci. 1987;9:183-205. doi:10.1177/073998638700 92005.
+10. Herrenkohl T, Hawkins D, Abbott RD, Guo J. Correspondences between youth report and census measures of neighborhood context. J Community Psychol. 2002;30:225-33. doi:10.1002/ jcop.10005.
+
+123
+
+

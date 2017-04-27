@@ -1,0 +1,812 @@
+Social Science & Medicine 95 (2013) 97e105
+Contents lists available at SciVerse ScienceDirect
+Social Science & Medicine
+journal homepage: www.elsevier.com/locate/socscimed
+
+Neighborhood context and racial/ethnic differences in young children's obesity: Structural barriers to interventions
+Rachel Tolbert Kimbro*, Justin T. Denney
+Department of Sociology, MS-28, Kinder Institute Urban Health Program, Rice University, 6100 Main St., Houston, TX 77005, USA
+
+article info
+Article history: Available online 6 October 2012
+Keywords: USA Children Obesity Race/ethnicity Neighborhoods
+
+abstract
+Numerous studies in the last ten years have investigated racial/ethnic disparities in obesity for young children. Increasing attention is paid to the influence of neighborhood environments e social and physicaldon a variety of young children's health outcomes. This work identifies resource-based and community-based mechanisms that impede on the maintenance of healthy weights for young children in socioeconomically depressed areas, and shows consistently higher rates of obesity in more deprived areas. None of this work, however, has explored whether area deprivation or the race/nativity composition of neighborhoods contributes to racial/ethnic disparities in young children's obesity. Utilizing restricted geo-coded data from the Early Childhood Longitudinal Study (Kindergarten) (N 1/4 17,540), we utilize multilevel logistic regression models to show that neighborhood level measures do little to explain racial and ethnic differences in childhood obesity. However, living in neighborhoods with higher levels of poverty, lower levels of education, and a higher proportion of black residents is associated with increased child obesity risk after considering a host of relevant individual level factors. In addition, living in neighborhoods with a higher proportion of foreign-born residents is associated with reduced child obesity risk. Although well-intentioned childhood obesity intervention programs aimed at changing individual-level behaviors are important, our results highlight the importance of considering neighborhood structural factors for child obesity prevention.
+O 2012 Elsevier Ltd. All rights reserved.
+
+Introduction
+Young children's increasing overweight and obesity in the United States has received considerable scholarly attention over the past decade. Despite a recent stabilizing in the upward obesity trend for children and adolescents in the U.S., child overweight remains a significant public health issue, with 31.7% of children ages 2e19 overweight or obese (Ogden, Carroll, Curtin, Lamb, & Flegal, 2010), and significant and increasing disparities by socioeconomic status (SES) (Singh, Siahpush, & Kogan, 2010a) and race/ ethnicity (Kimbro, McLanahan, & Brooks-Gunn, 2007; Whitaker & Orzol, 2006). In addition to research documenting the increase in overweight and obesity for children, a large amount of current medical research aims to develop and evaluate interventions for preventing and reducing children's overweight (for a recent review, see Hesketh & Campbell, 2010). In this paper, we argue that structural conditions in children's neighborhoods influence
+* Corresponding author. Tel.: 1 713 348 4265; fax: 1 713 348 5296. E-mail address: rtkimbro@rice.edu (R.T. Kimbro).
+0277-9536/$ e see front matter O 2012 Elsevier Ltd. All rights reserved. http://dx.doi.org/10.1016/j.socscimed.2012.09.032
+
+obesity above and beyond individual- and family-level factors e and this means that policies need to take structure into account, particularly when targeted at minority children living in neighborhoods with multiple structural barriers to good health. Using a unique restricted, geocoded dataset (the Early Childhood Longitudinal Study, Kindergarten wave) we take advantage of information on children and their neighborhoods and the large, ethnically diverse sample to test whether accounting for neighborhood characteristics reduces the observed race/ethnic differences in child obesity.
+Racial and ethnic differences in obesity for young children
+The most recent estimates of overweight among young children in the United States indicate that 21.2% of children ages 2e5 are overweight (!85th percentile on the CDC's sex-specific BMI-for-age growth charts), and 35.5% of children ages 6e11 are overweight. Considering children at or above the 95th percentile, 10.4% of young children ages 2e5 are obese, and 19.6% of children ages 6e11 are obese (Ogden et al., 2010). Although rates of overweight and obesity are high overall for U.S. children, large racial/ethnic differences exist, particularly between minority children and Non-Hispanic white
+
+98 R.T. Kimbro, J.T. Denney / Social Science & Medicine 95 (2013) 97e105
+
+children. Among Hispanic children, 27.7% of children ages 2e5 are overweight, as are fully 42.6% ages 6e11; contrasted with 17.4% of Non-Hispanic white children ages 2e5, and 34.5% ages 6e11; and 26.0% of black children ages 2e5, and 37.6% ages 6e11 (Ogden et al., 2010). In terms of racial/ethnic differences in obesity (at or above the 95th percentile), differences are considerably smaller e 9.1% of nonHispanic white children ages 2e5 are obese, compared to 8.7% of black children and 14.2% of Hispanic children.
+Multiple hypotheses for racial and ethnic disparities in young children's overweight status have been proposed (Yancey & Kumanyika, 2007) and research findings have centered largely on group differences in socioeconomic status (SES) (Singh, Kogan, Van Dyck, & Siahpush, 2008; Whitaker & Orzol, 2006), cultural differences between groups (Contento, Basch, & Zybert, 2003), and differences in parenting surrounding diet and physical activity (Rhee, 2008). Significant between-group racial/ethnic differences remain, however, even when focused within SES groups (e.g. only affluent children) (Singh et al., 2008). Although many of these studies account for a wide range of proximate factors known to be associated with obesity, to our knowledge, none has been able to completely account for these disparities. Scholars interested in the determinants of young children's weight status have recently focused on neighborhood environments as catalysts for healthy and unhealthy trajectories in weight, raising the question of whether differing neighborhood contexts might drive race/ethnic disparities in child obesity.
+Neighborhoods and child obesity
+Beginning in the late 1990s, researchers found links between area deprivation measures and children's weight status (Booth, Macaskill, Lazarus, & Baur, 1999; Jansen & HazebroekKampschreur, 1997; Kinra, Nelder, & Lewendon, 2000), although methodological considerations limited the conclusions that could be drawn from these studies. More recent work with new methods also finds links between area measures and child obesity, although the factors predicting obesity may vary by SES of the neighborhood (Edwards, Clarke, Ransley, & Cade, 2010). Two recent studies documented a link between neighborhood SES and obesity in school-aged children (Grow et al., 2010; Singh, Siahpush, & Kogan, 2010b). Grow et al. (2010) find, using a wide array of Census measures at the tract level in King County, WA, that for insured children aged 6e18, less social advantage is associated with higher rates of obesity. Utilizing nationally-representative data but subjective, parent-reported neighborhood information, Singh et al. (2010b) find that overweight and obesity is higher among children aged 10e17 in neighborhoods that parents rate as unsafe or as having poor conditions.
+Explanations for the influence of neighborhood environments on child health outcomes generally center on two main theoretical frames, both of which capitalize on the inherent social inequality in neighborhoods in the United States e first, that neighborhoods enjoy differential levels of resources, which impact children through accumulating advantages or disadvantages; and second, that neighborhoods are comprised of different types of residents with different social norms, which impact the behaviors and opportunities of residents, including children (Jencks & Mayer, 1990; Shonkoff & Phillips, 2000). The theories are complementary given that minority groups tend to be concentrated in underresourced neighborhoods. In other words, it is likely that children's neighborhood experiences are influenced both by the structural advantages or disadvantages (e.g. resources) in their neighborhoods as well as by the demographic composition and social characteristics of local residents. Although there is debate about whether neighborhoods may be more influential for older
+
+children and adolescents, even very young children interact with a variety of social institutions in neighborhood environments and in fact likely spend more of their time at home experiencing their neighborhood environment (Klebanov, Brooks-Gunn, Gordon, & Duncan, 1997; Shonkoff & Phillips, 2000).
+Neighborhood resources and obesity
+Research focused on neighborhood resources as determinants of adults' weight status tends to find that individuals in more disadvantaged neighborhoods have lower levels of physical activity and higher rates of obesity, controlling for individual-level SES (e.g. Boardman, Saint Onge, Rogers, & Denney, 2005). These links may be due to safety concerns (Fish, Ettner, Ang, & Brown, 2010), the built environment (Lovasi, Hutson, Guerra, & Neckerman, 2009), and access to and affordability of healthy foods (e.g. Powell, Chaloupka, & Bao, 2007). Potential mechanisms linking neighborhoods to obesity for children are similar to those for adults. Poorer neighborhoods also may have some factors beneficial to physical activity e like density (Franzini et al., 2009), yet also may be perceived as less safe and have higher levels of physical disorder such as graffiti and abandoned homes (Franzini et al., 2010).
+Neighborhood social characteristics and obesity
+More disadvantaged neighborhoods tend to evidence social disorganization e such as low levels of social cohesion and social capital (Sampson & Raudenbush, 2004). Differences in neighborhood social processes such as collective efficacy are linked to adult weight status and physical activity (e.g. Kawachi & Berkman, 2000). In fact, there is increasing evidence that the social characteristics of neighborhoods may be more important predictors of physical activity and weight status for children and adolescents than physical characteristics of neighborhoods like the built environment (Duke, Borowsky, & Pettingell, 2011; Franzini et al., 2010). Parenting practices such as those surrounding nutrition and physical activity may be shared in more socially homogenous neighborhoods. Grow et al. (2010) find an increased risk of obesity for children living in neighborhoods with a higher proportion of non-white residents and similar results have been reported for adults (Boardman et al., 2005). The effect of neighborhood level nativity status is largely unexplored in the literature on child weight. Children of immigrants are generally less likely to be obese (e.g. Singh, Kogan, & Yu, 2009) but the relationship varies by ethnic group and gender (Balistreri & Van Hook, 2009).
+Hypotheses
+The existing research suggests that the structural and social characteristics of children's neighborhoods exert an impact on their risk of obesity, but to our knowledge, this hypothesis has yet to receive comprehensive attention using national data on young children and Census characteristics of neighborhoods. A first set of hypotheses addresses if and in what ways neighborhoods matter for child obesity risk after accounting for more proximate individual level factors: (H1) children living in disadvantaged neighborhoods e lower incomes, lower levels of education, and higher levels of single-mother households and out-of-work residents e will exhibit higher odds of obesity than children living in neighborhoods with higher socioeconomic status; and (H2) children living in high non-white neighborhoods and high foreign born neighborhoods will have higher odds of obesity.
+Do neighborhood environments exert an influence on children's weight status, or is it simply that neighborhoods may be comprised
+
+R.T. Kimbro, J.T. Denney / Social Science & Medicine 95 (2013) 97e105
+
+99
+
+primarily of poor minorities who are more likely to be overweight? Advancements in statistical modeling can assist in distinguishing between these contextual and compositional effects (Duncan, Jones, & Moon, 1996). But more recent developments contend that researchers should take caution when making such distinctions (Cummins, Curtis, Diez-Roux, & Macintyre, 2007; Frohlich, Katherine, Corin, & Potvin, 2001). Specifically, Cummins et al. (2007) discount the usefulness of the context versus composition debate because inhabitants influence their place of residence at the same time that their place of residence influences them. Furthermore, trying to discern whether a measure's effect is contextual or compositional is empirically challenging (Cummins et al., 2007) and risks ignoring that people are influenced by multiple places (e.g. home, work, school) in varying ways over the life course. Following this latest work we instead attempt to more explicitly recognize the importance of individual and structural conditions impacting health (Cockerham, 2005).
+A final hypothesis focuses on the salience of neighborhood characteristics in explaining race/ethnic disparities in child obesity. If, on average, Hispanic and African-American children are more likely to reside in neighborhoods with higher poverty rates and a greater concentration of minority residents, then once we take those structural factors into account, rates of obesity for these children should be closer to those of white children, who are less likely to reside in such neighborhoods. Thus, (H3) accounting for neighborhood social and economic characteristics will reduce the associations between race/ethnicity and child obesity.
+Data and methods
+This study uses restricted, geo-coded data from the fall kindergarten wave of the Early Childhood Longitudinal StudyKindergarten Cohort (ECLS-K), which is a nationally-representative sample of U.S. children who were in kindergarten in 1998e1999. Although the data are longitudinal, to preserve our sample size and to take advantage of the clustering of children in neighborhoods, we utilize data only from the fall kindergarten wave. The restricted version of the data provides Census tract numbers which may be linked with a Census 2000 data file provided by ECLS-K to create neighborhood-level measures (Beveridge, Catsambis, Weber, Michalowski, & Ng, 2004). Children are sampled from within schools, restricted use data provide home location information, and the sample is racially and ethnically diverse.
+The ECLS-K sample includes 21,400 children (in accordance with our restricted data agreement we round all sample sizes to the nearest 10). We drop 18% of the original sample1 because they are missing information sufficient to match the geocoded census information at the tract level. This leaves us with an analytic sample of 17,530 children who live in 4740 tracts. Roughly 12% of the sample represents the sole observation in their census tract and the average number of children per census tract is 3.7, although this does not create estimation problems (Bell, Ferron, & Kromrey, 2008). We conduct sensitivity analyses by comparing our results before and after dropping the singleton neighborhood cases and find no differences in results so they are included in the final models.
+1 The 18% of the sample missing a geocoded address is slightly less likely to be white; less likely to be Hispanic; and more likely to be of an "other" race; mothers in this missing group are less likely to have a college education; more likely to be below the poverty line; and these children are less likely to live with both biological parents. These differences, however, are small; and we do not believe their exclusion systematically biases our results.
+
+Variables
+Our outcome measure, whether a child is obese, is based on the CDC's gender-specific weight-for-age guidelines, and children were weighed and measured by trained ECLS-K interviewers. Children at or above the 95th percentile according to the CDC's guidelines are classified as obese. We focus on obesity rather than overweight because it reflects a more severe health status for children and is related more strongly to health problems in adolescence and adulthood than child overweight (Dietz, 1998).
+Individual-level variables include the child's race/ethnicity (non-Hispanic white, non-Hispanic black, Hispanic, non-Hispanic Asian, and non-Hispanic other), child's age in months, low birth weight (<2500 g), the child's gender (1 1/4 male), the mother's age and level of education (less than high school, high school degree, or college degree or more), the mother's employment status (works full-time, works part-time, and does not work), the federal poverty threshold level of the household (under 100% of the Federal Poverty Line (FPL) in 1999, 100e200% FPL, 200e300% FPL, and 400% FPL), whether the households receive food stamps (1 1/4 yes), the number of siblings in the household, family structure (two-parent family, single-mother family, and other family type), and a mother-reported measure of the average number of weekday television hours the child watches (Less than 2 h, 2e3 h, and 4 or more hours). All of these characteristics have been linked to child obesity in prior studies (e.g. Singh et al., 2008).
+To capture the neighborhood characteristics that influence child obesity risk we follow the recommendation of Grow et al. (2010) and control for neighborhood population density (also see, Chaix, Rosvall, Lynch, & Merlo, 2006) in order to account for neighborhood differences which may arise between dense urban and less dense suburban environments. We also present individual neighborhood measures rather than combining census measures, to better evaluate which measures of disadvantage matter for child obesity. Neighborhood-level SES measures include the percent of households in the Census tract living below the poverty line, the percent of the neighborhood's adult population with less than a high school degree, the percent of households receiving public assistance, the percent of the population age 16 and older who were unemployed, and the percent of female-headed households with children. Neighborhood-level racial and nativity measures include percent of the population non-Hispanic black, percent of the population Hispanic, and percent of the population foreign born. We classify all neighborhood variables into terciles allowing us to compare neighborhoods with low poverty, for example, to neighborhoods with medium and high poverty.
+Missing data
+Approximately 16% of children remaining in our analytic sample are missing data on one or more measures of interest. About 3.9% are missing data used to calculate obesity. Children missing data were more often non-Hispanic black or Hispanic, poorer, lived with single mothers, and had less-educated mothers. Given the evidence that our missing data are not missing completely at random and may be conditioned by other observed covariates, standard procedures such as list-wise deletion would be inappropriate (Allison, 2001). Instead, we use multiple imputation procedures with the ICE command in Stata 12 (Royston, 2005) to estimate values for our multivariate analyses. During imputation, a diverse set of predictors estimate twenty sets of probable values for each missing value. The resulting twenty data sets include a random component based on draws from the posterior predictive
+
+100 R.T. Kimbro, J.T. Denney / Social Science & Medicine 95 (2013) 97e105
+
+Table 1 Individual- and neighborhood-level descriptive statistics for the ECLS-K fall kindergarten sample.a
+
+Full sample
+
+Whites
+
+Blacks
+
+Hispanics
+
+Asians
+
+Others
+
+% or mean (SD)
+
+% or mean (SD)
+
+% or mean (SD)
+
+% or mean (SD)
+
+% or mean (SD)
+
+% or mean (SD)
+
+Child is obese
+
+11.2
+
+9.6
+
+11.4**
+
+16.1***
+
+10.8
+
+10.6
+
+(!95th BMI percentile)
+
+Panel A. Individual characteristics
+
+Child's age in months
+
+68.4 (4.3)
+
+68.8 (4.3)
+
+68.1 (4.3)***
+
+67.7 (4.3)***
+
+67.4 (4.2)***
+
+68.2 (4.2)***
+
+Low birth weight
+
+8.1
+
+6.3
+
+14.6***
+
+8.0***
+
+8.8***
+
+7.5
+
+Gender (female, ref)
+
+49.3
+
+48.8
+
+50.0
+
+50.0
+
+50.0
+
+48.6
+
+Male
+
+50.7
+
+51.2
+
+50.0
+
+50.0
+
+50.0
+
+51.4
+
+Mother's age
+
+33.2 (6.6)
+
+33.9 (5.6)
+
+32.0 (8.2)***
+
+31.8 (6.6)***
+
+34.5 (6.1)**
+
+32.8 (7.3)***
+
+Mother's education
+
+15.6
+
+7.8
+
+19.9***
+
+35.3***
+
+17.7***
+
+13.1***
+
+(less than
+
+high school, ref)
+
+High school or
+
+60.6
+
+61.3
+
+69.6***
+
+55.2***
+
+47.1***
+
+67.3**
+
+some college
+
+College degree
+
+23.7
+
+30.9
+
+10.5***
+
+9.5***
+
+35.2**
+
+19.6***
+
+Mother's employment 45.1
+
+42.2
+
+58.3***
+
+41.8
+
+48.9***
+
+43.8
+
+status
+
+(full-time work, ref)
+
+Part-time work
+
+21.5
+
+26.2
+
+12.6***
+
+17.3***
+
+14.5***
+
+21.8*
+
+Unemployed
+
+33.4
+
+31.7
+
+29.1**
+
+40.9***
+
+36.6***
+
+34.4
+
+Poverty thresholds
+
+21.2
+
+10.1
+
+42.4***
+
+36.8***
+
+23.1***
+
+19.8***
+
+(<100% FPL, ref)
+
+100%e200% FPL
+
+22.9
+
+19.1
+
+27.9***
+
+29.9***
+
+22.2**
+
+24.8**
+
+200%e300% FPL 300% FPL
+
+19.3 36.7
+
+22.1 48.7
+
+14.4*** 15.4***
+
+14.6*** 18.7***
+
+18.5** 36.2***
+
+21.1 34.3***
+
+Receives food stamps
+
+18.4
+
+9.2
+
+44.6***
+
+24.6***
+
+16.1***
+
+21.3***
+
+Number of siblings
+
+1.5 (1.2)
+
+1.4 (1.0)
+
+1.6 (1.3)***
+
+1.5 (1.2)***
+
+1.7 (1.8)***
+
+1.4 (1.2)
+
+Family structure
+
+74.0
+
+83.0
+
+39.5***
+
+72.3***
+
+85.3
+
+66.9***
+
+(two parents,
+
+married or
+
+cohabiting, ref)
+
+Single mother family 20.7
+
+12.9
+
+49.8***
+
+23.2***
+
+9.9**
+
+23.9***
+
+Other family type
+
+5.4
+
+4.0
+
+10.7***
+
+4.5
+
+4.8
+
+9.2***
+
+Daily television viewing 45.4
+
+50.8
+
+33.2***
+
+39.3***
+
+47.0***
+
+42.5***
+
+(less than 2 h, ref)
+
+2e3 h 4 or more hours
+
+42.5 10.4
+
+41.4 6.7
+
+45.7*** 18.6***
+
+45.5*** 13.3***
+
+36.7* 13.6***
+
+43.2 12.5***
+
+N 17,530 Panel B. Neighborhood characteristicsb,c
+
+9750
+
+2670
+
+3260
+
+1240
+
+610
+
+Mean (SD) [range]
+
+Mean (SD) [range] Mean (SD) [range]
+
+Mean (SD) [range] Mean (SD) [range] Mean (SD) [range]
+
+% in poverty % with less than high
+
+13.1 (11.2) [0.0e72.3] 8.7 (6.8) [0.0e70.0] 23.3 (14.5) [0.0e67.7] 18.2 (11.7) [0.0e72.3] 13.0 (10.6) [0.0e57.2] 12.3 (9.2) [1.0e53.1] 21.5 (14.9) [0.0e82.0] 15.6 (9.7) [0.0e74.1] 29.0 (13.6) [1.5e76.6] 33.7 (19.0) [1.0e82.0] 21.1 (14.2) [0.0e74.7] 18.7 (12.2) [0.0e68.6]
+
+school education
+
+% households receiving public assistance
+
+4.2 (4.7) [0.0e44.0]
+
+2.5 (2.5) [0.0e25.6] 7.4 (6.2) [0.0e44.0]
+
+6.4 (5.4) [0.0e34.5] 5.3 (5.9) [0.0e44.0] 4.2 (4.1) [0.0e29.0]
+
+% aged 16 and older unemployed
+
+6.5 (5.0) [0.0e62.5] 4.6 (3.0) [0.0e38.0] 10.4 (6.6) [0.0e52.2] 9.0 (5.7) [0.0e46.1] 6.3 (4.7) [0.0e62.5] 6.1 (3.8) [1.0e28.7]
+
+% female headed households
+
+8.2 (6.0) [0.0e66.7] 5.9 (3.6) [0.0e35.0] 15.0 (8.3) [0.0e55.6] 9.7 (5.6) [0.0e66.7] 7.6 (5.2) [0.0e34.9] 8.1 (5.1) [0.0e33.2]
+
+with children
+
+% non-Hispanic black % Hispanic
+
+13.9 (23.1) [0.0e100.0] 5.8 (10.2) [0.0e97.5] 51.0 (31.9) [0.0e100.0] 10.0 (15.8) [0.0e98.7] 8.2 (13.0) [0.0e92.9] 11.8 (16.8) [0.0e98.2] 15.2 (22.5) [0.0e99.6] 6.5 (10.8) [0.0e95.5] 11.9 (16.8) [0.0e96.6] 43.2 (30.5) [0.0e99.6] 17.9 (19.2) [0.0e92.3] 13.4 (17.4) [0.0e97.3]
+
+% foreign born
+
+12.4 (14.8) [0.0e83.8] 6.9 (8.5) [0.0e79.0] 10.2 (12.2) [0.0e69.3] 26.7 (18.6) [0.0e83.8] 23.7 (17.3) [0.0e80.0] 12.3 (12.5) [0.0e69.6]
+
+*p < 0.05; **p < 0.01; ***p < 0.001 Chi squares or t-tests for significant differences between Non-Hispanic Whites and other racial/ethnic groups. a Sample sizes reflect the multiple imputation samples used in all analyses and are rounded to the nearest 10 in accordance with our restricted data agreement. b There are 4740 neighborhoods included in the analysis.
+c All tests for differences between whites and other racial groups for the neighborhood characteristics significant at the p < 0.001 level.
+
+distribution of the missing data under a posited Bayesian model and, under the missing-at-random assumption, provide unbiased estimates of variance (Allison, 2001). Models estimated without imputation provide results very similar to the imputation results (available upon request).
+
+logistic multi-level models (Guo & Zhao, 2000; Rabe-Hesketh &
+Skrondal, 2008) using the MIM command within STATA 12 soft-
+ware (StataCorp, 2010). Multilevel models treat level-1 individuals as nested within level-2 census tracts.2 We estimate random
+
+Estimation
+To test the effects of neighborhood conditions on individual odds for obesity among children we estimate random-intercept
+
+2 We will refer to these census tracts as neighborhoods and recognize both the limitations of census tracts as meaningful indicators of place as well as the strengths of identifying structural indicators of health risks through census tract information (Kawachi & Berkman, 2003).
+
+R.T. Kimbro, J.T. Denney / Social Science & Medicine 95 (2013) 97e105
+
+101
+
+intercept models and treat the effects of individual and neighborhood factors as fixed.3 The random intercept model allows us to model unobserved heterogeneity across neighborhoods while estimating effects based on individual and neighborhood characteristics.
+All models utilize maximum likelihood estimation with adaptive quadrature (Rabe-Hesketh & Skrondal, 2008), adjusting for clustering by neighborhood, different sample sizes for level-1 and level-2 units, heteroscedastic error terms, and varying numbers of cases within level-2 units e all problems that otherwise downwardly bias estimated standard errors (Raudenbush & Bryk, 2002). The multilevel model for binary outcomes adds to a traditional logit model with the inclusion of a neighborhood-level error component (uj). The following equation represents the probability of child obesity, allowing risk to vary across neighborhoods and includes individual-level (xij) and neighborhood-level (zj) explanatory variables:
+
+AA
+
+AA
+
+log Pij= 1 A Pij
+
+1/4
+
+b0
+
+ b1xij
+
+ b2zj  uj
+
+(1)
+
+The probability (Pij) that the ith child in the jth neighborhood is
+obese is determined in Equation (1), where b0 is the model intercept, b1xij is a level 1 (individual) predictor, b2zj is a level 2
+(neighborhood) predictor, and uj is the random effect of neighborhoods on obesity risk. Error across neighborhoods is captured
+by a level-2 residual term with a mean of zero and an unknown
+variance, s2u (McCulloch & Searle, 2001). This level-2 residual can be
+used to estimate the extent to which residual variation in the log-
+odds of obesity is situated within or between neighborhoods. The
+intraclass correlation coefficient (ICC) is simply the ratio of level-2
+residual variance to the overall residual variance su2  s2e . We use p2/3 (the variance of the standard logistic distribution) as an esti-
+mate for the level-1 variance (Guo & Zhao, 2000).
+In presenting regression results, we first estimate models with individual-level effects (level 1) only to show the disparities for
+obesity by race/ethnic group and to evaluate how individual char-
+acteristics influence the disparities (Table 2). We then add SES and race/nativity neighborhood-level effects to address our hypotheses
+(Tables 3 and 4).
+
+Results
+Table 1 presents sample means for the dependent and independent variables as well as a race/ethnic comparison across measures. Just over 11% of children in the full sample are classified as obese, with considerable differences across race/ethnicity. Black children are significantly more likely to be obese than white children, at 11.4% compared to 9.6%, but the largest difference is between white and Hispanic children (16.1% obese). Asian children and those of other race/ethnic statuses have a similar obesity prevalence compared to white children.
+On average, the children in the sample are about five and a half years old. In general, Table 1 shows that non-Hispanic white children hold advantages over other groups on most measures. For example, black children (14.6%), Hispanic children (8.0%), and Asian children (8.8%) are more likely than white children (6.3%) to have been born with a low birth weight. Just 10.1% of white children live
+
+3 Multilevel models also allow for random effects to test, for example, for varying individual effects across neighborhoods. However, research to date indicates that estimating random effects with small cluster sizes presents some special challenges while estimating fixed effects with small clusters has shown considerable stability especially when level-2 units exceed 500 (see Bell et al., 2008 and Maas & Hox, 2005). These considerations are applicable to the data used here as 47.3% of neighborhoods include a single child but there are over 4000 level-2 units.
+
+Table 2
+Multilevel logistic regression odds ratios (odds ratios listed above 95% confidence intervals) for individual characteristics and child obesity.a,b
+
+Model 1 Race/ethnicity (non-Hispanic white, ref)
+Non-Hispanic black
+Hispanic
+Non-Hispanic Asian
+Other race
+Child's age in months
+
+Model 2
+1.15 0.99,1.33 1.68*** 1.47,1.91 1.06 0.87,1.31 1.08 0.82,1.43
+
+Low birth weight
+
+Gender (female, ref) Male
+
+Mother's age
+
+Mother's education (less than high school, ref) High school
+
+Greater than high school
+
+Mother's employment status (works full-time, ref) Works part-time
+
+Does not work
+
+Poverty thresholds (under 100%, ref) 100e200%
+200e300%
+
+400% and over
+
+Food stamps (does not receive, ref) Receives food stamps
+
+Number of siblings
+
+Family (two-parent family, ref) Single-mother family
+
+Other family type
+
+Television viewing (less than 2 h, ref) 2e3 h
+4 or more hours
+sm2 0.17 ICC 0.05
+
+0.12 0.04
+
+Model 3
+1.04 0.88,1.22 1.52*** 1.32,1.75 1.05 0.86,1.30 1.03 0.78,1.37 1.00 0.99,1.01 0.58*** 0.46,0.72
+1.19*** 1.07,1.31 1.01** 1.01,1.02
+1.02 0.88,1.19 0.82* 0.66,0.99
+0.84* 0.73,0.96 0.81** 0.72,0.92
+0.97 0.83,1.14 0.81* 0.67,0.98 0.70*** 0.58,0.84
+0.90 0.76,1.07 0.86*** 0.82,0.90
+1.01 0.88,1.17 0.78 0.60,1.01
+1.11 1.00,1.20 1.27* 1.05,1.53 0.10 0.03
+
+p < 0.10; *p < 0.05; **p < 0.01; ***p < 0.001. a All models control for population density in the neighborhood. b All estimates generated through multiple imputation procedures. Source: ECLS-
+K 1998e1999.
+
+below the poverty line (<100% FPL) compared to fully 42.4% of black children, 36.8% of Hispanic children, 23.1% of Asian children, and 19.8% of children of other race/ethnicities. And all other racial/ ethnic groups are more likely to watch four or more hours of television on weekdays than are white children.
+There are also large differences in neighborhood environments for the racial/ethnic groups in the sample. On average, children in our sample live in neighborhoods where 13.1% of residents are in poverty. However, white children live in neighborhoods where, on average, only 8.7% of residents are in poverty but black children, on average, live in neighborhoods where 23.3% of residents are in poverty. Hispanic (18.2%) and Asian (13.0%) children live in higher poverty neighborhoods as well. White children live in
+
+102 R.T. Kimbro, J.T. Denney / Social Science & Medicine 95 (2013) 97e105
+
+Table 3 Multilevel logistic regression (odds ratio listed above 95% confidence intervals) for neighborhood SES measures and child obesity.a,b
+
+Race/ethnicity (non-Hispanic white, ref) Non-Hispanic black
+Hispanic
+Non-Hispanic Asian
+Other race
+Neighborhood SES terciles Poverty (low poverty, ref)
+Medium poverty
+High poverty
+Education (low less than high school educated, ref) Medium less than high school educated
+High less than high school educated
+Public assistance (low receiving public assistance, ref) Medium receiving public assistance
+High receiving public assistance
+Unemployment (low unemployment, ref) Medium unemployment
+High unemployment
+Female headed households with children (low, ref) Medium female headed households with children
+
+Model 1
+0.99 0.83,1.16 1.46*** 1.26,1.69 1.04 0.84,1.28 1.02 0.77,1.36
+1.17* 1.02,1.34 1.28** 1.09,1.49
+
+Model 2
+0.99 0.84,1.17 1.46*** 1.26,1.69 1.03 0.84,1.27 1.03 0.78,1.37
+1.32*** 1.14,1.51 1.34*** 1.15,1.56
+
+Model 3 1.01 0.85,1.19 1.49*** 1.29,1.72 1.04 0.84,1.28 1.02 0.77,1.35
+1.06 0.92,1.21 1.14 0.98,1.32
+
+Model 4 1.03 0.87,1.22 1.51*** 1.30,1.74 1.05 0.85,1.29 1.03 0.77,1.36
+1.16* 1.01,1.33 1.10 0.94,1.28
+
+High female headed households with children
+
+sm2
+
+0.10
+
+0.09
+
+0.10
+
+0.10
+
+ICC
+
+0.03
+
+0.03
+
+0.03
+
+0.03
+
+p < 0.10; *p < 0.05; **p < 0.01; ***p < 0.001. a All models control for population density in the neighborhood and all individual level characteristics from Table 2. b All estimates generated through multiple imputation procedures. Source: ECLS-K 1998e1999.
+
+Model 5 1.01 0.85,1.20 1.51*** 1.31,1.74 1.05 0.85,1.30 1.02 0.77,1.36
+1.00 0.87,1.14 1.07 0.92,1.25 0.10 0.03
+
+Model 6
+1.01 0.85,1.20 1.48*** 1.27,1.71 1.04 0.84,1.28 1.04 0.79,1.38
+1.10 0.94,1.30 1.24 0.99,1.55
+1.31*** 1.12,1.53 1.32** 1.08,1.61
+0.93 0.80,1.089 0.94 0.77,1.15
+1.05 0.91,1.22 0.90 0.74,1.08
+0.93 0.80,1.07 0.94 0.79,1.13 0.09 0.03
+
+neighborhoods where the average proportion of the population without a high school degree is lower (15.6%) than the average for the full sample (21.5%) and the opposite is true for black (29.0%) and Hispanic (33.7%) children.
+The neighborhood race and nativity measures show considerable racial/ethnic and nativity segregation in the neighborhoods where the children in the sample reside. On average, a black child lives in a neighborhood that is majority black (51.0%) while a white child, on average, lives in a neighborhood that is just 5.8% black. The average Hispanic child in our sample lives in a neighborhood that is 43.2% Hispanic and 26.7% foreign born and the corresponding proportions for white children are 6.5% Hispanic and 6.9% foreign born.
+Table 2 provides odds ratios for child obesity risk from multilevel models incorporating individual measures, controlling for the population density in the child's neighborhood, and allowing the risk of obesity to vary across neighborhoods. Model 1 provides the null model estimates and a corresponding unadjusted ICC for obesity. According to the model, 5% of the variation in the risk of child obesity is due to the unobserved characteristics associated with children's neighborhoods.
+Model 2 includes only the child's race/ethnicity and shows that blacks have a moderately significant 15% higher odds of obesity but Hispanics face 68% increased odds compared to whites. Model 3 shows that other individual level predictors reduce the black/white difference to non-significance and reduce the increased Hispanic odds for obesity by 16% (1.68 A 1.52/1). That is, 16% of the elevated
+
+risk of obesity among Hispanic children compared to whites is due to individual-level differences in the two groups.
+The estimates in Model 3 show strong individual relationships between sociodemographic, socioeconomic, family structure, and television viewing measures and obesity. For example, child obesity odds decrease when mothers do not work outside the home and with higher income relative to the poverty threshold. In addition, when children have more siblings their obesity odds decrease; and the more television they watch per day the higher their odds of being obese. The ICC in Model 3 suggests that 3% of the variance in obesity due to unobserved neighborhood characteristics remains after accounting for individual level differences.
+Tables 3 and 4 provide estimates of neighborhood SES and race/ nativity measures on child obesity risk. All models in these tables control for the individual measures presented in Table 2 but focus on the effects of the neighborhood characteristics. In evaluating the results from Tables 3 and 4, we are interested first in whether neighborhood characteristics shape the risk of child obesity after accounting for individual characteristics (Hypotheses 1 and 2). Second, we are interested in whether neighborhood characteristics further reduce or eliminate racial differences in child obesity (Hypothesis 3). Recall from Table 2, individual characteristics explain the increased black obesity odds but Hispanics remain 52% more likely than whites to be obese.
+Looking across models, Table 3 shows that neighborhood SES characteristics do little to impact the increased odds of obesity among Hispanic children. However, Model 1 shows that children
+
+R.T. Kimbro, J.T. Denney / Social Science & Medicine 95 (2013) 97e105
+
+103
+
+Table 4
+Multilevel logistic regression (odds ratio listed above 95% confidence intervals) for neighborhood race/nativity measures and child obesity.a,b
+
+Model 1
+
+Model 2
+
+Race/ethnicity (non-Hispanic white, ref)
+
+Non-Hispanic black
+
+0.95
+
+1.04
+
+0.80,1.14 0.89,1.23
+
+Hispanic
+
+1.52***
+
+1.61***
+
+1.32,1.75 1.38,1.88
+
+Non-Hispanic Asian 1.05
+
+1.09
+
+0.85,1.29 0.89,1.35
+
+Other race
+
+1.01
+
+1.06
+
+0.76,1.34 0.80,1.41
+
+Neighborhood race and nativity terciles
+
+Non-Hispanic black (low, ref)
+
+Middle
+
+1.00
+
+0.87,1.14
+
+High
+
+1.16*
+
+1.01,1.34
+
+Hispanic (low, ref)
+
+Middle
+
+0.83**
+
+0.72,0.94
+
+High
+
+0.81**
+
+0.69,0.95
+
+Foreign born (low, ref)
+
+Middle
+
+High
+
+s2m
+
+0.10
+
+0.09
+
+ICC
+
+0.03
+
+0.03
+
+Model 3
+1.04 0.89,1.23 1.58*** 1.36,1.84 1.09 0.88,1.36 1.06 0.80,1.40
+0.71*** 0.62,0.82 0.80** 0.68,0.94 0.09 0.03
+
+Model 4
+0.95 0.79,1.13 1.60*** 1.37,1.88 1.09 0.88,1.35 1.04 0.79,1.39
+1.03 0.90,1.17 1.20* 1.04,1.39
+0.90 0.78,1.04 0.87 0.72,1.06
+0.75*** 0.64,0.86 0.87 0.71,1.05 0.08 0.02
+
+p < 0.10; *p < 0.05; **p < 0.01; ***p < 0.001. a All models control for population density in the neighborhood and all individual
+level characteristics from Table 2. b All estimates generated through multiple imputation procedures. Source: ECLS-
+K 1998e1999.
+
+living in higher poverty neighborhoods have increased odds of obesity even after accounting for individual level characteristics. This is also the case for children living in neighborhoods characterized by more residents with less than a high school education (Model 2) and to a limited degree for children living in neighborhoods with high public assistance receipt (Model 3) and higher unemployment (Model 4). These SES measures are highly correlated but when we estimate a full model (Model 6) we find that the increased odds of obesity for children in low-educated neighborhoods persist while children in high poverty neighborhoods also suffer from moderately significant increased odds of obesity.4
+Similarly, Table 4 shows that race and nativity neighborhood characteristics do not explain racial disparities in obesity but they do relate to children's odds of obesity in interesting ways. Model 1 shows that children living in high non-Hispanic black neighborhoods face increased odds of obesity, regardless of their own race. However, children in higher Hispanic and foreign born neighborhoods exhibit decreased odds of obesity after accounting for their race/ethnicity and other individual characteristics. These effects hold in the full model with the exception of the protective effect of high Hispanic neighborhoods.
+To test the robustness of the neighborhood effects presented in Tables 3 and 4 we estimated a model with all neighborhood SES and race/nativity characteristics and found results very similar to those
+
+4 To illustrate the benefit of using single measures over combined aggregate measures, suggested by Grow et al. (2010), we created a standardized scale of the SES measures (a 1/4 0.92) and found a significant positive effect with child obesity (OR 1/4 1.07; p 0.05). These results suggest that odds of obesity increase as neighborhood disadvantage (broadly defined) increases. However, the results presented in Table 3 suggest that neighborhood education may play a larger role than other measures of disadvantage.
+
+presented in the full models presented in Tables 3 and 4. For example, children living in neighborhoods with high proportions of residents with less than a high school education faced 26% higher odds of obesity (p 0.05), children in high non-Hispanic black neighborhoods faced 19% higher odds (p 0.05), and children in higher foreign born neighborhoods experienced a protection against risk (OR 1/4 0.78; p 0.01).
+Discussion
+Unlike studies showing dramatic racial/ethnic obesity differences for older children, we do not find striking race/ethnic differences for kindergarteners with the exception of the difference between Hispanic children and all other racial/ethnic groups, similar to the national estimates from Ogden et al. (2010). The inclusion of individual risk factors explains the slight black/white difference, but not the white/Hispanic difference, which is also not explained with our neighborhood SES and race/nativity measures. Although neighborhood factors do little to explain the remaining race/ethnic difference in child obesity, these factors are important predictors of obesity for the full sample. Children who live in high poverty and low educated neighborhoods experience increased risks for obesity after accounting for their individual-level differences.
+Neighborhood race and nativity measures show that children who live in heavily black neighborhoods experienced increased risks of obesity and children in the most foreign born neighborhoods experienced reduced risks for obesity. Interestingly, this increase in risk for children living in high proportion black neighborhoods is consistent with research on adult obesity risk (Boardman et al., 2005) and calls for careful consideration of cultural arguments (Kumanyika, 1998) for black children's risk of obesity. In addition, we find some evidence that children in high foreign born neighborhoods have reduced odds of obesity, which was contrary to our expectations. This finding lends support to findings of an ethnic enclave advantage for Hispanic adult health outcomes (e.g. Cagney, Browning, & Wallace, 2007), but the conflicting evidence on immigrant status and child weight suggests more work needs to be done to confirm this finding.
+It is possible that neighborhood characteristics moderate the impact of race/ethnicity on obesity e in other words, that the impact of neighborhood characteristics on child obesity differs by the race/ethnic group of the child. To test this possibility we estimated a series of cross-level interactions (not shown). For example, we tested whether the association between living in a highly nonHispanic black or foreign-born neighborhood varied by the race/ ethnicity of the child. We found no evidence that any of our neighborhood-level measures' impacts varied by the race/ethnicity of the child. This suggests that neighborhood poverty, levels of education, and even the race/ethnic and nativity compositions of neighborhoods work similarly to predict obesity for children, regardless of their individual characteristics. It is important to note, however, that the large number of singleton clusters in our data could complicate the estimation of cross-level interactions, and more work on this potential moderating effect is warranted.
+We believe our findings, and the other recent work demonstrating associations between contextual factors and child obesity (Grow et al., 2010, Singh et al., 2010b), illustrate the difficulty of relying upon individual-level interventions to curb the child obesity epidemic. Above and beyond individual-level factors like the poverty status of the household, family structure, maternal education, and behavioral factors such as sedentary television e watching e context matters for child obesity. Measures of deprivation at the neighborhood level generally matter in consistent ways. However, our findings also suggest that policy initiatives
+
+104 R.T. Kimbro, J.T. Denney / Social Science & Medicine 95 (2013) 97e105
+
+relating to education at the structural level may have the largest impact on curbing childhood obesity. Our findings support those focused on particular aspects of structural disadvantage such as greater exposure to fast food restaurants (Powell et al., 2007). These types of important mechanisms may partially drive our findings about neighborhood-level factors which are linked to child obesity. Because these structural and social factors are systemic (Yancey & Kumanyika, 2007), individually-based interventions implemented without regard to the differing environments in which children live are unlikely to be fully successful.
+Our analysis is not without limitations. First, although we are able to leverage the partial clustering of children in neighborhoods due to the ECLS-K's sampling design, we have relatively small average clusters of children within neighborhoods, which make detecting neighborhood effects more difficult. Second, the data are limited in the scope of proximate factors linked to child obesity; our neighborhood measures in Tables 3 and 4 do little to explain any of the remaining variance in obesity not explained with the individual measures. These results, however, confirm the need for multidimensional data on the place in which children and their families reside (Cummins et al., 2007) to better determine how place matters for child obesity. We do find that neighborhood characteristics matter, and in specific ways, for children's risk of obesity. But this is only an initial step on the path to curbing an epidemic that is increasingly concentrated among the most disadvantaged children (Singh et al., 2010a). Future research on the structural impediments to child health must also consider more expansive social and physical environments than those that encompass a child's immediate surroundings (Crowder & South, 2008; Matthews, Detwiler, & Burton, 2005). Researchers and policy makers alike need data that includes resident perceptions, systematic observations, and objective measures (Cummins et al., 2007) and which would better allow us to discern why some groups overcome structural and individual obstacles to healthy living while others do not. While family-level interventions to decrease sedentary time and improve nutrition are laudable, we believe those efforts are inherently limited in the absence of broadscale community-level structural changes.
+Acknowledgments
+The authors are grateful to Rose Medeiros and Michael Bader for helpful feedback on prior drafts.
+References
+Allison, P. D. (2001). Missing data. Thousands Oaks, CA: Sage. Balistreri, K. S., & Van Hook, J. V. (2009). Socioeconomic status and body mass index
+among Hispanic children of immigrants and children of natives. American Journal of Public Health, 99, 2238e2246. Bell, B. A., Ferron, J. M., & Kromrey, J. D. (2008). Cluster size in multilevel models: the impact of sparse data structures on point and interval estimates in twolevel models. In Proceedings of the American Statistical Association, section on survey research methods, Alexandria, VA. Beveridge, A. A., Catsambis, S., Weber, S. R., Michalowski, S., & Ng, C. (2004). Census data and geocoded locations for the Early Childhood Longitudinal Study, Kindergarten Class of 1998e1999 (ECLS-K) user's guide. Washington, D.C: U.S. Department of Education, National Center for Education Statistics. Boardman, J. D., Saint Onge, J. M., Rogers, R. G., & Denney, J. T. (2005). Race differentials in obesity: the impact of place. Journal of Health and Social Behavior, 46, 229e243. Booth, M., Macaskill, P., Lazarus, R., & Baur, L. A. (1999). Sociodemographic distribution of measures of body fatness among children and adolescents in New South Wales, Australia. International Journal of Obesity, 23, 456e472. Cagney, K., Browning, C., & Wallace, D. (2007). The Latino paradox in neighborhood context: the case of asthma and other respiratory conditions. American Journal of Public Health, 97(5), 919e925. Chaix, B., Rosvall, M., Lynch, J., & Merlo, J. (2006). Disentangling contextual effects on cause-specific mortality in a longitudinal 23-year follow-up study: impact of
+
+population density or socioeconomic environment? International Journal of Epidemiology, 35(3), 633e643. Cockerham, W. C. (2005). Health lifestyle theory and the convergence of agency and structure. Journal of Health and Social Behavior, 46, 51e67. Contento, I. R., Basch, C., & Zybert, P. (2003). Body image, weight, and food choices of Latina women and their young children. Journal of Nutrition Education and Behavior, 35, 236e248. Crowder, K. D., & South, S. J. (2008). Spatial dynamics of white flight: the effects of local and extralocal racial conditions on neighborhood out-migration. American Sociological Review, 73, 792e812. Cummins, S., Curtis, S., Diez-Roux, A., & Macintyre, S. (2007). Understanding and representing `place' in health research: a relational approach. Social Science & Medicine, 65, 1825e1838. Dietz, W. H. (1998). Health consequences of obesity in youth: childhood predictors of adult disease. Pediatrics, 101, 518e525. Duke, N., Borowsky, I., & Pettingell, S. (2011). Adult perceptions of neighborhood: links to youth engagement. Youth & Society, 43. Duncan, C., Jones, K., & Moon, G. (1996). Health-related behaviour in context: a multilevel modelling approach. Social Science & Medicine, 42, 817e830. Edwards, K., Clarke, G., Ransley, J., & Cade, J. (2010). The neighborhood matters: studying exposures relevant to childhood obesity and the policy implications in Leeds, UK. Journal of Epidemiology and Community Health, 64, 194e201. Fish, J. S., Ettner, S., Ang, A., & Brown, A. F. (2010). Association of perceived neighborhood safety on body mass index. American Journal of Public Health, 100, 2296e2303. Franzini, L., Elliott, M. N., Cuccaro, P., Schuster, M., Gilliland, M. J., Grunbaum, J. A., et al. (2009). Influences of physical and social neighborhood environments on children's physical activity and obesity. American Journal of Public Health, 99, 271. Franzini, L., Taylor, W., Elliott, M., Cuccaro, P., Tortolero, S., Gilliland, M., et al. (2010). Neighborhood characteristics favorable to outdoor physical activity: disparities by socioeconomic and racial/ethnic composition. Health & Place, 16, 267e274. Frohlich, Katherine, L., Corin, E., & Potvin, L. (2001). A theoretical proposal for the relationship between context and disease. Sociology of Health & Illness, 23, 776e797. Grow, H. M. G., Cook, A. J., Arterburn, D. E., Saelens, B. E., Drewnowski, A., & Lozano, P. (2010). Child obesity associated with social disadvantage of children's neighborhoods. Social Science & Medicine, 71(3), 584e591. Guo, G., & Zhao, H. (2000). Multilevel modeling for binary data. Annual Review of Sociology, 26, 441e462. Hesketh, K. D., & Campbell, K. J. (2010). Interventions to prevent obesity in 0e5 year olds: an updated systematic review of the literature. Obesity, 18, S27eS35. Jansen, W., & Hazebroek-Kampschreur, A. A. J. M. (1997). Differences in height and weight between children living in neighborhoods of different socioeconomic status. Acta Paediatrica, 86, 224e225. Jencks, C., & Mayer, S. E. (1990). The social consequences of growing up in a poor neighborhood. In L. E. Lynn, & M. G. H. McGeary (Eds.), Inner city poverty in the United States (pp. 111e186). Washington, DC: National Academy. Kawachi, I., & Berkman, L. (2000). Social cohesion, social capital, and health. In E. L. Berkman, & I. Kawachi (Eds.), Social epidemiology (pp. 174e190). New York: Oxford University Press. Kawachi, I., & Berkman, L. F. (2003). Neighborhoods and health. New York: Oxford University Press. Kimbro, R. T., McLanahan, S., & Brooks-Gunn, J. (2007). Racial and ethnic differentials in overweight and obesity among 3-year-old children. American Journal of Public Health, 97, 298e305. Kinra, S., Nelder, R., & Lewendon, G. (2000). Deprivation and childhood obesity: a cross-sectional study of 20,973 children in Plymouth, United Kingdom. Journal of Epidemiology and Community Health, 54, 456e460. Klebanov, P. K., Brooks-Gunn, J., Gordon, R., & Duncan, G. J. (1997). The intersection of the neighborhood and home environment and its influence on young children. In J. Brooks-Gunn, G. J. Duncan, & J. L. Aber (Eds.), Neighborhood poverty: Context and consequences for children (pp. 79e118). New York: Russell Sage Foundation. Kumanyika, S. K. (1998). Obesity in African Americans: biobehavioral consequences of culture. Ethnicity & Disease, 8, 93e96. Lovasi, G. S., Hutson, M. A., Guerra, M., & Neckerman, K. M. (2009). Built environments and obesity in disadvantaged populations. Epidemiologic Reviews, 31, 7e20. Maas, C. J. M., & Hox, J. J. (2005). Sufficient sample sizes for multilevel modeling. Methodology, 1(3), 86e92. Matthews, S. A., Detwiler, J. E., & Burton, L. M. (2005). Geo-ethnography: coupling geographic information analysis techniques with ethnographic methods in urban research. Cartographica, 40, 75e90. McCulloch, C. E., & Searle, S. R. (2001). Generalized, linear, and mixed models. New York: Wiley. Ogden, C. L., Carroll, M. D., Curtin, L. R., Lamb, M. M., & Flegal, K. M. (2010). Prevalence of high body mass index in U.S. children and adolescents, 2007e2008. Journal of the American Medical Association, 303, 242e249. Powell, L. M., Chaloupka, F. J., & Bao, Y. (2007). The availability of fast-food and fullservice restaurants in the United States: associations with neighborhood characteristics. American Journal of Preventive Medicine, 33(4S), S240eS245. Rabe-Hesketh, S., & Skrondal, A. (2008). Multilevel and longitudinal modeling using stata. College Station, TX: StataCorp.
+
+R.T. Kimbro, J.T. Denney / Social Science & Medicine 95 (2013) 97e105
+
+105
+
+Raudenbush, S. W., & Bryk, A. S. (2002). Hierarchical linear models. Thousand Oaks, CA: Sage Publications.
+Rhee, K. (2008). Childhood overweight and the relationship between parent behaviors, parenting style, and family functioning. Annals of the American Academy of Political and Social Sciences, 615, 11e37.
+Royston, P. (2005). Multiple imputation of missing values: update. Stata Journal, 5(2), 188.
+Sampson, R., & Raudenbush, S. (2004). Seeing disorder: neighborhood stigma and the social construction of `broken windows'. Social Psychological Quarterly, 67, 319e342.
+Shonkoff, J. P., & Phillips, D. (Eds.), (2000). From neurons to neighborhoods: The science of early child development. Washington, D.C.: National Academies Press, National Research Council and Institute of Medicine.
+Singh, G. K., Kogan, M. D., Van Dyck, P. C., & Siahpush, M. (2008). Racial/ethnic, socioeconomic, and behavioral determinants of childhood and adolescent obesity in the United States: analyzing independent and joint associations. Annals of Epidemiology, 18, 682e695.
+
+Singh, G. K., Kogan, M. D., & Yu, S. M. (2009). Disparities in obesity and overweight prevalence among US immigrant children and adolescents by generational status. Journal of Community Health, 34, 271e281.
+Singh, G. K., Siahpush, M., & Kogan, M. D. (2010a). Rising social inequalities in U.S. childhood obesity, 2003e2007. Annals of Epidemiology, 20(1), 40e52.
+Singh, G. K., Siahpush, M., & Kogan, M. D. (2010b). Neighborhood socioeconomic conditions, built environments, and childhood obesity. Health Affairs, 29, 503e512.
+StataCorp. (2010). Stata statistical software: Release 12. College Station, TX: Stata Corporation.
+Whitaker, R. C., & Orzol, S. M. (2006). Obesity among U.S. urban preschool children. Archives of Pediatric and Adolescent Medicine, I, 578e584.
+Yancey, A. K., & Kumanyika, S. K. (2007). Bridging the gap: understanding the structure of social inequities in childhood obesity. American Journal of Preventive Medicine, 33(4), S172eS174.
+
+

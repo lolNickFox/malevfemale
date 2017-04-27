@@ -1,0 +1,322 @@
+Exploring Language Effects in Ethnic Advertising: A Sociolinguistic Perspective
+
+SCOTT KOSLOW PREM N. SHAMDASANI ELLEN E. TOUCHSTONE*
+
+The authors apply sociolinguistic theories of accommodation to investigate how consumers in a minority subculture respond to the use of their ethnic language in advertising. Specificaily, Hispanic consumers' responses to the varying degrees of Spanish-language usage in print advertising were examined. It was found that the effects of Spanish usage in advertising can be usefuliy explained by accommodation theory. Spanish-language advertising increased Hispanic consumers' perception of advertiser sensitivity to Hispanic culture and peopie, and this perception in turn enhanced affect toward the advertisements. Yet, after controlling for perceived advertiser sensitivity, it was also found that advertising exclusively in Spanish decreased affect toward the advertisement. This finding may be interpreted to mean that though Spanish-language advertising appears to signal solidarity with the Hispanic community, exclusive use of Spanish in advertising may arouse Hispanic insecurities about language usage. Implications for future research and theory on language choice and usage in communication to consumer subcultures are discussed.
+
+R esearch interest in the consumer behavior of subcultures in the United States has been growing in recent years. Major issues examined in past research include ethnicity and intensity of ethnic identification (Deshpande, Hoyer, and Donthu 1986; Hirschman 1981) and unique subcultural characteristics and values (Saegert, Hoover, and Hilger 1985; Valencia 1989; Wallendorf and Reilly 1983) that influence consumption patterns and behaviors. With only a few exceptions (e.g., O'Guinn and Faber 1986), consumer researchers have largely neglected to examine the effects of groupspecific communications on the perceptions of consumers in various subcultures.
+This study examines the eifects of Spanish-language usage in advertising to one predominant subculture. United States Hispanics. The relevance of Spanish-lan-
+*Scott Koslow is senior lecturer, Department of Marketing and International Management, University of Waikato (Te Whare Wananga o Waikato), Private Bag 3105, Hamilton, New Zealand. Prem N. Shamdasani is lecturer. Department of Marketing, Faculty of Business Administration, National University of Singapore, 10 Kent Ridge Crescent, Singapore 0511, Republic of Singapore. Ellen E. Touchstone is doctoral candidate. Department of Linguistics, University of Southern California, Los Angeles, CA 90089. She is also Workplace Language Coordinator, American Language Institute, University of Southern California, Los Angeles, CA 90089. The order of the authors' names is alphabetical and all authors contributed equally. The authors thank David W. Stewart, DiAnne Wyner, Gordon Wyner, Siew-Meng Leong, Robert B. Kaplan, Martha Bean, Madeleine Youmans, three helpful reviewers, and Kent Monroe for their helpful insights and comments.
+
+guage and media usage is heterogeneous within the Hispanic community with some individuals preferring to use English and others preferring to use Spanish (O'Guinn and Meyer 1983). Though Alba (1990) notes that linguistic assimilation does occur for ethnic immigrants, the process is slow and depends on intergenerational mechanisms. Portes and Truelove (1987, p. 373) also observe that linguistic assimilation will occur among Hispanics in the long term but confirm "the resilience of Spanish over time and the apparent difficulty for many immigrants in learning English even after a substantial period of residence in the country." These findings suggest a continued need to monitor and understand the effects of Spanish-language usage in the mass media.
+To understand the effects of language usage on consumer processing of advertising, we evoke variations of the Whorfian link between language, thought, and culture (Whorf 1941; see Grace [1987] and Hunt and Agnoli [1991] for reviews and extensions). The SapirWhorf hypothesis of linguistic relativity states that language serves as a kind of schema through which the world is understood and interpreted. In the last half century, the hypothesis has had broad appeal and continues to influence research in a variety of areas from anthropology (Lutz and Abu-Lughod 1990) to psychology (Posner and Shulman 1979) to consumer research (Greenberg et al. 1983). For example, in a common consumer research variation of the Sapir-Whorf hypothesis, Valencia (1989) argues that advertisers should acknowledge the unique cultural values of the
+
+575
+
+(c) 1994 by JOURNAL OF CONSUMER RESEARCH, Inc. * Vol. 20 * March 1994 All rights itserved. 0O93-530l/94/20O4-O0O6$2.0O
+
+576
+Hispanic community and develop advertisements emphasizing those values.
+The Whorfian hypothesis is established, useful, and robust at a broad and conceptual level, but it is difficult to operationalize and therefore to test across a variety of settings (Carroll 1956; Grace 1987). This contrast is highlighted by Hunt and Agnoli (1991, p. 386), who note that social perceptions, like language's effect on advertising, are an area, "where, in a sense, the most interesting Whorfian effects should be found, but . . . also the area where precise measurements are hardest to obtain." Illustrating this contrast. Wood and Howell (1991) consider the consumer behavior tradition of researching ethnic differences. Though this tradition often finds differences between ethnic groups, Wood and Howell note that the studies typically confound cultural and linguistic differences with methodological biases introduced by heterogeneous response styles. To limit the effect of a methodological bias, they advocate that research in ethnic differences more closely specify a mechanism for why differences might be observed, in addition to displaying that they occur. To provide such a needed framework for understanding Hispanic consumers' responses to Spanish usage in print advertisements, we borrow from applied sociolinguistics several more tightly specified theoretical perspectives derived from the Sapir-Whorf hypothesis.
+Collectively, these sociolinguistic theories are under the umbrella of accommodation theory, which has been applied to examine language behavior and interactions in various settings and media including speech, writing, songs, radio broadcasting, courtroom proceedings, and human-computer interaction (see Giles, Coupland, and Coupland [1991] for a review and synthesis of the literature). When applied to consumer research, accommodation theory provides useful insights on how consumers perceive and respond to language usage in advertising communications.
+ACCOMMODATION THEORY
+Early research in accommodation focused largely on language choice and usage in speech interactions between speakers and listeners of different ethnic backgrounds. Speech accommodation theory, which is an important subset of accommodation theory, was first proposed by Giles, Taylor, and Bourhis (1973). In its most basic form, this theory predicts that "the greater the amount of effort in accommodation [meaning choice of language] that a bilingual speaker of one group was perceived to put into this message, the more favorably he would be perceived by listeners from another ethnic group, and also the more effort they in turn would put into accommodating back to" the speaker (Giles et al. 1973, p. 177). Accommodation theory has its roots in the sociopsychological theories of the effects of similarity on attraction (Byrne 1971). It suggests that, as person A becomes more similar to person B, the like-
+
+JOURNAL OF CONSUMER RESEARCH
+lihood that B will like A increases. The desire of person A to become more similar to B is perceived by B as acknowledgment of the inherent worth of B's self- and cultural identity, which results in positive feelings toward A and often in reciprocal accommodating behavior (Thakerar, Giles, and Cheshire 1982). This attraction is achieved through the reduction of linguistic dissimilarities by adaptation of speech and nonverbal behaviors so that one person becomes more similar to the other. Simard, Taylor, and Giles (1976) note the importance of causal attribution in relation to the evoked emotions. If speech accommodation is attributed to a desire to break down cultural barriers between the speaker and listener, the convergence is received favorably by the listener, resulting in positive feelings and attraction. If, however, the act of converge^nce is attributed to some external pressures in the situation--for example, the perceived desire to influence the listener unduly--positive feelings are not evoked.
+Recent research in sociolinguistics has extended the basic principles of speech accommodation to mass communication (see Giles et al. 1991). Speech accommodation theory has been adapted to examine accommodation behavior in radio and television broadcasting (Lipski 1985; Montgomery 1988). The adaptation of accommodation behavior arises because of structural differences between interpersonal and mass communication. Bell (1991, p. 70) notes that mass communication involves "a disjunction of place, and often also of time between communicator and audience. This fracture in the communication process has significant consequences for language production. Centrally, the feedback that is an integral factor in individual spoken communication is delayed, impoverished, or lacking altogether in mass communications." Though feedback may be delayed or absent in mass communications, gaining social approval through language choice and usage is an important accommodation strategy for the mass communicator. Additionally, linguistic accommodation in mass communication promotes relationship building between the communicator and his or her audience.
+Accommodatioti in Reaching Hispanic Consumers
+Accommodation theory can provide useful insights about how consumers in a minority subculture perceive an advertiser and respond to his or her message. This article proposes that use of Spanish language in advertising to Hispanic consumers triggers the dynamics of accommodation theory. For accommodation to occur, however, Hispanics must perceive the choice and use of Spanish in the advertisement as an indicator of the advertiser's respect for the Hispanic culture and desire to break down cultural barriers through reduction of linguistic dissimilarities. Furthermore, because more effortful accommodation re-
+
+LANGUAGE EFFECTS IN ETHNIC ADVERTISING
+suits in a more favorable response, increasing the amount of Spanish in an advertisement should increase the positive effects.'
+For example, an advertisement that is completely in Spanish is very effortful accommodation by the advertiser because the advertiser must know that such an advertisement can have only limited impact on people who do not understand Spanish. To use both English and Spanish may also be perceived as effortful, but less so than the first case because the advertiser is no longer making an exclusive appeal to people who understand Spanish. However, the prominence of either Spanishor English-language usage in a mixed-language ad may indicate different levels of effort. Advertisements primarily in Spanish with English subtitles may still be perceived as more effortful accommodation than advertisements primarily in English with Spanish subtitles because casual readers may focus mainly on the large print rather than the subtitles and therefore not recognize such effort. An advertisement that is completely in English, all other factors held constant, should be perceived as the least possible accommodation effort on the part of the advertiser.
+Accommodation theory predicts that Hispanic consumers would react positively to the use of Spanish in an advertisement by first attributing the use of Spanish to the advertiser's sensitivity to and respect for the Hispanic culture and then rewarding that sensitivity by the purchase of the advertised product. Therefore, Hispanic consumers are not hypothesized to reward directly the use of Spanish in advertising intended to reach them. Instead, accommodation theory proposes two intermediate steps: (1) attribution of respect and awareness for the Hispanic culture to the advertiser and (2) evocation of positive affective, cognitive, and behavioral responses toward the advertisement. On the basis of these predictions, the following hypotheses are proposed:
+HI: Among Hispanic consumers, use of Spanish language in advertisements is associated positively with perceptions of the advertiser's sensitivity to Hispanic culture.
+H2: Among Hispanic consumers, perceptions of the advertiser's sensitivity to Hispanic culture are associated positively with affect toward advertisements that increasingly use Spanish.
+Effects of Eatiguage-related Itiferiority Complex
+An implicit assumption of accommodation theory as applied to advertising is that Hispanic consumers
+'If Hispanic consumers perceive instrumental motivation by the advertiser and attribute Spanish-language advertising primarily to the desire to sell more products, they are less likely to engage in reciprocal accommodation in terms of affective, cognitive, and eventual purchase responses to advertisements.
+
+577
+reached with Spanish-language advertising have positive feelings about their culture and language (Giles et al. 1973). However, such positive feelings are not always present. For example, Haarmann (1986, p. 92) discusses the situation in France in which patois-speakers have a "language-related inferiority complex . . . [because] the local language is often considered by the speakers themselves to be an obstacle to social advance or even a stigma." Platt and Weber (1984) discovered that a speaker's use of an ethnic language and dialect does not always lead to positive feelings on the ethnic recipient's part. In their study. Singaporeans were annoyed and irritated when communication was in the recipients' own ethnic language rather than in English, the lingua franca. Platt and Weber attribute this finding to a type of linguistic insecurity on the part of Singaporeans about the level of prestige of their language variety.
+United States Hispanics have good reason to feel stigmatized by the use of Spanish. Racism toward Hispanic individuals, while not universal, is still common (Keefe and Padilla 1987). Although open, racially based discrimination may not be considered acceptable behavior, veiled, culturally directed discrimination is considered more acceptable (Essed 1991). Therefore, racism toward Hispanics is often expressed throUgh disparaging the use of Spanish in public settings in the United States (Crawford 1992b). Although minority language usage may have a positive effect through the perceived cultural sensitivity of the advertiser, it may also have a direct negative effect on affect toward the advertisement due to language-related inferiority complexes.
+H3: Among Hispanic consumers, greater Spanish usage in advertising is associated negatively with affect toward the advertisement when Hispanic consumers do not attribute increased Spanish usage to the perceived cultural sensitivity of the advertiser.
+Linguistic insecurities may be more likely to be observed among Hispanics who do not have a strong affinity to their culture, particularly in the use of the Spanish language. For example, Marin and Marin (1991) observe that the shift in language use from Spanish to English is high among Hispanics, with an estimated 20 percent of Hispanic households speaking only English. These more linguistically assimilated Hispanics are more likely than those less linguistically assimilated to support legislation to make English the official language of the United States (Schmid 1992) and hence are also more likely to be offended by Spanish-language advertising. Therefore, the use of Spanish language in mainstream commercial advertising may not always be perceived favorably by Hispanic consumers, especially those who typically use English.
+H4: Among Hispanic consumers, greater Spanishlanguage dominance is associated positively with affect toward advertisements that increasingly use Spanish.
+
+578
+Additionally, Hispanics' characteristic rating of Spanish as a language lower in status than English could be interpreted as a manifestation of linguistic insecurity (Carranza and Ryan 1975). Relatively more positive attitudes toward English may lead to less favorable responses to Spanish-language advertisements and less favorable perceptions of the advertiser's sensitivity to Hispanic culture. Conversely, relatively more positive attitudes toward Spanish may lead to more favorable responses to Spanish-language advertisements and more favorable perceptions of the advertiser's sensitivity to Hispanic culture.
+H5: Among Hispanic consumers, more favorable attitudes toward English are associated negatively with affect toward advertisements that increasingly use Spanish.
+H6: Among Hispanic consumers, more favorable attitudes toward Spanish are associated positively with affect toward advertisements that increasingly use Spanish.
+The research on language-related inferiority complex has focused on language abilities and attitudes to understand how Hispanic consumers perceive the use of Spanish language in advertising, but there may be other reasons for their perceptions. One issue considered by Deshpande et al. (1986) is ethnic identity. As Rose (1992) notes, persons who have assimilated have left their original identities behind for new ones associated with the host society. Immigrant groups such as Mexicans first think of themselves as Mexicans living in the United States. As they become more assimilated, they begin to think of themselves as Mexican-Americans, andfinallyas just Americans. The more Hispanics come to think of themselves as American, the more they may feel offended by the use of the Spanish language in advertising, the same as those who are more English-language dominant.
+H7: Among Hispanic consumers, greater identification with mainstream United States culture, as opposed to ethnic cultures, is associated negatively with affect toward advertisements that increasingly use Spanish.
+To test these hypotheses, a field experiment was designed to explore the extent to which the opposing forces of language-related accommodation and inferiority complexes operate.
+METHOD
+Design and Sample
+Field interviewing with a between-subjects design was employed. Each subject was shown only one of four advertisements during the interview. Using a convenience sampling approach, three bilingual interviewers conducted 413 field interviews. Of these, 367 yielded
+
+JOURNAL OF CONSUMER RESEARCH
+complete responses that were used in the analysis. Data from 46 subjects who were not able to finish the interview because of time constraints or personal reasons were not used in the analysis.^
+The final usable sample comprises 56 percent male and 44 percent female respondents. A majority (60.7 percent) of the respondents were between the ages of 20 and 39 years. About 33 percent were between the ages of 40 and 59 years. The remaining 6 percent were equally distributed between the "under 20 years" and "over 60 years" age groups. On the basis of subjects' self-reported language abilities, 34.4 percent were monolingual native Spanish speakers, 57.2 percent were bilingual native Spanish speakers, and 8.4 percent were bilingual native English speakers. The proportion of the subjects reported to be native Spanish speakers, 91.6 percent, is lower than but similar to the 96.1 percent reported to be native Spanish speakers by the Strategy Research Corporation (1991). Additionally, subjects reported only whether they were speakers of a given language, not their perceived level of knowledge or skill in speaking a given language.
+To help frame the sample with respect to Hispanic consumers across the United States, when asked about their ethnic identity 41.5 percent of the respondents identified themselves as Mexican-Americans, 25.2 percent as Chicanos, 17.3 percent as Mexicans, 10.3 percent as Americans, 4.6 percent as Hispanics, and 1.1 percent as Latinos.
+Procedure
+The stimulus materials and questionnaires were administered to Spanish-speaking Hispanics at three Southern California supermarkets in Hispanic neighborhoods. The data were collected through personal interviews to enhance the quality of responses and adjust for differences in the level of literacy among the sample population. Three bilingual interviewers were trained in two sessions involving actual consumers at the survey locations.
+Subjects were selected on the basis of physical characteristics and only Spanish speakers were included in the study. They were first greeted and recruited in Spanish and then asked whether they would like the interview to be conducted in Spanish or English. Just over one-quarter of the interviews (25.4 percent) were
+^The convenience sampling method was used to mitigate nonresponse problems due to low literacy rates and varying levels of assimilation. Using a mail survey would give a more geographically representative sample but would introduce problems because both English and Spanish literacy among Hispanics is low and could lead to low response rates among the least assimilated individuals. Also, the difficulties of the U.S. Census Bureau in surveying Hispanic households by both mail and in person are well-known and have lead to several lawsuits. Considering these difficulties, we felt it best to establish first that accommodation theory describes at least some population somewhere and therefore meet the criterion of internal validity, before going on to establish external validity with a nationally representative sample.
+
+LANGUAGE EFFECTS IN ETHNIC ADVERTISING
+
+TABLE 1 SUMMARY OF MEASURES
+
+Measure
+
+Number of items
+
+Spanish-language dominance Attitude toward Spanish Attitude toward Engiish Perceived culturai sensitivity of advertiser
+
+5 3 3 2
+
+' Pearson product-moment correlation coefficient (direct).
+
+Actual range
+3-13 5-14 4-14 2-11
+
+Mean
+8.63 11.58 10.81 7.35
+
+Standard deviation
+2.45 1.74 1.78 2.59
+
+579
+Reliability coefficient .908 .774 .522 .749"
+
+conducted in English and the rest (74.6 percent) were conducted in Spanish. Care was taicen to remind subjects that the purpose of the study was to test their reactions to the advertised product.
+Questionnaire Construction
+Survey questionnaires and advertisements were first constructed in English. For Spanish-speaking and bilingual subjects who preferred to respond in Spanish, a Spanish version of the questionnaire was created. A professional Hispanic translator was hired to produce the Spanish version of the questionnaire and advertisements. Because an informal survey of the interview sites indicated that a majority of the potential Hispanic respondents were of Mexican descent, the translator was instructed to produce versions of the stimulus material and survey that would be comprehensible to Hispanics of Mexican descent.
+To validate the quality of the Spanish translation, the back-translation method was used (Marin and Marin 1991; Powell and Valencia 1984) whereby a bilingual committee translated the Spanish version back into English for comparison. The committee consisted of three bilingual Hispanics who had not seen the English version of the questionnaire. Discrepancies between the original and back-translated versions were discussed and the Spanish version was altered when necessary.
+Stimulus Material Construction
+To manipulate the language content, four print advertisements were developed. One advertisement was completely in English and another completely in Spanish. Two bilingual advertisements were developed, one English dominant and the other Spanish dominant. For each bilingual advertisement information about the product was provided in both languages. Advertisements were simple and included a picture of the product, a slogan, and a message. In the all-English advertisement, the slogan "Quick Refreshment" appeared above the product and the message "6 pack for $ 1.49-- Special offer at your local supermarket--Offer good until March 31" appeared below the product. In the all-Spanish advertisement, the slogan "Refresco Rapido," appeared above the product and the message "Un-
+
+6 por $ 1.49--Oferta especial en su mercado local. Oferta hasta el 31 de Marzo," appeared below the product. In the two mixed-language advertisements, both sets of slogans and messages appeared. In the English-dominant advertisement, English appeared in large print and Spanish in subtitles, while in the Spanish-dominant advertisement, Spanish appeared in large print and English in subtitles. The bilingual advertisements were needed to investigate the degree of "accommodation" in response to increasing levels of language usage. The advertisements reflected four language conditions that could be arranged on a continuum of language dominance ranging from predominantly English to predominantly Spanish.
+As it was important that the featured product be one that Hispanic consumers actually use, a simulated sugared soft drink, "Ice," was the focus of each advertisement. This product category was selected because in per capita terms, Hispanics consume more sugared soft drinks than Anglos (Guernica 1982). One can of the simulated product was pictured in each advertisement and the printing on this can was entirely in English. To ensure a neutral presentation in which only language carried any cultural meaning, no other culturally laden symbols, such as Hispanic or Anglo spokespersons, were included in the advertisements. To ensure that different reactions to the advertisements were not due to differential language abilities, the messages of the advertisement were presented either in the neutral language of numbers (e.g., 6 por/tor $1.49) or in cognates (e.g., re/rca/refreshment).
+Measures
+Multiple-item measures were developed for both the independent and dependent constructs. To measure attitudes toward English and Spanish languages, two similar three-item scales were developed. Each item addressed a different aspect of language attitudes: the perceived friendliness, convincing ability, and influence of first English and then Spanish language. High scores on these factors indicate more positive attitudes. The measure for degree of Spanish language usage or dominance was composed of five items relating to language use at work and at home, Spanish TV viewership, monoversus bilingual language ability, and native language. The higher the subject's score for Spanish-language
+
+580 JOURNAL OF CONSUMER RESEARCH
+
+TABLE 2 FACTOR-LOADING MATRIX FOR MULTI-ITEM VARIABLES
+
+Variable description
+
+Spanish-language dominance
+
+Attitude toward Spanish
+
+Attitude toward English
+
+Language used at work Language used at home Amount of Spanish TV Monolingual or not Native language Spanish is friendly Spanish is convincing Spanish is influential English is friendly English is convincing
+Engiish is influential Advertiser respects Hispanics Advertiser is aware of Hispanic needs Variance explained (%) Eigenvalues
+
+.784
+.762 .766 .820 .575 .000 -.083 .024 -.048 -.024
+.109 .010 .042 19.2 2.49
+
+.006 -.070
+.072 -.026 -.046
+.707
+.786 .704 -.085 -.123 .312
+.000 .010 12.8 1.66
+
+-.125 -.017 -.032 -.044
+.070 -.003 -.016
+.193 .791 .823 .555 .015 -.008 12.0
+1.56
+
+NOTE.--Table reports standardized regression coefficients for principal components analysis with oblique rotation.
+
+Perceived cultural sensitivity of the advertiser
+-.037 .039 .072
+-.106 .099
+-.011 .160
+-.137 .036 .022
+-.050 .924 .936
+13.2 1.72
+
+dominance, the more the subject used Spanish in dayto-day affairs; the lower the score, the more the subject relied on English. A multiple-item dependent measure was also eonstrueted and tested. The subject's perception of the advertiser's sensitivity to Hispanic culture was measured with two items, the subject's perception of the advertiser's awareness of Hispanic needs and their perception of the advertiser's respect for Hispanic consumers. The higher the score, the more the individual perceives the advertiser as sensitive to the Hispanic community. A summary of these measures is given in Table 1.
+The 13 items composing the four multiple-item measures were factor analyzed by the principal components method of extraction. The rotated (Procrustes) fourfactor confirmatory solution accounted for about 57.1 percent of the variance. The factor loadings and labels are listed in Table 2. The reliability coefficients of the independent constructs are reported in Table 1.
+A measure of identity was constructed from self-reports of ethnicity. As in Alba's (1990) study, subjects were asked to identify the ethnic group to which they belong. This information was transformed into a threelevel scale such that subjects who identified themselves as a non-United States ethnic (e.g., Mexican) were coded at the low level and those who identified completely with the United States (e.g., American) were coded at the high level on the self-reported identity scale. Additionally, those who identified themselves as some mixture of non-United States and United States ethnicity (e.g., Mexiean-American, Hispanic, Chicano, and Latino) were eoded at an intermediate level. These three groups correspond to the three groups of Hispanic identifiers (e.g., strong, weak, and non-Hispanic identifiers) suggested by Deshpande et al. (1986). A singleitem measure of subjects' affect toward the advertise-
+
+ment also was used. The higher the score, the more the subject liked the advertisement.
+RESULTS
+Results of the two ordinary least squares (OLS) regressions for the pooled analysis are reported in Table 3. The variances explained by the regression models predicting the perceived cultural sensitivity of the advertiser and the affe:ct toward the advertisement are .47 and .24, respectively.^ The residual analysis confirmed the quality of fit of the two models. Because the field interviews were conducted in English and Spanish, ANCOVA was performed to determine the effects of language of interview on the results. No significant effects of language of interview were found {p < .249), and the variable was dropped from the analysis." Basically, the regression models demonstrate the effect of accommodation in advertising to Hispanics and the effeet of language-related inferiority complexes.
+Estimation of the Effects of Advertising Accommodation
+Support for the first two hypotheses is found through the pattern of beta coefficients in Table 3. For the first hypothesis, support is found in the first model. Because coefficients for the English-dominant, Spanish-domi-
+^Table 3 reports results for regressions with four dummy variables and no intercept term. However, the reported i?^ values are computed from models with an intercept and three treatment dummy variables. The variance explained is adjusted for the mean.
+*"This absence of effects may suggest that our survey instrument was translated particularly well or that its effect was confounded with other variables such as degree of Spanish-language dominance. The language of interview is highly correlated with the degree of Spanishlanguage dominance, with r = .62.
+
+LANGUAGE EFFECTS IN ETHNIC ADVERTISING
+
+TABLE 3 OLS REGRESSION COEFFICIENTS
+
+Dependent measures
+
+Independent measures
+
+Perceived cultural sensitivity of advertiser
+
+Affect toward the advertisement
+
+All-English treatment English-dominant treatment Spanish-dominant treatment All-Spanish treatment Spanish-language dominance
+Attitude toward Spanish
+Attitude toward English Self-reported ethnic identity/
+assimilation Perceived cultural sensitivity
+of the advertiser Affect toward the
+advertisement R=
+
+3.52*** 7.42*** 7.11*** 7.39*** -.13**
+.04 .09+
+.35+
+.47
+
+2.21*** 1.93*** 2.14*** 1.54** -.01 -.04 .03
+.19+
+.27***
+.24
+
++ p<.10 * p < .05. *'p<.01. *"p < .001.
+
+nant, and all-Spanish advertisements are about double the size of the coefficients for the all-English advertisement, these coefficients demonstrate that using at least some Spanish in an advertisement increases the perceived cultural sensitivity of the advertiser. Figure 1 is a graphic representation of the differences in the perceived cultural sensitivity of the advertiser between the all-English advertisement and the advertisements using at least some Spanish.
+The mean perceived cultural sensitivity is significantly lower for the all-English advertisement than for the three advertisements that use at least some Spanish (Wilks's lambda = .555, 3df,p< .001). However, there is no significant difference in the mean perceived cultural sensitivity among the three advertisements that use Spanish in the mixed and exclusive language contexts (Wilks's lambda = .996, 2 df, p = .511). These results indicate that the use of some amount of Spanish has a significant effect on Hispanic consumers' perceptions of the advertiser's cultural sensitivity. However, exclusive use of Spanish in advertising does not increase perceived cultural sensitivity beyond the level obtained with the minimum Spanish used in the mixed-language advertisements.
+There is also support for the second hypothesis, which predicts a positive effect of perceived advertiser cultural sensitivity on affect toward the advertisement. This effect is evident from the positive and significant coefficient for perceived cultural sensitivity {fi = .27, p < .001) in the second regression model in Table 3. In summary, Spanish-language usage increases Hispanic consumers' perceptions of the advertiser's sensitivity, which in turn have a positive influence on their affect toward the advertisement.
+
+581
+Estimation of the Effect of a Latiguagerelated Inferiority Complex
+The effect of a language-related inferiority complex serves as a contrast to the main accommodation effect and is represented by Hypotheses 3-7. If Spanish is viewed as inferior to English, Hypothesis 3 predicts a negative relationship between minority language use and response to the advertisement, given perceived cultural sensitivity of the advertiser. The relationship between Spanish usage and affect toward the advertising is shown in the second model in Table 3 and represented graphically in Figure 2.
+Examination of the means for affect toward the advertisement for the advertisements in Figure 2 indicates that affect toward the all-Spanish advertisement is lower than affect toward the all-English, English-dominant, and Spanish-dominant advertisements (Wilks's lambda = .963, 3df,p= .004). However, no differences in mean affect toward the advertisement are found between the all-English and mixed-language advertisements (Wilks's lambda = .994,1 df, p = .356). Therefore, there is empirical support for a negative association between increasing Spanish usage and affect toward the advertisement after controlling for the effect of the advertiser's perceived cultural sensitivity on affect toward the advertisement (Hypothesis 3).
+From the second model in Table 3, there is no empirical support for Hypotheses 4-6 on the effect of language-related inferiority complex attributed to Spanishlanguage dominance, attitude toward English, and attitude toward Spanish, respectively. Basically, these results indicate that though the effect of language-related inferiority complex (Hypothesis 3) is supported, it may not be attributable to Spanish-language dominance (Hypothesis 4), attitude toward English (Hypothesis 5), or attitude toward Spanish (Hypothesis 6).
+At the a = . 1 level of significance, there appears to be a positive relationship between identifying with the United States and affect toward the advertisement. That is, subjects who strongly identified with the United States liked the advertisements more than subjects who identified with their ethnic culture. This finding is contrary to Hypothesis 7 and may be attributable to sampling error.
+One surprising finding is that the degree of Spanishlanguage dominance is negatively and significantly related to perceived cultural sensitivity of the advertiser. The more English-dominant the subject was, the more likely the subject was to perceive the advertiser as culturally sensitive. One reason for this finding may be that persons who are Spanish-language dominant may be more likely to attribute Spanish-language advertising usage to the advertiser's common sense: if one only knows Spanish, then one must be communicated to in Spanish. Spanish-dominant individuals may simply view Spanish-language usage more as a way of providing accessible information and less as a symbolic outreach.
+
+582
+
+JOURNAL OF CONSUMER RESEARCH
+FIGURE 1 SPANISH USAGE AND PERCEIVED CULTURAL SENSITIVITY
+
+9 -~
+
+--
+
+Least square mean of perceived cultural evaluation
+of the advertiser
+
+876-
+
+(1
+
+54-
+
+(1 --
+
+\ \\
+
+\--
+
+All-English treatment
+
+Englishdominant treatment
+
+Spanishdominant treatment
+
+All-Spanish treatment
+
+NOTE.--Figure reports 95 percent confidence intervai for least square means of perceived cuitural sensitivity of advertisers in each treatment.
+
+DISCUSSION, IMPLICATIONS, AND FUTURE DIRECTIONS
+The purpose of the present study was to examine Hispanics' responses to the use of Spanish in advertisements. Spanish-language advertisements are sometimes an effective tool in communicating to the Hispanic community, but the exact mechanism for such influence is not clear (Fitch and Kauchak 1990). This article has suggested that the effects of Spanish-language advertising can be partially explained within the context of the sociolinguistic theory of accommodation. It also provides several implications for consumer research on language usage in advertising.
+These results highlight the complex symbolic role of Spanish language in advertising. Spanish-language dominance possibly plays a role in literal comprehension of advertisements, but the multiple effects of language in advertisements go well beyond this informational level. The perception that advertisers are sensitive to Hispanic culture is central to the effectiveness of Spanish-language advertisements, because this percep-
+
+tion has a significant and positive influence on affect toward the advertisements. This finding suggests that Hispanics value the use of Spanish less for what the advertisements communicate about products than for what Spanish usage signals about the importance of Hispanics as consumers. Importantly, the mixed-language advertisements have the most positive things to say about Hispanics, and this may have much to do with how Hispanics are viewed by mainstream AngloAmerican culture.
+As Marin and Marin (1991) note, the common and widespread portrayal of Hispanics as monolingual and as singularly Hispanic in identity is an incorrect interpretation of reality. Many Hispanics see themselves as both Hispanic and American and desire that others recognize such complex identities. To design advertisements in only Spanish or English contributes to the misperception of a singular Hispanic or American identity and ignores the importance of multiple identities associated with language usage (Haarman 1986). Though language is the vehicle of accommodation in this study, this accommodation is effective because it
+
+LANGUAGE EFFECTS IN ETHNIC ADVERTISING
+FIGURE 2 SPANISH USAGE AND AFFECT TOWARD ADVERTISEMENT
+
+Least square mean of
+affect toward the advertisement
+
+4.5 --
+
+4.0 --
+
+583
+
+3.5 --
+
+All-English Englishtreatment dominant
+treatment
+
+Spanish- All-Spanish dominant treatment treatment
+
+NOTE.--Figure reports 95 percent confidence interval for least square means of advertising response for each treatment.
+
+recognizes the multiple identities of Hispanics as both Spanish and English speakers and as both Hispanic and American individuals.
+One important implication of this research is determining the level of Spanish-language usage in advertising intended to reach Hispanics. These results suggest that advertisers should use some mixture of Spanish and English. The positive effect of signaling an advertiser's respect for and awareness of the Hispanic community was felt at the lowest level of Spanish usage (i.e., the English-dominant bilingual advertisement) and did not significantly increase when Spanish-dominant bilingual or exclusively Spanish advertisements were used. Moreover, there is a potential loss from using only Spanish because the important secondary effect of language-related inferiority complexes also operates. This finding is also closely supported by Hernandez and Newman (1992) who suggest that advertising to Hispanics exclusively in Spanish is an oversimplification. They advocate the use of a contingency approach to investigate the choice of language in advertising that considers the level of acculturation and language fluency of the audience.
+For the most part, the high R^ of our results indicate that these data support our theoretical structure, but
+
+future research should consider in more detail other non-language-related factors such as intensity of ethnic identification, level of ethnic pride, and degree of assimilation. These factors may interact with language usage and attitudes to influence the extent to which language is accommodated in advertising directed at an ethnic subculture. The intensity of ethnic identification (see Deshpande et al. 1986; Hirshman 1981) and the degree of assimilation (cf. Rose 1992) may exert a direct influence on language-related inferiority complexes that in turn influence the effectiveness of linguistic accommodation in advertising. Particularly important is incorporating ethnic individuals' normative views about what they feel their role to be in American society. That is, how much and in what way should ethnicity matter in the modern marketplace?
+Although this research has suggested that Spanishspeaking Hispanics have language-related inferiority complexes, this article did not explore in depth the cultural context of the stigmatization of Spanish usage in the United States or this context's effect in advertising settings. Because much of our knowledge of the effect of cultural context on stigmatization comes from classroom-based studies where face-to-face communication is common (see Crawford 1992a), this literature may
+
+584
+be an inadequate representation of the impersonal communication common in advertising settings. Some additional work is needed to understand how these insecurities are activated and coincide with ethnic and language pride as well as racial discrimination and the pohtics of bilingualism.
+Although this study has found support for the Whorfian hypothesis within an advertising context, it is only at what Hunt and Agnoli (1991) called the representational level, that is, language has an effect on the interpretation of the world around us. In this case, language affects the perception of advertising sensitivity to Hispanics and activates language-related inferiority complexes. Another Whorfian direction to consider may be what Hunt and Agnoli (1991) called the mechanical level of thought, whereby thinking in Spanish, English, or some other language has an effect on the mechanical processing of the message itself. This psycholinguistic approach places the Whorfian hypothesis firmly within the domain of traditional cognitive psychology (see Harris et al. 1986). As one example of this approach. Hunt and Agnoli (1991) note that different languages place different demands on memory usage. English places high demands on memory because English is relatively free form and words can appear in a sentence in many different orders and have dramatically different meanings. If other languages place fewer demands on memory, processing differences may be observed when consumers are distracted. Considering that there are few instances where advertising viewers are not distracted, memory effects of communicating in various languages should add to our knowledge of the Whorfian effects of language usage in an advertising context.
+By employing the various frameworks suggested here it is hoped that the investigation of consumer subcultures will be benefited. The effects of language in advertising are subtle, and this research demonstrates that a variety of effects, both positive and negative, may be brought about by minority-language usage in advertising directed at consumers in minority subcultures. A full understanding of language usage and advertising awaits further study.
+REFERENCES
+Alba, Richard D. (1990), Ethnic Identity: The Transformation of White America. New Haven, CT: Yale University Press.
+Bell, Allan (1991), "Audience Accommodation in the Mass Media," in Contexts of Accommodation: Developments in Applied Sociolinguistics, ed. Howard Giles et al., Cambridge: Cambridge University Press, 69-102.
+Byrne, D. (1971), The Attraction Paradigm, New York: Academic Press.
+Carranza, M. and E. Ryan (1975), "Evaluation Reactions of Bilingual Anglo and Mexican American Adolescents toward Speakers of English and Spanish," International Journal of the Sociology of Language, 6 (2), 83-104.
+Carroll, John B. (1956), "Introduction," in Language, Thought, and Reality: Selected Writings ofBenjamin Lee
+
+JOURNAL OF CONSUMER RESEARCH
+Whorf ed. John B. Carroll, Cambridge, MA: MIT Press 1-34.
+Crawford, James (1992a), "Language Diversity and Education," in Language Loyalties: A Source Book on the Of ficialEnglish Controversy, ed. James Crawford, Chicago: University of Chicago Press, 395-398. (1992b), "What's Behind Official English," in Language Loyalties: A Source Book on the Official English Controversy, ed. James Crawford, Chicago: University of Chicago Press, 171-177.
+Deshpande, Rohit, Wayne D. Hoyer, and Naveen Donthu (1986), "The Intensity of Ethnic Affiliation: A Study of the Sociology of Hispanic Consumption," Journal of Consumer Research. 13 (September), 214-220.
+Essed, Philomena (1991), Understanding Everyday Racism. Newbury Park, CA: Sage.
+Fitch, Ed and Therese Kauchak (1990), "Missing the Language Ghetto: Advertising in Spanish Reaches a Crossroads," ^(/vertwm^^^e, 61 (February 12), SI.
+Giles, Howard, Nikolas Coupland, and Justine Coupland (1991), "Accommodation Theory: Communication, Context, and Consequences," in Contexts ofAccommodation: Developments in Applied Sociolinguistics, ed. Howard Giles et al., Cambridge: Cambridge University Press, 1-68.
+, D. M. Taylor, and R. Y. Bourhis (1973), "Toward a Theory of Interpersonal Accommodation through Speech Accommodation: Some Canadian Data," Language in Society, 2 (August), 177-192. Grace, George W. (1987), The Linguistic Construction of Reality. London: Croom Helm. Greenberg, Bradley S., Michael Burgoon, Judee K. Burgoon, and Filipe Korzenny (1983), Mexican Americans and the Mass Media, Norwood, NJ: Ablex. Guernica, A. (1982), Reaching the Hispanic Market Effectively: The Media, the Market, the Methods. New YorkMcGraw-Hill. Haarmann, H. (1986), Language in Ethnicity. Berlin: Mouton de Gruyter.
+Harris, Richard Jackson, Ruth E. Sturm, Michael L. Klassen, and John I. Bechtold (1986), "Language in Advertising: A Psycholinguistic Approach," Current Issues and Re-
+search in Advertising 9 ( 1 ) , 1-26.
+Hernandez, Sigfredo A. and Larry M. Newman (1992), "Choice of English vs. Spanish Language in Advertising to Hispanics," Journal of Current Issues and Research in Advertising. 14 (Fall), 35-45.
+Hirschman, Elizabeth C. (1981), "American Jewish Ethnicity: Its Relationship to Some Selected Aspects of Consumer Behavior," Journal ofMarketing, 45 (Summer), 102-110.
+Hunt, Earl and Franca Agnoli (1991), "The Whorfian Hypothesis: A Cognitive Psychology Perspective," Psychological Review, 98 (July), 377-389.
+Keefe, Susan E. and Amado M. Padilla (1987), Chicano Ethnicity, Albuquerque: University of New Mexico Press.
+Lipski, J. M. (1985), "Spanish in United States Broadcasting," in Spanish Language Use and Public Life in the United States, ed. L. Elias-Olivares et al., Berlin: Mouton, 217233.
+Lutz, Catherine A. and Lila Abu-Lughod, eds. (1990), Language and the Politics of Emotion, Cambridge: Cambridge University Press.
+Marin, Gerardo and Barbara V. Marin, (1991), Research with Hispanic Popidations. Newbury Park, CA: Sage.
+
+LANGUAGE EFFECTS IN ETHNIC ADVERTISING
+
+585
+
+Montgomery, M. (1988), "D-J Talk," in Styles ofDiscourse, ed. Nikolas Coupland, London: Croom Helm, 85-104.
+O'Guinn, Thomas C. and Ronald J. Faber (1986), "Advertising and Subculture: The Role of Ethnicity and Acculturation in Market Segmentation," Current Issues and Research in Advertising 9 (1), 133-147. and Tim Meyer (1983), "Segmenting the Hispanic Market: The Use of Spanish Language Radio," Journal ofAdvertising 23 (6), 9-16.
+Platt, J. and H. Weber (1984), "Speech Convergence Miscarried: An Investigation into Inappropriate Accommodation Strategies," International Journal of the Sociology of Language, 46, 131-146.
+Portes, Alejandro and Cynthia Truelove (1987), "Making Sense of Diversity: Recent Research on Hispanic Minorities in the United States," Annual Review of Sociology, 13,359-385.
+Posner, Michael I. and Gordon L. Shulman (1979), "Cognitive Science," in The First Century of Experimental Psychology, ed. Eliot Hearst, Hillsdale, NJ: Erlbaum, 371405.
+Powell, T. E. and H. Valencia (1984), "An Examination of Hispanic Subcultural and Regional Value Orientations," in Personal Values and Consumer Psychology, ed. Robert E. Pitts, Jr. and Arch G. Woodside, Lexington, MA: Lexington Books, 219-230.
+Rose, Patricia B. (1992), "Hispanic Acculturation/Assimilation: The Need for an Emic Perspective," in Proceedings of the 1992 Conference of the American Academy of Advertising, ed. Leonard N. Reid, Athens, GA: American Academy of Advertising, 1-6.
+Saegert, Joel, Robert J. Hoover, and Mary Tharp Hilger (1985), "Characteristics of Mexican American Consum-
+
+ers," Journal of Consumer Research, 12 (June), 104109.
+Schmid, Carol (1992), "The English Only Movement: Social Bases of Support and Opposition among Anglos and Latinos," in Language Loyalties: A Source Book on the Official English Controversy, ed. James Crawford, Chicago: University of Chicago Press, 202-208.
+Simard, L., D. M. Taylor, and H. Giles (1976), "Attribution Processes and Interpersonal Accommodation in a Bilingual Setting," Language and Speech, 19 (October-December), 374-387.
+Strategy Research Corporation (1991), U.S. Hispanic Market, Miami: Strategy Research Corporation.
+Thakerar, J. N., H. Giles, and J. Cheshire (1982), "Psychological and Linguistic Parameters of Speech Accommodation Theory," in Advances in the Social Psychology of Language, ed. C. Fraser and K. R. Scherer, Cambridge: Cambridge University Press, 205-255.
+Valencia, Humberto (1989), "Hispanic Values and Subcultural Research," Journal of the Academy of Marketing Science, 17 (Winter), 23-28.
+Wallendorf, Melanie and Michael Reilly (1983), "Ethnic Migration, Assimilation, and Consumption," Journal of Consumer Research, 10 (December), 293-302.
+Whorf, Benjamin Lee (1941), "The Relation of Habitual Thought and Behavior to Language," in Language, Culture, and Personality, Essays in Memory ofEdward Sapir, ed. Leslie Spier, Menash, WI: Sapir Memorial Publications Fund, 75-93.
+Wood, Van R. and Roy Howell (1991), "A Note on Hispanic Values and Subcultural Research: An Alternative View," Journal of the Academy of Marketing Science, 19 (Winter), 61-68.
+
+

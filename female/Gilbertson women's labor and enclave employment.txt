@@ -1,0 +1,323 @@
+Women's Labor and Enclave Employment: The Case of Dominican and Colombian Women in New York City Author(s): Greta A. Gilbertson Source: The International Migration Review, Vol. 29, No. 3 (Autumn, 1995), pp. 657-670 Published by: Center for Migration Studies of New York, Inc. Stable URL: http://www.jstor.org/stable/2547498 Accessed: 02-03-2016 21:32 UTC
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at http://www.jstor.org/page/ info/about/policies/terms.jsp JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Wiley and Center for Migration Studies of New York, Inc. are collaborating with JSTOR to digitize, preserve and extend access to The International Migration Review. http://www.jstor.org
+This content downloaded from 165.230.224.77 on Wed, 02 Mar 2016 21:32:40 UTC All use subject to JSTOR Terms and Conditions
+
+Women's Labor and Enclave
+Employment: The Case of Dominican
+and Colombian Women in New York City1
+Greta A. Gilbertson Fordham University
+The enclave hypothesis holds that obligations stemming from a common ethnicity not only permit utilization of past investments in human capital, but help to create opportunities for mobility. This implies that both men and women benefit from a broader reward structure involving more than just wages. Yet few studies examine whether immigrants in co-ethnicowned firms, particularly women, benefit from these other forms of compensation, such as advancement opportunities. Using data from a survey of Colombian and Dominican immigrants in New York City, this research examines whether Dominican and Colombian women working in Hispanic-owned firms in New York City are advantaged relative to women in other labor market sectors in earnings-returns to human capital, opportunities for skill acquisition, and fringe benefits. The results indicate that enclave employment provides women with low wages, minimal benefits, and few opportunities for advancement.
+Research on immigrant adaptation reflects increasing interest in the ethnic enclave as a mode of incorporation and a "means of ascent" for immigrants. In an early study of the ethnic enclave, Wilson and Portes (1980:314) contended that the "payoff of education, occupational status, and objective information appears as great among those employed in enclave enterprises as for those working in the mainstream center economy." While the burgeoning research has explored this question in detail for immigrant men (see Sanders and Nee, 1987; Zhou and Logan, 1989), only a few studies of the enclave have focused on women.
+The lack of research is striking. The enclave hypothesis, as stated by Portes and Bach (1985) refers to enclave "workers," an aggregate that includes a substantial proportion of women. While much qualitative and anecdotal evidence points toward the importance of women's and "family labor" in the enclave (Phizacklea, 1983; Fernandez-Kelly and Garcia, 1990; Boyd, 1989; Portes and Jensen, 1989; Nee and Sanders, 1990; Pedraza, 1990; Light and
+1 Paper presented at the Annual Meeting of the American Sociological Society, Pittsburgh, PA., August 1992. Support for the research has come from National Institute of Mental Health
+Grants MH34340 and MH30569. Fordham University's Hispanic Research Center provided direct and indirect support for data collection and analysis. Special thanks to Roger Waldinger, Douglas T. Gurak, and Emily Rosenbaum.
+IMR Vol. xxix, No. 3 657
+This content downloaded from 165.230.224.77 on Wed, 02 Mar 2016 21:32:40 UTC All use subject to JSTOR Terms and Conditions
+
+658 International Migration Review
+Bonacich, 1988), few studies have tested whether women benefit from enclave employment.
+There is ample reason to question whether the benefits of enclave employment extend consistendy to women. Discrimination, occupational segrega? tion, and work/family conflicts result in lower wages and fewer opportunities for women, regardless of labor market sector. Although a key advantage of enclave employment is access to resources that facilitate entrepreneurship, research shows that women in the mainstream economy encounter more barriers to self-employment than do men (Loscoco and Robinson, 1991).
+Prior research provides no firm basis for generalizing about the effect of enclave employment for women. I could locate only two studies that include women, and the findings are contradictory. Zhou and Logan (1989) found that Chinese women workers in New York City have no measurable earningsreturns on previous human capital; Portes and Jensen (1989) reported that employment in enclave firms in Miami increased earnings for Cuban women.
+Ethnic employment is an important part of the adaptation experiences of Dominican and Colombian women in New York City. Dominicans and Colombians tend to cluster in a few high-density Latino areas; a settlement pattern conducive to enclave employment (see Portes and Guarnizo, 1990). Continued immigration to the city has fueled the growth of ethnic businesses, catering mosdy to Latinos. In New York City, Dominican and Colombian women are concentrated in industries with large numbers of ethnic-owned firms, such as nondurable manufacturing, retail trade, and restaurants.
+It is an important oversight in the discussion of enclave employment and, more generally, on immigrant socioeconomic adaptation, if opportunity struc? tures within the enclave differ by gender. To explore this question, I use data from a 1981 survey of 904 Dominican and Colombian immigrants in New York City (TV of women = 203). I examine earnings-returns to human capital and several other nonmonetary work outcomes for women in the primary, secondary, and enclave labor market sectors.
+ALTERNATIVE WORK OUTCOMES AND THE ENCLAVE
+The research on enclave employment has other limitations that have a bearing on women. Only a single dimension of the quality of employment in the ethnic enclave hypothesis is addressed: earnings-returns to human capital. The en? clave hypothesis holds that obligations stemming from a common ethnicity not only permit utilization of past investments in human capital but help to create opportunities for mobility. This hypothesis implies a broader reward structure involving more than just wages. Few studies, however, have examined whether women benefit from these other forms of compensation in the form of mobility or advancement opportunities.
+Another important dimension of the broader reward structure relates to fringe benefits. None of the literature on enclave employment looks at the
+This content downloaded from 165.230.224.77 on Wed, 02 Mar 2016 21:32:40 UTC All use subject to JSTOR Terms and Conditions
+
+Dominican and Colombian Women in New York City 659
+availability of fringe benefits for women (but ^Gilbertson and Gurak, 1993, for a study of men). This is an important omission - fringe benefits such as health and retirement represent a substantial addition to wages. Freeman and MedofF (1984) show that fringe benefits add 23.7 cents and 14.6 cents respectively to each dollar of wages for production workers in union and nonunion firms. Also, fringe benefits are more available to workers in large rather than small firms. In this research, I explore whether Dominican and Colombian women in the enclave are more advantaged than women in other labor market sectors in earnings-returns to human capital and in two other forms of compensation - opportunities for skill acquisition and fringe benefits.
+DATA AND METHODS
+The data for this study, from a 1981 survey of 904 Colombian and Dominican immigrants in New York City, were collected by a team of trained interviewers using face-to-face interviews during the summer and fall of 1981. All immi? grants in the 1981 survey were between the ages of 20 and 45 and lived anywhere in Queens County or in the northern half of Manhattan. While Dominicans live in all five of the counties of New York City, the largest concentrations are in Manhattan and Queens. The principal settlement area is Washington Heights, located in the northern part of Manhattan between the South Bronx and New Jersey. The second major concentration is in northern Queens (Corona, Jackson Heights, Woodside). Rather than sam? pling these neighborhoods direcdy, 1980 census tract and block data were used. The sampling frame for the PSUs included all census tracts in Queens and in the northern half of Manhattan (extending well south of Washington Heights, to 72nd Street). Using probabilities proportionate to the size of the Hispanic population (Sudman, 1976), 30 tracts were chosen initially, and from these, two blocks per tract were selected. A complete census of those blocks was undertaken. The area from which the sample was selected consists of about
+150 square miles. Roughly 425,000 Hispanics resided within this area in 1980. Compared to a hypothetical sample of Dominicans and Colombians in all of New York City, the study sample has less education and lower income (Gurak,
+1987). The sample may exclude higher status workers to the extent that they do not live in the neighborhoods included in the survey.
+Despite the biasing effects of the sample design, the Dominican segment of the sample appears quite representative of the Dominican population of New York City. In their analysis of New York City census data for the city as a whole, Mann and Salvo (1984) found the Dominican population to have income,
+education levels, and occupational distributions very similar to the 1981 sample. Grasmuck and Pessar (1991) describe a sample attained through snowball techniques in New York. Individuals in that sample, as might be expected given the more extreme concentration in areas of principal settlement, have lower incomes and work in lower status occupations.
+This content downloaded from 165.230.224.77 on Wed, 02 Mar 2016 21:32:40 UTC All use subject to JSTOR Terms and Conditions
+
+660 International Migration Review
+Since the survey in 1981, Dominicans continued to enter New York City in large numbers. Actually, the largest number of immigrants entering the United States legally between 1982 and 1989 were from the Dominican Republic: 190,287 to the United States; 115,759 of these to New York City. Over 40,000 of these immigrants reported their initial residence within Washington Heights and the adjacent neighborhoods of Inwood and Hamil? ton Heights (Department of City Planning, 1992). Colombia was the sixth largest source country to New York City, with over 20,000 legal immigrants. The census reported 332,713 Dominicans in New York City in 1990 and 85,975 Colombians.
+The primary goal of this research is to assess the consequences of employ? ment in the enclave economy for three types of labor market outcomes: opportunities for skill acquisition while employed, nonmonetary forms of compensation, and earnings. The analytic sample consists of 203 Dominican and Colombian women immigrants who were classified as in the labor force during the 12 months prior to the survey. Data refer to earnings and benefits during the principal activity during the twelve months prior to the survey. Information on earnings, nonmonetary compensation, and opportunities for skill acquisition are explicidy linked to a specific occupation. The questionnaire obtains information about multiple economic activities and sources of income but goes on to ask detailed questions on up to three economic activities engaged in during the twelve months prior to the survey.
+Promotion, job protection, opportunities for advancement, and whether a respondent supervises others serve as proxies for opportunities for skill acqui? sition on the job. These variables are measured as follows:
+1) Promotion: Have you received a promotion while working for current employer? (1 = yes).
+2) Job Protection: Is there some form of job security where you work? That is, are workers who have been there for a certain period of time or reached a certain rank protected from layoffs? Is your job protected from lay-offs? (1 =yes).
+3) Advancement Opportunities: Are there opportunities for advancement at this place of work? (1 = yes).
+4) Supervisory Responsibilities: Do you have supervisory responsibilities over other workers? (1 = yes).
+Nonmonetary compensation is another dimension of the reward structure at work. I use the following survey questions to operationalize these concepts:
+1) Retirement: Is a retirement plan contribution deducted from your pay by your employer? (1 = yes).
+2) Medical Insurance: Is a payment for medical insurance deducted from your pay by your employer? (1 = yes).
+3) Paid Vacation Days: How many paid vacation days do you receive annually? (1 = more than 5 days).
+This content downloaded from 165.230.224.77 on Wed, 02 Mar 2016 21:32:40 UTC All use subject to JSTOR Terms and Conditions
+
+Dominican and Colombian Women in New York City 661
+Defining the Ethnic Enclave
+Portes and Bach (1985) theorize the enclave as an aggregation of "firms of any size which are owned and managed by members of an identifiable cultural or national minority." Information on the ethnicity of the owner/manager at one's place of work is used to classify respondents as enclave workers. The 1981 survey asked:
+"Is the manager/owner (of your place of work) Hispanic?" Anyone who answered yes' is defined as a member of the enclave. Respondents who reported that the
+owner or manager of their workplace was Hispanic comprise 14.0 percent of the total sample of employed Dominican and Colombian women.
+There are two concerns as to the way I define enclave employment. One is that a Dominican or Colombian in the enclave sector could be working for any Hispanic, whereas it is ideally defined as working for someone of the same country of origin. When workers and owners are from the same country of origin, workplace relations may be less paternalistic or protective. This may reduce the chance that a worker will acquire the skills or opportunities that may lead to eventual self-employment.
+A second concern stems from the use of the phrase "owner/manager." A respondent could work in a business with a Hispanic manager but with a non-Hispanic owner. If the answer was yes' to the question about the ethnicity of the owner/manager, then the respondent would be misclassified as an enclave worker. I think these cases are limited. My field research indicates that most Hispanic-owned businesses are relatively small and that the owner plays a prominent role in the day-to-day operations of the business. Thus, a respondent is likely to refer to the business owner in answering this question. Another reason that I do not think this will seriously bias the measurement of enclave employment is because the majority of Hispanic-managed businesses are probably Hispanic-owned.
+Information on the ethnic composition of the workplace is used to classify workers into the remaining two labor market sectors: primary and secondary. The secondary sector includes women who said that they were not working
+for a Hispanic manager or owner, but who worked alongside other nonwhites (including predominandy Hispanic, predominandy black, and predominandy other) or in mixed workplaces (50/50 white/black; 50/50 white/Hispanic; 50/50 Hispanic/black). They were classified as secondary sector workers. This meshes well with Portes and Bach's (1985) definition of the secondary labor market as a majority-owned workplace that employs ethnic workers. Secondary sector firms should share characteristics such as small size, labor intensity, low profits, low productivity, intensive product market competition, lack of un? ionization, and low wages (Beck, Horan and Tolbert, 1978). The majority of the employed Dominican and Colombian women in the survey (65.1%) are in the secondary labor market sector.
+Primary sector workers indicated that the ethnic composition of their workplaces was "predominandy white" and that the manager/owner of their
+This content downloaded from 165.230.224.77 on Wed, 02 Mar 2016 21:32:40 UTC All use subject to JSTOR Terms and Conditions
+
+662 International Migration Review
+place of work was not Hispanic. Nonethnic, majority-owned firms share more of the characteristics of the primary labor market: high productivity, high profits, high degree of unionization, and job security. Women in this sector make up 15.3 percent of the sample.
+A small number (12 or 5.6%) of Dominican and Colombian women are business owners; they are excluded from the analysis. Business owners often fare better than immigrant employees (Sanders and Nee, 1987; Bonacich and Modell, 1980) and should be treated as a separate group.
+Table 1 shows means and standard deviations of the independent and dependent variables. As far as annual income, women in the secondary sector are the lowest paid group ($6,765), earning about $1,000 less than women in the enclave ($7,795). Women in the primary sector ($9,291) earned about $1,500 more than enclave workers. Despite these differences (none of them significant), all women in the sample earned low annual incomes. Dominican and Colombian women in the primary and secondary labor markets earned about $3,000 less than men in these labor market sectors (Gilbertson and Gurak, 1993). For men and women enclave workers the gap is smaller: women earned about $1,500 less than men.
+No clear pattern emerges among the measures of opportunities for skill acquisition. This is probably due, in part, to mismeasurement of labor market sectors. Primary sector workers are more likely to report job protection than secondary sector workers. Secondary sector workers are more likely than enclave workers to receive retirement benefits. Primary and secondary sector workers are significandy more likely than enclave employees to report that they supervised others; no women in the enclave reported that they supervised others.
+There are several significant differences in the human capital attributes of individual workers. Primary sector workers have more origin-country educa? tion, better English skills, and have spent more time in the United States than enclave workers. Secondary sector workers report more origin-country educa? tion than enclave workers.
+Table 1 provides a rough picture of the structure of employment in each sector. Women in the secondary sector are much more likely to be unionized than both enclave and primary sector workers. Dominican and Colombian women in all sectors are heavily concentrated in the garment manufacturing industry. About half of both enclave and primary sector workers are employed in garment/nondurable manufacturing compared with over 60 percent of secondary sector workers. Enclave workers are found in the smallest workplaces as measured by number of employees.
+EARNINGS-RETURNS TO HUMAN CAPITAL
+Are enclave workers rewarded more than workers in other labor market sectors for their human capital? To answer this question, I regressed logged annual income on the enclave and primary sector variables only, the secondary sector
+This content downloaded from 165.230.224.77 on Wed, 02 Mar 2016 21:32:40 UTC All use subject to JSTOR Terms and Conditions
+
+Dominican and Colombian Women in New York City
+
+Means and Standard Deviations (in parentheses) of Analysis Variables:
+Mean Earnings Log Earnings Medical Insurance (%) Retirement Benefits (%) Paid Vacation Days (%) Job Protection (%) Promotion Opportunities (%) Advancement Opportunities (%) Supervising (%) Weeks Worked Daily Hours Log Weekly Hours Work Experience Exp. Squared Education/Origin Society Education/United States Years, United States English Proficiency Union Membership (%)
+Dominican (%) Manufkl (%)c Manufoc2 (%)d Commerce (%) Service (%) Workplace Size
+AT aSig. > than enclave workers (p = .05). bSig. < than enclave workers (p = .05). 'Garment/nondurable manufacturing. dDurable manufacturing.
+
+TABLE 1
+
+Dominican and Colombian Women
+
+Enclave
+
+$7,794.81 (4,259.78)
+
+8.73 (0.83)
+0.37 (0.38)
+0.17 (0.38)
+0.60 (0.50)
+
+0.67 (0.48)
+0.17 (0.36)
+0.23 (0.43)
+0.00 (0.00) 44.42 (14.81)
+
+7.31 (1.61)
+3.56 (0.34) 18.83 (9.09)
+
+354.57 (323.82)
+
+7.42 (3.21)
+
+0.97 (2.61)
+7.52 (5.42)
+2.02 (1.28)
+0.33 (0.48)
+0.57 (0.50)
+
+0.45 (0.43)
+0.11 (0.32)
+0.11 (0.32)
+
+0.33 (0.50)
+
+37.79 (45.81)
+
+30
+
+Secondary $6,764.63
+(3,518.84)
+
+8.63 (0.82)
+0.44 (0.47)
+0.33b (0.47)
+0.70 (0.46)
+
+0.75 (0.39)
+0.14 (0.47)
+0.22 (0.42)
+0.08b (0.27) 42.13 (15.37)
+7.46 (1.72)
+3.58 (0.34) 17.91 (9.09) 320.77 (328.07)
+8.62b (3.65)
+
+0.56 (2.01)
+8.63 (5.91)
+2.52 (1.11)
+0.64b (0.48)
+0.75b (0.44)
+0.62 (0.46)
+0.15b (0.42)
+0.07a (0.25)
+0.16 (0.49)
+
+115.62b (155.71)
+
+140
+
+663
+Primary $9,290.71
+(5,621.65) 8.90
+(0.80) 0.30
+(0.40) 0.24
+(0.44) 0.67
+(0.48) 0.85b
+(0.37) 0.33
+(0.46) 0.46
+(0.51) 0.12b
+(0.33) 45.51 (13.01)
+9.02 (2.31)
+3.58 (0.52) 16.12 (8.76) 259.85 (283.45)
+9.10b (3.64)
+2.48 (4.39) 12.25b (6.32)
+3.21b (.94)
+0.30 (0.47)
+0.55 (0.51)
+0.48 (0.42)
+0.08 (0.28)
+0.10 (0.30)
+0.34 (0.50) 101.22b (174.27) 33
+
+This content downloaded from 165.230.224.77 on Wed, 02 Mar 2016 21:32:40 UTC All use subject to JSTOR Terms and Conditions
+
+664 International Migration Review
+variable is excluded (results not shown). The estimated effect of primary sector employment was positive and not significant (p = .08); the effect of enclave employment was also positive but not significant. Controlling for other labor market sectors, working in the enclave sector does not increase earnings relative to working in the secondary sector. Some of the effects of labor market sector may be due to the attributes of workers. To control for these factors, I regressed logged income on a model including structural and human capital variables. These variables have been used in previous studies of immigrant earnings.2 There are two variables for years of education: education acquired in the origin society and education acquired in the United States. Education acquired in the United States is more likely to be relevant for labor markets there (Chiswick, 1979). Work experience is calculated by subtracting the years of schooling plus six from the respondent s age. The square of the work experience variable is included in the model; it specifies an initial positive effect followed by a negative effect beyond some level of work experience. Years in the United States is included and measures potential exposure to the U.S. labor market. A variable representing the log of weekly hours worked in 1980 is included in the model as a measure of labor supply. An index of English language ability3 measures English proficiency. A dummy variable for marital status (1 = married at the time of the survey) is included. Finally, a dummy variable for union membership (1 = union member) is added to the model because union membership is thought to affect wage rates. To test whether enclave employment affects the earnings determination process through interaction with other variables, I included variables for labor market and ethnic interactions; inclusion of these interaction effects did not increase the explained variance of the model significandy. Variables estimating workplace size and industry sector did not significandy increase the explained variance of the model and were not included in the final regression model. After controlling for the human capital and structural variables (Table 2), the coefficient estimates of the effects of enclave and primary sector employ? ment remain unchanged. The variable with the strongest effect on income is hours worked. There is one other positive and significant coefficient estimate: union membership. Women do not receive any returns for either education or work experience. Chinese women in the New York City enclave were not rewarded for their human capital. The absence of effects, as Zhou and Logan (1989) say, does not appear to be the result of personal characteristics of women. Dominican and Colombian women do not have low levels of educa-
+2Although the model we use is best suited to the analysis of men's earnings - the analyses of earnings for women are far more complex because of the effects of interrupted work histories related to child care activities - it has the advantage of being more readily comparable to previous studies.
+^English ability is measured with a fifteen-item additive index that combines information on reading, speaking, and writing in various contexts (range = 0-15). Chronbach's Alpha is .94, indicating a high degree of internal consistency.
+This content downloaded from 165.230.224.77 on Wed, 02 Mar 2016 21:32:40 UTC All use subject to JSTOR Terms and Conditions
+
+Dominican and Colombian Women in New York City 665
+
+_N_200_
+
+Enclave 0.22 Primary 0.27 Work Experience 0.04 Work Exp. Squared -0.00 Education/United States 0.03 Education/Origin Society 0.03 English Proficiency 0.08 Years, United States 0.01 Log Weekly Hours, 1980 0.63b Dominican -0.03 Union Membership 0.36a Constant 5.13 Adj. R Squared 0.20 "Significant at .05 level. bSignificant at .01 level.
+
+tion. In fact, they have higher levels of education than Dominican and Colombian men. Nor are Dominican and Colombian women recent arrivals, which could account for the absence of human capital returns (see Table 1).
+Although the small sample size prevents me from being as conclusive as I might like, the results indicate that enclave workers are not advantaged with respect to earnings.4 In the pooled regression, the net effect of enclave employment is positive, but not significant. This may reflect the small sample size as enclave workers earn about $1,000 more per year than secondary sector workers. There is stronger evidence that primary sector workers are advantaged in their receipt of earnings; they earn over $2,500 more than secondary sector workers.
+
+Regression of Logged Annual Earnings: Dominican and Colombian Women
+
+TABLE 2
+
+^Although small subsample sizes prevent relying exclusively on separate estimations for enclave, primary and secondary employees, I ran separate regressions by labor market sector (results not shown). For women in the secondary sector, the coefficient estimates for the log of weekly hours worked and union membership - the two variables that were significant in the pooled regression are positive and significant. Among women in the primary sector, the coefficient estimates of the log of weekly hours worked and English language are not significant (p < .10), possibly due to small sample size. For women enclave workers, no variable in the model reaches significance. Thus, the results in the pooled regression appear to reflect the effects of secondary sector employment.
+
+(0.15) (0.17) (0.03) (0.00) (0.03) (0.02) (0.07) (0.01) (0.14) (0.12) (0.11) (0.64)
+
+This content downloaded from 165.230.224.77 on Wed, 02 Mar 2016 21:32:40 UTC All use subject to JSTOR Terms and Conditions
+
+666 International Migration Review
+NONINCOME WORK OUTCOMES
+I now investigate whether women enclave workers are more advantaged than secondary sector workers in their receipt of fringe benefits and opportunities for advancement. Table 3 presents the results of the logistic regressions on the probability of receipt of seven measures of nonincome benefits and advance? ment opportunities: paid vacation days, medical insurance, retirement bene? fits, job security, and opportunities for promotion, opportunities for advancement, and supervisory responsibilities. I regressed the dichotomous dependent variables on a set of independent variables (weeks worked, daily hours worked, origin and U.S. education, work experience, work experience squared, English language ability, union membership, ethnicity, workplace size, and membership in primary and enclave sectors). Three variables meas? uring industry sectors (garment/nondurable manufacturing; durable manufac? turing; and commerce) are included as control variables. I tested for ethnic interactions (multiplicative terms consisting of all independent variables * country of origin), but the sets of interactions did not increase the chi square of the models significandy. The coefficients estimating the effect of enclave and primary sector membership should be interpreted relative to secondary sector workers.
+Coefficients for retirement benefits, medical insurance, vacation days, pro? motion, job protection, and advancement opportunities for enclave workers do not reach significance. Enclave workers are not significandy different from secondary sector workers on these indicators. None of the human capital variables predict receipt of benefits consistendy, although English language ability is a strong predictor of job protection and promotion. Union member? ship exerts a strong positive effect on the receipt of retirement benefits, medical insurance, vacation days, and promotion opportunities.
+UNION MEMBERSHIP
+Dominican and Colombian immigrants moved mainly into manufacturing industries that had been organized by unions. Indeed, New York members of the garment industry unions are now largely immigrants. Thus, a large share - almost 54 percent - of the employed Dominican and Colombian women (compared with 49% of men) were union members. National studies have found strong union effects on wages and benefits (seeKerr etai, 1960; Freeman and Medoff, 1984; Brown et al., 1990). Among Dominican and Colombian women in the secondary sector, I found a union effect on wages and benefits, after controlling for the characteristics of workers and the sector of incorpora? tion (see Table 3). Among Dominican and Colombian women, union mem? bers were significandy more likely than nonunion members to receive retirement benefits, medical insurance, vacation days, and promotions. (The zero-order correlations between sector and union membership are: enclave and
+This content downloaded from 165.230.224.77 on Wed, 02 Mar 2016 21:32:40 UTC All use subject to JSTOR Terms and Conditions
+
+Dominican and Colombian Women in New York City
+
+667
+
+Logit Regression of Nonincome Benefits on Human Capital, Labor Market and Demographic Variables for Dominican and Colombian Women4
+
+Enclave
+Primary Work Experience Work Exp. Squared Education/United States
+Education/Origin Society English Years, United States Weeks Hours Dominican
+Union Membership Manufacld Manufac2e Commerce
+Workplace Size Constant
+Chi Square_ W= 20. bSignificant at .01 level. 'Significant at .05 level.
+union -.17; primary and union -.21; secondary and union .29.) Due to international competition and economic downturn, unions have been con? strained in their ability to alter compensation. Although Dominican and Colombian women union members earned significantly more ($7,836) than nonunion members ($6,726), annual income is very low. Unions have been more resistant to the erosion of nonmonetary benefits, which would entail 'give backs' of benefits previously won.
+DISCUSSION
+Prior research on the ethnic enclave focused on the way in which ethnicity permeates class relations, yet it has just begun to explore the relationship of gender
+
+Retirement -.16 (.60) .42 (.63) -.03 (.09) .00 (.00) -.03 (.11) .01 (.07) -.20 (.23) .23 (.04) .00 (.01) -.08 (.15)
+1.34c (.49)
+1.55c (.44) -.14 (.48) -.32 (.65)
+1.28 (.98) .00 (.00)
+-1.89c (1.65) 45.26c
+
+TABLE 3
+
+Medical Insurance
+.40 (.50) -.39 (.56) -.08 (.00)
+.00 (.00) -.07 (.11)
+.06 (.11)
+.05 (.21)
+.21 (.04)
+.02 (.01) -.03 (.06)
+.47 (.38) 1.21c (.37)
+.00 (.41)
+.23 (.57) -1.72 (.92)
+.00b (.00) -1.98c (1.30) 4l.87c
+
+Vacation Days -.05 (.48) -.08 (.54) .09 (.08) -.00 (.00) -.00 (.12) -.03 (.07) .22c (.02) .22 (.02) .02 (.01) .02b (.01) .19 (.37) .84b (.37) .42 (.41) 1.05 (.62) -.35 (.79) -.00 (.00)
+-2.02c (1.27) 25.21c dGarment/nondurable manufacturing. 'Durable manufactung.
+
+Promotion
+.67 {.67)
+.49 (.62)
+.05 (.11) -.00 (.00) -.00 (.12)
+.03 (.07)
+J6C (.27)
+.00 (.05)
+.04b (.02) -.00 (.06) -.41 (.51) 1.07b (.51) -.11 (.57)
+.59 (.68) -.18 (.87) -.00b (.00) -6.52c (1.73) 38.5C
+
+Job Protection
+-.40 (.52)
+.27 (.65) -.07 (.10)
+.12 (.13)
+.12 (.13) -.00 (.07)
+.71c (.28) -.06 (.04)
+.04c (.01)
+.03 (.09) -.13 (.42)
+.53 (.43) -.06 (.46) -.53 (.63) -2.51c (.92)
+.00 (.00) -1.92 (1.60) 36.8C
+
+Advancement .04
+(.56) .85
+(.59) .09
+(.09) -.00 (.00) -.02 (.11) -.03 (.07)
+.55 (.24) -.04 (.04)
+.00 (.01)
+.28 (.15)
+.65 (.46)
+.15 (.43) -.23 (.48) -.67 (.67) 2.08 (.99)
+.00 (.00) -5.71c (1.71) 40.2C
+
+This content downloaded from 165.230.224.77 on Wed, 02 Mar 2016 21:32:40 UTC All use subject to JSTOR Terms and Conditions
+
+668 International Migration Review
+to class and ethnic relations. In an effort to bring gender into the discussion of the ethnic enclave, I examined whether the benefits that have been observed for immigrant men employed in Hispanic-owned firms extend to a sample of Dominican and Colombian women in New York City. Although there are limitations to the study - small sample size and indirect measures of skill acquisition - I found that Dominican and Colombian women do not benefit from working in Hispanic-owned firms in New York City. My results show that enclave employment provides women with very low wages, minimal benefits, and few opportunities for advancement. This finding is similar to that of Zhou and Logan (1989), who found that Chinese women workers in New York City's Chinatown had no measurable earnings-returns to human capital.
+Although I did not examine structures and practices that result in women's disadvantaged position in the enclave, there is little doubt that the dynamics of nonenclave work environments - occupational segregation by gender; discrimination; women's multiple roles as workers, mothers and wives; lack of access to information networks and capital - account for much of women's disadvantage vis-a-vis men (Zhou and Logan, 1989; Loo and Ong, 1987; Pessar, 1984). Results from an earlier study (Gilbertson and Gurak, 1993) indicate that Dominican and Colombian men working in Hispanic-owned firms earned substantially higher incomes and received greater returns to their human capital than Dominican women working in ethnic firms. The nature of women's labor market experiences in the enclave, however, are mediated through class position, family resources and legal status. For example, for women who work in family businesses, kinship may soften the exploitative nature of enclave employment or even confer privileges to women over men. Having said this, I caution that we should not assume a harmony of interests among family members, nor should we equate women's interests solely with family interests. Although a larger percentage of women are family workers than men, most women do not work in family-owned businesses.
+Our results suggest that ethnic ties do not confer advantages to women workers. Thus, some of the success of immigrant small-business owners and workers in the ethnic enclave is due to the marginal position of immigrant women. Stated more plainly, enclave employment is most exploitative of women.
+REFERENCES
+Bailey, T. and R. D. Waldinger 1991 "Primary, Secondary and Enclave Labor Markets: A Training Systems Approach," American Sociological Review, 56: 432-445.
+Beck, E. ML, R M. Horan and C. M. Tolbert 1978 "Stratification in a Dual Economy: A Sectoral Model of Earnings Determination," American Sociological Review, 43: 704-72.
+Birch, D. 1981 "Who Creates Jobs?" The Public Interest, 65: 3-14.
+This content downloaded from 165.230.224.77 on Wed, 02 Mar 2016 21:32:40 UTC All use subject to JSTOR Terms and Conditions
+
+Dominican and Colombian Women in New York City 669
+Bonacich, E. and J. Modell 1980 The Economic Basis of Ethnic Solidarity Los Angeles: University of California Press.
+Boyd, M. 1989 "Family and Personal Networks in International Migration: Recent Developments and New Agendas," International Migration Review, 23:638-67.
+Brown, C, J. Hamilton and J. Medoff 1990 Employers Large and Small Cambridge, MA: Harvard University Press.
+Chiswick, B. R. 1979 "The Effect of Americanization on the Earnings of the Foreign-Born Men," Journal of Political Economy 86:897-921.
+Department of City Planning 1992 "The Newest New Yorkers: An Analysis of Immigration into New York City During the 1980s." New York: Department of City Planning.
+Fernandez-Kelly, M. E and A. M. Garcia 1990 "Power Surrendered, Power Restored: The Politics of Home and Work among Hispanic Women in Southern California and South Florida." In Women, Politics and Change. Ed. L. Tilly and P. Gurin. New York: Russell Sage.
+Freeman, R, and J. Medoff 1984 What Do Unions Do? New York: Basic Books.
+Gilbertson, G. and D. T Gurak 1993 "Broadening the Enclave Debate: The Labor Market Experiences of Dominican and Colombian Men in New York City," Sociological Forum, 8:205-22.
+Grasmuck, S. and P. R. Pessar 1991 Between Two Islands: Dominican International Migration. Berkeley: University of California Press.
+Gurak, D. 1987 "Family Formation and Marital Selectivity among Colombian and Dominican Im? migrants in New York City." International Migration Review, 21:275-298.
+Kerr, C, J. Dunlop, F. Harbison and C. Myers 1960 Industrialism and Industrial Man. Cambridge, MA: Harvard University Press.
+Light, I. and E. Bonacich 1988 Immigrant Entrepreneurs: Koreans in Los Angeles, 1965-1982. Berkeley: University of California Press.
+Loo, C. and R Ong 1987 "Slaying Demons with a Sewing Needle: Feminist Issues for Chinatowns Women." In From Different Shores. Ed. R. Takaki. New York: Oxford University Press. Pp. 186-191.
+Loscoco, K. A. and J. Robinson 1991 "Barriers to Women's Small Business Success in the United States," Gender and Society 5:511-532.
+Mann, E. and J. Salvo 1984 "Characteristics of New Hispanic Immigration to New York City: A Comparison of Puerto Rican and Non-Puerto Rican Hispanics." Paper presented at the Annual Meeting of the Population Association of America, Minneapolis.
+Nee, V. and J. M. Sanders 1990 "A Theory of Immigrant Incorporation." Technical Report 90-2. Department of Sociology. Cornell University.
+This content downloaded from 165.230.224.77 on Wed, 02 Mar 2016 21:32:40 UTC All use subject to JSTOR Terms and Conditions
+
+670 International Migration Review
+Organization for Economic Cooperation and Development 1985 "Employment in Small and Large Firms: Where Have the Jobs Come From?" Employment Outlook, September.
+Pedraza, S. 1990 "Women and Migration: The Social Consequences of Gender," Annual Review of Sociology 17:303-325.
+Pessar, R R. 1984 "The Linkage between the Household and Workplace of Dominican Women in the U.S.," International Migration Review, 18:1188-121.
+Phizacklea, A. 1983 "In the Front Line." In One Way Ticket: Migration and Female Labor. Ed. A Phizacklea. London: Routledge & Kegan Paul. Pp. 95-112. Portes, A. and R. L. Bach 1985 Latin Journey: Cuban and Mexican Immigrants in the U.S. Berkeley: University of California Press. Portes, A. and L. E. Guarnizo 1991 "Tropical Capitalists: U.S. Bound Immigration and Small Enterprise in the Domini? can Republic." In Migration, Remittances and Small Business Development: Mexico and Caribbean Basin Countries. Ed. S. Diaz-Briquets and S. Weintraub. Boulder, CO: Westview Press. Pp. 103-131. Portes, A. and L. Jensen 1989 "The Enclave and the Entrants: Patterns of Ethnic Enterprise in Miami Before and After Mariel," American Sociological Review, 54:929-949. Sanders, J. M. and V. Nee 1987 "Limits of Ethnic Solidarity in the Enclave Economy," American Sociological Review, 52:745-773. Sudman, S. 1976 Applied Sampling. New York: Academic Press.
+Wilson, K. L. and A. Portes 1980 "Immigrant Enclaves: An Analysis of the Labor Market Experiences of Cubans in Miami," American Journal of Sociology 86:295-319.
+Zhou, M. and J. R. Logan 1989 "Returns on Human Capital in Ethnic Enclaves: New York City's Chinatown," American Sociological Review, 54:809-82.
+This content downloaded from 165.230.224.77 on Wed, 02 Mar 2016 21:32:40 UTC All use subject to JSTOR Terms and Conditions
+
+

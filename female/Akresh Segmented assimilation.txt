@@ -1,0 +1,463 @@
+Social Science & Medicine 149 (2016) 114e121
+Contents lists available at ScienceDirect
+Social Science & Medicine
+journal homepage: www.elsevier.com/locate/socscimed
+
+Segmented assimilation, neighborhood disadvantage, and Hispanic immigrant health
+Ilana Redstone Akresh a, *, D. Phuong Do b, Reanne Frank c
+a University of Illinois at Urbana-Champaign, Department of Sociology, 3120 Lincoln Hall 702 South Wright Street Urbana, IL 61801, USA b University of Wisconsin-Milwaukee, USA c The Ohio State University, USA
+
+article info
+Article history: Received 21 August 2015 Received in revised form 3 December 2015 Accepted 10 December 2015 Available online 13 December 2015
+Keywords: Immigrant health Assimilation Segmented assimilation Neighborhood disadvantage
+
+abstract
+We use a subset of Hispanics from the New Immigrant Survey, a nationally representative data set on immigrants recently granted legal permanent residency (n 1/4 2245), to examine whether the relationship between assimilation and health is modified by neighborhood disadvantage and, in doing so, carry out an empirical test of the segmented assimilation hypothesis. Results indicate that assimilation in the least disadvantaged neighborhoods can be protective against poor health. Specifically, more assimilated men and women in the lowest disadvantage neighborhoods have a lower likelihood of self-reported poorer health and being overweight, respectively; no link was found in higher disadvantage neighborhoods. Assimilation was not found to be associated with self-reported health for women or BMI for men, regardless of neighborhood disadvantage level. Overall, we find some evidence supporting the hypothesis that the effects of assimilation on health depend on the context in which immigrants experience it.
+(c) 2015 Elsevier Ltd. All rights reserved.
+
+The foreign-born make up a considerable proportion of the U.S. population, one that has been increasing since 1970, reaching an estimated 13.7 percent in 2015 (Pew Research Center, 2015). Several studies have shown that those in this sizable population who have been in the U.S. for an extended period of time often have worse health outcomes than more recent arrivals. This pattern has been shown for various origin groups (Frisbie et al., 2001; GordenLarsen et al., 2003) and various outcomes including overweight and obesity, poor health, depression, and activity limitations (Akresh, 2007a; Antecol and Bedard, 2006; Frisbie et al., 2001; GordenLarsen et al., 2003; Takeuchi et al., 2007). In particular, these patterns suggest that an immigrant's level of assimilation, which also generally increases the longer one remains in the U.S., may be linked to behavioral changes that affect their health. Although much of the research has focused on health outcomes that worsen with time in the U.S., there is some evidence that assimilation can also result in better health once in the U.S. For instance, empirical and theoretical work indicates that changes in diet, which increase with time in the U.S., are linked to reports of both better and worse health (Akresh, 2007a; Satia-Abouta et al., 2002). It follows that
+* Corresponding author. E-mail address: redstone@illinois.edu (I.R. Akresh).
+http://dx.doi.org/10.1016/j.socscimed.2015.12.013 0277-9536/(c) 2015 Elsevier Ltd. All rights reserved.
+
+there are multiple, possibly divergent, health pathways that immigrants could follow as they remain in the U.S.
+It is precisely this pattern of divergent pathways that segmented assimilation theory attempts to explain. The fundamentals of the theory emerged from an attempt to understand what appeared to no longer be consistently monotonic, upward mobility trajectories among immigrants, a pattern that was observed largely beginning in the 1970s. Up to that point, classic assimilation theory, which suggested a consistent and predicable upward social mobility trajectory across and within generations, had offered the dominant perspective (Gordon, 1964). By contrast, segmented assimilation theory uses differences in human and social capital levels of the origin group and differences in the context of reception in the U.S. to explain divergent trajectories across generations (Portes and Zhou, 1993). While originally conceptualized after observing the children of immigrants, the theory is generally invoked to explain any divergent trajectories observed, including among the first generation (see Mouw and Xie, 1999; South et al., 2005 for examples).
+In their development of segmented assimilation theory, Portes and Zhou (1993) identified three possible pathways of immigrant adaptation: the first leads to the traditional mode of integration into the mainstream middle class, the second leads to downward
+
+I.R. Akresh et al. / Social Science & Medicine 149 (2016) 114e121
+
+115
+
+assimilation into disadvantage, and the third leads to upward mobility through benefits conferred "by living and working in ethnically homogeneous immigrant communities" (Jensen and Chitose, 1996; Portes and Zhou, 1993). In this study, we examine the link between contextual disadvantage and health outcomes and test hypotheses derived from the first two of these three pathways.
+Although these pathways may include many mechanisms that shape immigrants' health (e.g., migration-related stress, discrimination experienced once in the U.S.), we focus our discussion on factors that are relatively quick to modify - health behaviors. Immigrants' health behaviors may map on to these pathways in the following manner: first, one could alter behaviors in a way that results in higher exercise levels, a more balanced and varied diet, and fewer health risk behaviors (first path). Second, immigrants could alter their health behaviors in such a way that they become more sedentary, eat a poorer diet, and engage in riskier activities such as increasing smoking or alcohol consumption (second path). Segmented assimilation asserts that the hierarchical nature of U.S. society sets the stage for immigrants to assimilate into different societal strata; which strata immigrants assimilate into depends on a combination of factors, including immigrants' levels of human and social capital and the context of reception.
+We apply segmented assimilation theory to the case of immigrant health, using health outcomes that can be affected relatively rapidly by behavior modifications: BMI level (i.e, overweight, obesity) and self-rated health. Our hypothesis is that assimilation will carry different implications depending on the context; in this case - the neighborhoods in which immigrants reside. Specifically, we test whether there are disparate effects of assimilation (i.e., salutary, neutral, adverse) depending on the level of contextual disadvantage, a factor for which higher concentration has been linked elsewhere to a wide range of poorer health outcomes (Black and Macinko, 2008; Diez Roux and Mair, 2010; Kawachi and Berkman, 2003; Metcalfe et al., 2011; Pickett and Pearl, 2001).
+In this study, we exclusively examine Hispanic immigrants who were granted legal permanent residency shortly prior to their interview (referred to hereafter as legalized), an important focal population for two reasons. First, Hispanic immigrants constitute the most numerous ethnic category of the foreign-born population; in 2015, 47 percent of the foreign-born were Hispanic, where the next most numerous group, Asians, were 26 percent of the foreignborn (Pew Research Center, 2015). Second, recent trends suggest that executive actions may lead to an amnesty, which would likely result in a large, newly legal population of immigrants whose ethnic composition is disproportionately Hispanic. Both of these factors highlight the importance of studying this population and make our focus on the health of members of this group particularly timely.
+1. Segmented assimilation theory and health
+The divergent pathways raise particular questions as to what circumstances might lead to deterioration or improvement in health. The question of health deterioration may best be addressed by first taking a broad look at health patterns in the U.S. The relatively poor national profile of the U.S. along multiple health indicators suggests that conforming to the U.S.'s health patterns may result in migrants' health worsening after arrival, in spite of the fact that the U.S. as a nation is likely wealthier than where they originated. Indeed, the U.S. often ranks lower than countries with comparable, and often lower, GDP per capita on common health indicators such as life expectancy, infant mortality, and obesity rates (MacDorman and Mathews, 2008). So, if immigrants are of average health levels in their countries of origin or if immigrants have above average health in their home countries, as has been
+
+suggested elsewhere, there may be a considerable margin for deterioration (Akresh and Frank, 2008). The negative link between socioeconomic status (SES) and health among U.S. natives is wellestablished and is thought to come primarily from three areas in which differences between low and high SES individuals emerge: working conditions, the degree of available social and psychological support, and lifestyle choices (Ross and Wu, 1995; Williams and Collins, 1995). Thus, immigrants situated in lower socioeconomic neighborhoods may be disproportionately exposed to a context that may detrimentally influence their health. Put differently, if an orientation towards U.S. culture means immigrants are more likely to make lifestyle choices similar to those they may observe in their neighborhood, assimilation might then be tied to better or worse health, depending on the context. These divergent possibilities may in part explain the lack of consistent results in studies examining the link between assimilation and health (Lara et al., 2005).
+Improvements in health after immigration might come via multiple mechanisms, including increased income and health care utilization. Indeed, there is evidence indicating a positive association between length of time in the U.S. and income and health care utilization (Akresh, 2007b; LeClere et al., 1994). Additionally, health improvements might also originate in salutary changes in health behaviors such as increased exercise or consumption of fruits and vegetables and smoking cessation (Gorden-Larsen et al., 2003; Satia-Abouta et al., 2002). To further understand how changes in these latter factors might lead to better health once in the U.S., we highlight recent research showing that the nutrition transition is well underway in several countries, including Mexico. Evidence suggests that this transition has led to rates of obesity surpassing those of the U.S., resulting in excess morbidity and mortality (Monteverde et al., 2010). The mechanisms for this shift in developing countries are believed to be a combination of changes in food preferences and, in many localities, increases in the consumption of refined sugars and processed foods. This shift may also be occurring at the same time that consumption of fruits and vegetables is falling, compounding the health effects (Levi et al., 2009). Thus, these changes in local environments in origin countries may further set the stage for an improvement in diet and lifestyle after immigration. Our focus on neighborhood context is grounded in evidence indicating that neighborhood-level socioeconomic status (SES) is linked to adverse consumption patterns, with residents in lower SES neighborhoods consuming fewer fruits and vegetables (Diez Roux et al., 1999; Dubowitz et al., 2008; Morland et al., 2002; Pickett and Pearl, 2001; Shohaimi et al., 2004; Yen et al., 2009).
+There are three primary ways that scholars have assessed support for segmented assimilation theory (Xie and Greenman, 2011). One is to examine immigrant subgroups, with the idea that differences among subgroups can be traced to differences in contexts of reception and differences in levels of human and social capital (e.g., Cubans and Mexicans). A second approach is to look at the native populations to which immigrant groups are assimilating, while a third looks at individual-level variation among immigrants more generally. Although the possibility that neighborhood context may modify the impact of assimilation would appear to be a natural application of the segmented assimilation framework, few studies have explicitly investigated this for health outcomes. While there is a substantial literature examining the relationship between neighborhood disadvantage and health (for an extensive review, see Kawachi and Berkman, 2003; Pickett and Pearl, 2001), it has focused largely on the U.S.-born population. When the focus has been immigrants, it has often been in a more uniform matter, i.e. determining whether residing in an area with a greater proportion of immigrants is protective of health, presumably through fostering less or slower assimilation (Osypuk et al., 2010, 2009). In general, there is little consistent evidence to support the hypothesis that
+
+116 I.R. Akresh et al. / Social Science & Medicine 149 (2016) 114e121
+
+enclaves protect against risky behaviors. While most of the current studies on health outcomes invoke
+segmented assimilation theory as an ex post explanation for detrimental outcomes associated with assimilation, there are a few notable exceptions in the work of Xie and Greenman (2011), Gonzalez et al. (2010), and Frank et al. (2007). In the first, Xie and Greenman find little support for the theory in that their interactions between social context and individual assimilation are rarely statistically significant. Specifically, 331 out of 360 estimated coefficients on assimilation and context interactions were not statistically significant, leading the authors unable to determine conclusively that the other 29 significant coefficients occurred by anything other than chance (Xie and Greenman, 2011). In the second study, Gonzalez and colleagues compare four lifetime assimilation trajectory groups on life satisfaction, exercise, and dietary behaviors. Of these four trajectories, those in the most successful pathway also showed the highest levels of life satisfaction and the lowest levels of unhealthy food consumption. In the third study, Frank and colleagues examined whether nativity protected against contextual disadvantage and risk-taking behavior among a sample of Latino adolescents using data from the Los Angeles Family and Neighborhood Study (LAFANS). They found that a higher concentration of Latinos and poverty at the tract-level was linked to an increased likelihood of risky health behaviors, particularly in the case of U.S.-born Latino youth (Frank et al., 2007); put differently, immigrant status afforded the foreign-born a less negative effect of Hispanic and poverty concentration.
+The relative paucity of studies explicitly examining the applicability of segmented assimilation theory to health outcomes represents a salient gap in our understanding of the factors that shape immigrant health trajectories. In response, the current study investigates the specific predictions for health outcomes as generated by segmented assimilation theory. Specifically, we test whether assimilation leads to divergent health outcomes, depending on neighborhood disadvantage level.
+2. Data and methods
+The data for the current study come from the New Immigrant Survey. The sampling frame consists of immigrants who were granted legal permanent residency between May and November of 2003. With a response rate of 69 percent, a total of 8573 respondents completed the interview. Every effort was made to administer the survey in person as soon as possible after legal permanent residency was granted and the interview was administered in the language of the respondent's choice. The sample includes immigrants who were new arrivals to the U.S. as well as those who adjusted their status from a temporary visa category and who may have been here in an unauthorized status.
+2.1. Health outcome measures
+We examine two individual-level health outcomes. The first is a five-point self-rated health (SRH) measure (poor, fair, good, very good, excellent), which we estimate with a series of ordered logistic regressions, modeling the ordinal nature of the variable with higher scores indicating worse health. Our second health outcome is a three-category measure of BMI levels, which is based on selfreported height (meters) and weight (kilograms). Respondents are characterized as normal weight (the reference group), overweight (BMI > 25 & BMI 30), or obese (BMI > 30). Underweight respondents (BMI < 18.5) were not included in the analytic sample (n 1/4 32). SRH is used for its proven importance in predicting objective measures of health conditions and mortality (Idler and Benyamini, 1997) and the measure of overweight and obesity is
+
+used for its clinical relevance.
+2.2. Neighborhood disadvantage and individual-level assimilation
+Following previous work, we use census tracts to operationalize neighborhoods. Information on respondents' residences was geocoded and census tract data from the Summary Tape File 3 in 2000 was merged to the NIS data via tract identifiers. We create an index of neighborhood disadvantage reflecting the sum of the standardized (or z-score) values of five components (South, 2001). The disadvantage index includes tract percent: without a high school degree, on public assistance, female-headed households, and unemployed males ages 16 and older. The index has a Cronbach's alpha of 0.84 (where higher than 0.70 is generally considered acceptable). Results from the individual components included separately are similar. We divide the disadvantage index into terciles, where the lowest disadvantage neighborhoods have z-score sums with values ranging from A1.50 to A0.45, the medium disadvantage neighborhoods have z-score sums ranging from A0.45 to 0.26, and the highest disadvantage neighborhoods have z-score sums from 0.26 to 4.47 (see Witt et al., 2015 for a similar approach). While 86% of tracts in our highest disadvantage neighborhoods have more than 20% of its residents falling below the poverty level (a common demarcation for "poor neighborhoods"), we emphasize here that our use of terciles leads to an interpretation not of absolute levels, but of relative levels of disadvantage. Sensitivity analyses utilizing absolute levels of neighborhood poverty (i.e., <10%, 10e20%, >20%) resulted in similar inferences.
+2.3. Individual-level assimilation
+Because assimilation is an amorphous term, we create a composite scale to best capture the concept. The use of these scales is well-established in the health literature (Thomson and HoffmanGoetz, 2009). The components of our scale include self-reported spoken English ability (a 4-point scale), self-reported English comprehension (a 4-point scale), and English use (itself the sum of English use with friends (1 if yes), at work, and at home, a 4-point scale). These components have an alpha level of 0.91 and the scale ranges from 0 to 9, with higher values indicating a higher degree of assimilation. Each component here has been used in other related scales, including English proficiency (Marin and Gamba, 1995) and English use (Cuellar et al., 1995; Marin et al., 1987), and each of the aforementioned components was reviewed in Thomson and Hoffman-Goetz (2009). We recognize that there is not consensus among scholars on how well English proficiency and use capture assimilation; a summary of the pros and cons of these components can be found elsewhere (Lara et al., 2005).
+It should be noted that while length of time in the U.S. is commonly viewed as being associated with assimilation, we do not include it in as a component in our assimilation scale for two reasons. First, the exclusion of it allows for a more conceptually uniform scale of assimilation that is based solely on language proficiency and use. Second, and more importantly, among NIS respondents, those who have been in the U.S. for longer periods are frequently those who had taken a prior unauthorized trip to the U.S. and whose corresponding characteristics shape the pattern of assimilation in distinct ways. Hence, in lieu of incorporating time in the U.S. in our assimilation scale, we include it as a separate control variable. Additional specifications that included years in the U.S. as part of the composite assimilation scale and specifications that excluded years in the U.S. entirely led to qualitatively similar results.
+
+I.R. Akresh et al. / Social Science & Medicine 149 (2016) 114e121
+
+117
+
+2.4. Individual-level control variables
+We adjust for several individual-level characteristics to mitigate confounding. These include controls for: age (continuous), marital status (married vs. not married), female, years of education, number of children in household, household income, and years in the U.S (continuous). Missing values of income are imputed with multiple imputation (n 1/4 1209 imputed income values). Our results are robust to the exclusion of the imputed values. In order to control for some of the intergroup heterogeneity within Hispanics, we also include dummies indicating respondents who originated in Mexico or El Salvador, our two largest origin groups.
+2.5. Analytic sample
+Although immigrants from countries all over the world are included in the data, we focus exclusively on Hispanics; this is to reduce the heterogeneity present in the full sample. While we recognize that the pan-ethnic category of Hispanic is nonetheless unsatisfying, we are no more bound by this limitation than other studies. Hispanics are identified by those who self-identify as such in the survey. The primary countries of origin are Mexico (39 percent of the sample) and El Salvador (18 percent); no other sending country contributes more than 6 percent of the sample. Of the 2729 respondents who self-identify as Hispanic, most of the loss in our sample comes from respondents missing tract identifiers (n 1/4 103) and missing BMI data (n 1/4 300), leaving us with a final sample size of 2245 (n 1/4 1045 men and n 1/4 1200 women). The remaining missing observations are due to missing information on other covariates.
+Our analytical sample includes respondents situated in 1949 distinct census tracts spread over 120 metropolitan areas. Our average tract population size is 6,016, larger than the national average of 4,000, but considerably smaller than the maximum of 8000 reported by the census. The vast majority of our tracts have only one respondent per tract (87 percent) and the mean number of respondents per tract is 1.15 (SD 1/4 0.43), with a maximum of four respondents in the same tract.
+2.6. Analytical methods
+We estimate a series of ordered logit and multinomial logistic models predicting poorer health and BMI category; results are presented as odds ratios and relative risk ratios respectively. For the five-category poor health variable (excellent 1/4 1, very good, good, fair, poor 1/4 5), the specifications for women satisfied the proportional odds assumption in which the effect is equal across different groupings of ordered outcome values. However, for men, the Brant test indicated that this assumption is violated. Consequently, for women, we present standard ordered logit results and for men, we present results from a parsimonious generalized ordered logistic regression, for which the constraints are relaxed for the variables that violate the proportional odds assumption. Because none of our focal variables (nor the interaction) violated this assumption, the parallel-lines constraint is kept for neighborhood disadvantage and assimilation, resulting in a single parameter estimate for each variable.
+Further, for both health outcomes, we analyze men and women separately for two reasons. First, we recognize the known physiological differences between men and women with respect to health and weight in addition to differences in the ways in which other individual characteristics relate to health for men and women (see, for instance Antecol and Bedard, 2006; Flegal et al., 1998). Second, and important for the current study, evidence indicating the gendered nature of immigrant incorporation through social
+
+networks underscores the importance of a gender-stratified analysis (Hagan, 1998). In other words, if the process of assimilation through social networks is itself gendered, then our consideration of the way that neighborhood context shapes the link between assimilation and health should reflect that variation.
+For each outcome, we first estimate separate baseline relationships between assimilation and health (Model 1) and between neighborhood disadvantage and health (Model 2). These models adjust for all individual covariates. The third specification examines assimilation and disadvantage simultaneously (Model 3), under the assumption that individual assimilation and neighborhood disadvantage contribute to the health outcomes additively e that is, the influence of assimilation on health does not depend on the value of the neighborhood disadvantage. The fourth and final set of specifications relaxes this assumption and allows the relationship between assimilation and health to vary by neighborhood disadvantage level (Model 4). For the analytical models, the assimilation scale measure is centered to the gender-specific sample mean. Centering allows for the main neighborhood disadvantage coefficients in the interaction models to be directly interpreted as the impact of neighborhood disadvantage at the genderspecific sample mean of the assimilation variable. Throughout, we use Huber-White sandwich estimators to account for clustering at the tract level.
+3. Results
+3.1. Descriptive
+Table 1 shows descriptive statistics for individual characteristics by the level of neighborhood disadvantage. Residents across all three levels of neighborhood disadvantage are, on average approximately 38 years, with no statistically significant differences across groups. Expectedly, the average education level is highest among those residing in the lowest disadvantage tracts. Immigrants in the highest disadvantaged neighborhoods tend to have more children per household, on average 1.4 versus 1.2 or 1.1 for respondents in medium and lowest disadvantage neighborhoods, respectively. The percentage of women remains relatively consistent (at about 53 or 54 percent) across the levels of neighborhood disadvantage. The assimilation level, years in the U.S., the proportion of residents who are married, and average earnings all differ significantly by disadvantage level; respondents in the lowest disadvantage neighborhoods are the most assimilated, the most likely to be married, and have the highest earnings. To put the earnings levels (with averages ranging from $19,344 to $24,514) in context, the poverty line for a single individual in 2000 was $8350 and $17,050 for a family of four (U.S. Department of Health and Human Services (2014)). Respondents in the lowest disadvantage neighborhoods are also the newest to the U.S., a pattern predicted by the nature of the NIS sample (described above). The pattern is empirically supported by additional specifications (not shown) in which, for immigrants in the U.S. less than a year, there is a negative association between time in the U.S. and tract disadvantage; for those in the U.S. more than a year, the relationship is positive.
+Overall, these bivariate analyses indicate: 1) a strong positive correlation between disadvantage and poor health; 2) an inverse association between the assimilation scale and neighborhood disadvantage; and 3) a positive association between neighborhood disadvantage and poor health and BMI level. We now turn to results from our multivariable models.
+
+118 I.R. Akresh et al. / Social Science & Medicine 149 (2016) 114e121
+
+Table 1 Sample characteristics, by disadvantage level.
+
+Lowest disadvantage (n 1/4 759) Medium disadvantage (n 1/4 733) Highest disadvantage (n 1/4 753)
+
+Independent Variables
+
+Age 38.61
+
+(12.98)
+
+Years of Education***
+
+11.81
+
+(5.13)
+
+Number of Children in Household***
+
+1.12
+
+(1.23)
+
+Female (%)
+
+53.89
+
+Assimilation Scale***
+
+4.47
+
+(2.98)
+
+Years in the U.S.***
+
+6.26
+
+(6.98)
+
+Married (%)***
+
+68.91
+
+Earnings ($)***
+
+24,514
+
+(28,831)
+
+Mexico (%)
+
+33.60
+
+El Salvador (%)***
+
+13.31
+
+Dependent Variables
+
+Self-Reported Health Scale (1e5, higher values indicate worse health) 2.11
+
+(1.04)
+
+BMI 18e25 (%)***
+
+46.25
+
+BMI 25e30 (%)
+
+38.34
+
+BMI >30 (%)
+
+15.42
+
+38.32 (13.29) 9.96 (4.64) 1.2 (1.28) 53.89 3.69 (2.90) 7.74 (7.65) 64.53 21,642 (24,503) 43.79 17.87
+2.26 (1.07) 36.15 42.02 21.83
+
+38.17 (12.94) 9.13 (4.48) 1.41 (1.35) 52.59 3.31 (2.78) 8.03 (7.50) 58.96 19,344 (21,436) 40.37 21.78
+2.39 (1.09) 32.01 44.36 23.64
+
+Notes: Data is from the New Immigrant Survey. Unless otherwise indicated, table displays means with standard deviations in parentheses. Asterisks indicate significant Chisquared or F-tests at the following levels: ***p < 0.001, **p < 0.01, *p < 0.05,  p < 0.10.
+
+3.2. Multivariate results
+3.2.1. Poorer health Table 2 presents results of our investigation of the relationship
+between assimilation, neighborhood disadvantage, and poorer health. In Models 1a and 1b, we focus on the possible impact of assimilation, net of individual characteristics, for men and women, respectively. We find no evidence of an association between assimilation and poorer health for either men or women. Models 2a and 2b evaluate the relationship between neighborhood disadvantage levels and worse health, also net of individual characteristics. For men and women, we find suggestive evidence that residing in a more disadvantaged neighborhood is associated with a 28 to 30 percent increased odds for reporting poorer health; however these associations were only significant at the 10% level. The relationships observed for assimilation and neighborhood disadvantage remain unchanged for men when both are included
+
+simultaneously in the model, while, for women, neighborhood disadvantage is no longer significant (Models 3a and 3b).
+We then examine whether the effects of individual level assimilation on health is modified by neighborhood disadvantage. Models 4a and 4b test this possibility by adding an interaction between the assimilation scale and neighborhood disadvantage. For men, results for the assimilation scale measure (OP 1/4 0.89, pvalue < 0.01) indicate that higher levels of assimilation are protective against poorer health in the least disadvantaged environments. Further, the greater-than-one odds ratios for the interaction terms reveal that this protective aspect of assimilation weakens in environments with higher disadvantage. In other words, significantly positive results for the interaction terms indicate that assimilation becomes less beneficial in more disadvantaged contexts. Consequently, no association is found between assimilation and poorer health for those in the medium and highest disadvantage neighborhoods (Table 4, Col A: 1/4 OP1.01, p-
+
+Table 2 Odds ratios from ordered logistic (women) and generalized ordered logit models (partial proportional odds model e for men) predicting poorer health.
+
+Variables
+
+Model 1a
+
+Model 1b
+
+Model 2a
+
+Model 2b
+
+Model 3a
+
+Model 3b
+
+Model 4a
+
+Model 4b
+
+Men
+
+Women
+
+Men
+
+Women
+
+Men
+
+Women
+
+Men
+
+Women
+
+Disadvantage Level Medium (ref: Lowest)
+Highest
+Assimilation Scale
+Medium Disadvantage* Assimilation Scale
+Highest Disadvantage* Assimilation Scale
+Observations
+
+e e 0.96 (0.92e1.02) e
+e
+1045
+
+e e 0.97 (0.92e1.01) e
+e
+1200
+
+1.08 (0.81e1.44) 1.30 (0.98e1.72) e
+e
+e
+1045
+
+1.12 (0.86e1.45) 1.28 (0.97e1.67) e
+e
+e
+1200
+
+1.07 (0.80e1.42) 1.27 (0.96e1.69) 0.97 (0.92e1.02)
+e
+e
+1045
+
+1.09 (0.84e1.42) 1.25 (0.95e1.64) 0.97 (0.92e1.02)
+e
+e
+1200
+
+1.02 (0.76e1.37) 1.26 (0.95e1.69) 0.89** (0.82e0.96)
+1.13* (1.02e1.25)
+1.15** (1.04e1.27) 1045
+
+1.09 (0.83e1.42) 1.26 (0.96e1.65) 0.97 (0.91e1.04)
+0.99 (0.90e1.08)
+1.01 (0.93e1.10) 1200
+
+Notes: Data is from the New Immigrant Survey. All models control for the full set of individual covariates. 95% Confidence Intervals in parentheses. Asterisks indicate significance in a two-tailed test at the following levels: ***p < 0.001, **p < 0.01, *p < 0.05,  p < 0.10.
+
+I.R. Akresh et al. / Social Science & Medicine 149 (2016) 114e121
+
+119
+
+Table 3 Relative risk ratios from multinomial logistic regressions predicting BMI 25e30 and 30 (ref: BMI 18.5e25).
+
+Variables
+
+Model 1a, men
+
+Model 1b, women
+
+Model 2a, men
+
+Model 2b, women
+
+BMI 25-30
+
+BMI >30
+
+BMI 25-30
+
+BMI >30
+
+BMI 25-30
+
+BMI >30
+
+BMI 25-30
+
+BMI >30
+
+Disadvantage Level Medium (ref: Lowest)
+Highest
+Assimilation Scale
+
+e
+e e e 0.95 (0.89e1.01)
+
+e e
+e e 0.97 (0.89e1.06)
+
+e e
+e e 0.92** (0.87e0.98)
+
+e e
+e e 0.99 (0.92e1.06)
+
+1.24 (0.88e1.76)
+1.72** (1.21e2.47) e e
+
+1.37 (0.87e2.16)
+1.96** (1.24e3.10) e e
+
+1.46* (1.04e2.05)
+1.52* (1.07e2.16) e e
+
+1.73** (1.16e2.58)
+1.72* (1.13e2.61) e e
+
+Model 3a, Men
+
+Model 3b, Women
+
+Model 4a, Men
+
+Model 4b, Women
+
+BMI 25-30
+
+BMI >30
+
+BMI 25-30
+
+BMI >30
+
+BMI 25-30
+
+BMI >30
+
+BMI 25-30
+
+BMI >30
+
+Disadvantage Level Medium (ref: Lowest)
+Highest
+Assimilation Scale
+Medium Disadvantage* Assimilation Scale
+Highest Disadvantage* Assimilation Scale
+Observations
+
+1.22 (0.87e1.73) 1.67** (1.17e2.40) 0.96 (0.90e1.03) e
+e e
+e 1045
+
+1.36 (0.86e2.15) 1.94** (1.22e3.07) 0.98 (0.90e1.07) e
+e e
+e
+
+1.40 (0.99e1.97) 1.45* (1.02e2.05) 0.93* (0.87e0.99) e
+e e
+e 1200
+
+1.71** (1.15e2.56) 1.71* (1.12e2.60) 1.00 (0.93e1.08) e
+e e
+e
+
+1.19 (0.84e1.69) 1.68** (1.16e2.43) 0.92 (0.83e1.01) 1.06
+(0.93e1.20) 1.10
+(0.96e1.25) 1045
+
+1.33 (0.84e2.10) 1.93** (1.21e3.07) 0.93 (0.81e1.07) 1.09
+(0.93e1.28) 1.09
+(0.92e1.29)
+
+1.38 (0.98e1.94) 1.41 (0.99e2.02) 0.85*** (0.78e0.93) 1.17**
+(1.05e1.31) 1.11
+(0.99e1.25) 1200
+
+1.63* (1.08e2.46) 1.69* (1.10e2.59) 0.94 (0.84e1.06) 1.08
+(0.94e1.24) 1.12
+(0.97e1.29)
+
+Notes: Data is from the New Immigrant Survey. All models control for the full set of individual covariates. 95% Confidence intervals in parentheses. Asterisks indicate significance in a two-tailed test at the following levels: ***p < 0.001, **p < 0.01, *p < 0.05,  p < 0.10.
+
+Table 4 Total effects of assimilation by neighborhood disadvantage levels.
+
+Assimilation
+
+Poor health (OR)
+
+Poor health (OR)
+
+Overweight (RRR)
+
+Obese (RRR)
+
+Overweight (RRR)
+
+Obese (RRR)
+
+AB C
+
+DE
+
+F
+
+Men
+
+Women
+
+Men
+
+Men
+
+Women
+
+Women
+
+Lowest Disadvantage Neighborhood Medium Disadvantage Neighborhood Highest Disadvantage Neighborhood
+
+0.89** (0.82e0.96) 1.01 (0.93e1.09) 1.02 (0.94e1.11)
+
+0.97 (0.91e1.03) 0.96 (0.89e1.04) 0.98 (0.92e1.06)
+
+0.92 (0.83e1.01) 0.97 (0.88e1.08) 1.01 (0.91e1.12)
+
+0.93 (0.81e1.07) 1.02 (0.90e1.15) 1.01 (0.89e1.15)
+
+0.85*** (0.78e0.93) 1.00 (0.92e1.09) 0.95 (0.86e1.04)
+
+0.94 (0.84e1.06) 1.01 (0.91e1.13) 1.05 (0.94e1.17)
+
+Notes: Data is from the New Immigrant Survey. All models control for the full set of individual covariates. 95% Confidence intervals in parentheses. Asterisks indicate significance in a two-tailed test at the following levels: ***p < 0.001, **p < 0.01, *p < 0.05,  p < 0.10. OR (odds ratios) and RRR (relative risk ratios) are calculated by adding the coefficients for the assimilation and high disadvantage*assimilation variables and then exponentiating.
+
+value 1/4 0.88; 1/4 OP1.02, p-value 1/4 0.56 in medium and highest levels of neighborhood disadvantage, respectively). For women and self-reported health, we find no evidence that the effect of assimilation is dependent on neighborhood disadvantage (i.e., the ORs for the interaction terms between assimilation and neighborhood disadvantage are not statistically significant).
+3.2.2. Overweight/obesity Table 3 presents results from the set of multinomial logistic
+regressions investigating the relationship between assimilation and neighborhood disadvantage on BMI levels. While we find no evidence for an association between assimilation and BMI level for men, results demonstrate that assimilation is protective against the likelihood of being overweight for women (Models 1a and 1b). Results for the neighborhood disadvantage models indicate that residing in more disadvantaged neighborhoods is strongly linked to higher likelihoods of overweight and obesity for both men and women (Models 2a and 2b) while the detrimental association for medium neighborhood disadvantage is significant only for women. When both neighborhood disadvantage and assimilation are
+
+included additively (Models 3a and 3b), most parameter estimates for both the assimilation scale and for neighborhood disadvantage remain substantively unchanged. The exception is that medium level of neighborhood disadvantage for women is now only significant at the 10 percent level when predicting the likelihood of being overweight.
+When we allow the relationship between assimilation and BMI levels to vary by context, we find a more nuanced pattern (Models 4a and 4b). For men, assimilation is not significantly related to being overweight or obese in medium or high disadvantage neighborhoods. However, results suggest a protective effect of assimilation against being overweight in areas with the least disadvantage, albeit only at the 10% level (Table 4, Col C: OR 1/4 0.92, p-value 1/4 0.078).
+For women, higher assimilation levels are associated with lower likelihood of being overweight in neighborhoods with the lowest disadvantage level (Table 3, Model 4b). However, this protective effect of assimilation against being overweight is attenuated in medium and highest levels of neighborhood disadvantage (as indicated by the greater-than-one odds ratios for the assimilation
+
+120 I.R. Akresh et al. / Social Science & Medicine 149 (2016) 114e121
+
+scale and neighborhood disadvantage interaction terms); consequently, we no longer find any significant associations for assimilation in medium and highest disadvantage neighborhoods (Table 4, Col E). No association was found between assimilation levels and obesity at any neighborhood disadvantage level.
+4. Discussion and conclusion
+Our major objective in this study has been to investigate the relationship between assimilation, using our English language use and proficiency-based scale, neighborhood context, and health through the lens of segmented assimilation theory. With respect to this objective, we find some evidence consistent with the theory of segmented assimilation e namely that the role of assimilation diverges, depending on the level of neighborhood disadvantage. Further, results indicate that the health consequences of assimilation vary from salutary to nulle depending not only on the level of advantage, but also on gender and the health outcome. That is, we find some evidence, albeit not consistent across gender, that assimilation provides a protective buffer against poorer selfreported health for men and being overweight for womene but only among residents in the least disadvantaged neighborhoods. Results indicate that the protective effect of assimilation diminishes in the presence of greater neighborhood disadvantage. The general pattern suggests that, while assimilation may help residents capitalize on the goods and services offered in environments with the least disadvantage, assimilation yields no comparable benefits in more disadvantaged areas. This may be due to health behaviors that promote better health, which are more prevalent in less disadvantaged areas; it also may result from shared information concerning access to care that is available in more advantaged areas, information that does not have a parallel in more disadvantaged neighborhoods.
+We understand these patterns as generally aligning with the first of the three pathways identified by segmented assimilation theory, namely that immigrants assimilate into the mainstream middle class (as was largely the case with earlier waves of immigrants). Our results show that the first path, assimilation in the most advantaged neighborhoods, can be protective against the two poor health outcomes we investigated (specifically, more assimilated men in the lowest disadvantage neighborhoods have a lower likelihood of self-reported poorer health and more assimilated women in the lowest disadvantage neighborhoods have a lower likelihood of being overweight). While these protective effects of assimilation are completely attenuated in higher disadvantage neighborhoods, we do not find explicit evidence that a higher level of assimilation in the presence of disadvantage results in greater likelihood of poorer health outcomes (the second pathway). Specifically, we find no link between assimilation and the health outcomes investigated in medium and high disadvantage neighborhoods. Overall, to answer our question at the outset: whether assimilation is good or bad for health depends on the context in which it occurs: in more advantaged areas, this can be consistent with the adoption of the more salutatory health behaviors associated and fewer experiences with social stressors. However, this protective attribute decreases as neighborhood disadvantage levels increase, resulting in no such benefit provided in the presence of medium and highest levels of disadvantage.
+We note here that our finding of differences between men and women in the way neighborhoods and health interrelate is consistent with other work in this area. While the majority of studies have found stronger associations between neighborhood context and health outcomes for women (e.g., Cubbin et al., 2001; Do et al., 2007; Mujahid et al., 2005; Robert and Reither, 2004; Rundle et al., 2008), some studies have found stronger links for
+
+men (e.g., Nordstrom et al., 2004; Sundquist et al., 2004). Possible explanations offered to explain gender differences include differences in vulnerability and exposure to contextual factors (Robert and Reither, 2004; Stafford et al., 2005) and differences in utilization of available neighborhood facilities (e.g, parks) (Cohen et al., 2006).
+5. Limitations
+Our study is subject to certain limitations. Our focus on recently legalized immigrants means that our results are not generalizable to all Hispanics. However, as described at the outset, understanding the well-being of this population is particularly timely as the nation is on the verge of immigration reform that may result in a new group of recently legalized Hispanic immigrants. Our use of selfreported height and weight may result in downwardly biased BMI estimates if respondents underestimate their weight or overestimate their height. Although, other studies using the same data have reported that the results do not change with BMI values that were adjusted for self-reporting (Akresh, 2008). BMI is measured at only one point in time (i.e., cross-sectional data and there may be unobserved selection into neighborhoods, an issue shared by virtually all neighborhood-health studies, which we are unable to address. That said, in other specifications, we have included a control for health selection and the results are similar to those reported here (see Akresh and Frank, 2008 for more details on the health selection measure).
+Overall, we find some evidence supporting the hypothesis that the effects of assimilation on health depend on the context in which immigrants experience. However, the evidence is not conclusive as results varied by sex and health outcome. We recognize that the current work raises questions as well as provides answers. With that in mind, future work that differentiates between mechanisms would make an additional contribution as would work leading to a deeper understanding of the different patterns observed between men and women. Regarding the former suggestion, a distinction between mechanisms that operate through the structural factors present in a neighborhood (e.g., the presence of green space or proximity to supermarkets) and those that operate through the adoption of behaviors visible between neighbors (e.g., smoking or walking) would further enhance our understanding of the links between neighborhood disadvantage and health.
+References
+Akresh, I.R., 2007a. Dietary assimilation and health among hispanic immigrants to the United States. J. Health Soc. Behav. 48, 404e417.
+Akresh, I.R., 2007b. US immigrants' labor market adjustment: additional human capital investment and earnings growth. Demography 44, 865e881.
+Akresh, I.R., 2008. Overweight and obesity among foreign-born and U.S.-born hispanics. Biodemogr. Soc. Biol. 54, 183e199.
+Akresh, I.R., Frank, R., 2008. Health selection among new immigrants. Am. J. Public Health 98, 2058e2064.
+Antecol, H., Bedard, K., 2006. Unhealthy assimilation: why do immigrants converge to American health status levels? Demography 43, 337e360.
+Black, J.L., Macinko, J., 2008. Neighborhoods and obesity. Nutr. Rev. 66, 2e20. Cohen, D., Segal, A., Williamson, S., Sturm, R., McKenzie, T., Lara, R., et al., 2006. In:
+RAND (Ed.), Park Use and Physical Activity in a Sample of Public Parks in the City of Los Angeles. RAND, Santa Monica, CA. Cubbin, C., Hadden, W.C., Winkleby, M.A., 2001. Neighborhood context and cardiovascular disease risk factors: the contribution of material deprivation. Ethn. Dis. 11, 687e700. Cuellar, I., Arnold, B., Maldonado, R., 1995. Acculturation rating scale for mexican Americans-II: a revision of the original ARSMA scale. Hisp. J. Behav. Sci. 17, 275e304. Diez Roux, A.V., Mair, C., 2010. Neighborhoods and health. Ann. N. Y. Acad. Sci. 1186, 125e145. Diez Roux, A.V., Nieto, F.J., Caulfield, L., Tyroler, H.A., Watson, R.L., Szklo, M., 1999. Neighborhood differences in diet: the atherosclerosis risk in communities (ARIC) study. J. Epidemiol. Community Health 53, 55e63. Do, D.P., Dubowitz, T., Bird, C.E., Lurie, N., Escarce, J.E., Finch, B.K., 2007.
+
+I.R. Akresh et al. / Social Science & Medicine 149 (2016) 114e121
+
+121
+
+Neighborhood context and ethnicity differences in body mass Index: a multilevel analysis using the NHANES III survey (1988-1994). Econ. Hum. Biol. 5, 179e203. Dubowitz, T., Heron, M., Bird, C.E., Lurie, N., Finch, B.K., Basurto-Davila, R., et al., 2008. Neighborhood socioeconomic status and fruit and vegetable intake among whites, blacks, and Mexican Americans in the United States. Am. J. Clin. Nutr. 87, 1883e1891. Flegal, K., Carroll, M., Kuczmarski, R., Johnson, C., 1998. Overweight and obesity in the United States: prevalence and trends, 1960e1994. Int. J. Obes. Relat. Metabol. Disord. 22, 39e47. Frank, R., Cerda, M., Rendon, M., 2007. Barrios and Burbs: residential context and health-risk behaviors among Angeleno residents. J. Health Soc. Behav. 48, 283e300. Frisbie, W.P., Cho, Y., Hummer, R.A., 2001. Immigration and the health of Asian and Pacific Islander adults in the United States. Am. J. Epidemiol. 153, 372e380. Gonzalez Castro, F., Marsiglia, F.F., Kulis, S., Kellison, J.G., 2010. Lifetime segmented assimilation trajectories and health outcomes in latino and other community residents. Am. J. Public Health 100, 669e676. Gorden-Larsen, P., Mullan Harris, K., Ward, D.S., Popkin, B.M., 2003. Acculturation and overweight-related behaviors among hispanic immigrants to the U.S.: the national longitudinal study of adolescent health. Soc. Sci. & Med. 57, 2023e2034. Gordon, M., 1964. Assimilation in American Life: The Role of Race, Religion, and National Origins. Oxford University Press, New York. Hagan, J.M., 1998. Social networks, gender, and immigrant incorporation: resources and constraints. Am. Sociol. Rev. 63, 55e67. Idler, E.L., Benyamini, Y., 1997. Self-rated health and mortality: a review of twentyseven community studies. J. Health Soc. Behav. 38, 21e37. Jensen, L., Chitose, Y., 1996. Today's second generation: evidence from the 1990 census. In: Portes, A. (Ed.), The New Second Generation. Russell Sage, NewYork, pp. 82e107. Kawachi, I., Berkman, L.F. (Eds.), 2003. Neighborhoods and Health. Oxford University Press, New York, NY. Lara, M., Gamboa, C., Kahramanian, M.I., Bautista, D.E., 2005. Acculturation and latino health in the United States: a review of the literature and its sociopolitical context. Annu. Rev. Public Health 26, 367e397. LeClere, F.B., Jensen, L., Biddlecom, A.E., 1994. Health care utilization, family context, and adaptation among immigrants to the United States. J. Health Soc. Behav. 35, 370e384. Levi, J., Vinter, S., Richardson, L., St Laurent, R., Segaml, L., 2009. F as in Fat: How Obesity Policies are Failing in America: Trust for America's Health. Robert Wood Johnson Foundation, Princeton, NJ. MacDorman, M., Mathews, T., 2008. In: Statistics, N.C.f.H. (Ed.), Recent Trends in Infant Mortality in the United States. National Center for Health Statistics, Hyattsville, MD. Marin, G., Gamba, R.J., 1995. A new measurement of acculturation for hispanics: the bidimensional acculturation scale for hispanics. Hisp. J. Behav. Sci. 18, 297e316. Marin, G., Sabogal, F., Marin, B.V., Otero-Sabogal, R., Perez-Stable, E.J., 1987. Development of a short acculturation scale for hispanics. Hisp. J. Behav. Sci. 9, 183e205. Metcalfe, A., Lail, P., Ghali, W.A., Sauve, R.S., 2011. The association between neighbourhoods and adverse birth outcomes: a systematic review and meta-analysis of multi-level studies. Paediatr. Perinat. Epidemiol. 2011, 236e245. Modern Immigration Wave Brings 15 Million to U.S., 2015. Driving population growth and change through 2065: views of Immigration's impact on U.S. Soc. Mix. (Washington, D.C.: Pew Research Center). Monteverde, M., Noronha, K., Palloni, A., Novak, B., 2010. Obesity and excess mortality among the elderly in the United States and Mexico. Demography 47, 79e96. Morland, K., Wing, S., Diez Roux, A.V., 2002. The contextual effect of the local food environment on residents' diets: the artherosclerosis risk in communities study. Am. J. Public Health 92, 1761e1767. Mouw, T., Xie, Y., 1999. Bilingualism and the academic achievement of first- and second-generation Asian Americans: accomodation with or without
+
+assimilation? Am. Sociol. Rev. 64, 232e252. Mujahid, M.S., Diez Roux, A.V., Borrell, L.N., Nieto, F.J., 2005. Cross-sectional and
+longitudinal associations of BMI with socioeconomic characteristics. Obestiy Res. 13, 1412e1421. Nordstrom, C.K., Diez Roux, A.V., Jackson, S., Gardin, J.M., 2004. The association of personal and neighborhood socioeconomic indicators with subclinical cardiovascular disease in an elderly Cohort. The cardiovascular health study. Soc. Sci. & Med. 59, 2139e2147. Osypuk, T.L., Bates, L.M., Acevedo-Garcia, D., 2010. Another Mexican birthweight paradox? the role of residential enclaves and neighborhood poverty in the birthweight of Mexican-origin infants. Soc. Sci. & Med. 70, 550e560. Osypuk, T.L., Diez Roux, A.V., Hadley, C., Kandula, N.R., 2009. Are immigrant enclaves healthy places to live? the multi-ethnic study of atherosclerosis. Soc. Sci. & Med. 69, 110e120. Pickett, K.E., Pearl, M., 2001. Multilevel analyses of neighbourhood socioeconomic context and health outcomes: a critical review. J. Epidemiol. Community Health 55, 111e122. Portes, A., Zhou, M., 1993. The new second generation: segmented assimilation and its variants. Ann. Am. Acad. Polit. Soc. Sci. 530, 74e96. Robert, S.A., Reither, E.N., 2004. A multilevel analysis of ethnicity, community disadvantage, and body mass Index among adults in the U.S. Soc. Sci. & Med. 59, 2421e2434. Ross, C.E., Wu, C.-l, 1995. The links between education and health. Am. Sociol. Rev. 60, 719e745. Rundle, A., Field, S., Park, Y., Freeman, L., Weiss, C., Neckerman, K., 2008. Personal and neighborhood socioeconomic status and indices of neighborhood walkability predict body mass Index in New York city. Soc. Sci. & Med. 67, 1951e1958. Satia-Abouta, J., Patterson, R.E., Neuhouser, M.L., Elder, J., 2002. Dietary acculturation: applications to nutrition research and dietetics. J. Am. Diet. Assoc. 102, 1105e1118. Shohaimi, S., Welch, A., Bingham, S., Luben, R., Day, N., Wareham, N., et al., 2004. Residential area deprivation predicts fruit and vegetable consumption independently of individual education level and occupational social class: a crosssectional population study in the Norfolk Cohort of the European prospective investigation into Cancer. J. Epidemiol. Community Health 58, 686e691. South, S.J., Crowder, K., Chavez, E., 2005. Migration and spatial assimilation among U.S. Latino: classical versus segmented trajectories. Demography 42, 497e521. South, Scott, J., 2001. The geographic context of divorce: do neighborhoods matter? J. Marriage Fam. 63, 755e766. Stafford, M., Cummins, S., Macintyre, S., Ellaway, A., Marmot, M., 2005. Gender differences in the associations between health and neighborhod environment. Soc. Sci. & Med. 60, 1681e1692. Sundquist, K., Malmstrom, M., Johansson, S.-E., 2004. Neighbourhood deprivation and incidence of coronary heart disease: a multilevel study of 2.6 million women and men in Sweden. J. Epidemiol. Community Health 58, 71e77. Takeuchi, D.T., Zane, N., Hong, S., Chae, D.H., Gong, F., Gee, G.C., et al., 2007. Immigration-related factors and mental disorders among Asian Americans. Am. J. Public Health 97, 84e90. Thomson, M.D., Hoffman-Goetz, L., 2009. Defining and measuring acculturation: a systematic review of public health studies with hispanic populations in the United States. Soc. Sci. & Med. 69, 983e991. U.S. Department of Health and Human Services, 2014. The 2000 HHS Poverty Guidelines. Williams, D.R., Collins, C., 1995. U.S. Socioeconomic and racial differences in health: patterns and explanations. Annu. Rev. Sociol. 21. Witt, W.P., Park, H., Wisk, L.E., Cheng, E.R., Mandell, K., Chatterjee, D., et al., 2015. Neighborhood disadvantage, preconception stressful life events, and infant birth weight. Am. J. Public Health 105, 1044e1052. Xie, Y., Greenman, E., 2011. The social context of assimilation: testing implications of segmented assimilation theory. Soc. Sci. Res. 40, 965e984. Yen, I.H., Michael, Y., Perdue, L., 2009. Neighborhood environment in studies of health of older adults: a systematic review. Am. J. Prev. Med. 37, 455e463.
+
+

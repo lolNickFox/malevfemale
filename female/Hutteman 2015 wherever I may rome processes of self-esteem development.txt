@@ -1,0 +1,595 @@
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+PERSONALITY PROCESSES AND INDIVIDUAL DIFFERENCES
+
+Wherever I May Roam: Processes of Self-Esteem Development From Adolescence to Emerging Adulthood in the Context of International
+Student Exchange
+
+Roos Hutteman
+University of Munster and Utrecht University
+
+Steffen Nestler
+University of Munster
+
+Jenny Wagner
+Leibniz Institute for Science Education and
+Humboldt-Universitat zu Berlin
+
+Boris Egloff
+Johannes Gutenberg University Mainz
+
+Mitja D. Back
+University of Munster
+Previous studies on self-esteem development show substantial changes as well as interindividual differences in change from adolescence to young adulthood. However, the processes underlying these developmental trajectories are still not well understood. The aim of the present study was to shed light on the macro- and microprocesses of self-esteem development. We investigated a sample of 876 German high school students (M  16.0 years at Time 1) participating in an international exchange year. Exchange students provided 3 waves of trait self-esteem data (shortly before they departed, immediately after return, and 1 year later), as well as 9 monthly state measures of self-esteem and social inclusion during their stay abroad. In addition, a control group of high school students who stayed in Germany (N  714) provided 2 waves of trait self-esteem data. From a macroperspective, results showed an effect of student exchange on trait self-esteem development: Exchange students showed a steeper mean-level increase and a lower rank-order stability compared with control students. Zooming in on the microprocesses underlying these developmental patterns, we found trait changes in exchange students to be mediated by state changes in self-esteem during their exchange. These fluctuations in state self-esteem were found to be predicted by feelings of social inclusion in the host country, and vice versa, providing support for both sociometer and self-broadcasting perspectives on self-esteem dynamics. In sum, our findings emphasize the importance of incorporating a microanalytical approach when investigating self-esteem development by showing that the environment triggers changes in this relatively stable personality trait through changes in states.
+Keywords: self-esteem development, states and traits, processes, social inclusion, international student exchange
+
+Self-esteem can be defined as a person's appraisal or evaluation of his or her value (James, 1890; Leary & Baumeister, 2000) and has been linked to many important life outcomes, such as the quality of social relationships (e.g., Murray, Holmes, & Griffin,
+
+2000), subjective well-being (e.g., Diener & Diener, 1995), depression (Orth, Robins, Widaman, & Conger, 2014), and alcohol use (e.g., Scheier, Botvin, Griffin, & Diaz, 2000). The importance of self-esteem for beneficial outcomes makes research on its
+
+This article was published Online First October 6, 2014. Roos Hutteman, Department of Psychology, University of Munster, and Department of Developmental Psychology, Utrecht University; Steffen Nestler, Department of Psychology, University of Munster; Jenny Wagner, Leibniz Institute for Science Education, University of Kiel, and Department of Psychology, Humboldt-Universitat zu Berlin; Boris Egloff, Department of Psychology, Johannes Gutenberg University Mainz; Mitja D. Back, Department of Psychology, University of Munster.
+
+We are grateful to Peggy Quickenstedt for her help with data collection, to Albrecht C. P. Kufner for fruitful discussions on this research and for the Metallica reference in the title, and to Marius Leckelt for helpful comments on an earlier draft of this manuscript.
+Correspondence concerning this article should be addressed to Roos Hutteman, Department of Developmental Psychology, Utrecht University, Heidelberglaan 1, P.O. Box 80.140, 3508 TC Utrecht, the Netherlands. E-mail: rooshutteman@gmail.com
+
+Journal of Personality and Social Psychology, 2015, Vol. 108, No. 5, 767-783
+
+(c) 2014 American Psychological Association 0022-3514/15/$12.00
+
+http://dx.doi.org/10.1037/pspp0000015
+
+767
+
+768 HUTTEMAN, NESTLER, WAGNER, EGLOFF, AND BACK
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+developmental trajectories crucial. Longitudinal studies show that both the rank order of self-esteem as well as its mean level change across life (O'Malley & Bachman, 1983; Orth, Robins, & Widaman, 2012; Orth, Trzesniewski, & Robins, 2010; Shaw, Liang, & Krause, 2010; Trzesniewski, Donnellan, & Robins, 2003; Wagner, Gerstorf, Hoppmann, & Luszcz, 2013; Wagner, Ludtke, Jonkmann, & Trautwein, 2013). These studies are based on large-scale, representative, longitudinal data sets, which provide important insights into the descriptive pattern of normative developmental trajectories of self-esteem. However, the downside of these large data sets is that they typically have long time intervals between waves and that no or little information is available on the processes that underlie these change trajectories. In the present study, we aimed to move beyond the descriptive level by investigating selfesteem development as well as its underlying processes on a macro- and microanalytical level. We investigated how state changes in self-esteem explain trait changes from late adolescence to emerging adulthood and examined the processes underlying this association.
+Self-Esteem Development From Adolescence to Emerging Adulthood
+Historically, adolescence and emerging adulthood have been described as turbulent life phases, characterized by many biological, psychological, and social changes (Arnett, 1999, 2000; Hall, 1904). As a result, a number of studies have been dedicated to the question as to whether these changes are also reflected in the developmental trajectory of self-esteem (Alsaker & Olweus, 1992; Block & Robins, 1993; Erol & Orth, 2011; Hirsch, 1991; Wagner, Ludtke, et al., 2013; Zimmerman, Copeland, Shope, & Dielman, 1997).
+Studies focusing on mean-level development of self-esteem reveal increases from late adolescence until middle adulthood (Erol & Orth, 2011; Helson & Wink, 1992; Meier, Orth, Denissen, & Kuhnel, 2011; O'Malley & Bachman, 1983; Orth et al., 2010; R. E. L. Roberts & Bengtson, 1996; Robins & Trzesniewski, 2005; Wagner, Ludtke, et al., 2013). A recent study on young adults also revealed an increase in self-esteem, but only after a drop in self-esteem during the transition to college (Chung et al., 2014). The mean-level changes in self-esteem resemble the average changes in the Big Five personality traits in this life phase, which show increases in Agreeableness, Social Dominance (a facet of Extraversion), Conscientiousness, and Emotional Stability (B. W. Roberts, Walton, & Viechtbauer, 2006). This developmental pattern has been labeled as the maturity principle of personality development, because high levels in Agreeableness, Social Dominance, Conscientiousness, and Emotional Stability reflect qualities that enable adaptive functioning in society (B. W. Roberts & Wood, 2006). It has been suggested that these changes are especially prominent in young adulthood, because many transitions into age-graded social roles are taking place. According to the social investment principle, social roles come along with social expectations that motivate people to develop toward greater maturity (B. W. Roberts & Wood, 2006). The beneficial effects of self-esteem (e.g., Greenberg et al., 1992; Neyer & Asendorpf, 2001) suggest that self-esteem can also be considered a trait that enables adaptive functioning. That is, increases in self-esteem might also reflect greater maturity.
+
+Although self-esteem has consistently been found to increase from late adolescence to young adulthood, substantial interindividual differences in change have been reported (Erol & Orth, 2011; Orth et al., 2010; Wagner, Ludtke, et al., 2013). Correspondingly, some people show stronger increases than others between adolescence and young adulthood, and some people even experience decreases. How do these interindividual differences in change affect the rank order of self-esteem?
+One study focusing explicitly on the rank-order stability of self-esteem combined a meta-analysis with large national data sets (Trzesniewski et al., 2003). The development and level of rankorder stability was found to be comparable to that of the Big Five personality traits, with stability increasing from adolescence to young adulthood. However, zooming in on the transitional phase of high school graduation, a very recent study did not reveal these increases in self-esteem stability from late adolescence to young adulthood (Wagner, Ludtke, et al., 2013). That is, although stability is generally increasing in this life phase, this may be less so in concrete transitional situations that are characterized by numerous changes and opportunities for exploration. Interindividual differences in experiences in such situations may result in different developmental trajectories in self-esteem and therefore in changes in the rank order.
+Processes Underlying Self-Esteem Development
+Previous longitudinal studies on self-esteem development were mainly aimed at providing insight into the patterns of trait self-esteem development. As a result, only little is known about the processes underlying changes in self-esteem. Recently, a small number of studies have focused not only on the nature of self-esteem development but also on predictors of developmental trajectories. This increased focus on environmental influences on self-esteem development goes hand in hand with recent calls within personality and social psychology to return to a socioecological perspective (e.g., Bronfenbrenner, 1977; Lewin, 1939) by including physical, societal, and interpersonal environments when examining psychological functioning (e.g., Oishi & Graham, 2010). The majority of these previous studies applied a broad macroanalytical perspective by identifying normative life events and transitions into social roles that can evoke long-term mean-level changes in self-esteem. For example, several studies have revealed one of the most important social role transitions between late adolescence and young adulthood--the transition to the first partnership--to be associated with increases in self-esteem (Lehnart, Neyer, & Eccles, 2010; Wagner, Ludtke, et al., 2013). However, although normative life transitions provide a plausible explanation for average changes in self-esteem, it remains unknown how they can result in individual differences in change. Even if the majority of people experience the same life events, people can vary to a large degree in the timing and in the way they experience these events. Consequently, unique reactions to normative life events might result in individual differences in change and therefore in rank-order instability (Trzesniewski et al., 2003). In addition, although previous studies provide important insights into normative events as a source of self-esteem development, it remains unknown how these transitions influence personality change.
+
+PROCESSES OF SELF-ESTEEM DEVELOPMENT
+
+769
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+It has been suggested that life transitions influence personality development via social relationship transitions (Neyer & Lehnart, 2007; Neyer, Mund, Zimmermann, & Wrzus, in press). Evidence for this postulation was provided by a recent study on Big Five personality development in sojourners, which revealed the effect of sojourning on mean-level changes in personality to be mediated by the acquisition of new international support relationships (Zimmermann & Neyer, 2013). However, the question remains through which mechanisms changes in (social) environments get under the skin to trigger changes in relatively stable personality traits.
+According to the sociogenomic model of personality (B. W. Roberts & Jackson, 2008), environments influence personality development in a bottom-up way: Environments do not directly influence changes in personality traits, but cause changes in states (i.e., thoughts, feelings, and behavior) that lead to personality changes. That is, it is postulated that the association between environmental experiences and trait development is mediated by state changes. Predictors at a macroanalytical level (e.g., life transitions) evoke trait change through microanalytical processes in the form of state changes. Initial support for this assumption was provided by a study examining personality development in the context of the transition out of high school (Bleidorn, 2012), which showed that changes in self-reported achievement behavior are associated with changes in Conscientiousness in emerging adulthood.
+Because self-esteem has been found to consist of both statelike and traitlike characteristics (Donnellan, Kenny, Trzesniewski, Lucas, & Conger, 2012), we apply the line of reasoning of the sociogenomic model and test whether the environment evokes changes in trait self-esteem via consistent changes in state selfesteem. Do state changes in self-esteem mediate trait development? And if so, what predicts changes in states in the first place?
+State Self-Esteem Dynamics: The Sociometer and Self-Broadcasting
+From a sociogenomic point of view, state changes are the driving force behind trait changes. But what are the environmental processes that predict state changes? One of the most influential theories in self-esteem research, the sociometer theory, suggests that self-esteem serves as a sociometer to monitor people's level of social inclusion (Leary & Baumeister, 2000). Consequently, selfesteem is thought to decrease during social experiences in which people feel excluded, whereas it is thought to increase during experiences in which people feel socially included. Support for this theory has been found in experimental studies as well as in longitudinal naturalistic research (for a review, see Leary, 2003). With regard to the former, the experimental manipulation of people's feeling of social acceptance was found to cause changes in their levels of self-esteem (Back, Schmukle, & Egloff, 2009; Leary, Haupt, Strausser, & Chokel, 1998; Leary, Tambor, Terdal, & Downs, 1995; Thomaes et al., 2010). With regard to the latter, short-term longitudinal studies have revealed the level of inclusion by romantic partners (Denissen, Penke, Schmitt, & van Aken, 2008; Murray, Griffin, Rose, & Bellavia, 2003), friends and family (Denissen et al., 2008), and fellow students (Srivastava & Beer, 2005) to be associated with changes in state self-esteem.
+
+Whereas sociometer theory suggests self-esteem changes to be a consequence of social inclusion, a number of studies suggest self-esteem to be a cause rather than a consequence of life outcomes (Orth et al., 2012; Swann, Chang-Schneider, & Larsen McClarty, 2007; Trzesniewski et al., 2006). Along the same line, self-esteem has been proposed as a predictor of social inclusion, which has been referred to as self-broadcasting (Srivastava & Beer, 2005). That is, high levels of self-esteem should be associated with high social inclusion, whereas low self-esteem should be followed by social exclusion.
+In line with a dynamic-transactional point of view on personality development, which suggests reciprocal transactions between individuals and their environment, both processes (i.e., sociometer and self-broadcasting) can go hand in hand and mutually influence each other (Caspi, 1998; Fraley & Roberts, 2005; Magnusson, 1999; Sameroff, 1983). Here, we examine both sociometer and self-broadcasting as state process candidates that mutually underlie changes in trait self-esteem.
+Self-Esteem Development in the Context of International Student Exchange
+In addition to general sociometer and self-broadcasting processes that might hold across situations and contexts, supplementary context-specific mechanisms might contribute to the development of perceived social inclusion and self-esteem. In the present study, we examined self-esteem development in the context of high school student exchange. The international exchange context provides high school students with many opportunities and challenges (Bochner, McLeod, & Lin, 1977; Furnham & Bochner, 1982; Ward, Leong, & Low, 2004) and has been found to have a lasting impact on their social and personality development (Andrews, Page, & Neilson, 1993; Zimmermann & Neyer, 2013).
+Student exchange includes many aspects that can occur similarly to high school students who do not go abroad, such as changing schools or moving to another city. Consequently, similar developmental associations between feelings of social inclusion in a new social context and self-esteem might occur in the exchange context as in other contexts that provide new social opportunities. However, studying abroad also includes aspects that are specific to the exchange situation, such as dealing with cultural challenges and learning a new language (e.g., Ward & Kennedy, 1993). As a result, specific exchange experiences such as mastery of exchange challenges and language proficiency might additionally contribute to the development of state self-esteem and feelings of social inclusion in the host country.
+The Present Study
+In the present study, we examined the association between the development of state and trait self-esteem and the mechanisms underlying this association in the context of international student exchange. We followed a sample of high school students who participated in an exchange year for 2 years. We measured trait self-esteem prior to the exchange, immediately afterward, and 1 year later, and we collected nine monthly waves of state selfesteem and feelings of social inclusion in the host country while the students were abroad. In addition, a control group of high school students who were not engaging in an exchange year were
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+770 HUTTEMAN, NESTLER, WAGNER, EGLOFF, AND BACK
+
+asked to complete trait self-esteem measures parallel to the first and second measures in the exchange group.
+The design of the study fitted our research questions very well, because it enabled us to combine a macroanalytical perspective with a microanalytical perspective. That is, by contrasting exchange students against the control group, we were able to investigate the effect of student exchange on rank-order and mean-level changes in self-esteem (macroanalytical perspective). First, for the complete sample, we hypothesized the typical development in self-esteem between late adolescence and emerging adulthood to occur (i.e., an increase in mean level and a relatively high level of rank-order stability). Second, we expected high school students who participated in an exchange year to show larger increases and less stability in trait selfesteem than those who stayed at home. With regard to meanlevel changes, the social investment principle suggests personality maturation to be the result of adapting to role expectations associated with social role transitions (B. W. Roberts & Wood, 2006). Because the exchange group makes transitions such as moving out of the parental home earlier than the control group, we expected accelerated personality maturation in exchange students in the form of stronger mean-level increases in selfesteem. In addition, as a result of interindividual differences in dealing with new social roles and situations in the host country, we expected lower rank-order stability in the exchange group compared with the control group.
+Third, zooming in on the processes underlying these changes, the state measures of self-esteem enabled us to test the sociogenomic model by investigating whether changes in states mediate changes in traits (microanalytical perspective). Fourth, the state measures of social inclusion in the new social environment of the host country allowed us to examine whether changes in selfesteem are associated with changes in social inclusion. Fifth, with regard to the direction of this association and in line with a dynamic-transactional point of view, we expected a transactional process with social inclusion predicting changes in state selfesteem (sociometer), and vice versa (self-broadcasting). Finally, we explored specific exchange experiences that might additionally contribute to feelings of state self-esteem and social inclusion in the host country. Therefore, we examined whether an increase in adaptation to the host country in the form of stronger feelings of mastery of exchange challenges and an increasing language proficiency in the host country were associated with increases in state self-esteem and social inclusion.
+
+Method
+Participants and Procedure
+Participants were part of the Mobility and Personality Development Study. The sample consisted of German high school students who spent an exchange year in different countries outside Germany (exchange condition) and students who stayed in Germany during this year (control condition). Students in the exchange condition were recruited nationwide via the mailing list of a German exchange organization (English Foundation). Students in the control condition were recruited via high schools in the city of Leipzig, Germany. The vast majority of the sample went to the United States (79%), followed by Canada, France, and the United Kingdom (5% respectively); New Zealand (3%); Australia (2%); and Ireland (1%). Analyses of variance revealed no differences between students who went to the United States and all other countries in any of the study variables (all Fs  3.19). All participants completed the first set of paper-and-pencil personality trait measures before students in the exchange condition departed (Time 1 [T1]). The second wave of personality trait measures was collected 1 year later (Time 2 [T2]). In addition, participants in the exchange condition filled out a follow-up questionnaire another year later (Time 3 [T3]), including the same trait measures as in the previous waves. Exchange students received monthly e-mails during their exchange year asking them to fill out an online questionnaire for the assessment of various state measures. Thus, students who participated in the exchange program completed questionnaires before they went abroad (T1), while they were abroad (S1-S9, see below), immediately after they returned (T2), and 1 year later (T3). Students in the control condition, however, only completed questionnaires at T1 and T2 (see Table 1). All students participated voluntarily, without any financial incentive.
+The initial exchange sample consisted of 876 students (T1). Mean age at the beginning of the exchange program was M  16.0 years (SD  0.51), and 77% of the students were women. Of this initial sample, 335 participated immediately after the end of their stay (T2), and 210 individuals completed the final questionnaire (T3). The initial control sample contained 714 students (T1). Mean age was M  16.3 years (SD  0.56), and 51.1% of the students were female. A total of 396 control students also participated in the second phase of the study (T2).
+
+Table 1 Design of the Study and Sample Sizes at the Different Measurement Time Points
+
+Group
+
+Measurement time points T1 S1 S2 S3 S4 S5 S6 S7 S8 S9 T2 T3
+
+Exchange 876 467 485 420 421 436 411 367 412 312 335 210
+
+Control
+
+714 -- -- -- -- -- -- -- -- -- 396 --
+
+Note. T1, T2, and T3 refer to the assessment of self-esteem before the exchange (Time 1), immediately after the exchange year (Time 2), and again 1 year later (Time 3), respectively. S1-S9 denote the measurement of state self-esteem, social inclusion, mastery of exchange challenges, and language proficiency while students were abroad. As can be seen, students in the control group only completed measures before and immediately after the exchange. Dashes indicate that students in the control group did not participate in S1-S9 and in T3.
+
+PROCESSES OF SELF-ESTEEM DEVELOPMENT
+
+771
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Measures
+Trait self-esteem. Trait self-esteem was measured using the Multidimensional Self-Esteem Scale (MSES; Fleming & Courtney, 1984; German version: Schutz & Sellin, 2006). The MSES consists of 32 items (e.g., "Do you take a positive attitude toward yourself?") that were rated on a 7-point scale (1  strongly disagree, 7  strongly agree). Items were parceled into three aggregate-level indicators. Parceling refers to constructing aggregate-level indicators of multiple items to estimate latent variables and is often used in favor of single-item factor solutions, because it provides psychometrics advantages such as higher reliability (T. D. Little, Cunningham, Shahar, & Widaman, 2002). We applied the item-to-construct balancing approach (T. D. Little et al., 2002), in which the items with the highest loadings were used to anchor the three parcels. Subsequently, the items with the next highest factor loadings were added to the anchor items in inverted order until all items were assigned to a parcel. The average internal consistency of general self-esteem across waves was   .77 (ranging from .76 to .77) in both the exchange group and control group.
+State self-esteem. State self-esteem was assessed in the exchange group across 10 monthly assessments using the 15-item German language version of the State Self-Esteem scale (original version: Heatherton & Polivy, 1991; German version: Rudolph, Schutz, & Schroder-Abe, 2008). Because social inclusion was first assessed at the second state assessment, the first assessment of state self-esteem was not included in further analyses, leaving nine time points of state measures (S1-S9). Items (e.g., "I feel good about myself") were rated on a 5-point rating scale (1  strongly disagree, 5  strongly agree). Items were aggregated into three parcels using the same technique as for trait self-esteem. The average internal consistency across the nine measurement time points was   .83 (ranging from .82 to .85).
+Social inclusion. To investigate processes of self-esteem development during the exchange months, students were asked to rate their perceived social inclusion in the host country. Items were part of a larger self-developed test battery on adaptation to the host country, which was assessed using nine monthly assessments starting in the second month of exchange. Participants rated their social inclusion on six items ("All in all there are not many people here that really like me [r]"; "On the weekends I am frequently out with friends"; "I have people outside of my host family I can rely on"; "I have friends around me"; "Other people invite me to leisure time activities"; "Getting to know peers is difficult for me" [r]) using a 6-point scale (1  strongly disagree, 6  strongly agree). Items were aggregated into three parcels using the same technique as for trait and state selfesteem. The average internal consistency across all nine waves was   .84 (ranging from .82 to .86).
+Mastery of exchange challenges. Students were asked to rate the degree to which they were able to master challenges that went along with their exchange experiences on nine monthly assessments as part of the test battery on adaptation to the host country. Participants rated mastery of exchange challenges on three items ("I can deal well with difficulties in my host family"; "I am dealing well with the new culture"; "I can always find a solution for problems in school") using a 6-point scale (1  strongly disagree,
+
+6  strongly agree). The average internal consistency across all nine waves was   .64 (ranging from .56 to .67).
+Self-perceived language proficiency. The self-developed test battery on adaptation to the host country also included nine monthly assessments with regard to self-perceptions of proficiency of the language in the host country. Participants rated their language proficiency on three items ("I am doing fine with the new language"; "Even in difficult cases I always know how to communicate in the new language"; "I like using the new language") using a 6-point scale (1  strongly disagree, 6  strongly agree). The average internal consistency across all nine waves was   .75 (ranging from .67 to .80).
+Missing Data
+We conducted Little's missing completely at random test including all items used in the analyses (R. J. A. Little, 1988) to examine randomness of missing values. The results were nonsignificant for the exchange group, 2(11260)  11320.46, p  .34, and for the control group, 2(6)  5.42, p  .49, suggesting that missing values were completely at random in both samples.
+In addition, attrition effects were tested by comparing dropouts with remaining participants. Five hundred forty-one students who went abroad did not participate after their return to Germany (62%), and another 125 students dropped out before the final questionnaire (23%). No attrition effects were found, as indicated by a lack of differences between dropouts and remaining students with regard to trait self-esteem at T1, t(874)  1.33, p  .19.
+With regard to the state measures during the exchange, sample sizes varied between N  484 and N  312 across the different time points (see Table 1). Students who participated at one of these measurement points were random samples from the initial sample of N  876 students. That is, one student may have filled out measures at S2 only, whereas another student may have completed measures at S1 and S9. Overall, there were 656 students who participated at least once while they were abroad. Again, no differences were found between (temporary) dropouts and remaining participants concerning trait self-esteem at T1, t(874)  0.37, p  .71.
+In the control condition, 318 students of the original sample did not participate in the second assessment (45%). Comparing dropouts with remaining students with regard to trait self-esteem at T1 showed that no attrition effects occurred, t(712)  1.42, p  .16. Hence, neither for the exchange nor for the control condition were attrition effects found.
+Analytic Strategy
+Mean-level and rank-order change in trait self-esteem. To investigate mean-level changes and rank-order stability in trait self-esteem between late adolescence and emerging adulthood, we applied confirmatory factor analysis (CFA) in Mplus version 6.11 (Muthen & Muthen, 1998 -2010). Specifically,to distinguish structural relations from random measurement error (see Bollen, 1989), we specified time point-specific measurement models relating the observed responses to the underlying latent trait of self-esteem. Meanlevel changes were estimated by testing the difference between latent trait self-esteem at T1 and T2. Rank-order stability was investigated by estimating the correlation between the latent trait at T1 and T2.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+772 HUTTEMAN, NESTLER, WAGNER, EGLOFF, AND BACK
+
+To ensure that mean-level and rank-order changes in our CFA were explained by real changes in the underlying construct and not by variance in trait measurement over time, we analyzed our models under strict factorial invariance. In case of strict factorial invariance, factor loadings, intercepts, and residual variances are constrained to be equal across waves (Meredith, 1993). In addition, indicator residuals of corresponding manifest items were allowed to correlate across measurement time points to model the effects of third variables not accounted for by the underlying latent construct (Bollen & Curran, 2006).
+Effect of exchange on mean-level and rank-order changes. To test whether high school students who participated in an exchange year showed larger increases and less stability in self-esteem than those who stayed at home, we conducted multiple-group CFAs. That is, the model was simultaneously specified for both the exchange as well as the control group, and the between-subsample equality of model parameters was tested by chi-square difference test.
+Mediation of state self-esteem. To examine whether trait changes in self-esteem are mediated by state changes in self-esteem, we first estimated a second-order latent growth curve model (LGM) of state self-esteem (McArdle & Bell, 2000; Mehta & West, 2000). This approach enabled us to model mean-level change in state selfesteem across 9 months of exchange as well as individual differences in change, while controlling for the effects of measurement error. The model was based on a measurement model similar to the CFA for trait self-esteem (but now including nine time points) and additionally included a latent intercept (i) and a latent slope (s). The latent intercept reflects the first measurement of state self-esteem, whereas the latent slope represents average changes in state self-esteem from S1 to S9. The variance in the latent intercept reflects individual differences in the initial level of state self-esteem, whereas the variance in the slope represents individual differences in mean-level changes. The factor loadings of the intercept were set to one for all time points. For the slope, factor loadings were set to zero for the slope factor for the first time point and to 1 for the last time point. Slope factor loadings for the remaining time points (S2-S8) were freely estimated to model the
+
+unrestricted shape of mean-level change on the basis of the empirical data (Ferrer, Hamagami, & McArdle, 2004).
+To examine whether changes in state self-esteem mediate rankorder changes in trait self-esteem from T1 to T2, we tested whether (a) the level of trait self-esteem before the exchange predicts changes in state self-esteem, (b) changes in state self-esteem (represented by the slope factor) predict subsequent changes in trait self-esteem, (c) trait self-esteem at T1 predicts change in trait self-esteem at T2, and (c') the direct effect of trait self-esteem at T1 on trait self-esteem at T2 increases when the indirect path is included in the model (see Figure 1 for a graphical representation of this conceptual model). That is, by modeling this indirect effect (the product of a and b), we investigated whether changes in state self-esteem can explain instability in trait self-esteem during exchange.1
+Correlated change between state self-esteem and social inclusion. To investigate whether state changes in social inclusion in the host country are associated with state changes in self-esteem, we estimated a parallel process second-order LGM. In this model, the second-order LGMs of state self-esteem and social inclusion were linked by correlating the intercepts and the slopes with each other (see Figure 2). Positive correlated change (i.e., the correlation between the latent slope factors) indicates that those students who show increases in state self-esteem simultaneously show increases in state social inclusion.
+Correlated change between state self-esteem, social inclusion, mastery of exchange challenges, and language proficiency. To examine whether state changes in social inclusion in the host country are associated with state changes in mastery of exchange challenges and perceived language proficiency and to examine whether state changes in self-esteem are associated with mastery of exchange challenges and perceived language proficiency, we analyzed parallel process second-order LGMs similar to the model described above.
+Cross-lagged effects between state self-esteem and social inclusion. Although the parallel process second-order LGM can show whether there is a developmental link between state self-esteem and social inclusion, it does not allow for drawing conclusions with regard to the direction of these effects.2 In order to investigate whether changes in social inclusion predict changes in state self-esteem (sociometer), and vice versa (self-broadcasting), we estimated manifest cross-lagged longitudinal models by means of separate multilevel models with either self-esteem or social inclusion as the dependent variable, using the lme4 package (Bates, Maechler, & Bolker, 2009) in R (R Core Team, 2013). All predictors were group-mean centered in order to measure within-person fluctuations and dependencies instead of between-person differences. The effect of social inclusion on intraindividual changes in self-esteem were estimated by predicting a student's self-esteem in a specific month by that student's self-esteem in the previous month (i.e., autoregressive paths) and his or her social inclusion in the previous month (i.e., cross-lagged paths).
+
+Figure 1. Conceptual mediational model of changes in state self-esteem mediating the rank-order (in-)stability of trait self-esteem. T1 and T2 refer to trait self-esteem measures before and immediately after exchange; S1-S9 refer to state measures of self-esteem during exchange; i indicates the latent intercept; s indicates the latent slope.
+
+1 A multiple mediation model was estimated in which both the intercept as well as the slope were included as mediators. However, because our research question solely focused on changes in state self-esteem, we only report the results with regard to the mediation of slope self-esteem.
+2 Apart from effects of the initial status of one construct on change in the other construct (intercept-slope correlations), which is not a good indicator of the direction of developmental associations in fast changing state measures with nine times points.
+
+PROCESSES OF SELF-ESTEEM DEVELOPMENT
+
+773
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Figure 2. Conceptual parallel process second-order latent growth model of the longitudinal association between state self-esteem and social inclusion. SEs1-SEs9 refer to nine monthly state measures of self-esteem; SIs1-SIs9 refer to state measures of social inclusion during the same time span. I_SE indicates the intercept and S_SE the slope of state self-esteem. I_SI and S_SI indicate the intercept and slope of social inclusion, respectively.
+
+In addition, the effect of state self-esteem on changes in social inclusion was examined by predicting a student's social inclusion in the host country by that student's social inclusion in the previous month and his or her self-esteem in the month before.
+Missing data handling and model fit. In all following analyses, missing data were handled using full information maximum likelihood estimation, in which all available data are used to estimate the model. Model fit was assessed by means of the comparative fit index (CFI) and the root-mean-square error of approximation (RMSEA). CFI values of .90 or above and RMSEA values of .08 or below indicate acceptable fit (Marsh, Hau, & Grayson, 2005).
+Results
+The means, standard deviations, and zero-order correlations of all manifest study variables are presented in Table 2. Preliminary analyses showed that strict factorial invariance held for all latent models for trait self-esteem, state self-esteem, social inclusion, mastery of exchange challenges, and self-perceived language proficiency (all CFIs  .948 and all RMSEAs  .051; see the Appendix).
+Mean-Level and Rank-Order Change in Trait Self-Esteem
+Latent mean differences derived from a CFA revealed significant increases in trait self-esteem in all participants from T1 to T2 (d 
+
+0.20, p  .01).3 That is, on average, trait self-esteem increased substantially from late adolescence until emerging adulthood (see Figure 3). With regard to the rank-order stability, latent regression analysis revealed high stability in trait self-esteem between T1 and T2 when taking into account both exchange as well as control students (r  .75, p  .01).
+Effect of Exchange on Mean-Level and Rank-Order Changes in Trait Self-Esteem
+In line with our expectations, we found stronger mean-level increases in trait self-esteem across the two time points in the group that went abroad (dE1E2  0.33, p  .01) than in the group that stayed in Germany during this time (dC1C2  0.05, p  .15;
+3 To facilitate interpretation, the amount of change between two latent means is given in terms of a standardized mean difference, calculated by taking the difference between the two latent means and dividing this difference by a pooled standard deviation. To examine individual differences in self-esteem change across the two time points (i.e., before and after the exchange), we also fitted second-order latent growth models to the data. In case of the whole sample, this model fitted the data well, 2(12)  25.48, p  .01, CFI  .998, RMSEA  .027. The mean slope was 0.16 (p  .01), and the variance of the slope was 0.33 (p  .01). For the whole sample, thus, there was an increase in trait self-esteem across the two points, and individuals differed in this increase.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+774 HUTTEMAN, NESTLER, WAGNER, EGLOFF, AND BACK
+Table 2 Means, Standard Deviations, and Zero-Order Correlations of All Manifest Study Variables
+Variable 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+1. SE T1 -- 2. SE T2 .70 -- 3. SE T3 .59 .74 -- 4. SE S1 .54 .56 .52 -- 5. SE S2 .51 .56 .56 .78 -- 6. SE S3 .54 .56 .49 .75 .77 -- 7. SE S4 .49 .55 .48 .72 .70 .81 -- 8. SE S5 .49 .60 .55 .69 .69 .78 .83 -- 9. SE S6 .47 .60 .53 .62 .64 .71 .78 .83 -- 10. SE S7 .43 .61 .55 .59 .64 .69 .79 .80 .84 -- 11. SE S8 .42 .62 .53 .56 .61 .67 .73 .77 .82 .82 -- 12. SE S9 .41 .56 .53 .54 .58 .67 .70 .76 .76 .79 .82 -- 13. SI S1 .25 .27 .14 .39 .31 .28 .30 .27 .23 .21 .21 .26 -- 14. SI S2 .18 .28 .16 .32 .38 .29 .30 .27 .24 .20 .19 .28 .77 -- 15. SI S3 .19 .29 .17 .33 .31 .39 .37 .36 .29 .38 .37 .42 .62 .68 -- 16. SI S4 .22 .30 .22 .32 .30 .35 .40 .38 .32 .37 .36 .41 .58 .65 .77 -- 17. SI S5 .23 .29 .22 .28 .23 .31 .34 .43 .36 .41 .38 .40 .53 .59 .72 .77 -- 18. SI S6 .25 .33 .23 .23 .23 .33 .33 .38 .42 .42 .38 .44 .53 .57 .65 .71 .82 -- 19. SI S7 .10 .23 .15 .25 .20 .22 .27 .31 .34 .42 .40 .40 .49 .48 .64 .67 .75 .82 -- 20. SI S8 .14 .29 .19 .21 .25 .25 .28 .30 .32 .40 .47 .45 .45 .47 .57 .60 .66 .70 .78 -- 21. SI S9 .15 .27 .26 .19 .22 .28 .23 .28 .28 .36 .42 .41 .44 .43 .58 .56 .64 .70 .70 .75 -- M 4.62 4.78 4.95 3.69 3.72 3.74 3.79 3.81 3.85 3.88 3.96 4.03 4.73 4.79 4.84 4.80 4.95 4.91 5.01 5.14 5.31 SD 0.86 0.84 0.80 0.61 0.59 0.59 0.59 0.57 0.58 0.56 0.54 0.53 1.00 0.97 0.98 0.94 0.88 0.92 0.88 0.85 0.75
+Note. SE T1-SE T3  trait self-esteem at Time 1-Time 3; SE S1-SE S9  state self-esteem at S1-S9; SI S1-SI S9  social inclusion at S1-S9. All significant correlations are printed in bold. Correlations between language proficiency and all other study variables ranged from .06 to .35 for trait self-esteem, from .19 to .43 for state self-esteem, from .21 to .57 for social inclusion, and from .30 to .67 for mastery of exchange challenges. Correlations between the mastery of exchange challenges and all other study variables ranged from .08 to .32 for trait self-esteem, from .21 to .48 for state self-esteem, and from .10 to .58 for social inclusion (all rs  |.10|, p  .05).
+
+see Figure 3).4 To investigate whether exchange students differed significantly from the control students with regard to their meanlevel development, we performed a chi-square difference test. Here, we compared the overall fit of a model in which mean-level differences were constrained to be equal between the groups with the fit of a model with no such constraint. Indeed, the increase in self-esteem was significantly stronger in the exchange group than in the control group, 2(2)  52.05, p  .01. The difference in the amount of change between exchange and control students resulted in larger differences between the groups immediately after
+
+exchange students returned to Germany (dC2E2  0.43, p  .01) than before they left for exchange (dC1E1  0.16, p  01).
+Regarding the effects of exchange on rank-order stability, we
+found that the rank order of trait self-esteem was less stable in the exchange group (rE1E2  .68, p  .01) than in the control group (rC1C2  .82, p  .01). Chi-square difference testing confirmed that this difference was statistically significant (2  10.70, p  .01). In sum, participating in an exchange program resulted in
+stronger mean-level increases in trait self-esteem as well as in
+more instability in the rank order of this trait.
+In addition, we tested whether trait self-esteem changes persist after
+returning to Germany. No substantial mean-level changes in self-
+esteem were found in the exchange group in the year after being abroad (dE2E3  0.02, p  .58), suggesting that exchange experiences during the exchange stay resulted in a persistent increase in self-
+esteem. Along the same lines, we tested whether people's trait
+standing in self-esteem stabilizes after returning to Germany.
+Indeed, rank-order stability in the exchange group increased in the year after exchange (rE2E3  .76, p  .01) to levels almost comparable to those of the control group between T1 and T2.
+
+Figure 3. Latent means for trait self-esteem for students who spent a year abroad (exchange group), students who did not (control group), and the overall sample (exchange group and control group together).
+
+4 Similar results emerged when we estimated a multiple-group secondorder LGM. The overall model fit was good, 2(31)  51.17, p  .01, CFI  .997, RMSEA  .029. The mean slope was 0.04 (p  .16) in the control students condition and 0.25 (p  .01) in the exchange student condition, respectively. Finally, the variance of the slope was 0.25 (p  .01) for the control students, and it was 0.38 (p  .01) for the exchange
+students.
+
+PROCESSES OF SELF-ESTEEM DEVELOPMENT
+
+775
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Figure 4. Latent mean change for state self-esteem and individual differences in developmental trajectories in exchange students. The dotted lines represent randomly selected individual trajectories of state self-esteem of exchange students, whereas the bold represents the average change in state self-esteem across 9 months.
+
+Intermediate Analysis: Mean-level Change in State Self-Esteem
+The second-order LGM for state self-esteem fitted the data well, 2(295)  428.30, p  .01, CFI  .988, RMSEA  .027. The mean slope was 0.35 (p  .01), and the variance of the slope was 0.17 (p  .01), suggesting that students, on average, showed an increase in state self-esteem across 9 months while being abroad and that individuals substantially differed in this increase (see Figure 4).
+Mediation of State Self-Esteem
+To investigate how self-esteem changes during high school exchange, we examined whether monthly changes in state selfesteem explain (i.e., mediate) rank-order changes in trait selfesteem from T1 to T2. The model fitted the data well, 2(469)  639.20, CFI  .989, RMSEA  .020. As can be seen in Figure 5,5 trait self-esteem before going abroad negatively predicted the slope of state self-esteem during exchange (  .18, p  .01; see path a in Figure 1). That is, those students who were low on trait self-esteem before going on exchange showed larger increases in state self-esteem while being abroad than those students who already had high selfesteem before going on exchange. These increases in state self-esteem, in turn, predicted increases in trait self-esteem at T2 (  .49, p  .01; see path b in Figure 1). Finally, the direct effect of trait self-esteem before departure on trait self-esteem after returning to Germany (i.e., rank-order stability T1-T2) increased when the indirect effect via the slope in state self-
+
+esteem was included (  .77, p  .01; see path c' in Figure 1), resulting in a negative indirect effect (  .09, p  .01).
+Together, these results show that those students who are low in self-esteem before going abroad show a larger increase in state self-esteem than those students already high in self-esteem before departure, which makes them "move up" in the rank order of trait self-esteem after the exchange and leads to decreased rank-order stability. In fact, including the indirect effect of the slope of state self-esteem in the model increased the rank-order stability to a level almost comparable to that of the control group, suggesting that interindividual differences in changes in state self-esteem can explain rank-order changes in trait self-esteem.
+Intermediate Analysis: Mean-Level Change in Social Inclusion
+The second-order LGM for social inclusion fitted the data well, 2(295)  680.22, p  .01, CFI  .960, RMSEA  .045. The mean slope was 0.50 (p  .01), and the variance of the slope was 0.37 (p  .01), meaning that exchange students showed an average increase in feelings of social inclusion in the host country and that individuals differed in this increase (see Figure 6).
+5 Figure 5 is a simplified representation of the actual mediation model, as presented in Figure 1.
+
+776 HUTTEMAN, NESTLER, WAGNER, EGLOFF, AND BACK
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Figure 5. Empirical mediational model of changes in state self-esteem mediating the rank-order (in-)stability of trait self-esteem. T1 and T2 refer to trait self-esteem measures before and immediately after exchange; s refers to the latent slope of state self-esteem. The value within brackets reflects the rank-order stability of trait self-esteem between T1 and T2 when the indirect effect via changes in state self-esteem is included.  p  .01.
+
+Correlated Change Between State Self-Esteem and Social Inclusion
+To disentangle the processes explaining individual differences in changes in state self-esteem while being abroad, we estimated a dual-process LGM. The model fitted the data well, 2(1313)  2318.81, CFI  .953, RMSEA  .030. Confirming our hypothesis, we found a positive slope-slope correlation between state selfesteem and social inclusion (r  .16, p  .05). That is, those students showing an increase in social inclusion in the host country across the 9 months abroad also showed an increase in self-esteem. In addition, we found positive correlations between intercepts of social inclusion and self-esteem (r  .20, p  .05), meaning that high initial levels of social inclusion are associated with high initial levels of self-esteem. No significant relationships were found between initial levels of social inclusion and changes in state self-esteem (r  .04, p  .39) or between initial levels of self-esteem and changes in social inclusion (r  .05, p  .59).
+Cross-Lagged Effects Between State Self-Esteem and Social Inclusion
+Finally, we aimed to disentangle the direction of effects between state self-esteem and social inclusion by investigating whether social inclusion results in changes in state self-esteem over time and/or whether state self-esteem predicts changes in social inclusion. Cross-lagged longitudinal models using multilevel modeling
+
+Figure 6. Latent mean change for feelings of social inclusion in the host country and individual differences in developmental trajectories in exchange students. The dotted lines represent randomly selected individual trajectories of state self-esteem of exchange students, whereas the bold represents the average change in state self-esteem across 9 months.
+showed that social inclusion predicted increases in state selfesteem, over and above the stability of state self-esteem across 9 months (B  0.10, p  .01; see Table 3), thereby confirming the sociometer hypothesis. In line with the self-broadcasting hypothesis, state self-esteem was found to predict increases in social inclusion in the host country, while taking into account the stability of social inclusion (B  0.12, p  .01). Even after controlling for mastery of exchange challenges and self-rated language proficiency, cross-lagged effects of social inclusion on changes in state self-esteem, and vice versa, remained significant, decreasing the regression coefficients by only 0.01. Summing up, transactional longitudinal effects were found between social inclusion and state self-esteem.
+Supplementary Analyses Exploring Additional Effects of Exchange-Specific Experiences
+To explore whether exchange-specific experiences in the form of mastery of exchange challenges and self-rated language profi-
+
+Table 3 Unstandardized Estimates of Multilevel Models Examining the Longitudinal Effects of Social Inclusion on State Self-Esteem (Sociometer Hypothesis) and of State Self-Esteem on Social Inclusion (Self-Broadcasting Hypothesis)
+
+Variable
+
+Sociometer State SE  Social inclusion B SE t R2
+
+Self-broadcasting State SE  Social inclusion B SE t R2
+
+Autoregressive effects 0.18 (0.03) 6.81
+
+0.21 (0.03) 7.72
+
+Cross-lagged effects
+
+0.10 (0.02) 4.73 .02 0.12 (0.03) 4.06 .05
+
+Note. All variables were z-standardized before analyses. All predictor variables were group-mean centered to
+concentrate on within-person fluctuations and dependencies. All presented models control for the stability (i.e.,
+autoregressive paths) of the dependent variable (e.g., the model predicting self-esteem at a certain point in time
+included that person's self-esteem on the previous measurement point and social inclusion on the previous measurement point; cross-lagged paths). R2 indicates the amount of explained variance on Level 1 over and above the stability of the dependent variable (i.e., autoregressive paths). SE  self-esteem.
+
+PROCESSES OF SELF-ESTEEM DEVELOPMENT
+
+777
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+ciency could explain additional variance in changes in state selfesteem and feelings of social inclusion, four separate dual-process LGMs were estimated. Intermediate analyses showed that the second-order LGM for mastery of exchange challenges fitted the data well, 2(295)  507.90, p  .01, CFI  .966, RMSEA  .034. The second-order LGM for self-reported language proficiency had a similar good fit, 2(295)  764.70, p  .01, CFI  .937, RMSEA  .050. The mean slope for mastery of exchange challenges was 0.19 (p  .19), and the variance of the slope was 0.25 (p  .01), indicating that although, on average, exchange students did not change in their mastery of challenges in the host country, substantial interindividual differences in change existed between students. For language proficiency, the mean slope was 0.58 (p  .01), and the variance of the slope was 0.26 (p  .01), meaning that exchange students showed an average increase in their self-perceived proficiency of the host country language and that individuals substantially differed with respect to this increase.
+The model fit was good for the dual-process LGM for mastery of exchange challenges and state self-esteem, 2(1313)  2055.44, CFI  .959, RMSEA  .025, and for the LGM of language proficiency and state self-esteem, 2(1313)  2244.91, CFI  .951, RMSEA  .028. We found a positive slope-slope correlation between the mastery of exchange challenges and state self-esteem (r  .16, p  .001). That is, those students showing an increase in their perceived mastery of the challenges associated with their exchange across the 9 months abroad also showed an increase in their state self-esteem. Moreover, we found positive correlations between intercepts of mastery of exchange challenges and state self-esteem (r  .25, p  .001), indicating that high initial levels of mastery of challenges are related to high initial levels of state self-esteem. Initial levels of state self-esteem were found to be negatively associated with changes in mastery of exchange challenges (r  .47, p  .01), meaning that high levels of state self-esteem at the beginning of high school exchange were related to a less strong increase in the mastery of exchange challenges. No significant relationship was found between initial levels of mastery of exchange challenges and changes in state self-esteem (r  .04, p  .56).
+We also found a positive slope-slope correlation between selfperceived language proficiency and state self-esteem (r  .09, p  .001). Students who perceived themselves to become more proficient in the new language during their exchange also showed increases in state self-esteem. The intercept-intercept correlation was also positive (r  .17, p  .001), indicating that students who were proficient in the new language at the beginning of their exchange also had higher initial levels of state self-esteem. We did not find an association between initial levels of state self-esteem and changes in selfperceived proficiency of the new language (r  .02, p  .72) or between initial levels of language proficiency and changes in state self-esteem (r  .02, p  .68).
+The dual-process LGMs for mastery of exchange challenges and social inclusion fitted the data well, 2(1313)  2538.97, CFI  .927, RMSEA  .033, as was the case for the model for language proficiency and social inclusion, 2(1313)  2516.99, CFI  .932, RMSEA  .032. We found a positive slope-slope correlation between the mastery of exchange challenges and social inclusion (r  .30, p  .001), meaning that increases in perceived mastery of exchange challenges were associated with increases in feelings of social inclusion. In addition, we found positive correlations between intercepts of
+
+mastery of exchange challenges and social inclusion (r  .35, p  .001), meaning that high initial levels of mastery of challenges are associated with high initial levels of social inclusion. A significant negative relationship was found between initial levels of social inclusion and changes in mastery of exchange challenges (r  .21, p  .05), indicating that those students who felt socially included at the beginning of their exchange showed a less strong increase in the mastery of exchange challenges. No significant association was found between initial levels of mastery of exchange challenges and changes in social inclusion (r  .15, p  .14).
+A positive slope-slope correlation was found between language proficiency and social inclusion (r  .16, p  .001), indicating that those students who increased on self-rated language proficiency during their exchange also felt increasingly socially included. The intercept-intercept correlation was also positive (r  .24, p  .001), suggesting that students who were high on self-rated language proficiency at the beginning of their exchange also had higher initial levels of social inclusion. No significant associations were found between initial levels of social inclusion and changes in language proficiency (r  .08, p  .12) or between initial levels of language proficiency and changes in social inclusion (r  .03, p  .74).
+Discussion
+The aim of the present study was to investigate the macro- and microprocesses underlying self-esteem development from late adolescence until emerging adulthood. On a macroanalytical level, we found mean-level increases in trait self-esteem across a 1-year interval and relatively high levels of rank-order stability. Both the average developmental trajectories of self-esteem as well as its stability were found to be influenced by high school student exchange: Students who went abroad for 1 year showed larger mean-level increases and lower rank-order stabilities than their counterparts who stayed in Germany. On a microanalytical level, we found the instability in trait self-esteem to be mediated by monthly state fluctuations in self-esteem while being abroad. Increases in state self-esteem were found to go hand in hand with increases in social inclusion in the host country, and focusing on the direction of this effect, findings revealed a transactional process with social inclusion predicting increases in state selfesteem, and vice versa.
+Self-Esteem Mean-Level Change and Rank-Order Stability in the Context of International Student Exchange
+The mean-level increases in trait self-esteem found in the present study were in line with our expectations and comparable to developmental patterns of self-esteem found in previous studies (Chung et al., 2014; Erol & Orth, 2011; O'Malley & Bachman, 1983; Orth et al., 2010; Robins, Trzesniewski, Tracy, Gosling, & Potter, 2002; Wagner, Ludtke, et al., 2013). The effect size of this increase resembled the mean-level increases in the Big Five factors of Social Dominance (a facet of Extraversion), Emotional Stability, and Openness in this life phase found in the meta-analysis by Roberts and colleagues (B. W. Roberts, Walton, & Viechtbauer, 2006). This was also the case for the rank-order stability of trait self-esteem in the overall sample, which was comparable to previous longitudinal studies on self-esteem (Trzesniewski et al., 2003; Wagner, Ludtke, et al., 2013) and even higher than the rank-order stability of Big Five traits in this age group (B. W. Roberts & DelVecchio, 2000).
+
+778 HUTTEMAN, NESTLER, WAGNER, EGLOFF, AND BACK
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+With regard to the mean-level increases in trait self-esteem, we also found individual differences in change trajectories (see also Erol & Orth, 2011; Orth et al., 2010; Wagner, Ludtke, et al., 2013). In the present study, international student exchange experiences provided an explanation for these individual differences in self-esteem development. Students who went abroad for 1 year showed stronger increases in trait self-esteem than students who stayed at home during this time. The latter even showed no significant mean-level changes at all. Variances in average changes were larger in the exchange group than in the control group, resulting in a lower rank-order stability among exchange students compared with control students. That is, due to exchange experiences, the rank order of self-esteem changed in the exchange group: The student with the lowest self-esteem in the group before going on exchange was not necessarily the one with the lowest self-esteem after returning to Germany.
+The effects of student exchange on self-esteem development are in line with other studies that have revealed an impact of mobility on different levels of psychological functioning, such as social relationships, well-being, and mortality risk (e.g., Lubbers et al., 2010; Oishi & Talhelm, 2012). Studies focusing on Big Five personality development revealed that residential mobility (Ludtke, Roberts, Trautwein, & Nagy, 2011), short-term international mobility (e.g., student exchange; Zimmermann & Neyer, 2013), as well as longterm international mobility experiences (e.g., migration; Ying, 2002) predict personality change. In the present study, we investigated short-term mobility but found effects that lasted even after returning to Germany: The mean-level changes that occurred during the time abroad remained, and student's (changed) rank-order position in self-esteem stabilized across the year after the exchange.
+Are these findings specific to international student exchange experiences, or do other life events have similar effects? According to social investment theory (B. W. Roberts & Wood, 2006), the transition into adult social roles provides an explanation for personality development. Indeed, previous studies have revealed effects of important life transitions on Big Five personality development, such as starting a first relationship (Neyer & Asendorpf, 2001), entering the job market (Specht, Egloff, & Schmukle, 2011), and having children (Jokela, Kivimaki, Elovainio, & Keltikangas-Jarvinen, 2009). These results also show that individual differences in personality development emerge as a result of individual differences in experiences in and management of these transitions (e.g., Hutteman, Bleidorn, et al., 2014; Hutteman, Hennecke, Orth, Reitz, & Specht, 2014; B. W. Roberts, Caspi, & Moffitt, 2003).
+Similar mechanisms might be at work in the present study, in which exchange students make certain life transitions earlier (e.g., moving out, changing school) and therefore show stronger (or accelerated) increases in self-esteem and more variance in change trajectories compared with students who do not make these experiences. However, Wagner and colleagues investigated the effect of specific life transitions on self-esteem development in early adulthood and found no effects of moving out and starting college, but they did find an effect of the first relationship on more pronounced increases in trait self-esteem (Wagner, Ludtke, et al., 2013). Neyer and colleagues also found evidence for the role of romantic relationships on self-esteem development (Lehnart et al., 2010; Neyer & Asendorpf, 2001; Neyer & Lehnart, 2007) and suggest that social relationships are the driving force behind personality development. As we have shown here, a microanalytical approach might help to understand how, under which
+
+circumstances, and for which individuals these experiences in the (social) environment get under the skin to evoke changes in selfesteem.
+Microperspective on Self-Esteem Development
+In line with the sociogenomic model of personality (B. W. Roberts & Jackson, 2008), changes in state self-esteem while being abroad mediated changes in trait self-esteem. We found those students who were low in self-esteem before going abroad to show a larger increase in state self-esteem than those students already high in self-esteem before departure, making the students who were low in self-esteem to increase in the rank order. That is, we found a negative mediation effect with changes in state self-esteem explaining trait instability. Consequently, adding the indirect effect of the slope of state selfesteem to the model increased the rank-order stability to a level almost comparable to the control group, suggesting that interindividual differences in changes in state self-esteem can explain rank-order changes in trait self-esteem.
+This negative mediation effect might seem counterintuitive at first sight. However, it makes complete sense when considering it in light of the maturity-stability hypothesis. This hypothesis suggests that adolescents with mature personalities should experience less change during the transition to adulthood, because they have a lower necessity to further develop in a normative way (see Donnellan, Conger, & Burzette, 2007; B. W. Roberts, Caspi, & Moffitt, 2001, for more evidence supporting this hypothesis). That is, those students already having high self-esteem before the exchange have less room to further increase during the exchange. However, for students who are low in self-esteem before the exchange, the necessity to change is larger, resulting in rank-order changes in trait self-esteem.
+In the present work, we found compelling evidence for the key hypothesis of the sociogenomic model that "environments cause changes in states that then affect changes in traits in a bottom-up fashion" (B. W. Roberts & Jackson, 2008, p. 1535). Building on this, we additionally tackled the question as to which environmental aspects influence changes in states.
+The Dynamic Interplay of Social Inclusion and State Self-Esteem
+Our results support theoretical notions and previous findings showing that feelings of social inclusion play a role in self-esteem development (Back, Krause, et al., 2009; Denissen et al., 2008; Leary, 2003; Leary & Baumeister, 2000; Srivastava & Beer, 2005). We found individual differences in changes in state self-esteem to be associated with individual differences in changes in social inclusion; that is, those students showing increases in state self-esteem while being abroad simultaneously showed increases in perceived social inclusion in the host country. In addition, we found exchange-specific processes to contribute to changes in state self-esteem and feelings of social inclusion. Students who increased in their mastery of exchange challenges while being abroad and in their self-reported proficiency of the host country language also showed increases in state self-esteem and perceived social inclusion.
+We tested two competing hypothesis with regard to the direction of the longitudinal association between state self-esteem and perceived social inclusion. According to sociometer theory (Leary & Baumeister, 2000), changes in self-esteem should be the result of an individual's social inclusion, whereas the self-broadcasting perspective (cf. Srivastava & Beer, 2005) postulates self-esteem to be a predictor of
+
+PROCESSES OF SELF-ESTEEM DEVELOPMENT
+
+779
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+changes in social inclusion. A number of previous longitudinal studies hava revealed results that are exclusively in the direction of the sociometer, with social inclusion predicting changes in self-esteem over time (Denissen et al., 2008; Srivastava & Beer, 2005). Another study has only revealed support for the self-broadcasting perspective in a sample of adolescents (Marshall, Parker, Ciarrochi, & Heaven, 2014), and even others studies have revealed effects in both directions (Kinnunen, Feldt, Kinnunen, & Pulkkinen, 2008; Stinson et al., 2008). In line with the latter studies and with a dynamic-transactional view on personality development (Caspi, 1998; Fraley & Roberts, 2005; Magnusson, 1999; Sameroff, 1983), we found a reciprocal relationship between state self-esteem and perceived social inclusion in the host country.
+The reciprocity of this relationship might also be explained by the context of student exchange. The life event of student exchange contains both normative and nonnormative aspects. For example, student exchange requires moving out and changing to another school, which may be considered normative life transitions. However, it also encompasses nonnormative aspects, because these transitions occur earlier in exchange students than in control students, who continue to live at home and to attend the same school. According to Neyer, Mund, Zimmermann, and Wrzus (in press), social relationships are more likely to influence personality development in the context of normative life transitions, whereas social relationships are more likely to be affected by personality traits in the context of nonnormative life transitions that are less regulated by social expectations. No clear distinction can be made for student exchange as to whether this represents a normative or nonnormative life transition. Instead, the life transition of student exchange contains a mixture of normative and nonnormative aspects. This might provide one explanation for finding both effects of social inclusion on changes in state self-esteem, and vice versa.
+Our results are also in line with a recent study on the impact of relational mobility on the association between self-esteem and happiness (Yuki, Sato, Takemura, & Oishi, 2013). Relational mobility can be defined as the degree to which the social context provides opportunities to form new, maintain existing, and dissolve old relationships (Oishi, 2010). Yuki and colleagues found self-esteem to be more strongly related to happiness in contexts in which there were more opportunities to form new relationships and suggest that selfesteem may be more adaptive in these contexts. The present study provides further evidence for this assumption by showing the importance of self-esteem for social inclusion, and vice versa, in the context of student exchange, which provides many opportunities to form new relationships.
+Limitations and Future Directions
+By combining a macro- and microanalytical approach to study the development of self-esteem, the present study provides important insight into the processes explaining how environmental influences can trigger changes in a relatively stable personality trait. The combination of a control group design, fine-grained longitudinal data, and sophisticated methods allow for the investigation of how and why self-esteem changes. However, a number of questions could not be answered with the current design, and future studies might want to address these open questions.
+First, although the context of international student exchange provides a good opportunity to investigate changes in self-esteem in a new social environment, it remains unknown whether our results are
+
+generalizable to other contexts. Would similar results emerge from a study in a similar new social environment without the cultural influences that might have played a role in the present study? First, evidence that this might be the case comes from a study on Big Five personality development during the transition to college, which showed changes in personality traits to be predicted by positive and negative events during this transition (Ludtke et al., 2011). However, this study only incorporated a macroanalytical approach that did not enable the exploration of state or behavioral changes in the environment that possibly drive personality development.
+Second, it should be noted that the effects of international student exchange on self-esteem development were examined using a quasiexperimental design. That is, students were assigned to the experimental or control condition on the basis of their decision to study abroad rather than on random assignment. Consequently, small differences existed between the groups before the exchange, with exchange students reporting slightly higher levels of self-esteem at baseline than control students. Because all longitudinal analyses in the present study controlled for baseline self-esteem, it seems safe to assume that baseline differences did not influence the results.
+Third, state measures of self-esteem and social inclusion were only available for the exchange group, leaving it unknown what happened in the control group between the two trait measures. Future studies using a quasi-experimental design to study the effect of a specific event on personality development might want to include state measures in both groups to also investigate the processes that explain personality stability.
+Fourth, this study was based on self-reports of trait and state self-esteem and social inclusion. This raises the question of whether self-esteem increases, because people feel more socially included, or whether it increases because they really are liked more by others. A study using four weekly measures of self-esteem during group sessions in a college sample showed that other's judgment of likability predicted self-evaluations, but not the other way around (Srivastava & Beer, 2005). Future research might want to combine the design of this previous study with the design of the present study by including state self-esteem and self- and other ratings of social inclusion, as well as trait self-esteem, to investigate whether the state changes as a result of being objectively liked by others lead to trait changes in self-esteem.
+Fifth, all exchange students in the present study went to a Western, industrialized country (United States, Canada, France, United Kingdom, New Zealand, Australia, and Ireland). We did not find any differences between students based on the location of their study abroad. Previous cross-cultural research has called for the use of a two-dimensional model on self-esteem and has revealed cultural differences in the dimensions of self-competence and self-liking (e.g., Tafarodi & Swann, 1996). More specifically, they revealed lower levels of self-competence, but higher levels of self-liking in collectivistic countries compared with individualistic countries. Consequently, studying in a collectivistic country when coming from an individualistic country like Germany might result in different developmental trajectories in (different dimensions of) self-esteem than studying abroad in another individualistic country. Future studies might want to include students going to individualistic as well as collectivistic countries to examine potential moderating effects.
+Finally, although a major strength of the present study lies in the monthly measures of states, future studies might want to incorporate even more fine-grained measures to tap into the affective, perceptual,
+
+780 HUTTEMAN, NESTLER, WAGNER, EGLOFF, AND BACK
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+and behavioral processes underlying self-esteem development (cf. Back et al., 2011). The experiences with social inclusion might take place on a daily, hourly, or situation/person-specific basis, which was not captured in the present study. Using daily diaries (cf. Denissen et al., 2008) or experience sampling might offer an even more direct way of investigating how social inclusion causes changes in self-esteem, and vice versa.
+Conclusion
+Implementing a macro- as well as a microperspective to personality development, our results show that international student exchange experiences influence the development of self-esteem in late adolescence and shed light on the processes underlying this association. We revealed that short-term changes in state self-esteem during exchange can explain long-term, enduring changes in the rank order and mean level of trait self-esteem. Examining the experiences in the host country responsible for these changes, we found that changes in state self-esteem were associated with changes in social inclusion. Our findings show that self-esteem is not either a predictor or a consequence of social inclusion, but both.
+References
+Alsaker, F. D., & Olweus, D. (1992). Stability of global self-evaluations in early adolescence: A cohort longitudinal study. Journal of Research on Adolescence, 2, 123-145. doi:10.1207/s15327795jra0202_2
+Andrews, G., Page, A. C., & Neilson, M. (1993). Sending your teenagers away: Controlled stress decreases neurotic vulnerability. Archives of General Psychiatry, 50, 585-589. doi:10.1001/archpsyc .1993.01820190087009
+Arnett, J. J. (1999). Adolescent storm and stress, reconsidered. American Psychologist, 54, 317-326. doi:10.1037/0003-066X.54.5.317
+Arnett, J. J. (2000). Emerging adulthood: A theory of development from the late teens through the twenties. American Psychologist, 55, 469 - 480. doi:10.1037/0003-066X.55.5.469
+Back, M. D., Baumert, A., Denissen, J. J. A., Hartung, F. M., Penke, L., Schmukle, S. C., . . . Wagner, J. (2011). PERSOC: A unified framework for understanding the dynamic interplay of personality and social relationships. European Journal of Personality, 25, 90 -107. doi:10.1002/ per.811
+Back, M. D., Krause, S., Hirschmuller, S., Stopfer, J. M., Egloff, B., & Schmukle, S. C. (2009). Unraveling the three faces of self-esteem: A new information-processing sociometer perspective. Journal of Research in Personality, 43, 933-937. doi:10.1016/j.jrp.2009.04.002
+Back, M. D., Schmukle, S. C., & Egloff, B. (2009). Predicting actual behavior from the explicit and implicit self-concept of personality. Journal of Personality and Social Psychology, 97, 533-548. doi: 10.1037/a0016229
+Bates, D., Maechler, M., & Bolker, B. (2009). lme4: Linear mixed-effects models using S4 classes (R package version 999375-32) [Computer software]. Retrieved from http://CRAN.R-project.org/package0lme4
+Bleidorn, W. (2012). Hitting the road to adulthood: Short-term personality development during a major life transition. Personality and Social Psychology Bulletin, 38, 1594 -1608. doi:10.1177/0146167212456707
+Block, J., & Robins, R. W. (1993). A longitudinal study of consistency and change in self-esteem from early adolescence to early adulthood. Child Development, 64, 909 -923. doi:10.2307/1131226
+Bochner, S., McLeod, B. M., & Lin, A. (1977). Friendship patterns of overseas students: A functional model. International Journal of Psychology, 12, 277-294. doi:10.1080/00207597708247396
+Bollen, K. A. (1989). Structural equations with latent variables. New York, NY: Wiley.
+
+Bollen, K. A., & Curran, P. J. (2006). Latent curve models: A structural equation perspective. Hoboken, NJ: Wiley.
+Bronfenbrenner, U. (1977). Toward an experimental ecology of human development. American Psychologist, 32, 513-531. doi:10.1037/0003066X.32.7.513
+Caspi, A. (1998). Personality development across the life course. In W. Damon & N. Eisenberg (Eds.), Handbook of child psychology: Social, emotional and personality development (pp. 311-388). New York, NY: Wiley.
+Chung, J. M., Robins, R. W., Trzesniewski, K. H., Noftle, E. E., Roberts, B. W., & Widaman, K. F. (2014). Continuity and change in self-esteem during emerging adulthood. Journal of Personality and Social Psychology, 106, 469 - 483. doi:10.1037/a0035135
+Denissen, J. J., Penke, L., Schmitt, D. P., & van Aken, M. A. (2008). Self-esteem reactions to social interactions: Evidence for sociometer mechanisms across days, people, and nations. Journal of Personality and Social Psychology, 95, 181-196. doi:10.1037/0022-3514.95.1.181
+Diener, E., & Diener, M. (1995). Cross-cultural correlates of life satisfaction and self-esteem. Journal of Personality and Social Psychology, 68, 653- 663. doi:10.1037/0022-3514.68.4.653
+Donnellan, M. B., Conger, R. D., & Burzette, R. G. (2007). Personality development from late adolescence to young adulthood: Differential stability, normative maturity, and evidence for the maturity-stability hypothesis. Journal of Personality, 75, 237-264. doi:10.1111/j.14676494.2007.00438.x
+Donnellan, M. B., Kenny, D. A., Trzesniewski, K. H., Lucas, R. E., & Conger, R. D. (2012). Using trait-state models to evaluate the longitudinal consistency of global self-esteem from adolescence to adulthood. Journal of Research in Personality, 46, 634 - 645. doi:10.1016/j.jrp.2012 .07.005
+Erol, R. Y., & Orth, U. (2011). Self-esteem development from age 14 to 30 years: A longitudinal study. Journal of Personality and Social Psychology, 101, 607- 619.
+Ferrer, E., Hamagami, F., & McArdle, J. J. (2004). Modeling latent growth curves with incomplete data using different types of structural equation modelling and multilevel software. Structural Equation Modeling, 11, 452- 483. doi:10.1207/s15328007sem1103_8
+Fleming, J. S., & Courtney, B. E. (1984). The dimensionality of selfesteem: II. Hierarchical facet model for revised measurement scales. Journal of Personality and Social Psychology, 46, 404 - 421. doi: 10.1037/0022-3514.46.2.404
+Fraley, R. C., & Roberts, B. W. (2005). Patterns of continuity: A dynamic model for conceptualizing the stability of individual differences in psychological constructs across the life course. Psychological Review, 112, 60 -74. doi:10.1037/0033-295X.112.1.60
+Furnham, A. F., & Bochner, S. (1982). Social difficulty in a foreign culture: An empirical analysis of culture shock. In S. Bochner (Ed.), Cultures in contact: Studies in cross-cultural interactions (pp. 161-198). Oxford, England: Pergamon. Retrieved from http://discovery.ucl.ac.uk/ 1385602/
+Greenberg, J., Solomon, S., Pyszczynski, T., Rosenblatt, A., Burling, J., Lyon, D., . . . Pinel, E. (1992). Why do people need self-esteem? Converging evidence that self-esteem serves an anxiety-buffering function. Journal of Personality and Social Psychology, 63, 913-922. doi: 10.1037/0022-3514.63.6.913
+Hall, G. S. (1904). Adolescence: Its psychology and its relations to physiology, anthropology, sociology, sex, crime, religion, and education. New York, NY: Cambridge University Press.
+Heatherton, T. F., & Polivy, J. (1991). Development and validation of a scale for measuring state self-esteem. Journal of Personality and Social Psychology, 60, 895-910. doi:10.1037/0022-3514.60.6.895
+Helson, R., & Wink, P. (1992). Personality change in women from the early 40s to the early 50s. Psychology and Aging, 7, 46 -55. doi:10.1037/ 0882-7974.7.1.46
+
+PROCESSES OF SELF-ESTEEM DEVELOPMENT
+
+781
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Hirsch, B. J. (1991). Self-esteem in early adolescence: The identification and prediction of contrasting longitudinal trajectories. Journal of Youth and Adolescence, 20, 53-72. doi:10.1007/BF01537351
+Hutteman, R., Bleidorn, W., Kereste, G., Brkovic, I., Butkovic, A., & Denissen, J. J. A. (2014). Reciprocal associations between parenting challenges and parents' personality development in young and middle adulthood. European Journal of Personality, 28, 168 -179. doi:10.1002/per.1932
+Hutteman, R., Hennecke, M., Orth, U., Reitz, A. K., & Specht, J. (2014). How developmental tasks shape personality development across adulthood and old age. European Journal of Personality, 28, 267-278. doi:10.1002/per.1959
+James, W. (1890). The principles of psychology. Cambridge, England: Harvard University Press. doi:10.1037/11059-000
+Jokela, M., Kivimaki, M., Elovainio, M., & Keltikangas-Jarvinen, L. (2009). Personality and having children: A two-way relationship. Journal of Personality and Social Psychology, 96, 218 -230. doi:10.1037/a0014058
+Kinnunen, M.-L., Feldt, T., Kinnunen, U., & Pulkkinen, L. (2008). Selfesteem: An antecedent or a consequence of social support and psychosomatic symptoms? Cross-lagged associations in adulthood. Journal of Research in Personality, 42, 333-347. doi:10.1016/j.jrp.2007.06.004
+Leary, M. R. (2003). Commentary on self-esteem as an interpersonal monitor: The sociometer hypothesis (1995). Psychological Inquiry, 14, 270 -274. doi:10.1080/1047840X.2003.9682891
+Leary, M. R., & Baumeister, R. F. (2000). The nature and function of self-esteem: Sociometer theory. In M. P. Zanna (Ed.), Advances in experimental social psychology (Vol. 32, pp. 1- 62). San Diego, CA: Academic Press.
+Leary, M. R., Haupt, A. L., Strausser, K. S., & Chokel, J. T. (1998). Calibrating the sociometer: The relationship between interpersonal appraisals and the state self-esteem. Journal of Personality and Social Psychology, 74, 1290 -1299. doi:10.1037/0022-3514.74.5.1290
+Leary, M. R., Tambor, E. S., Terdal, S. K., & Downs, D. L. (1995). Self-esteem as an interpersonal monitor: The sociometer hypothesis. Journal of Personality and Social Psychology, 68, 518 -530. doi: 10.1037/0022-3514.68.3.518
+Lehnart, J., Neyer, F. J., & Eccles, J. (2010). Long-term effects of social investment: The case of partnering in young adulthood. Journal of Personality, 78, 639 - 670. doi:10.1111/j.1467-6494.2010.00629.x
+Lewin, K. (1939). Field theory and experiment in social psychology: Concepts and methods. American Journal of Sociology, 44, 868 - 896. doi:10.1086/218177
+Little, R. J. A. (1988). A test of missing completely at random for multivariate data with missing values. Journal of the American Statistical Association, 83, 1198 -1202. doi:10.1080/01621459.1988 .10478722
+Little, T. D., Cunningham, W. A., Shahar, G., & Widaman, K. F. (2002). To parcel or not to parcel: Exploring the question, weighing the merits. Structural Equation Modeling, 9, 151-173. doi:10.1207/ S15328007SEM0902_1
+Lubbers, M. J., Molina, J. L., Lerner, J., Brandes, U., Avila, J., & McCarty, C. (2010). Longitudinal analysis of personal networks: The case of Argentinean migrants in Spain. Social Networks, 32, 91-104. doi: 10.1016/j.socnet.2009.05.001
+Ludtke, O., Roberts, B. W., Trautwein, U., & Nagy, G. (2011). A random walk down university avenue: Life paths, life events, and personality trait change at the transition to university life. Journal of Personality and Social Psychology, 101, 620 - 637. doi:10.1037/a0023743
+Magnusson, D. (1999). Holistic interactionism: A perspective for research on personality development. In L. Pervin & O. P. John (Eds.), Handbook of personality: Theory and research (pp. 219 -247). New York, NY: Guilford Press.
+Marsh, H. W., Hau, K.-T., & Grayson, D. (2005). Goodness of fit evaluation
+
+in structural equation modeling. In A. Maydeu-Olivares & J. J. McArdle (Eds.), Contemporary psychometrics: A Festschrift to Roderick P. McDonald (pp. 275-340). Mahwah, NJ: Erlbaum. Marshall, S. L., Parker, P. D., Ciarrochi, J., & Heaven, P. C. L. (2014). Is self-esteem a cause or consequence of social support? A 4-year longitudinal study. Child Development, 85, 1275-1291. doi:10.1111/cdev.12176 McArdle, J. J., & Bell, R. Q. (2000). An introduction to latent growth models for developmental data analysis. In T. D. Little, K. U. Schnabel, & J. Baumert (Eds.), Modeling longitudinal and multilevel data: Practical issues, applied approaches, and specific examples (pp. 69-107). Mahwah, NJ: Erlbaum. Mehta, P. D., & West, S. G. (2000). Putting the individual back into individual growth curves. Psychological Methods, 5, 23- 43. doi: 10.1037/1082-989X.5.1.23 Meier, L. L., Orth, U., Denissen, J. J. A., & Kuhnel, A. (2011). Age differences in instability, contingency, and level of self-esteem across the life span. Journal of Research in Personality, 45, 604 - 612. doi: 10.1016/j.jrp.2011.08.008 Meredith, W. (1993). Measurement invariance, factor analysis and factorial invariance. Psychometrika, 58, 525-543. doi:10.1007/BF02294825 Murray, S. L., Griffin, D. W., Rose, P., & Bellavia, G. M. (2003). Calibrating the sociometer: The relational contingencies of self-esteem. Journal of Personality and Social Psychology, 85, 63- 84. doi:10.1037/ 0022-3514.85.1.63 Murray, S. L., Holmes, J. G., & Griffin, D. W. (2000). Self-esteem and the quest for felt security: How perceived regard regulates attachment processes. Journal of Personality and Social Psychology, 78, 478 - 498. doi:10.1037/0022-3514.78.3.478 Muthen, L. K., & Muthen, B. O. (1998). Mplus user's guide (6th ed.). Los Angeles, CA: Muthen & Muthen. Neyer, F. J., & Asendorpf, J. B. (2001). Personality-relationship transaction in young adulthood. Journal of Personality and Social Psychology, 81, 1190 -1204. doi:10.1037/0022-3514.81.6.1190 Neyer, F. J., & Lehnart, J. (2007). Relationships matter in personality development: Evidence from an 8-year longitudinal study across young adulthood. Journal of Personality, 75, 535-568. doi:10.1111/j.14676494.2007.00448.x Neyer, F. J., Mund, M., Zimmermann, J., & Wrzus, C. (in press). Personality-relationship transactions revisited. Journal of Personality. doi:10.1111/jopy.12063 Oishi, S. (2010). The psychology of residential mobility implications for the self, social relationships, and well-being. Perspectives on Psychological Science, 5, 5-21. doi:10.1177/1745691609356781 Oishi, S., & Graham, J. (2010). Social ecology lost and found in psychological science. Perspectives on Psychological Science, 5, 356 -377. doi:10.1177/1745691610374588 Oishi, S., & Talhelm, T. (2012). Residential mobility: What psychological research reveals. Current Directions in Psychological Science, 21, 425- 430. doi:10.1177/0963721412460675 O'Malley, P. M., & Bachman, J. G. (1983). Self-esteem: Change and stability between ages 13 and 23. Developmental Psychology, 19, 257- 268. doi:10.1037/0012-1649.19.2.257 Orth, U., Robins, R. W., & Widaman, K. F. (2012). Life-span development of self-esteem and its effects on important life outcomes. Journal of Personality and Social Psychology, 102, 1271-1288. doi:10.1037/ a0025558 Orth, U., Robins, R. W., Widaman, K. F., & Conger, R. D. (2014). Is low self-esteem a risk factor for depression? Findings from a longitudinal study of Mexican-origin youth. Developmental Psychology, 50, 622- 633. doi:10.1037/a0033817 Orth, U., Trzesniewski, K. H., & Robins, R. W. (2010). Self-esteem development from young adulthood to old age: A cohort-sequential longitudinal study. Journal of Personality and Social Psychology, 98, 645- 658. doi:10.1037/a0018769
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+782 HUTTEMAN, NESTLER, WAGNER, EGLOFF, AND BACK
+
+R Core Team. (2013). R: A language and environment for statistical computing. Vienna, Austria: R Foundation for Statistical Computing.
+Roberts, B. W., Caspi, A., & Moffitt, T. E. (2001). The kids are alright: Growth and stability in personality development from adolescence to adulthood. Journal of Personality and Social Psychology, 81, 670 - 683. doi:10.1037/0022-3514.81.4.670
+Roberts, B. W., Caspi, A., & Moffitt, T. E. (2003). Work experiences and personality development in young adulthood. Journal of Personality and Social Psychology, 84, 582-593. doi:10.1037/0022-3514.84.3.582
+Roberts, B. W., & DelVecchio, W. F. (2000). The rank-order consistency of personality traits from childhood to old age: A quantitative review of longitudinal studies. Psychological Bulletin, 126, 3-25. doi:10.1037/ 0033-2909.126.1.3
+Roberts, B. W., & Jackson, J. J. (2008). Sociogenomic personality psychology. Journal of Personality, 76, 1523-1544. doi:10.1111/j.14676494.2008.00530.x
+Roberts, B. W., Walton, K. E., & Viechtbauer, W. (2006). Patterns of mean-level change in personality traits across the life course: A metaanalysis of longitudinal studies. Psychological Bulletin, 132, 1-25. doi: 10.1037/0033-2909.132.1.1
+Roberts, B. W., & Wood, D. (2006). Personality development in the context of the neo-socioanalytic model of personality. In D. K. Mroczek & T. D. Little (Eds.), Handbook of personality development (pp. 11-39). Mahwah, NJ: Erlbaum.
+Roberts, R. E. L., & Bengtson, V. L. (1996). Affective ties to parents in early adulthood and self-esteem across 20 years. Social Psychology Quarterly, 59, 96 -106. doi:10.2307/2787121
+Robins, R. W., & Trzesniewski, K. H. (2005). Self-esteem development across the lifespan. Current Directions in Psychological Science, 14, 158 -162. doi:10.1111/j.0963-7214.2005.00353.x
+Robins, R. W., Trzesniewski, K. H., Tracy, J. L., Gosling, S. D., & Potter, J. (2002). Global self-esteem across the life span. Psychology and Aging, 17, 423- 434. doi:10.1037/0882-7974.17.3.423
+Rudolph, A., Schutz, A., & Schroder-Abe, M. (2008). Validation of a German version of the State Self-Esteem Scale. International Journal of Psychology, 43, 117.
+Sameroff, A. J. (1983). Developmental systems: Contexts and evolution. In W. Kesse (Ed.), Handbook of child psychology: Vol. 1. History, theory, and methods (Vol. 1, pp. 237-294). New York, NY: Wiley.
+Scheier, L. M., Botvin, G. J., Griffin, K. W., & Diaz, T. (2000). Dynamic growth models of self-esteem and adolescent alcohol use. Journal of Early Adolescence, 20, 178 -209. doi:10.1177/0272431600020002004
+Schutz, A., & Sellin, I. (2006). Die multidimensionale Selbstwertskala (MSWS) [The multidimensional self-esteem scale]. Gottingen, Germany: Hogrefe.
+Shaw, B. A., Liang, J., & Krause, N. (2010). Age and race differences in the trajectories of self-esteem. Psychology and Aging, 25, 84 -94. doi: 10.1037/a0018242
+Specht, J., Egloff, B., & Schmukle, S. C. (2011). Stability and change of personality across the life course: The impact of age and major life events on mean-level and rank-order stability of the Big Five. Journal of Personality and Social Psychology, 101, 862- 882. doi:10.1037/ a0024950
+Srivastava, S., & Beer, J. S. (2005). How self-evaluations relate to being liked by others: Integrating sociometer and attachment perspectives. Journal of Personality and Social Psychology, 89, 966 -977. doi: 10.1037/0022-3514.89.6.966
+
+Stinson, D. A., Logel, C., Zanna, M. P., Holmes, J. G., Cameron, J. J., Wood, J. V., & Spencer, S. J. (2008). The cost of lower self-esteem: Testing a self- and social-bonds model of health. Journal of Personality and Social Psychology, 94, 412- 428. doi:10.1037/0022-3514.94.3.412
+Swann, W. B., Chang-Schneider, C., & Larsen McClarty, K. (2007). Do people's self-views matter? Self-concept and self-esteem in everyday life. American Psychologist, 62, 84 -94. doi:10.1037/0003-066X.62.2.84
+Tafarodi, R. W., & Swann, W. B. (1996). Individualism-collectivism and global self-esteem: Evidence for a cultural trade-off. Journal of CrossCultural Psychology, 27, 651- 672. doi:10.1177/0022022196276001
+Thomaes, S., Reijntjes, A., Orobio de Castro, B., Bushman, B. J., Poorthuis, A., & Telch, M. J. (2010). I like me if you like me: On the interpersonal modulation and regulation of preadolescents' state selfesteem. Child Development, 81, 811- 825. doi:10.1111/j.1467-8624 .2010.01435.x
+Trzesniewski, K. H., Donnellan, M. B., Moffitt, T. E., Robins, R. W., Poulton, R., & Caspi, A. (2006). Low self-esteem during adolescence predicts poor health, criminal behavior, and limited economic prospects during adulthood. Developmental Psychology, 42, 381-390. doi: 10.1037/0012-1649.42.2.381
+Trzesniewski, K. H., Donnellan, M. B., & Robins, R. W. (2003). Stability of self-esteem across the life span. Journal of Personality and Social Psychology, 84, 205-220. doi:10.1037/0022-3514.84.1.205
+Wagner, J., Gerstorf, D., Hoppmann, C., & Luszcz, M. A. (2013). The nature and correlates of self-esteem trajectories in late life. Journal of Personality and Social Psychology, 105, 139 -153. doi:10.1037/ a0032279
+Wagner, J., Ludtke, O., Jonkmann, K., & Trautwein, U. (2013). Cherish yourself: Longitudinal patterns and conditions of self-esteem change in the transition to young adulthood. Journal of Personality and Social Psychology, 104, 148 -163. doi:10.1037/a0029680
+Ward, C., & Kennedy, A. (1993). Where's the "culture" in crosscultural transition? Comparative studies of sojourner adjustment. Journal of Cross-Cultural Psychology, 24, 221-249. doi:10.1177/ 0022022193242006
+Ward, C., Leong, C.-H., & Low, M. (2004). Personality and sojourner adjustment: An exploration of the Big Five and the cultural fit proposition. Journal of Cross-Cultural Psychology, 35, 137-151. doi:10.1177/ 0022022103260719
+Ying, Y.-W. (2002). The effect of cross-cultural living on personality: Assimilation and accommodation among Taiwanese young adults in the United States. American Journal of Orthopsychiatry, 72, 362-371. doi: 10.1037/0002-9432.72.3.362
+Yuki, M., Sato, K., Takemura, K., & Oishi, S. (2013). Social ecology moderates the association between self-esteem and happiness. Journal of Experimental Social Psychology, 49, 741-746. doi:10.1016/j.jesp.2013 .02.006
+Zimmerman, M. A., Copeland, L. A., Shope, J. T., & Dielman, T. E. (1997). A longitudinal study of self-esteem: Implications for adolescent development. Journal of Youth and Adolescence, 26, 117-141. doi: 10.1023/A:1024596313925
+Zimmermann, J., & Neyer, F. J. (2013). Do we become a different person when hitting the road? Personality development of sojourners. Journal of Personality and Social Psychology, 105, 515-530. doi:10.1037/ a0033019
+
+(Appendix follows)
+
+PROCESSES OF SELF-ESTEEM DEVELOPMENT
+Appendix Model Fits of Trait and State Models Testing for Strict Factorial Invariance
+
+783
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Variable
+
+Model
+
+2 df p CFI RMSEA
+
+Trait SE T1-T2 (across both groups)
+
+Unconstrained
+
+5.88 5 .31 .999
+
+Weak invariance
+
+5.96 7 .54 .999
+
+Strong invariance 8.74 9 .46 .999
+
+Strict invariance
+
+25.49
+
+12
+
+.01 .998
+
+Trait SE T1-T2 (multiple groups)
+
+Unconstrained
+
+8.52 10
+
+.58 .999
+
+Weak invariance
+
+11.70
+
+16
+
+.76 .999
+
+Strong invariance
+
+25.18
+
+22
+
+.28 .999
+
+Strict invariance
+
+51.17
+
+31 .01 .997
+
+Trait SE T1-T3
+
+Unconstrained
+
+11.73
+
+15
+
+.69 .999
+
+Weak invariance
+
+14.29
+
+19
+
+.77 .999
+
+Strong invariance
+
+17.85
+
+23
+
+.76 .999
+
+Strict invariance
+
+48.63
+
+29
+
+.01 .995
+
+State SE S1-S9
+
+Unconstrained
+
+211.57
+
+180
+
+.05 .997
+
+Weak invariance
+
+239.05
+
+196
+
+.02 .996
+
+Strong invariance
+
+247.47
+
+212
+
+.05 .997
+
+Strict invariance
+
+278.11
+
+236
+
+.03 .996
+
+State SI S1-S9
+
+Unconstrained
+
+249.53 180 .01 .993
+
+Weak invariance
+
+278.40 196 .01 .991
+
+Strong invariance 342.01 212 .01 .986
+
+Strict invariance
+
+416.97 236 .01 .981
+
+State MEC S1-S9
+
+Unconstrained
+
+238.78 180 .01 .991
+
+Weak invariance
+
+254.67 196 .01 .991
+
+Strong invariance 346.80 212 .01 .978
+
+Strict invariance
+
+413.34 236 .01 .972
+
+State LP S1-S9
+
+Unconstrained
+
+278.47 180 .01 .987
+
+Weak invariance
+
+313.98 196 .01 .984
+
+Strong invariance 364.03 212 .01 .980
+
+Strict invariance
+
+624.14 236 .01 .948
+
+.011 .001 .001 .027 .001 .001 .013 .029 .001 .001 .001 .028 .017 .019 .016 .017 .025 .026 .031 .035 .023 .022 .032 .034 .029 .031 .033 .051
+
+Note. CFI  comparative fit index; RMSEA  root-mean-square error of approximation; Trait SE T1-T2 (across both groups) refers to the measurement model for trait self-esteem in the exchange and control group from Time 1 (T1) to Time 2 (T2); Trait SE T1-T2 (multiple groups) refers to the measurement model for trait self-esteem in which the exchange group is compared with the control group from T1 to T2; Trait SE T1-T3 refers to the measurement model for trait self-esteem in the exchange group from T1 to Time 3; State SE S1-S9 refers to the measurement model for state self-esteem in the exchange group from S1 to S9; State SI S1-S9 refers to the measurement model for social inclusion in the exchange group from S1 to S9; State MEC S1-S9 refers to the measurement model for mastery of exchange challenges in the exchange group from S1 to S9; State LP S1-S9 refers to the measurement model for language proficiency in the exchange group from S1 to S9.
+
+Received December 13, 2013 Revision received June 16, 2014
+Accepted June 29, 2014 
+
+

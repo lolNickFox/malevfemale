@@ -1,0 +1,775 @@
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Journal of Personality and Social Psychology 2015, Vol. 108, No. 5, 802- 822
+
+(c) 2014 American Psychological Association 0022-3514/15/$12.00 http://dx.doi.org/10.1037/pspp0000019
+
+Multiple Numeric Competencies: When a Number Is Not Just a Number
+
+Ellen Peters
+The Ohio State University
+
+Par Bjalkebring
+Goteborg University and The Ohio State University
+
+A growing body of evidence demonstrates the practical and theoretical importance of numeracy in evaluations and choices involving numeric information, an importance that goes beyond simple accuracy in performing mathematical computations. Numeric competency, however, may be multiply determined, but little research has examined potentially separable influences in evaluations and choice. In the present article, we describe 3 numeric competencies and begin to disentangle their effects. Participants (N  111) completed a series of tasks in 4 1-hr sessions. We first examined relations between objective numeracy, subjective numeracy, and symbolic-number mapping abilities (thought to tap into internal representations of numeric magnitude and the mapping of symbolic numbers onto those representations) using a structural equation model. We then explored their dissociations in numeric and nonnumeric tasks. Higher vs. lower scores in objective numeracy were associated with explicit number operations, including number comparisons and calculations. Those with more vs. less exact mapping had better numeric memory (but not nonnumeric) and produced valuations that were closer to (but did not equal) a risky gamble's expected value, indicating a link with superior number intuitions. Finally, individuals lower vs. higher in subjective numeracy had more negative emotional reactions to numbers and were less motivated and/or confident in numeric tasks. It was less clear whether subjective numeracy might also relate to more general motivations and metacognitions involving nonnumeric information. We conclude that numeric competencies should be used in a more targeted fashion to understand their multiple mechanisms in people's evaluations, choices, and life outcomes.
+Keywords: numeracy, evaluation, judgment and decision making
+Supplemental materials: http://dx.doi.org/10.1037/pspp0000019.supp
+
+Although he may not always recognize his bondage, modern man lives under a tyranny of numbers (Eberstadt, 1995, p. 1).
+Jeff is a friend of one of the authors and a highly skilled carpenter who claims he is "no good at math." He excels, however, at estimating the angles, lengths, and areas that are critical to his craft. Ruth, a smart and personable woman in her 70s, broke down crying while attempting to answer questions about numeric data in a Medicare insurance choice experiment. She explained through tears that she was "not a numbers person" and that her husband
+This article was published Online First October 6, 2014. Ellen Peters, Psychology Department, The Ohio State University; Par Bjalkebring, Psychology Department, Goteborg University, and Psychology Department, The Ohio State University. This study was supported by National Science Foundation Grants SES1047757 and SES-1155924. Portions of this article were presented at the Center for Adaptive Rationality in the Max Planck Institute for Human Development, the 2013 annual conferences for Subjective Probability Utility and Decision Making and the Society for Judgment and Decision Making, and the BLEND workshop on individual differences at University of Notre Dame Law School in London. Many thanks to Alan Castel, Dana Chesney, Marieke de Vries, Catalina Estrada Mejia, Marcus Mayorga, Dan Schley, and Martin Tusler for providing comments and/or assistance on this manuscript. Correspondence concerning this article should be addressed to Ellen Peters, Psychology Department, The Ohio State University, 132 Lazenby Hall, 1827 Neil Avenue, Columbus, OH 43210. E-mail: peters.498@ osu.edu
+
+always did such tasks for them until his death 2 years prior. Numbers were fraught with emotion for her. Individuals like Jeff and Ruth are common. Although students often ask why they should learn math and whether it will ever be useful, Jeff and Ruth provide examples of the importance of everyday math, belief in one's numeric ability, and (in Jeff's case) how compensatory numeric skills might exist.
+Making good choices in life often involves understanding and using numeric information (Hibbard, Peters, Slovic, Finucane, & Tusler, 2001; Thaler & Sunstein, 2003; Woloshin, Schwarz, & Welch, 2004). Choosing the best health insurance involves calculating likely annual costs from monthly premiums, deductibles, and office and pharmacy copayments. Making an informed decision about a medical treatment or screening option requires understanding risk and benefit information (including their probabilistic nature). Such numeric data are provided to facilitate informed choices, but numbers can be confusing and difficult for even the most motivated and skilled individuals, and these issues are exacerbated among the less numerate. In the present article, we explore the value of explicitly considering multiple measures of numeric competence-- objective numeracy, subjective numeracy, and the mapping of symbolic numbers. We review their likely interrelations, test their possible dissociable roles in evaluations and decision processes, and consider future directions in personality and social-psychological processes.
+To begin, measures of numeracy can be considered facets of personality and specifically of the Openness/Intellect factor. Al-
+
+802
+
+MULTIPLE NUMERIC COMPETENCIES
+
+803
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+though intelligence (including numeric intelligence) and other cognitive variables are not typically thought of as within the bounds of personality, some early personality theorists considered intelligence integral to personality (e.g., Cattell, 1950; Damarin & Cattell, 1968). More recent researchers have argued similarly that personality is a broad construct that includes intelligence (DeYoung, 2011; DeYoung, Quilty, Peterson, & Gray, 2014). The Openness/Intellect factor, in particular, has consistently demonstrated positive correlations with general intelligence (r  .30), with Intellect having stronger correlations with general intelligence than does Openness (DeYoung, 2011; Zillig, Hemenover, & Dienstbier, 2002). In the present article, we control for measures of general intelligence and specifically consider number-related intelligence. We examine self-perceptions of it ("How good are you at working with fractions?"; Fagerlin, Zikmund-Fisher, et al., 2007, similar to perceived intelligence items of the Intellect facet; e.g., "I am quick to understand things"; DeYoung, Quilty, & Peterson, 2007) as well as two measures of numeric intelligence (similar to other intelligence tests in that they have right and wrong answers). We then relate the measures to each other and to evaluation and choice processes to assess their potentially separable influences. Because perceived and actual intelligence are more strongly associated within specific abilities such as numeracy than within more general intelligence (DeYoung, 2011), it is unclear whether such separate influences will emerge.
+Objective Numeracy
+Recent research suggests that people differ substantially in objective numeracy (defined as the ability to understand and use probabilistic and mathematical concepts and measured with a math test generally focused on probabilistic reasoning; Peters, 2012; Reyna, Nelson, Han, & Dieckmann, 2009). In fact, the abilities of some people are so low that they could be considered objectively innumerate with numbers, similar to being illiterate with words. For example, results from the National Assessment of Adult Literacy indicated that about half of Americans lack the minimal skills necessary to use numbers embedded in common printed materials (e.g., only 60% of this nationally representative sample could figure out the correct time to take a missed medicine given instructions; Kutner et al., 2007). In a recent sample, the average American scored only 64.5% correct on a simple objective numeracy exam (Galesic & Garcia-Retamero, 2010). Even for the easiest question ("If the chance of getting a disease is 10%, how many people would be expected to get the disease out of 1000?"), 17% answered incorrectly. For the most difficult item ("In the Daily Times Sweepstakes, the chance of winning a car is 1 in 1000. What percentage of tickets for the Daily Times Sweepstakes win a car?"), only 24% of participants answered correctly. Wide disparities in objective numeracy also existed such that higher scores existed for men versus women, younger versus older adults, more versus less educated adults, and higher versus lower income adults (independent effects existed for gender, education, and income). Although objective numeracy is correlated with education, it is not synonymous with it; even highly educated individuals can be innumerate (e.g., Lipkus, Samsa, & Rimer, 2001). Objective numeracy differences appear important, with less numerate individuals having worse health and less wealth (Bynner & Parson, 2009; Peters, Meilleur, & Tompkins, 2013; Reyna et al., 2009;
+
+Smith, McArdle, & Willis, 2010). On a societal level, Callaway (2013) estimated that numeracy issues cost the United Kingdom 2.4 billion (about U.S. $4 billion) per year in lost productivity.
+Objective numeracy is considered part of general intelligence. However, numeric and nonnumeric intelligence appear separable. Numeric knowledge, for example, can be destroyed by inferiorparietal lesions, without impairing nonnumerical knowledge (Dehaene, 1997). Results from decision-making studies also demonstrate that objective numeracy retains independent predictive power in decisions such as risky choices and intertemporal preferences and of health and financial behaviors after controlling for nonnumeric measures of general intelligence (Benjamin, Brown, & Shapiro, 2013; Brooks & Pui, 2010; Dieckmann et al., in press; Frederick, 2005; Peters et al., 2006; J. P. Smith, McArdle, & Willis, 2010). The current perspective explores the value of explicitly considering objective numeracy as but one of several number-related competencies.
+Subjective Numeracy
+Subjective numeracy scales have been proposed as proxies for objective numeracy, and their use has some advantages for researchers. Compared with objective tests, subjective scales take less time and are easier and less stressful for participants to complete. Instead of asking participants to calculate an objective numeric response, participants provide subjective ratings of perceived abilities and preferences with numbers (e.g., "How good are you at figuring out how much a shirt will cost if it's 25% off?"; Fagerlin et al., 2007). Subjective and objective numeracy measures predict similar numeric comprehension in tasks, suggesting that a subjective measure can be a good proxy (Zikmund-Fisher, Smith, Ubel, & Fagerlin, 2007).
+However, people do not always assess their own abilities accurately (Dunning, Heath, & Suls, 2004), and some research has revealed that subjective measures are not good diagnostic indicators of objective numeracy (e.g., Liberali, Reyna, Furlan, Stein, & Pardo, 2012; Nelson, Moser, & Han, 2013). This finding is consistent across many domains in which objective and subjective measures of ability can be assessed (Elam et al., 1991; Rich, Bommer, MacKenzie, Podsakoff, & Johnson, 1999). In fact, in one study, "although 70% of individuals considered themselves `good with numbers', only 2% answered all three . . . objective numeracy questions correctly" (Miron-Shatz, Hanoch, Doniger, Omer, & Ozanne, 2014, p. 155). Nonetheless, numeracy researchers sometimes replace objective measures with subjective ones, combine objective and subjective measures into a single scale, or treat them as interchangeable in analyses (e.g., Fraenkel, Cunningham, & Peters, in press; Hanoch, Miron-Shatz, Rolison, & Ozanne, 2014; Hess, Visschers, & Siegrist, 2011; Rolison, Wood, Hanoch, & Liu, 2013; Schley & Fujita, 2014; Tait, Voepel-Lewis, ZikmundFisher, & Fagerlin, 2010; Winman, Juslin, Lindskog, Nilsson, & Kerimi, 2014; Zikmund-Fisher et al., 2007; Zikmund-Fisher et al., 2008).
+Subjective numeracy more than objective numeracy, however, may reflect other measures commonly related to math performance. For example, Betz (1978) found that math anxiety was more likely to occur among college students with inadequate high school math backgrounds and among those who were female versus male. Similar to the relations between subjective and ob-
+
+804 PETERS AND BJALKEBRING
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+jective numeracy, higher levels of math anxiety were related to lower mathematics achievement test scores. Meece, Wigfield, and Eccles (1990) found that math anxiety had indirect influences on math grades (through performance expectancies) and on math course enrollment intentions (through value perceptions). If true, then subjective numeracy is likely formed from a mix of actual ability, emotional and motivational considerations about numbers, and confidence in their use (Kingston & Lyddy, 2013). Research has demonstrated that subjective and objective numeracy are not identical (just as Intellect and general intelligence are not identical). However, little research has systematically examined their potentially separable effects in numeric and nonnumeric tasks, and particularly with respect to number-related emotions, motivations, and confidence, one focus of the present article.
+Approximate Numeracy: Mapping of Symbolic Numbers to Magnitudes
+Considerable research in numeric cognition has demonstrated that numeric magnitudes are processed in a manner similar to other physical magnitudes in laboratory animals (e.g., pigeons, chimpanzees) and humans (i.e., perceptions of numbers adhere to psychophysical laws) (Dehaene, Izard, Spelke, & Pica, 2008; Feigenson, Dehaene, & Spelke, 2004; Halberda & Feigenson, 2008; Nieder, Freedman, & Miller, 2002; Piazza, Pica, Izard, Spelke, & Dehaene, 2013; Siegler & Opfer, 2003; Whalen, Gallistel, & Gelman, 1999). Individuals perceive numeric magnitude inexactly; they show an effect of distance and are better able to discriminate far-apart values (5 vs. 9) than close-together values (5 vs. 6) (Moyer & Landauer, 1967). They also show an effect of size such that how easily people distinguish magnitudes at the same numerical distance (e.g., 5 vs. 15, 90 vs. 100) decreases curvilinearly as magnitudes increase (Parkman, 1971). These discriminability effects are thought to arise from inexactness in numerical magnitude representations (Kaufman, Lord, Reese, & Volkmann, 1949; Meck & Church, 1983; Moyer & Landauer, 1967) and related inexactness in the mapping of symbolic numbers to numerical magnitude representations (Chesney & Matthews, 2013; Izard & Dehaene, 2008; Rips, 2013; Siegler & Opfer, 2003).
+Whereas subjective numeracy is likely an imperfect proxy of objective numeracy abilities, being better able to discriminate numeric magnitudes (having a more exact approximate sense of numerical magnitudes) appears to be a precursor to objective numeracy, necessary for math skills to emerge in childhood (Halberda, Mazzocco, & Feigenson, 2008; Libertus, Feigenson, & Halberda, 2011). Children with more exact representations show better math ability compared with children with less exact representations (e.g., Halberda et al., 2008). In fact, greater exactness has been linked to improved mathematics learning in correlational, prospective, and (for the mapping of symbolic numbers) experimental studies (Booth & Siegler, 2008; De Smedt, Verschaffel, & Ghesquiere, 2009; Fazio, Bailey, Thompson, & Siegler, in press; Siegler & Opfer, 2003). Consistent with Jeff the skilled carpenter who insists that he is no good at math but who excels at carpentryrelated angles and areas, recent research has demonstrated that having more exact magnitude representations was associated with better informal math in children (e.g., counting) but not better formal math (knowledge of math facts; Libertus et al., 2011). These findings suggest that separate numeric competencies within
+
+the same person predict success in different numeric tasks. They are also consistent with our hypotheses that different numeric competencies exist and may have separable effects in evaluations, choices, and related tasks.
+Numeric Competencies Across the Adult Life Span
+Recent personality research indicates systematic changes in Big Five personality traits across the adult life span (e.g., McCrae et al., 1999; Soto, John, Gosling, & Potter, 2011). Of particular relevance to the present article, Openness/Intellect appears highest among adolescents and declines across the adult life span into older adulthood (McCrae, Martin, & Costa, 2005). In similar fashion, objective and subjective numeracy decline across the adult life span (Bruine de Bruin, McNair, Taylor, Summers, & Strough, in press; Peters, Hess, Vastfjall, & Auman, 2007; Reyna et al., 2009; Rolison et al., 2013; S. G. Smith, Wolf, & von Wagner, 2010). These age declines may be due to age declines in motivation (need for cognition mediated age declines in objective numeracy; Bruine de Bruin et al., in press). Relative differences between people in objective numeracy, however, remain stable across the life span (Bynner & Parson, 2009).
+Whether adult age differences exist in the exactness of magnitude representations and/or the mapping of symbolic numbers to magnitudes is less clear. The ability to discriminate numeric magnitudes is present in human infants and develops with increasing age in childhood (e.g., Brannon, 2002; Halberda & Feigenson, 2008; Siegler & Opfer, 2003). Performance on measures that rely on nonsymbolic magnitude representations (of series of asterisks or arrays of dots, for example) then appear stable across the adult life span. Older adults are slower than younger adults, but this difference is likely due to age declines in processing speed (making speeded tasks more difficult) and an increasing aging-related emphasis on accuracy over speed rather than to perceiving magnitudes less exactly (Halberda, Ly, Wilmer, Naiman, & Germine, 2012; Peters, Slovic Vastfjall & Mertz, 2008; Ratcliff et al., 2010). No known research has examined adult age differences in the symbolic number-mapping measure used in this study.
+Approximate numeracy measures (symbolic and nonsymbolic) relate similarly to objective numeracy across the life span (Castronovo & Gobel, 2012; DeWind & Brannon, 2012; Halberda et al., 2008; Libertus, Feigenson, & Halberda, 2011; Peters et al., 2008; Schley & Peters, 2014). However, some studies using nonsymbolic measures have revealed little correlation with objective numeracy in adults (e.g., Castronovo & Gobel, 2012; Price, Palmer, Battista, & Ansari, 2012).
+Stability of Numeric Competencies Across Contexts
+Similar to the effects of other long-term environmental changes on personality (e.g., marriage decreases Openness/Intellect; Specht, Egloff, & Schmukle, 2011; see also Hutteman et al., 2014), formal and informal education improve objective numeracy (Nys, Ventura, Fernandes, Querido, & Leybaert, 2013; Peters, Baker, Dieckmann, Leon, & Collins, 2010), and especially in younger children (Heckman, 2007). Training on measures related to the approximate number system and the mapping of symbolic numbers have shown inconsistent effects. The symbolic distance effect (taking longer and making more errors when two symbolic mag-
+
+MULTIPLE NUMERIC COMPETENCIES
+
+805
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+nitudes are close together compared with farther apart) resists change (Dehaene, 1997; Poltrock, 1989). However, adults' nonsymbolic number system can be trained (training did not improve objective numeracy, however, unless mental arithmetic using nonsymbolic magnitudes was trained; Park & Brannon, 2014). Training on the mapping of symbolic numbers improved arithmetic in children (Booth & Siegler, 2008) but has not yet been tested in adults.
+Unlike current views of personality, context effects may influence two of the numeric competencies, although it is unclear how long the effects persist. Objective numeracy (when assessed with word problems but not abstract math problems) can be improved by manipulations of abstraction as a procedural mind-set (Schley & Fujita, 2014). In addition, membership in certain social groups is associated with worse objective numeracy (e.g., being female), but self-affirmation manipulations appear to improve scores (Martens, Johns, Greenberg, & Schimel, 2006; Nosek, Banaji, & Greenwald, 2002), whereas activating the female stereotype diminished scores (Fredrickson, Roberts, Noll, Quinn, & Twenge, 1998). Stereotype threat may activate negative emotions to math and/or lower subjective numeracy, which reduce objective numeracy in turn. Subjective numeracy scores also respond to context; scores decreased marginally when participants responded to a difficult math test before rather than after the subjective measure (Eklund, 2012). Individual differences in magnitude representations and the mapping of symbolic numbers onto them are not thought susceptible to context effects, although individual representations (e.g., of a "9") can be influenced briefly by number primes (e.g., Naccache & Dehaene, 2001).
+Relations Among the Numeric Competencies Measures of symbolic number mapping and objective numeracy have been moderately to highly correlated in past studies as have objective and subjective numeracy; correlations among all three measures have not been reported from the same sample prior to the present study. On the basis of past literature, we predicted the following relations (to be tested in a structural equation model):
+Hypothesis 1 (H1; illustrated in Figure 1): More exact symbolic-number mapping will be associated with greater objective numeracy, and greater objective abilities will relate to more positive math emotions and an improved subjective
+Figure 1. Hypothesized relations among numeric competencies.
+
+sense of one's abilities. More positive math emotions, in turn, will be associated with greater subjective numeracy. Gender differences will emerge, although it was unclear whether gender will relate to both objective and subjective numeracy or only to subjective abilities given prior math anxiety research. Finally, relations with objective numeracy will hold controlling for intelligence proxies.
+Dissociations Among Numeric Competencies
+We expect people to respond differently to the same number based on these individual differences, but little research has examined their potential dissociable roles. In addition, the few studies that have revealed separate effects have not offered explanations for them (e.g., Lag, Bauger, Lindberg, & Friborg, 2014; Liberali et al., 2012). The primary focus of the present article was on the psychological mechanisms underlying each competency. We first consider objective numeracy. Greater objective numeracy (compared with lower) has been associated with reduced susceptibility to framing effects (presumably due to those high in objective numeracy transforming information from one frame to the other), less influence of nonnumeric information, and greater sensitivity to numbers (this latter effect appears due to individuals higher in objective numeracy developing stronger, more precise number-related affect through a number comparison process; Peters et al., 2006; Petrova, van der Pligt, & Garcia-Retamero, 2014). This ability to draw number-related affect often aids decision making (Jasper, Bhattacharya, Levin, Jones, & Bossard, 2013), but can lead to number overuse and worse decisions (Kleber, Dickert, Peters, & Florack, 2013). Those lower in objective numeracy, however, generally perceive more risk and respond more to narrative and other nonnumeric information sources (e.g., Burns, Peters, & Slovic, 2012; Dieckmann, Slovic, & Peters, 2009). They report being less likely to want to share in medical decision making (Galesic & Garcia-Retamero, 2011b), and they remember numeric information less well (Galesic & Garcia-Retamero, 2011a). Better memory for numbers may be important because decision makers can use knowledge of recalled attributes to make more thoughtful and deliberate choices at a later time. In general, having greater objective numeracy has been associated with better decision making such as lower risk aversion, greater likelihood to delay reward to obtain a larger, later reward, and more expectedvalue-consistent choices among gambles (Cokely & Kelley, 2009; Frederick, 2005; Peters, 2012; Peters et al., 2006; Reyna et al., 2009; Weller et al., 2013).
+Overall, individuals higher in objective numeracy understand numbers and numerical principles better and appear more likely to apply those mechanics to solve problems compared with the less numerate. These number operations might be simple (e.g., counting, comparing numbers) or complex (e.g., calculating expected value). For example, Hess, Visschers, and Siegrist (2011) hypothesized and found that individuals higher versus lower in objective numeracy were more likely to conduct a simple number operation (counting) when processing information about a health risk presented in a pictograph. Subjective numeracy scores were not associated with counting.
+In another example, one group of participants rated the attractiveness of a no-loss gamble (7/36 chances to win $9; otherwise, win $0) on a 0 -20 scale; a second group rated a
+
+806 PETERS AND BJALKEBRING
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+similar gamble with a small loss (7/36 chances to win $9; otherwise lose 5) (Study 4; Peters et al., 2006). Processing in such a task could include complex number operations, such as calculating expected values, or simple ones, such as comparing the magnitude of $9 with that of the small loss. Expected-value calculations in this case yield little difference between the gambles ($1.75 and $1.71, respectively) and were not used by participants in between-subjects evaluations of similar gambles (Bateman, Dent, Peters, Slovic, & Starmer, 2007). Instead, consistent with numbers having little affective meaning in the absence of a comparison number (Peters et al., 2009), Bateman et al. found that participants lacked a precise feeling for how good $9 was in the no-loss condition and weighted it little in their judgments. Participants in the loss condition, however, seemed to compare the $9 with the 5 loss and, in doing so, derived more positive feelings to the $9, and weighted it more in the judgment, resulting in increased attractiveness ratings. Peters et al. (2006) hypothesized that those higher in objective numeracy would be more likely than the less numerate to do the relevant number operation and compare the $9 with the loss. They found that, with increasing objective numeracy scores, participants rated the objectively worse loss bet as more attractive than the no-loss bet. These and other results (e.g., in prosocial behaviors; Kleber et al., 2013) suggest that individuals with greater objective numeracy may perform even simple number operations more often than the less numerate and sometimes overuse numbers as a result.
+We used this bets task in the present article to examine whether the effects are due, as hypothesized, to objective numeracy rather than to another numeric competency. We also tested whether the more objectively numerate were more likely than the less numerate to use other more complex operations (i.e., expected-value calculations) when assessing risky options. Controlling for other numeric competencies and intelligence, we hypothesized that:
+Hypothesis 2 (H2): Having greater objective numeracy will be associated with performing more number operations, including being more likely to compare numbers and perform precise number calculations.
+Self-rated numeric ability, however, may have different influences than objective numeracy in numeric and nonnumeric tasks. We propose that subjective numeracy concerns a selfrepresentation of "me as a math person" or "not a math person" that has independent influences. McConnell (2011), for example, presented a multiple self-aspects framework in which activation spreads among related self-aspects to shape affective states and other evaluations. It implies that, when a numeric self-representation is activated, it should organize related (but not unrelated) ongoing experiences and direct actions. Both Jeff and Ruth, our exemplars from the beginning of the present article, would likely rate themselves as low in subjective numeracy. Spreading activation of subjective numeracy as a selfrepresentation should result in more negative emotional reactions and related motivations and behaviors in numeric tasks. Individuals who perceive themselves higher versus lower in numeracy should find numeric tasks more attractive and be more willing to respond to them; the same should not be true for
+
+nonnumeric tasks. Consistent with this reasoning, Miron-Shatz et al. (2014) found that subjective (but not objective) numeracy was associated with willingness to pay for direct-to-consumer genetic testing results. Although the authors thought the effects were due to some (unnamed) intuitive reaction, we suspect that subjective numeracy indirectly influenced the perceived value of highly numeric test results through negative emotional reactions and a lack of motivation to receive probabilistic information (see also Meece et al., 1990). It is unclear whether the same differences would emerge for test results that were not as numeric, but those higher in subjective (but not objective) numeracy also expressed greater preferences for providing and receiving numeric information rather than just words in health communications (Anderson, Obrecht, Chapman, Driscoll, & Schulkin, 2011; Couper & Singer, 2009). This preference could prove problematic if the subjectively numerate person was not objectively numerate enough to understand the numbers.
+In the present article, we examined emotional reactions to math, attractiveness ratings of a bet with and without a small loss, nonnumeric health ratings, and willingness to respond in a numeric memory task and a nonnumeric vocabulary task. We hypothesized that:
+Hypothesis 3 (H3): Higher compared with lower subjective numeracy will be associated with less number-related negative emotional and motivational considerations as well as greater confidence in numeric and nonnumeric tasks.
+Finally, being better able to distinguish numeric magnitudes and accurately map symbolic numbers onto numerical magnitude representations has been linked not only to improved objective numeracy but also to decision making (Peters et al., 2008). Schley and Peters (2014), for example, found that more exact mapping (compared with less exact mapping) was associated with more normative responses in riskless evaluations and risky choices; it also mediated objective numeracy's role in valuation. The methods of that article, however, did not allow for intelligence-proxy controls or an examination of precise valuation (where an exact calculation, such as expected value, could be performed) versus approximate valuation. We expected valuations associated with precise calculations to be associated with objective numeracy, whereas approximate valuation would be related to more exact mapping abilities.
+The development of more exact mapping abilities in children has also been linked with superior memory for numbers controlling for math knowledge (Thompson & Siegler, 2010). Remembering numbers better is thought to aid mathematical development in children and (we suggest) in decisions involving numerical information. In addition, this relation between more versus less exact mapping functions and numeric memory may persist into adulthood and explain previous results linking objective numeracy and memory for numbers (Galesic & Garcia-Retamero, 2011a). In the present article, we examined numeric and nonnumeric memory. Controlling for other numeric competencies, we hypothesized that:
+Hypothesis 4 (H4): Being able to more easily discriminate and exactly map symbolic numbers onto numeric magnitudes will relate to improved memory for numbers and to approximate (but not precise) numeric responses in evaluations.
+
+MULTIPLE NUMERIC COMPETENCIES
+
+807
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Method
+Participants
+Participants (N  130) were recruited via signs posted on a Pacific Northwest university campus. They were asked to participate in a 4-day study and were paid $10 per session for the first three sessions and $30 to complete the final session. In addition, participants had the chance to win a small prize in each of the first three sessions to improve participant retention. Only participants who completed all 4 days of testing were included in analyses, leaving a final N  111 (85% retention over 4 days of testing; 63% female; mean [SD] age  21.3 [4.6]; mean [SD] years of education  14.7 [1.5]). In addition, some participant data were missing for particular tasks and are noted with that task description.
+Procedure
+Participants completed measures of objective numeracy, symbolic number mapping, and demographics on Day 1. On Day 2, they responded to the bets task and on Day 3 to measures of working memory, a risky-choice task, and vocabulary. Day 4 included a subjective numeracy scale, math emotions, and a memory task. Other tasks were also conducted at each session. See the supplemental material for further description.
+Measures
+Objective Numeracy Scale (ONS). The ONS was measured using an eight-item scale (e.g., "If the chance of getting a disease is 10%, how many people would be expected to get the disease out of 1000"; Weller et al., 2013). This scale was developed to have excellent psychometric properties in diverse samples based on Rasch analysis; it had good predictive abilities relative to previous scales. Each item was scored as correct or incorrect, and correct items were summed (possible range  0 - 8). Cronbach's alpha is .53 in the present sample, which is lower than usual for this scale. The scale was designed to have items distributed across difficulty levels from easy to hard, which sacrifices Cronbach's alpha to some extent; mean published alpha for the scale is .69 (range  .64 -.71 in six studies).
+Subjective Numeracy Scale (SNS). Fagerlin et al.'s (2007) SNS is a self-reported measure of ability with and preference for numbers (e.g., "How good are you at working with percentages?" "How often do you find numerical information to be useful?" assessed on 6-point scales; range  1- 6). Responses on its eight items were averaged (Cronbach's   .83).
+Symbolic-Number Mapping (SMap). To measure SMap, participants completed a task similar to Siegler and Opfer (2003). In it, participants were presented six separate pages of paper with a 165-mm horizontal line anchored at 0 and 1,000 and were told to "draw in a "hatch mark" or little vertical up-and-down line to indicate "how big is the number shown." On each page, they were presented a single number (4, 6, 18, 71, 230, 780; shown in the same random order to all participants with the number justified left and above the line) and indicated the number's position on the line. To assess individual differences in SMap, we calculated the mean absolute error of responses, similar to previous studies (Opfer & Siegler, 2007; Schley & Peters, 2014). More curvilinear discrim-
+
+inability functions will produce larger deviations than less curvilinear discriminability functions in the mean absolute error measure. To assess mean absolute error, we first calculated for each participant the absolute deviation between each response on the 0 -1,000 line and the objective number presented in the SMap task and summed across them. We then log-transformed these scores to correct for positive skew (skewness was improved from 2.99 to 0.89) and multiplied by 1 so that higher scores indicated more exact mappings and better SMap ability.
+Math emotions. Participants responded to six math emotions items ("Please describe your attitude towards math on the following scales": bad/good, sad/happy, disgusting/delightful, ugly/beautiful, avoid/approach, afraid/unafraid) on 7-point scales (from 3 to 3). We calculated an average such that higher numbers reflected more positive math emotions (Cronbach's   .92).
+Cognitive performance measures. In a working memory task used as a measure of fluid intelligence, the experimenter read aloud a series of intermixed letters and numbers (Wechsler, 1997). The participant was to repeat each series back in numeric and then alphabetic order (e.g., `T9A3= would be `39AT'). The participant received a series with increasingly more letters and numbers until he or she missed all three series in a set (possible range  0 -21). In a vocabulary task used as a measure of crystallized intelligence, participants were shown 36 words, each of which was followed by a list of five possible synonyms (Ekstrom, French, Harman, & Derman, 1976), and were asked to circle the correct synonym for each word. Correct responses were summed (possible range  0 -36).
+Judgment- and Decision-Related Tasks
+Bets task. Participants were randomly assigned to a loss or a no-loss condition. One group of participants rated the attractiveness of a simple gamble (7/36, win $9; 29/36, win nothing) on a 0 -20 scale anchored from Not at all attractive to Extremely attractive; a second group rated a similar gamble with a small loss (7/36, win $9; 29/36, lose 5) on the same scale. One participant did not complete the task, leaving a final n  110.
+Self-rated health. Participants were asked, "In general, would you say your health is:" and responded on a 6-point scale (very poor, poor, fair, good, very good, and excellent).
+Numeric and nonnumeric memory task. In a task modified from Castel (2007) and presented using Microsoft PowerPoint, participants were asked to memorize a series of 18 numbers of objects in given locations (e.g., 20 skulls on a shelf) and later were asked to recall the number (20) and object (skulls) when presented the location (shelf). Thus, we assess numeric and nonnumeric memory. They were told that
+You will be given 10 seconds to study the phrase, so it might be helpful to try to make a mental image so that you can remember the number of objects and the location. You will be presented with about 20 phrases. Please try to remember the number, the objects, and the location. In the later memory test, you will be presented with the location (park), and your task will be to remember the number and the object (10 dogs).
+Participants were given 10 s per location, and recall occurred approximately 3 min after stimulus presentation. The numbers were 14, 17, 21, 26, 33, 38, 44, 49, 51, 54, 60, 67, 72, 75, 83, 85,
+
+808 PETERS AND BJALKEBRING
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+91, and 96. The resulting 18 responses were coded as correct, incorrect, or as a nonresponse, separately for numbers and objects. This task was added about 1 week after the study began; thus, the sample size was somewhat smaller (n  104).
+Risky-gambles valuation task. Participants (n  111) responded to four hypothetical gambles; each gamble consisted of a 50% chance to win one amount of money and a 50% chance to win another amount (e.g., 50% chance to win $4 and 50% to win $20). The paired amounts in the four gambles were $4/$20, $400/$2,000, $2/$10, and $200/$1,000. For each gamble, they first rated their preference between winning a specified amount for sure versus playing the gamble (e.g., "Would you prefer to get $8.00 for sure or to play a gamble in which you have a 50% chance of winning $4 and a 50% chance of winning $20?") on a 7-point scale (from 1  much prefer the sure amount to 7  much prefer the gamble). Each gamble was pitted against five different amounts for sure on a single page that started with a low value and increased to a higher value (e.g., participants responded to the gamble above vs. the following amounts for sure: $7, $8, $9, $10, and $11). At the bottom of the page, participants responded to the following question: "How much money would you need to win for sure in order to be indifferent (have no preference) between it and the gamble above?" We analyzed only these free responses because they allowed us the opportunity to identify exact expected-value calculations and approximations of them. One participant did not answer any questions in this task. Two participants were excluded from the task because all their values were higher than the maximum winning amount (e.g., one participant wanted to pay $2,000 for a gamble with a maximum amount to win of $1,200). This left a final n  108.
+A count variable was created of the number of gambles on which the participant indicated the exact expected value (EV; range  0 - 4), suggestive of performing precise number operations. In addition, the monetary responses were coded to indicate their absolute distance from the gamble's EV (coded as 0 if the participant gave an EV response; higher numbers indicated responses higher or lower than the EV). Each of the four absolute values was z-scored separately across participants and then averaged within participant. The final EV distance score indicated how far approximate valuations differed from the precise EV.
+Results
+Distributions of scale scores (ONS, SNS, SMap, Math Emotions, Vocabulary, and Working Memory) were examined for normality. All scales had normal (or close to normal) distributions except SMap, which was log transformed; see the Method section. Descriptive data for each scale are shown in Table 1. All predictors were used in their continuous form in inferential analyses; median splits were used for descriptive purposes only (e.g., to present means). In all analyses, nonsignificant predictors (defined conservatively as p  .10 due to the intercorrelations among the numeric competencies) were removed one at a time.
+Test of H1: Structural Equation Model (SEM) Analysis of the Three Numeric Competencies
+Our three numeric competencies were correlated as expected (see Table 2). Higher versus lower ONS was associated with
+
+Table 1 Means, Standard Deviations, Minimums, and Maximums for Variables
+
+Variable
+
+M Mdn SD Min Max
+
+ONS
+
+5.27 5.00 1.54 2
+
+8
+
+SNS
+
+4.24 4.38 .91 2
+
+6
+
+SMap
+
+2.08 2.02 .30 1.52 2.95
+
+Math emotions
+
+0.29 0.33 1.43 2.67 3.00
+
+Working memory
+
+13.04 13.00 3.48 6
+
+20
+
+Vocabulary
+
+25.86 27.00 4.56 3
+
+33.75
+
+Bets task
+
+Bet attractiveness
+
+10.33 10.00 5.37 0
+
+20
+
+Memory task
+
+Numbers Correct
+
+6.16 6.00 3.50 0
+
+14
+
+Numbers Non-responses
+
+2.81 2.00 3.45 0
+
+16
+
+Numbers Incorrect
+
+9.03 9.00 3.99 0
+
+18
+
+Objects correct
+
+11.04 11.00 4.30 8
+
+18
+
+Objects Non-responses
+
+2.90 2.00 3.43 0
+
+0
+
+Objects Incorrect
+
+4.06 3.00 3.97 16
+
+16
+
+Risky-gambles valuation task
+
+Expected value count
+
+0.55 0.00 1.02 0
+
+4
+
+Expected value distance
+
+(average z-scores)
+
+0.69 0.56 0.56 0
+
+1.83
+
+Note. ONS  Objective Numeracy Scale; SNS  Subjective Numeracy Scale; SMap  Symbolic-Number Mapping; Min  minimum; Max  maximum.
+
+greater self-reported SNS (r  .46, p  .01), more positive math emotions (r  .45, p  .01), and more exact mappings of symbolic numbers (SMap; r  .27, p  .01). Higher versus lower SNS was also strongly correlated with having more positive math emotions (r  .66, p  .01); SNS had a weaker correlation with having a more exact SMap (r  .23, p  .05). Women (compared with men) had lower ONS (r  .19, p  .05) and lower SNS (r  .33, p  .01); no gender difference emerged on SMap. Neither working memory nor vocabulary scores were significantly associated with any of the numeric competencies. To test H1 (the hypothesized paths between the numeric competencies and related variables), an SEM analysis using maximum likelihood estimation was conducted with AMOS 18 software (Arbuckle, 2009). Indirect effects for mediation were tested subsequently with bootstrap analyses. The model fit to the data was examined using the goodness-of-fit index (GFI), confirmatory fit index (CFI), rootmean-square error of approximation (RMSEA), and the relative chi-square. GFI and CFI values of at least .90 and .95, respectively, indicate adequate and good fits (Hox & Bechger, 1998; Hu & Bentler, 1999). RMSEA values of less than .05 (Hox & Bechger, 1998) and relative chi-square (2/df) less than 2 also represent good model fit (Ullman, 2001). Before modeling, all continuous predictors were z-scored.
+We investigated a structural equation model of ONS, SNS, SMap, gender, math emotions, working memory, and vocabulary scores (see Figure 2). ONS was not predicted by either vocabulary (b  .10, SE  .090,   .10, p  .26) or working memory scores (b  .10, SE  .090,   .10, p  .29). These findings support objective numeracy as a separable construct from general intelligence. Working memory and vocabulary were removed from the final model, which fit the data well (GFI  .98, CFI  .99, 2[4]  4.6, p  .33, 2/df  1.2, RMSEA  .04). More exact SMap predicted greater ONS as expected (b  .23, SE  .091,
+
+MULTIPLE NUMERIC COMPETENCIES
+
+Table 2 Correlations Among the Continuous Variables and Gender in the Structural Equation Model Analysis (N  111)
+
+Variable
+
+1 2 3 4 5 67
+
+1. ONS
+
+--
+
+2. SMap
+
+.24
+
+--
+
+3. SNS
+
+.46
+
+.24
+
+--
+
+4. Emot
+
+.45
+
+.23
+
+.66
+
+--
+
+5. WM
+
+.16 .13 .10 .09 --
+
+6. Voc
+
+.11 .05 .02 .01 .04 --
+
+7. Gender (male  0; female  1) .18 .06 .32 .17 .20 .03 --
+
+Note. ONS  Objective Numeracy Scale; SMap  Symbolic-Number Mapping; SNS  Subjective Numeracy Scale; Emot  math emotions; WM  working memory; Voc  vocabulary.  p  .05.  p  .01.
+
+809
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+  .23, p  .011). Greater ONS was associated with greater SNS (b  .19, SE  .076,   .19, p  .014), indicating that SNS is a reasonable (albeit imperfect) ONS proxy. Females scored marginally lower on ONS than males (b  .25, SE  .18,   .17, p  .06) and rated themselves as subjectively worse in math than men (b  .39, SE  .14,   .20 p  .004). Some indirect effects also emerged.1
+Testing alternative models. Although our hypothesized model fit the data well, we also tested competing models selected on the basis of theory (e.g., we did not test reversing the relation between gender and ONS because math ability cannot influence gender). Reversals of other paths have been considered in the theoretical literature and rejected as plausible but less important (e.g., reversing Path 1 would suggest that greater ONS causes more precise SMap). Some researchers have indeed pointed out that greater math skills can be helpful in performing the SMap task, suggesting a role for objective numeracy (Barth & Paladino, 2011). In fact, adults unschooled versus schooled in objective numeracy differed in their abilities to discriminate large magnitudes (Nys et al., 2013), but not small magnitudes (Zebian &
+
+Ansari, 2012). However, the extent of schooling (more vs. less schooling) did not make a difference to performance (Nys et al., 2013), suggesting that this reversed path is less likely in North American and European adults (no known similar data exist with the SMap measure of the present article, however). Thus, we did not consider this alternative model further. Statistical restrictions also existed such that bidirectional paths are theoretically possible, but paths in SEM models can flow in only one direction.
+On the basis of these considerations, we tested alternative models in which we changed one or more paths. In the first alternative model, Paths 2 and 4 were reversed (i.e., greater SNS was assumed to lead to more positive math emotions and greater ONS). This model had a lower model fit than our final model (GFI  .96, CFI  .94, 2[4]  9.5, p  .05, 2/df  2.4, RMSEA  .12). In the second alternative model, we tested a reversal of Path 4 only (greater SNS predicted more positive math emotions instead of the reverse). This model fit the data as well as our final model, and we cannot draw any conclusions about the direction of this path. Third, because the literature on stereotype threat suggests that gender might lead to lower SNS, more negative math emotions, and worse ONS in turn (e.g., Martens et al., 2006), we tested a model that reversed Paths 2, 3, and 4 (Path 2 had to be reversed to avoid circularity; we could have dropped Path 2 instead, but the model falls apart due to the strong correlation between SNS and ONS). This model was not as good a fit to the data (GFI  .96, CFI  .94, 2[4]  9.9, p  .04, 2/df  2.5, RMSEA  .12). It may be possible that stereotype threat influences ONS through math emotions. Reversing only Path 3, however, was also not as good a fit to the data (GFI  .96, CFI  .93, 2[4]  10.6, p  .03, 2/df  2.7, RMSEA  .13). Perhaps stereotype threat in math performance works instead through expectancies (rather than emotions). We reversed Path 2 (so that greater SNS predicted higher ONS) and dropped Path 3 between math emotions and ONS, consistent with Meece et al. (1990). This model was not a
+
+Figure 2. Structural equation model of SMap, ONS, SNS, Gender, Math Emotions, Vocabulary, and Working Memory. A dashed line indicates a path that was nonsignificant (p  .10). SMap  Symbolic-Number Mapping; ONS  Objective Numeracy Scale; SNS  Subjective Numeracy Scale.
+
+1 Mediation analyses based on 10,000 bootstrapping samples each were
+conducted to estimate the significance of all possible indirect effects. SMap had an indirect effect on SNS (b  .10, SE  .05,   .10, p  .01) and math emotions (b  .10, SE  .05,  .10, p  .01) through ONS. ONS also had an indirect effect on SNS through math emotions (b  .24, SE  .05,   .24, p  .02). Gender had an indirect effect on SNS through ONS (b  .16, SE  .09,   .08, p  .02) and on math emotions through SNS and ONS (b  .15, SE  .09,   .08, p  .02).
+
+810 PETERS AND BJALKEBRING
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+good fit to the data (GFI  .94, CFI  .89, 2[5]  16.1, p  .006, 2/df  3.2, RMSEA  .15). We concluded that H1's hypothesized model fit the data and current theories in the most satisfying way when compared with alternative models, with the exception of the ambiguous direction of Path 4 between SNS and math emotions.
+Relations of the Three Numeric Competencies to Task Performance
+We again used an SEM structure to test H2-H4 and examined numeric and nonnumeric task performance (congruent multiple regression models for each task are included in Appendices A, B, and C). Doing so allowed us to control for the correlations among the numeric competencies. For each task, all three numeric competencies and the two intelligence proxies (working memory and vocabulary) were included as predictors in the model, as indicated by the Lines a- e on the right side of Figure 3. In the analysis of each task, the original SEM relations remained approximately the same (e.g., the relation of SMap to ONS), and results of these original relations will not be repeated. Table 1 indicates simple descriptive data for each task variable, and Table 3 indicates simple correlations underlying Paths a- e for each task variable as well as the correlations among the task variables.
+Bets task: Number comparisons and emotional/motivational considerations. On the 0 -20 Attractiveness scale, participants rated the bet as moderately attractive (M  10.33; see Table 1 for other descriptive information). To investigate the possible influences of the numeric competencies directly on bet attractiveness and in interaction with the loss versus no-loss condition, we retained Figure 3's SEM structure in an overall model and also tested a two-group model, in which the two conditions (loss and no-loss) were examined as separate groups. We examined model fits and pairwise, parameter-comparison tests for the two-group model to test H2 (that higher ONS would be linked with the use of
+Figure 3. Structural equation modeling structure used to model task performance. Path coefficients and significance of paths on the far left of the figure remained substantially similar to Figure 2 once numeric and nonnumeric task performance variables were included in the model. SMap  Symbolic-Number Mapping; ONS  Objective Numeracy Scale; SNS  Subjective Numeracy Scale.
+
+more number operations such as comparing the $9 with the 5 loss) and examined the overall model to test H3 (that higher SNS would be associated with more positive motivations in numberrelated tasks). First, we examined nonsignificant predictors separately in the overall and two-group models and removed them one at a time, following our procedure with the original SEM. In both models, SMap, working memory, and vocabulary were removed, leaving us with ONS and SNS as predictors. ONS was then removed from the overall model only. The overall model was an adequate fit to the data (GFI  .88, CFI  .92, 2[19]  23.0, p  .11, 2/df  1.2, RMSEA  .071), as was the two-group model (GFI  .89, CFI  .89, 2[51]  63.2, p  .12, 2/df  1.2, RMSEA  .047).
+In the parameter-comparison tests for H2, ONS differed significantly between the two bet conditions (z  1.88, p  .03) such that the influence of ONS on bet attractiveness was only significant in the loss condition (b  1.66, SE  0.81,   .31, p  .04) and not in the no-loss condition (b  .10, SE  .688,  .02, p  .88); thus, H2 was supported. In particular, high-ONS participants rated the loss bet as significantly more attractive than the no-loss bet (Ms  15.0 and 8.7, respectively, for participants in the upper half of ONS scores based on a median split), whereas low-ONS participants rated them as about the same (Ms  10.0 and 9.4, respectively). The predictive power of SNS did not differ between loss and no-loss conditions (b  1.43, p  .09 and b  .91, p  .18, respectively). It appeared as if only high-ONS participants (and not low-ONS ones) compared the $9 with the 5 loss, drew meaning from that comparison, and used it to construct their attractiveness rating.
+Results of the bets task also provided preliminary support for H3 that lower subjective numeracy would be associated with greater number-related negative emotional and motivational considerations in numeric tasks compared with higher subjective numeracy. In the full model and independent of the loss versus no-loss manipulation, participants lower in SNS (vs. higher) found the numeric bets less attractive overall (b  1.40, SE  .50,   .26, p  .005), indicating that participants lower in SNS (vs. higher) were less motivated by this numeric task. Appendix A includes the regression model predicting bet attractiveness from ONS, SNS, condition, and the interaction of ONS with condition.
+Of course, individuals with greater SNS may simply provide more positive ratings in general rather than H3's hypothesized more positive ratings to numeric tasks only. Thus, we also conducted an exploratory analysis of a nonnumeric evaluation. In particular, we used the same SEM to examine self-reported health. First, SMap, ONS, and working memory scores were excluded as nonsignificant predictors. In the final model, no independent variable was a conventionally significant predictor, but vocabulary scores (b  .14, SE  .07,  .18, p  .056) and SNS (b  .12, SE  .07,  .15, p  .10) emerged as marginally significant and were retained in the reduced model, which was a good fit to the data (GFI  .98, CFI  .97, 2[6]  5.8, p  .45, 2/df  0.96, RMSEA  .001). These results generally supported SNS not being a good predictor of this nonnumeric judgment.
+As a more stringent test, we conducted the full model predicting bet attractiveness again while controlling for self-reported health as a possible measure of a general rating tendency. Participants lower in SNS (vs. higher) still found the numeric bets less attractive (  .27, p  .003), indicating that those lower in SNS were
+
+MULTIPLE NUMERIC COMPETENCIES
+
+811
+
+Table 3 Correlations Among SEM Variables and Task Performance Variables
+
+Bets task (n  110)
+
+Memory task (n  104)
+
+Risky-gambles
+valuation (n  104)
+
+Variable
+
+Bet
+
+Correct Nonresp Incorrect Correct Nonresp Incorrect EV
+
+EV
+
+attractiveness num
+
+num
+
+num
+
+obj
+
+obj
+
+obj distance count
+
+Objective numeracy (ONS) Symbolic number mapping (SMap) Subjective numeracy (SNS) Working memory Vocabulary Math emotions Bet attractiveness Correct numbers remembered (Correct num) Nonresponses to numbers (Nonresp num) Incorrect numbers remembered (Incorrect num) Correct objects remembered (Correct obj) Nonresponses to objects (Nonresp obj) Incorrect objects remembered (Incorrect obj) Risky choice distance from expected value
+(EV distance) Risky choice count of EV responses given
+(EV count)
+
+.23
+.02 .26
+.00 .02
+.12
+--
+
+.16 .22
+.03 .32
+.14
+.05 .15
+--
+
+.19 .10 .22 .30
+.02 .11 .07 .34
+--
+
+.03
+.09
+.17
+.00 .13
+.04 .19 .57 .57
+--
+
+.12
+.06 .05
+.12 .20
+.02 .04
+.74 .40 .29
+--
+
+.17 .11 .27 .20 .04 .20 .08 .30
+.82 .46 .49
+--
+
+.01
+.01 .29
+.04 .18
+.15
+.11 .54 .27
+.71 .66 .33
+--
+
+.34 .26 .26 .18 .05 .29 .07 .17
+.29 .11 .08
+.24 .12
+
+.30
+.04 .28 .06 .01 .22
+.10
+.06 .12
+.04
+.04 .04 .00
+
+-- .52
+
+--
+
+Note. Math emotions are also included for comparison. SEM  structural equation model; ONS  Objective Numeracy Scale; SMap  SymbolicNumber Mapping; SNS  Subjective Numeracy Scale.  p  .05.  p  .01.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+less attracted to this numeric task even after controlling for the nonnumeric health judgment. Health ratings did not have an independent significant influence on bet attractiveness (  .07, p  .47); we nonetheless retained it in the final model for purposes of this test. The model was an adequate fit to the data (GFI  .93, CFI  .94, 2[9]  8.0, p  .24, 2/df  1.3, RMSEA  .06).
+Memory task: Numeric and nonnumeric memory. To analyze memory performance, we used separate SEMs (again modeled on Figure 3) to fit the data of the numbers of (a) correct numbers recalled (M  6.16 out of 18 possible numbers; see Table 1), (b) nonresponses to numbers (M  2.81), (c) correct objects recalled (M  11.04 out of 18 possible objects), and (d) nonresponses to objects (M  2.90). The numbers of incorrect numbers and incorrect objects recalled are the residuals of their respective correct responses and nonresponses; for completeness, we included them in Tables 1 and 3 but did not test SEMs of them due to redundancy and nonindependence. On the basis of H4, we predicted that greater SMap scores would be associated with better numeric memory, but not nonnumeric memory, independent of general intelligence. The other numeric competencies were not expected to add independent predictive power.
+Correct numbers recalled. Better working memory (b  1.03, SE  .32,   .30, p  .001) and more exact SMap scores (b  .63, SE  .32,   .18, p  .05) were associated with superior memory for numbers; no other variables were significant predictors of numeric memory. The model including these two predictors only was a good fit to the data (GFI  .96, CFI  .97, 2[11]  12.4, p  .33, 2/df  1.1, RMSEA  .04). Individuals with more exact mappings were more likely to remember numbers compared with those with less exact mappings (mean correct numbers recalled  6.9 and 5.4, respectively, based on a median split of SMap). Individuals with greater versus lower working memory
+
+also recalled more correct numbers (Ms  6.9 and 5.4, respectively, based on a median split of working memory). Being able to calculate numbers better (having higher ONS) did not provide an advantage in this task, nor did having a more positive subjective sense of one's own numeracy (higher SNS).
+Nonresponses to numbers. If an individual is more motivated and/or confident with numbers (as hypothesized in H3 for those with higher subjective numeracy), he or she should be more likely to provide a recalled number (as opposed to not provide a guess) compared with someone who was less motivated or confident. Thus, we analyzed whether a recalled number was provided or not. Individuals with worse working memory (b  .97, SE  .32,   .28, p  .01) and lower SNS (b  .66, SE  .32,   .19, p  .04) were less likely to give a number response. The other predictors did not add significant predictive power and were removed from the model. The final model with SNS and working memory as predictors was a good fit to the data (GFI  .97, CFI  .99, 2[11]  10.6, p  .51, 2/df  .92, RMSEA  .001). In particular, nonresponses to numbers were higher among participants lower versus higher in working memory (mean number of nonresponses  3.7 and 2.0, respectively) and those lower versus higher in SNS (mean nonresponses  3.4 and 2.2, respectively). It is interesting to note that having higher SNS, as a result, was marginally correlated with greater incorrect recall of numbers (r  .17, p  .09; see Table 3), whereas higher ONS (for which SNS is a supposed proxy) was associated with superior number recall in the same task.
+Nonnumeric memory: Correct objects. The numbers of correct numbers and correct objects recalled were strongly correlated (r  .74, p  .001). Nonetheless, as expected for correct objects recalled, no numeric competency predicted performance. Working memory was also not a significant predictor. Instead, the number
+
+812 PETERS AND BJALKEBRING
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+of objects recalled correctly was predicted only by greater vocabulary scores (b  .84, SE  .42,   .20, p  .04; mean number of correct objects recalled  11.6 and 10.5, respectively, for those scoring higher and lower on the vocabulary test). The final model predicting correct objects from vocabulary scores was a good fit to the data (GFI  .95, CFI  .98, 2[20]  21.7, p  .35, 2/df  1.1, RMSEA  .03).
+Nonnumeric memory: Nonresponses to objects. Nonresponses to nonnumeric object memory also were examined using the SEM. In predictions of nonresponses to objects, neither ONS, SMap, nor vocabulary were significant predictors of object nonresponses and were removed from the model. Inconsistent with the number-specific hypothesis of H3, SNS significantly predicted performance (b  .87, SE  .32,   .25, p  .01), with lower SNS being associated with more nonresponses (mean nonresponses among those lower and higher in SNS were 3.8 and 2.1, respectively); lower working memory scores also were marginally associated with more nonresponses (b  .17, SE  .32,   .17, p  .07; mean number of nonresponses to objects  3.7 and 2.2, respectively, for those scoring lower and higher in working memory). The model with the two predictors was a good fit to the data (GFI  .97, CFI  .99, 2[11]  9.8, p  .55, 2/df  .89, RMSEA  .01).
+Nonnumeric memory: Nonresponses to vocabulary. SNS significantly predicted nonresponses both on the numeric and nonnumeric portions of the memory task, suggestive of it being related more generally to motivational and/or metacognitive processes in numeric and nonnumeric tasks. However, the current task may not have been a fair test of this idea because the numeric and nonnumeric portions of the task were bound together (participants were supposed to remember each number bound to an object). Thus, we wanted to investigate whether SNS had a similar influence on nonresponses in another nonnumeric task without any such binding. To do so, we used the quantities of nonresponses on the nonnumeric vocabulary task. If SNS taps into more general motivational and/or metacognitive processes, as opposed to those processes specific to numeric information, we would expect individuals lower in SNS to have more nonresponses in the vocabulary task than those higher in SNS similar to their increased nonresponses to objects in the previous analysis. Using a similar SEM structure (without vocabulary as a predictor), no predictor emerged as significant (e.g., SNS: b  .08, SE  .32,   .02, p  .81). This result is consistent with SNS's influence being more specific to numeric tasks.
+Risky-gambles valuation task: Numeric approximations and precise number operations. In this task, participants provided monetary valuations for four gambles. We analyzed the sum of the valuations' absolute distances from the gambles' EVs. We hypothesized (H2) that those higher in ONS would provide more exact EV responses compared with those lower in ONS and (H4) that individuals with more exact mappings would provide valuations less distant from the EV relative to those with less exact mappings. In addition, ONS should also be associated with distance from the EV because high-ONS individuals are expected to provide exact EV valuations (distance  0).
+Analysis of an SEM of the summed z-scores of the absolute distances from the EV revealed that individuals higher versus lower in ONS provided values closer to the EV (b  .14, SE  .043,   .30, p  .01; mean summed distance  .51 and .83,
+
+respectively, for those higher and lower in ONS). In addition and as in H4, individuals with more exact mappings of symbolic numbers also provided values closer to the EV (b  .09, SE  .043,   .19, p  .04) than those with less exact mappings. Mean summed absolute distances from the EVs were .57 and .84, respectively, for those with more and less exact SMap. Working memory, vocabulary, and SNS were not significant predictors and were removed from the model. The final model with ONS and SMap fit the data well (GFI  .97, CFI  .99, 2[11]  11.3, p  .42, 2/df  1.03, RMSEA  .02). H4 was supported.
+Because ONS and SMap both significantly predicted absolute distances from the gamble EVs, we were interested in whether participants high versus low in ONS and high versus low in SMap used the same type of strategies to achieve values closer to the EV. Our hypothesis (H2) was that higher ONS would be related to calculating the exact EV more often, whereas SMap scores would be associated with approximated valuations (H3), which create numbers close to the EV without exactly matching the EV. Because most participants did not choose exactly the EV (participants provided the EV an average of 0.55 times out of the four gambles), the EV count variable did not satisfy the normality criterion for parametric statistics; as a result, we calculated Spearman's correlations. For each numeric competency, we first regressed it onto the other two competencies, working memory and vocabulary, in order to remove any shared variance. We then calculated correlations between each residualized competency measure and the EV count variable. On the basis of this analysis, high-ONS individuals provided marginally more valuations equal to the expected value than low-ONS individuals (rs  .18, n  108, p  .08; the mean number of times the EV was provided was .87 and .28, respectively, for those individuals higher and lower in ONS). As expected, SMap scores were not associated with providing more valuations equal to the EV (rs  .06, n  108, p  .56), nor were SNS scores (rs  .15, n  108, p  .12), vocabulary (rs.01, p  .91), or working memory (rs.08, p  .42).
+To examine more closely those participants who calculated EVs, we coded each individual on the basis of whether they gave the exact EV for all four gambles (3.7% did so) and used logistic regression. The results revealed that only higher ONS (B  2.01, SE  1.09, Wald's 2  3.72, p  .05) was associated with giving the exact EV all four times when controlling for SNS, SMap, vocabulary, and working memory. After removing nonsignificant predictors one at a time, the final model included only ONS (B  1.79, SE  0.79, Wald's 2  5.13, p  .02), was significant (2  7.92, df  1, p  .005), and predicted 96% of the responses correctly (Cox & Snell R2  .07, Nagelkerje R2  .26). Consistent with H2, individuals higher in ONS appeared to perform number operations (calculating EVs) more than those lower in ONS (the proportion who gave the exact EV all four times was 8.3% and 0%, respectively). No other numeric competency showed this same pattern.
+General Discussion
+Unlike the careful distinctions that have been made between Openness/Intellect and general intelligence, a great deal of research in numeracy treats its multiple facets as interchangeable (e.g., Rolison et al., 2013). In the present article, we
+
+MULTIPLE NUMERIC COMPETENCIES
+
+813
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+explicitly considered the value of examining the three numeric competencies as separable constructs, first in terms of their theoretical interrelations and then with respect to their predictive utility and underlying mechanisms in numeric and nonnumeric tasks.
+Model of Numeric Competencies, Math Emotions, and Gender
+To begin, we examined correlations among the three numeric competencies, which ranged from r  .24 to r  .46 (see Table 2) and suggested that the competencies are related but potentially distinct from one other. These findings were consistent with prior research that had concluded that subjective measures such as the SNS are poor diagnostic indicators of ONS (e.g., Nelson et al., 2013). In the present article, we proposed a model of the relations between these multiple numeric competencies that fit the data well. In particular and consistent with prior developmental research (e.g., Booth & Siegler, 2008), we modeled more exact mappings of symbolic numbers to magnitude representations (SMap) as leading to greater objective numeracy. General intelligence (assessed with working memory and vocabulary) did not add significant predictive power to objective numeracy. This result was surprising given that general intelligence includes objective numeracy, but it may be due to the brevity of the ONS scale and its less than perfect reliability and construct validity. More objective numeracy led, in turn, to greater subjective numeracy and more positive math emotions. Reversing the direction of the path between subjective numeracy and math emotions (so that greater subjective numeracy led to more positive math emotions) did not alter the model fit. As a result, we cannot draw conclusions about this path's direction. Experimental studies will be needed to test whether manipulations of SNS (e.g., doing an easy vs. hard math test) alter math emotions and/or whether manipulations of math emotions (e.g., by priming emotional reactions to math or a more general mood state) alter SNS.
+In our final model, more positive math emotions were a stronger predictor of subjective numeracy than was objective numeracy. These findings supported our hypothesis (H3) that SNS would be associated with emotional reactions to numbers and further questioned the use of SNS as an ONS proxy. Numbers can be fraught with emotion even among more numerate individuals, and these emotions correlate strongly with a subjective sense of one's ability.
+In addition, we retained gender as a predictor of both objective and subjective numeric ability because women are often reported as scoring lower than men on objective numeracy scales (Reyna et al., 2009) and higher than men in self-reported math anxiety (Betz, 1978). In our study, the influence of gender on ONS was only marginally significant after controlling for the influences of SMap and intelligence proxies. Females did, however, rate themselves as subjectively less numerate than males. It may be that lower subjective numeracy and greater math anxiety (e.g., Betz, 1978) are the more proximal mechanisms for the gender gap in math that is often found, at least on more difficult tests (Stoet & Geary, 2012). If true, different approaches may be required for reducing this gap. Instead of focusing primarily on more math education, the focus might turn to aspects of early instruction that appear quite functional in most individuals but exacerbate math anxiety in some currently disadvantaged groups (e.g., females, minorities, lower
+
+socioeconomic status individuals). Alternatively, it may be that affirming important values is a solution (at least among women who hold a negative stereotype of women and math). Selfaffirmation has led to increases in math performance among women who held the negative gender math stereotype in some studies (e.g., Martens et al., 2006). A recent review, however, concluded that stereotype threat may not be the primary causal factor in the gender gap in mathematics (Stoet & Geary, 2012). Instead, they suggest other avenues for research (e.g., gender differences in three-dimensional spatial cognition).
+Inconsistent with these proposed more proximal mechanisms of math anxiety and subjective numeracy, however, an alternative model (in which female gender predicted lower SNS, lower SNS predicted lower ONS and less positive math emotions, and less positive math emotions led to lower ONS) was not as good a fit to the data, nor were other variants on this alternative model. It may be that feedback loops (e.g., a bidirectional path between SNS and ONS) exist even though they cannot be tested in our SEM. Alternatively, the significance and even the direction of these paths may change across development. For example, female primary-school students assigned to a female teacher without a strong math background scored lower in math but not in reading than those assigned to a female teacher with a strong math background; male students did not suffer the same effect (Antecol, Eren, & Ozbeklik, 2012). They suggest the results are due to female students internalizing their teacher's math anxiety in ways that subsequently influence their math scores (Lyons & Beilock, 2012). The accuracy of self-perceived numeracy also may improve with age and feedback (a stronger correlation between SNS and ONS would emerge), but such a change could leave the path between math emotions and ONS untouched. Research on developmental changes in these constructs is needed.
+Self-affirmation manipulations could have effects on ONS through either SNS or math emotions. However, reversing only Path 3 of Figure 2 (so that more positive math emotions predicted higher ONS) resulted in a model that was not as good a fit to the data. Similarly, reversing only Path 2 so that SNS predicted ONS and dropping Path 3 between ONS and math emotions was not a good fit to the data. These results beg the question of why stereotype threat reduction among college students attenuates gender's influence on objective numeracy. Other mediating psychological processes may be critical, for which we do not have data (e.g., cognitive load, arousal, suppression, and with analyses conducted only in the threatened group; Martens et al., 2006).
+In terms of other aspects of personality, it seems likely that future research will reveal that the numeric competencies relate positively to both Openness/Intellect and need for cognition (DeYoung et al., 2007; Peters & Levin, 2008). In particular, the numeric competencies can be considered more specific facets of the Openness/Intellect factor, with subjective numeracy as selfperceived numeric intelligence (similar to Intellect being selfperceived intelligence), objective numeracy as a learned intelligence, and the mapping of symbolic numbers as a more innate intelligence and perhaps connected more with Openness and engagement with perceptual and sensory information as opposed to Intellect (see DeYoung, 2014). Relations with other Big Five factors are less clear, although one could certainly imagine a correlation between Neuroticism and math test anxiety that is reflected in subjective and objective numeracy. Bruine de Bruin et
+
+814 PETERS AND BJALKEBRING
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+al.'s (in press) finding that need for cognition mediates age declines in objective numeracy also points toward a potential role for need for cognition in motivating the use of objective numeracy in various tasks.
+Dissociations in Numeric and Nonnumeric Tasks
+The numeric competencies appeared theoretically and empirically separable from each other; we were also interested in their potential dissociations in numeric and nonnumeric task performance. Some prior research has examined the separable decision effects of objective numeracy and SMap (or a related measure) on valuation and proportional reasoning (Peters et al., 2008; Schley & Peters, 2014). To our knowledge, prior studies have neither developed theoretical predictions for nor investigated the separable relations of all three numeric competencies to performance in a diverse set of numeric and nonnumeric tasks when controlling for each other and general intelligence proxies.
+Objective numeracy and numeric operations. In the present results and consistent with our hypotheses, clear distinctions emerged among the numeric competencies. We hypothesized (H2) and found that higher versus lower scores in objective numeracy were associated with conducting more explicit number operations--number comparisons and calculations--in tasks. In particular, higher versus lower ONS individuals appeared more likely to perform a simple number operation, comparing a small loss with an amount to win; they paradoxically proceeded to rate an objectively worse bet as subjectively more attractive than an objectively better bet that did not involve the small loss. The effect was independent of subjective numeracy, SMap, and intelligence proxies. Those higher in objective numeracy were also more likely to perform a complex number operation; they provided more exact EV amounts when valuing gambles compared with those lower in objective numeracy. No other numeric competency was associated significantly with this more complex calculation process.
+These results run counter to earlier ones from Cokely and Kelley (2009), who found that individuals higher in objective numeracy made more choices consistent with EV than did the less numerate, but without reporting more EV calculations. Instead, objective numeracy's relation with choice was mediated by the number of simple (often number-related) considerations made (e.g., number comparisons, "$900 is a lot more than $125"; probability transformations, 20% chance to win equals 80% to not win). The difference in results between our study and theirs may be due to the different methods used. In our study, participants provided a specific value; Cokely and Kelley's participants instead made a series of one-shot choices between an amount for sure and a gamble. Valuation may lead to more calculations than does choice. In addition, our participants made a series of scaled preferences first between a gamble and an amount to win for sure that increased gradually as the participant proceeded down the page; at the bottom of the page, the participant was asked to provide the amount for sure equivalent to the gamble. This method may have resulted in our participants focusing more than theirs on EV. Alternatively, verbal protocols (used by Cokely & Kelly) are inherently problematic and may not be the best method for determining numeric operations used. It may be that their participants simply did not remember or report this calculation process in retrospect because the load of repeated choices and the subsequent
+
+requirement to verbalize caused participants to simplify their reports. Participants also may have had a difficult time verbalizing very simple numerical processes that were more or less automatic (e.g., one half of the sum of 60 plus 40 equals 50; however, the fact that they reported simple probability transformations argues against this possibility). Additional studies should explore how objective numeracy influences which number operations are used in decisions and how characteristics of the situation (e.g., time pressure, task importance) influence the use of explicit number operations through objective numeracy versus numeric estimations through SMap.
+Subjective numeracy: Number-related motivational and/or metacognitive processes. The relatively large correlation between SNS and ONS (r  .46) suggests that SNS may adequately capture the ONS construct. However, of our three tasks, SNS appeared an adequate proxy in only one task, risky-gambles valuation. In it, both SNS and ONS correlated significantly with the measure of EV distance (the absolute difference between the participant's valuation and the gamble's EV). Although the SEM revealed that ONS had a stronger relation with this dependent measure, SNS nonetheless may be adequate.
+In the remaining tasks (bets and numeric memory), SNS and ONS had more separate influences on performance, and using SNS as an ONS proxy did not appear adequate. Instead, individuals lower in subjective numeracy appeared to be less motivated and/or confident in number-related tasks compared with those higher in subjective numeracy (controlling for objective ability). First, lower SNS individuals rated both the loss and no-loss bets as less attractive than those higher in SNS; the presence versus absence of the loss had no significant impact (whereas condition did matter in interaction with ONS). Second, the memory task results revealed that those higher versus lower in SNS were more likely to respond. Presumably, high-SNS individuals were more comfortable and/or confident in guessing. Neither ONS nor SMap significantly related to guessing after controlling for other predictors.
+Although we expected greater SNS to relate to more guessing only in the numeric portion of the task, it was also associated with more guessing of objects. This unexpected result may have been due to the need to bind numbers and objects with locations in the task, thus influencing performance on object memory as well. We conducted a further exploratory test of our hypothesis using nonresponses (guessing) in the vocabulary task; here, SNS was not significantly related to guessing. This result suggests that the previous SNS- object memory results might have been due to the required binding of nonnumeric and numeric information in the task. The pattern of results was not entirely clear, however. SMap related to number memory as expected without having any particular relation with object memory, and higher SNS was also marginally associated with greater self-reported health, indicating a possible bias toward more positive responses. Higher SNS scores continued to predict greater bet attractiveness, however, after controlling for the possibility of a more positive general response tendency presumably reflected in the health ratings. It is possible, nonetheless, that SNS will relate to a variety of numeric and nonnumeric emotions, motivations, and metacognitions simply because it is self-evaluative (Dunning et al., 2004).
+Thus, although we predicted that SNS would relate more to numeric than nonnumeric task performance, the present results are somewhat unclear. SNS may have captured more general affective
+
+MULTIPLE NUMERIC COMPETENCIES
+
+815
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+experience and motivational and/or metacognitive factors as well. We speculate that these same findings could emerge due to preexisting more positive (vs. less positive) mood states. These more positive mood states, then, might relate to reporting oneself as being higher in subjective numeracy, having more positive emotions about math, rating bets as more attractive and oneself as healthier, and being more motivated and confident to guess on the memory task. Thus, it is plausible that those with greater SNS simply rated all objects more positively based on a mood-asinformation mechanism that guides judgments (Schwarz & Clore, 1983). This speculation is inconsistent, however, with the lack of association between SNS and nonresponses on the vocabulary task. It nonetheless deserves further testing. Alternatively, the results may be more consistent with research on the self that assumes a more global and unitary sense of the self that directs perceptions and actions more generally rather than a subset of self-knowledge (e.g., subjective numeracy) being activated and directing more specific perceptions and actions (McConnell, 2011). Thus, a more positive sense of self would produce both higher SNS and greater motivations and metacognitions across tasks. If true, however, any general increase in motivation should drive better performance across all of the measures used, including the intelligence proxies. The data, however, were inconsistent with this possibility because the numeric competencies have different predictive power in tasks than each other and the intelligence proxies in ways that make sense based on theory and past data.
+The bulk of our results support subjective perceptions of one's math abilities driving motivational and/or metacognitive aspects of the specific use of numbers in tasks rather than improved accuracy with numbers, the construct for which SNS was originally conceived. As a result, individuals with greater subjective numeracy may be more likely to perceive number-heavy decision tasks in their everyday lives as more worthwhile, and they may approach them with more confidence than those lower in subjective numeracy. Thus, high-SNS individuals may be more likely to complete such tasks. These processes may drive part of the relation between objective numeracy and superior health and wealth outcomes (e.g., Peters, 2012; Zikmund-Fisher, Mayman, & Fagerlin, 2014), with high-SNS individuals (who are also often high in ONS) being more likely to consider and act on numeric aspects of health- and wealth-related life tasks (e.g., the likelihood of disease with vs. without taking some action). Given prior research on the importance of affect and gist to decision quality (Reyna et al., 2009; Slovic & Peters, 2006), it may be that more intuitive and emotional ways of knowing numbers (SMap and SNS) are ultimately more important to life outcomes than deliberative ways of knowing them (ONS). Having high SNS may be enough to attain the gist of numeric information needed for high-quality decisions; the verbatim information processed through objective numeracy may be wasted thought (Reyna, 2004). No studies have examined the possible separate impacts of ONS and SNS on such life outcomes thus far.
+In addition, experimental manipulations are needed of each numeric competency to examine causal effects. One question, for example, would be whether manipulating one's subjective numeracy would have an impact on emotions toward numeric tasks, motivational aspects of performance in them, confidence in provided numeric information, and/or the likelihood of performing number operations. Such an experimental manipulation also brings
+
+up the question about the stability of subjective numeracy over time and context; little is known. For example, does failure on a numeric task have any impact on self-impressions of math skill, and, if so, for how long? Similarly, the developmental progression of subjective numeracy has not been examined. Does a subjective sense of numeracy emerge as a product of top-down processes (e.g., cultural knowledge and stereotypes) or of bottom-up processes that concern individual experiences? In the present data, we found no evidence of interactions between subjective and objective numeracy in predicting task performance, but it seems logical that someone who is good with numbers but lacks the motivation to use them (or even has negative emotions toward them) might not bring his or her objective numeracy skills to bear on tasks. The lack of a strong association between SNS and ONS also suggests that it may be useful to study discrepancies between the two constructs. For example, is having a high sense of one's own numeracy while having only marginal objective numeracy evidence of a defensive process that carries physiological and decision quality costs, or is it evidence of positive illusions that protect against the biological costs of dealing with numeric information in our information-rich society (Taylor, Lerner, Sherman, Sage, & McDowell, 2003)?
+As a final note on the relation between SNS and ONS, Fagerlin et al. (2007) created the SNS as a way to capture ONS without doing math. The present data highlight the fact that subjective numeracy scores can capture motivational and emotional relations a person has with numbers and their use. Future research should be directed toward developing more proximal measures of this construct to assess its influence in numeric task performance.
+SMap and numeric representations: Approximations and numeric memory. Individuals also responded to an SMap task thought to tap into internal representations of numeric magnitude and the mapping of symbolic numbers onto those representations. Those with more versus less exact mapping had better numeric memory (but not nonnumeric memory); neither objective nor subjective numeracy had similar effects. This result extends (into adult individual differences) earlier findings of a developmental trajectory of more exact mappings and superior numeric memory among children (Thompson & Siegler, 2010). In addition, participants with more versus less exact mapping produced valuations of risky gambles that were closer to (but did not equal) a risky gamble's EV, indicating superior number intuitions rather than any explicit number operation (higher ONS was associated with an explicit number operation). Our findings may be due to more exact mental magnitude representations that produce both more precise and accessible numeric memory representations and the ability to perform approximate mathematical operations on nonsymbolic quantities more effectively (Barth et al., 2006).
+A question arising from the developmental literature concerns the extent to which mapping tasks (e.g., the current number line task) reflect mental magnitude representations (Chesney & Matthews, 2013; Rips, 2013). Whereas conventional mental magnitude representation measures involve quick discrimination of nonsymbolic magnitudes (e.g., Are there more blue or yellow dots? Halberda & Feigenson, 2008), the number line task also requires the mapping of symbolic numbers to those mental magnitudes. Thus, results in the present studies may be determined by exactness in mental magnitude representations, the mapping of symbolic number to mental magnitudes, or a combination of both processes. Although we cannot definitively state which process (or processes)
+
+816 PETERS AND BJALKEBRING
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+is (are) at work based on the present data, recent research examining responses to nonsymbolic and symbolic formats and their relations to numeric competence point toward mapping ability as likely having a greater influence than mental magnitude acuity in numeric tasks such as the present ones (see Schley & Peters, 2014, for a brief review).
+These mapping abilities may provide a compensatory skill with numbers for individuals who lack the time, ability, or motivation to calculate numbers in a formal way. The results from the riskygamble task suggested that participants higher in SMap have and use strategies other than explicit and effortful calculations in numeric tasks that support good judgments and decisions. It may be, for example, that high-SMap individuals are quite good at roughly estimating totals (e.g., monthly purchases on credit cards); low-SMap individuals, who may not estimate as well, instead may be surprised by monthly bills that are much lower (or higher) than expected. Future research should examine possible strategies in more detail.
+Other Potential Future Avenues of Research
+The study of the impacts of numeric competencies is quite new, and many topics have not yet been pursued. It is unknown, for example, how the numeric competencies are associated with stress and well-being, interpersonal communication, and the complexity of self and other thought.2 What is their relation to various forms of optimism and the processing of social comparison information? Numeracy has been related to attentional biases in processing risk information, with those individuals higher in objective numeracy attending more to numeric information than those lower in objective numeracy (Keller, 2011). Are such attentional biases automatic or controlled? Are these attentional biases exacerbated when processing threatening components of persuasive or nonpersuasive messages, or are they attenuated? Recent research suggests that individuals higher in objective numeracy may, in fact, tend toward more rather than less motivated cognition when faced with a situation that potentially threatens their self-identity (Kahan et al., 2012; Kahan, Peters, Dawson, & Slovic, 2013). Given these attentional biases, will these individual differences relate to what information is perceived as central versus peripheral in persuasive messages? Will attitude confidence be associated with numeric competencies in domains associated with numeric information and not those associated with nonnumeric information? If so, which competencies?
+More generally, the present results point out that the same trait may, in fact, have multiple facets that differ in their influences on psychological phenomena and life outcomes. Might Openness/ Intellect, for example, have mechanistically separable influences from intelligence on downstream consequences? Might selfreported traits have different influences than behavioral measures of those same traits? Such differences may exist, for example, between my concept of "me as an extravert" versus my performance on tasks designed to elicit extraverted versus introverted responses and their relations to life outcomes.
+Conclusions
+The three numeric competencies have all been called "numeracy," but they appear instead to be related constructs with
+
+different influences on the processing and use of numbers. Objective numeracy (ONS) seems to drive the use of explicit number operations, including number comparisons and the use of logical number-related algorithms (e.g., calculating an EV), perhaps because those higher in objective numeracy are more able to do the operations, have an affinity for them, or find them less effortful. The results with subjective numeracy were somewhat less clear, but SNS scores appeared related more to motivations, emotions, and confidence involving the use and nonuse of numbers. The mapping of symbolic numbers to internal magnitude representations (SMap) appeared to concern abilities to distinguish between symbolic numeric magnitudes in ways that influence approximate valuation and the encoding and/or retrieval of numeric information from memory. Future research should examine the influence of these numeric competencies on different types of evaluations and choices as well as the quality-of-life outcomes.
+An important caveat for objective numeracy is that performance on logically identical problems may depend somewhat on domain. Levy, Ubel, Dillard, Weir, and Fagerlin (2014), for example, found that respondents were less likely to answer questions correctly when they were posed in a health domain (54% correct) than in a pure math domain (66% correct) or a financial domain (63% correct). Furthermore, Sternberg (1999) reported differences between academic intelligence (similar to what we have measured in the present article) and practical intelligence (that perhaps matters more in real-life judgment and decision making). He cites evidence from Nunes (1994) that Brazilian street children were able to do math in practical applications that they could not solve in a pure math context. It is possible, therefore, that our objective numeracy results will generalize little outside of the lab. It is also possible that people were simply unmotivated by the more academic problems that we posed. However, this study was conducted over four separate days, on each of which participants responded to extensive tasks that could be described as both tedious and hard. We nonetheless retained most participants (85%), indicating highly motivated participants, and the experimenters reported that participants were generally happy with the study. In addition, much research (mostly with objective numeracy) has pointed toward important practical correlations of numerical competency with better health and wealth outcomes (see Peters, 2012; Reyna et al., 2009; Zikmund-Fisher et al., 2014). The importance of domain (including practical vs. academic numeracy) nonetheless remains an important future area for research.
+In fact, we believe it plausible that the differences we uncovered might be even greater in a sample with a wider spread of numerical skill, motivation, and education (our sample was recruited from a college campus and had higher levels of education than average). Although the influence of objective numeracy on judgments and decisions has been investigated in more diverse populations, the potential effects of subjective numeracy and the mapping of symbolic numbers in similar situations have received scant attention.
+The present results, thus, further our understanding of the psychological mechanisms underlying evaluations and choices and point toward potentially more effective interventions, with training in improved mathematics education, the accuracy of symbolic-
+2 Thanks to an anonymous reviewer for some of these suggested avenues for future research.
+
+MULTIPLE NUMERIC COMPETENCIES
+
+817
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+number mapping, and greater confidence with math having potentially different effects in judgments and decisions. Another future avenue of research will be to uncover whether previous results are really due to objective numeracy or simply with its shared variance with some other numeric competency. Improving outcomes in numeric tasks common in people's daily lives ultimately will require further understanding of the detailed mechanism(s) underlying the influences of each of these numeric competencies. New methods should be developed to help decision makers who vary on all of these competencies to cope better with the tyranny of numbers that they face every day.
+References
+Abdellaoui, M., Bleichrodt, H., & Paraschiy, C. (2007). Loss aversion under prospect theory: A parameter-free measurement. Management Science, 53, 1659 -1674.
+Anderson, B. L., Obrecht, N. A., Chapman, G. B., Driscoll, D. A., & Schulkin, J. (2011). Physicians' communication of Down syndrome screening test results: The influence of physician numeracy. Genetics in Medicine, 13, 744 -749. doi:10.1097/GIM.0b013e31821a370f
+Antecol, H., Eren, O., & Ozbeklik, S. (2012). The effect of teacher gender on student achievement in primary school: Evidence from a randomized experiment (IZA Discussion Paper No. 6453). Available at SSRN: http://ssrn.com/abstract2039639
+Arbuckle, J. L. (2009). Amos (Version 18.0) [Computer program]. Chicago, IL: SPSS.
+Barth, H., La Mont, K., Lipton, J., Dehaene, S., Kanwisher, N., & Spelke, E. (2006). Non-symbolic arithmetic in adults and young children. Cognition, 98, 199 -222. doi:10.1016/j.cognition.2004.09.011
+Barth, H. C., & Paladino, A. M. (2011). The development of numerical estimation: Evidence against a representational shift. Developmental Science, 14, 125-135. doi:10.1111/j.1467-7687.2010.00962.x
+Bateman, I., Dent, S., Peters, E., Slovic, P., & Starmer, C. (2007). The affect heuristic and the attractiveness of simple gambles. Journal of Behavioral Decision Making, 20, 365-380. doi:10.1002/bdm.558
+Benjamin, D. J., Brown, S. A., & Shapiro, J. M. (2013). Who is `behavioral'? Cognitive ability and anomalous preferences. Journal of the European Economic Association, 11, 1231-1255. doi:10.1111/jeea .12055
+Betz, N. E. (1978). Prevalence, distribution, and correlates of math anxiety in college students. Journal of Counseling Psychology, 25, 441- 448. doi:10.1037/0022-0167.25.5.441
+Booth, J. L., & Siegler, R. S. (2008). Numerical magnitude representations influence arithmetic learning. Child Development, 79, 1016 -1031. doi: 10.1111/j.1467-8624.2008.01173.x
+Brannon, E. M. (2002). The development of ordinal numerical knowledge in infancy. Cognition, 83, 223-240. doi:10.1016/S00100277(02)00005-7
+Brooks, M. E., & Pui, S. Y. (2010). Are individual differences in numeracy unique from general mental ability? A closer look at a common measure of numeracy. Individual Differences Research, 8, 257-265.
+Bruine de Bruin, W., McNair, S. J., Taylor, A. L., Summers, B., & Strough, J. (in press). "Thinking about numbers is not my idea of fun": Need for cognition mediates age differences in numeracy performance. Medical Decision Making.
+Burns, W. J., Peters, E., & Slovic, P. (2012). Risk perception and the economic crisis: A longitudinal study of the trajectory of perceived risk. Risk Analysis, 32, 659 - 677. doi:10.1111/j.1539-6924.2011.01733.x
+Bynner, A. J., & Parson, S. (2009). Insights into basic skills from a UK longitudinal study. In S. Reder & J. Bynner (Eds.), Tracking adult literacy and numeracy skills: Findings from longitudinal research (pp. 27-58). London, England: Routledge.
+
+Cacioppo, J. T., & Petty, R. E. (1982). The need for cognition. Journal of Personality and Social Psychology, 42, 116 -131.
+Callaway, E. (2013). Dyscalculia: Number games. Nature, 493, 150 -153. doi:10.1038/493150a
+Castel, A. D. (2007). Aging and memory for numerical information: The role of specificity and expertise in associative memory. Journals of Gerontology Series B: Psychological Sciences and Social Sciences, 62, P194 -P196. doi:10.1093/geronb/62.3.P194
+Castronovo, J., & Gobel, S. M. (2012). Impact of high mathematics education on the number sense. PLoS One, 7, e33832. doi:10.1371/ journal.pone.0033832
+Cattell, R. B. (1950). Personality. New York, NY: McGraw-Hill. Chesney, D. L., & Matthews, P. G. (2013). Knowledge on the line:
+Manipulating beliefs about the magnitudes of symbolic numbers affects the linearity of line estimation tasks. Psychonomic Bulletin & Review, 20, 1146 -1153. doi:10.3758/s13423-013-0446-8 Cokely, E. T., & Kelley, C. M. (2009). Cognitive abilities and superior decision making under risk: A protocol analysis and process model evaluation. Judgment and Decision Making, 4, 20 -33. Couper, M. P., & Singer, E. (2009). The role of numeracy in informed consent for surveys. Journal of Empirical Research on Human Research Ethics: JERHRE, 4, 17-26. doi:10.1525/jer.2009.4.4.17 Damarin, F. L., & Cattell, R. B. (1968). Personality factors in early childhood and their relation to intelligence. Monographs of the Society for Research in Child Development, 33(6, Serial No. 122). Dehaene, S. (1997). The number sense: How the mind creates mathematics. New York, NY: Oxford University Press. Dehaene, S., Izard, V., Spelke, E., & Pica, P. (2008). Log or linear? Distinct intuitions of the number scale in Western and Amazonian indigene cultures. Science, 320, 1217-1220. doi:10.1126/science .1156540 De Smedt, B., Verschaffel, L., & Ghesquiere, P. (2009). The predictive value of numerical magnitude comparison for individual differences in mathematics achievement. Journal of Experimental Child Psychology, 103, 469 - 479. doi:10.1016/j.jecp.2009.01.010 DeWind, N. K., & Brannon, E. M. (2012). Malleability of the approximate number system: Effects of feedback and training. Frontiers in Human Neuroscience, 6. doi:10.3389/fnhum.2012.00068 DeYoung, C. G. (2011). Intelligence and personality. In R. J. Sternberg & S. B. Kaufman. (Eds.), The Cambridge handbook of intelligence (pp. 711-737). New York, NY: Cambridge University Press. DeYoung, C. G. (2014). Openness/intellect: A dimension of personality reflecting cognitive exploration. In M. L. Cooper & R. J. Larsen (Eds.), APA handbook of personality and social psychology, volume 4: Personality processes and individual differences (pp. 369 -399). Washington, DC: American Psychological Association. DeYoung, C. G., Quilty, L. C., & Peterson, J. B. (2007). Between facets and domains: 10 aspects of the Big Five. Journal of Personality and Social Psychology, 93, 880 - 896. doi:10.1037/0022-3514.93.5.880 DeYoung, C. G., Quilty, L. C., Peterson, J. B., & Gray, J. R. (2014). Openness to experience, intellect, and cognitive ability. Journal of Personality Assessment, 96, 46 -52. doi:10.1080/00223891.2013.806327 Dieckmann, N. F., Peters, E., Leon, J., Benavides, M., Baker, D. P., & Norris, A. (in press). The role of numeracy and fluid intelligence in sex-related protective behaviors. Current HIV Research. Dieckmann, N. F., Slovic, P., & Peters, E. M. (2009). The use of narrative evidence and explicit likelihood by decisionmakers varying in numeracy. Risk Analysis, 29(10), 1473-1488. doi:10.1111/j.1539-6924 .2009.01279.x Dunning, D., Heath, C., & Suls, J. M. (2004). Flawed self-assessment: Implications for health, education, and the workplace. Psychological Science in the Public Interest, 5, 69 -106. doi:10.1111/j.1529-1006.2004 .00018.x
+
+818 PETERS AND BJALKEBRING
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Eberstadt, N. (1995). The tyranny of numbers: Mismeasurement & misrule (Vol. 528). Washington, DC: American Enterprise Institute.
+Eklund, J. (2012). Objective and subjective measures of numeracy: Is asking enough? (Bachelor's thesis). Retrieved from https://www .researchgate.net/publication/228531848_Objective_and_Subjective_ Measures_of_Numeracy_-_Is_asking_enough
+Ekstrom, R. B., French, J. W., Harman, H., & Derman, D. (1976). Kit of factor-referenced cognitive tests (Rev. ed.). Princeton, NJ: Educational Testing Service.
+Elam, J. T., Graney, M., Beaver, T., El Derwi, D., Applegate, W., & Miller, S. T. (1991). Comparison of subjective ratings of function with observed functional ability of frail older persons. American Journal of Public Health, 81, 1127-1130. doi:10.2105/AJPH.81.9.1127
+Ersner-Hershfield, H., Garton, M. T., Ballard, K., Samanez-Larkin, G. R., & Knutson, H. (2009). Don't stop thinking about tomorrow: Individual differences in future self-continuity account for saving. Judgment and Decision Making, 4, 280 -286.
+Fagerlin, A., Zikmund-Fisher, B. J., Ubel, P. A., Jankovic, A., Derry, H. A., & Smith, D. M. (2007). Measuring numeracy without a math test: Development of the Subjective Numeracy Scale. Medical Decision Making, 27, 672- 680. doi:10.1177/0272989X07304449
+Fazio, L. K., Bailey, D. H., Thompson, C. A., & Siegler, R. S. (in press). Relations of different types of numerical magnitude representations to each other and to mathematics achievement. Journal of Experimental Child Psychology.
+Feigenson, L., Dehaene, S., & Spelke, E. (2004). Core systems of number. Trends in Cognitive Sciences, 8, 307-314. doi:10.1016/j.tics.2004.05 .002
+Fraenkel, L., Cunningham, M., & Peters, E. (in press). Understanding the preference to stay with the status quo. Medical Decision Making.
+Frederick, S. (2005). Cognitive reflection and decision making. Journal of Economic Perspectives, 19, 25- 42. doi:10.1257/089533005775196732
+Fredrickson, B. L., Roberts, T.-A., Noll, S. M., Quinn, D. M., & Twenge, J. M. (1998). That swimsuit becomes you: Sex differences in selfobjectification, restrained eating, and math performance. Journal of Personality and Social Psychology, 75, 269 -284. doi:10.1037/00223514.75.1.269
+Galesic, M., & Garcia-Retamero, R. (2010). Statistical numeracy for health: A cross-cultural comparison with probabilistic national samples. Archives of Internal Medicine, 170, 462- 468. doi:10.1001/archinternmed.2009.481
+Galesic, M., & Garcia-Retamero, R. (2011a). Communicating consequences of risky behaviors: Life expectancy versus risk of disease. Patient Education and Counseling, 82, 30 -35. doi:10.1016/j.pec.2010 .02.008
+Galesic, M., & Garcia-Retamero, R. (2011b). Do low-numeracy people avoid shared decision making? Health Psychology, 30, 336 -341. doi: 10.1037/a0022723
+Halberda, J., & Feigenson, L. (2008). Developmental change in the acuity of the "number sense": The approximate number system in 3-, 4-, 5-, and 6-year-olds and adults. Developmental Psychology, 44, 1457-1465. doi: 10.1037/a0012682
+Halberda, J., Ly, R., Wilmer, J. B., Naiman, D. Q., & Germine, L. (2012). Number sense across the lifespan as revealed by a massive Internetbased sample. Proceedings of the National Academy of Sciences, 109, 11116 -11120. doi:10.1073/pnas.1200196109
+Halberda, J., Mazzocco, M. M. M., & Feigenson, L. (2008). Individual differences in non-verbal number acuity correlate with math achievement. Nature, 455, 665- 668. doi:10.1038/nature07246
+Hanoch, Y., Miron-Shatz, T., Rolison, J. J., & Ozanne, E. (2014, April 14). Understanding of BRCA1/2 genetic tests results: The importance of objective and subjective numeracy. Psycho-Oncology. Advanced online publication. doi:10.1002/pon.3537
+
+Heckman, J. J. (2007). The economics, technology, and neuroscience of human capability formation. Proceedings of the National Academy of Sciences, 104, 13250 -13255. doi:10.1073/pnas.0701362104
+Hess, R., Visschers, V. H., & Siegrist, M. (2011). Risk communication with pictographs: The role of numeracy and graph processing. Judgment and Decision Making, 6, 263-274.
+Hibbard, J. H., Peters, E., Slovic, P., Finucane, M. L., & Tusler, M. (2001). Making health care quality reports easier to use. Joint Commission Journal on Quality Improvement, 27, 591- 604.
+Hox, J. J., & Bechger, T. M. (1998). An introduction to structural equation modeling. Family Science Review, 11, 354 -373.
+Hu, L. T., & Bentler, P. M. (1999). Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives. Structural Equation Modeling: A Multidisciplinary Journal, 6, 1-55. doi:10.1080/10705519909540118
+Hutteman, R., Bleidorn, W., Kereste, G., Brkovic, I., Butkovic, A., & Denissen, J. J. (2014). Reciprocal associations between parenting challenges and parents' personality development in young and middle adulthood. European Journal of Personality, 28, 168 -179. doi:10.1002/per .1932
+Izard, V., & Dehaene, S. (2008). Calibrating the mental number line. Cognition, 106, 1221-1247. doi:10.1016/j.cognition.2007.06.004
+Jasper, J. D., Bhattacharya, C., Levin, I. P., Jones, L., & Bossard, E. (2013). Numeracy as a predictor of adaptive risky decision making. Journal of Behavioral Decision Making, 26, 164 -173. doi:10.1002/bdm.1748
+Kahan, D. M., Peters, E., Dawson, E. C., & Slovic, P. (2013). Motivated numeracy and enlightened self-government. Social Science Research Network. Available from http://papers.ssrn.com/sol3/papers.cfm? abstract_id2319992
+Kahan, D. M., Peters, E., Wittlin, M., Slovic, P., Ouellette, L. L., Braman, D., & Mandel, G. (2012). The polarizing impact of science literacy and numeracy on perceived climate change risks. Nature Climate Change, 2, 732-745. doi:10.1038/nclimate1547
+Kaufman, E. L., Lord, M. W., Reese, T. W., & Volkmann, J. (1949). The discrimination of visual number. American Journal of Psychology, 62, 498 -525. doi:10.2307/1418556
+Keller, C. (2011). Using a familiar risk comparison within a risk ladder to improve risk understanding by low numerates: A study of visual attention. Risk Analysis, 31, 1043-1054. doi:10.1111/j.1539-6924.2010 .01577.x
+Kingston, J. A., & Lyddy, F. (2013). Self-efficacy and short-term memory capacity as predictors of proportional reasoning. Learning and Individual Differences, 26, 185-190. doi:10.1016/j.lindif.2013.01.017
+Kleber, J., Dickert, S., Peters, E., & Florack, A. (2013). Same numbers, different meanings: How numeracy influences the importance of numbers for pro-social behavior. Journal of Experimental Social Psychology, 49, 699 -705. doi:10.1016/j.jesp.2013.02.009
+Kutner, M., Greenberg, E., Jin, Y., Boyle, B., Hsu, Y., & Dunleavy, E. (2007). Literacy in everyday life: Results from the 2003 National Assessment of Adult Literacy (NCES 2007- 480). Washington, DC: U. S. Department of Education, National Center for Education Statistics.
+Lag, T., Bauger, L., Lindberg, M., & Friborg, O. (2014). The role of numeracy and intelligence in health-risk estimation and medical data interpretation. Journal of Behavioral Decision Making, 27, 95-108. doi:10.1002/bdm.1788
+Levy, H., Ubel, P. A., Dillard, A. J., Weir, D. R., & Fagerlin, A. (2014). Health numeracy: The importance of domain in assessing numeracy. Medical Decision Making, 34, 107-115. doi:10.1177/ 0272989X13493144
+Liberali, J. M., Reyna, V. F., Furlan, S., Stein, L. M., & Pardo, S. T. (2012). Individual differences in numeracy and cognitive reflection, with implications for biases and fallacies in probability judgment. Journal of Behavioral Decision Making, 25, 361-381. doi:10.1002/bdm.752
+
+MULTIPLE NUMERIC COMPETENCIES
+
+819
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Libertus, M. E., Feigenson, L., & Halberda, J. (2011). Preschool acuity of the approximate number system correlates with school math ability. Developmental Science, 14, 1292-1300. doi:10.1111/j.1467-7687.2011 .01080.x
+Lipkus, I. M., Samsa, G., & Rimer, B. K. (2001). General performance on a numeracy scale among highly educated samples. Medical Decision Making, 21, 37- 44. doi:10.1177/0272989X0102100105
+Lyons, I. M., & Beilock, S. L. (2012). When math hurts: Math anxiety predicts pain network activation in anticipation of doing math. PloS ONE, 7, e48076. doi:10.1371/journal.pone.0048076
+Martens, A., Johns, M., Greenberg, J., & Schimel, J. (2006). Combating stereotype threat: The effect of self-affirmation on women's intellectual performance. Journal of Experimental Social Psychology, 42, 236 -243. doi:10.1016/j.jesp.2005.04.010
+McConnell, A. R. (2011). The multiple self-aspects framework: Selfconcept representation and its implications. Personality and Social Psychology Review, 15, 3-27. doi:10.1177/1088868310371101
+McCrae, R. R., Costa, P. T., de Lima, M. P., Simoes, A., Ostendorf, F., Angleitner, A., . . . Piedmont, R. L. (1999). Age differences in personality across the adult life span: Parallels in five cultures. Developmental Psychology, 35, 466 - 477. doi:10.1037/0012-1649.35.2.466
+McCrae, R. R., Martin, T. A., & Costa, P. T. (2005). Age trends and age norms for the NEO Personality Inventory-3 in adolescents and adults. Assessment, 12, 363-373. doi:10.1177/1073191105279724
+Meck, W. H., & Church, R. M. (1983). A mode control model of counting and timing processes. Journal of Experimental Psychology: Animal Behavior Processes, 9, 320 -334. doi:10.1037/0097-7403.9.3.320
+Meece, J. L., Wigfield, A., & Eccles, J. S. (1990). Predictors of math anxiety and its influence on young adolescents' course enrollment intentions and performance in mathematics. Journal of Educational Psychology, 82, 60 -70. doi:10.1037/0022-0663.82.1.60
+Miron-Shatz, T., Hanoch, Y., Doniger, G. M., Omer, Z. B., & Ozanne, E. M. (2014). Subjective but not objective numeracy influences willingness to pay for BRCA1/2 genetic testing. Judgment and Decision Making, 9, 152-158.
+Moyer, R. S., & Landauer, T. K. (1967). Time required for judgements of numerical inequality. Nature, 215, 1519 -1520. doi:10.1038/2151519a0
+Naccache, L., & Dehaene, S. (2001). Unconscious semantic priming extends to novel unseen stimuli. Cognition, 80, 215-229. doi:10.1016/ S0010-0277(00)00139-6
+Nelson, W. L., Moser, R. P., & Han, P. J. (2013). Exploring objective and subjective numeracy at a population level: Findings from the 2007 Health Information National Trends Survey (HINTS). Journal of Health Communication, 18, 192-205. doi:10.1080/10810730.2012.688450
+Nieder, A., Freedman, D. J., & Miller, E. K. (2002). Representation of the quantity of visual items in the primate prefrontal cortex. Science, 297, 1708 -1711. doi:10.1126/science.1072493
+Nosek, B. A., Banaji, M., & Greenwald, A. G. (2002). Harvesting implicit group attitudes and beliefs from a demonstration web site. Group Dynamics: Theory, Research, and Practice, 6, 101-115. doi:10.1037/10892699.6.1.101
+Nunes, T. (1994). Street intelligence. In R. J. Sternberg (Ed.), Encyclopedia of human intelligence (Vol. 2, pp. 1045-1049). New York, NY: Macmillan.
+Nys, J., Ventura, P., Fernandes, T., Querido, L., & Leybaert, J. (2013). Does math education modify the approximate number system? A comparison of schooled and unschooled adults. Trends in Neuroscience and Education, 2, 13-22. doi:10.1016/j.tine.2013.01.001
+Opfer, J. E., & Siegler, R. S. (2007). Representational change and children's numerical estimation. Cognitive Psychology, 55, 169 -195. doi: 10.1016/j.cogpsych.2006.09.002
+Park, J., & Brannon, E. M. (2014). Improving arithmetic performance with number sense training: An investigation of underlying mechanism. Cognition, 133, 188 -200. doi:10.1016/j.cognition.2014.06.011
+
+Parkman, J. M. (1971). Temporal aspects of digit and letter inequality judgments. Journal of Experimental Psychology, 91, 191-205. doi: 10.1037/h0031854
+Peters, E. (2012). Beyond comprehension: The role of numeracy in judgments and decisions. Current Directions in Psychological Science, 21, 31-35. doi:10.1177/0963721411429960
+Peters, E., Baker, D. P., Dieckmann, N. F., Leon, J., & Collins, J. (2010). Explaining the effect of education on health: A field study in Ghana. Psychological Science, 21, 1369 -1376. doi:10.1177/0956797 610381506
+Peters, E., Dieckmann, N. F., Vastfjall, D., Mertz, C. K., Slovic, P., & Hibbard, J. H. (2009). Bringing meaning to numbers: The impact of evaluative categories on decisions. Journal of Experimental Psychology: Applied, 15, 213-227. doi:10.1037/a0016978
+Peters, E., Hess, T. M., Vastfjall, D., & Auman, C. (2007). Adult age differences in dual information processes: Implications for the role of affective and deliberative processes in older adults' decision making. Perspectives on Psychological Science, 2, 1-23. doi:10.1111/j.17456916.2007.00025.x
+Peters, E., & Levin, I. P. (2008). Dissecting the risky-choice framing effect: Numeracy as an individual-difference factor in weighting risky and riskless options. Judgment and Decision Making, 3, 435- 448.
+Peters, E., Meilleur, L., & Tompkins, M. K. (2013). Numeracy and the Affordable Care Act: Opportunities and challenges. Retrieved from http://www.iom.edu/~/media/Files/Activity%20Files/PublicHealth/ HealthLiteracy/Commissioned-Papers/Numeracy-and-the-AffordableCare-Act-Opportunities-and-Challenges.pdf
+Peters, E., Slovic, P., Vastfjall, D., & Mertz, C. K. (2008). Intuitive numbers guide decisions. Judgment and Decision Making, 3, 619 - 635.
+Peters, E., Vastfjall, D., Slovic, P., Mertz, C. K., Mazzocco, K., & Dickert, S. (2006). Numeracy and decision making. Psychological Science, 17, 407- 413. doi:10.1111/j.1467-9280.2006.01720.x
+Petrova, D. G., van der Pligt, J., & Garcia-Retamero, R. (2014). Feeling the numbers: On the interplay between risk, affect, and numeracy. Journal of Behavioral Decision Making, 27, 191-199. doi:10.1002/bdm.1803
+Piazza, M., Pica, P., Izard, V., Spelke, E. S., & Dehaene, S. (2013). Education enhances the acuity of the nonverbal approximate number system. Psychological Science, 24, 1037-1043. doi:10.1177/ 0956797612464057
+Poltrock, S. E. (1989). Innovation in user interface development: Obstacles and opportunities. ACM SIGCHI Bulletin, 20, 191-195.
+Price, G. R., Palmer, D., Battista, C., & Ansari, D. (2012). Nonsymbolic numerical magnitude comparison: Reliability and validity of different task variants and outcome measures, and their relationship to arithmetic achievement in adults. Acta Psychologica, 140, 50 -57. doi:10.1016/j .actpsy.2012.02.008
+Ratcliff, R., Thapar, A., & McKoon, G. (2010). Individual differences, aging, and IQ in two-choice tasks. Cognitive Psychology, 60, 127-157. doi:10.1016/j.cogpsych.2009.09.001
+Reyna, V. F. (2004). How people make decisions that involve risk: A dual-processes approach. Current Directions in Psychological Science, 13, 60 - 66. doi:10.1111/j.0963-7214.2004.00275.x
+Reyna, V. F., Nelson, W. L., Han, P. K., & Dieckmann, N. F. (2009). How numeracy influences risk comprehension and medical decision making. Psychological Bulletin, 135, 943-973. doi:10.1037/a0017327
+Rich, G. A., Bommer, W. H., MacKenzie, S. B., Podsakoff, P. M., & Johnson, J. L. (1999). Methods in sales research: Apples and apples or apples and oranges? A meta-analysis of objective and subjective measures of salesperson performance. Journal of Personal Selling & Sales Management, 19, 41-52.
+Rips, L. J. (2013). How many is a zillion? Sources of number distortion. Journal of Experimental Psychology: Learning, Memory, and Cognition, 39, 1257-1264. doi:10.1037/a0031143
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+820 PETERS AND BJALKEBRING
+
+Rolison, J. J., Wood, S., Hanoch, Y., & Liu, P. J. (2013). Subjective numeracy scale as a tool for assessing statistical numeracy in older adult populations. Gerontology, 59, 283-288. doi:10.1159/000345797
+Saucier, G. (1994). Mini-markers: A brief version of Goldberg's unipolar Big-Five markers. Journal of Personality Assessment, 63, 506 -516.
+Schley, D. R., & Fujita, K. (2014, June 26). Seeing the math in the story on how abstraction promotes performance on mathematical word problems. Social Psychological and Personality Science. Advance online publication. doi:10.1177/1948550614539519
+Schley, D. R. & Peters, E. (2014). Assessing "economic value": Symbolic number mapping predicts risky and riskless valuations. Psychological Science, 25, 753-761.
+Schwarz, N., & Clore, G. L. (1983). Mood, misattribution, and judgments of well-being: Informative and directive functions of affective states. Journal of Personality and Social Psychology, 45, 513-523. doi: 10.1037/0022-3514.45.3.513
+Siegler, R. S., & Opfer, J. E. (2003). The development of numerical estimation: Evidence for multiple representations of numerical quantity. Psychological Science, 14, 237-250. doi:10.1111/1467-9280.02438
+Slovic, P., & Peters, E. (2006). Risk perception and affect. Current Directions in Psychological Science, 15, 322-325. doi:10.1111/j.1467-8721 .2006.00461.x
+Smith, J. P., McArdle, J. J., & Willis, R. (2010). Financial decision making and cognition in a family context. The Economic Journal, 120, F363- F380. doi:10.1111/j.1468-0297.2010.02394.x
+Smith, S. G., Wolf, M. S., & von Wagner, C. (2010). Socioeconomic status, statistical confidence, and patient-provider communication: An analysis of the Health Information National Trends Survey (HINTS 2007). Journal of Health Communication, 15(Suppl. 3), 169 -185.
+Soto, C. J., John, O. P., Gosling, S. D., & Potter, J. (2011). Age differences in personality traits from 10 to 65: Big Five domains and facets. Journal of Personality and Social Psychology, 100, 330 -348. doi:10.1037/ a0021717
+Specht, J., Egloff, B., & Schmukle, S. C. (2011). Stability and change of personality across the life course: The impact of age and major life events on mean-level and rank-order stability of the Big Five. Journal of Personality and Social Psychology, 101, 862- 882. doi:10.1037/ a0024950
+Sternberg, R. J. (1999). The theory of successful intelligence. Review of General Psychology, 3, 292-316. doi:10.1037/1089-2680.3.4.292
+Stoet, G., & Geary, D. C. (2012). Can stereotype threat explain the gender gap in mathematics performance and achievement? Review of General Psychology, 16, 93-102. doi:10.1037/a0026617
+Tait, A. R., Voepel-Lewis, T., Zikmund-Fisher, B. J., & Fagerlin, A. (2010). The effect of format on parents' understanding of the risks and benefits of clinical research: A comparison between text, tables, and graphics. Journal of Health Communication, 15, 487-501. doi:10.1080/ 10810730.2010.492560
+Taylor, S. E., Lerner, J. S., Sherman, D. K., Sage, R. M., & McDowell, N. K. (2003). Are self-enhancing cognitions associated with healthy or unhealthy biological profiles? Journal of Personality and Social Psychology, 85, 605- 615. doi:10.1037/0022-3514.85.4.605
+
+Thaler, R. H., & Sunstein, C. R. (2003). Libertarian paternalism. American Economic Review, 93, 175-179. doi:10.1257/000282803321947001
+Thompson, C. A., & Siegler, R. S. (2010). Linear numerical-magnitude representations aid children's memory for numbers. Psychological Science, 21, 1274 -1281. doi:10.1177/0956797610378309
+Ullman, J. B. (2001). Structural equation modeling. In B. G. Tabachnick & L. S. Fidell (Eds.), Using multivariate statistics (pp. 653-771). Boston, MA: Allyn & Bacon.
+Wechsler, D. (1997). Wechsler Adult Intelligence Scale (3rd ed.). New York, NY: Psychological Corporation.
+Weller, J. A., Dieckmann, N. F., Tusler, M., Mertz, C. K., Burns, W. J., & Peters, E. (2013). Development and testing of an abbreviated numeracy scale: A Rasch analysis approach. Journal of Behavioral Decision Making, 26, 198 -212. doi:10.1002/bdm.1751
+Whalen, J., Gallistel, C. R., & Gelman, R. (1999). Nonverbal counting in humans: The psychophysics of number representation. Psychological Science, 10, 130 -137. doi:10.1111/1467-9280.00120
+Winman, A., Juslin, P., Lindskog, M., Nilsson, H., & Kerimi, N. (2014). The role of ANS acuity and numeracy for the calibration and the coherence of subjective probability judgments. Frontiers in Psychology, 5, 851.
+Woloshin, S., Schwartz, L. M., & Welch, H. G. (2004). The value of benefit data in direct-to-consumer drug ads. Health Affairs, 23, 234 - 245. doi:10.1377/hlthaff.w4.234
+Woodcock, R. W., McGrew, K. S., & Mather, N. (2001). WoodcockJohnson III tests of cognitive abilities. Itasca, IL: Riverside Publishing.
+Zebian, S., & Ansari, D. (2012). Differences between literates and illiterates on symbolic but not nonsymbolic numerical magnitude processing. Psychonomic Bulletin & Review, 19, 93-100. doi:10.3758/s13423-0110175-9
+Zikmund-Fisher, B. J., Mayman, G., & Fagerlin, A. (2014). Patient numeracy: What do patients need to recognize, think or do with health numbers? In B. L. Anderson & J. Schulkin (Eds.), Numerical reasoning in judgments and decision making about health (pp. 80 -104). Cambridge, England: Cambridge University Press. doi:10.1017/ CBO9781139644358.005
+Zikmund-Fisher, B. J., Smith, D. M., Ubel, P. A., & Fagerlin, A. (2007). Validation of the subjective numeracy scale (SNS): Effects of low numeracy on comprehension of risk communications and utility elicitations. Medical Decision Making, 27, 663- 671. doi:10.1177/ 0272989X07303824
+Zikmund-Fisher, B. J., Ubel, P. A., Smith, D. M., Derry, H. A., McClure, J. B., Stark, A., . . . Fagerlin, A. (2008). Communicating side effect risks in a tamoxifen prophylaxis decision aid: The debiasing influence of pictographs. Patient Education and Counseling, 73, 209 -214. doi: 10.1016/j.pec.2008.05.010
+Zillig, L. M. P., Hemenover, S. H., & Dienstbier, R. A. (2002). What do we assess when we assess a Big 5 trait? A content analysis of the affective, behavioral, and cognitive processes represented in Big 5 personality inventories. Personality and Social Psychology Bulletin, 28, 847- 858. doi:10.1177/0146167202289013
+
+(Appendices follow)
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+MULTIPLE NUMERIC COMPETENCIES
+Appendix A Bets Task: Linear Regression Final Model
+
+821
+
+Variable
+
+Bet attractiveness 
+
+p
+
+ONS (centered) SMap (centered) SNS (centered) WM (centered) Vocab (centered) Condition (0  loss; 1  no loss) ONS  Condition SMap  Condition SNS  Condition
+Model R2 Model statistics
+
+.33 R .21 R R .26 .28 R R
+.19
+
+F(4, 105)  6.04
+
+.02 .04
+.00 .04
+.001
+
+Note. n  110. The final regression model was formed by removing nonsignificant predictors one at a time (based on the largest p value) until the final model included only significant predictors. R  a predictor that was removed; ONS  Objective Numeracy Scale; SMap  Symbolic-Number Mapping; SNS  Subjective Numerical Scale; WM  working memory; Vocab  vocabulary.
+
+Appendix B Memory Task: Linear Regression Final Models
+
+Variable
+
+Numeric memory
+
+Correct numbers
+
+Nonresponses to numbers
+
+p  p
+
+Object memory
+
+Correct objects
+
+Nonresponses to objects
+
+p  p
+
+ONS SMap SNS WM Vocab
+Model R2 Model statistics
+
+R .21 .026 R .29 .002 R
+.14 .001 F(2, 101)  8.50,
+p  .001
+
+R
+R .19 .28
+R
+
+.043 .003
+
+.13 .001 F(2, 101)  7.40,
+p  .001
+
+R R R R .20 .046
+.04 .046 F(1, 102)  4.09,
+p  .046
+
+.29 .17
+
+R R .003 R .072
+
+.11 .002 F(2, 101)  6.44,
+p  .002
+
+Note. n  104. The final regression model was formed by removing nonsignificant predictors one at a time (based on the largest p value) until the final model included only significant predictors. ONS  Objective Numeracy Scale; R indicates a predictor that was removed; SMap  Symbolic-Number Mapping; SNS  Subjective Numerical Scale; WM  working memory; Vocab  vocabulary.
+
+(Appendices continue)
+
+822 PETERS AND BJALKEBRING
+Appendix C Risky Choice Valuation Task: Linear Regression Final Models
+
+Variable
+
+Summed distance to EV (n  108) p
+
+ONS SMap SNS WM Vocab
+Model R2 Model statistics
+
+.30 .19
+R R R
+.15
+
+F(2, 105)  9.25
+
+.002 .048
+.001
+
+Note. The final regression model was formed by removing nonsignificant predictors one at a time (based on the largest p value) until the final model included only significant predictors. ONS  Objective Numeracy Scale; R indicates a predictor that was removed; SMap  Symbolic-Number Mapping; SNS  Subjective Numerical Scale; WM  working memory; Vocab  vocabulary.
+
+Received March 21, 2014 Revision received August 17, 2014
+Accepted August 21, 2014 
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers. This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Members of Underrepresented Groups: Reviewers for Journal Manuscripts Wanted
+If you are interested in reviewing manuscripts for APA journals, the APA Publications and Communications Board would like to invite your participation. Manuscript reviewers are vital to the publications process. As a reviewer, you would gain valuable experience in publishing. The P&C Board is particularly interested in encouraging members of underrepresented groups to participate more in this process.
+If you are interested in reviewing manuscripts, please write APA Journals at Reviewers@apa.org. Please note the following important points:
+* To be selected as a reviewer, you must have published articles in peer-reviewed journals. The experience of publishing provides a reviewer with the basis for preparing a thorough, objective review.
+* To be selected, it is critical to be a regular reader of the five to six empirical journals that are most central to the area or journal for which you would like to review. Current knowledge of recently published research provides a reviewer with the knowledge base to evaluate a new submission within the context of existing research.
+* To select the appropriate reviewers for each manuscript, the editor needs detailed information. Please include with your letter your vita. In the letter, please identify which APA journal(s) you are interested in, and describe your area of expertise. Be as specific as possible. For example, "social psychology" is not sufficient--you would need to specify "social cognition" or "attitude change" as well.
+* Reviewing a manuscript takes time (1- 4 hours per manuscript reviewed). If you are selected to review a manuscript, be prepared to invest the necessary time to evaluate the manuscript thoroughly.
+APA now has an online video course that provides guidance in reviewing manuscripts. To learn more about the course and to access the video, visit http://www.apa.org/pubs/authors/reviewmanuscript-ce-video.aspx.
+
+

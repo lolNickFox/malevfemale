@@ -1,0 +1,163 @@
+ COMMENTARY 
+
+Toward a Theory-Driven Model of Acculturation in Public Health Research
+
+Interest in studying the impact of acculturation on immigrant health has increased in tandem with the growth of the Latino population in the United States. Linear assimilation models continue to dominate public health research despite the availability of more complex acculturation theories that propose multidimensional frameworks, reciprocal interactions between the individual and the environment, and other acculturative processes among various Latino groups.
+Because linear and unidimensional assessments (e.g., nativity, length of stay in the United States, and language use) provide constricted measures of acculturation, the rare use of multidimensional acculturation measures and models has inhibited a more comprehensive understanding of the association between specific components of acculturation and particular health outcomes. A public health perspective that incorporates the roles of structural and cultural forces in acculturation may help identify mechanisms underlying links between acculturation and health among Latinos. (Am J Public Health. 2006; 96:1342-1346. doi:10.2105/ AJPH.2005.064980)
+
+| Ana F. Abraido-Lanza, PhD, Adria N. Armbrister, MA, Karen R. Florez, MPH, and Alejandra N. Aguirre, MPH
+
+BECAUSE OF ITS ORIENTATION in and emphasis on health disparities, the field of public health should pay particular attention to the impact of acculturation on the health of Latinos. Latinos are currently the largest ethnic minority group in the United States, numbering 35.3 million persons and comprising 12.5% of the country's population.1 Although the percentage varies across the different Latino groups, more than two thirds (65.2%) of Latinos (excluding Puerto Ricans) living in the United States are foreign-born.2 This large proportion of immigrants illustrates, in part, the importance of considering acculturation in research on the health of Latinos.
+Although definitions vary, acculturation is broadly described as the process by which individuals adopt the attitudes, values, customs, beliefs, and behaviors of another culture.3,4 The process of acculturation presents numerous challenges and life changes that could potentially benefit or adversely affect the health of immigrants as well as subsequent US-born generations. Therefore, it is important to consider acculturation processes when studying the health of all Latinos in the United States.
+In the social and behavioral sciences, there is a rich theoretical literature on acculturation; however, models from this literature have not been applied to much public health research. Theoretically grounded studies of acculturation could provide effective
+
+analytic tools for current efforts to address health disparities among Latinos. Because of its orientation toward and examination of largescale structural and cultural forces that promote health, prevent disease, and affect illness experiences, a public health perspective on acculturation may offer a deeper understanding of Latino health. Thus, a public health approach could contribute much to the development and refinement of acculturation theory and simultaneously address the health needs of Latino populations in the United States.
+ACCULTURATION THEORY AND MEASUREMENT
+Research on acculturation and health has not kept pace with acculturation theory. As illustrated in detailed reviews of the acculturation literature,3-7 in the early 1900s numerous social scientists offered various acculturation theories. The most influential models were set forth by sociologists from the human ecological school of thought, most notably Park.8 In essence, Park proposed a linear and directional process by which loss of the original culture occurs through greater acculturation. Despite the evolution of more elaborate paradigms in the social and behavioral sciences, these linear assimilation models were adopted by much of the public health research on acculturation.
+With few notable exceptions,9 reciprocal acculturation processes, or the influence of immigrant
+
+groups on American society, remain virtually untested,7 as do other more expansive contemporary theories. Such models posit orthogonal relations between the original and the new culture,10 resulting in various orientations that include biculturalism (e.g., strong adherence to both Mexican and American value systems). Other multidimensional models propose typologies on the basis of cultural awareness and ethnic loyalty.11 Still others postulate that immigrants selectively adopt traits and behaviors from the new culture, especially those traits leading to increased economic and social mobility, while maintaining certain values from their original culture.3,4
+There are numerous scales available to measure acculturation, perhaps reflecting its diverse conceptualizations. Although the measurement of acculturation is a matter of controversy and debate12 in public health literature, indexes of acculturation that predominate are nativity or generational status, length of residence in the United States, and language use. These simple descriptors are useful in laying the groundwork for acculturation and for describing the heterogeneity of the Latino population, but they are limited in their ability to capture all the nuances of acculturation and to tap directly immigrants' adherence to American values. Furthermore, such proxy measures largely reflect the linear and directional assumption of earlier acculturation theories. To
+
+1342 | Commentary | Peer Reviewed | Abraido-Lanza
+
+American Journal of Public Health | August 2006, Vol 96, No. 8
+
+ COMMENTARY 
+
+address some of these problems, multidimensional scales have been developed to tap domains such as language, food, and music preferences; the extent of social ties and contacts with friends of the same ethnic group; parents' place of birth; ethnic identity; and social affiliation with Latinos versus Anglos.9,13,14 However, many of these scales are scored by summing across items (with greater scores reflecting strong adherence to Anglo culture). Such procedures minimize the utility of measuring the multiple dimensions of acculturation.15,16
+Greater advances in research on acculturation and health could be made if acculturation were represented as a "latent variable" with various indicators. This allows the measurement of Latino cultural "worldviews" or belief systems, values (e.g., individualism vs familialism), linguistic preferences, and other behaviors and preferences, which would represent the latent variable of acculturation. Moreover, the use of more elaborate statistical techniques, such as structural equations,17 allows for the associations between specific indicators of acculturation and various health outcomes to be modeled. Furthermore, because health behaviors encompass a disparate array of variables, ranging from dietary practices to the use of social support systems, acculturation may be measured best by considering factors relevant to the particular health issue at hand, rather than by a monolithic "acculturation" concept. For example, research on obesity may be best served by asking specific acculturation questions on nutrition (e.g., adherence to "traditional" diets consisting of low-fat foods such
+
+as beans, rice, and vegetables) or other culturally based behaviors (e.g., attitudes about exercise). This would help identify the specific components of acculturation that are associated with particular health outcomes.18
+Many existing theories and scales disregard historical, societal, and other structural factors, as well as social dynamics that promote and maintain specific acculturation orientations or patterns, such as biculturalism. Pochismo, which is the fusion and crystallization of American and Mexican cultural elements that evolved among Mexican Americans of the southern border of the United States,19 is a salient example of this type of biculturalism. In fact, pochismo could be considered a distinct and freestanding culture with its own language (Spanglish), music, and identity that evolved from the dynamic and reciprocal interaction of Mexican and American cultures in the border region and that would prove very difficult to assess with current acculturation measures.
+As described in subsequent sections, however, historical and sociopolitical factors that influence immigration vary across the different Latino groups. Therefore, the specific types of social and structural factors that should be taken into account may depend on the particular Latino group being studied.
+ACCULTURATION AS A HEALTH RISK OR A PROTECTIVE FACTOR
+The integration of acculturation theory into public health research could advance the study of various Latino health issues. With respect to global health indicators, such as all-cause
+
+mortality and life expectancy, there is growing evidence of better health among Latinos than among non-Latino Whites.20-24 However, high levels of acculturation among Latinos are associated with increased rates of cancer, infant mortality, and other indicators of poor physical and mental health.3,25 With some exceptions,26 rates of risky health behaviors (e.g., smoking, alcohol use, high body mass index) also increase with acculturation.17,23,27-33 These findings suggest that, in the process of acculturation, Latinos may be exposed to different risk factors or may adopt unhealthy behaviors that result in shifts in morbidity and mortality for various diseases.
+The results are not all negative, however. Although acculturation is a "risk factor" for myriad unhealthy behaviors, there is also some evidence that it is associated with several healthy behaviors, such as greater exercise and leisure-time physical activity.17,27,28,34 The observations that acculturation can be both a risk and a protective factor for various health behaviors requires further study.17 However, research on these issues has been hampered by the measurement problems described in the previous section. For example, multidimensional scales may be useful in identifying specific components of acculturation, such as norms concerning smoking or alcohol consumption, that present risk or protective factors for particular health problems, such as tobacco use or binge drinking.9 The role of acculturation as a risk and protective factor also raises some intriguing theoretical issues and unanswered questions.
+
+NEED FOR THEORETICAL MODELS
+Despite growing evidence of the association between acculturation and health behaviors among Latinos in the United States, few theories have been proposed to explain these effects. In general, there is a great lack of theoretical models on acculturation and physical health outcomes.35
+Acculturation may be a proxy for other variables, such as prolonged exposure to stressful events or adverse circumstances, including those associated with immigration and eventual settlement, or disadvantaged social status. Although proxy variables have not been fully investigated, the adverse effect of acculturation on health is not always attenuated when adjusting for social disadvantage confounders (specifically, socioeconomic status).17,25 To date, there is a lack of research on theoretical models concerning the mechanisms by which acculturation affects health. Acculturation may affect health behaviors as a consequence of coping responses to discrimination and poverty; loss of social networks; exposure to different models of health behavior; and changes in identity, behavioral prescriptions, beliefs, values, or norms.
+An underlying assumption in the literature is that beliefs or norms concerning particular behaviors change with greater acculturation. These mutable beliefs and norms are seldom tested, however. One recent study indicated that the majority (almost 75%) of less acculturated Latinas considered it worse to be a smoker than to be obese, and the majority (nearly 75%) of more acculturated Latinas
+
+August 2006, Vol 96, No. 8 | American Journal of Public Health
+
+Abraido-Lanza | Peer Reviewed | Commentary | 1343
+
+ COMMENTARY 
+
+held the opposite opinion.36 If we assume that these norms are reflected in women's behavior concerning smoking and maintenance of weight, they are consistent with some observations in the literature (e.g., that acculturation increases the odds of smoking and exercise among Latinas)27,28,37,38 but not others (e.g., that acculturation increases the likelihood of high body mass index).27,28,30
+Overall, changes in values, belief systems, and worldviews have remained unexplored in public health research on acculturation and health outcomes. Yet a growing literature documents the importance of considering the impact of acculturation on these psychosocial variables and their role in shaping the health of Latinos.35,39 Whether cultural values and other psychosocial mechanisms--as well as their associated effects on health--decline with greater acculturation remains a question for further research.
+ACCULTURATION TO WHAT?
+Another critical theoretical question concerns the reference culture to which Latinos are acculturating. Although the reference group is not always specified,12 implicit in much research on acculturation is the unwritten understanding that White Americans are the standard makers for "American-ness." In many studies and measures, the assumption is that increased acculturation brings immigrants' values and behaviors in line with a standardized set of values, primarily those associated with "White American culture."16(p39) Positing that White culture is the reference point for acculturation may misrepresent
+
+acculturation and limit the understanding of complex health responses and outcomes among Latinos. Therefore, a fuller understanding of acculturation processes among Latinos must include the interactions of Latinos with other groups of color (whose ability to disappear in the mainstream is limited). This approach must take into consideration the prevalence of racial conflict and the degree to which the dualistic racial system is embedded in the United States.40
+Segmented assimilation theory, which portrays immigrants and their subsequent generations as complex and active members of their lived environments, presents an alternative to the assumption that White culture is invariably the reference point for acculturation.5 Segmented assimilation refers to diverse patterns of adaptation whereby immigrant groups differentially adopt the attitudes, beliefs, and behaviors of divergent cultural groups in the United States. For example, whereas some second-generation Haitian adolescents do follow a "standard" pattern of assimilation to middle-class White America, others adopt the values and norms of Black inner-city youth.40 Thus, the segmented assimilation framework documents various potential patterns of acculturation, highlighting the importance of considering varied reference groups and diverse patterns of adaptation.
+Pivotal to the concept of segmented assimilation is the acknowledgment of structural constraints faced by ethnic minority groups, who often reside in large metropolitan areas with high rates of residential segregation and racism.41 Often, the synergistic effects of segregation and racism isolate residents from
+
+amenities and services and concentrate large numbers of minorities in economically disadvantaged urban areas. The inevitable interaction occurring at economic, political, cultural, and social levels between different ethnic groups living in multiethnic neighborhoods (e.g., Dominicans living with African Americans in the South Bronx) is largely neglected by the acculturation literature. A paucity of studies attempt to measure the extent to which Latinos report closeness or ideological familiarity with African Americans.42 We are aware of no public health studies that examine whether Latinos adopt the culture of other ethnic minority populations in the United States, how structural factors (e.g., residential segregation) may operate to promote "ethnic minority acculturation," or the impact of this process on health.
+Issues such as acculturation in the context of residential segregation, racism, and other deleterious aspects of life as a minority in the United States demand attention from a forward-thinking public health research community. Equally important to this reconceptualized version of acculturation is the exploration of how ethnic enclaves might affect health positively or negatively through cultural, economic, and social mechanisms.5,40 A public health approach should consider contextual and structural factors in acculturation and challenge the popular notion of White American culture as the "acculturation standard." This approach could offer some innovative methods to understand health disparities in lived environments while also effectively describing the reality of minority groups in the United States.
+
+GENDER AND AGE
+Research is also needed to better understand why the effect of acculturation on certain health behaviors varies by gender and age or developmental stage. For example, as Latino men and women acculturate, their alcohol use and smoking patterns reflect the gender-related behavioral norms in the United States.31,33,38,43 In studies of youths, greater acculturation increases the likelihood of alcohol use and smoking44-46; however, acculturation operates with other psychosocial factors pertinent to the adolescent life stage (e.g., peer influence, low self-esteem, self-efficacy to resist smoking and alcohol use) to determine risky health behaviors.47-49 Such findings challenge the assumption of a direct relation between acculturation and health behaviors. These findings further illustrate the need for more comprehensive theoretical models that incorporate structural and contextual factors, as well as mediating variables, to explain the association between acculturation and health among Latinos in the United States. Further studies should also examine whether behaviors that are attributed to acculturation (e.g., tobacco and alcohol use), instead reflect stages of development or gender norms.
+THE COMPLEXITIES OF "CULTURE"
+Simplifying culture into "ethnic," "assimilated," or other "risk" categories (e.g., "high" vs "low" acculturation) can inadvertently fuel weak explanations of health disparities by focusing attention on culture rather than on structural constraints (e.g., lack of access to resources).50 Yet much
+
+1344 | Commentary | Peer Reviewed | Abraido-Lanza
+
+American Journal of Public Health | August 2006, Vol 96, No. 8
+
+ COMMENTARY 
+
+current research uses proxies of culture and acculturation without examining the societal contexts that promote or inhibit health. The role of individual agency on health can be overestimated if structural constraints are not considered.51 For example, US immigration policy was amenable to Cuban immigrants fleeing the Castro regime (especially in the 1960s-1970s), and federal settlement-assistance programs (e.g., the US Migration and Refugee Assistance Act of 196252) were established specifically to assist them. Partly because of the upward social mobility afforded by these programs, today Cubans are among the most healthy of all long-standing Latino groups in the United States.25
+Other groups seeking political asylum (e.g., Salvadorans and Mariel Cubans), however, were treated to noticeably less hospitality. What is the impact (if any) of these historical and political factors on acculturation processes and health outcomes, and how might they contribute to different patterns among the various Latino groups in the United States? Although the contextual features of acculturation (e.g., circumstances before immigrating, the political and social climate of the United States upon arrival) could determine the extent to which individuals and heterogeneous Latino groups adapt to new environments, these contexts are rarely studied.15,17,40
+The complexity of these issues led some researchers to suggest that the use of acculturation measures be suspended.12 We disagree with this recommendation. Instead, we propose that to understand Latino realities in the United States, it is critical to describe the context in which
+
+ongoing cultural negotiations take place and the dynamics that reproduce and reconfigure "Latino culture" according to the equally complex American settings in which immigrants and other people of color find themselves. A consideration of the intersection of large-scale social forces and culture is critical to stimulating the exploration of much-neglected sociological concepts, namely, class and power dynamics in the public health literature on acculturation. Such avenues of research could prove to be fruitful in explaining the complexities surrounding Latino acculturation and health in the United States.
+CONCLUSIONS
+Although we raise more questions than we answer, we propose that a theory-based public health framework could contribute much to understanding the factors and mechanisms underlying the association between acculturation and health among Latinos. If cultural norms, beliefs, and values as well as broader structural factors are considered, a public health research agenda on acculturation and health may help to shift the paradigm from linear models to models that are multidimensional and more comprehensive. A public health framework offers the promising opportunity to build new paradigms that incorporate and expand on social and behavioral science acculturation theories and that cross disciplinary boundaries. There is no doubt that Latinos in the United States face many hardships (e.g., poverty, inadequate access to health care, discrimination). However, perhaps it is time to identify and differentiate the cultural
+
+resources and structural factors that better explain how acculturation affects health.
+About the Authors
+All authors are with the Department of Sociomedical Sciences, Mailman School of Public Health, Columbia University, New York, NY.
+Requests for reprints should be sent to Ana Abraido-Lanza, PhD, Department of Sociomedical Sciences, Mailman School of Public Health, Columbia University, 722 West 168 St, 5th floor, New York, NY 10032 (e-mail: aabraido@columbia.edu).
+This article was accepted September 23, 2005.
+Contributors
+A. Abraido-Lanza originated the article and took the lead role in its writing. All authors participated in the literature review and in the writing and revising of the article.
+Acknowledgments
+Support for preparing this manuscript was provided by the Initiative for Minority Student Development at Columbia's Mailman School of Public Health, an education project funded by the National Institute of General Medical Sciences (R25GM62454), by the National Cancer Institute (R03CA107876), and by the Columbia Center for the Health of Urban Minorities, funded by the National Center on Minority Health and Health Disparities (P60MD00206).
+We give special thanks to Antonio T. Abraido.
+References
+1. US Census Bureau. The Hispanic Population: Census 2000 Brief. Available at: http://www.census.gov/prod/2001pubs/ c2kbr01-3.pdf. Accessed April 21, 2006.
+2. Population Profile of the United States: 1997. Washington, DC: US Bureau of the Census; 1998. Current Population Reports Series P23-194.
+3. Clark L, Hofsess L. Acculturation. In: Loue S, ed. Handbook of Immigrant Health. New York, NY: Plenum Press; 1998:37-59.
+4. LaFromboise T, Coleman HLK, Gerton J. Psychological impact of biculturalism: evidence and theory. Psychol Bull. 1993;114:395-412.
+5. Zhou M. Segmented assimilation: issues, controversies, and recent research on the new second generation. Int Migration Rev. 1997;31:975-1008.
+6. Rudmin FW. Critical history of the
+
+acculturation psychology of assimilation, separation, integration, and marginalization. Rev Gen Psychol. 2003;7:3-37.
+7. Teske RHC, Nelson BH. Acculturation and assimilation: a clarification. Am Ethnologist. 1974;1:351-367.
+8. Park RE. Human migration and the marginal man. Am J Sociol. 1928; 33:881-893.
+9. Hazuda HP, Stern MP, Haffner SM. Acculturation and assimilation among Mexican Americans: scales and populationbased data. Soc Sci Q. 1988;69: 687-705.
+10. Berry JW. Conceptual approaches to acculturation. In: Chun KM, Balls Organista P, Marin G, eds. Acculturation: Advances in Theory, Measurement and Applied Research. Washington, DC: American Psychological Association; 2003:17-37.
+11. Padilla AM. Bicultural development: a theoretical and empirical examination. In: Malgady RG, Rodriguez O, eds. Theoretical and Conceptual Issues in Hispanic Mental Health. Malabar, Fla: Krieger; 1994;19-51.
+12. Hunt L, Schneider S, Comer B. Should "acculturation" be a variable in health research? A critical review of research on US Hispanics. Soc Sci Med. 2004;59:973-986.
+13. Cuellar I, Arnold B, Maldonado R. Acculturation rating scale for Mexican Americans, II: a revision of the original ARSMA scale. Hispanic J Behav Sci. 1995;17:275-304.
+14. Szapocznik J, Kurtines WM, Fernandez T. Bicultural involvement and adjustment in Hispanic-American youths. Int J Intercultural Relations. 1980;4:353-365.
+15. Cabassa LJ. Measuring acculturation: where we are and where we need to go. Hispanic J Behav Sci. 2003;25: 127-146.
+16. Zane N, Mak W. Major approaches to the measurement of acculturation among ethnic minority populations: a content analysis and an alternative empirical strategy. In: Chun KM, Balls Organista P, Marin G, eds. Acculturation: Advances in Theory, Measurement and Applied Research. Washington, DC: American Psychological Association; 2003:39-60.
+17. Lara M, Gamboa C, Kahramanian I, Morales L, Bautista D. Acculturation and Latino health in the United States: a review of the literature and its sociopolitical context. Ann Rev Public Health. 2005;26:367-397.
+18. National Heart, Lung, and Blood Institute Web page. Epidemiologic Research in Hispanic Populations Opportunities, Barriers and Solutions. Working Group July 31-August 1, 2003,
+
+August 2006, Vol 96, No. 8 | American Journal of Public Health
+
+Abraido-Lanza | Peer Reviewed | Commentary | 1345
+
+ COMMENTARY 
+
+Bethesda, Md. Available at: http://www. nhlbi.nih.gov/meetings/workshops/ hispanic.htm. Accessed April 11, 2006.
+19. Gonzalez Gutierrez C. Fostering identities: Mexico's relationship with its diaspora. J Am History. 1999;86:545-567.
+20. Abraido-Lanza AF, Dohrenwend BP, Ng-Mak DS, Turner JB. The Latino mortality paradox: a test of the "salmon bias" and healthy migrant hypotheses. Am J Public Health. 1999;89:1543-1548.
+21. Hummer RA, Rogers RG, Amir SH, Forbes D, Frisbie WP. Adult mortality differentials among Hispanic subgroups and non-Hispanic whites. Soc Sci Q. 2000;81:459-476.
+22. Lin CC, Rogot E, Johnson NJ, Sorlie PD, Arias E. A further study of life expectancy by socioeconomic factors in the National Longitudinal Mortality Study. Ethn Dis. 2003;13:240-247.
+23. Singh GK, Siahpush M. Ethnicimmigrant differentials in health behaviors, morbidity, and cause-specific mortality in the United States: an analysis of two national databases. Hum Biol. 2002;74:83-109.
+24. Sorlie PD, Backlund E, Johnson NJ, Rogot E. Mortality by Hispanic status in the United States. JAMA. 1993;270: 2464-2468.
+25. Vega WA, Amaro H. Latino outlook: good health, uncertain prognosis. Annu Rev Public Health. 1994;15:39-67.
+26. Hazuda HP, Haffner SM, Stern MP, Clayton WE. Effects of acculturation and socioeconomic status on obesity and diabetes in Mexican Americans. Am J Epidemiol. 1988;128: 1289-1301.
+27. Abraido-Lanza AF, Chao MT, Florez KR. Do healthy behaviors decline with greater acculturation? Implications for the Latino mortality paradox. Soc Sci Med. 2005;61:1243-1255.
+28. Cantero PJ, Richardson JL, Baezconde-Garbanati L, Marks G. The association between acculturation and health practices among middle-aged and elderly Latinas. Ethn Dis. 1999;9: 166-180.
+29. Gordon-Larsen P, Harris KM, Ward DS, Popkin BM. Acculturation and overweight-related behaviors among Hispanic immigrants to the United States: the National Longitudinal study of adolescent health. Soc Sci Med. 2003;57:2023-2034.
+30. Himmelgreen DA, Perez-Escamilla R, Martinez D, et al. The longer you stay, the bigger you get: length of time and language use in the US are associated with obesity in Puerto Rican Women. Am J Phys Anthropol. 2004;25:90-96.
+31. Marks G, Garcia M, Solis JM.
+
+Health risk behaviors of Hispanics in the United States: findings from HHANES, 1982-84. Am J Public Health. 1990;80(suppl):20-26.
+32. Marin G, Posner SF. The role of gender and acculturation on determining the consumption of alcoholic beverages among Mexican-Americans and Central Americans in the United States. Int J Addict. 1995;30:779-794.
+33. Perez-Stable EJ, Ramirez A, Villareal R, et al. Cigarette smoking behavior among US Latino men and women from different countries of origin. Am J Public Health. 2001;91:1424-1430.
+34. Crespo CJ, Smit E, Carter-Pokras O, Andersen RE. Acculturation and leisuretime physical inactivity in Mexican American adults: results from NHANES III, 1988-1994. Am J Public Health. 2001;91:1254-1257.
+35. Myers H, Rodriguez N. Acculturation and physical health in racial and ethnic minorities. In: Chun KM, Balls Organista P, Marin G, eds. Acculturation: Advances in Theory, Measurement and Applied Research. Washington, DC: American Psychological Association; 2003:163-185.
+36. Johnsen L, Spring B, Pingitore R, Sommerfeld BK, MacKirnan D. Smoking as subculture? Influence on Hispanic and non-Hispanic white women's attitudes toward smoking and obesity. Health Psychol. 2002;21:279-287.
+37. Haynes SG, Harvey C, Montes H, Nickens H, Cohen BH. Patterns of cigarette smoking among Hispanics in the United States: results from HHANES 1982-1984. Am J Public Health. 1990; 80(suppl):47-53.
+38. Marin G, Perez-Stable EJ, Marin BV. Cigarette smoking among San Francisco Hispanics: the role of acculturation and gender. Am J Public Health. 1989; 79:196-198.
+39. Marin G, Gamba RJ. Acculturation and changes in cultural values. In: Chun KM, Balls Organista P, Marin G, eds. Acculturation: Advances in Theory, Measurement and Applied Research. Washington, DC: American Psychological Association; 2003:83-93.
+40. Portes A, Zhou M. The new second generation: segmented assimilation and its variants. Ann Am Acad Political Soc Sci. 1993;530:74-96.
+41. Charles CZ. The dynamics of racial residential segregation. Annu Rev Sociol. 2003;29:167-207.
+42. Norris AE, Ford K, Bova CA. Psychometrics of a brief acculturation scale for Hispanics in a probability sample of urban Hispanic adolescents and young adults. Hispanic J Behav Sci. 1996;18: 29-38.
+
+43. Markides KS, Ray LA, StroupBenham CA, Trevizo F. Acculturation and alcohol consumption in the Mexican American population of the Southwestern United States: findings from HHANES 1982-84. Am J Public Health. 1990;80(suppl):42-46.
+44. Epstein JA, Botvin GJ, Diaz T. Linguistic acculturation and gender effects on smoking among Hispanic youth. Prev Med 1998;27:583-589.
+45. Kaplan CP, Napoles-Springer A, Stewart SL, Perez-Stable EJ. Smoking acquisition among adolescents and young Latinas: the role of socioenvironmental and personal factors. Addict Behav. 2001;26:531-550.
+46. Guilamo-Ramos V, Jaccard J, Johansson M, Tunisi R. Binge drinking among Latino youth: role of acculturationrelated variables. Psychol Addict Behav. 2004;18:135-142.
+47. Morgan-Lopez AA, Gonzalez Castro F, Chassin L, MacKinnon DP. A mediated moderation model of cigarette use among Mexican American youth. Addict Behav. 2003;28:583-589.
+48. Bettes BA, Dusenbury L, Kerner J, James-Ortiz S, Botvin GJ. Ethnicity and psychosocial factors in alcohol and tobacco use in adolescence. Child Dev. 1990;61:557-565.
+49. Unger JB, Cruz TB, Rohrbach LA, et al. English language use as a risk factor for smoking initiation among Hispanic and Asian American adolescents: evidence for mediation by tobaccorelated beliefs and social norms. Health Psychol. 2000;19:403-410.
+50. Link B, Phelan J. Social conditions as fundamental causes of disease. J Health Soc Behav 1995;35 (extra issue):80-94.
+51. Farmer P. Infections and Inequalities. Berkeley, Calif: University of California Press; 1999.
+52. US Migration and Refugee Assistance Act of 1962. Available at: http:// www.lib.umich.edu/govdocs/jfkeo/eo/ 11077.htm. Accessed April 21, 2006.
+
+1346 | Commentary | Peer Reviewed | Abraido-Lanza
+
+American Journal of Public Health | August 2006, Vol 96, No. 8
+
+

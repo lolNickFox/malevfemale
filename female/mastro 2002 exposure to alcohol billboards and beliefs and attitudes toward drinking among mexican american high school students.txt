@@ -1,0 +1,431 @@
+Exposure to Alcohol Billboards and Beliefs and Attitudes toward Drinking
+among Mexican American High School Students
+
+Dana E. Mastro
+Boston College, Chestnut Hill, Massachusetts , USA
+Charles Atkin
+Michigan State University, East Lansing, Michigan, USA
+Current controversy regarding the target marketing of alcohol billboards in Latino communities, alongside recent trends in alcohol consumption patterns among Mexican Americans, has led to concern about the impact of exposure to such advertising on the drinking behaviors of Mexican American youth. This study addresses this issue by evaluating the images depicted on alcohol billboards and examining the resultant relationship between exposure and beliefs. This relationship is examined within the framework of Bandura's social cognitive theory.
+To determine the prevalent themes on alcohol billboards surrounding a public high school in Chicago, Illinois, a content analysis was performed. Subsequently, the findings were incorporated into a survey examining beliefs and social perceptions regarding drinking among Mexican American high school students. Results suggest that one retention measure--brand exposure--and acceptance of positive themes related to drinking are associated with more positive attitudes toward drinking.
+KEYWORDS alcohol advertising, billboards, Latinos, media effects
+
+A ttempts to determine the association s among alcohol advertising, attitudes toward drinking, and drinking patterns have met with mixed results.While studies have linked children's exposure to televised beer commercials with brand recall and positive beliefs about beer (Grube & Wallack,1994), research is inconsistent with regard to advertising and consumption (Saffer, 1996). Studies taken at the national level,
+
+Address correspondenc e to Dana E. Mastro, Department of Communication, Boston College, 215-H Lyons Hall, 140 Commonwealth Avenue, Chestnut Hill, MA 02467, USA. E-mail: mastroda@bc.edu
+
+The HowardJournal of Communications,13:1297151, 2002 Copyright # 2002 Taylor & Francis 1064-6175=02 $12.00 + .00
+DOI:10.1080=1064617029008992 6
+
+129
+
+130 D. E. Mastro and C. Atkin
+utilizing national advertising expenditures (inclusive of all advertisers across all media for the year), report no relationship between ads and consumption. Conversely, examinations employing local-level, cross-sectional data suggest that a significant and positive relationship exists such that increases in advertising result in elevations in consumption (eventually reaching a point of diminishing returns). Saffer (1996) notes that the insignificant effect nationally is likely a result of the constant and high level of advertising at the national level, varying only slightly from year to year.
+As such, determining the extent to which this relationship exists is particularly consequential for Latino youth as they may be disproportionately exposed to such advertisements (compared with Whites), receiving these messages not only on television with all other consumers but also heavily in their local environment via billboards and outdoor advertisements (Alaniz, 1998). This heavy concentration of alcohol billboards in Latino (as well as African American=Black) neighborhoods makes understanding the impact of exposure to such advertising distinctly noteworthy. The present design assesses this potentially harmful relationship from the framework of Bandura's social cognitive theory. In testing this link, both a content analysis of billboard ads surrounding a large public high school in a predominantly Latino neighborhood and a survey of current Mexican Americans attending that school were conducted.
+Drinking Patterns and Factors Associated with Drinking among Latinos
+While the consumption of alcoholic beverages among Whites in the United States has declined over the past decade, this trend is not evident for Latinos (Midanik & Clark, 1994). Instead, this population consistently exhibits some of the highest rates of consumption in the nation (Marin, Posner, & Kinyon, 1993; U.S. Department of Health and Human Services,1994). Midanik and Clark (1994) indicate that 67% of Latinos are current drinkers''and 8.9% consume five or more drinks''at least once a week. This pattern is more than double that of either African Americans=Blacks (3.5%) or Whites (3.5%) on the measure of five or more drinks''and is recognizably higher for current drinkers'' at 62% and 66%, respectively. In particular, Mexican American men report higher rates of heavy drinking than either Whites (Lee & Callcott, 1994; Perez-Stable, Marin, & VanOss-Marin,1994; Randolph, Stroup-Benham, & Black,1998) or any other Latino subgroup, regardless of marital status or education or income level (Black & Markides,1994; Caetano, 1988, 1994). Additionally, the decline in heavy drinking that typically occurs when individuals reach middle age is not apparent for Latinos (Alaniz & Wilkes,1995).
+Drinking pattern assessments indicate that Mexican American men consume far more alcohol than their female counterparts (Black & Markides, 1994). Compared with the national average, Latinas have among the highest abstention rates in the United States (Randolph et al.1998).This is not surprising when it is recognized that drinking is considered a male activity by normative Latino standards (Black & Markides, 1994; Caetano, 1994; Canino, 1994). Mexican American women, however, report more heavy drinking relative to other Latina populations, including Cubans and Puerto Ricans (Caetano, 1994; Caetano, Clark, & Tam,1998; Canino,1994).
+According to a national survey of high school students, 88% of seniors have experimented with alcohol and 28% have engaged in heavy drinking (Epstein, Botvin, Diaz,
+
+Mexican Americans and Billboards
+
+131
+
+Schinke,1995). Moreover, junior and senior high school students consume 1.1 billion beers per year (Kusserow, 1991). Research examining the pervasiveness of alcohol use among Latino youth has met with mixed findings (Warheit,Vega, & Khoury,1996). In some studies, Latino use has been found to be lower than the national average; however, many of these investigation s were limited by school-based samples that failed to account for socioeconomic factors and drop-out rates (Epstein et al., 1995). Other investigations indicate that the consumption patterns of Latino adolescents are equal to or higher than non-Latinos (Marin et al., 1993). Moreover, it has been detected that teen Latino boys who drink have an inclination toward binge drinking and heavier drinking than Whites when controlling for age, academic performance, peer attitudes toward drinking, and parents' attitude toward drinking (Dusenbury, Epstein, Botvin, & Diaz,1994).
+Studies on alcohol use among Mexican Americans have identified a number of other factors related to the drinking behaviors of men and women, including level of acculturation (Black & Markides,1993; Caetano,1994; Canino,1994; Farabee,Wallisch, & Maxwell, 1995; Treno, Alaniz, & Gruenewald,1999), marital status (Black & Markides,1993; Myers, Kagawa-Singe r, Kumanyika, Lex, & Markides, 1995; Perez-Stable et al., 1994; Treno et al., 1999), education level, employment status, and socioeconomic status (Black & Markides,1993; Canino,1994; Myers et al.,1995).
+For Mexican American youth, factors influencing drinking include marital status of the parents, sex of the adolescent, drinking rates of friends, attitudes of parents and friends toward drinking, and alcohol advertising (Aitken, Eadie, Leathar, McNeill, & Scott, 1988; Grube & Wallack,1994; Myers et al.,1995). Studies have further established correlations between alcohol advertising and underage alcohol consumption; however, this link is mediated strongly by environmental influences and the family (Aitken et al., 1988; Austin & Meili, 1994). Additionally, youths with unmarried parents are more likely to engage in frequent drinking, as are youths whose friends and parents have positive attitudes toward alcohol consumption (Dusenbury et al., 1994; Myers et al., 1995). Boys are typically more frequent drinkers than girls (Dusenbury et al., 1994; Myers et al., 1995). Moreover, if their friends drink, adolescents are more likely to drink (Myers et al., 1995).
+Target Marketing the Latino Consumer
+As such, differential targeting (or target marketing) of minorities with alcohol advertisements, particularly billboards, has increasingly become an issue of concern (Alaniz & Wilkes, 1995; Ringold, 1995; Schooler, Basil, & Altman, 1996; Wells, 1997). After cigarettes, alcoholic beverages are the second most heavily advertised product in the United States (Adams=Jobson Beverage Group, 1996). The alcohol industry spent approximately $94 million for outdoor advertisements of their products in 1998 (LNA=Mediawatch, 1999), 90% of which has been found to appear in African American=Black and Latino communities (Goldstein, 1991). Notably, Latino neighborhoods contained significantly more beer and wine billboards (23%) than White (6%), African American=Black (5%), orAsian American (4%) communities (Altman, Schooler & Basil,1991). Although limited research exists examining the placement and frequency of alcohol advertisements, a 1998 survey conducted by the Los Angeles City Planning Department found that 80% of the billboards in their Los Angeles sample were within five blocks of a school, 7% of which
+
+132 D. E. Mastro and C. Atkin
+could be seen from the schools. Of those billboards visible from the schools, 80% were alcohol advertisements.
+When considering the size, age, growth, location, and consumption patterns of the Latino market, we can see that they emerge as a highly accessible target for advertisers. Latinos compose between 12713% of the U.S. population, 59% of whom are of Mexican origin (U.S. Census, 2000). Compared with the general population, this community is particularly youthful (Alaniz & Wilkes,1995) and is primarily concentrated in the metropolitan regions of nine states (Johnson & Delgado,1989).Yearly Latino purchasing power ranges from $250 to $350 billion, and the annual growth rate of their market is more than three times that of the national growth rate (Hispanic Marketing Connections [HMC], 1998; Oregon Council for Hispanic Advancement [OCHA],1997).
+This urban concentration alongside the dramatic market growth has resulted in aggressive attempts to capture the Latino consumer (Alaniz & Wilkes, 1995). To secure this population, alcohol manufacturers have engaged in target marketing Latinos (Lee & Callcott, 1994). Target marketing provides culturally specific campaigns for product promotion (Basil, et al.,1991).The design appeals to the particular behaviors, characteristics, norms, beliefs, and customs of the target segment (Basil et al., 1991; Ringold, 1995).
+Research suggests that advertisers use many of the traditional images in a culture to create a symbolic environment that idealizes drinking and alcohol (Alaniz & Wilkes, 1995). This reinvented lifestyle incorporates both concrete and abstract components in an attempt to appeal to the consumer's sense of nationalism and to promote a sense of authenticity (Alaniz & Wilkes, 1995). Concrete icons for Latinos, such as flags, national colors, maps, yearly festivals, fiestas, and traditional ceremonies are common on billboards and in advertisements (Alaniz & Wilkes, 1995). Essentially, such indicators may be seen to enhance the extent to which the audience, in this case the Latino consumer, will identify with the message. As a result, this increased feeling of association and similarity should result in the greater influence of advertising content.While no studies to date have empirically assessed the effectiveness of such targeting on Latino consumers, research on advertising to racial=ethnic minorities suggests that simply matching model race=ethnicity to that of the target population is insufficient (Green, 1999). Instead, the degree of ethnic identification of the consumer as well as the extent to which the product is considered to be race based are salient.Thus, alcohol advertising campaigns commodifying Latino culture are of particular concern.
+In addition, abstract images oftentimes symbolize stereotypes along gender lines. Women in Latino-specific advertising are portrayed as passive and sexual, while men are active and successful (Alaniz & Wilkes,1995). Across all target segments, most alcohol billboards contain models that are both attractive and youthful (Ringold,1995; Schooler et al., 1996). Major themes promoted in these advertisements include companionship, romance, active lifestyles, and sociability (Alaniz & Wilkes,1995; Schooler et al.,1996).
+Given the potentially detrimental influence of alcohol advertising on consumption patterns, assessments of content presented in this medium mandate evaluation. Based on the limited existing research on billboard content, the following research propositions have been developed:
+(1) The primary characteristic of models in alcohol billboards in Mexican American communities will be sex appeal.
+
+Mexican Americans and Billboards
+
+133
+
+(2) The majority of billboards in Mexican American communities will utilize traditional symbols of Latino culture in the promotion of the product, including flags, maps, and the colors green, red, yellow, and black.
+More specifically, Schooler and colleagues (1996) identify variations in the theme based on neighborhood ethnicity. Their content analysis of 901 billboards in commercial neighborhood districts of San Francisco, California, suggest that alcohol billboards in White neighborhoods often posit active and individualistic messages, while alcohol advertisements in African American=Black communities favor themes of romance and sexuality. While no significant thematic differences emerged in their sample of billboards within a Latino neighborhood, further investigation into the use of modeling cues warrants consideration.
+Variations in rewards, cultural indicators, and behavior outcomes as a function of neighborhood ethnicity may be associated with differential behavior motivation. Insofar as such differences emerge, distinctions between beliefs and behaviors in relation to consumption of alcohol across ethnic groups, can be assessed. To further explore the content exhibited on these billboards, the following research proposition was posited:
+(3) The prominent themes of alcohol billboards located in a predominantly Mexican American community will be those of sociability and romance.
+In their content analysis of outdoor advertising, Schooler and colleagues (1996) further assessed the relationship between the promotional attributes of alcohol and the corresponding target population. They proposed a linear model of product depiction based on social cues. This process suggests that alcohol and cigarette billboards are more likely to include people due to the importance of sociability for each of these products. Second, they suggest that these models are likely to represent three attributes: similarity, attractiveness, and rewards. Similarity is an indication of an ethnic match between the model and the community. Attractiveness describes the prestige, fashionability, individualism, and sex appeal of the model. These attributes function to add influence to the promotion. Last, reward cues suggest the potential, positive outcomes associated with consumption of the product. These rewards include romance, sociability, recreation, sportiness, and adventure. While it is clear that targeted social cues are used in billboard advertisements of alcohol, specific audience responses and behavioral outcomes have not been investigated.
+One prominent finding of their study indicated that ethnic matching did not occur between the model and the neighborhood for Latinos, but did so for African American= Black and White communities (Schooler et al., 1996). A second noteworthy finding was the use of people in the advertisements. Forty-two percent of the alcohol billboards in this sample depicted people. Models appeared in only 16% of outdoor advertisements for other products (excluding tobacco and cosmetics). Moreover, the outstanding characteristic of the models in these alcohol billboards was sex appeal (i.e.,coy model pose,''p.117).
+Social Cognitive Theory
+The impact of such advertising techniques (particularly target marketing and use of social cues) on the drinking behaviors of Mexican Americans calls for investigation
+
+134 D. E. Mastro and C. Atkin
+when examined from the perspective of Bandura's social cognitive theory, which concentrates on the outcomes associated with exposure to modeled behavior. This framework offers an explanation for the potential effects of advertising on learned behavior based on modeled rewards, motivations, perceived self-efficacy, and situational appropriateness. More specifically, social cognitive theory emphasizes an interactive process in understanding knowledge acquisition and behavioral enactments (Bandura, 1986, 1989a, 1989b, 1999). The theory suggests that human thought and action operate within a system of triadic reciprocal causation'' in which action, personal influences (cognitive, affective, and biological), and environmental events act as behavioral determinants. The influence of these factors is neither simultaneous nor equal in strength. Instead, the relative influence of these factors, either individually or in combination, varies according to the activity, the individual, and the circumstances. As a result, individuals both produce and are products of their environments (Bandura, 1994); they do not simply react to environmental or personal influences (Bandura, 1986, 1989a, 1989b).
+Social cognitive theory addresses the influence of these factors through five human capabilities: symbolizing capability, forethought, self-regulatory capability, selfreflective capability, and vicarious capability (Bandura, 1989b, 1994). Each of these systems helps provide the capacity for understanding the human environment. As such, each capability aids in the understanding of how adolescents come to engage in alcohol consumption.
+Through the human symbolizing capability the direct and=or vicarious influences from the environment are cognitively filtered. This determines the events that will be attended to, what meaning they will hold, and whether they will have a lasting impact (Bandura,1994). An adolescent could therefore learn, create, and test ideas about drinking before having engaged in the activity. Such cognitive, symbolic representations of anticipated future events can serve as motivators and incentives of behavioral enactment by way of forethought, which is influenced by internal standards of self-regulation (Bandura, 1989b). Through utilizing forethought, adolescents are able to plan future drinking behavior while weighing the consequences of their actions, thus allowing them to guide their actions according to anticipated feedback. Media portrayals can influence the way in which these consequences are perceived by emphasizing positive rewards and limiting sanctions.
+In addition, the self-regulatory capability identifies the satisfaction attained from personal accomplishments to be a strong incentive (or disincentive) for action (Bandura, 1994). Again the images depicted in the media may provide justifications for the engagement in underage drinking by allowing youths to reconstruct the value attached to the behavior, justify its social acceptance, and deflect personal culpability. Here, advertising may supplant preexisting personal standards by providing incentives so valued that they override alternative beliefs. Alternatively, these ads may simply supply validation for engagement in a behavior previously deemed unacceptable, thereby displacing responsibility.
+Another dimension of self-influence within the social cognitive model is that of the self-reflective capability (Bandura, 1994). This function allows individuals to monitor and evaluate the validity and value placed on one's own thoughts through comparisons with indicators of reality. Using the media to verify thoughts may lead to distorted versions of social reality (Bandura, 1994). This is particularly salient to the
+
+Mexican Americans and Billboards
+
+135
+
+influence of alcohol advertising on adolescents who may foster misperceptions as a result of exposure.
+Clearly, a profound amount of human knowledge is acquired vicariously by observing the rewards and punishments associated with others' behaviors either directly or symbolically (via media). Because individuals interact with only a limited segment of the social world, their perceptions about social reality are largely influenced by their vicarious learning capabilities. Consequently, it follows that the media greatly broaden and influence an individual's beliefs about reality. Such knowledge acquisition, resultant from symbolic modeling, is regulated by four processes: attentional, retentional, production, and motivational (Bandura,1977,1994).The attentional process guides the selection of that which is observed. This is influenced by the characteristics of the event (modeled events) and the attributes of the observer. Modeled events are impacted by a number of factors, including salience, value, prevalence, accessibility, cognitive complexity, and affective valance. Observer attributes involve cognitive capabilities, arousal level, preferences, and preconceptions. If, within the conceptualization of social cognitive theory, people learn from observing the rewards and punishments associated with the behaviors of others, then the modeling of social cues on alcohol billboards that target Mexican Americans provides the ideal framework for this process. Attention to billboards is facilitated by a number of factors, including frequency of exposure, visibility of the message, location of sign, as well as use of target marketing and social cues (Donthu, Cherian, & Bhargava, 1993; Schooler et al.,1996).These elements provide accessible images that require minimal cognitive exertion.
+Consistent with the attentional process within social cognitive theory the following hypotheses have been derived:
+H1: Higher exposure to alcohol billboards is associated with perceptions of greater peer alcohol consumption. H2: Higher exposure to alcohol billboards is associated with more positive perceptions regarding drinking. H3: Higher attention to alcohol billboards is associated with more positive perceptions regarding drinking. H4: Higher attention to alcohol billboards is associated with perceptions of greater peer alcohol consumption.
+The retention process suggests that recall is a fundamental component to modeling. An individual must retain the event in order to model it. This includes a process of transforming information into coded information for ease of storage, retrieval, and mental rehearsal. Studies indicate that the recall of outdoor advertising messages is common (Donthu et al., 1993; Fitts & Hewett, 1977; Whitehill King & Tinkham, 1990). Even single exposures have been shown to produce increased levels of recall (Whitehill King & Tinkham, 1990). Further, once learned, the messages depicted on billboards are retained (Whitehill King & Tinkam,1990).
+Congruent with the retentional process in the social learning model, the following hypotheses have been postulated:
+H5: Higher retention of information and messages from alcohol billboards is associated with more positive attitudes toward drinking. H6: High retention of information and messages from alcohol billboards is associated with perceptions of greater peer alcohol consumption.
+
+136 D. E. Mastro and C. Atkin
+Third, the production process is the operation by which conceptions and behaviors are matched and evaluated for acceptability. This process necessitates the modification of behaviors based on situational demands. This adaptive capability allows for the production of numerous behaviors from a single cognitive representation. These enacted behaviors undergo both evaluation and modification based on feedback. Oftentimes behaviors must be repeatedly matched with the conceptual model to achieve mastery. With regard to the relationship between alcohol billboards and drinking, these images provide a conceptual guide for application in the enactment of alcohol consumption.
+Based on this subfunction, the following hypotheses were formulated:
+H7: Higher belief in the influence of alcohol billboards on drinking behaviors (indicative of the modeled behavior as a conceptual guide) is associated with more positive attitudes toward drinking. H8: Higher belief in the influence of alcohol billboards on drinking behavior (indicative of the modeled behavior as a conceptual guide) is associated with greater perceptions of peer alcohol consumption.
+This leads to the final function, that of motivation, which states that performance of a behavior is influenced by three incentive motivators. The first, external reinforcement, includes direct rewards and valued outcomes such as social approval and money (Bandura,1977,1994).The second motivator is vicarious reinforcement which occurs when an individual observes the rewards or punishments associated with the behaviors of another individual. People are motivated by the success of similar others but are unlikely to model behaviors that are punished or discouraged. Last, the self-reinforcement motivator suggests that personal standards and morals provide a source of motivation. Behaviors that provide personal satisfaction are likely to be modeled, while those that create personal disapproval are likely to be rejected. Billboard advertisements provide numerous reinforcements, incentives, and rewards toward the motivational process. Models are young, attractive, happy, social, sexy, and oftentimes ethnically matched with the target population. Moreover they are primarily engaged in romantic and social activities (Schooler et al.,1996).
+In accordance with this component of behavior modeling it is posited that:
+H9: Higher acceptance of themes related to drinking is associated with more positive attitudes toward drinking. H10: Higher acceptance of themes related to drinking is associated with perceptions of greater peer alcohol consumption.
+The manner in which Mexican American communities are targeted with alcohol billboards provides the necessary components for behavioral modification as specified by Bandura's social cognitive theory. Consequently, the impact of these messages, based on the content depicted, is of considerable note. The implications of the effect of alcohol billboards on Mexican American youths emerge both socially and cognitively from the influence of target marketing and the aforementioned behavioral characteristics of the community.The symbolic environment represented in such advertisements, coupled with individual beliefs related to task performance, maximize the potential for behavioral enactment. Within this framework, then, billboard advertisements become prominent
+
+Mexican Americans and Billboards
+
+137
+
+components in learning the alcohol consumption process. This article proposes to examine the impact of this relationship on the attitudes and perceived behaviors of Mexican American high school students regarding alcohol use and acceptability. The potential for binge-drinking within this group alongside the sociological influences on these youth isolates them for consideration as an at-risk population.
+
+Method
+Content Analysis
+To determine the relationship between outdoor advertisements for alcohol and the beliefs and behaviors of Mexican American youth regarding drinking, a content analysis and survey were conducted. The content analysis was performed to assess the themes and images of the alcohol advertisements surrounding the participating high school. All outdoor alcohol advertisements within a five-mile radius of the school were color photographed for evaluation.This distance was selected to include all ads within the parameters of the school's zone. Outdoor advertisements were defined as out-of-home advertisements, including highway and roadside billboards, kiosk (bus stop) messages, and mounted signs displayed for the purpose of general product promotion. Excluded from consideration in this sample were bar=market promotions, sale banners, and any posting or neon sign appearing on or around a bar, liquor store, or market for the specific purpose of increasing sales for that particular establishment.
+Outdoor advertisements were photographed over a two-day period in early March 1999, and content analyzed during the following week. These findings were then incorporated into a survey implemented at the target school one week later. To increase consistency between questionnaire items and current billboard depictions, students were surveyed within 9 to 11 days of photographing the advertisements.
+Content coding and reliability. Two female graduate students served as content coders. One coder was Asian American and the other was White. The coders were trained using pictures of alcohol billboards outside the actual sample. Once acceptable levels of reliability were achieved, each coder evaluated all billboards in the sample. Scott's pi was then calculated for all variables. The items identified for analysis were drawn from the existing research on billboard content and consisted of product identifiers, billboard descriptives, and thematic measures. Variables (variable name in italics) and reliabilities (Scott's pi) follow:
+Product identifiers included type of product (beer, wine, liquor, other), pi = 1.0 and name of product, pi = 1.0.
+Billboard descriptives incorporated a number of indicators, including number of human models (0, 1, 2, 3, 4, 5), pi = 1.0; race=ethnicity of each model (Caucasian, African American, Latino, Asian American, Native American, Other), pi = 1.0; gender of each model (male, female), pi = 1.0; age of each model (less than twenty, twenties, thirties, fourties and older), pi = 1.0; physical attractiveness of each model (very attractive, moderately attractive, not at all attractive ), pi = .78; sex appeal=sexiness of each model (very sexy, moderately sexy, not at all sexy), pi = .88; stylishness of the model (very fashionable=stylish, moderately fashionable=stylish, not at all fashionable=stylish), pi = .78;
+
+138 D. E. Mastro and C. Atkin
+sociability=friendliness of each model (very friendly, moderately friendly, not at all friendly), pi = .88; and activity level of the model (high, medium, low), pi = .78. This category also identified a number of foreground images on the advertisement including a flag (yes, no), pi = 1.0; a map (yes, no), pi = 1.0; and the product itself (yes, no), pi = 1.0. Background colors also were noted: green (yes, no), pi = 1.0; red (yes, no), pi = 1.0; yellow or gold (yes, no), pi = 1.0; black (yes, no), pi = 1.0; and blue (yes, no), pi = 1.0; as was all text appearing in the advertisement. The following behavioral acts also were examined: holding cups, glasses, or other container of alcohol (yes, no)pi = 1.0 and drinking by a model on the billboard (yes, no), pi = 1.0. Last, the size of the product (proportion of the vertical height of the billboardo25%, 50%, 75%, or 100%), pi = .92 and the location of the product (whereoleft, center, right), pi = 1.0 were coded as peripheral processing associated with product placement, which has been linked to marketing to different groups (Popcorn, 2000).
+Thematic measures were each reliable at pi = 1.0 and assessed the prevalence of the following themes: romance (yes, no); individuality (yes, no); sociability=friendliness (yes, no); relaxation=leisure (yes, no); sportiness=active lifestyle (recreationoyes,no); adventure=risk (yes, no); party=celebration (yes, no); and traditional ceremonies (yes, no).
+The variable income level of the model (high, moderate, low) was dropped from analyses due to lack of reliability.
+Chi squares were calculated to determine differences in content across advertisements. Frequencies were reported for all variables. After achieving acceptable levels of reliability between coders, the average score per item was used in all analyses of content.
+The Survey
+In creating the instrument for this study, two focus groups (N = 11) were conducted with Mexican American high school students to ascertain the readability and level of student comprehension of the instrument. Following the focus groups, the survey was pretested among 84 Mexican American high school students. This pretest allowed for scale construction, modification, and analysis. Standardized item alpha was computed for each measure using confirmatory factor analysis. Utilizing a confirmatory factor analytic approach allowed us to test for internal consistency and parallelism. All identified scale reliabilities were reassessed using the target sample.
+Dependent variables. Three dependent variables were created as measures of the extent to which beliefs and perceptions of high school students were affected by outdoor advertisements for alcohol, as defined in the social cognitive process. The variables included the following.
+Drinking intention (a = :78). This four-item measure of the general acceptability of drinking included items such as,When I am 21, I plan to drink beer''and I never plan to drink alcohol.'' Response categories ranged from strongly agree to strongly disagree on a five-point scale (strongly agree = 5, agree = 4, neurtal = 3, disagree = 2, strongly disagree = 1).
+Approval of underage drinking (a = :94).This two-item measure of the extent to which underage drinking was deemed acceptable contained the statements, It is all right for people under 21 to drink BEER'' and It is all right for people under 21 to drink
+
+Mexican Americans and Billboards
+
+139
+
+HARD LIQUOR.'' This construct used the same response categories as the drinking intention measure.
+Social perception (a = :82). This was a four-item measure of perceptions about drinking among peers. The numeric response category ranged from 0 to 10. The item examined estimates of drinking, for example,Out of every 10 kids your age, how many do you think have tried beer?''
+Independent variables. In order to test the hypotheses derived from the social cognitive model, the following measures served as independent variables for the attention subfunction.
+Attention (a = :76).This four-item measure assessed the amount of attention paid to billboard advertisements, in general. Response categories ranged from usually to never on a four-point scale (usually = 4, sometimes = 3, rarely = 2, never = 1). The scale was composed of questions such as,Do you pay attention when you see alcohol billboards?''
+Exposure frequency (a = :83).This index was a self-report measure of the number of beer, wine, and liquor billboards seen in an average week.
+Retention. For the retention subfunction of the social cognitive process, independent measures included the following.
+Recall.This self-report account of billboard content included specification of images, brands, and slogans. It was the sum of 12 items assessing recall of billboard content including questions such as,Please tell me the slogan on one beer billboard you can remember seeing''and Please tell me the brand of one beer billboard you remember seeing.''
+Brand exposure. This recall measure listed a number of beer and liquor brands to assist the respondent in identifying the billboards to which they had been exposed. Brands that appeared on outdoor advertisements in close proximity of the participating school, as well as several that did not, were listed and tallied.
+Production. For the production subfunction in the social cognitive model, independent measures included the billboard effect as follows.
+Billboard effect (a = :93). This was an eight-item measure of perceptions about the effectiveness of billboards in influencing teenagers to drink. Responses ranged from strongly agree to strongly disagree on a five-point scale (strongly agree = 5, agree = 4, neutral = 3, disagree = 2, strongly disagree = 1). Questions included,Teenagers who see a lot of beer billboards will develop a more favorable attitude toward beer'' and Teenagers who see a lot of hard liquor billboards will try brands of liquor they haven't tried before.''
+Motivation. The independent variable for the motivation sub-function of the social cognitive process included the following prodrinking beliefs.
+Prodrinking beliefs (a = :78). This scale measured beliefs about people who consume alcohol. Specifically, the acceptance of positive themes associated with drinking, as depicted in billboards, was assessed. It contained four items such as,Drinking makes a party more fun''and was created from the findings of the content analysis of billboards surrounding the high school as well as from themes identified in existing literature. Response categories ranged from strongly agree to strongly disagree on a five-point scale (strongly agree = 5, agree = 4, neutral = 3, disagree = 2, strongly disagree = 1).
+
+140 D. E. Mastro and C. Atkin
+Control Variables
+Existing literature suggests that extent of individual acculturation, parents' perceptions about drinking, and parents' level of educational attainment are important influences on drinking beliefs and behaviors among Mexican American teenagers. As such, the following measures were used as control variables.
+Parental approval (a = :92).This was a three-item measure, which assessed youth perceptions of their parents' attitudes toward the acceptability of drinking alcohol. Responses ranged from strongly agree to strongly disagree on a five-point scale (strongly agree = 5, agree = 4, neutral = 3, disagree = 2, strongly disagree = 1). Sample items included, In general, my parent=s believe it is okay for me to drink alcohol (e.g., beer, wine, liquor)''and My parent=s believe it is okay for me to drink alcohol as long as I am not driving.''
+Acculturation (a = :94). This five-item scale was derived from the ARSMA II acculturation measure (Cuellar, Arnold, & Maldonado, 1995). A selection of questions was used to assess a single dimension of acculturation. Response categories ranged from always to not at all (always = 5, very much = 4, moderately = 3, very little = 2, not at all = 1). Items such as, I speak Spanish'' and My thinking is done in Spanish'' were included.
+Parents'marital status (married to each other = 2, not married = 1) and level of education (some high school = 1, graduated from high school = 2, some college = 3, graduated from college = 4) were also ascertained for control purposes.
+Demographic Variables
+Measures of demographics were included to assess the participants'age (self-report), race=ethnicity (African American=Black, Latino=Hispanic, Caucasian=White, Asian American), and gender (male, female).
+Measures of Similarity and Attraction
+Both social cognitive researchers and advertising researchers have identified model similarity (including racial=ethnic identification) and attention to social cues as influential conditions in the modeling process (Green, 1999). To evaluate the prevalence of these factors, the following measures were created:
+Girl similarity to model (a = :84). This construct used three items to assess perceived similarity to a billboard model in the alcohol advertisement depicted in the questionnaire. The scale applied only to female participants as the model was a female. One billboard was presented as an aided recall measure to assess perceived similarity across race=ethnicity and gender. Response categories spanned from very similar to very different on a four-point scale (very similar = 4, similar = 3, different = 2, very different = 1). Sample items included,In general, how similar do you think you are to the model in this billboard'' and How similar to the model in this billboard would you like your friends to be?''
+Boy similarity to model (a = :80). This scale contained three items to assess perceived similarity to a billboard model in the alcohol advertisement depicted in the ques-
+
+Mexican Americans and Billboards
+
+141
+
+tionnaire.This scale applied only to male participants as the model was a male. Again, one
+billboard was provided as an aided recall measure to assess perceived similarity across race=ethnicity and gender. Response categories were the same as those used for girl similarity to model, with items such as,In general, how similar do you think you are to the model
+in this billboard''and In general, is the model in this billboard similar to your friends?''
+
+The Sample and Survey Administration
+Students from a public high school in a large Midwestern city participated in this study on a voluntary and anonymous basis. Consent was obtained from the school principal who officially served in loco parentis. The sizeable Mexican American population at this school (89%), as well as the high probability of exposure to alcohol advertisements as a result of the availability of advertisements (N = 66) surrounding the campus, made this an ideal sample area. The survey was administered over a three-day period among tenth, eleventh, and twelfth graders during preapproved class sessions. An administrator introduced the project, identified the voluntary and anonymous nature of the study both verbally and in writing, administered the survey, and debriefed all participants following completion. One hundred twenty-three Mexican American students participated in the study.
+Multiple regression and correlational analyses were performed to determine the relationship between the variables for all hypotheses. Appendix A presents the correlation matrix for the independent, control, and dependent measures.
+Results
+Content Analysis
+Content analysis findings revealed that among the 66 outdoor advertisements for alcohol surrounding the target high school campus, 27 were billboards and the remaining 39 were signs. Specifically,13 of the billboards were for beer while14 were for hard alcohol. All 39 signs were for beer. No outdoor advertisements for wine appeared in this sample. While seemingly small in quantity, this sample represents an attempt to capture an exhaustive collection of the local outdoor ads for alcohol. The product brand, type, and slogan for all advertisements in this sample can be found in Appendix B.
+Twelve outdoor advertisements contained human models. All 12 depictions occurred in billboard advertisements for hard liquor. Models, then, appeared in 44% of billboards (12=27). In total 28 human models were portrayed. Fifteen of the models were female (54%) and 13 were male (46%). Fifty-seven percent of models were Caucasian (n = 16). African Americans and Latinos each appeared as models 21% of the time (n = 6). Generally, the age of the model was indicated as either thirties (n = 16, 57%) or twenties (n = 12, 43%), and the models were identified as moderately attractive (n = 26) 93% of the time. Only 7% of the models (n = 2) were coded as very attractive.
+Lending some support for the first research proposition, which suggested that the primary characteristic of the models depicted in these billboards would be sex appeal, exactly half the models were classified as very sexy (n = 14) and the other half were considered moderately sexy (n = 14). All models (n = 28) were identified as moderately
+
+142 D. E. Mastro and C. Atkin
+fashionable and stylish in their dress.The models appeared to be moderately sociable 79% of the time (n = 22) and very sociable in 21% of the depictions. The activity level of the models was moderate in 50% of the images (n = 14). Forty-three percent of the time the model was considered to be highly active (n = 12). The remaining 7% were identified as low in activity (n = 2).
+Descriptive measures of the nonhuman images portrayed on the outdoor advertisements indicated that 61% (n = 40) of all outdoor advertisements displayed pictures of the product. The largest proportion (n = 17) of these product depictions (26%) were 100% of the vertical height of the advertisement. Approximately 8% of the advertisements presented the product as 75% of the vertical height (n = 5), and 6% of products (n = 4) composed 50% of the height of the ad. The largest proportion of the time (32%) the product was displayed on the right of the advertisement (n = 21). Six percent of the time it appeared in the middle (n = 4). In 2% of the cases, the product was shown on the left (n = 1). No human models were shown holding the product or drinking alcohol.
+In examining the second research proposition, which predicted that these billboards would depict traditional symbols of Mexican American culture, including colors (red, green, yellow, and black), it was found that red appeared in the background of 55% of these outdoor alcohol advertisements (n = 36). Twelve percent contained green (n = 8) and 6% exhibited black (n = 4). Both yellow and blue were identified in 2% of the advertisements (n = 1). These findings should be interpreted with caution, as there is no way to determine whether the colors reflect attention to cultural indicators or attempts to elicit a psychological response. Moreover, the coding scheme did not consider the influence of product packaging color(s) on ad color(s). No flags or maps appeared in any outdoor advertisements in this sample.
+The third research proposition predicted that romance and sociability would emerge as the prominent themes in the sample of billboards. Analyses revealed that the most commonly occurring motif across this sample was that of romance (14%). The theme of sociability did not appear. In addition to romance, themes of relaxation, recreation, and adventure were each identified 5% of the time. Depictions of individuality, parties=celebrations, and traditional ceremonies did not emerge in this sample.
+Chi-square analyses computed to assess differences in themes and content between beer and hard liquor advertisements suggest that models were significantly more likely to appear in advertisements for hard alcohol as opposed to beer X2 (1, N = 66) = 54.5, p < .001. This comes as no surprise when considering that no models appeared in any beer advertisements. It follows, then, that romance was significantly more likely to be a theme in billboards advertising hard alcohol X2 (1, N = 66) = 38.7, p < .01; as well as relaxation X2 (1, N = 66) = 11.7, p < .01; recreation X2 (1, N = 66) = 11.7, p < .01; and adventure X2 (1, N = 66) = 11.7, p < .01.
+The color red was significantly more likely to appear in outdoor advertisements for beer X2 (1, N = 66) = 21.3, p < .001. Pictures of the products occurred more frequently in outdoor advertisements for hard liquor. This was a significant finding X2 (1, N = 66) = 21.3, p < .001. Finally, the image of the product depicted on the advertisements was significantly larger on hard liquor billboards than on beer billboards X2 (2, N = 26) = 9.1, p < .01.
+High school survey. Descriptive statistics. The sample of students consisted primarily of 15 year olds (n = 51, 41%) and 16 year olds (n = 49, 40%). Eleven percent of the sample were
+
+Mexican Americans and Billboards
+
+143
+
+14 (n = 13), and the remaining 8% were17 years of age (n = 10).The mean age was approximately 15. The gender breakdown was nearly equal, with girls composing 51% of the group (n = 63) and boys 49% (n = 60). Sixty-six percent of these children resided in a household with married parents. Fifty-seven percent of parents were reported to have graduated from high school, and 31% were identified as having attended some college.
+On average, these high school students identified being exposed to four beer, two wine, and three hard liquor outdoor advertisements in an average week. Generally, they believed that 83% of students their age had tried beer and that 55% drank beer regularly. They estimated that 74% of their peers had tried hard liquor and that 43% drank liquor regularly. These students identified attending to billboards only sometimes'' and were exposed to approximately 13 billboards in an average month. Their recall of the specific slogans and images on the billboards was approximately three items. In addition, they could identify an average of nine beer and liquor brands to which they had been exposed.
+Questions assessing perceived similarities between the models for outdoor alcohol advertisements (pictured in the survey) and high school students (girl similarity to model; boy similarity to model) revealed that these respondents found both themselves and their friends to be largely dissimilar to the billboards. On average, girls identified the female model as different'' from themselves and their friends. Likewise, boys indicated that both they and their friends were different'' from the male model depicted.
+Regressio n analyses. Multiple regression analyses assessing the relationship between the independent variables (exposure frequency, attention, recall, brand exposure, billboard effect, and prodrinking beliefs) and each dependent variable (social perception, drinking intention, and approval of underage drinking), while holding control variables constant (parental approval, marrital status, and education), provided minimal support for the posited hypotheses. Hypothesis 1 predicted that high exposure to alcohol billboards would result in elevated perceptions of peer alcohol consumption. This hypothesis was not supported (Table 1). Exposure to alcohol billboards also failed to reach significance in predicting perceptions regarding drinking, as stated in Hypothesis 2 (Tables 2 and 3). Additionally, attention failed to predict
+
+Table 1 Summary of Regression Analyses for Variables Predicting Social Perceptions of Drinking among Mexican American Students
+(N = 123)
+
+R2 DR2
+
+Model
+
+.11 .04
+
+Independent variables
+
+df 6 b
+
+Fp 1.6 ns
+tp
+
+Attention Exposure frequency Recall Brand exposure Billboard effect Prodrinking beliefs Control variables
+Parental marital status Parental education
+
+.08 - .15 - .01
+.10 .05 .11 b .19 - .27
+
+.73 - 1.4
+- .10 .87 .45
+1.1 t
+2.0 - 2.6
+
+ns ns ns ns ns ns p
+.05 .01
+
+144 D. E. Mastro and C. Atkin
+
+Table 2 Summary of Regression Analyses for Variables Predicting Drink-
+ing Intention among Mexican American Students (N = 123)
+
+R2 DR2
+
+Model
+
+.53 .20
+
+Independent variables
+
+df 6 b
+
+Fp 13.9 .001
+tp
+
+Attention Exposure frequency Recall Brand exposure Billboard effect Prodrinking beliefs Control variables
+Parental approval Acculturation
+
+.03 - .03 - .05
+.13 .04 .48 b .33 .19
+
+.34 - .43 - .63 1.6
+.55 6.0
+t
+4.2 2.5
+
+ns ns ns ns ns .001 p
+.001 .05
+
+Table 3 Summary of Regression Analyses for Variables Predicting Approval of Underage Drinking among Mexican American Students
+(N = 123)
+
+R2 DR2
+
+Model
+
+.40 .13
+
+Independent variables
+
+df 6 b
+
+Fp 8.8 .001
+tp
+
+Attention Exposure frequency Recall Brand exposure Billboard effect Prodrinking beliefs Control variables
+Parental approval
+
+- .10 .08
+- .15 .19 .00 .38 b .35
+
+- 1.1 .88
+- 1.8 2.2 - .01 4.2 t
+4.0
+
+ns ns ns .05 ns .001 p
+.001
+
+perceptions regarding drinking (Hypothesis 3) and beliefs about peer alcohol consumption (Hypothesis 4).
+High retention of alcohol billboards also was expected to predict positive attitudes toward drinking (Hypothesis 5). Neither recall of the images and information on billboards nor seeing billboards were found to be significant for drinking intent. Brand exposure, however, was found to be positively and significantly associated with approval of underage drinking (b = .19, t = 2.2, p < .05). This suggests that as seeing billboards increases, so does the belief in the acceptability of underage drinking. As such, Hypothesis 5 was partially supported (Tables 2 and 3). Hypothesis 6, which posited that increased retention would be a positive and significant predictor of increased perceptions of peer consumption rates also failed to be supported (Table 1).
+Perceptions regarding the influence of beer and hard liquor billboards on drinking behavior (billboard effect) were not found to predict acceptability of drinking or approval of underage drinking (Hypothesis 7; Tables 2 and 3). No support was found for Hypothesis
+
+Mexican Americans and Billboards
+
+145
+
+8 postulating that high belief in the influence of alcohol billboards on drinking behavior would be associated with increased beliefs in peer alcohol consumption (Table 1).
+The motivation measure of acceptance of themes associated with drinking (prodrinking beliefs) was found to significantly and positively predict (b = .48, t = 6.0, p < .001) general acceptability of drinking (Hypothesis 9). This measure also was a significant and positive predictor of acceptance of underage drinking (b = .38, t = 4.2, p <.001), again suggesting that greater acceptance of positive themes associated with alcohol ads leads to greater acceptance of drinking, as indicated in Hypothesis 9 (Tables 2 and 3). However, acceptance of themes failed to predict perceptions of peer alcohol consumption as posited in Hypothesis 10 (Table 1).
+Discussion
+The purpose of this study was to investigate the influence of outdoor advertisements on Mexican American high school students' beliefs and social perceptions regarding drinking. When considering that drinking behaviors are strongly influenced by outcome expectancies, which to some degree are shaped by the media (Austin & Meili, 1994), the role of alcohol billboards becomes salient. As identified, exposure may be disproportionately high for this group (compared with Whites) as a result of the heavy concentration of such ads in Latino (and African American=Black) neighborhoods (Alaniz,1998). Moreover, the behavioral patterns and associated health risks linked to alcohol consumption among Latinos in the United States gives this relationship cause for immediate attention. As such, the findings of this study offer an initial step toward understanding this issue in that they expand current research by incorporating the roles of both personal and environmental factors into the learning process. Existing studies have pointed to a number of social influences, including parents and friends, as primary indicators of drinking beliefs and behaviors. However, the role of environmental factors (specifically billboards and outdoor advertisements) and the knowledge acquisition process have been largely ignored.
+Content Analysis
+The participants in this study reported findings somewhat consistent with the results of the content analysis with regard to the specific images appearing on alcohol billboards in their communities, specifically people and bottles. Contrary to the prevalent portrayals on the billboards surrounding their school, however, these students did not associate active lifestyles or romance with drinking. Instead the students suggested that party scenes were a recurring theme on billboards (46%). These discrepancies may suggest that students are unable to distinguish between the recall of billboard images and those of advertisements in magazines or even on television.
+Survey of Mexican Americans
+By utilizing a social cognitive approach in the examination of Mexican American high school students' drinking beliefs and social perceptions, the determinants of teen alcohol expectancies can be more explicitly understood. It was expected that each
+
+146 D. E. Mastro and C. Atkin
+subfunction in the social cognitive model would be significantly and positively associated with belief systems regarding alcohol and intentions to consume. However, only measures of retention and motivation were found to have predictive ability. More specifically, as retention and motivation increased, so too did approval of underage drinking. Increasing motivation also was associated with increasing levels of intent to drink. Because motivation was measured via acceptance of themes associated with advertisements for drinking, what this may suggest is that these images are being utilized cognitively to match behaviors on acceptability. In this way, the positive images depicted in alcohol advertisements could serve as incentives to engage in the behavior by justifying the enactment for cognitive matching.This is a clear representation of the motivation function in the social cognitive process. Thus, the belief in the rewards and valued outcomes associated with drinking, as typically depicted in billboards, may provide the requisite incentives to engage in the activity.
+Therefore, using social cognitive theory as a conceptual guide, the current findings, though limited, help isolate some key components in the learning process pertinent to alcohol-related attitudes. In particular, these data add to the theoretical model by highlighting the role of outcome expectancies. Specifically, the reinforcement categories prevalent on billboards supply any number of external and vicarious rewards (e.g., status, sociability, money, romance, active lifestyle), which may be appealing to young audience members.
+Implications and Limitations
+Although only a small portion of the hypotheses in this study were supported, the findings do suggest that these advertising messages may have measurable, albeit minimal, effects on the alcohol-relate d expectancies of high school students. The images depicted on alcohol billboards appear to have some persuasive ability, influencing both the processing of messages and subsequent perceptions.
+One possible reason for these limited findings could have been that the images depicted in this community were not especially salient to these Mexican American students due to the perceived dissimilarity found between the models and the students themselves, as well as the limited representations of Mexican models. Alongside the racial differences, this lack of identification may have resulted from the fact that the models pictured in the advertisements were not perceived to be high school students. This may have diminished the ability of these images to act as cognitive guides due to differences between the students and the displayed conceptual ideal. Research into the effect of model race=ethnicity on the influence of advertising has found, with relative consistency, that consumers are more likely to be affected by ads featuring models of their own racial=ethnic background (alongside additional product-specific factors; Green, 1999).
+A second possible reason for this inconsistency could have been that the influence of family and culture, both found to be significant predictors (as consistent with existing research), were more consequential in the learning process along this dimension. Therefore, cognitive representations of drinking may have been strongly associated with penalty during the process of matching behaviors for acceptability.
+Another limitation of the study may have resulted from the specific measures utilized. More sensitive measures of billboard themes that considered both positive and
+
+Mexican Americans and Billboards
+
+147
+
+negative outcome expectancies and with greater variability in response options would be valuable. Although not included in the present study, probing both positive and negative incentives (Bandura, 1986) would aid in crystallizing this relationship. In fact, research has found that counteradvertising campaigns effectively reduced usage of some vice products (i.e., cigarettes; Saffer, 1996); thus, the extent to which both positive and negative reinforcers appear in such ads would be highly influential on the effectiveness of the message.
+These notwithstanding, the findings of this study lend minimal support for the proposition that alcohol billboards provide the requisite models and incentives toward the acquisition of drinking behaviors.These messages are frequent and prevalent.They depict sexy and appealing models and contain desirable outcome expectancies, potentially legitimizing the behavior and subsequently providing a cognitive model for behavioral matching.
+What will be important in future examinations of this relationship is an assessment of the ways in which peer pressure, social desirability, and access to alcohol affect the cognitive learning process. If drinking is a normative behavior among teens' peer groups, then the action will be reinforced. Continued research in this area should attempt to examine current drinking behaviors of both the participants and family members. Tendencies to abuse alcohol also should be examined. The continuing problem facing researchers will be in gaining full access to youth, parents, and their behaviors. Perhaps the utilization of less intrusive community-level measures and nonparticipant observations would aid in the alleviation of this problem. Incorporating aggregated data (e.g., census=demographic data) with environmental indicators (e.g., number and type of antidrinking billboards in the area, amount of grocery store shelf space allocated for alcoholic beverages) may provide useful supplemental information to survey data (Cheadle, Wagner, Koepsell, Kristal, & Patrick,1992).
+Finally, a comprehensive analysis of the depictions of alcohol consumption across all media, alongside an evaluation of overall media consumption, would contribute vitally to understanding the scope of images available for modeling. The potential influence of these messages limits the breadth of the current study. Accordingly, future research should be certain to account for the contributions from multiple media. Moreover, these studies should attempt to determine the varying impact of the depicted cues, rewards, models, and themes as well as the conditions under which they are most powerful.
+
+References
+Adams=Jobson Beverage Group. (1996). Wine, beer, and liquor handbook. New York: Adams=Jobson Publishing Corporation.
+Aitken, P., Eadie, D., Leathar, D., McNeill, R., & Scott, A. (1988). Television advertisements for alcoholic drinks do reinforce underage drinking. BritishJournal of Addiction, 83,139971419.
+Alaniz, M. (1998). Alcohol availabilit y and targeted advertising in racial=ethnic communities. Alcohol Health and ResearchWorld, 22, 286^289.
+Alaniz, M., & Wilkes, C. (1995). Reinterpreting Latino culture in the commodity form: The case of alcohol advertising in the Mexican American community. HispanicJournal of Behavioral Sciences, 17, 4397451.
+Altman, D., Schooler, C., & Basil, M. (1991). Alcohol and cigarette advertising on billboards. Health Education Research, 6, 4877490.
+Austin, E., & Meili, H. (1994). Effects of interpretations of televised alcohol portrayals on children's alcohol beliefs. Journal of Broadcasting and Electronic Media, 38, 4177435.
+Bandura, A. (1977). Social learning theory. Englewood Cliffs, NJ: Prentice-Hall.
+
+148 D. E. Mastro and C. Atkin Bandura, A. (1986). Social foundations of thought and action: A social cognitive theory. Englewood Cliffs, NJ:
+Prentice-Hall. Bandura, A. (1989a). A social cognitive theory of action. InJ. Forgas & J. Innes (Eds.), Recent advances in social
+psychology: An international perspective (pp. 1277139). Holland: Elsevier Science Publishers. Bandura, A. (1989b). Human agency in social cognitive theory. American Psychologist, 44,117571184. Bandura, A. (1994). Social cognitive theory of mass communication. In J. Bryant & D. Zillmann (Eds.),
+Media effects (pp. 61790). Hillsdale, NJ: Lawrence Erlbaum. Bandura, A. (1999). A sociocognitive analysis of substance abuse: An agentic perspective. Psychological
+Science, 10, 2147216. Basil, M., Schooler, C., Altman, D., Slater, M., Albright, C., & Maccoby, N. (1991). How cigarettes are
+advertised in magazines: Special messages for special markets. Health Communication, 3,75791. Black, S., & Markides, K. (1993). Acculturation and alcohol consumption in Puerto Rican, Cuban-
+American, and Mexican-American women in the United States. AmericanJournal of Public Health, 83, 8907893. Black, S., & Markides, K. (1994). Aging and generational patterns of alcohol consumption among Mexican
+Americans, Cuban Americans, and Mainland Puerto Ricans. InternationalJournal of Aging and Human Development, 39, 977103.
+Caetano, R. (1988). Responding to alcohol-related problems among Hispanics. Contemporary Drug Problems, 15, 3357364.
+Caetano, R. (1994). Drinking and alcohol-related problems among minority women. Alcohol and Health ResearchWorld, 18, 2337242.
+Caetano, R., Clark, C., & Tam, T. (1998). Alcohol consumption among racial=ethnic minorities: Theory and research. Alcohol Health and ResearchWorld, 22, 2337241.
+Canino, G. (1994). Alcohol use and misuse among Hispanic women: Selected factors, processes, and studies. InternationalJournal of the Addictions, 29,108371100.
+Cheadle, A., Wagner, E., Koepsell, T., Kristal, A., & Patrick, D. (1992). Environmental indicators: A tool for evaluating community-based health promotion programs. American Journal of Preventative Medicine, 8, 3457350.
+Cuellar, I., Arnold, B., & Maldonado, R. (1995). Acculturation rating scale for Mexican AmericansoII: A revision of the original ARSMA scale. HispanicJournal of Behavioral Sciences, 117, 2757304.
+Donthu, N., Cherian, J., & Bhargava, M. (1993). Factors influencing recall of outdoor advertising. Journal of Advertising Research, 33, 65773.
+Dusenbury, L., Epstein, J., Botvin, G., & Diaz, T. (1994). Social influence predictors of alcohol use among New York Latino youth. Addictive Behaviors, 19, 3637372.
+Epstein, J., Botvin, G., Diaz, T., & Schinke, S. (1995). The role of social factors and individual characteristics in promoting alcohol use among inner-city minority youths. Journal of Studies on Alcohol, 56, 39746.
+Farabee, D., Wallisch, I., & Maxwell, J. (1995). Substance use among Texas Hispanics and non-Hispanics: Who's using, who's not, and why. HispanicJournal of Behavioral Sciences, 17, 5237536.
+Fitts, F. & Hewett, W. (1977). Utilizing the before after with control group experimental design to evaluate outdoor advertising campaign. Journal of Advertising, 6, 26728.
+Goldstein, H. (1991, November=December). Billboard liberation: Talking back to marketers by taking matters into your own hands. Utne Reader, 48, 46748.
+Green, C. (1999). Ethnic evaluation s of advertising: Interaction effects of strength of ethnic identification, media placement, and degree of racial composition. Journal of Advertising, 28, 49764.
+Grube, J., & Wallack, L. (1994).Television beer advertising and drinking knowledge, beliefs, and intentions among schoolchildren. AmericanJournal of Public Health, 84, 2547259.
+Hispanic Marketing Connections (HMC). (1998). Hispanic market connections. [On-line]. Available: http:==www.hmcresearch.com=market.html
+Johnson, E., & Delgado, J. (1989, November=December). Reaching Hispanics with messages to prevent alcohol and other drug abuse. Public Health Reports, 104, 5887594.
+Kusserow, J. R. (1991, June). Youth and alcohol: A national survey of drinking habits, access, attitudes, and knowledge.Washington, D.C.: Office of Inspector General, Department of Health and Human Services. Lee, W., & Callcott, M. (1994). Billboard advertising: A comparison of vice products across ethnic groups. Journal of Business Research, 30, 85794.
+LNA=Mediawatch. (1999). Competitive media reporting and publishers information bureau. Los Angeles City Planning Department. (1998, April 9). Los Angeles City Planning Department staff report to the City Planning Commission. CPC 97-0242 CA. Los Angeles: Author.
+Marin, G., Posner, S., & Kinyon, J. (1993). Alcohol expectancies among Hispanics and non-Hispanic Whites: Role of drinking status and acculturation. HispanicJournal of Behavioral Sciences, 15, 3737381.
+Midanik, L., & Clark,W. (1994). The demographic distribution of U.S. drinking patterns in 1990: Description and trends from 1984. AmericanJournal of Public Health, 84,121871221.
+Myers, H., Kagawa-Singe r, M., Kumanyika, S., Lex, B., & Markides, K. (1995). Panel III: Behavioral risk factors related to chronic diseases in ethnic minorities. Health Psychology, 14, 6137621.
+
+Mexican Americans and Billboards
+
+149
+
+Oregon Council for Hispanic Advancement (OCHA). (1997). Oregon Council for Hispanic Advancement. [Online]. Available: http:==www.ochanw.org=intro.html
+Perez-Stable, E., Marin, G., & VanOss-Marin, (1994). Behavioral risk factors: A comparison of Latinos and non-Latino Whites in San Francisco. AmericanJournal of Public Health, 84, 9717976.
+Popcorn, F. (2000). How to market to women. Advertising Age, 71, 24726. Randolph, W., Stroup-Benham, C., & Black, S. (1998). Alcohol use among Cuban-Americans, MexicanAmericans, and Puerto Ricans. Alcohol Health and ResearchWorld, 22, 2657269. Ringold, D. (1995). Social criticisms of target marketing. American Behavioral Scientist, 38, 5787592. Saffer, H. (1996). Studying the effects of alcohol advertising on consumption. Alcohol Health and Research World, 20, 2667272. Schooler, C., Basil, M., & Altman, G. (1996). Alcohol and cigarette advertising on billboards: Targeting with social cues. Health Communication, 8,1097129. U.S. Census. (2000). [on-line]. Available: http:==www.census.gov U.S. Department of Health and Human Services. (1994). Public Health Service. Washington, D.C.: National Institute of Health. Treno, A., Alaniz, M., & Gruenewald, P. (1999). Drinking among U.S. Hispanics: A multivariate analysis of alcohol consumption patterns. HispanicJournal of Behavioral Sciences, 21, 4057419. Warheit, G.,Vega,W., & Khoury, E. (1996). A comparative analysis of cigarette, alcohol, and illicit drug use among an ethnically diverse sample of Hispanic, African American, and non-Hispanic white adolescents. Journal of Drug Issues, 26, 9017922. Wells, M. (1997, December 16). Beer, cigarettes, billboards get the boot. USAToday, p. 3B. Whitehill King, K., & Tinkham, S. (1990). The learning and retention of outdoor advertising. Journal of Advertising, 29, 47751.
+
+150
+
+Appendix A: Correlation Matrix between the Independent, Control, and Dependent Measures.
+
+Attention Exposure Recall Brand Billboard Pro- Parental Accult-
+
+Drink Underage Soc
+
+freq.
+
+expose effect drink approv uration Married Ed. intent drink percp
+
+Attn. Expose freq. Recall Brand expose B.B. effect Pro-
+drinking Parental
+approval Acculturation Married Ed. Drinking
+intent Underage
+drink Social
+percep.
+
+1.0 .35 .19 .39 .03 .17 .16 .03
+- .11 .05 .21 .02 .06
+
+1.0 .18 .34 .10
+- .03 .01 .08 .07
+- .20 .06 .09
+- .02
+
+1.0 .18
+- .04 .13 .24
+- .13 .02 .17 .03
+- .03 .01
+
+1.0 .15
+- .09 .05
+- .05 .03
+- .07 .11 .08 .11
+
+1.0 .01 .08 .30 .08
+- .12 .14 .05 .11
+
+1.0 .51
+- .08 - .01
+.33 .56 .48 .05
+
+1.0 .00
+- .05 .20 .54 .48 .03
+
+1.0 .14
+- .02 .14
+- .07 - .03
+
+1.0 - .01
+.06 .18 .19
+
+1.0 .15 1.0 .13 .63
+- .2 .22
+
+1.0 .12
+
+1.0
+
+Mexican Americans and Billboards
+
+151
+
+Appendix B Brand Buchanan's Bud Light Budweiser Busch Courvoisier (A) Courvoisier (B) Courvoisier (C) Crown Royal Heileman's Old
+Style Heineken Michelob Miller Lite Sauza Special export Tecate (A) Tecate (B) Tecate (C)
+
+Slogan Elegancia. Prestigio. Madurez. Simplemente el Mejor King of Beers Smooth, refreshing beer Anything is possible in the state
+of Courvoisier Te lleva a un lugar especial Te lleva a un lugar especial Smooth operator
+No Cabe Duda El gran sabor de una
+verdadera cerveza pilsner 100% pure agave tequila You can travel the world over
+and never find a better beer Cerveza es mejor que beer El orgullo de este lado Retoma lo tuya
+
+Type Billboard Sign Sign Sign Billboard Billboard Billboard Billboard Sign Billboard Sign Billboard Billboard Sign Billboard Billboard Billboard
+
+Frequency 2 1 7 1 3 4 3 1
+21 4 1 1 1 8 1 1 6
+
+

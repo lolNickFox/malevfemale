@@ -1,0 +1,394 @@
+Stigma Management and Well-Being: The Role of Perceived Social Support, Emotional Processing, and Suppression
+Kristin P. Beals California State University, Fullerton
+Letitia Anne Peplau University of California, Los Angeles
+Shelly L. Gable University of California, Santa Barbara
+
+Lesbians and gay men frequently make decisions about concealing or disclosing their stigmatized identity. Past research has found that disclosing one's sexual orientation is often beneficial. This study aimed to answer the question, "why?". Specifically, this study tested a model in which perceived social support, emotional processing, and suppression mediate the association between disclosure and well-being. To capture disclosure decisions in real time, participants completed a 2-week daily diary study and a 2-month follow-up survey. As expected, participants generally reported greater well-being on days when they disclosed (vs. concealed) their sexual orientation. Perceived social support was a consistent predictor of well-being and mediator of the association between disclosure and well-being. Although less consistent across time and measures, emotional processing and to a lesser extent suppression were also significantly associated with disclosure and well-being. This research advances the scientific understanding of concealable stigmatized identities and their impact on individual well-being.
+Keywords: stigma; disclosure; social support; emotional processing; suppression
+
+Gay men and lesbians often face "disclosure opportunities" where they must decide whether and when to reveal or conceal their sexual orientation (Pachankis, 2007). This process of stigma management is a major task for individuals with concealable stigmas who weigh the pros and cons of disclosure versus concealment and make decisions based on the circumstances. Cain (1991) observed that both options can be taxing because "disclosure often entails planning and execution, and concealment requires individuals to attend to many aspects of their social presentation and life-style that would ordinarily go unnoticed" (p. 67). Previous research has typically focused on the disclosure of sexual orientation to close others such as family, friends, and sometimes supervisors or coworkers. Little is known about the more routine disclosure experiences that occur in the course of everyday social interactions.
+The Association Between Disclosure Versus Concealment and Well-Being
+There is reason to believe that disclosure decisions can affect psychological well-being. Research with nonstigmatized individuals indicates that concealment
+
+Susan (a heterosexual coworker) asks Mary (a lesbian who has not disclosed her sexual orientation to her coworkers), "What are you doing this weekend?" Mary quickly thinks, "I'm going out of town to a gay pride event," but she says, "Hanging out with some friends, what are you doing?"
+
+Authors' Note: This work was supported by an Individual National Service Award from NIMH awarded to Kristin Beals, Award 1 F31 Mh12836-01A1. Please address all correspondence to Kristin P. Beals, Department of Psychology, California State University, Fullerton, PO Box 6846, Fullerton, CA 92834; e-mail: kbeals@fullerton.edu.
+PSPB, Vol. 35 No. 7, July 2009 867-879 DOI: 10.1177/0146167209334783 (c) 2009 by the Society for Personality and Social Psychology, Inc.
+
+867
+
+868 PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+of personal information can be associated with poor psychological outcomes. In an illustrative study, Larson and Chastain (1990) assessed concealment of negative or distressing personal information in a sample of 306 health care professionals and health care graduate students. Greater concealment was associated with significantly higher levels of depression and anxiety and with reporting more physical symptoms. These associations held even when controlling for social support and trait levels of self-disclosure.
+Relatively little is known about the physical and mental health consequences of managing concealable stigmas (Crocker, Major, & Steele, 1998), but available research suggests that disclosure is associated with wellbeing (Pachankis, 2007). Cole and colleagues investigated the health implications of concealing a stigmatized identity in a sample of gay men with HIV. In one study (Cole, Kemeny, Taylor, Visscher, & Fahey, 1996), HIV+ gay men were followed for 9 years. Immune functions were assessed every 6 months. Gay men who reported greater concealment of their homosexual identity had poorer immune function (i.e., fewer CD4 cells), progressed more rapidly to an AIDS diagnosis, and died sooner than men who had disclosed their sexual orientation more widely. A second study found that gay men with HIV who concealed their identity were 3.2 times more likely to develop cancer and 2.9 times more likely to develop an infectious disease than men who disclosed their identity, controlling for health-relevant behaviors, reporting biases, and other individual characteristics (Cole, Kemeny, Taylor, & Visscher, 1996). Importantly, further analyses revealed that a subsample of men who were especially sensitive to social rejection were better off if they protected themselves from social rejection by concealing their identity (Cole, Kemeny, & Taylor, 1997). This finding indicates that disclosure is not always beneficial and highlights the importance of understanding factors that mediate the association between disclosure decisions and well-being.
+The current study was designed to evaluate three factors that may explain the association between disclosure of a stigmatized identity and well-being. Based on available research, we identified three potential mediators of the association between stigma management and wellbeing: perceived social support, emotional processing, and suppression. These factors are shown in Figure 1 and each is discussed below.
+The Role of Perceived Social Support
+The association between greater perceived social support and better physical and mental health outcomes is one of the most robust findings in health psychology (see reviews by Sarason, Sarason, & Gurung, 2001;
+
+Disclosure (yes/no)
+
+Social Support AB
+
+C
+
+Emotional Processing
+
+D
+
+Well-Being
+
+EF
+
+Suppression
+
+Figure 1 Mediation model of the associations among disclosure, social support, emotional processing, suppression, and well-being.
+NOTE: * p < .05. ** p < .01.
+Uchino, Cacioppo, & Kiecolt-Glaser, 1996). Social support may be crucial for gay and lesbian individuals who confront both the typical stressors of life and the additional burden of "minority stress" associated with their devalued social identity (Meyer, 2003).
+One goal of stigma management is to maximize the amount of social support available. Individuals tend to disclose to people from whom they expect to receive positive reactions or support (Major & Gramzow, 1999; Savin-Williams, 1996). For example, individuals with mental illness were less likely to disclose if they expected others to devalue them (Link, Mirotznik, & Cullen, 1991), as were women who had had abortions (Major & Gramzow, 1999). Studies of gay men and lesbians (Savin-Williams, 1996) have also found that concerns about social rejection affect disclosure. Assuming that people correctly anticipate the reaction of others, we predicted that disclosure of one's sexual orientation can lead to an increased perception of social support, shown as Path A in Figure 1. Consistent with this idea, Jordan and Deluty (1998) found that lesbian women who reported greater levels of disclosure to family, friends, and coworkers also reported greater levels of social support. Of course, the association between disclosure and social support can be bidirectional.
+In addition, we predicted a link between greater perceived social support and greater well-being, shown in Figure 1 as Path B. Research with lesbians and gay men has documented this association. In one study, gay men who reported low levels of social support had higher levels of depression and lower self-esteem (Vincke & Bolton, 1994) compared to gay men who had high levels of social support. In another study (Wayment & Peplau, 1995), both lesbian and heterosexual women
+
+Beals et al. / STIGMA MANAGEMENT AND WELL-BEING 869
+
+who reported greater perceived social support reported greater psychological well-being. A recent 2-week daily diary study of lesbian women (Beals & Peplau, 2005) also found that women who perceived support for their lesbian identity reported greater well-being both on a daily basis and at 2-month follow-up.
+In summary, the model in Figure 1 predicts that for lesbians, gay men, and people with other concealable stigmatized identities, perceived social support is an important mediator between identity disclosure and well-being.
+The Role of Emotional Processing
+A second factor that may mediate the association between disclosure of a concealable stigma and wellbeing is emotional processing. According to Pennebaker (1993, 1997), the act of using language to describe emotional experiences creates an opportunity to think about and integrate stressful information in new and meaningful ways that can contribute to personal well-being (Pennebaker, 1997). Similarly, Greenberg and Lepore (2004) argued that emotional processing is beneficial because it results in greater emotional and cognitive self-regulation, which can promote positive self-images and adaptive behaviors.
+Many studies have shown that writing about a stressful or traumatic life event such as the loss of a job at midlife or the death of a spouse enhances both emotional and physical well-being (see meta-analyses by Frattaroli, 2006; Smyth, 1998). The same processes may also apply to those experiencing the chronic stress of managing a stigmatized identity. Disclosure of a concealable stigma provides the opportunity for emotional processing that in turn may enable individuals to clarify and integrate their thoughts and feelings.
+To date, two studies have examined the association between emotional processing and well-being among lesbians and gay men. In a study that included lesbians and gay men as well as individuals with other stigmatized identities, participants were assigned to write about their membership in their stigmatized in-group, or about membership in the general community, or about a trivial topic (Seagal & Pennebaker as cited in Pennebaker & Seagal, 1999). Participants who were gay, lesbian, or had other concealable stigmatized identities fared best when they wrote about membership in their in-group, reporting less sadness and depression than individuals who wrote about a trivial topic or about being a member of the general population. Presumably, those who wrote about their own stigmatized group had the opportunity to clarify and integrate their thoughts. In another writing-paradigm study, gay men wrote either about their deepest thoughts and feelings about being
+
+gay or about a trivial topic (Swanbon, as discussed in Greenberg & Lepore, 2004). Participants who wrote about being gay reported greater clarity about their gayrelated feelings and fewer psychosomatic symptoms at follow-up. These findings support the idea that emotional processing may have health benefits for people with stigmatized identities.
+We hypothesize that the verbal act of disclosing a stigmatized identity to another person functions in ways similar to the writing paradigm used by Pennebaker and others. Deciding to reveal their sexual orientation to a coworker or store clerk may cause lesbians and gay men to reflect on the role of this identity in their life, examine feelings that might inhibit their disclosure, and gain greater clarity about the personal meaning of being gay or lesbian. This emotional and cognitive processing might occur not only before deciding about disclosure but also afterwards, as the person continues to reflect on their experience. Consequently, we predicted that emotional processing is an important mediator between identity disclosure and well-being, shown in Paths C and D in Figure 1.
+The Role of Suppression
+A third potential mediator between disclosure decisions and well-being is suppression, a feeling people may experience if they conceal personal or emotional information that they would like to reveal (Petrie, Booth, & Pennebaker, 1998). Pennebaker and colleagues showed that suppression can be detrimental to one's psychological and physical well-being (Pennebaker, 1989, 1993; Petrie et al., 1998) and suggested (Pennebaker, 1997) that suppression is relevant to the experiences of lesbians and gay men. Few lesbians, gay men, or individuals with other concealable stigmas disclose their identity to all people all of the time. Instead, "passing" is a frequent strategy (Goffman, 1963) and may set the stage for the experience of suppression.
+Wegner and his associates (e.g., Smart & Wegner, 1999) demonstrated that suppression of thoughts led to increased intrusion of the very thoughts that the person was trying to inhibit. This process may have special relevance for individuals with concealable stigmas. For example, a college student may want to reveal being lesbian to her new roommate but feel that she cannot risk doing so. As a result, she may find herself constantly thinking about the desire to share information about her sexual orientation. Similarly, if a person actively attempts to conceal a stigmatized identity during social interactions, impression management concerns may lead to a preoccupation with the stigma that results in heightened stress (Jones et al., 1984; Pachankis, 2007). These unwanted thoughts may in turn have a
+
+870 PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+negative effect on mental well-being (Nolen-Hoeksema, 1998; Nolen-Hoeksema, McBride, & Larson, 1997).
+Empirical research on the possible impact of suppression on the well-being of stigmatized individuals is very limited. Major and Gramzow (1999) studied a large group of women right before they had a first trimester abortion and then 2 years after the abortion. They found that women who kept their abortion a secret from family and friends reported increased thought suppression and decreased emotional disclosure. This in turn was associated with greater psychological distress. We predicted that when a person chooses to conceal their stigmatized identity, they may experience greater suppression, which in turn will be associated with lower well-being. The mediational role of suppression is shown in Figure 1 as Paths E and F.
+In summary, suppression and emotional processing are hypothesized to have independent and opposite effects on psychological well-being. To the extent that disclosure prompts emotional processing that clarifies and finds meanings in the experience of having a stigmatized identity, well-being will be improved. In addition, to the extent that a decision to conceal one's sexual orientation is associated with suppression of thoughts and feelings about one's true identity, well-being will be impaired.
+GOALS OF THIS STUDY
+This research tested a model proposing that perceived social support, emotional processing, and suppression each mediate the association between disclosure of a stigmatized identity and psychological well-being. This model addresses basic questions about the everyday lives of lesbians and gay men. Does revealing information about one's stigmatized sexual identity to other people enhance or detract from personal well-being? Does disclosure benefit well-being because it engenders social support from others? Are disclosure opportunities related to well-being because they lead individuals to think deeply about one's stigmatized identity or to work actively to ignore and suppress thoughts about one's identity? Furthermore, do day-to-day fluctuations in these disclosure experiences have a cumulative effect on the individual's well-being that might be seen months later? The current study is a starting point to answering all of these important questions.
+To capture disclosure experiences as they occurred, participants completed daily diary questionnaires during a 14-day period. Most past research on disclosure of a stigmatized identity has asked participants to report retrospectively on disclosure to specific people such as parents or coworkers or to assess their average level of
+
+past disclosure. In contrast, this study allowed participants to report on disclosure opportunities shortly after they occurred. This was useful for two reasons. First, it provided a more accurate account of whether disclosure occurred or not. Second, it allowed participants to recognize daily interactions that may provide disclosure opportunities instead of just remembering their "big disclosures" to family and friends. It may be impossible to assess disclosure opportunities to strangers and acquaintances in any other way because participants would be unlikely to recall the specifics of these daily disclosure opportunities after the lapse of any amount of time. These daily decisions about disclosure or concealment may have consequences for well-being that would not be known if the focus was on the disclosure opportunities to family and friends only.
+In addition to the daily aspect of the study, a 2-month follow-up questionnaire assessed subsequent well-being. Hypotheses based on the conceptual model presented in Figure 1 were tested both for daily effects and long-term effects. Seven hypotheses were tested.
+Hypotheses about daily disclosure of sexual identity. Four hypotheses investigated the experiences of lesbians and gay men on days when they had an opportunity to disclose their identity. Hypotheses concerned the associations among the decision to disclose versus conceal, perceived social support, emotional processing, suppression, and well-being assessed on a daily basis.
+It was hypothesized that on days when a disclosure opportunity occurred:
+Hypothesis 1: Disclosure would be associated with greater well-being than concealment.
+Hypothesis 2: Experiences of perceived social support would mediate the association between disclosure and end-of-day well-being. Specifically, compared to the decision to conceal, the decision to disclose would be associated with greater perceived social support, which in turn would be associated with greater well-being.
+Hypothesis 3: Experiences of emotional processing would mediate the association between disclosure and end-ofday well-being. Specifically, compared to the decision to conceal, the decision to disclose would be associated with greater emotional processing, which in turn would be associated with greater well-being.
+Hypothesis 4: Experiences of suppression would mediate the association between disclosure and end-of-day wellbeing. Specifically, compared to the decision to disclose, the decision to conceal would be associated with greater suppression, which in turn would be associated with lower well-being.
+Hypotheses about daily disclosure of sexual identity and well-being 2 months later. Three hypotheses addressed links between the experiences of lesbians and gay men on days when they had an opportunity to
+
+Beals et al. / STIGMA MANAGEMENT AND WELL-BEING 871
+
+disclose their identity during the 2-week diary period and their psychological well-being 2 months later. These hypotheses concerned the associations between wellbeing and perceived social support, emotional processing, and suppression.
+Hypothesis 5: Greater perceived social support on disclosure opportunity days during the diary phase of the study (aggregated across days) would predict greater well-being at the 2-month follow-up.
+Hypothesis 6: Greater emotional processing on disclosure opportunity days during the diary phase of the study would predict greater well-being at the 2-month follow-up.
+Hypothesis 7: Greater suppression of thoughts and feelings about one's identity on disclosure opportunity days during the diary phase of the study would predict lower well-being at the 2-month follow-up.
+METHOD
+This research employed daily experience measures. Gay and lesbian participants kept two different types of diaries during a 2-week period. First, a disclosure diary or event-contingent diary required responding to a set of questions every time an opportunity to disclose stigmarelevant information occurred. Participants recorded whether they disclosed or concealed during that particular opportunity. This allowed a nearly immediate recording of the opportunity and the disclosure decision. In addition, each evening, after the day's activities had concluded, participants completed an end-of-day or interval-contingent diary. Questions assessed well-being, perceived social support, emotional processing, and suppression for that day. These two types of diaries provided an elaborate 2-week snapshot of the processes involved in making decisions about disclosure of one's sexual orientation. There was also a pretest assessment of psychological well-being and a 2-month follow-up assessment of well-being.
+Participants
+Of the original 102 participants, 84 (47 men and 37 women) turned in an adequate number of daily diaries and were included in analyses of the daily measures. All phases of the study were completed by 81 participants (46 gay men and 35 lesbian women) and this sample was used for analyses of the 2-month follow-up data. All participants self-identified as either gay or lesbian. Among the 84 participants in the main sample, the mean age was 31 years (SD = 12.4, Mdn = 28). Participants ranged from an 18-year-old college freshman to a 68-year-old retired individual. The sample was ethnically diverse. Specifically, 59% of the sample
+
+self-identified as White, 17% as Latino/a, 6% as African American, 5% as Asian or Pacific Islander, and the remaining 11% self-identified as multiethnic or other. Participants were also diverse in years since first identifying as gay or lesbian. Some participants had identified within the last year and other participants had identified for as long as 48 years.
+Procedure
+Participants were recruited in Los Angeles using a variety of methods, including announcements posted to campus lesbian, gay, bisexual, and transgender (LGBT) listservers and fliers posted around campus. Announcements were made in classes, through the Psychology Department subject pool and through personal contacts. Also, a snowball strategy was used in which participants were asked to forward an e-mail to people they knew who might be interested in the study. All prospective volunteers were asked to contact the principal investigator via e-mail and were then sent a description of the study, including the time commitment involved. Participants were also informed that they would have a one in five chance of winning $50. Approximately 60% of individuals who contacted the principal investigator participated in the study. Many potential participants did not participate because of scheduling conflicts and time constraints.
+Most participants came to the Psychology Department for baseline and follow-up testing sessions and to return diary questionnaires. However, because they lived at a distance from campus, 9 participants took part at an alternate location (see Beals, 2004, for details).
+Baseline assessment. Participants were scheduled for an initial 90-minute session. After completing the informed consent procedure, participants completed a baseline questionnaire assessing well-being (depression, self-esteem, life satisfaction) and demographic background. The specific measures used are described in the measures section that follows. Immediately following completion of the baseline survey, participants were instructed on how to complete the two types of diaries used in this study.
+Disclosure diary. Participants were asked to complete a brief event-contingent questionnaire, described to them as a "diary," whenever they experienced an opportunity to disclose their sexual orientation. This was defined as "any opportunity that you have throughout the day in which it occurs to you that you could disclose your sexual orientation." Participants were informed that this could include disclosure opportunities to family and friends but also to acquaintances, coworkers, and even strangers. This concept was discussed in detail.
+
+872 PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+Several examples were given for greater clarification. Completion of the disclosure diary was used to identify days in which disclosure opportunities occurred and to assess whether the participant disclosed or concealed during the opportunity. Specifically, if an event diary was completed, the day was coded as a disclosure opportunity day. Participants were asked on the event diary, "Did you share information about your sexual orientation during this interaction?" Responses to this question were used to determine whether disclosure or concealment had occurred. In the few instances in which participants completed more than one disclosure diary in a single day, the diary that was completed closest in time to the actual disclosure opportunity was used for analyses.
+End-of-day diary. Participants were also trained to complete a brief interval-contingent questionnaire at the end of their day, after all expected social interactions had occurred. After completing the end-of-day diary, participants put it in the provided envelope along with any disclosure opportunity diaries from that day and sealed it. Although participants were encouraged to complete the diaries each night, participants were told that if they forgot to complete them at night and thought of it first thing in the morning, they should go ahead and complete the diary. However, participants were instructed that if they did not complete the diary at night or first thing in the morning, they should not complete the diary. It was emphasized that participants should skip a day rather than fill out the diary after the next day had already begun. This interval-contingent diary assessed daily psychological well-being, perceived social support, emotional processing, and suppression during the day. Most participants returned diaries to a locked box in the Psychology Department two or three times each week on a set schedule determined during the initial visit. However, 9 participants who lived at some distance from campus kept their diaries in sealed envelopes until the end of the 2-week period. At the end of the 2 weeks of diary completion, participants met with the researcher for an exit interview about their compliance in completing the diaries and about any difficulties they had encountered.
+The 2-month follow-up. Participants returned 2 months from the baseline assessment to complete the same measures of well-being (depression, self-esteem, life satisfaction) assessed at baseline. They were then debriefed. The study hypotheses were described, all questions were answered, and participants were thanked for their participation. Participants who completed the study did not differ on any baseline measures of well-being from those who were lost to follow-up.
+
+Baseline and Follow-Up Measures
+Depression. Depression was measured with the 20-item Center for Epidemiological Studies Depression Scale (CES-D; Radloff, 1977), which assesses feelings associated with depression that have occurred during the past week. The scale alpha was .81 in this sample.
+Self-esteem. The Rosenberg (1965) Self-Esteem Scale included 10 items, each rated on a scale from 1 to 4. This scale has been shown to be valid and reliable (Rosenberg, 1965). The scale had an alpha of .91 in this sample.
+Satisfaction with life. The five-item Satisfaction With Life Scale (Diener, Emmons, Larsen, & Griffin, 1985) was used. Sample items include "Today, in most ways my life was close to my ideal" and "I was satisfied with my life today." Participants respond on a 5-point Likerttype scale from completely agree to completely disagree. The scale had an alpha of .89 in this sample.
+Diary Measures
+Perceived social support was assessed with four questions assessing perceptions of both general social support (e.g., "Today, in general, did you feel supported?") and social support specific to one's sexual orientation (e.g., "Today, did you feel your gay or lesbian identity was supported by others?"). Each statement was rated on a 1 (not at all) to 5 (a lot) scale. The alpha for this four-item measure of social support was .88.
+Emotional processing was measured with a four-item subscale from a larger coping scale (Stanton, Kirk, Cameron, & Danoff-Burg, 2000). These items represent the processing of emotions, not the expression of emotions. The original items were adapted to refer to today and to sexual orientation: "Today,I took time to figure out what I'm really feeling about my sexual orientation" and "Today, I acknowledged my emotions about being gay or lesbian." Responses were made on a 4-point scale from I didn't do this at all to I did this a lot. The alpha was .89.
+Suppression was assessed with two items from the Social Constraints Scale (Lepore, Silver, Wortman, & Wayment, 1996). Items were adapted to be specific to sexual orientation and day. These items were "Today, did you feel as though you had to keep feelings about being gay or lesbian to yourself because they would make other people feel uncomfortable?" and the reversed-scored item "Today, did you feel you could discuss your feelings about your sexual orientation with other people if you wanted to?" Responses were on a 5-point scale from never to always. The alpha for this two-item scale was .70.
+Positive affect was assessed with 10 items (Watson, Tellegen, & Clark, 1988). Participants reported how
+
+Beals et al. / STIGMA MANAGEMENT AND WELL-BEING 873
+
+TABLE 1: Descriptive Statistics of Study Variables (N = 102)
+
+M SD
+
+Range
+
+Baseline measures Depression Self-esteem Satisfaction with life
+Daily measures (n = 84) Positive affect Self-esteem Satisfaction with life Social support Emotional processing Suppression
+
+32.19 15.89
+3.34
+2.80 7.12 3.05 3.58 2.77 2.44
+
+5.90 10.58
+0.88
+0.91 1.59 0.95 1.02 1.10 1.15
+
+15.00 to 40.00 0.00 to 51.00 1.80 to 5.00
+1.00 to 5.00 2.44 to 9.00 1.00 to 5.00 1.00 to 5.00 1.00 to 5.00 1.00 to 5.00
+
+NOTE: At baseline, self-esteem was measured with a 1 to 4 scale and the sum is presented in the table. On the daily measure, self-esteem was measured on a 1 to 9 scale and the mean score is presented.
+
+often they felt each of 10 positive emotions such as "interested," "excited," and "strong" that day (from very little to extremely). The alpha for this scale was .91 in this sample.
+The end-of-day diary also included daily versions of the Rosenberg Self-Esteem Scale and the Satisfaction With Life measure. Both used a 1 to 9 response scale. Importantly, these two scales were reworded to refer to that specific day. For example, one item from the Satisfaction With Life Scale became "The conditions of my life were excellent today."
+
+RESULTS
+This section begins with a report on completion of the diary aspect of the study. Then results will be presented for hypotheses about daily disclosure experiences. Finally, the results for analyses of the 2-month longitudinal data will be described, including correlations between baseline and follow-up measures and the results from testing specific longitudinal hypotheses. Descriptive statistics on key study variables can be found in Table 1.
+Completion of Disclosure Opportunity and Daily Diaries
+Participants ranged from reporting no disclosure opportunities to as many as 10 opportunities during the 2 weeks, with a mean of 3. In 36% of these opportunities, participants concealed their sexual orientation. For example, a gay male participant reported being asked while buying flowers, "Are these for your wife?" He chose to say "no" instead of explaining that the flowers were for his boyfriend. During 64% of the disclosure opportunities, participants did disclose their sexual orientation. For example, one lesbian participant
+
+was asked by a classmate if she was dating anyone; she replied that she was dating someone and gave her girlfriend's name.
+On average, participants completed 12 of the 14 endof-day diaries (SD = 2.85). In all, 28 participants completed all 14 daily diaries. Most participants (69%) reported that the diary was "extremely" or "moderately" easy to complete. Almost all participants (94%) reported that the daily survey took less than 10 minutes.
+Testing Hypotheses About Daily Disclosure Opportunities
+We predicted (Hypothesis 1) that compared to concealment, disclosure would be associated with greater psychological well-being. We also predicted (Hypotheses 2 through 4) that perceived social support, emotional processing, and suppression would each mediate the association between disclosure and well-being.
+The daily diary data were hierarchically organized so that daily reports were nested within participants. Multilevel modeling was used because it takes into account the nested nature of the data and the dependency within the data. Hierarchical linear modeling (HLM) was the program used to analyze the data (Bryk, Raudenbush, & Congdon, 1996). In all the analyses at the day level, continuous variables were centered on the person's own mean so that results could be interpreted from that mean. Error terms were free to vary and those not significantly different from zero were fixed.
+Hypothesis 1: Daily Disclosure and Well-Being
+As predicted, participants reported significantly greater positive affect, self-esteem, and satisfaction with life on days when they disclosed compared to days in which they had an opportunity to disclose but decided to conceal their sexual orientation (Bs = .25, .31, and .28, respectively, all ps < .05).
+Hypotheses 2 Through 4: Daily Perceived Social Support, Emotional Processing, and Suppression as Mediators
+It was hypothesized that perceived social support, emotional processing, and suppression would each individually partially mediate the association between disclosure and well-being. These hypotheses were tested using the logic of Baron and Kenny (1986). Specifically, three equations were tested to determine whether mediation occurred between disclosure and well-being. First, it was imperative to demonstrate that disclosure was associated with the mediator variable. Next, disclosure must have a direct association with well-being. Finally, it was essential to demonstrate that a significant portion
+
+874 PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+.54* Disclosure
+
+Perceived Social Support
+
+.39**
+
+.28* (.09)
+
+Satisfaction With Life
+
+.54* Disclosure
+
+Perceived Social Support
+
+.22**
+
+.25* (.15)
+
+Positive Affect
+
+.54* Disclosure
+
+Perceived Social Support
+
+.19**
+
+.31** (.20)
+
+Self-Esteem
+
+Figure 2 Mediation of the association between disclosure and measures of well-being by perceived social support.
+NOTE: Numbers in parentheses represent the coefficient after taking into account the meditational variable. * p < .05. ** p < .01.
+
+of the variance between disclosure and well-being was accounted for by the mediator.
+
+Perceived social support. Hypothesis 2 predicted that on days when a disclosure opportunity occurred, experiences of perceived social support would mediate the association between disclosure and end-of-day well-being. In other words, disclosure would result in greater perceived social support and that support in turn would be associated with greater well-being. Three separate sets of equations were tested to determine whether social support mediated the association between disclosure and satisfaction with life, positive affect, and self-esteem.
+Figure 2 presents the results of the mediational analyses for perceived social support. The coefficient below the line in parentheses represents the reduced coefficient once perceived social support has been added to the equation. Sobel's z was calculated to determine whether the drop in the coefficient between disclosure and wellbeing represented a significant mediation. Analyses indicated that perceived social support significantly mediated the association between disclosure and positive affect and between disclosure and satisfaction with life (Sobel's z = -2.589 and -3.20, respectively, p < .01). Perceived social support was a marginally significant mediator of the association between disclosure and self-esteem (Sobel's z = 1.92, p = .055).
+
+Emotional processing. Hypothesis 3 predicted that on days when a disclosure opportunity occurred, emotional processing would mediate the association between disclosure and end-of-day well-being. Analyses comparable to those for social support were conducted. See
+
+.27* Disclosure
+
+Emotional Processing
+
+.34**
+
+.28** (.19)
+
+Satisfaction With Life
+
+.27* Disclosure
+
+Emotional Processing
+
+.22**
+
+.25* (.20)
+
+Positive Affect
+
+.27* Disclosure
+
+Emotional Processing
+
+.17
+
+.31** (.19)
+
+Self-Esteem
+
+Figure 3 Mediation of the association between disclosure and measures of well-being by emotional processing.
+NOTE: Numbers in parentheses represent the coefficient after taking into account the meditational variable. * p < .05. ** p < .01.
+
+Figure 3 for coefficients. Results showed that emotional processing significantly mediated satisfaction with life (Sobel's z = 2.09, p < .05). Emotional processing was also a marginally significant mediator of positive affect (Sobel's z = 1.81, p = .07). Emotional processing did not mediate the association between disclosure and self-esteem (Sobel's z = 1.50, p = ns).
+
+Suppression. Hypothesis 4 stated that on days when disclosure opportunities occurred, suppression of identity thoughts and feelings would mediate the association between disclosure and end-of-day well-being. Analyses similar to those for perceived social support and emotional processing were conducted. Results indicated that daily levels of suppression predicted satisfaction with life but not positive affect or self-esteem. As shown in Figure 4, suppression was a significant mediator of the association between disclosure and life satisfaction (Sobel's z = 2.27, p < .05). Participants reported greater suppression on days when they concealed their sexual orientation compared to days in which they disclosed. This suppression in turn was significantly associated with lower endof-day life satisfaction. However, suppression did not mediate the association between disclosure and either positive affect or self-esteem (Sobel's z = 1.49, p = ns and z = .90, p = ns, respectively).
+In summary, mediational analyses found some support for all three mediator variables. Perceived social support mediated the association between disclosure and wellbeing for positive affect and satisfaction with life and was marginally significant for self-esteem. Emotional processing and suppression were both significant mediators between disclosure and satisfaction with life.
+
+Beals et al. / STIGMA MANAGEMENT AND WELL-BEING 875
+
+-.68** Disclosure
+
+Suppression
+.28** (.11)
+
+-.22** Satisfaction With Life
+
+-.68** Disclosure
+
+Suppression
+.25* (.12)
+
+-.13 Positive Affect
+
+-.68** Disclosure
+
+Suppression
+.31** (.23*)
+
+-.08 Self-Esteem
+
+Figure 4 Mediation of the association between disclosure and measures of well-being by suppression.
+NOTE: Numbers in parentheses represent the coefficient after taking into account the meditational variable.
+
+TABLE 2: Predicting End-of-Day Well-Being From Perceived Social Support, Emotional Processing, Suppression, and Disclosure Simultaneously
+
+End-of-Day Dependent Variables
+
+Positive Affect Self-Esteem Satisfaction with Life
+
+B SE
+
+B SE
+
+B
+
+SE
+
+Social support Emotional
+processing Suppression Disclosure
+
+.15* .08 .15** .07
+-.05 .08 -.12 .11
+
+.17** .08 .12 .09
+.02 .09 -.21 .11*
+
+.24*** .23**
+-.04 -.08
+
+.08 .09
+.09 .11
+
+NOTE: B's represent standardized hierarchical linear modeling coefficients. *p < .06. **p < .05. ***p < .01.
+
+Analyses of the simultaneous prediction of well-being. In addition to testing the separate effects of perceived support, emotional processing, and suppression, multilevel modeling analyses were conducted to assess these factors simultaneously as predictors of well-being. Separate analyses were conducted for each measure of well-being. As shown in Table 2, perceived social support significantly predicted self-esteem and satisfaction with life and was a marginally significant predictor of positive affect. Emotional processing significantly predicted positive affect and life satisfaction. Suppression did not significantly predict well-being. Whether a participant disclosed or concealed their sexual orientation on a given day was not a significant predictor of end-of-day well-being.
+
+Hypotheses 5 Through 8: Predicting Well-Being 2 Months Later
+Three hypotheses concerned whether aggregated levels of perceived social support, emotional processing, and suppression reported on disclosure opportunity days during the 2-week diary period were associated with well-being 2 months later. Each hypothesis was tested with three different measures of well-being: self-esteem, satisfaction with life, and depression. In subsequent analyses, perceived social support, emotional processing, and suppression were used simultaneously to predict well-being at follow-up.
+Correlations between baseline and follow-up wellbeing. Baseline and follow-up measures of well-being were expected to be highly correlated because there was no intervention and these constructs are relatively stable over time. As expected, the correlation between baseline and follow-up depression (r = .69, p < .01), self-esteem (r = .88, p < .01), and life satisfaction (r = .74, p < .01) were large and statistically significant.
+Hypothesis 5: Perceived social support. It was hypothesized that a greater level of perceived social support on disclosure opportunity days during the diary phase of the study (aggregated across days) would predict greater well-being at the 2-month follow-up. Consistent with the prediction, perceived social support was correlated with follow-up well-being while controlling for baseline well-being. Specifically, a significant correlation was found between perceived social support and each measure of well-being: for self-esteem, r = .34, p < .01; for satisfaction with life, r = .38, p < .01; and for depression, r = -.26, p < .05.
+Hypothesis 6: Emotional processing. It was predicted that a greater level of emotional processing on disclosure opportunity days during the diary phase of the study would predict greater well-being at the 2-month follow-up. Contrary to expectation, emotional processing had no significant association with any measure of well-being.
+Hypothesis 7: Suppression. Finally, it was hypothesized that a greater level of suppression on disclosure opportunity days during the diary phase of the study would predict lower well-being at the 2-month follow-up. As expected, suppression was significantly correlated with lower satisfaction with life (r = -.25, p < .05) and with higher depression (r = .29, p < .01), even when controlling for baseline levels of each well-being measure. However, contrary to expectation, suppression was not associated with self-esteem.
+
+876 PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+Simultaneous prediction of well-being at follow-up. In addition to testing the separate effects of perceived support, emotional processing, and suppression, multiple regression analyses were conducted to assess these factors simultaneously as predictors of wellbeing. Separate regressions were conducted for each measure of well-being. These analyses provide evidence about the relative importance of the three predictors. In each of the three equations, perceived social support was the only significant predictor of well-being (b = .49, p < .01, b = .46, p < .01, and b = -.38, p < .05, for self-esteem, satisfaction with life, and depression, respectively).
+In summary, the longitudinal hypotheses received partial support. Perceptions of social support and suppression aggregated across disclosure opportunity days correlated significantly with well-being at the 2-month follow-up, even when controlling for baseline levels of well-being. However, when put into a simultaneous prediction, perceived social support was the only significant predictor of well-being 2 months later.
+DISCUSSION
+This study advanced our understanding of the disclosure of a concealable, stigmatized identity in several ways. Whereas past research has focused on the extent to which an individual has revealed his or her identity to others, this study sought to identify important mechanisms--perceived social support, emotional processing, and suppression--that may explain the associations between disclosure and personal wellbeing. Furthermore, this study broadened the focus of investigation, moving beyond disclosure to significant others (e.g., mother, neighbor) to encompass daily disclosure opportunities that may involve acquaintances and strangers as well as family and friends. In other words, this study aimed to capture the everyday experiences that gay men and lesbians have as they respond to opportunities to either disclose or conceal their sexual orientation.
+This study found that on average, participants reported more positive feelings, higher self-esteem, and more satisfaction with life on days when they disclosed their sexual orientation compared to days when they concealed their sexual orientation. This is consistent with past research showing that disclosure is associated with improved well-being and concealment is associated with decreased well-being (Cole, Kemeny, Taylor, Visscher, & Fahey, 1996; Gershon, Tschann, & Jemerin, 1999). The current study is the first, however, to demonstrate that disclosure decisions were associated with well-being on a daily basis.
+
+Mediation: The Central Role of Perceived Social Support
+A major goal of this research was to identify factors that explain the association between self-disclosure and well-being. Among the three variables we examined, perceived social support was of central importance. Across three measures of well-being, during the diary phase and at follow-up, the most consistent finding was the role of perceived social support. First, perceived social support was the strongest, significant predictor of well-being. Second, disclosure was strongly associated with perceptions of social support. Most important, perceived social support mediated the association between disclosure and well-being. In other words, disclosure predicted greater psychological well-being because it was associated with greater feelings of support and understanding.
+Our findings about the consistent association between perceived social support and disclosure raise an important question about the direction of causality. Our model proposes that disclosure increases perceptions of social support, perhaps because gay men and lesbians are skilled at picking suitable disclosure recipients. In our study, the disclosure opportunity occurred during the day and perceived support was measured at the end of the day, matching our theorized path that disclosure leads to increased social support. But it is also possible that the perception of available social support leads to the decision to disclose, thus reversing the causal direction. Indeed, both processes may occur simultaneously. Future research, perhaps using experimental interaction paradigms between naive gay or lesbian participants and confederates, is needed to investigate these causal issues more closely.
+Emotional Processing and Suppression
+Although perceived social support showed the most consistent effects, emotional processing was also important in understanding the daily disclosure experiences of gay men and lesbians. Participants engaged in more emotional processing on days when they disclosed their sexual identity, and emotional processing was associated with psychological well-being. Importantly, emotional processing mediated the positive association between disclosure and both positive affect and satisfaction with life. This finding extends past research on the general disclosure of personal or emotional information by demonstrating that the disclosure of sexual identity can also provide the opportunity for emotional processing (Pennebaker, 1997).
+Contrary to expectation, there were no significant associations between emotional processing and any measures of psychological well-being 2 months later. One
+
+Beals et al. / STIGMA MANAGEMENT AND WELL-BEING 877
+
+plausible explanation concerns the distinction between emotional processing and rumination. Emotional processing involves actively thinking about one's experiences in ways that bring new understanding and is proposed to be beneficial (Pennebaker, 1993, 1997). In contrast, rumination involves thinking repetitively and obsessively about a topic, and it has previously been found to interfere with functioning and well-being (Nolen-Hoeksema, 1998). It is possible that when our measure of emotional processing was aggregated over days it was not able to distinguish between the positive process of emotional processing and the negative process of rumination. For example, each day participants answered the question, "Today, I acknowledged my emotions about being gay or lesbian." This is theorized to be good if participants report "I do this a lot." However, if day after day participants report, "I do this a lot," the aggregated measure may no longer assess helpful emotional processing but instead assess obsessive thinking. We suggest that there may be a tipping point at which emotional processing goes from being a positive predictor to being a negative predictor of well-being. The lack of association between emotional processing and well-being at follow-up may result from a measure that failed to distinguish emotional processing from ruminative thinking. Future research would benefit from a more fine-grained assessment that distinguishes between these two possibilities (e.g., Segerstrom, Stanton, Alden, & Shortridge, 2003).
+We found a strong association between the decision to conceal one's sexual identity and suppression. It may seem obvious that concealment would be associated with suppression, but it was important to demonstrate that specific disclosure opportunities resulted in feelings of suppression even when those opportunities involved strangers or acquaintances. In other words, seemingly minor moments in a stigmatized person's day may have involved a choice about disclosing or concealing that resonated throughout the day.
+Compared to social support and emotional processing, suppression played a minor role in explaining the association between disclosure decisions and well-being. During the diary phase of the research, suppression significantly mediated the association between disclosure decisions and satisfaction with life but was unrelated to positive affect or self-esteem. In the 2-month follow-up, greater suppression was associated with lower satisfaction with life and greater depression. This is consistent with past research showing that suppression can have a cumulative effect on future well-being (e.g., Pennebaker, 1990).
+Limitations of the Study
+Several limitations of the current study merit consideration. First, this study is correlational; multilevel modeling
+
+cannot determine causality. Although findings are consistent with a causal sequence in which disclosure opportunities lead to social and cognitive experiences that in turn affect well-being, other causal sequences are possible (see Pachankis, 2007). It may be that greater wellbeing leads people to perceive more social support and that the perception of available social support encourages disclosure. Furthermore, people experiencing greater well-being may engage in more thoughtful analyses of their stigmatized identity and as a result may be more likely to disclose their sexual orientation. Finally, individuals experiencing high levels of psychological wellbeing may put less energy into inhibiting thoughts about being gay or lesbian and thus be more likely to reveal their sexual orientation. However, the fact that the disclosure opportunities occurred throughout the day and that the well-being measures were taken at the end of the day supports the hypothesized direction.
+Another limitation of the study is our inability to test simultaneous mediation. Because of the nested nature of the data, it is not possible to conduct a mediational analysis incorporating all three predictors at the same time (Kenny, Korchmaros, & Bolger, 2003). As a first approximation to understanding the simultaneous contributions of our three predictor variables to well-being, we were able to conduct analyses examining the association between the mediator variables and well-being, using multilevel modeling for the daily diary data and multiple regression for the 2-month follow-up data. As noted earlier, these analyses consistently demonstrated the central importance of perceived support. Emotional processing was also a significant predictor, but only for the daily diary data. In these simultaneous analyses, suppression was not a significant predictor.
+A third limitation is that the data are self-reports by the participants and may be affected by memory biases. This possibility is diminished by the time frame of selfreports used in this study. Unlike many studies that require participants to think back over long periods of time, the diary study required participants to frame their answers within a single day. This should have reduced possible memory bias.
+Finally, like all research with people who possess a concealable stigma, this sample is not representative. This study can be generalized only to individuals who identify as gay or lesbian and who are willing to participate in a time-consuming study. These may be people who are most comfortable with their sexual orientation, most involved in the community, or most interested in research. This is a concern specifically for the findings about concealment and suppression. People who are most likely to conceal their identity and experience suppression may not volunteer for this or any study of gay men and lesbians.
+
+878 PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+Strengths of the Study
+This study contributes to the growing literature on the disclosure of concealable stigmas. Several strengths are noteworthy. First, and perhaps most important, this research went beyond the simple conception that disclosure is good and concealment is bad to ask new questions about, "why?". Specifically, this study examined three key processes that may occur as a result of disclosure opportunities: feeling supported and cared for by others, thinking about one's feelings about being lesbian or gay, and actively withholding thoughts and feelings from other people.
+Second, this study used an innovative approach to examine disclosure as it happens. This contribution is both methodological and conceptual. Methodologically, it introduced a technique that can successfully capture the ongoing experience of disclosure decisions. Conceptually, it framed disclosure as an ongoing process that involves daily decisions about disclosure and concealment. Disclosure opportunities can occur frequently and involve a wide range of others from family and friends to coworkers, acquaintances, and strangers. Our methodology provided information about disclosure opportunities with individuals who would not be included in typical surveys. For example, our participants reported disclosure opportunities with a nurse, a landlady, a classmate, the mother of a mentee, a clerk at a bookstore, and a fellow juror. Understanding the diversity of these disclosure experiences enriches our understanding of stigma management.
+Finally, this sample of gay men and lesbians is more diverse than typical samples in research on gay men and lesbians. Participants came from varied ethnic and religious backgrounds. Both students and full-time employees participated, and the sample included a wide range of ages. This sample contained lawyers, doctors, secretaries, and unemployed individuals. This diversity adds an important richness to the data and increases confidence in the generalizability of our findings.
+Future Directions
+This research identified three factors that mediate the association between stigma management and wellbeing. Although perceived social support was clearly the most important mediator in this study, additional research addressing emotional processing and suppression would be valuable. For example, we found that emotional processing was beneficial at the daily level but was not associated with well-being 2 months later. Future studies could examine whether over time beneficial emotional processing becomes harmful rumination. It would also be useful for future studies to identify other factors that may determine the consequences of
+
+stigma management, for example, individuals' motives for concealment or disclosure. Finally, experimental approaches will provide an important complement to daily diary studies of stigma management and wellbeing. Experimental studies may be essential for identifying causal connections among such factors as disclosure and perceived social support.
+REFERENCES
+Baron, R. M., & Kenny, D. A. (1986). The moderator-mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations. Journal of Personality and Social Psychology, 51, 1173-1182.
+Beals, K. (2004). Stigma management and well-being: The role of social support, emotional processing, and suppression (Doctoral dissertation, University of California, Los Angeles, 2003). Dissertation Abstracts International, 65, 1070.
+Beals, K. P., & Peplau, L. A. (2005). Identity support, identity devaluation, and well-being among lesbians. Psychology of Women Quarterly, 29, 140-148.
+Bryk, A. S., Raudenbush, S. W., & Congdon, R. T. (1996). HLM: Hierarchical linear and nonlinear modeling with HLM2/L and HLM3/L programs. Chicago: Scientific Software International.
+Cain, R. (1991). Stigma management and gay identity development. Social Work, 36, 67-73.
+Cole, S. W., Kemeny, M. E., & Taylor, S. E. (1997). Social identity and physical health: Accelerated HIV progression in rejectionsensitive gay men. Journal of Personality and Social Psychology, 72, 320-335.
+Cole, S. W., Kemeny, M. E., Taylor, S. E., & Visscher, B. R. (1996). Elevated physical health risk among gay men who conceal their homosexual identity. Health Psychology, 15, 243-251.
+Cole, S. W., Kemeny, M. E., Taylor, S. E., Visscher, B. R., & Fahey, J. L. (1996). Accelerated course of human immunodeficiency virus infection in gay men who conceal their homosexual identity. Psychosomatic Medicine, 58, 219-231.
+Crocker, J., Major, B., & Steele, C. (1998). Social stigma. In D. T. Gilbert, S. T. Fiske, & G. Lindzey (Eds.), The handbook of social psychology (Vol. 2, 4th ed., pp. 504-553). New York: McGraw-Hill.
+Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The Satisfaction With Life Scale. Journal of Personality Assessment, 49, 71-75.
+Frattaroli, J. (2006). Experimental disclosure and its moderators: A meta-analysis. Psychological Bulletin, 132, 823-865.
+Gershon, T. D., Tschann, J. M., & Jemerin, J. M. (1999). Stigmatization, self-esteem, and coping among the adolescent children of lesbian mothers. Journal of Adolescent Health, 24, 437-445.
+Goffman, E. (1963). Stigma: Notes on the management of spoiled identity. New York: Simon & Schuster.
+Greenberg, M. A., & Lepore, S. J. (2004). Theoretical mechanisms involved in disclosure: From inhibition to self-regulation. In I. Nyklicek, A. J. J. M. Vingerhoets, & L. R. Temoshok (Eds.), Emotional expression and health: Advances in theory, assessment and clinical applications (pp. 43-60). London: Brunner-Routledge.
+Jones, E. E., Farina, A., Hastorf, A. H., Markus, H., Miller, D. T., & Scott, R. A. (1984). Social stigma: The psychology of marked relationships. New York: Freeman.
+Jordan, K. M., & Deluty, R. H. (1998). Coming out for lesbian women: Its relation to anxiety, positive affectivity, self-esteem and social support. Journal of Homosexuality, 35, 41-63.
+Kenny, D. A., Korchmaros, J. D., & Bolger, N. (2003). Lower level mediation in multilevel models. Psychological Methods, 8, 115-128.
+Larson, D. G., & Chastain, R. L. (1990). Self-concealment: Conceptualization, measurement, and health implications. Journal of Social and Clinical Psychology, 9, 439-455.
+
+Beals et al. / STIGMA MANAGEMENT AND WELL-BEING 879
+
+Lepore, S. J., Silver, R. C., Wortman, C. B., & Wayment, H. A. (1996). Social constraints, intrusive thoughts, and depressive symptoms among bereaved mothers. Journal of Personality and Social Psychology, 70, 271-282.
+Link, B. G., Mirotznik, J., & Cullen, F. T. (1991). The effectiveness of stigma coping orientations: Can negative consequences of mental illness labeling be avoided? Journal of Health and Social Behavior, 32, 302-320.
+Major, B., & Gramzow, R. H. (1999). Abortion as stigma: Cognitive and emotional implications of concealment. Journal of Personality and Social Psychology, 77, 735-745.
+Meyer, I. (2003). Prejudice, social stress, and mental health in lesbian, gay, and bisexual populations: Conceptual issues and research evidence. Psychological Bulletin, 129, 674-697.
+Nolen-Hoeksema, S. (1998). The other end of the continuum: The costs of rumination. Psychological Inquiry, 9, 216-219.
+Nolen-Hoeksema, S., McBride, A., & Larson, J. (1997). Rumination and psychological distress among bereaved partners. Journal of Personality and Social Psychology, 72, 855-862.
+Pachankis, J. E. (2007). The psychological implications of concealing a stigma: A cognitive-affective-behavioral model. Psychological Bulletin, 133, 328-345.
+Pennebaker, J. W. (1989). Confession, inhibition, and disease. In L. Berkowitz (Ed.), Advances in experimental social psychology (Vol. 22, pp. 211-244). San Diego, CA: Academic Press.
+Pennebaker, J. W. (1990). Opening up: The healing power of expressing emotions. New York: Guilford.
+Pennebaker, J. W. (1993). Putting stress into words: Health, linguistic, and therapeutic implications. Behavior Research and Therapy, 31, 539-548.
+Pennebaker, J. W. (1997). Writing about emotional experiences as a therapeutic process. Psychological Science, 8, 162-166.
+Pennebaker, J. W., & Seagal, J. D. (1999). Forming a story: The health benefits of narrative. Journal of Clinical Psychology, 55, 1243-1254.
+Petrie, K. J., Booth, R. J., & Pennebaker, J. W. (1998). The immunological effects of thought suppression. Journal of Personality and Social Psychology, 75, 1264-1272.
+Radloff, L. S. (1977). The CES-D scale: A self-report depression scale for research in the general population. Applied Psychological Measurement, 1, 385-401.
+Rosenberg, M. (1965). Society and the adolescent self-image. Princeton, NJ: Princeton University Press.
+
+Sarason, B. R., Sarason, I. G., & Gurung, R. A. R. (2001). Close personal relationships and health outcomes: A key to the role of social support. In B. Sarason & S. Duck (Eds.), Personal relationships: Implications for clinical and community psychology (pp. 15-41). Chichester, UK: Wiley.
+Savin-Williams, R. C. (1996). Self-labeling and disclosure among gay, lesbian, and bisexual youths. In J. Laird & R. J. Green (Eds.), Lesbians and gays in couples and families: A handbook for therapists (pp. 153-182). San Francisco: Jossey-Bass.
+Segerstrom, S., Stanton, A., Alden, L., & Shortridge, B. (2003). A multidimensional structure for repetitive thought: What's on your mind, and how, and how much? Journal of Personality and Social Psychology, 85, 909-921.
+Smart, L., & Wegner, D. M. (1999). Covering up what can't be seen: Concealable stigma and mental control. Journal of Personality and Social Psychology, 77, 474-486.
+Smyth, J. M. (1998). Written emotional expression: Effect sizes, outcome types, and moderating variables. Journal of Consulting and Clinical Psychology, 66, 174-184.
+Stanton, A. L., Kirk, S. B., Cameron, C. L., & Danoff-Burg, S. (2000). Coping through emotional approach: Scale construction and validation. Journal of Personality and Social Psychology, 78, 1150-1169.
+Uchino, B. N., Cacioppo, J. T., & Kiecolt-Glaser, J. K. (1996). The relationship between social support and physiological processes: A review with emphasis on underlying mechanisms and implications for health. Psychological Bulletin, 119, 488-531.
+Vincke, J., & Bolton, R. (1994). Social support, depression, and self-acceptance among gay men. Human Relations, 47, 1049-1062.
+Watson, D., Tellegen, A., & Clark, L. (1988). Development and validation of brief measures of positive and negative affect: The PANAS scales. Journal of Personality and Social Psychology, 54, 1063-1070.
+Wayment, H. A., & Peplau, L. A. (1995). Social support and wellbeing among lesbian and heterosexual women: A structural modeling approach. Personality and Social Psychology Bulletin, 21, 1189-1199.
+Received October 11, 2007 Revision accepted January 26, 2009
+
+

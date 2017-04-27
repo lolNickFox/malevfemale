@@ -1,0 +1,619 @@
+Journal of Substance Use, December 2010; 15(6): 402-416
+
+ORIGINAL ARTICLEJ1To4JuS76r5Un-a9l89o94f12Substance Use, Vol. 1, No. 1, Apr 2010: pp. 0-0
+
+The Hispanic Americans Baseline Alcohol Survey (HABLAS): Alcohol consumption and sociodemographic predictors across Hispanic national groups
+
+SUHASINI RAMISETTY-MIKLER , RAUL CAETANO ,SA.lcRoahmolisuestetyb-MehiakvlieorreitnaHl.ispanic groups
+
+12
+
+& LORI A. RODRIGUEZ2
+
+1Department of Epidemiology, University of North Texas Health Science Center at Fort Worth, Fort Worth, TX, USA, and 2Dallas Regional Campus, University of Texas School of Public Health,
+Dallas, TX, USA
+
+Abstract Objective: To examine differences in alcohol consumption among Hispanic national groups in the United States [Puerto Ricans, Mexican, Cuban, and Dominican South Central (D/SC) Americans] and identify sociodemographic predictors of drinking and binge drinking (four drinks for women and five for men in a 2-hr period). Method: The study used a household probability sample of adult Hispanics in five metropolitan areas in the United States. Comprehensive data on alcohol consumption were collected. Analyses included bivariate and multivariate regression techniques. Results: Puerto Rican and Mexican American men reported higher drinking rates, weekly consumption, and binge drinking than D/SC and Cuban Americans. Women drank significantly less than men. Mexican American women reported the highest abstention rate (61%); Puerto Rican women drank more per week and binged more frequently compared with their counterparts in other groups. Puerto Rican origin, initiating drinking during high school years (<18), and male gender (US- or foreign-born) were significant predictors of weekly alcohol consumption. Being younger, being single, Puerto Rican or D/SC American origin, initiating drinking at <18 years, being a US- or foreign-born male and being a US-born female were significant predictors of binge drinking. Conclusions: There are considerable differences in drinking behavior across Hispanic national groups as well as between men and women. Results underscore the need to recognize heterogeneity in drinking practices while designing effective prevention interventions in the community.
+Keywords: Hispanic subgroups, alcohol consumption, binge drinking, risk drinking.
+
+Correspondence: Dr. Suhasini Ramisetty-Mikler, PhD, MPH, Department of Epidemiology, CBH 310, University of North Texas Health Science Center, 3500 Camp Bowie Blvd, Fort Worth, TX 76107, USA. Tel: +817 735 2756. Fax: +817 735 0443. E-mail: smikler@hsc.unt.edu
+ISSN 1465-9891 print/ISSN 1475-9942 online (c) 2010 Informa UK Ltd. DOI: 10.3109/14659891003706357
+
+Alcohol use behavior in Hispanic groups 403
+Introduction
+The Hispanic population is now the largest minority group in the United States, and it also was the fastest growing minority group with an increase of 3.3% between 2007 and 2008 (U.S. Census Bureau, 2008b). This minority group is expected to increase from 15 to 30% of the US population by 2050, nearly tripling from 46.7 to 132.8 million (U.S. Census Bureau, 2008a). Recent estimates indicate that most Hispanics are of Mexican origin (64%), followed by Puerto Rican (9.6%), Central American (7.2%), other Hispanics/Latinos (6.7%), South American (5.5%), Cuban (3.6%), and Dominican (2.6%). Further, Hispanic Americans are a young population, with one-third (34.3%) being less than 18 years of age, compared with 26% of the total US population (U.S. Census Bureau, 2007).
+This group faces a multitude of challenges, many of which have been linked to drinking and alcohol-related health problems. Past research indicates that Hispanics are at risk of alcoholrelated problems because of continued, relatively high frequent heavy drinking (Marin & Posner, 1995; Caetano & Clark, 1998a, 1998b; Dawson, 1998). Nonetheless, there are differences in drinking patterns across Hispanic subgroups. For instance, Mexican Americans have higher rates of drinking and of frequent heavy drinking (Caetano, 1988; Caetano & Galvan, 2001), and a higher mean frequency of drinking five or more drinks on the same occasion (Dawson, 1998) than the other Hispanic groups. Research on alcohol consumption in other Hispanic national groups is sparse and is not based on representative samples of these national groups (e.g., Caetano, 1988; Dawson, 1998; Caetano & Galvan, 2001). However, the existing comparisons of men show that abstention is higher among Puerto Rican men (58 vs. 39%) and rates of frequent drinking are higher among Cuban American men (28 vs. 15%) (Caetano & Galvan, 2001), but in moderate volume similar to the case of non-Hispanic Whites (Black & Markides, 1994). Thus, we can identify different drinking patterns across Mexican Americans, Puerto Ricans, and Cuban Americans. Mexican Americans have a lower abstention rate and relatively higher frequency of consuming five or more drinks on occasion compared with Puerto Ricans. Although Cuban Americans do not have a high rate of abstention, they have lower rate of drinking five or more drinks on occasion compared with Mexican Americans.
+Recent analyses of the data set under analysis herein confirm that Hispanics in the United States are a heterogeneous group in regard to problems related to drinking. For instance, Mexican American and Puerto Rican men reported higher rates of alcohol abuse/ dependence than Cuban and Dominican/South Central (D/SC) Americans and than men in the US general population (Grant, Dawson, Stinson, Chou, Dufour, & Pickering, 2004a; Caetano, Ramisetty-Mikler, & Rodriguez, 2008a). Middle-aged (40-49 and 50-59 years) Puerto Rican and Mexican American men are considerably more at risk of alcohol dependence than men in the general population. Further, alcohol abuse and dependence rates are higher among US-born Puerto Ricans and D/SC Americans compared with their foreign-born counterparts, but no such difference was found for Cuban and Mexican Americans. Overall, those with higher acculturation report higher rates of abuse and dependence (statistically significant only for abuse among Puerto Ricans). Among men, 17.3% of Mexican Americans, 14.5% of D/SC Americans, 7.5% of Puerto Ricans, but only 6.2% of Cuban Americans reported driving under the influence (DUI) (Caetano, Ramisetty-Mikler, & Rodriguez, 2008b). Rates were lower among women, ranging from 7.5% for Mexican Americans to 1.1% for Cuban Americans. Mexican American men had the highest 12-month DUI arrest rate (1.6%) and the highest lifetime DUI arrest rate (11.2%). Finally, one area in which there does not seem to be variation across Hispanic national groups is in their preference for drinking beer over wine and liquor (Caetano,
+
+404 S. Ramisetty-Mikler et al.
+Vaeth, Ramisetty-Mikler, & Rodriguez, 2009). Beer is also the beverage most associated with binge drinking across all groups, with the exception of Cuban American and D/SC American women, among whom the beverage most associated with binge drinking is wine.
+There are two objectives for the paper: The first is to examine age-related variation in current drinking rates, average volume of alcohol consumed per week, and binge drinking patterns within each of the four national groups. Based on past research, we expect Mexican Americans to report higher weekly consumption and binge drinking than their counterparts in the other groups. The second objective is to identify demographic factors that predict alcohol volume and binge pattern of drinking in this population. Crosstabulations control for gender and age, and multivariate analyses control for these and other sociodemographic characteristics. Regarding gender, in general, Hispanic American women consume significantly less alcohol than men and also less alcohol than White and Black women (Cervantes, Gilbert, Salgado de Snyder, & Padilla, 1990/1991). Regarding age, previous studies have reported that Mexican American and Puerto Rican men continue to engage in heavy drinking (drinking five or more in one sitting at least once per week) into their middle age, later than has been found for non-Hispanic White and Cuban American men (Gilbert & Cervantes, 1986; Markides, Ray, Stroup-Benham, & Trevino, 1990).
+Methods
+The Hispanic Americans Baseline Alcohol Survey (HABLAS) employed a multistage cluster sample design in five metropolitan areas of the United States: Miami, New York, Philadelphia, Houston, and Los Angeles. These sites were chosen because of the large proportion of Hispanics of specific national groups in their population. The respondents are a representative sample of the Hispanic civilian noninstitutionalized population aged 18 and older in these sites. A total of 5,224 individuals were interviewed, for a weighted response rate of 76%. The numerator for this rate is the number of respondents selected for interview and actually interviewed over all respondents selected for interview.
+The survey questionnaire was specifically designed for the study and included several standard questions from nationally recognized surveys in the alcohol field. The survey questionnaire was pretested and was translated into Spanish, and then translated back into English. All study and survey materials were approved by the Institutional Review Board of the University of Texas Houston Health Science Center. All respondents signed an informed consent before their interview. Trained bilingual interviewers conducted computer-assisted personal interviews in privacy at the respondents' home that lasted about 1 h. Respondents received a $25 incentive for their participation in the survey.
+Measures
+Alcohol variables. Drinking status: (i) current drinkers (includes those who drank any alcohol in the past 12 months) or (ii) nondrinkers [includes those who did not drink in the past 12 months (ex-drinkers) and lifetime abstainers]. Average number of drinks per week (past 12 months): average weekly alcohol consumption based on the self-reported frequency and quantity of drinking any type of alcohol. Frequency of binge drinking: (i) drinkers who binged (women consuming four standard drinks and men five standard drinks within a 2-hr period) one or more times a month; (ii) drinkers who binged less than once a month; and (iii) drinkers who did not binge. Age of initiation: age at which first began to drink alcoholic beverages (more than sipping).
+
+Alcohol use behavior in Hispanic groups 405
+Demographic variables. Hispanic national origin: self-reported as Puerto Rican, Cuban American, Mexican American (including Chicano), or D/SC. D/SC respondents were grouped together because of insufficient sample sizes. Nativity: US- or foreign-born (includes Puerto Rican). Age: measured in continuous years and then categorized into four groups (18-29, 30-39, 40-49, and 50+years). Marital status: (i) married/living with spouse/living with someone; (ii) married not living with spouse/legally separated/ divorced/widowed; and (iii) never married/never lived with someone. Education: (i) less than high school education; (ii) high school diploma/GED; (iii) technical/vocational school; (iv) some college; and (v) college graduate/professional school. Employment status: (i) full/part-time employment; (ii) unemployed (temporary illness/unemployed, looking/unemployed, not looking/in school); (iii) retired/homemaker; and (iv) disabled/ never worked/other. Household income: Respondents were asked to identify the category into which their total household income fell from a list of 12 categories, beginning with <$4,000 and ending with a highest category of >$100,000. However, nearly 20% of the total sample (n = 1,069) either refused to provide their income details or did not know their income. For these respondents, log-transformed income was estimated and imputed using the Markov chain Monte Carlo method (Schafer, 1997) as implemented in SAS PROC MI. Imputed incomes were transformed back to the 12 categories. Imputations were based on the respondent's education, employment status, marital status, household size, age, metropolitan area of residence, Hispanic nationality, whether the respondent was born in the United States, how long respondent had lived in the United States, whether the respondent had driven an automobile in the past year, and annual wage and salary data for the respondent's occupation in the case of employed respondents. The source of the wage and salary estimates was the Occupational Employment Statistics (OES) program, a cooperative program between the Bureau of Labor Statistics (BLS) and State Workforce Agencies (SWAs). The OES program produces employment and wage estimates for various occupations, excluding self-employed individuals. These data were publicly available online through the BLS website (http://www.bls.gov/oes/). State and metropolitan estimates were used corresponding to the five locations where interviews were conducted for this study. In all, 10 imputed income values were generated. The mean of the 10 log-transformed imputations was used for purposes of running preliminary regression models (see Caetano et al., 2008b for details).
+Statistical analysis
+To take into account the multistage sampling design used in the survey, we conducted all analyses with the Software for Survey Data Analysis (SUDAAN) (Research Triangle Institute, 2005). Data were weighted to correct for unequal selection probabilities. A post-stratification weight to correct for nonresponse and to adjust the sample to known Hispanic population distributions was also used. For bivariate analyses, crosstabulations with chi-square option for categorical variables were performed to detect significant associations. Multilog (frequency of binge 3 level) and linear regression analyses (alcohol volume) were conducted to identify demographic risk factors. Alcohol volume (average number of drinks per week) was log-transformed to correct for skewness. Based on the past literature (Grant, Stinson, Hasin, Dawson, Chou, & Anderson, 2004b), we expect a moderating effect of birthplace on men and women. Hence, an interaction term representing a 4-level variable was included in the regression models. Models were developed first using a single imputed value for the income variable
+
+406 S. Ramisetty-Mikler et al.
+(average of 10 imputations). Once the variables in the models were finalized, each model was run five times using five imputations of income, one at a time. Beta coefficients and corresponding standard errors were extracted into a matrix and were analyzed with PROC MIANALYZE in SAS to arrive at the final results. The exponentials of coefficients and confidence intervals (CIs) for the standard errors were taken and reported as odds ratios and 95% CIs.
+Results
+Sample description
+Females are 52% of the sample. The overall mean age of the sample is 42 years (0.41). Cuban Americans are older (50.3 years  1.0) and Mexican Americans are younger (37.8 years  0.5). The mean age of Puerto Ricans (40.6 years  0.7) and D/SC Americans (40.8 years  0.6) is around 40 years. Cuban and D/SC Americans report a higher median household income ($25,000) than that of Puerto Ricans and Mexican Americans ($17,000). Overall, significantly more men than women report drinking currently (68 vs. 43%; c2 = 127.5, df = 2, p < .000), consume more per week (all p-values <.001 based on t-tests), and report a higher rate of binge drinking (28 vs. 14%; c2 = 135.3, df = 2, p = .000). The majority of men (between 75 and 85% across groups) and nearly two-thirds of the women (64%) initiated drinking before the legal age. Significant group differences in the age of alcohol initiation among men (c2 = 52.4, df = 21, p = .0004) are observed, with more Puerto Ricans (20.5%) initiating at 14 years followed by Mexican (12%), Cuban (11%), and D/SC Americans (8%). Although not statistically significant (c2 = 27.0, df = 21, p = .18), more Mexican American (10.5%) and Puerto Rican (9%) women report initiating alcohol at 14 years compared with other women (3-5%). As initial tests (e.g., t-tests and chi-square) indicated significant male-female differences, we present descriptive statistics separately for men (Table I) and women (Table II).
+Male drinking. The proportion of current drinkers (Table I) is similar across all national groups (c2 = 4.9, df = 6, p = .56), with two-thirds of men being current drinkers (rates ranging from 66 to 68%). Significant age differences are observed in all national groups for current drinking status. In general, the number of drinks consumed declined in the 40-49 age group (Puerto Ricans) or in the 50 and older age group (Cuban, Mexican, and D/SC Americans). Regarding number of drinks per week, Puerto Ricans and Mexican Americans drink similarly (16-17 drinks) and consume number of drinks twice as high as men in the other two groups (8-9 drinks). The t-tests indicated significant differences in the volume consumed per week between Puerto Rican and Cuban American men; between Puerto Rican and D/SC men; between Mexican American and Cuban American men; and between Mexican American and D/SC men. Statistically significant differences in weekly mean number of drinks by age are found only among Puerto Ricans and D/SC Americans.
+Nearly 6-7% of men across all groups binge one or more times per month. Overall, the proportion of men who binge less than once a month is higher among Puerto Ricans, followed by Mexican, D/SC, and Cuban Americans. Age differences in binge drinking are found only for Puerto Rican and D/SC American men: among these men, binging one or more times per month decreases in the 30-39 age group and then increases in the next age decade.
+
+Table I. Current drinking and binge drinking among males by Hispanic national group and age: Proportions and means
+
+Hispanic national group
+
+Drinking variable
+
+Total
+
+18-29 years
+
+30-39 years
+
+40-49 years
+
+50+ years
+
+Puerto Rican
+Cuban American
+Mexican American
+Dominican/South Central (D/SC) American
+
+Current drinker*** Mean number of drinks per
+weeka,b,e,g Frequency of binge*,a
+One or more times per month <Once a month Not in the past 12 months Current drinker* Mean number of drinks per weeka,e,f Frequency of bingea One or more times per month <Once a month Not in the past 12 months Current drinker* Mean number of drinks per weeka,f,h Frequency of bingea One or more times per month <Once a month Not in the past 12 months
+Current drinker*
+
+68.3 (687) 16.9  1.6 (448)
+(447) 6.3
+42.3 51.4 66.1 (662)
+8.4  0.9 (427) (425)
+5.6 21.7 72.8 67.3 (635) 15.9  1.7 (435) (434)
+6.7 39.5 53.8
+68.2 (637)
+
+Mean number of drinks per weeka,c,d,g,h
+Frequency of binge*,a
+One or more times per month
+<Once a month
+Not in the past 12 months
+
+8.9  0.8 (442)
+(441) 6.5 36.4 57.1
+
+72.2 (202)
+
+79.2 (148)
+
+58.1 (134)
+
+18.1  2.8 (150) 16.1  2.8 (112) 24.3  6.1 (80)
+
+59.4 (203) 10.8  2.1 (106)
+
+(148) 7.9
+60.7 31.5 70.7 (84) 11.1  3.3 (61) (61) 11.4 27.0 61.7 74.6 (226) 15.3  2.6 (172) (174)
+5.2 42.8 52.1
+
+(111) 4.1
+40.0 55.9 77.1 (97)
+7.9  1.6 (76) (75)
+9.1 28.8 62.2 67.3 (179) 17.2  3.8 (119) (120) 10.3 45.0 44.7
+
+(80) 10.2 29.7 60.1 75.2 (134)
+8.1  1.3 (100) (100)
+2.8 29.9 67.4 68.1 (130) 16.8  3.4 (97) (95)
+6.9 35.2 58.0
+
+(108) 4.6
+29.3 66.1 57.4 (347)
+7.7  1.4 (190) (189)
+3.2 11.9 84.9 51.3 (100) 13.1  3.6 (47) (45)
+2.1 23.9 74.0
+
+76.9 (212)
+
+74.3 (150)
+
+69.8 (117)
+
+52.5 (158)
+
+10.7  1.1 (163) 9.7  1.6 (116)
+
+(163) 11.5 37.2 51.3
+
+(116) 4.1 44.4 51.5
+
+8.9  2.3 (79)
+(78) 6.7 36.6 56.8
+
+5.1  1.2 (84)
+(84) 0.8 26.0 73.2
+
+Alcohol use behavior in Hispanic groups 407
+
+Notes: Numbers in parenthesis are denominators used to compute proportions/means for a given subgroup; the proportions and means are weighted; *p < .05, ***p < .001 (indicates significant difference between age groups); aamong current drinkers; bt-test significant between 40-49 and 50+ years; ct-test significant between 18-29 and 50+ years; dt-test significant between 30-39 and 50+ years; et-test significant between Puerto Rican and Cuban American; ft-test significant between Mexican American and Cuban American; gt-test significant between Puerto Rican and D/SC; ht-test significant between Mexican American and D/SC American.
+
+408 S. Ramisetty-Mikler et al.
+
+Table II. Current drinking and binge drinking among females by Hispanic national group and age: Proportions and means
+
+Hispanic national group
+
+Drinking variable
+
+Total
+
+18-29 years
+
+30-39 years
+
+40-49 years
+
+50+ years
+
+Puerto Rican
+Cuban American
+Mexican American
+Dominican/South Central (D/SC) American
+
+Current drinker** Mean number of drinks per weeka,b,c,d,e Frequency of bingea
+One or more times per month
+<Once a month
+Not in the past 12 months
+Current drinker*** Mean number of drinks per weeka,c Frequency of binge**,a
+One or more times per month
+<Once a month
+Not in the past 12 months
+Current drinker Mean number of drinks per weeka,d Frequency of bingea
+One or more times per month
+<Once a month
+Not in the past 12 months
+Current drinker***
+
+43.1 (640) 9.5  2.3 (267)
+(266) 5.3
+45.8 48.9 43.5 (661)
+3.4  1.1 (230) (232)
+0.6 21.8 77.6 39.3 (644)
+3.0  1.0 (214) (215)
+1.0 25.1 73.9 46.7 (635)
+
+53.1 (159) 9.2  2.0 (94)
+(92) 5.3
+44.4 50.3 62.9 (66)
+2.9  1.0 (38) (38)
+2.3 28.7 69.0 45.5 (190)
+1.9  0.4 (87) (86)
+1.9 28.4 69.8 50.1 (122)
+
+46.0 (130) 4.3  1.6 (58)
+(60) 1.3
+58.2 40.5 65.9 (108)
+3.4  1.4 (57) (59)
+0.0 42.2 57.8 38.5 (221)
+1.9  0.6 (70) (71)
+0.9 29.8 69.3 48.4 (152)
+
+44.8 (122) 13.2  7.2 (51) (51) 16.5 44.5 39.0 47.8 (119)
+1.2  0.4 (48) (48)
+0.0 8.7 91.3 30.8 (126) 2.6  1.2 (30) (31) 0.9 22.7 76.4 55.6 (171)
+
+30.7 (229) 11.9  7.0 (64) (63)
+0.0 35.7 64.3 27.8 (368)
+5.0  2.9 (87) (87)
+0.0 7.7 92.3 40.0 (107) 7.1  4.7 (27) (27) 0.0 13.9 86.1 32.7 (190)
+
+Mean number of drinks per weeka,e Frequency of bingea
+One or more times per month <Once a month
+Not in the past 12 months
+
+3.8  0.6 (286) (286)
+0.6 26.7 72.8
+
+4.2  0.9 (69) (69)
+0.9 32.9 66.2
+
+5.4  1.9 (74) (74)
+1.4 33.7 65.0
+
+2.6  0.8 (93) (93)
+0.0 17.5 82.5
+
+3.3  1.0 (50) (50)
+0.0 26.4 73.6
+
+Notes: Numbers in parenthesis are denominators used to compute proportions/means for a given subgroup; the proportions and means are weighted; **p < .01, ***p < .001 (indicates significant difference between age groups); aamong current drinkers; bt-test significant between 18-29 and 30-39 years; ct-test significant between Puerto Rican and Cuban American; dt-test significant between Puerto Rican and Mexican American; et-test significant between Puerto Rican and D/SC American.
+
+Alcohol use behavior in Hispanic groups 409
+Female drinking. Rates of current drinking are similar across women in all four national groups (range 39-47%; c2 = 11.0, df = 6, p = .09) (Table II). Significant age differences (indicated by asterisks at the bottom of Table II) are found in rates of current drinking among all groups, with the exception of Mexican American women. In general, current drinking rates are higher among younger groups, declining after age 50. For instance, nearly one-half of Puerto Rican women drink until age 50 with a noticeable drop thereafter to nearly one-third. Among Cuban American women, current drinking rates drop in the 40-49 age group and then again in the 50+ age group. Among Mexican American women, current drinker rates decline until the 40-49 age group, rising in the oldest group. Among D/SC Americans, current drinking rates remain around 50% through the middle-ages with the highest rate among 40-49 year olds, followed by a decline in the oldest age group.
+Among female current drinkers, Puerto Ricans report a higher weekly consumption (9.5 drinks), which is almost three times higher than the rate for other women. The t-tests indicated significant differences in weekly alcohol consumption between Puerto Rican and Cuban American women; between Puerto Rican and Mexican American women; and between Puerto Rican and D/SC women.
+The weekly alcohol consumption pattern by age is somewhat different across women in each of the four national groups, but all show some decrease in drinking with age. Among Puerto Rican women, mean alcohol consumption decreases with age, especially in the oldest age group. Among Cuban American women, mean consumption is stable in the two younger groups, decreasing thereafter. Among Mexican American women, the pattern of consumption by age is U-shaped, with drinking decreasing until the 40-49 age group and then increasing among women 50 years of age and older. However, in spite of this increase, women in the oldest age group still drink less than those in the youngest age group. Among D/SC American women, drinking only really decreases in the oldest age group.
+Binge drinking rates vary considerably across women with Puerto Rican women reporting rates nearly twice as high as the other groups. Binge drinking rates are particularly high among Puerto Rican women 40-49 years of age. However, statistically significant differences across age groups are present only for Cuban Americans. Although no clear pattern was found, these rates decrease significantly after age 50 except among D/SC American women.
+Multivariate analyses
+Initially, we have tested for interaction effects of birthplace and gender with alcohol volume and frequency of binge as outcome variables in separate models and found the interaction to be significant. To obtain correct estimates for the regression coefficients for each combination of these interacting variables, we created a four-level combination variable and used in the models. Cuban Americans are used as the reference group in the multivariate analyses (Tables III and IV). This is because previous analyses of this data set (Caetano et al., 2008a, 2008b) showed that as a group they drink less, report less binge, and have fewer DUI events and lower rates of alcohol abuse and dependence than the other three groups. Their use as a reference group therefore means that odds ratios comparing other groups with Cuban Americans are higher than 1, which is easier to interpret and understand.
+Predictors of binge drinking frequency and weekly consumption. Factors of risk of binge drinking at least once a month are as follows: age groups 18-29, 30-39, and 40-49 compared with 50+ age group; never having been married or never having lived with someone;
+
+410 S. Ramisetty-Mikler et al.
+
+Table III. Odds ratios and 95% CIs from the multilog regression analysis predicting frequency of binge among drinkers (n = 2,692)
+
+Binge one or more times a montha
+
+Binge <once a montha
+
+(n = 133)
+
+(n = 874)
+
+OR 95% CI OR 95% CI
+
+Age (Ref: 50+ years)
+
+18-29
+
+3.72**
+
+1.3-10.5
+
+30-39
+
+3.38**
+
+1.32-8.65
+
+40-49
+
+3.51**
+
+1.46-8.42
+
+Hispanic national group (Ref: Cuban American)
+
+Puerto Rican
+
+1.91 0.96-3.80
+
+Mexican American
+
+0.96 0.46-2.00
+
+Dominican/South Central American
+
+1.40
+
+0.6.8-2.77
+
+Marital status (Ref: married/living with spouse/living with someone)
+
+Married not living with spouse/legally
+
+1.48
+
+0.61-3.60
+
+separated/divorced/widowed
+
+Never married/never lived with someone
+
+1.90*
+
+1.00-3.62
+
+Education level (Ref: < high school)
+
+HS diploma/GED
+
+0.44**
+
+0.23-0.84
+
+Technical/vocational school
+
+0.67 0.20-2.23
+
+Some college
+
+0.40*
+
+0.17-0.93
+
+College graduate/professional school
+
+0.25**
+
+0.09-0.71
+
+Employment status (Ref: full/part-time employment)
+
+Unemployed: temporary illness/
+
+0.52 0.24-1.14
+
+unemployed, looking/unemployed,
+
+not looking/in school
+
+Retired/homemaker
+
+0.31 0.07-1.34
+
+Disabled/never worked/other Incomeb
+
+2.31 1.00
+
+0.85-6.26 0.99-1.02
+
+Age of initiation of drinking (Ref: 21+ years)
+
+15
+
+3.74**
+
+1.50-9.41
+
+16-18
+
+1.44 0.61-3.42
+
+19-20
+
+1.05 0.45-2.44
+
+Interaction of gender and place of birth (Ref: Foreign-born female)
+
+US-born male
+
+7.1***
+
+2.4-21.4
+
+Foreign-born male
+
+6.68***
+
+2.65-6.86
+
+US-born female
+
+5.81*
+
+1.45-23.2
+
+R2 10%
+
+1.87** 2.26*** 1.36
+2.38*** 1.42 1.61**
+0.86
+1.05
+0.84 0.80 0.89 0.79
+1.07
+0.59* 1.21 1.00
+1.94*** 1.71*** 0.91
+1.31 1.27 1.39 11%
+
+1.23-2.85 1.54-3.33 0.91-2.04
+1.50-3.78 0.92-2.20 1.12-2.34
+0.60-1.22
+0.80-1.38
+0.60-1.18 0.46-1.38 0.62-1.23 0.50-1.26
+0.75-1.54
+0.38-0.92 0.69-2.10 0.99-1.00
+1.30-2.9 1.26-2.32 0.60-1.37
+0.85-2.03 0.92-1.76 0.83-2.32
+
+Notes: *p < .05, **p < .01, ***p < .001; acompared with drinkers with no binge in past year; bcontinuous variable; OR = odds ratio; CI = confidence interval.
+
+initiating drinking before or at age 15; being a male either US- or foreign-born and being a female who is US-born (Table III). Having completed high school, having some college education, or completing a college degree are protective factors. Factors of risk of binge drinking less than once a month are as follows: age groups 18-29 and 30-39; Puerto Rican origin or D/SC; initiating drinking at age 15 and between the ages 16 and 18. Being retired or a homemaker is protective against binging less than once a month.
+Puerto Ricans are likely to drink significantly more per week compared to Cuban Americans (Table IV). Drinking initiation before age 18 or younger and men who are either US- or foreign-born are factors of risk of consuming more alcohol per week.
+
+Alcohol use behavior in Hispanic groups 411
+
+Table IV. Estimates (standardized regression coefficients--betas) from regression model predicting volume among drinkers (n = 2,695)
+
+Estimate
+
+Standard error
+
+95% CI
+
+Age (Ref: 50+ years)
+
+18-29
+
+0.17
+
+30-39
+
+0.28
+
+40-49
+
+0.09
+
+Hispanic national group (Ref: Cuban American)
+
+Puerto Rican
+
+0.50**
+
+Mexican American
+
+-0.05
+
+Dominican/South Central American
+
+0.02
+
+Marital status (Ref: married/living with spouse/living with someone)
+
+Married not living with spouse/separated/divorced/widowed -0.07
+
+Never married/never lived with someone
+
+0.11
+
+Education level (Ref: < high school)
+
+HS diploma/GED
+
+-0.14
+
+Technical/vocational school
+
+-0.24
+
+Some college
+
+0.03
+
+College graduate/professional school
+
+-0.47*
+
+Employment status (Ref: full/part-time employment)
+
+Unemployed: temporary illness/unemployed, looking/
+
+-0.13
+
+unemployed, not looking/in school
+
+Retired/homemaker
+
+-0.6**
+
+Disabled/never worked/other Incomea
+
+0.23 -0.002
+
+Age of initiation of drinking (Ref: 21+ years)
+
+15 0.95***
+
+16-18
+
+0.45**
+
+19-20
+
+-0.07
+
+Interaction of place of birth and gender (Ref: Foreign-born female)
+
+US-born male
+
+1.41***
+
+Foreign-born male
+
+1.23***
+
+US-born female
+
+0.15 R2 17.5%
+
+0.22 0.17 0.20
+0.20 0.17 0.16
+0.16 0.13
+0.16 0.24 0.18 0.22
+0.19
+0.23 0.23 0.003
+0.20 0.15 0.218
+0.20 0.16 0.22
+
+Notes: *p < .05, **p < .01, ***p < .001; acontinuous variable; CI = confidence interval.
+
+-0.25 to 0.53 -0.1 to 0.62 -0.30 to 0.47
+0.12 to 0.90 -0.39 to 0.28 -0.29 to 0.34
+-0.39 to 0.24 -0.15 to 0.37
+-0.46 to 0.18 -0.71 to 0.23 -0.33 to 0.40 -0.90 to 0.03
+-0.49 to 0.23
+-1.04 to -0.15 -0.22 to 0.72 -0.007 to 0.003
+0.57 to 1.34 0.16 to 0.74 -0.41 to 0.3
+1.01 to 1.81 0.92 to 1.54 -0.28 to 0.57
+
+Protective factors are having a college degree or professional education and being retired or a homemaker.
+
+Discussion
+Age, gender, and national origin account for several important differences in alcohol use behavior among US Hispanics. As projected, men consume higher quantities and engage in binge drinking more frequently than women. Although drinking rates decline with age, most of the decline happens after age 40. Previous research (Caetano, 1991; Hilton, 1991) has indicated that drinking did not seem to decrease as abruptly (after the 20s) with age among Hispanic men as it did in the US general population. According to Caetano (1991), this can be explained by the fact that in Latin cultures, older and more established men continue to drink because drinking is not seen as a youthful activity as much as it is in the United States. Older men also drink because of their respected status in the family and
+
+412 S. Ramisetty-Mikler et al.
+community; drinking thus is an earned right and an indicator of economic stability. In summary, these findings on volume of drinking and binge drinking by age suggest that older US Hispanic men are at a considerable risk of developing alcohol-related problems because of their continued drinking.
+With regard to females, drinking rates were similar across all four national groups, with the exception of higher abstention rate among Mexican American women. The higher rate of overall drinking among Puerto Rican women compared with other women is difficult to explain as alcohol research on Puerto Ricans is sparse. Puerto Ricans are different from other Hispanic national groups in important ways. For instance, Puerto Rico is part of a commonwealth with the United States, and Puerto Ricans hold American citizenship. It is possible that increased contact with the United States, which has more liberal norms for drinking by women, has led to a liberalization of norms among Puerto Ricans that is not seen in other Hispanic groups.
+The multivariate analysis also indicated that being single is a risk factor for binge drinking, whereas having more education is a protective factor. The analysis of volume of drinking identifies college education and being retired or a homemaker as protective factors. These demographic factors perhaps symbolize socialization, social networks, and wealth that affect the pattern of alcohol consumption. Those who are single may have socialization patterns that lead to frequent opportunities to drink heavily, either with friends or outside the home in bars. Those who are retired and homemakers perhaps socialize in settings where drinking does not occur often. Those who are more educated may be aware of the dangers of alcohol consumption and may evaluate more carefully the potential implications and risk associated with binge drinking, including the impact that such drinking may have in their professional lives.
+Another important factor that could explain the variation in the levels of alcohol consumption is the type of beverage available and or preferred by men and women in these groups. For example, we found that beer is indeed the beverage with highest mean consumption among men in all national groups, and among Puerto Rican and Mexican American women. For Cuban American and D/SC American women, wine is the beverage associated with highest mean weekly consumption. Beer is responsible for the majority of binge events reported by respondents in all national groups. The frequency of binge drinking associated with beer is also higher than that linked to wine and liquor drinking (Caetano et al., 2009).
+Other studies also confirm that the consumption of beer and spirits is different and tends to be more concentrated, with larger amounts (number of drinks) per occasion. Beer consumption accounted for most of the alcohol consumed (67%), most of the alcohol consumed by the heaviest drinkers (42%), and most of the alcohol consumed (81%) in hazardous drinking (five or more drinks) (Rogers & Greenfield, 1999). Dawson (1993) reported that differences in beverage preferences between men (beer mostly) and women (wine and liquor) explain differences in alcohol consumption between genders.
+Our recent analyses of HABLAS data on alcohol-related problems show that Puerto Ricans, Mexican Americans, and D/SC Americans are 2-3 times more likely than Cuban Americans to report two or more alcohol-related problems (Vaeth, Caetano, RamisettyMikler, & Rodriguez, 2009). Cuban Americans are less likely to report substance use disorders than Puerto Ricans (Alegria, Mulvaney-Day, Torres, Polo, Cao, & Canino, 2007). Although the total drinking volume and the pattern of alcohol consumption are mainly responsible for individuals' variation in their response to alcohol, social and cultural responses to drinking also play an important role in the origin of problems.
+
+Alcohol use behavior in Hispanic groups 413
+Gender has been consistently found to be associated with variation in drinking behavior with men consuming more alcohol than women (e.g., Substance Abuse and Mental Health Services Administration, 2007). Similarities and variations based on gender and beverage specific choices are of importance for understanding drinking behavior and consequent alcohol problems including abuse and dependence among Hispanic groups. First, variation across different types of problems provides a base for treatment and prevention interventions to men and women targeting beliefs and norms specific to their culture. For instance, Mexican American and D/SC American men born in the United States seem to be at a considerable higher risk of engaging in drinking and driving than other groups (Caetano et al., 2008b). Further, the fact that binge drinking by men in these groups is associated with beer suggests that targeted prevention intervention to reduce drinking and alcohol-related problems such as DUI should be linked with beer consumption. Perhaps further refinement with a focus on US- born Mexican Americans and beer consumption would increase these programs' effectiveness.
+Interaction between gender and acculturation level is worth discussing. Men regardless of their birthplace were likely to drink more per week as well as engage more in binge drinking than foreign-born females. This may be because of social norms governing drinking behavior in Mexican culture, which are more liberal for men than for women (Roizen, 1981). More interesting is the finding of an interaction effect between US birthplace and being a woman, which increases considerably the risk of these women engaging in binge drinking compared with women born abroad. A recent study by Strunin, Edwards, Godette, and Heeren (2007) reported that foreign-born Mexican American females were less likely to be drinkers and less likely to drink heavily than US-born females. Grant et al. (2004b) reported that US-born Mexican Americans were significantly more likely than those who were foreign-born to have lifetime diagnosis of alcohol abuse/dependence, major depression, and other psychiatric disorders. All of these findings support the notion that drinking by US-born women reflect learned behaviors through cultural adaptation to mainstream US culture (Zamboanga, Raffaelli, & Horton, 2006). Collins and McNair (2002) report that a woman's drinking patterns are influenced by the cultural norms and practices of the ethnic groups to which they belong. Latinas' drinking behavior is affected by the level of acculturation to US society. In our recent analyses, we found several significant interactions between national group and acculturation level. For example, among women in all national groups, the mean number of drinks consumed per week increased with level of acculturation (statistically significant only for Mexican American and D/SC American women in relation to low vs. high acculturation). Higher frequencies of binge drinking of one or more times per month were found among Puerto Rican women of low and high levels of acculturation. Among women of all national groups, a statistically significant step-wise increase with increasing level of acculturation is seen for binging less than once per month. Further, those at the highest level of acculturation had the highest frequency of drinking 12 or more drinks in a day.
+In general, the odds of binge drinking increased dramatically among women in high acculturation level. The mounting knowledge in this area provides a starting point from which to view commonalities among Hispanic groups as well as the many sources of heterogeneity within and between them associated with their preferences and acculturation level.
+Finally, in this sample, the adjusted regression analyses confirm that early onset of drinking is a strong predictor of binge drinking as well as alcohol volume. Numerous studies have linked initiation of drinking at a younger age to higher drinking levels and problematic drinking among youth (Hawkins, Graham, Maguin, Abbott, Hill, & Catalano,
+
+414 S. Ramisetty-Mikler et al.
+1997; Strunin et al., 2007), alcohol use disorders (Grant & Dawson, 1997; Grant, Stinson, & Harford, 2001; Substance Abuse and Mental Health Services Administration, 2004; Hingson, Heeren, & Winter, 2006), and consequent adverse physical, mental, and social consequences (National Research Council and Institute of Medicine, 2004).
+Conclusions
+First, our study findings indicate that the US Hispanic population is not homogeneous concerning alcohol consumption. Puerto Rican and Mexican American men are more likely to consume a higher number of drinks on average and also engage in more binge drinking compared with their Cuban or D/SC American counterparts.
+Second, Puerto Rican women also drink more and engage in binge drinking more frequently than other Hispanic women. Prevention interventions must take women's acculturation level, that is, length of stay in the United States as well as change in the cultural beliefs, attitudes, and practices conforming more to the host culture, into consideration while addressing alcohol-related problems including binge drinking and DUI.
+Third, age of initiation plays a role in drinking later in life, and there is a need for research that explains what are the factors that trigger this early drinking and which, if any, specific cultural aspects facilitate this process. The findings draw our attention to the complex social influences on initiating drinking during adolescence. In particular, friends' drinking was linked to alcohol initiation, consumption, and plans to drink in the future (Epstein, Botvin, & Diaz, 1999). These findings lend support to teaching social resistance skills to improve Hispanic adolescents' ability to resist drinking and using other drugs. Those who are acculturated or born in the United States are more at risk of heavier drinking and alcohol problems, mainly among Puerto Rican women. Our findings have implications for understanding factors associated with drinking and alcohol-related problems among Hispanic subgroups toward developing culturally appropriate evidence-based prevention strategies, which are currently nonexistent in the United States. Positive beliefs held by drinkers can help us identify psychological and cognitive factors that influence the maintenance of alcohol use behavior. These factors can be addressed in alcohol prevention strategies in an attempt to delay initiation as well as to reduce alcohol consumption among Hispanic populations. Continued drinking, particularly among Hispanic men in their middleage years, needs to be further examined for prevention efforts. There is also a need to better understand how the process of migration and acculturation to US society influences alcohol consumption. Future research should focus on specific characteristics of alcohol consumption of each Hispanic national group which will generate prevention interventions that are also more focused and effective.
+Strengths and limitations
+The strengths of the study include large sample size drawn randomly from the household population, which makes the findings generalizable to the respective national groups in the area from which the sample was drawn. Participants were interviewed in their preferred language with a questionnaire that underwent a detailed Spanish translation and back-translation process. The study also has limitations. Alcohol consumption measures are based on self-report, which may result in underreporting of alcohol consumption. Underreporting may be intentional or because of recall bias. The cross-sectional nature of the study limits our ability to investigate temporal relationships. The survey had a 24% nonresponse rate.
+
+Alcohol use behavior in Hispanic groups 415
+Although this is acceptable for survey research with general population, it is possible that nonrespondents are different from respondents regarding their level of alcohol consumption.
+Acknowledgements
+Work on this paper was supported by a grant (RO1-AA013642, PI: R. Caetano) from the National Institute on Alcohol Abuse and Alcoholism to the University of Texas School of Public Health.
+Declaration of interest
+The authors report no conflicts of interest. The authors alone are responsible for the content and writing of the paper.
+References
+Alegria, M., Mulvaney-Day, N. E., Torres, M., Polo, A., Cao, Z., & Canino, G. J. (2007). Prevalence of psychiatric disorders across Latino subgroups in the United States. American Journal of Public Health, 97, 68-75.
+Black, S. A. & Markides, K. S. (1994). Aging and generational patterns of alcohol-consumption among MexicanAmericans, Cuban Americans and mainland Puerto-Ricans. International Journal of Aging & Human Development, 39(2), 97-103.
+Caetano, R. (1988). Alcohol use among Hispanic groups in the United States. American Journal of Drug and Alcohol Abuse, 14(3), 293-308.
+Caetano, R. (1991). Findings from the 1984 national survey of alcohol use among U.S. Hispanics. In: W. B. Clark & M. E. Hilton (Eds) Alcohol in America: Drinking practices and problems (pp. 293-308). Albany, NY: State University of New York Press.
+Caetano, R. & Clark, C. L. (1998a). Trends in alcohol-related problems among Whites, Blacks, and Hispanics: 1984-1995. Alcoholism: Clinical and Experimental Research, 22(2), 534-538.
+Caetano, R. & Clark, C. L. (1998b). Trends in alcohol consumption patterns among Whites, Blacks and Hispanics: 1984-1995. Journal of Studies on Alcohol, 59(6), 659-668.
+Caetano, R. & Galvan, F. (2001). Alcohol use and alcohol-related problems among Latinos in the United States. In: M. Aguirre-Molina, C. Molina, & R. E. Zambrano (Eds) Health issues in the Latino community (pp. 383-412). San Francisco: Jossey-Bass.
+Caetano, R., Ramisetty-Mikler, S., & Rodriguez, L. A. (2008a). The Hispanic Americans Baseline Alcohol Survey (HABLAS): Rates and predictors of alcohol abuse and dependence across Hispanic national groups. Journal of Studies on Alcohol and Drugs, 69(3), 441-448.
+Caetano, R., Ramisetty-Mikler, S., & Rodriguez, L. A. (2008b). The Hispanic Americans baseline alcohol survey (HABLAS): Rates and predictors of DUI across Hispanic national groups. Accident; Analysis and Prevention, 40(2), 733-741.
+Caetano, R., Vaeth, P. A. C., Ramisetty-Mikler, S., & Rodriguez, L. A. (2009). The Hispanic Americans baseline alcohol survey: Alcoholic beverage preference across Hispanic national groups. Alcoholism: Clinical & Experimental Research, 33(1), 150-159.
+Cervantes, R. C., Gilbert, M. J., Salgado de Snyder, N., & Padilla, A. M. (1990/1991). Psychosocial and cognitive correlates of alcohol use in younger adult immigrant and U.S.-born Hispanics. International Journal of the Addictions, 25(5A-6A), 687-708.
+Collins, R. L. & McNair, L. D. (2002). Minority women and alcohol use. Alcohol Research & Health, 26(4), 251-256. Dawson, D. A. (1993). Patterns of alcohol consumption: Beverage effects on gender differences. Addiction, 88,
+133-138. Dawson, D. A. (1998). Beyond black, white, and Hispanic: Race, ethnic origin and drinking patterns in the
+United States. Journal of Substance Abuse, 10(4), 321-339. Epstein, J. A., Botvin, G. J., & Diaz, T. (1999). Etiology of alcohol use among Hispanic adolescents sex-specific effects
+of social influences to drink and problem behaviors. Archives of Pediatrics and Adolescent Medicine, 153, 1077-1084. Gilbert, M. J. & Cervantes, R. C. (1986). Patterns and practices of alcohol-use among Mexican-Americans - A
+comprehensive review. Hispanic Journal of Behavioral Sciences, 8(1), 1-60.
+
+416 S. Ramisetty-Mikler et al.
+Grant, B. F. & Dawson, D. A. (1997). Age at onset of alcohol use and its association with DSM-IV alcohol abuse and dependence: Results from the national longitudinal alcohol epidemiologic survey. Journal of Substance Abuse, 9, 103-110.
+Grant, B. F., Dawson, D. A., Stinson, F. S., Chou, S. P., Dufour, M. C., & Pickering, R. P. (2004a). The 12-month prevalence and trends in DSM-IV alcohol abuse and dependence: United States, 1991-1992 and 2001-2002. Drug and Alcohol Dependence, 74(3), 223-234.
+Grant, B. F., Stinson, F. S., & Harford, T. C. (2001). Age at onset of alcohol use and DSM-IV alcohol abuse and dependence: A 12-year follow-up. Journal of Substance Abuse, 13(4), 493-504.
+Grant, B. F., Stinson, F. S., Hasin, D. S., Dawson, D. A., Chou, S. P., & Anderson, K. (2004b). Immigration and lifetime prevalence of DSM-IV psychiatric disorders among Mexican Americans and non-Hispanic Whites in the United States - Results from the national epidemiologic survey on alcohol and related conditions. Archives of General Psychiatry, 61(12), 1226-1233.
+Hawkins, J. D., Graham, J. W., Maguin, E., Abbott, R., Hill, K. G., & Catalano, R. F. (1997). Exploring the effects of age of alcohol use initiation and psychosocial risk factors on subsequent alcohol misuse. Journal of Studies on Alcohol, 58(3), 280-290.
+Hilton, M. E. (1991). The demographic distribution of drinking patterns in 1984. In: W. B. Clark & M. Hilton (Eds) Alcohol in America: Drinking practices and problems in a national survey (pp. 73-86). Albany: State University of New York Press.
+Hingson, R. W., Heeren, T., & Winter, M. R. (2006). Age at drinking onset and alcohol dependence - Age at onset, duration, and severity. Archives of pediatrics & adolescent medicine, 160(7), 739-746.
+Marin, G. & Posner, S. F. (1995). The role of gender and acculturation on determining the consumption of alcoholic beverages among Mexican Americans and Central Americans in the United States. The International Journal of Addictions, 30(7), 779-794.
+Markides, K., Ray, L. A., Stroup-Benham, C. A., & Trevino, F. (1990). Acculturation and alcohol consumption in the Mexican American population of the southwestern United States: Findings from HHANES 1982-1984. American Journal of Public Health, 80(Suppl.), 42-46.
+National Research Council and Institute of Medicine. (2004). Consequences of underage drinking. In: R. J. Bonnie & M. E. O'Connell (Eds) Reducing underage drinking: A collective responsibility. Washington, DC: The National Academies Press.
+Research Triangle Institute. (2005). Software for survey data analysis (SUDAAN). Release 9.0.1. Research Triangle Park, NC: Research Triangle Institute.
+Rogers, J. D. & Greenfield, T. K. (1999). Bear drinking accounts for most of the hazardous alcohol consumption reported in the United States. Journal of Studies on Alcohol, 60,732-739.
+Roizen, R. (1981). The World Health Organization study of community responses to alcohol-related problems: A review of cross-cultural findings. Geneva: World Health Organization.
+Schafer, J. L. (1997). Analysis of incomplete multivariate data. London: Chapman & Hall. Strunin, L., Edwards, E. M., Godette, D. C., & Heeren, T. (2007). Country of origin, age of drinking onset, and
+drinking patterns among Mexican American young adults. Drug and Alcohol Dependence, 91(2-3), 134-140. Substance Abuse and Mental Health Services Administration. (2004). Alcohol dependence or abuse and age at first
+use. Rockville, MD: U.S. Department of Health and Human Services, Office of Applied Studies. Substance Abuse and Mental Health Services Administration. (2007). The NSDUH report: Gender differences
+in alcohol use and alcohol dependence or abuse: 2004 and 2005. Rockville, MD: U.S. Department of Health and Human Services, Office of Applied Studies. U.S. Census Bureau. (2007). The American community-Hispanics: 2004. Washington, DC: U.S. Department of Commerce, Economics and Statistics Administration. U.S. Census Bureau. (2008a). An older and more diverse nation by midcentury [Press release]. Retrieved December 17, 2008, from http://www.census.gov/PressRelease/www/releases/archives/population/012496.html. U.S. Census Bureau. (2008b). U.S. Hispanic population surpasses 45 million- now 15 percent of total [Press release]. Retrieved December 10, 2008, from http://www.census.gov/Press-Release/www/releases/archives/population/ 011910.html. Vaeth, P. A., Caetano, R., Ramisetty-Mikler, S., & Rodriguez, L. A. (2009). Hispanic Americans baseline alcohol survey (HABLAS): Alcohol-related problems across Hispanic national groups. Journal of Studies on Alcohol and Drugs, 70(6), 991-999. Zamboanga, B. L., Raffaelli, M., & Horton, N. J. (2006). Acculturation status and heavy alcohol use among Mexican American college students: Investigating the moderating role of gender. Addictive Behaviors, 31(12), 2188-2198.
+
+Copyright of Journal of Substance Use is the property of Taylor & Francis Ltd and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission. However, users may print, download, or email articles for individual use.
+
+

@@ -1,0 +1,399 @@
+Giving Up on Unattainable Goals: Benefits for Health?
+Carsten Wrosch Concordia University
+Gregory E. Miller University of British Columbia
+Michael F. Scheier Carnegie Mellon University
+Stephanie Brun de Pontet Concordia University
+
+Three studies examined associations between goal disengagement and goal reengagement tendencies and indicators of physical health (e.g., health problems, cortisol rhythms, sleep efficiency). Based on research showing that goal adjustment tendencies are associated with subjective well-being, the authors predicted that people who are better able to disengage from unattainable goals and reengage with alternative goals also may experience better physical health. Across the three studies, the findings demonstrate that the ability to disengage from unattainable goals is associated with better self-reported health and more normative patterns of diurnal cortisol secretion. Goal reengagement, by contrast, was unrelated to indicators of physical health but buffered some of the adverse effects of difficulty with goal disengagement. The results also indicate that subjective well-being can mediate the associations between goal disengagement tendencies and physical health.
+Keywords: goal disengagement; goal reengagement; selfregulation; subjective well-being; physical health
+Theories on self-regulation of behavior typically assume that processes surrounding the management of personal goals can benefit a person's subjective wellbeing because goals provide a structure for building a successful life and keep the person engaged in the pur-
+
+suit of meaningful activities (Carver & Scheier, 1981, 1998; Emmons, 1985). However, pursuing personal goals also may produce negative psychological effects among people who experience difficulty with making progress toward a desired goal or expect upsetting consequences from failure (Carver & Scheier, 1990; Pomerantz, Saxon, & Oishi, 2000).
+In many situations, a person can overcome difficulty with goal attainment by increasing confidence and effort or finding an alternative path to attaining the threatened goal (Bandura, 1997; Heckhausen & Schulz, 1995). At times, however, it may not be possible to realize a goal because the goal itself is unattainable. For
+Authors' Note: Preparation of this article was supported in part by grants from the American Heart Association, Canadian Institutes of Health Research, Michael Smith Foundation for Health Research, National Alliance for Research on Schizophrenia and Depression, Social Sciences and Humanities Research Council of Canada, and "Fonds de la recherche sur la societe et la culture, Quebec." This research also was supported by National Institutes of Health Grants HL076858 and HL076852. Correspondence concerning this article should be addressed to Carsten Wrosch, Concordia University, Department of Psychology and Centre for Research in Human Development, 7141 Sherbrooke Street West, Montreal, Quebec, H4B 1R6, Canada; e-mail: carsten.wrosch@concordia.ca.
+PSPB, Vol. 33 No. 2, February 2007 251-265 DOI: 10.1177/0146167206294905 (c) 2007 by the Society for Personality and Social Psychology, Inc.
+
+251
+
+Downloaded from psp.sagepub.com at Bobst Library, New York University on January 15, 2015
+
+252 PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+example, a person may have adopted a goal that is out of reach (e.g., winning an Olympic medal without the necessary athletic skills) or an accident, unemployment, or growing older may make the continued pursuit of a desired goal impossible (e.g., staying in good health, buying a house, or having your own children). In such situations, when a person desires a valuable goal and is unable to make further progress toward the goal, the person is likely to experience elevated levels of psychological distress (Carver & Scheier, 1990).
+We have proposed that a person who confronts an unattainable goal can thrive in such situations by engaging in two adaptive self-regulation processes (Wrosch, Scheier, Carver, & Schulz, 2003; Wrosch, Scheier, Miller, Schulz, & Carver, 2003). First, a person needs to disengage from the unattainable goal. To disengage successfully, a person needs to withdraw effort and commitment from pursuing the unattainable goal. The primary function of goal disengagement is to enable the person to quit trying to attain something that is unattainable, thereby preventing repeated goal failure and its associated psychological distress. Another benefit of successful goal disengagement is to free resources that can be used for alternative actions, thereby increasing purpose and promoting future development (for theoretical considerations on the adaptive value of goal disengagement, see also Brandtstadter & Renner, 1990; Carver & Scheier, 1990, 1998; Heckhausen & Schulz, 1995; Klinger, 1975; Nesse, 2000).
+In addition, a person who encounters an unattainable goal needs to reengage goal-directed efforts elsewhere. To reengage successfully, a person needs to identify, commit to, and start to pursue alternative goals (Wrosch, Scheier, Miller, et al., 2003). Whereas new goals can take many different forms, it seems important that a newly selected goal helps to promote a person's sense of identity (Carver & Scheier, 1999, 2005; Wrosch, Scheier, Carver, et al., 2003). Engaging in personally meaningful activities should enhance subjective well-being (Scheier et al., 2006). In addition, goal reengagement may compensate for the negative consequences associated with the inability to make progress toward a desired goal by altering a person's focus on success versus failure. For example, the decision to pursue a new goal has been shown to be associated with an increased focus on the positive aspects of this new goal (Gollwitzer, Heckhausen, & Steller, 1990).
+During the past decade, researchers have shown that people vary widely in their specific reactions to unattainable goals and that behaviors that support goal disengagement may help preserve a person's subjective well-being (see research on parents of handicapped children or women who were past the age for having their own children, Heckhausen, Wrosch, & Fleeson, 2001; Tunali
+
+& Power, 1993). Conversely, it has been demonstrated that engaging people in thoughts about uncontrollable failure (i.e., preventing them from disengagement by eliciting state-oriented behaviors) can negatively influence prospective outcomes (Kuhl, 1981). These findings are consistent with research suggesting that depressed people often maintain unrealistic intentions (Kuhl & Helle, 1986) and that an adaptive fit between appraisals of controllability and the use of problem-focused versus emotionfocused coping can relieve emotional distress (Vitaliano, DeWolfe, Maiuro, Russo, & Katon, 1990).
+Our theoretical model takes the reported research on specific reactions to unattainable goals into account and also proposes that individual differences exist in people's general tendencies to adjust to unattainable goals. Given that abandoning a goal can be a difficult task (see research on the motivational effects of uncompleted goals, Zeigarnik, 1938), such individual differences in goal disengagement and goal reengagement tendencies should become pivotal factors in determining the subjective well-being among people who confront unattainable goals: The higher a person's capacities to adjust to unattainable goals, the more adaptive should the person's response be when unattainable goals are confronted.
+Research based on our theoretical model supports these assumptions by demonstrating that individual differences in goal disengagement and goal reengagement tendencies play an important role in adaptive self-regulation (Wrosch, Scheier, Miller, et al., 2003). We have shown that some people are better able to adjust to the experience of unattainable goals, irrespective of the specific nature of the unattainable goal encountered. In addition, individual differences in goal adjustment tendencies were shown to be functionally associated with higher levels of subjective well-being, above and beyond the influence of coping and other personality characteristics (e.g., the Big Five personality factors). Finally, our research suggests that goal adjustment tendencies may operate interactively to influence subjective well-being. For example, research on younger adults has shown that goal reengagement tendencies can buffer the adverse effects of failure to disengage from unattainable goals on subjective well-being. Conversely, when the societal context provides fewer alternative goals in old age, goal reengagement tendencies can protect the emotional well-being of people who successfully abandon unattainable goals (for effects of goal reengagement and activity replacement in the elderly, see Duke, Leventhal, Brownlee, & Leventhal, 2002; Wrosch, Scheier, Miller, et al., 2003).
+Although goal adjustment tendencies have been linked to higher levels of subjective well-being, little is known about the impact of goal adjustment tendencies on a person's physical health. This is surprising given that a large body of literature has demonstrated an association
+
+Downloaded from psp.sagepub.com at Bobst Library, New York University on January 15, 2015
+
+Wrosch et al. / GOAL ADJUSTMENT AND HEALTH 253
+
+between subjective well-being and physical health. For example, research indicates that psychological distress can modify biological processes in the endocrine and immune systems in a way that increases vulnerability to disease (Heim, Ehlert, & Hellhammer, 2000; Segerstrom & Miller, 2004), is associated with a variety of self-reported health problems (e.g., asthma; Afari, Schmaling, Barnhart, & Buchwald, 2001), and has the potential to influence clinical illness when people are exposed to viruses that cause the common cold (Cohen, Doyle, Turner, Alper, & Skoner, 2003). Given these considerations, we suggest that the psychological benefits gained from a person's capacities to disengage from unattainable goals and to reengage in alternative goals also may play an important role in protecting a person's physical health.
+The Present Research
+We conducted three studies to examine whether people who are better able to abandon unattainable goals and better able to engage in alternative goals would experience fewer physical health problems than individuals who have greater difficulties adjusting to unattainable goals. In Study 1, we tested our hypotheses by predicting physical health problems in a heterogeneous group of community-dwelling adults. Study 1 also explored whether goal disengagement and goal reengagement tendencies interact in predicting physical health problems. Finally, we examined whether subjective well-being would mediate the associations between goal adjustment tendencies and physical health. In Study 2, we examined in a community sample whether goal adjustment tendencies would predict a health-relevant biological process, the diurnal pattern of cortisol secretion. Finally, Study 3 tested our hypotheses by following a group of college students throughout the course of one semester. We expected that adaptive goal adjustment tendencies would predict better physical health experienced toward the end of the semester. In addition, we hypothesized that goal adjustment tendencies would prevent declines in subjective well-being and that these effects on subjective well-being would mediate the beneficial effects of goal adjustment on physical health.
+STUDY 1
+Method
+PARTICIPANTS
+Study 1 consisted of 150 adults from the large, metropolitan area of Montreal, who participated in a questionnaire study about life goals. Participants were recruited via newspaper advertisement and received $10
+
+for participating in the study. Forty-seven percent of the sample was male and 51% attained a higher education (undergraduate university degree or more). Participants were between 18 and 85 years old (M = 50.06, SD = 20.05), and 40% of them were either married or cohabitating (60% were single, divorced, or widowed).
+MATERIALS
+To provide a contextual framework, we asked the participants to think about the past 5 years and to report whether they had to stop pursuing important goals during this period. Nine participants were excluded from the sample because they did not report the presence of an unattainable goal and consequently did not respond to the goal disengagement and goal reengagement scales. The materials included in Study 1 consisted of measures of participants' goal disengagement and goal reengagement tendencies, physical health problems, depressive symptomatology, and perceived stress. Table 1 reports the zero-order correlations between the main constructs.1
+Goal disengagement and goal reengagement tendencies. Goal disengagement and goal reengagement tendencies were assessed with a previously developed instrument (Wrosch, Scheier, Miller, et al., 2003). Participants responded to 10 items measuring how they usually react if they have to stop pursuing an important goal (5-point Likert-type scales anchored at 1 = almost never true, 5 = almost always true). Four items measured a person's tendency to disengage from unattainable goals (e.g., "It's easy for me to reduce my effort towards the goal" or "I stay committed to the goal for a long time; I can't let it go") and six items measured a person's tendency to reengage with new goals (e.g., "I seek other meaningful goals" or "I start working on other new goals"). We computed mean scores of the goal reengagement items (M = 3.63, SD = .89,  = .89) and the goal disengagement items (M = 2.89, SD = .88,  = .69).
+Physical health problems. We administered a symptom checklist that included seven physical health problems (Wrosch, Bauer, & Scheier, 2005). Participants were asked to report whether they had experienced or had been treated for any of the following health problems during the past 12 months: (a) persistent skin trouble (e.g., eczema); (b) recurring stomach trouble, indigestion, or diarrhea; (c) being constipated all or most of the time; (d) chronic sleeping problems; (e) migraine headaches; (f) asthma, bronchitis, or emphysema; and (g) thyroid disease. We computed a count variable representing the number of physical health problems experienced by the participants (Range = 0-5, M = 1.01, SD = 1.16).
+
+Downloaded from psp.sagepub.com at Bobst Library, New York University on January 15, 2015
+
+254 PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+TABLE 1: Zero-Order Correlations of Main Constructs Used in Study 1
+
+Variables
+
+1 2 34
+
+1. Physical health problems 2. Depressive symptoms 3. Perceived stress 4. Goal disengagement 5. Goal reengagement
+
+.37** .26** -.22** -.12
+
+.72** -.32** -.16
+
+-.32** -.34**
+
+.21**
+
+NOTE: **p  .01.
+
+Subjective well-being. We measured depressive symptomatology and perceived stress as indicators of subjective well-being. Depressive symptoms were assessed via the 10-item version of the Center for Epidemiological Studies Depression Scale (Andresen, Malmgren, Carter, & Patrick, 1994). A sample item included "I was bothered by things that usually don't bother me." Participants were asked to indicate how often each statement applied to them during the past week on a 4-point Likert-type scale (anchored at 0 = rarely or none of the time, 3 = most or almost all of the time). We computed the sum score of the 10 items (M = 9.10, SD = 6.34,  = .84). In addition, perceived stress was measured with a 10-item questionnaire (Cohen, Kamarck, & Mermelstein, 1983). Individuals were instructed to rate each item based on how often they experienced each of the items in the past month on a 5-point Likert-type scale ranging from 1 (never) to 5 (very often). Sample items included "felt nervous and stressed" or "felt that you were on top of things." Positively formulated items were reverse-coded and we computed a mean score of the 10 items (M = 2.69, SD = .72,  = .88).
+Results
+To test our main hypothesis of an association between goal disengagement and goal reengagement tendencies with physical health, we conducted a hierarchical regression analysis, predicting participants' health problems as the dependent variable. In a first step, we included into the regression equation age, sex, educational level, and partnership status as control variables. In a second step, we tested the main effects of goal disengagement and goal reengagement for significance. Finally, in a third step, we included the interaction term between goal reengagement and goal disengagement into the analysis. Across the reported studies, predictor variables were centered prior to the regression analyses.
+The analysis showed, at the first step, a significant effect for sex, F(1, 128) = 5.16, R2 = .04,  = .20, p < .05. Women reported more health problems than men. None of the other control variables showed a significant effect. In support of our hypotheses, the inclusion of the main
+
+effects into the regression equation demonstrated that high goal disengagement was significantly associated with lower levels of health problems, F(1, 126) = 7.77, R2 = .05,  = -.24, p < .01. The main effect of goal reengagement, however, was not significant. In addition, the interaction of goal disengagement and goal reengagement was not significant in the final step of the analysis.
+We note that research has shown self-reported health to be associated with negative affectivity or neuroticism (e.g., Watson & Pennebaker, 1989). Our study also included a measure of negative affectivity (specifically, the PANAS; see Watson, Clark, & Tellegen, 1988). Although negative affectivity was associated with the report of health problems and somewhat reduced the effect of goal disengagement on participants' health problems, the main effect of goal disengagement on experienced health problems remained significant, R2 = .03,  = -.17, p < .05, even after we controlled for negative affectivity.
+To explore the role played by subjective well-being in the association between goal adjustment tendencies and physical health, we conducted two regression analyses predicting depressive symptomatology and perceived stress as dependent variables by the same independent variables that were used for predicting physical health.
+The analyses showed significant effects for age in predicting perceived stress (but not for predicting depressive symptoms). Older participants perceived lower levels of stress than younger participants, F(1, 128) = 9.93, R2 = .07,  = -.28, p < .01. No effects of the other control variables were obtained. The inclusion of the main effects into the regression analyses demonstrated that goal disengagement was significantly associated with lower levels of depressive symptomatology, F(1, 126) = 10.07, R2 = .07,  = -.27, p < .01, and lower levels of perceived stress, F(1, 126) = 7.95, R2 = .05,  = -.23, p < .01. Goal reengagement only predicted lower levels of perceived stress, F(1, 126) = 11.77, R2 = .07,  = -.28, p < .01, but was not significantly associated with depressive symptoms. The interaction effects of goal disengagement and goal reengagement were not significant.2
+Finally, we tested whether depressive symptoms and perceived stress would mediate the effect of goal disengagement on reported health problems. Given that physical health and subjective well-being can reciprocally influence each other, we also tested whether the effects of goal disengagement on depression and perceived stress can be explained by participants' health problems. First, we repeated the analysis for predicting participants' health problems by also controlling for depressive symptomatology and perceived stress. The results showed that the effect of goal disengagement on levels of health problems was rendered nonsignificant when we controlled for depressive symptomatology, R2 = .02, p > .05, and considerably reduced when we controlled for
+
+Downloaded from psp.sagepub.com at Bobst Library, New York University on January 15, 2015
+
+Wrosch et al. / GOAL ADJUSTMENT AND HEALTH 255
+
+perceived stress, R2 = .03, p = .03. In addition, we conducted Sobel tests that further demonstrated that goal disengagement exerted a significant indirect effect on participants' health problems through depressive symptoms (Z = -2.36, p < .05) and a marginally significant effect through perceived stress (Z = -1.69, p < .10). Second, we repeated the analyses for predicting participants' depressive symptoms and perceived stress by also controlling for participants' health problems. The effects of goal disengagement on depressive symptoms and perceived stress both remained significant after controlling for reported health problems (ps < .05), indicating that participants' health problems did not explain the effects of goal disengagement on subjective well-being.
+Discussion
+The results of Study 1 partly support our hypotheses. We have shown that goal disengagement can predict lower levels of physical health problems, and this effect was not a result of biases in self-reported health associated with negative affectivity. The findings also are consistent with the hypothesis that the effect of goal disengagement on participants' health problems is mediated by subjective well-being. Goal disengagement was significantly associated with lower levels of depressive symptoms and perceived stress. In addition, goal disengagement showed a significant indirect effect on participants' health problems through depressive symptomatology and a marginally significant indirect effect on health problems through perceived stress. These findings are consistent with the hypothesis that the continued pursuit of an unattainable goal may elicit psychological distress and thereby contribute to the occurrence of health problems.
+We found a different pattern of predictive relations for participants' goal reengagement tendencies. Goal reengagement did not significantly predict physical health and was only associated with perceived stress but not with depressive symptomatology. Clearly, the absence of an association between goal reengagement tendencies and physical health is inconsistent with our hypotheses. We think that differential effects of disengagement and reengagement tendencies on positive and negative quality of life indicators may help to explain these findings. However, we prefer to defer elaboration of this explanation until the results of all three studies have been presented, and we will return to this point later in the General Discussion.
+Finally, we note that the findings did not provide evidence with respect to the causal direction of processes. For example, it also may be that depression has triggered poor health and maladaptive self-regulation or that the effect of goal disengagement on depression is mediated by participants' health problems. Although
+
+we cannot exclude these possibilities, we note that our analyses showed that levels of health problems did not explain the effect of disengagement on depressive symptoms. This finding suggests that reverse directional effects are unlikely to explain our data and is consistent with experimental and longitudinal research demonstrating that self-regulation processes associated with goal disengagement or the pursuit of new goals can influence adaptive changes in psychological, performance, and physical health outcomes (Gollwitzer et al., 1990; Kuhl, 1981; Wrosch & Heckhausen, 1999).
+STUDY 2
+We conducted Study 2 to replicate the associations between goal adjustment tendencies and physical health. In addition, we were concerned that part of the variance accounted for in experienced health problems may be attributable to the fact that both the predictor and the outcome variables were based on self-reports. Consequently, it would provide stronger evidence for our hypotheses to show that goal adjustment tendencies also can influence health indicators that are based on more objective measures than symptom report, such as biological processes.
+In Study 2, we measured the diurnal rhythm of cortisol secretion, a biological process that is widely thought to be a "gateway" through which distress increases vulnerability to medical illness (Heim et al., 2000; McEwen, 2003). In most individuals, cortisol secretion peaks shortly after awakening and declines steadily over the course of the day (Stone, Schwartz, Smyth, & Kirschbaum, 2001). However, research indicates that persons facing severe and longterm stressors can exhibit a flattened diurnal rhythm, characterized by inadequate morning output and/or the failure to reduce secretion as the day progresses (e.g., Heim et al., 2000; Miller, Cohen, & Ritchey, 2002). On the basis of these findings, we expected that participants who are better able to adjust to unattainable goals would show a more normative (i.e., steeper) rhythm in their diurnal cortisol secretion than participants who have more difficulties with adjusting to unattainable goals.
+Method
+PARTICIPANTS
+Study participants were 54 adults from the St. Louis, Missouri, area. Participants were recruited via newspaper advertisement and received $150 for participating in the study. They were, on average, 30.27 years old (SD = 9.80, range = 18 to 56 years) and 38 of them were women. Twenty-four participants were Caucasian and the majority of non-Caucasians were of African American
+
+Downloaded from psp.sagepub.com at Bobst Library, New York University on January 15, 2015
+
+256 PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+origin (85%). Participants completed, on average, 15.55 years of education (SD = 1.88) and 13 of them were married.
+MATERIALS
+The main measures of the study included participants' general goal disengagement and goal reengagement tendencies and their diurnal cortisol rhythms.
+Goal disengagement and goal reengagement tendencies. Goal disengagement and goal reengagement tendencies were assessed with the same 10 items used in Study 1 (Wrosch, Scheier, Miller, et al., 2003). Participants were asked to report how they usually react if they have to stop pursuing an important goal in their life (goal disengagement, M = 2.98, SD = .73,  = .76; goal reengagement, M = 3.90, SD = .48,  = .82).
+Diurnal cortisol rhythm. We asked the participants to collect saliva samples as they went about their normal daily activities. On 4 separate days, they carried a handheld computer, which was programmed to sound an alarm at 1 hour, 4 hours, 9 hours, and 11 hours after the participants' prereported waking time. At each of these times, participants collected a saliva sample using salivettes. They were asked not to eat or brush their teeth immediately prior to saliva collection to prevent contamination with food or blood. To ensure compliance, the handheld computer briefly displayed a unique 3-digit code that the participant was to record onto the collection tubes. Saliva samples with incorrect or missing codes were not included in the analyses.
+Samples were kept in participants' home refrigerators until they were returned to the lab 2 to 3 days after collection was completed (for stability of salivary cortisol concentrations in these conditions, see Clements & Parker, 1998). They were then spun in a centrifuge at 3,000 rpm and the supernatants were collected and frozen at -70C. Cortisol assays were performed in duplicate using a time-resolved fluorescence immunoassay with a cortisol-biotin conjugate as a tracer (Kirschbaum, Kudielka, Gaab, Schommer, & Hellhammer, 1999). This assay has a sensitivity of 0.43 nmol/L. The intraassay coefficient of variation was less than 10%; the interassay coefficient of variation was less than 12%. All raw cortisol values were log-transformed to stabilize variance. Rhythm values were calculated by estimating a simple linear regression model for each participant, where his or her cortisol values were regressed on time since waking (average slope M = -.04, SD = .02). Lower rhythm values reflect more rapid cortisol declines, whereas higher values reflect "flat" diurnal rhythms and are viewed as evidence of dysregulation.
+
+Results
+We tested our hypothesis of associations between participants' goal adjustment tendencies and their cortisol rhythms by using hierarchical linear modeling (HLM v5.04). All models were estimated using restricted maximum likelihood estimation with robust standard errors. In the Level 1 model, we estimated each participant's average cortisol rhythm by modeling values as a function of collection day (which was person-centered). The Level 1 intercept, which reflects a participant's diurnal rhythm on the average sampling day, showed a significant amount of variance across participants, variance component = .0003, 2(53) = 134.51, p < .01. In turn, we sought to explain the observed variability in participants' diurnal rhythms in the Level 2 models. The first wave of analyses tested associations between cortisol rhythms with sociodemographic control variables (age, sex, education, race). Because of the small sample size of the study, we only included those control variables in subsequent analyses that were at least marginally associated with cortisol rhythm. We then included participants' goal disengagement and goal reengagement scores into the analyses. In a follow-up analysis, we also tested the interaction between goal disengagement and goal reengagement for significance.
+The results of the analyses showed that none of the control variables was associated with the rhythm of participants' diurnal cortisol secretion (all ps > .10). In support of our hypothesis, goal disengagement was significantly associated with a steeper diurnal cortisol rhythm (B = -.0018, SE = .0008, t = -2.17, p < .05), accounting for 3.13% of the between-person variance in this outcome. Goal reengagement, by contrast, did not predict participants' cortisol rhythms. The interaction effect between goal disengagement and goal reengagement was not significant.
+It is important to note that a flattened rhythm of diurnal cortisol secretion can occur because of reduced cortisol output during the early morning peak hours and/or higher cortisol output during the day and evening hours. To sort out these possibilities, we plotted in Figure 1 the average cortisol level (across the 4 days of monitoring) separately for participants who reported low levels (below the median) and high levels (above the median) of goal disengagement tendencies.3 The results suggest that the more flattened rhythm of cortisol secretion among participants with difficulties in goal disengagement was not associated with lower cortisol secretion during the morning hours. As the day progressed, however, participants with difficulties in goal disengagement showed higher cortisol levels than did participants who had an easier time with abandoning unattainable goals. Followup analyses of the groups displayed in Figure 1 support
+
+Downloaded from psp.sagepub.com at Bobst Library, New York University on January 15, 2015
+
+Wrosch et al. / GOAL ADJUSTMENT AND HEALTH 257
+
+25
+
+20
+
+Salivary Cortisol (nmol/L)
+
+15
+
+10
+
+5
+
+0 149
+Hours from Awakening
+
+11
+
+Low Goal Disengagement (Below Median) High Goal Disengagement (Above Median)
+
+Figure 1 Mean levels of salivary cortisol across 4 days, separately for participants with low levels (below the median) and high levels (above the median) in goal disengagement.
+
+this interpretation by showing that (using early morning cortisol levels as an individual reference standard) goal disengagement was not significantly associated with a reduction of cortisol secretion at 1 hour and 4 hours after awakening, whereas it was a significant predictor of reduced cortisol secretion at 9 hours after awakening (B = -.0456, SE = .0212, t = -2.16, p < .05) and was still a marginally significant predictor at 11 hours after awakening (B = -.0503, SE = .0291, t = -1.73, p < .10).
+
+Discussion
+The findings of Study 2 demonstrated that adaptive goal disengagement tendencies were associated with a steeper decline of cortisol secretion across the day. Goal reengagement tendencies, by contrast, were not related to participants' diurnal cortisol secretion. These results replicate conceptually the findings of the first study by showing that only goal disengagement, but not goal reengagement, significantly predicted variables associated with a person's health. The findings further imply that goal disengagement cannot only predict self-reported health problems but also a biological disturbance that often is seen in the context of stressful experiences (Heim et al., 2000; Miller et al., 2002). To the extent that flatter diurnal patterns of cortisol secretion contribute to declines in health status (Sephton, Sapolsky, Kraemer, & Spiegel, 2000), Study 2's findings may suggest a pathway through which maladaptive self-regulation triggers the kinds of medical problems reported in Study 1.
+
+We find it particularly interesting that the flattened rhythm of cortisol secretion (associated with difficulties in goal disengagement) was not based on lower levels of early morning cortisol but rather on higher levels of cortisol secretion during the day and the evening hours (see Figure 1). It may be that goal disengagement tendencies are not as influential during the early morning hours, prior to the time at which people usually start their normal activities. As the day progresses, however, and people try to get done what they set out to do, they may experience time constraints (e.g., ending of the workday) or situations may be encountered in which goal attainment can be difficult or impossible. Thus, it is later in the day that unattainable goals are likely to be directly confronted and differences in goal disengagement tendencies likely to become important.
+STUDY 3
+We conducted Study 3 to provide some longitudinal evidence for our hypotheses. In Study 3, we followed a group of college students throughout the course of one semester. Given that the management of a university career can be a stressful experience, associated with risk of failure in attaining desired academic goals, we expected that students who report greater difficulties with goal adjustment at the beginning of the semester would experience more health problems toward the end of the semester (general health problems, cold symptoms, and sleep efficiency) than students who have an easier time with adjusting to unattainable goals. Study 3 also further explored the role played by aspects of subjective well-being (in this case, negative emotions and life satisfaction) in the association between goal adjustment tendencies and physical health. We expected that students who are not able to manage unattainable goals would experience increased levels of negative emotions and reduced levels of life satisfaction toward the end of the semester. Moreover, we hypothesized that changes in subjective well-being would mediate the effects of goal adjustment tendencies on physical health.
+Method
+PARTICIPANTS
+The study participants were 81 undergraduate students from Concordia University, in Montreal, Canada. Sixtyeight participants were women and 67 participants were not married or cohabitating. The majority of the students had just entered their first (67%) or second (18%) year of university, and participants were, on average, 22.11 years old (SD = 3.63 years). We conducted two assessments throughout the course of one semester. Participants
+
+Downloaded from psp.sagepub.com at Bobst Library, New York University on January 15, 2015
+
+258 PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+were recruited at the beginning of the fall semester (T1) and asked to respond to a questionnaire. Toward the end of the semester (T2), they were contacted again and asked to respond to another questionnaire. The time interval between the two assessments was approximately 2 months (M = 2.08, SD = .20). Sixty-five of the 81 students participated in the second assessment. At the time of the first assessment, participants of the second assessment did not statistically differ from nonparticipants of the second assessment with respect to age, sex, partnership status, year of program, goal adjustment, or indicators of subjective well-being. The study participants received a small reward (i.e., a soft drink) for completing the first questionnaire and $10 for participating in the second assessment.
+MATERIALS
+The main measures included in Study 3 were participants' goal adjustment tendencies, cold symptoms, sleep efficiency, physical health problems, and indicators of subjective well-being. The zero-order correlations between the main constructs are reported in Table 2.
+Goal disengagement and goal reengagement tendencies. Goal disengagement and goal reengagement tendencies were assessed at T1 by administering the same 10 items used in Studies 1 and 2 (Wrosch, Scheier, Miller, et al., 2003). We asked the participants to report how they usually react if they have to stop pursuing an important goal in their life (goal disengagement, M = 2.85, SD = .88,  = .82; goal reengagement, M = 3.61, SD = .64,  = .88).
+Cold symptoms. Cold symptoms were measured at T2 by assessing seven symptoms that had been previously used in other research (e.g., Hamrick, Cohen, & Rodriguez, 2002). Participants were asked to indicate on 5-point Likert-type scales (endpoints of 0 = none, 4 = very severe) whether they had experienced or been treated for the following symptoms during the past couple of weeks: (a) nasal congestion, (b) runny nose, (c) sneezing, (d) cough, (e) feeling under the weather, (f) scratchy/sore throat, and (g) fever. We computed a mean score of the seven items (M = .91, SD = .76,  = .88).
+Sleep efficiency. Sleep efficiency was measured at T2 by administering the Brief Pittsburgh Sleep Quality Index (Buysse, Reynolds, Monk, Berman, & Kupfer, 1989). Participants were asked to report for the majority of recent days and nights during the past month (a) the time they usually laid down to go to sleep, (b) the time they usually got out of bed in the morning, (c) how long it took them to fall asleep after they had laid down to go to sleep, (d) how many minutes of sleep they had lost
+
+because they woke up in the middle of the night, and (e) how many minutes of sleep they had lost because they woke up earlier than their usual time to get up. Sleep efficiency was operationalized by computing an index representing the time that the participants spent in bed during the night without sleeping relative to the overall time that they spent in bed. This index can theoretically range between 0 (spent 100% of the time awake in bed) and 1 (spent 100% of the time in bed sleeping). In our sample, we obtained an average sleep efficiency of .86 (SD = .14).
+Physical health problems. Physical health problems were assessed at T2, asking the participants to respond to the same seven physical health symptoms that we measured in the first study. However, different from Study 1, the time period during which these symptoms could have occurred was modified to the past couple of weeks. In addition, we altered the response format of the items in Study 3 by using 5-point Likert-type scales (endpoints of 0 = none, 4 = very severe). To obtain a measure of physical health problems, we computed a mean score of the seven symptoms (M = .49, SD = .45,  = .53).
+Subjective well-being. We assessed life satisfaction and negative emotions as indicators of subjective wellbeing (at T1 and T2). Life satisfaction was measured using a 5-item Likert-type scale (Diener, Emmons, Larsen, & Griffin, 1985; anchored 1 = strongly disagree, 5 = strongly agree; sample item: I am satisfied with my life). On average, life satisfaction did not significantly change across time (T1: M = 3.62, SD = .71,  = .78; T2: M = 3.52, SD = .72,  = .80). To measure negative emotions, we asked the students to report how they felt about their life at school during the past few weeks with respect to three emotions--upset, guilty, and being afraid--using 5-point Likert-type scales (anchored at 1 = not at all, 5 = extremely). These emotions were selected on the basis of a statistical analysis of a 10-item negative affect scale assessed in a previously conducted study with students from Concordia University (see Wrosch, Scheier, Miller, et al., 2003). In this analysis, the items upset (r = .70), afraid (r = .65), and guilty (r = .59) were among the items with the highest item-total correlations. Across the course of the semester, participants reported increased levels of emotional upset (T1: M = 1.80, SD = 1.04; T2: M = 2.30, SD = 1.10) and guilt (T1: M = 1.53, SD = .92; T2: M = 1.97, SD = 1.17), ts(63) > 3.26, ps < .01. However, students did not become more afraid (T1: M = 2.53, SD = 1.23; T2: M = 2.41, SD = 1.16). Because of the differential mean level changes of the three emotions, and the fact that they were not highly interrelated (T1: rs = .13-.41; T2: rs = .20-.33), we incorporated the emotion items as separate variables into the analyses. To obtain measures of change, we predicted in separate
+
+Downloaded from psp.sagepub.com at Bobst Library, New York University on January 15, 2015
+
+Wrosch et al. / GOAL ADJUSTMENT AND HEALTH 259
+
+TABLE 2: Zero-Order Correlations of Main Constructs Used in Study 3
+
+Variables
+
+1 2 3 4 5 6 78
+
+1. Physical health problems
+
+2. Sleep efficiency
+
+-.66**
+
+3. Cold symptoms
+
+.20 -.10
+
+4.  Life satisfaction
+
+-.27*
+
+.30**
+
+-.26*
+
+5.  Emotional upset
+
+.42**
+
+-.41**
+
+.17
+
+-.36**
+
+6.  Guilt
+
+.23 -.18 -.03 -.20
+
+.30*
+
+7.  Being afraid
+
+.19 -.13 -.15 -.14
+
+.35**
+
+.18
+
+8. Goal disengagement
+
+-.39**
+
+.36**
+
+-.12
+
+.18
+
+-.47**
+
+.13
+
+-.14
+
+9. Goal reengagement
+
+-.13 .08 -.20 .13 -.23 -.04 -.10 .32**
+
+NOTE: *p  .05. **p  .01.
+
+regression analyses the T2 indicators of subjective wellbeing from the T1 indicators of subjective well-being and saved the residuals for analysis.
+Results
+To examine whether goal disengagement and goal reengagement tendencies would predict the prospective occurrence of health problems, we conducted three hierarchical regression analyses that predicted participants' health problems, sleep efficiency, and cold symptoms as dependent variables. In a first step, we entered sociodemographic control variables into the regression analyses. Due to the small sample size of the study, we only included those control variables into the analyses that showed at least a marginally significant zero-order correlation with any of the health outcomes (and the well-being variables used in the analyses reported below).4 In a second step, we tested the main effects of goal disengagement and goal reengagement for significance. Finally, in a third step, we examined whether the interaction term between goal disengagement and goal reengagement would be associated with the outcome variables.
+In support of our hypotheses, the analyses of the main effects confirmed that goal disengagement significantly predicted lower levels of health problems, F(1, 59) = 9.96, R2 = .14,  = -.40, p < .01, and higher levels of sleep efficiency, F(1, 59) = 9.60, R2 = .14,  = .40, p < .01 (but did not predict levels of cold symptoms). The main effect of goal reengagement was not significantly associated with any of the indicators of physical health. The final step of the analyses revealed a significant interaction effect of goal reengagement and goal disengagement, but only for predicting levels of cold symptoms, F(1, 58) = 5.83, R2 = .08, p < .05.5
+We illustrated the significant interaction effect in Figure 2 (left panel) by plotting the associations between goal disengagement and levels of cold symptoms 1 standard deviation above and below the mean of the goal reengagement scale (Aiken & West, 1991). A
+
+calculation of the simple slopes showed that goal disengagement significantly predicted lower levels of cold symptoms among participants who scored low on the goal reengagement scale (-1 SD:  = -.36, p = .05) but not among participants who scored high on the goal reengagement scale (+1 SD:  = .16, p > .10). These results indicate that poor goal disengagement is associated with higher levels of cold symptoms only among participants who had difficulty with goal reengagement. Thus, adaptive goal reengagement tendencies buffered the negative effects of failure with goal disengagement.
+To explore the role played by subjective well-being in the association between goal adjustment tendencies and physical health, we conducted four regression analyses that predicted changes in subjective well-being (residuals of life satisfaction, emotional upset, guilt, being afraid) by the same independent variables that we used for predicting indicators of physical health. The results of the analyses confirmed a significant main effect of goal disengagement on changes in emotional upset (but not on changes in life satisfaction or feeling guilty or afraid). Poor goal disengagement tendencies were associated with increased emotional upset, F(1, 59) = 11.99, R2 = .15,  = .41, p < .01. The main effect of goal reengagement did not significantly predict any of the subjective well-being outcomes. In the final step of the analyses, we found a significant interaction effect of goal disengagement and goal reengagement on changes in life satisfaction, F(1, 58) = 5.73, R2 = .08, p < .05.
+Figure 2 (right panel) illustrates this significant interaction effect. We plotted the associations between goal disengagement tendencies and changes in life satisfaction 1 standard deviation above and below the mean of the goal reengagement scale. Calculations of the simple slopes confirmed that problems with goal disengagement predicted decline in life satisfaction among participants who scored low on the goal reengagement scale (-1 SD:  = .44, p < .05) but not among participants who scored high on the goal reengagement scale (+1 SD:  = -.08, p > .10).
+
+Downloaded from psp.sagepub.com at Bobst Library, New York University on January 15, 2015
+
+260 PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+2 0.5
+
+Cold Symptoms Changes in Life Satisfaction
+
+10
+
+0 -1 SD
+
++1 SD
+
+Goal Disengagement
+
+-0.5 -1 SD
+
++1 SD
+
+Goal Disengagement
+
+Low Goal Reengagement (-1 SD) High Goal Reengagement (+1 SD)
+Figure 2 Predicting cold symptoms (left panel) and changes in life satisfaction (right panel) by the moderation of goal reengagement and goal disengagement.
+
+A final set of analyses was conducted to examine whether changes in emotional upset could explain the main effects of goal disengagement on indicators of health and whether changes in life satisfaction could explain the significant interaction effect between goal reengagement and goal disengagement on participants' cold symptoms. To test these hypotheses, we examined whether the significant effects of goal adjustment tendencies on indicators of health would still be significant if we statistically controlled in separate analyses for changes in emotional upset and life satisfaction. The analyses showed that the previously significant main effects of goal disengagement on levels of health problems (R2 = .14, p < .01) and sleep efficiency (R2 = .14, p < .01) were largely reduced if changes in emotional upset were taken into account (sleep efficiency: R2 = .04, p > .05; health problems: R2 = .05, p = .05). Calculations of the Sobel test confirmed that goal disengagement exerted an indirect effect on sleep efficiency (Z = 2.07, p < .05) and health problems (Z = -1.93, p = .05) through changes in emotional upset. In addition, the analyses demonstrated that the significant interaction effect between goal disengagement and goal reengagement on levels of cold symptoms (R2 = .08, p < .05) was rendered nonsignificant if the analysis controlled for changes in life satisfaction (R2 = .04, p = .10; following the procedures suggested by Hull,
+
+Tedlie, & Lehn, 1992, for statistically controlling the significance of moderator effects).
+Discussion
+Study 3 was conducted to replicate our findings of associations between goal adjustment tendencies and indicators of physical health and subjective well-being in a longitudinal design. The results showed that goal disengagement tendencies can predict indicators of physical health and that this association was not based on an underlying factor of neuroticism. Students who reported being better able to abandon unattainable goals at the beginning of the semester experienced lower levels of general health problems and a better sleep efficiency toward the end of the semester than students who had more difficulties with disengaging from unattainable goals.
+Moreover, our findings showed that difficulties in goal disengagement were associated with an increase in emotional distress (i.e., emotional upset), conceptually replicating the cross-sectional associations between goal disengagement and indicators of subjective well-being found in Study 1. Of importance, changes in emotional upset also mediated the effects of goal disengagement on indicators of health. Clearly, these findings provide support for our hypotheses in longitudinal analyses and
+
+Downloaded from psp.sagepub.com at Bobst Library, New York University on January 15, 2015
+
+Wrosch et al. / GOAL ADJUSTMENT AND HEALTH 261
+
+therefore go beyond the existing body of research. However, we note that we also measured two other specific emotions (guilt and being afraid) that were correlated with change in emotional upset but not associated with participants' goal adjustment tendencies and physical health problems (see Table 2). Future research should examine more comprehensively the influence of different facets of emotional distress to shed more light on the specific variables that mediate the association between goal disengagement and physical health.
+In addition, it is noteworthy that goal disengagement tendencies predicted participants' health problems and sleep efficiency but not their levels of cold symptoms. To provide an explanation for this pattern of results, it should be considered that our data showed physical health and sleep efficiency to be significantly associated with each other but statistically unrelated to participants' cold symptoms (see Table 2). This suggests that there may be different mechanisms underlying the development of different health problems. For example, as compared to general health problems and sleep problems, the occurrence of the common cold may be less related to intrapersonal processes because it requires the exposure of a person to a virus. To further explore this possibility, future research should assess people's social network size and the frequency of social contacts.
+Similar to the results of Studies 1 and 2, the main effect of goal reengagement tendencies was unrelated to indicators of subjective well-being and physical health. However, Study 3 demonstrated significant interaction effects between goal reengagement and goal disengagement. The findings suggest that goal reengagement can buffer the adverse effects of failure in abandoning unattainable goals on changes in life satisfaction and levels of cold symptoms. Of importance, our results further suggest that changes in life satisfaction mediated the interaction effect between goal reengagement and goal disengagement on levels of cold symptoms.
+Finally, we acknowledge that our study did not examine changes in indicators of health. Although our assessment approach attempted to predict the presence of health problems after the measurement of participants' goal adjustment tendencies, we cannot rule out the possibility that some participants experienced, for example, a chronic cold (that was already present at T1 and responsible for the obtained effects). However, given the usually low prevalence of chronic diseases in college students, we feel that it is not very likely that chronic illness has affected students' self-regulation tendencies, their life satisfaction, and their emotional distress. By contrast, it seems more likely that the reduced subjective well-being resulting from maladaptive self-regulation has increased the vulnerability of students to such illnesses at a time when university life becomes particularly
+
+demanding (e.g., deadlines for term papers and preparation for final exams) and the flu season usually begins.
+GENERAL DISCUSSION
+The primary aim of the presented studies was to examine whether goal disengagement and goal reengagement tendencies would predict better physical health and whether this association may be mediated by individual differences in subjective well-being. The findings of three studies strongly support the assumption that goal disengagement tendencies are a significant predictor of physical health. Adaptive goal disengagement was associated with the experience of fewer physical health problems in Study 1 and a more normative diurnal pattern of cortisol secretion in Study 2. Moreover, adaptive goal disengagement prospectively predicted lower levels of health problems and better sleep efficiency in Study 3.
+The findings also support the assumption that subjective well-being plays an important role in the associations between goal disengagement tendencies and indicators of physical health. The results showed that failure in goal disengagement was associated with higher levels of depressive symptomatology and perceived stress (Study 1) and increased levels of emotional upset (Study 3). Of importance, the observed effects of goal disengagement on indicators of physical health were mediated by individual differences in depressive symptoms and changes in emotional upset. These findings suggest that adaptive goal disengagement tendencies have the potential to benefit physical health by relieving psychological distress.
+We did not find the same predictive relations for a person's goal reengagement tendencies. In Study 1, goal reengagement only predicted perceived stress (and not depression) and was unrelated to indicators of physical health across all three studies. However, we showed that goal reengagement buffered the negative effects of poor goal disengagement capacities on perceived stress among the young adults of Study 1 and exerted comparable buffer effects on compromised levels of life satisfaction and the occurrence of cold symptoms in Study 3. Of importance, the observed changes in life satisfaction mediated the buffer effect of goal reengagement on levels of cold symptoms. These findings indicate that although goal reengagement tendencies did not influence physical health as a main effect, engaging in new goals can buffer the negative effects of poor goal disengagement on subjective well-being and physical health.
+Remaining Issues
+Although the obtained findings are largely consistent with the assumption that goal disengagement tendencies
+
+Downloaded from psp.sagepub.com at Bobst Library, New York University on January 15, 2015
+
+262 PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+can influence physical health, they also point to remaining inconsistencies with our original hypotheses. For example, the main effect of goal reengagement did not predict physical health and it seems important to begin to provide an explanation for this pattern of results. In addition, the role played by goal reengagement tendencies in adaptive self-regulation needs to be further addressed given that buffer effects of goal reengagement have not been consistently observed for predicting different indicators of quality of life across different samples.
+A possible explanation for the differential effects of goal disengagement and goal reengagement on indicators of physical health may be that these two self-regulation tendencies are differentially associated with positive and negative aspects of subjective well-being. Such processes could indeed explain the unique effects of goal disengagement on physical health given that negative emotional states may take a greater toll on a person's physical health than a lack of positive aspects of subjective well-being (for effects of negative and positive events and emotions on health outcomes, see Pressman & Cohen, 2005; Taylor, 1991). Although we did not formulate a priori assumptions about such effects, our theoretical model would be consistent with this explanation. For example, goal disengagement is primarily targeted at relieving psychological distress by reducing the importance of the inability to realize an unattainable goal (i.e., by convincing oneself that the unattainable goal is no longer desirable) and preventing repeated goal failure. The primary function of goal reengagement, by contrast, is to provide purpose for living, and thus, goal reengagement should increase positive aspects of subjective well-being (for origins and functions of positive and negative emotions, see Carver & Scheier, 1990; Watson et al., 1988).
+In fact, previous studies have documented differential effects of goal disengagement and goal reengagement on indicators of subjective well-being. For example, Wrosch, Scheier, Miller, et al. (2003) reported that associations with purpose in life were found only for goal reengagement and not for goal disengagement. In addition, Bauer (2004) demonstrated that only goal disengagement (and not goal reengagement) predicted negative affect, whereas positive emotional states were associated only with goal reengagement (and not with goal disengagement). The presented results further support this argument by indicating that individual differences in goal disengagement tendencies were associated with depression and changes in emotional distress but not with changes in life satisfaction.
+However, we note that the pattern of results found in previous studies is not always consistent with this explanation, in that goal reengagement also predicted low
+
+levels of depression and goal disengagement has been shown to be associated with self-mastery (Wrosch, Scheier, Miller, et al., 2003). These inconsistencies may be due a secondary function of goal disengagement that involves freeing of resources that can be used to attain other goals (which should increase positive aspects of subjective well-being) and the possibility that new goals can function as substitutes (Atkinson & Birch, 1970) and thereby may relieve some distress by changing a person's focus on success versus failure. In fact, such attentional shifts have been discussed in the emotion literature as a means of regulating negative affect (Gross, 1999) and may make it easier for a person to accept that a certain goal can no longer be pursued.
+In addition, goal disengagement and goal reengagement tendencies can be associated with the same indicator of subjective well-being because the well-being construct represents a hybrid, incorporating positive and negative aspects of subjective well-being. For example, the perceived stress scale used in Study 1 (Cohen et al., 1983) included items measuring negative aspects of subjective well-being (e.g., felt nervous and stressed) but also positive aspects of subjective well-being, such as perceived control (e.g., felt that you were on top of things). Thus, it is not surprising that the results of Study 1 showed perceived stress to be associated with both goal disengagement and goal reengagement and that the indirect effect of goal disengagement on physical health was weaker for perceived stress than for depression. In fact, additionally conducted partial correlations showed that the significant association between goal disengagement and physical health (found in Study 1) was rendered nonsignificant if we controlled for the negatively formulated items of the perceived stress scale (p = .10) but not if we controlled for the positively formulated items of the perceived stress scale (p < .05).
+Also to be considered is the role played by goal reengagement in the association between goal disengagement capacities and indicators of quality of life given that buffering effects of goal reengagement have not been observed consistently across different samples. In this regard, a review of our studies indicates that buffering effects of goal reengagement were found only in samples that included young adults but not in samples of older adults (see Wrosch, Scheier, Miller, et al., 2003, and results sections of Studies 1 and 3). An explanation for these results may be found in the nature of alternative goals in which young and older adults engage. For example, as compared to older adults, young adults have more time left to live and therefore select more frequently instrumental goals that facilitate long-term developmental projects (Carstensen, Isaacowitz, & Charles, 1999). It seems plausible that the pursuit of
+
+Downloaded from psp.sagepub.com at Bobst Library, New York University on January 15, 2015
+
+Wrosch et al. / GOAL ADJUSTMENT AND HEALTH 263
+
+such long-term goals is particularly well suited to relieve the negative consequences of failure in goal disengagement given that long-term goals may provide purpose for living, even when short-term progress toward a goal is difficult to achieve.
+Furthermore, it is interesting to note that buffering effects of goal reengagement on subjective well-being have only been demonstrated with respect to measures that include at least some positive aspects of a person's subjective well-being, such as self-mastery or emotional balance, but not for measures such as intrusions or emotional distress (see Wrosch, Scheier, Miller, et al., 2003, and results of Study 1). Given that people usually have limited resources available to pursue their personal goals, we would suggest that the continued pursuit of an unattainable goal can prevent a person from engaging with other meaningful goals and thereby reduce positive aspects of the person's well-being. In such situations, high levels of goal reengagement tendencies may be particularly needed to help stabilize a person's well-being.
+Finally, we note that our approach focuses on selfrelevant and desired goals that can no longer be pursued and does not distinguish between different types of goals. In this regard, future research should consider relevant additional factors that could influence the goal adjustment process. For example, there may be other (less important) goals that must be abandoned because they prevent a person from attaining more important goals. In addition, there may be goals that must be avoided to prevent maladaptive consequences (e.g., going to a bar for an alcoholic). Moreover, some goals may be more difficult to abandon than others, and not all types of new goals may facilitate the goal adjustment process to the same extent. For example, we have suggested that it may be more difficult for a person to adjust those goals that are highly important or that are central to the person's self-definition (Carver & Scheier, 1999, 2005; Wrosch, Scheier, Carver, et al., 2003). In addition, research showed that people sometimes adopt the new goal of mere project completion if they have difficulty with goal attainment, which may contribute to the continued pursuit of an unattainable goal (Garland & Conlon, 1998).
+In sum, the reported research has demonstrated a link between adaptive goal disengagement tendencies and better physical health that was mediated by differences in psychological well-being. In addition, adaptive goal reengagement tendencies were shown to buffer the effects of poor disengagement on subjective well-being and physical health, under some circumstances. Although some of the processes underlying adaptive goal adjustment need to be clarified more completely through future research, we conclude that people's capacities of adjusting to unattainable goals are important personality
+
+factors in determining subjective well-being and physical health.
+NOTES
+1. Across the reported studies, we excluded participants from the analyses who had missing data in the outcome variables or in the main predictor variables. Missing data associated with control variables were replaced with the mean of the sample. In Study 1, eight participants misunderstood the instruction of the goal adjustment scales and were excluded from the analyses (they checked the items instead of the scale points of the Likert scales). In addition, we obtained missing data with respect to partnership status (1 participant) and education (4 participants).
+2. We note that the analyses also revealed a significant three-way interaction between goal disengagement, goal reengagement, and age, but only for predicting perceived stress, F(1, 122) = 8.42, p < .01. Analyses of the simple slopes conducted for younger and older adults separately showed that goal disengagement was significantly associated with reduced levels of perceived stress, but only among young adults who had difficulty with goal reengagement ( = -.35, p < .05) and among older adults who tend to reengage in new goals ( = -.46, p < .05). Similar to previously published work, these findings indicate that goal reengagement can buffer the negative effects of failure with disengagement among young adults, whereas goal disengagement is adaptive only among older adults who are able to engage in new goals (for a more comprehensive discussion of age effects, see Wrosch, Scheier, Miller, Schulz, & Carver, 2003).
+3. We note that the dichotomous variable of goal disengagement group also significantly predicted a steeper slope of diurnal cortisol secretion (B = -.0138, SE = .0060, t = -2.28, p < .05). In addition, we note that Figure 1 presents raw cortisol data to make the results more interpretable. It should be noted that the analyses that were conducted used log-transformed scores, which causes a nearly linear transformation of the variables. Thus, the apparent curvilinear effect present in Figure 1 pertains only to the raw cortisol values and is not inherent in the log-transformed data that were analyzed.
+4. Only age was associated with an increase in life satisfaction (r = .24, p = .06), and being single was correlated with a decrease in emotional upset (r = -.23, p = .07) and an increase in guilt (r = .31, p = .01). Sex and year of program were not related to any of the outcome variables (ps > .10) and were not included in the analyses. In addition, one participant did not answer the measures of emotional well-being toward the end of the semester (T2) and was excluded from the analyses.
+5. Study 3 also included a measure of neuroticism (Goldberg, 1992). Although neuroticism reduced the effect of goal disengagement on general health problems to a nonsignificant effect, R2 = .08,  = -.32, p < .05, it did not significantly reduce the effect of goal disengagement on sleep problems or cold symptoms. These results are similar conceptually to those reported for negative affectivity in Study 1. Although we controlled for negative affectivity and neuroticism to account for potential biases in self-reported health problems, we note that it also would be possible to conceptualize negative affectivity as an indicator of subjective well-being that could play a meaningful role in the association between goal adjustment tendencies and physical health. Because in neither study did neuroticism or negative affectivity mediate the effects of goal disengagement on all health measures, they are unlikely to play a major role in the processes under consideration.
+REFERENCES
+Afari, N., Schmaling, K. B., Barnhart, S., & Buchwald, D. (2001). Psychiatric comorbidity and functional status in adult patients with asthma. Journal of Clinical Psychology in Medical Settings, 8, 254-252.
+
+Downloaded from psp.sagepub.com at Bobst Library, New York University on January 15, 2015
+
+264 PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+Aiken, L. S., & West, S. G. (1991). Multiple regression: Testing and interpreting interactions. Newbury Park, CA: Sage.
+Andresen, E. M., Malmgren, J. A., Carter, W. B., & Patrick, D. L. (1994). Screening for depression in well older adults: Evaluation of a short form of the CES-D (Center for Epidemiologic Studies Depression Scale). American Journal of Preventative Medicine, 10, 77-84.
+Atkinson, J. W., & Birch, D. (1970). The dynamics of action. New York: John Wiley.
+Bandura, A. (1997). Self-efficacy: The exercise of control. New York: Freeman.
+Bauer, I. (2004). Unattainable goals across adulthood and old age: Benefits of goal adjustment capacities on well-being. Master's thesis, Concordia University, Montreal, Canada.
+Brandtstadter, J., & Renner, G. (1990). Tenacious goal pursuit and flexible goal adjustment: Explication and age-related analysis of assimilative and accommodative strategies of coping. Psychology and Aging, 5, 58-67.
+Buysse, D. J., Reynolds, C. R., Monk, T. H., Berman, S. R., & Kupfer, D. J. (1989). The Pittsburgh Sleep Quality Index. Psychiatry Research, 28, 193-213.
+Carstensen, L. L., Isaacowitz, D. M., & Charles, S. T. (1999). Taking time seriously: A theory of socioemotional selectivity. American Psychologist, 54, 165-181.
+Carver, C. S., & Scheier, M. F. (1981). Attention and self-regulation: A control-theory approach to human behavior. New York: Springer-Verlag.
+Carver, C. S., & Scheier, M. F. (1990). Origins and functions of positive and negative affect: A control-process view. Psychological Review, 97, 19-35.
+Carver, C. S., & Scheier, M. F. (1998). On the self-regulation of behavior. New York: Cambridge University Press.
+Carver, C. S., & Scheier, M. F. (1999). Several more themes, a lot more issues: Commentary on the commentaries. In R. S. Wyer, Jr. (Ed.), Advances in social cognition (Vol. 12, pp. 261-302). Mahwah, NJ: Lawrence Erlbaum.
+Carver, C. S., & Scheier, M. F. (2005). Engagement, disengagement, coping, and catastrophe. In A. Elliot & C. Dweck (Eds.), Handbook of competence and motivation (pp. 527-547). New York: Guilford.
+Clements, A. D., & Parker, C. R. (1998). The relationship between salivary cortisol concentrations in frozen versus mailed samples. Psychoneuroendocrinology, 23, 613-616.
+Cohen, S., Doyle, W. J., Turner, R. B., Alper, C. M., & Skoner, D. P. (2003). Emotional style and susceptibility to the common cold. Psychosomatic Medicine, 65, 652-657.
+Cohen, S., Kamarck, T., & Mermelstein, R. (1983). A global measure of perceived stress. Journal of Health and Social Behavior, 24, 385-396.
+Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The satisfaction with life scale. Journal of Personality Assessment, 49, 71-75.
+Duke, J., Leventhal, H., Brownlee, S., & Leventhal, E. A. (2002). Giving up and replacing activities in response to illness. Journal of Gerontology: Psychological Sciences, 57B, 367-376.
+Emmons, R. A. (1985). Personal strivings: An approach to personality and subjective well-being. Journal of Personality and Social Psychology, 51, 1058-1068.
+Garland, H., & Conlon, D. E. (1998). Too close to quit: The role of project completion in maintaining commitment. Journal of Applied Social Psychology, 28, 2025-2048.
+Goldberg, L. R. (1992). The development of markers for the Big Five factor structure. Psychological Assessment, 4, 26-42.
+Gollwitzer, P. M., Heckhausen, H., & Steller, B. (1990). Deliberative and implemental mind-sets: Cognitive tuning toward congruous thoughts and information. Journal of Personality and Social Psychology, 59, 1119-1127.
+Gross, J. J. (1999). Emotion regulation: Past, present, future. Cognition and Emotion, 13, 551-573.
+Hamrick, N., Cohen, S., & Rodriguez, M. S. (2002). Being popular can be healthy or unhealthy: Stress, social network, diversity, and incidence of upper respiratory infection. Health Psychology, 21, 294-298.
+
+Heckhausen, J., & Schulz, R. (1995). A life-span theory of control. Psychological Review, 102, 284-304.
+Heckhausen, J., Wrosch, C., & Fleeson, W. (2001). Developmental regulation before and after passing a developmental deadline: The sample case of "biological clock" for child-bearing. Psychology and Aging, 16, 400-413.
+Heim, C., Ehlert, U., & Hellhammer, D. (2000). The potential role of hypocortisolism in the pathophysiology of stress-related bodily disorders. Psychoneuroendocrinology, 25, 1-35.
+Hull, J. G., Tedlie, J. C., & Lehn, D. A. (1992). Moderator variables in personality research: The problem of controlling for plausible alternatives. Personality and Social Psychology Bulletin, 18, 115-117.
+Kirschbaum, C., Kudielka, B. M., Gaab, J., Schommer, N. C., & Hellhammer, D. H. (1999). Impact of gender, menstrual cycle phase, and oral contraceptives on the activity of the hypothalamicpituitary-adrenal axis. Psychosomatic Medicine, 61, 154-162.
+Klinger, E. (1975). Consequences of commitment to and disengagement from incentives. Psychological Review, 82, 1-25.
+Kuhl, J. (1981). Motivational and functional helplessness: The moderating effect of state versus action orientation. Journal of Personality and Social Psychology, 40, 155-170.
+Kuhl, J., & Helle, P. (1986). Motivational and volitional determinants of depression: The degenerated-intention hypothesis. Journal of Abnormal Psychology, 95, 247-251.
+McEwen, B. S. (2003). Mood disorders and allostatic load. Biological Psychiatry, 54, 200-207.
+Miller, G. E., Cohen, S., & Ritchey, A. K. (2002). Chronic psychological stress and the regulation of pro-inflammatory cytokines: A glucocorticoid resistance model. Health Psychology, 21, 531-541.
+Nesse, R. M. (2000). Is depression an adaptation? Archives of General Psychiatry, 57, 14-20.
+Pomerantz, E. M., Saxon, J. L., & Oishi, S. (2000). The psychological trade-offs of goal investment. Journal of Personality and Social Psychology, 79, 617-630.
+Pressman, S. D., & Cohen, S. (2005). Does positive affect influence health? Psychological Bulletin, 131, 925-971.
+Scheier, M. F., Wrosch, C., Baum, A., Cohen, S., Martire, L. M., Matthews, K. A., et al. (2006). The Life Engagement Test: Assessing purpose in life. Journal of Behavioral Medicine, 29, 291-298.
+Segerstrom, S. C., & Miller, G. E. (2004). Stress and the human immune system: A meta-analytic review of 30 years of inquiry. Psychological Bulletin, 130, 601-630.
+Sephton, S. E., Sapolsky, R. M., Kraemer, H. C., & Spiegel, D. (2000). Diurnal cortisol rhythm as a predictor of breast cancer survival. Journal of the National Cancer Institute, 92, 994-1000.
+Stone, A. A., Schwartz, J., Smyth, J., & Kirschbaum, C. (2001). Individual differences in the diurnal cycle of salivary free cortisol: A replication of flattened cycles for some individuals. Psychoneuroendocrinology, 26, 295-306.
+Taylor, S. E. (1991). Asymmetrical effects of positive and negative events: The mobilization-minimization hypothesis. Psychological Bulletin, 110, 67-85.
+Tunali, B., & Power, T. G. (1993). Creating satisfaction: A psychological perspective on stress and coping in families of handicapped children. Journal of Child Psychology and Psychiatry and Allied Disciplines, 34, 945-957.
+Vitaliano, P. P., DeWolfe, D. J., Maiuro, R. D., Russo, J., & Katon, W. (1990). Appraised changeability of a stressor as a modifier on the relationship between coping and depression: A test of the hypothesis of fit. Journal of Personality and Social Psychology, 59, 582-592.
+Watson, D., Clark, L. A., & Tellegen, A. (1988). Development and validation of brief measures of positive and negative affect: The PANAS Scales. Journal of Personality and Social Psychology, 54, 1063-1070.
+Watson, D., & Pennebaker, J. W. (1989). Health complaints, stress, and distress: Exploring the central role of negative affectivity. Psychological Review, 96, 234-254.
+Wrosch, C., Bauer, I., & Scheier, M. F. (2005). Regret and quality of life across the adult life span: The influence of disengagement and available future goals. Psychology and Aging, 20, 657-670.
+
+Downloaded from psp.sagepub.com at Bobst Library, New York University on January 15, 2015
+
+Wrosch et al. / GOAL ADJUSTMENT AND HEALTH 265
+
+Wrosch, C., & Heckhausen, J. (1999). Control processes before and after passing a developmental deadline: Activation and deactivation of intimate relationship goals. Journal of Personality and Social Psychology, 77, 415-427.
+Wrosch, C, Scheier, M. F., Carver, C. S., & Schulz, R. (2003). The importance of goal disengagement in adaptive self-regulation: When giving up is beneficial. Self and Identity, 2, 1-20.
+Wrosch, C., Scheier, M. F., Miller, G. E., Schulz, R., & Carver, C. S. (2003). Adaptive self-regulation of unattainable goals: Goal disengagement,
+
+goal reengagement, and subjective well-being. Personality and Social Psychology Bulletin, 29, 1494-1508. Zeigarnik, B. (1938). On finished and unfinished tasks. In W. D. Ellis (Ed.), A source book of Gestalt psychology (pp. 300-314). New York: Harcourt, Brace & World.
+Received February 3, 2005 Revision accepted July 25, 3006
+
+Downloaded from psp.sagepub.com at Bobst Library, New York University on January 15, 2015
+
+

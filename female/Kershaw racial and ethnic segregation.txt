@@ -1,0 +1,912 @@
+American Journal of Epidemiology (c) The Author 2013. Published by Oxford University Press on behalf of the Johns Hopkins Bloomberg School of Public Health. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com.
+Original Contribution
+
+Vol. 177, No. 4 DOI: 10.1093/aje/kws372 Advance Access publication:
+January 20, 2013
+
+Racial and Ethnic Residential Segregation, the Neighborhood Socioeconomic Environment, and Obesity Among Blacks and Mexican Americans
+
+Downloaded from http://aje.oxfordjournals.org/ by guest on March 2, 2016
+
+Kiarri N. Kershaw*, Sandra S. Albrecht, and Mercedes R. Carnethon
+* Correspondence to Dr. Kiarri N. Kershaw, Department of Preventive Medicine, Feinberg School of Medicine, Northwestern University, 680 N Lake Shore Drive, Suite 1400, Chicago, IL 60611 (e-mail: k-kershaw@northwestern.edu).
+Initially submitted September 2, 2011; accepted for publication March 9, 2012.
+We used cross-sectional data on 2,660 black and 2,611 Mexican-American adult participants in the National Health and Nutrition Examination Survey (1999-2006) to investigate the association between metropolitan-level racial/ethnic residential segregation and obesity and to determine whether it was mediated by the neighborhood socioeconomic environment. Residential segregation was measured using the black and Hispanic isolation indices. Neighborhood poverty and negative income incongruity were assessed as mediators. Multilevel Poisson regression with robust variance estimates was used to estimate prevalence ratios. There was no relationship between segregation and obesity among men. Among black women, in age-, nativity-, and metropolitan demographic-adjusted models, high segregation was associated with a 1.29 (95% confidence interval (CI): 1.00, 1.65) times higher obesity prevalence than was low segregation; medium segregation was associated with a 1.35 (95% CI: 1.07, 1.70) times higher obesity prevalence. Mexican-American women living in high versus low segregation areas had a significantly lower obesity prevalence ( prevalence ratio, 0.54; 95% CI: 0.33, 0.90), but there was no difference between those living in medium versus low segregation areas. These associations were not mediated by neighborhood poverty or negative income incongruity. These findings suggest variability in the interrelationships between residential segregation and obesity for black and Mexican-American women.
+health disparities; obesity; residential segregation; social environment
+Abbreviations: CI, confidence interval; MSA, metropolitan statistical area; NHANES, National Health and Nutrition Examination Survey.
+
+Although the overall prevalence of obesity has increased steadily in the United States over the last 3 decades, the burden of obesity is larger for non-Hispanic blacks and Mexican Americans, particularly women (1). A growing number of studies have suggested that aspects of the residential environment, such as neighborhood poverty and limited access to health-promoting resources, may play a significant role in driving these disparities (2-7). Metropolitanlevel racial or ethnic residential segregation is a process that leads to the differential spatial distribution of individuals by race or ethnicity (8-10). It has been hypothesized to impact health by systematically sorting racial/ethnic minorities into poor-quality neighborhoods, thereby limiting opportunities for social and economic mobility (8, 11). However, the mediating influence of these neighborhood pathways on the
+
+relationship between segregation and health has remained largely untested in the literature (9, 12).
+Most studies of residential segregation and health have focused on non-Hispanic blacks and/or black-white disparities. Research has generally shown that blacks living in more segregated metropolitan areas have worse health outcomes (12-15). Generations spent living in areas with poor-quality schools, enduring spatial isolation from highpaying entry-level jobs, having limited healthy food options, and living in areas of concentrated poverty are all thought to contribute to the adverse impact of segregation on health among blacks (7, 10, 16, 17). In the 2 studies specific to obesity outcomes among blacks, findings were not stratified by sex (13, 14), so it is not known whether the relationship between segregation and obesity varies by sex.
+
+299 Am J Epidemiol. 2013;177(4):299-309
+
+300 Kershaw et al.
+
+Downloaded from http://aje.oxfordjournals.org/ by guest on March 2, 2016
+
+Among Hispanics, very few studies have investigated the relationship between metropolitan-level segregation and health (18-20), and to our knowledge none have focused on obesity. Given the continuous influx of Hispanic immigrants into the United States, the forces driving residential segregation among Hispanics may be different from those driving spatial concentration among blacks. Although both Hispanics and blacks are victims of discriminatory housing practices that contribute to segregation (21), for Hispanics, particularly immigrants, residence among people of the same ethnicity may also be a matter of choice due to preferences for culturally specific resources and the availability of social networks that facilitate adjustment to a new country (22). The presence of these potentially health-promoting structural and social resources in segregated Hispanic areas may confer health benefits to residents. However, it remains unclear whether these resources are sufficient to offset the negative health consequences of socioeconomic deprivation that also characterizes Hispanic segregation (23).
+Using data from the 1999-2006 National Health and Nutrition Examination Survey (NHANES), we tested whether metropolitan-level racial/ethnic residential segregation was associated with obesity among non-Hispanic black and Mexican-American adult men and women. We also evaluated whether this association was mediated by differences in neighborhood poverty or by differences in negative income incongruity, defined as living in a higher poverty neighborhood than whites of comparable socioeconomic position.
+MATERIALS AND METHODS
+Study population
+NHANES is a multistage stratified probability sample of US households designed to examine health and nutrition in children and adults (24). Data used in the present analyses came from the 1999-2006 repeated, cross-sectional NHANES. We included non-Hispanic black and MexicanAmerican participants aged 25 years or older who resided in metropolitan statistical areas (MSAs) in our analyses. The number of Hispanic participants of non-Mexican descent was too small to assess them as a separate group. In light of previous research suggesting heterogeneity in the relationship between segregation and health by Hispanic subgroup (25, 26), we decided to exclude other Hispanics rather than combine them with Mexican Americans. Approximately 10% of all US MSAs were represented in NHANES. Blacks and Mexican-Americans were well represented across the sampled MSAs. The median sample size of blacks across the metropolitan areas was 73 (interquartile range: 42-145), and the median sample size of Mexican Americans was 107 (interquartile range: 58-270). The National Center for Health Statistics Research Ethics Review Board approved NHANES, and informed consent was obtained from all participants.
+Of the 6,054 eligible black and Mexican-American men and women, 12.7% were excluded because we were missing data on their height or weight or because they were pregnant at the time weight was measured. An additional 7.1% were excluded because of missing data on educational
+
+level or income. We used listwise deletion to handle missing data, yielding 1,296 black men. 1,364 black women, 1,346 Mexican-American men, and 1,265 Mexican-American women for the analyses. Findings from sensitivity analyses were similar to those in which we included participants with missing educational level or income data.
+
+Measures
+
+Obesity. Body mass index (weight (kg)/height (m)2) was calculated based on clinically measured height and weight. Participants were considered obese if they had a body mass index of 30 or higher.
+Racial/ethnic residential segregation. Racial/ethnic residential segregation was measured based on 2000 US census data using the black isolation index for blacks and the Hispanic isolation index for Mexican Americans (27). The isolation index is a measure of the exposure dimension of segregation (28), which is hypothesized to lead to health disparities by concentrating poverty among minorities and leaving them more vulnerable to the adverse health outcomes associated with living in disadvantaged neighborhoods (8). Census tracts were used as proxies for neighborhoods in these analyses. The black/Hispanic isolation index is defined as the average percentage of the population that is black/Hispanic in the neighborhood which the average black/Hispanic person lives within a given metropolitan area. It is represented mathematically as follows (28):
+
+Isolation
+
+index
+
+1/4
+
+x
+
+PxA
+
+1/4
+
+Xn
+
+hxiixi
+
+ ;
+
+i1/41 X ti
+
+where xi is the number of blacks/Hispanics in tract i, ti is the total population in neighborhood i, and X is the number of blacks/Hispanics in the metropolitan area. This proportion is then summed across all n neighborhoods (tracts) in the MSA. MSAs are geographic entities consisting of large urban areas and surrounding counties that have social or economic ties with the urban core. They were chosen as the geographic context in which to measure segregation because they are designed to represent regional housing and labor markets that help shape residential segregation and its potential impact on differential disadvantage and adverse health outcomes (9). There was a nonlinear relationship between segregation and obesity, so the black/Hispanic isolation indices were categorized as low (0.3), medium (0.31-0.6), and high (>0.6). This categorization has been used in other studies of segregation (16, 29, 30).
+Covariates. Individual levels of education were measured as the highest level completed and categorized as less than high school, high school, and more than high school. Mean annual family income was broken into the following categories: less than $20,000, $20,000-$44,999, and $45,000 or more. Age was mean-centered and analyzed continuously. An age squared term was included to account for the nonlinearity between age and obesity. Nativity was dichotomized as foreign-born versus US-born.
+Neighborhood poverty was measured as the percentage of the population living below the 1999 US Census
+
+Am J Epidemiol. 2013;177(4):299-309
+
+Residential Segregation, Neighborhood, and Obesity 301
+
+Table 1. Characteristics of Non-Hispanic Black Study Participants, by Sex and Black Isolation Index Score Categorya, National Health and Nutrition Examination Survey, 1999-2006
+
+Variable
+Obesity Age, years Educational level, %
+Less than high school
+High school More than high
+school Annual family
+income, % <$20,000 $20,000-44,999 $45,000 Neighborhood
+poverty, mean % Negative income
+incongruityb, % Foreign born, %
+
+Low (n = 174) % Mean (SE) 32.9
+46.3 (0.9)
+22.0
+31.2 46.8
+
+21.3 38.3 40.4
+
+16.7 (1.5)
+
+10.9
+
+12.0
+
+Black Isolation Index Score Category by Sex
+
+Men (n = 1,296)
+
+Women (n = 1,364)
+
+Medium (n = 715)
+
+High (n = 407)
+
+Low (n = 140)
+
+Medium (n = 755)
+
+% Mean (SE) % Mean (SE) % Mean (SE) % Mean (SE)
+
+30.4
+
+35.3
+
+41.6
+
+52.7
+
+45.4 (0.5)
+
+44.6 (0.8)
+
+47.0 (1.1)
+
+46.7 (0.4)
+
+34.4
+
+28.5
+
+29.0
+
+30.1
+
+23.9 41.7
+
+24.3 47.3
+
+22.5 48.6
+
+23.1 46.9
+
+31.6
+
+27.4
+
+32.7
+
+38.2
+
+33.7
+
+34.1
+
+35.3
+
+33.8
+
+34.7
+
+38.5
+
+32.0
+
+28.0
+
+19.4 (1.2)
+
+19.7 (1.2)
+
+17.4 (2.0)
+
+20.3 (1.2)
+
+24.9
+
+21.4
+
+15.1
+
+21.7
+
+17.5
+
+7.4
+
+8.0 10.0
+
+High (n = 469) % Mean (SE) 51.7
+46.5 (1.0)
+30.7
+20.7 48.6
+
+36.8 30.6 32.6
+
+21.5 (1.3)
+
+22.6
+
+6.4
+
+Abbreviation: SE, standard error. a The black isolation index score was categorized as low (0.3), medium (0.3-0.6), or high (>0.6). b Negative income incongruity represents the percentage of participants living in a neighborhood with a mean poverty level 1 standard
+deviation or more higher than that for non-Hispanic white National Health and Nutrition Examination Survey participants with the same level of
+education and marital status.
+
+Downloaded from http://aje.oxfordjournals.org/ by guest on March 2, 2016
+
+Bureau-defined poverty threshold (31) and modeled continuously. To provide a more meaningful interpretation of this measure, neighborhood poverty was mean-centered, and estimates corresponded to a difference equivalent to a 10% increase in neighborhood poverty. Neighborhood-level negative income incongruity was included to assess whether racial and ethnic residential segregation impacted obesity by altering residential returns on individual income (32). Research indicates that because of race-based discriminatory housing and lending practices, blacks living in more integrated neighborhoods tend to live in neighborhoods with whites who have lower income levels than their own (33). As a result, racial and ethnic residential segregation may limit the ability of certain minority groups to convert their higher socioeconomic status into a better quality neighborhood environment. Negative income incongruity is defined as living in a lower-income neighborhood than do whites of comparable socioeconomic status (32). In these analyses, we defined negative income incongruity dichotomously as living in a neighborhood with an over 1-standard-deviationhigher mean neighborhood poverty than white NHANES participants with the same level of education and marital status (married or living together and unmarried). Neighborhood poverty and negative income incongruity were moderately correlated among Mexican Americans (Pearson r = 0.63) and blacks (Pearson r = 0.51).
+Am J Epidemiol. 2013;177(4):299-309
+
+Metropolitan area poverty levels (defined as the percentage of the population living below the 1999 US Census Bureau-defined poverty threshold (31)) and metropolitan area population size were included as potential metropolitan-level confounders.
+Analyses
+We modeled blacks and Mexican Americans separately. All analyses were further stratified by sex based on previous research that showed differences in the relation of adversity and stress with eating behaviors and weight between men and women (34, 35). Means with standard errors and frequencies were calculated for all continuous and categorical characteristics by level of segregation, taking into account the study design and unequal selection probabilities of the study participants.
+Multilevel Poisson regression modeling with robust variance estimates (36, 37) was used to estimate prevalence ratios of obesity associated with residential segregation. Three-level random intercept models (with random intercepts for tracts and counties) were initially examined to account for clustering at the levels at which NHANES participants were sampled. However, because the estimated county-level variances were near zero, 2-level random intercept models (with random intercepts for tracts) were
+
+302 Kershaw et al.
+
+Table 2. Characteristics of Mexican-American Study Participants, by Sex and Hispanic Isolation Index Score Categorya, National Health and Nutrition Examination Survey, 1999-2006
+
+Variable
+Obesity Age, years Educational
+level, % Less than high
+school High school More than high
+school Annual family
+income, % <$20,000 $20,000-44,999 $45,000 Neighborhood
+poverty, mean % Negative income
+incongruityb, % Foreign born, %
+
+Low (n = 272) % Mean (SE) 24.3
+38.1 (1.0)
+55.8 19.0 25.2
+31.3 43.6 25.1
+15.0 (1.1) 26.0 74.2
+
+Hispanic Isolation Index Score Category by Sex
+
+Men (n = 1,346)
+
+Women (n = 1,265)
+
+Medium (n = 728)
+
+High (n = 346)
+
+Low (n = 227)
+
+Medium (n = 692)
+
+High (n = 346)
+
+% Mean (SE) % Mean (SE) % Mean (SE) % Mean (SE) % Mean (SE)
+
+30.7 31.7 43.5 41.0 37.2
+
+40.3 (0.4)
+
+43.5 (0.6)
+
+40.8 (1.2)
+
+42.1 (0.5)
+
+45.5 (0.9)
+
+62.0 50.7 47.1 53.9 49.9
+16.7 18.0 20.0 18.8 17.5 21.3 31.3 32.9 27.3 32.6
+
+32.2 39.4 28.5
+16.1 (0.8)
+
+36.6 38.4 25.0
+24.0 (1.0)
+
+32.3 33.0 34.7
+15.0 (1.8)
+
+29.3 35.7 35.0
+15.8 (0.6)
+
+41.0 34.1 24.9
+23.8 (1.7)
+
+28.2 38.8 23.1 25.6 39.6
+
+69.4 64.6 58.3 63.0 59.0
+
+Abbreviation: SE, standard error. a The Hispanic isolation index score was categorized as low (0.3), medium (0.3-0.6), or high (>0.6). b Negative income incongruity represents the percentage of participants living in a neighborhood with a mean poverty level 1 standard
+deviation or more higher than that for non-Hispanic white National Health and Nutrition Examination Survey participants with the same level of
+education and marital status.
+
+Downloaded from http://aje.oxfordjournals.org/ by guest on March 2, 2016
+
+fitted: 1,296 black male participants were nested in 633 tracts; 1,364 black female participants were nested in 617 tracts; 1,346 Mexican-American men were nested in 600 tracts; and 1,265 Mexican-American women were nested in 592 tracts. The median number of participants per tract was 3. A recent simulation study showed that small cluster sizes had little impact on the point estimates or confidence intervals when large numbers of level-2 units were included (38).
+The first model (model 1) was adjusted for age, segregation, nativity (foreign-born vs. US-born), metropolitan area poverty level, and metropolitan area population size. Model 2 was further adjusted for individual-level income and educational level. Models 3 and 4 included neighborhood poverty and negative income incongruity, respectively. We also tested whether the association between segregation and obesity varied by nativity status by including segregationnativity interaction terms. Individual-level sampling weights were incorporated into the multilevel models to account for the study design and unequal selection probabilities. These weights were scaled so that the new weights summed to the level-2 (census tract) cluster sample size (39). Level-2 weights (to account for selection probabilities of the census tracts) were unavailable and were thus set to 1 in these analyses. All multilevel analyses were conducted using the
+
+GLLAMM program (40) in Stata, version 11 (StataCorp LLP, College Station, Texas). The geographic identifiers used in these analyses are restricted-use variables and were accessed through the National Center for Health Statistics Research Data Center.
+RESULTS
+Table 1 presents descriptive statistics by level of racial segregation for black men and women. Obesity prevalence was similar for black men across levels of segregation. Among black women, obesity was more prevalent among women living in medium (52.7%) and high (51.7%) segregation areas compared with women living in low segregation areas (41.6%). Income and educational level were lower and neighborhood poverty and negative income incongruity were higher for black men and women living in high segregation areas compared with those living in low segregation areas. A smaller percentage of foreign-born black men and women lived in high segregation areas.
+Obesity prevalence was higher for Mexican-American men living in more segregated MSAs than for men living in less segregated MSAs (Table 2; 31.7% versus 24.3%). The opposite was observed for Mexican-American women (37.2% in high segregation areas versus 43.5% in low
+Am J Epidemiol. 2013;177(4):299-309
+
+Residential Segregation, Neighborhood, and Obesity 303
+
+Table 3. Prevalence Ratios of Obesity Among Black Men Associated With Black Isolation Index Categories and Other Covariates, National Health and Nutrition Examination Survey, 1999-2006a
+
+Characteristic
+Black isolation indexd High Medium Low
+Foreign born Educational level
+Less than high school High school More than high
+school Income
+<$20,000 $20,000-44,999 $45,000 Neighborhood poverty Negative income
+incongruity
+
+Model 1b
+
+Prevalence Ratio
+
+95% CIc
+
+1.15
+
+0.85, 1.56e
+
+1.04
+
+0.79, 1.36
+
+1.00
+
+Referent
+
+0.53
+
+0.37, 0.77
+
+Model 2
+
+Prevalence Ratio
+
+95% CI
+
+1.18
+
+0.88, 1.60
+
+1.06
+
+0.81, 1.39
+
+1.00
+
+Referent
+
+0.54
+
+0.37, 0.78
+
+0.97
+
+0.77, 1.22
+
+1.05
+
+0.84, 1.31
+
+1.00
+
+Referent
+
+0.75
+
+0.58, 0.96
+
+0.87
+
+0.71, 1.06
+
+1.00
+
+Referent
+
+Model 3
+
+Prevalence Ratio
+
+95% CI
+
+1.19
+
+0.88, 1.60
+
+1.06
+
+0.81, 1.38
+
+1.00
+
+Referent
+
+0.53
+
+0.36, 0.77
+
+1.01
+
+0.80, 1.28
+
+0.90
+
+0.73, 1.10
+
+1.00
+
+Referent
+
+0.79
+
+0.61, 1.03
+
+0.90
+
+0.73, 1.10
+
+1.00
+
+Referent
+
+0.94
+
+0.86, 1.02
+
+Model 4
+
+Prevalence Ratio
+
+95% CI
+
+1.19
+
+0.88, 1.60
+
+1.07
+
+0.81, 1.39
+
+1.00
+
+Referent
+
+0.54
+
+0.37, 0.78
+
+1.02
+
+0.74, 1.42
+
+1.05
+
+0.84, 1.31
+
+1.00
+
+Referent
+
+0.75
+
+0.58, 0.96
+
+0.87
+
+0.71, 1.06
+
+1.00
+
+Referent
+
+0.92
+
+0.64, 1.32
+
+Abbreviation: CI, confidence interval. a Estimates were derived from a 2-level random intercept model, as described in the text. b All models were adjusted for age, age squared, metropolitan area poverty level, and metropolitan area population size. c P value is only presented for model 1 because results were similar for the other models. d Black isolation index score was categorized as low (0.3), medium (0.3-0.6), or high (>0.6). e P for joint test of significance = 0.53.
+
+Downloaded from http://aje.oxfordjournals.org/ by guest on March 2, 2016
+
+segregation areas). Mexican-American men and women living in high segregation MSAs lived in higher poverty neighborhoods, and they lived in neighborhoods with higher negative income incongruity than did those in low segregation MSAs.
+In unadjusted and adjusted models, there was no association between level of segregation and obesity among black men (Table 3). Educational level and both neighborhood socioeconomic variables were unassociated with obesity among black men, but income was inversely related to obesity. Higher segregation was significantly associated with higher obesity prevalence among black women after adjustment for age, nativity, and metropolitan-level confounders (Table 4). Specifically, black women living in medium segregation areas had significantly higher obesity prevalence compared with those in low segregation areas ( prevalence rate: 1.35; 95% confidence interval (CI): 1.07, 1.70). Results were slightly weaker for persons in high segregation areas than for those in low segregation areas ( prevalence rate: 1.29; 95% CI: 1.00, 1.65). These associations remained essentially unchanged after adjustment for individual socioeconomic position, neighborhood poverty, and negative income incongruity. An examination of segregation-nativity interaction terms suggested that these findings did not vary by country of birth for black men or women.
+Am J Epidemiol. 2013;177(4):299-309
+
+There was no association between segregation and obesity among Mexican-American men in any of the models (Table 5). Among Mexican-American women, higher segregation was associated with lower obesity prevalence after adjustment for age, nativity, and metropolitan-level confounders (Table 6). Specifically, Mexican-American women living in high segregation MSAs were 0.54 (95% CI: 0.33, 0.90) times less likely to be obese than women in low segregation MSAs, whereas there was no significant difference between those living in medium and low segregation MSAs (prevalence rate: 0.86; 95% CI: 0.67, 1.11). These associations remained unchanged after adjustment for all other covariates despite the positive associations of income, neighborhood poverty, and negative income incongruity with obesity. The segregation-nativity interaction terms were not significant, suggesting that these findings did not vary by country of birth for Mexican-American men or women.
+DISCUSSION
+We investigated the association between metropolitanlevel racial/ethnic residential segregation and obesity prevalence among non-Hispanic black and Mexican-American men and women. There was no association of residential segregation with obesity among black or Mexican-American
+
+304 Kershaw et al.
+
+Table 4. Prevalence Ratios of Obesity Among Black Women Associated With Black Isolation Index Categories and Other Covariates, National Health and Nutrition Examination Survey, 1999-2006a
+
+Characteristic
+Black isolation indexd
+High Medium Low Foreign born Educational level Less than high
+school High school More than high
+school Income
+<$20,000 $20,000-44,999 $45,000 Neighborhood
+poverty Negative income
+incongruity
+
+Model 1b
+
+Prevalence Ratio
+
+95% CIc
+
+Model 2
+
+Prevalence Ratio
+
+95% CI
+
+1.29 1.00, 1.65e 1.30
+
+1.35 1.07, 1.70
+
+1.35
+
+1.00 Referent 1.00
+
+0.58 0.43, 0.79
+
+0.57
+
+0.96
+1.01 1.00
+
+1.01, 1.66 1.07, 1.71 Referent 0.42, 0.77
+0.83, 1.10
+0.87, 1.16 Referent
+
+1.03 0.88, 1.21 1.18 1.02, 1.36 1.00 Referent
+
+Model 3
+
+Prevalence Ratio
+
+95% CI
+
+1.29
+
+1.01, 1.66
+
+1.35
+
+1.07, 1.71
+
+1.00
+
+Referent
+
+0.58
+
+0.43, 0.78
+
+0.95
+
+0.83, 1.09
+
+1.00 1.00
+
+0.87, 1.15 Referent
+
+1.01
+
+0.86, 1.19
+
+1.17
+
+1.01, 1.35
+
+1.00
+
+Referent
+
+1.02
+
+0.97, 1.07
+
+Model 4
+
+Prevalence Ratio
+
+95% CI
+
+1.30
+
+1.02, 1.67
+
+1.36
+
+1.07, 1.72
+
+1.00
+
+Referent
+
+0.57
+
+0.42, 0.77
+
+1.04
+
+0.86, 1.27
+
+1.00 1.00
+
+0.87, 1.15 Referent
+
+1.04
+
+0.88, 1.22
+
+1.19
+
+1.03, 1.37
+
+1.00
+
+Referent
+
+0.89
+
+0.71, 1.11
+
+Abbreviation: CI, confidence interval. a Estimates were derived from a 2-level random intercept model as described in the text. b All models were adjusted for age, age squared, metropolitan area poverty level, and metropolitan area population size. c P value is only presented for model 1 because results were similar for the other models. d Hispanic isolation index score was categorized as low (0.3), medium (0.3-0.6), or high (>0.6). e P for joint test of significance = 0.04.
+
+Downloaded from http://aje.oxfordjournals.org/ by guest on March 2, 2016
+
+men. Among black women, higher segregation was associated with higher obesity prevalence, whereas the opposite relationship was found for Mexican-American women. Neither measure of the neighborhood socioeconomic environment attenuated associations of segregation with obesity for black or Mexican-American women.
+Few studies have examined sex differences in the relationship between contextual factors and health, but there is some support for these findings in the literature for other health outcomes (41-44). Reasons for these sex differences are not clear, but they may be due to differences in time spent in the neighborhoods or differential levels of involvement in the neighborhood (42). Women may be more likely to be homemakers or to work closer to home, leaving them more susceptible to both positive and negative environmental exposures in the neighborhoods in which they reside. Alternatively, some research has suggested that independent of employment status, sex-related patterns in socialization may promote greater engagement among women with their communities (45). As a result, women may be more likely than men to be beneficiaries of health-promoting aspects of the residential environment, but they may also be more vulnerable to more adverse contextual elements.
+
+Our differential results for black women compared with black men may also reflect differences in choice of stresscoping behaviors (46). One way to cope with the chronic disadvantage associated with residential segregation is to engage in behaviors that may reduce feelings of anxiety or stress at the expense of physical health (47-53). Women may use food to cope with chronic environmental stressors, whereas men may adopt behaviors that do not promote obesity (e.g., physical activity or cigarette smoking) (46). Therefore, chronic exposure to stressful circumstances may lead to disease through different pathways for men versus women.
+Our finding among black women is consistent with that from 2 national studies, in which investigators found that higher segregation was associated with higher mean body mass index and overweight/obesity (13, 14). Neither study stratified by sex, so it is unclear whether the segregationweight association was different for men and women. Another study also found no mediation by neighborhood poverty of the relationship between segregation and blackwhite disparities in hypertension, consistent with our own mediation analyses (12). Residential segregation is hypothesized to adversely influence socioeconomic and health
+Am J Epidemiol. 2013;177(4):299-309
+
+Residential Segregation, Neighborhood, and Obesity 305
+
+Table 5. Prevalence Ratios of Obesity Among Mexican-American Men Associated With Hispanic Isolation Index Categories and Other Covariates, National Health and Nutrition Examination Survey, 1999-2006a
+
+Hispanic isolation indexd
+High
+Medium
+Low
+Foreign born
+Educational level
+Less than high school
+High school
+More than high school
+Income
+<$20,000
+$20,000-44,999 $45,000
+Neighborhood poverty
+Negative income incongruity
+
+Model 1b
+
+Prevalence Ratio
+
+95% CIc
+
+Model 2
+
+Prevalence Ratio
+
+95% CI
+
+Model 3
+
+Prevalence Ratio
+
+95% CI
+
+Model 4
+
+Prevalence Ratio
+
+95% CI
+
+1.05
+
+0.61, 1.79e
+
+1.07
+
+0.63, 1.83
+
+1.08
+
+0.63, 1.83
+
+1.07
+
+0.63, 1.83
+
+1.14 0.87, 1.48
+
+1.13
+
+0.87, 1.48
+
+1.13
+
+0.87, 1.48
+
+1.13
+
+0.87, 1.48
+
+1.00 Referent 1.00 Referent 1.00 Referent 1.00 Referent
+
+0.66 0.54, 0.80
+
+0.62
+
+0.49, 0.77
+
+0.61
+
+0.49, 0.77
+
+0.62
+
+0.49, 0.77
+
+1.24 0.94, 1.64 1.23 0.93, 1.64 1.23 0.91, 1.67
+1.34 1.00, 1.81 1.34 1.00, 1.80 1.34 1.00, 1.81 1.00 Referent 1.00 Referent 1.00 Referent
+
+0.93 0.70, 1.25 0.92 0.68, 1.23 0.93 0.70, 1.24 1.12 0.88, 1.43 1.11 0.88, 1.42 1.12 0.88, 1.43 1.00 Referent 1.00 Referent 1.00 Referent
+1.03 0.93, 1.14
+
+1.01
+
+0.77, 1.33
+
+Abbreviation: CI, confidence interval. a Estimates were derived from a 2-level random intercept model as described in the text. b All models were adjusted for age, age squared, metropolitan area poverty level, and metropolitan area population size. c P value is only presented for model 1 because results were similar for the other models. d Hispanic isolation index score was categorized as low (0.3), medium (0.3-0.6), or high (>0.6). e P for joint test of significance = 0.57.
+
+Downloaded from http://aje.oxfordjournals.org/ by guest on March 2, 2016
+
+outcomes, particularly among blacks, by sorting them into low-opportunity neighborhoods (10, 11). Our study focused on the neighborhood socioeconomic environment, but it is possible that other neighborhood characteristics associated with obesity, like safety, neighborhood cohesion, or walkability (5), may better characterize the pathway through which segregation leads to higher obesity among black women. It is also possible that the negative income incongruity index, calculated based on the average distribution of neighborhood poverty across all MSAs, does not capture the full construct of racial neighborhood socioeconomic incongruity because variation between metropolitan areas is not being taking into account (54). Alternatively, given the persistence of residential segregation and the resultant transmission of concentrated poverty across generations for a large percentage of US blacks (55), it is possible that a cross-sectional study cannot adequately capture the pathways through which segregation impacts health.
+In contrast to what was seen in black women, we found high segregation to be associated with lower obesity prevalence in Mexican-American women in the fully adjusted model. To our knowledge, no study has focused on metropolitanlevel segregation and obesity among Mexican Americans,
+Am J Epidemiol. 2013;177(4):299-309
+
+but this inverse association is plausible based on the different sorting processes that may influence segregation patterns among Hispanics. For blacks, housing discrimination, discriminatory lending practices, and the construction of segregated housing projects by the government are the main causes of residential segregation (11, 28). A study of large metropolitan areas in the United States found that both Hispanics and blacks face housing discrimination in rental and sales markets (21). However, the continuous influx of Mexican-American immigrants into the United States stimulates the development and maintenance of ethnically segregated neighborhoods, or "immigrant enclaves." Enclaves ease the transition into the US labor market and facilitate retention of potentially health-promoting social and cultural networks (56). Moreover, despite high area-level poverty, enclaves have also been associated with high rates of labor force participation, intact family structures, and strong community institutions (57).
+Previous studies have demonstrated associations between Hispanic ethnic density and the availability of healthy food options and/or healthier diets (58-60). Hispanic residential concentration may reinforce commercial demand for traditional foods and ingredients (61) that may be healthier than the
+
+306 Kershaw et al.
+
+Table 6. Prevalence Ratios of Obesity Among Mexican-American Women Associated With Hispanic Isolation Index Categories and Other Covariates, National Health and Nutrition Examination Survey, 1999-2006a
+
+Hispanic isolation indexd
+High
+Medium
+Low
+Foreign born
+Educational level
+Less than high school
+High school
+More than high school
+Income
+<$20,000 $20,000-44,999 $45,000 Neighborhood poverty
+Negative income incongruity
+
+Model 1b
+
+Prevalence Ratio
+
+95% CIc
+
+Model 2
+
+Prevalence Ratio
+
+95% CI
+
+Model 3
+
+Prevalence Ratio
+
+95% CI
+
+Model 4
+
+Prevalence Ratio
+
+95% CI
+
+0.54 0.33, 0.90e 0.54 0.32, 0.90 0.56 0.34, 0.93 0.56 0.33, 0.93
+
+0.86 0.67, 1.11
+
+0.86 0.67, 1.11 0.88 0.69, 1.14 0.88 0.68, 1.12
+
+1.00 Referent 1.00 Referent 1.00 Referent 1.00 Referent
+
+0.87 0.74, 1.03
+
+0.79 0.66, 0.95 0.79 0.66, 0.94 0.79 0.66, 0.95
+
+1.09 0.88, 1.35 1.03 0.84, 1.28 0.98 0.77, 1.26
+0.90 0.69, 1.18 0.90 0.70, 1.17 0.90 0.70, 1.18 1.00 Referent 1.00 Referent 1.00 Referent
+
+1.21 0.97, 1.51 1.13 0.91, 1.41 1.19 0.95, 1.49
+
+1.10 0.89, 1.37 1.05 0.85, 1.31 1.09 0.88, 1.36
+
+1.00 Referent 1.00 Referent 1.00 Referent
+
+1.12
+
+1.04, 1.21
+
+1.21 0.98, 1.50
+
+Abbreviation: CI, confidence interval. a Estimates were derived from a 2-level random intercept model as described in the text. b All models were adjusted for age, age squared, metropolitan area poverty level, and metropolitan area population size. c P value is only presented for model 1 because results were similar for the other models. d Hispanic isolation index score was categorized as low (0.3), medium (0.3-0.6), or high (>0.6). e P for joint test of significance = 0.06.
+
+Downloaded from http://aje.oxfordjournals.org/ by guest on March 2, 2016
+
+higher-fat, more-processed "Westernized" alternatives. Because diet is a key determinant of obesity, a greater availability of resources to support healthy eating may be one pathway through which higher Hispanic segregation was associated with lower obesity prevalence among Mexican-American women in our analyses. Persistence of this association after adjustment for neighborhood socioeconomic conditions suggests that the health-promoting features associated with segregated Hispanic areas may offset some of the potentially adverse effects of living in high poverty neighborhoods.
+The present study is not without limitations. Although NHANES is a nationally representative survey, the small percentage of MSAs represented may limit the generalizability of our findings regarding the associations of segregation with obesity. However, NHANES primary sampling units are randomly selected from strata defined by geography and proportions of minority populations (62). Therefore, the MSAs in NHANES should be a good representation of the geographic and ethnic diversity of MSAs across the United States. In addition, the individual sample size of NHANES may have limited our power to detect larger associations of segregation with obesity. Data limitations also precluded use of a segregation measure more specific to Mexican Americans. As a result, these analyses rest on the assumption that potential
+
+health-promoting features of Hispanic concentration are uniformly present, regardless of the Hispanic subgroup that characterizes the segregation. However, estimates of the association between segregation and obesity among Mexican Americans could conceivably differ if the potential healthpromoting resources associated with Hispanic concentration vary by the Hispanic subgroup that constitutes that segregation. Examination of this heterogeneity was not possible with these data, but it does merit future inquiry.
+Another potential limitation is that the reliability of our assessment of mediation requires us to make assumptions that we cannot ensure are true. Mediation analyses may be biased if there is unmeasured confounding between the exposure and the outcome, the exposure and the mediator, or the intermediate and the outcome or if the exposure itself confounds the association between the mediator and the outcome (63). These assumptions cannot be tested using the data. Therefore, we must rely on a priori knowledge of the potential relevant confounders. We have adjusted for age, individual-level socioeconomic position, and metropolitan-level confounders, but other unmeasured confounders may be biasing our assessment of mediation.
+The present study is also limited by its cross-sectional design. Factors associated with obesity (e.g., health problems
+Am J Epidemiol. 2013;177(4):299-309
+
+Residential Segregation, Neighborhood, and Obesity 307
+
+Downloaded from http://aje.oxfordjournals.org/ by guest on March 2, 2016
+
+due to obesity or desire to live in areas with better opportunities to be physically active) may influence selection into metropolitan areas. Although we cannot rule out selection bias, the potential for this type of threat to validity is lower among metropolitan-level segregation studies than among neighborhood-level segregation studies (64). Another consequence of the cross-sectional design is that assessing this relationship at one point in time might not accurately capture the true impact of segregation on health over the life course. For example, the longitudinal process of segregation is hypothesized to limit educational opportunities, which may in turn have long-term socioeconomic consequences that could affect health (10).
+Few studies have examined the relationship between metropolitan-level residential segregation and obesity, particularly among Hispanics, and few have empirically examined mediation by neighborhood-level characteristics. Our findings point to the importance of the metropolitan- and neighborhood-level context in shaping obesity patterning among black and Mexican-American women. A better understanding of the neighborhood-level pathways through which residential segregation can lead to differential health outcomes may help point to effective policies and strategies for reducing obesity disparities.
+ACKNOWLEDGMENTS
+Author affiliations: Department of Preventive Medicine, Feinberg School of Medicine, Northwestern University, Chicago, Illinois (Kiarri N. Kershaw, Mercedes R. Carnethon); and Carolina Population Center, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina (Sandra S. Albrecht).
+This work was supported by grant T32-HL-069771-07. This research used data from the RAND Center for Population Health and Health Disparities, which is funded by grant 1-P50-ES012383 from the National Institute of Environmental Health Sciences. Further information about the Center for Population Health and Health Disparities is available at http://www.rand.org/health/centers/pophealth/ index.html. The research in this paper was conducted while Kiarri Kershaw was a Special Sworn Status researcher of the US Census Bureau at the Chicago Census Research Data Center.
+The findings and conclusions in this paper are those of the authors and do not necessarily represent the views of the Research Data Centers, the National Center for Health Statistics, or the Centers for Disease Control and Prevention.
+Conflict of interest: none declared.
+REFERENCES
+1. Flegal KM, Carroll MD, Ogden CL, et al. Prevalence and trends in obesity among US adults, 1999-2000. JAMA. 2002;288(14):1723-1727.
+2. Bleich SN, Thorpe RJ Jr, Sharif-Harris H, et al. Social context explains race disparities in obesity among women. J Epidemiol Community Health. 2010;64(5):465-469.
+Am J Epidemiol. 2013;177(4):299-309
+
+3. Burdette HL, Wadden TA, Whitaker RC. Neighborhood safety, collective efficacy, and obesity in women with young children. Obesity (Silver Spring). 2006;14(3):518-525.
+4. Dubowitz T, Ghosh-Dastidar M, Eibner C, et al. The Women's Health Initiative: the food environment, neighborhood socioeconomic status, BMI, and blood pressure. Obesity (Silver Spring). 2011;20(4):862-871.
+5. Mujahid MS, Roux AV, Shen M, et al. Relation between
+neighborhood environments and obesity in the Multi-Ethnic Study of Atherosclerosis. Am J Epidemiol. 2008;167(11): 1349-1357. 6. Inagami S, Cohen DA, Brown AF, et al. Body mass index, neighborhood fast food and restaurant concentration, and car ownership. J Urban Health. 2009;86(5):683-695. 7. Zenk SN, Schulz AJ, Israel BA, et al. Neighborhood racial composition, neighborhood poverty, and the spatial
+accessibility of supermarkets in metropolitan Detroit. Am J Public Health. 2005;95(4):660-667. 8. Acevedo-Garcia D, Lochner KA, Osypuk TL, et al. Future directions in residential segregation and health research: a multilevel approach. Am J Public Health. 2003;93(2): 215-221. 9. Kramer MR, Hogue CR. Is segregation bad for your health? Epidemiol Rev. 2009;31:178-194. 10. Williams DR, Collins C. Racial residential segregation: a fundamental cause of racial disparities in health. Public Health Rep. 2001;116(5):404-416. 11. Massey DS, Fischer MJ. How segregation concentrates poverty. Ethn Racial Stud. 2000;23(4):670-691. 12. Kershaw KN, Diez Roux AV, Burgard SA, et al. Metropolitan-level racial residential segregation and black-
+white disparities in hypertension. Am J Epidemiol. 2011; 174(5):537-545. 13. Chang VW. Racial residential segregation and weight
+status among US adults. Soc Sci Med. 2006;63(5): 1289-1303. 14. Corral I, Landrine H, Hao Y, et al. Residential segregation, health behavior and overweight/obesity among a national sample of African American adults. J Health Psychol. 2012;17(3):371-378. 15. Polednak AP. Black-white differences in infant mortality in
+38 standard metropolitan statistical areas. Am J Public Health. 1991;81(11):1480-1482. 16. Moore LV, Diez Roux AV. Associations of neighborhood
+characteristics with the location and type of food stores. Am J Public Health. 2006;96(2):325-331. 17. Massey DS. American apartheid: segregation and the making of the underclass. Am J Sociol. 1990;96(2):329-357. 18. Mellerson J, Landrine H, Hao Y, et al. Residential
+segregation and exercise among a national sample of Hispanic adults. Health Place. 2010;16(3):613-615. 19. Osypuk TL, Bates LM, Acevedo-Garcia D. Another Mexican
+birthweight paradox? The role of residential enclaves and neighborhood poverty in the birthweight of Mexican-origin infants. Soc Sci Med. 2010;70(4):550-560. 20. Walton E. Residential segregation and birth weight among racial and ethnic minorities in the United States. J Health Soc Behav. 2009;50(4):427-442. 21. Turner MA, Ross SL, Galster G, et al. Discrimination in
+metropolitan housing markets: National results from Phase 1 Housing Discrimination Study 2000. Washington, DC: Urban Institute; 2002. 22. Fernandez Kelly MP, Schauffler R. Divided fates: immigrant children and the new assimilation. In: Portes A, ed. The New Second Generation. New York, NY: Russell Sage Foundation; 1996:30-53.
+
+Downloaded from http://aje.oxfordjournals.org/ by guest on March 2, 2016
+
+308 Kershaw et al.
+
+23. Jargowsky PA. Poverty and Place: Ghettos, Barrios, and the American City. New York, NY: Russell Sage Foundation; 1997.
+24. Centers for Disease Control and Prevention, National Center for Health Statistics. National Health and Nutrition Examination Survey Data. Hyattsville, MD: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention; 1999-2006.
+25. Lee MA. Neighborhood residential segregation and mental health: a multilevel analysis on Hispanic Americans in Chicago. Soc Sci Med. 2009;68(11):1975-1984.
+26. Lee MA, Ferraro KF. Neighborhood residential segregation and physical health among Hispanic Americans: good, bad, or benign? J Health Soc Behav. 2007;48(2):131-148.
+27. RAND Center for Population Health and Health Disparities. Segregation Indices Data Series. Santa Monica, CA: RAND Corporation; 2006.
+28. Massey DS, Denton NA. The dimensions of residential segregation. Soc Forces. 1988;67(2):281-315.
+29. Grady SC. Racial disparities in low birthweight and the contribution of residential segregation: a multilevel analysis. Soc Sci Med. 2006;63(12):3013-3029.
+30. Wilkes R, Iceland J. Hypersegregation in the twenty-first century. Demography. 2004;41(1):23-36.
+31. Bureau of the Census. Current Population Survey, 1999. Washington, DC: Bureau of the Census; 1999.
+32. Collins JW Jr, Herman AA, David RJ. Very-low-birthweight infants and income incongruity among African American and white parents in Chicago. Am J Public Health. 1997;87(3): 414-417.
+33. Villemez WJ. Race, class, and neighborhood: differences in the residential return on individual resources. Soc Forces. 1980;59(2):414-430.
+34. Block JP, He Y, Zaslavsky AM, et al. Psychosocial stress and change in weight among US adults. Am J Epidemiol. 2009;170(2):181-192.
+35. Grunberg NE, Straub RO. The role of gender and taste class in the effects of stress on eating. Health Psychol. 1992; 11(2):97-100.
+36. Spiegelman D, Hertzmark E. Easy SAS calculations for risk or prevalence ratios and differences. Am J Epidemiol. 2005;162(3):199-200.
+37. Barros AJ, Hirakata VN. Alternatives for logistic regression in cross-sectional studies: an empirical comparison of models that directly estimate the prevalence ratio. BMC Med Res Methodol. 2003;3:21.
+38. Bell BA, Morgan GB, Kromrey JD, et al. The impact of small cluster size on multilevel models: A Monte Carlo examination of two-level models with binary and continuous predictors [abstract]. Presented at the Joint Statistical Meetings, Vancouver, Canada, July 31-August 5, 2010.
+39. Carle AC. Fitting multilevel models in complex survey data with design weights: recommendations. BMC Med Res Methodol. 2009;9:49.
+40. Rabe-Hesketh S, Skrondal A, Pickles A. Maximum likelihood estimation of limited and discrete dependent variable models with nested random effects. J Econometrics. 2005;128:301-323.
+41. Kavanagh AM, Bentley R, Turrell G, et al. Does gender modify associations between self rated health and the social and economic characteristics of local environments? J Epidemiol Community Health. 2006;60(6):490-495.
+42. Stafford M, Cummins S, Macintyre S, et al. Gender differences in the associations between health and
+
+neighbourhood environment. Soc Sci Med. 2005;60(8): 1681-1692. 43. Matheson FI, White HL, Moineddin R, et al. Neighbourhood
+chronic stress and gender inequalities in hypertension among Canadian adults: a multilevel analysis. J Epidemiol Community Health. 2010;64(8):705-713. 44. Winkleby M, Sundquist K, Cubbin C. Inequities in CHD incidence and case fatality by neighborhood deprivation. Am J Prev Med. 2007;32(2):97-106. 45. Campbell KE, Lee BA. Gender differences in urban neighbouring. Sociol Q. 1990;31(4):495-512. 46. Jackson JS, Knight KM, Rafferty JA. Race and unhealthy behaviors: chronic stress, the HPA axis, and physical and
+mental health disparities over the life course. Am J Public Health. 2010;100(5):933-939. 47. Benowitz NL. Drug therapy. Pharmacologic aspects of
+cigarette smoking and nicotine addition. N Engl J Med. 1988;319(20):1318-1330. 48. Dallman MF, Akana SF, Laugero KD, et al. A spoonful of sugar: feedback signals of energy stores and corticosterone regulate responses to chronic stress. Phys and Behav. 2003; 79(1):3-12. 49. Dallman MF, Pecoraro N, Akana SF, et al. Chronic stress and obesity: a new view of "comfort food." Proc Natl Acad Sci U S A. 2003;100(20):11696-11701. 50. DiLorenzo TM, Bargman EP, Stucky-Ropp R, et al. Long-
+term effects of aerobic exercise on psychological outcomes. Prev Med. 1999;28(1):75-85. 51. Jackson JS, Knight KM. Race and self-regulatory health
+behaviors: the role of the stress response and the HPA axis in physical and mental health disparities. In: Schaie KW,
+Cartensen L, eds. Social Structures, Aging, and Selfregulation in the Elderly. New York, NY: Springer; 2006:189-207. 52. Kirschbaum C, Wust S, Strasburger CJ. `Normal' cigarette smoking increases free cortisol in habitual smokers. Life Sci. 1992;50(6):435-442. 53. Steptoe A, Edwards S, Moses J, et al. The effects of exercise training on mood and perceived coping ability in anxious
+adults from the general population. J Psychosom Res. 1989;33(5):537-547. 54. Osypuk TL, Galea S, McArdle N, et al. Quantifying separate and unequal: racial-ethnic distributions of neighborhood poverty in metropolitan America. Urban Aff Rev Thousand Oaks Calif. 2009;45(1):25-65. 55. Sharkey P. The intergenerational transmission of context. Am J Sociol. 2008;113(4):931-969. 56. Wilson KL, Portes A. Immigrant enclaves: an analysis of the labor market experiences of Cubans in Miami. Am J Sociol. 1980;86(2):295-319. 57. Eschbach K, Ostir GV, Patel KV, et al. Neighborhood context and mortality among older Mexican Americans: is there a
+barrio advantage? Am J Public Health. 2004;94(10): 1807-1812. 58. Osypuk TL, Roux AV, Hadley C, et al. Are immigrant enclaves healthy places to live? The Multi-Ethnic Study of Atherosclerosis. Soc Sci Med. 2009;69(1):110-120. 59. Park Y, Neckerman K, Quinn J, et al. Neighbourhood immigrant acculturation and diet among Hispanic female
+residents of New York City. Public Health Nutr. 2011; 14(9):1593-1600. 60. Reyes-Ortiz CA, Ju H, Eschbach K, et al. Neighbourhood
+ethnic composition and diet among Mexican-Americans. Public Health Nutr. 2009;12(12):2293-2301.
+
+Am J Epidemiol. 2013;177(4):299-309
+
+61. Waldfogel J. Preference externalities: an empirical study of who benefits whom in differentiated-product markets. Rand J Econ. 2003;34(3):557-568.
+62. National Center for Health Statistics. Continuous NHANES Web Tutorial: Specifying Sampling Parameters: Key
+Concepts about NHANES Survey Design. Hyattsville, MD: Centers for Disease Control and Prevention. (http://www.cdc.
+
+Residential Segregation, Neighborhood, and Obesity 309
+gov/nchs/tutorials/NHANES/SurveyDesign/SampleDesign/ Info1.htm). (Accessed February 19, 2012). 63. VanderWeele TJ, Vansteelandt S. Conceptual issues concerning mediation, interventions and composition. Stat Interface. 2009;2(4):457-468. 64. Cutler DM, Glaeser EL. Are ghettos good or bad? Q J Econ. 1997;112(3):827-872.
+
+Downloaded from http://aje.oxfordjournals.org/ by guest on March 2, 2016
+
+Am J Epidemiol. 2013;177(4):299-309
+
+

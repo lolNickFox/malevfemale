@@ -1,0 +1,623 @@
+Review Article
+
+Downloaded from ajcn.nutrition.org by guest on March 6, 2016
+
+Intake of sugar-sweetened beverages and weight gain: a systematic review1-3
+
+Vasanti S Malik, Matthias B Schulze, and Frank B Hu
+
+ABSTRACT Consumption of sugar-sweetened beverages (SSBs), particularly carbonated soft drinks, may be a key contributor to the epidemic of overweight and obesity, by virtue of these beverages' high added sugar content, low satiety, and incomplete compensation for total energy. Whether an association exists between SSB intake and weight gain is unclear. We searched English-language MEDLINE publications from 1966 through May 2005 for cross-sectional, prospective cohort, and experimental studies of the relation between SSBs and the risk of weight gain (ie, overweight, obesity, or both). Thirty publications (15 cross-sectional, 10 prospective, and 5 experimental) were selected on the basis of relevance and quality of design and methods. Findings from large cross-sectional studies, in conjunction with those from well-powered prospective cohort studies with long periods of follow-up, show a positive association between greater intakes of SSBs and weight gain and obesity in both children and adults. Findings from short-term feeding trials in adults also support an induction of positive energy balance and weight gain by intake of sugar-sweetened sodas, but these trials are few. A schoolbased intervention found significantly less soft-drink consumption and prevalence of obese and overweight children in the intervention group than in control subjects after 12 mo, and a recent 25-week randomized controlled trial in adolescents found further evidence linking SSB intake to body weight. The weight of epidemiologic and experimental evidence indicates that a greater consumption of SSBs is associated with weight gain and obesity. Although more research is needed, sufficient evidence exists for public health strategies to discourage consumption of sugary drinks as part of a healthy lifestyle. Am J Clin Nutr 2006;84:274 - 88.
+KEY WORDS Sugar-sweetened beverages, soft drinks, soda, fruit drinks, weight gain, obesity, added sugar, energy compensation
+INTRODUCTION
+Over the past 2 decades, obesity has escalated to epidemic proportions in the United States and many countries around the world. According to the World Health Organization (WHO), 1 billion adults throughout the world are overweight, with a body mass index (BMI; in kg/m2) 25. Of these, at least 300 million are considered obese (BMI  30; 1). In the United States alone, an estimated 129.6 million persons, or 64% of the population aged 20 -74 y, are overweight, and 30% of those 129.6
+
+million are considered obese (2, 3). Similar trends are being seen among children and adolescents, which could lead to serious health complications in adulthood (4). Overweight and obesity are associated with numerous comorbidities of great public health concern, including hypertension, cardiovascular disease, diabetes, depression, and breast, endometrial, colon, and prostate cancers (5, 6). The decreases in productivity and quality of life that result from overweight and obesity are linked to elevated medical, psychological, and social costs (7).
+Although obesity results from an imbalance of energy homeostasis, the true mechanisms underlying this process and effective strategies for prevention and treatment remain unknown. In general, obesity reflects complex interactions of genetic, metabolic, cultural, environmental, socioeconomic, and behavioral factors (2). National survey data in the United States have indicated that, over the past 20 y, concomitant with the increase in rates of overweight and obesity, consumption of carbohydrates, largely in the form of added sugars, has increased (8, 9). Between 1977 and 1996, the proportion of energy from the consumption of caloric sweeteners rose from 13.1% to 16.0% (a 22% increase), and in 1994 -1996,  30% of carbohydrates consumed in the United States by persons aged 2 y came from caloric sweeteners (10). As a result, the 2000 (11) and 2005 (12) Dietary Guidelines for Americans advised the public to choose beverages and foods that will decrease their intake of added sugars, and the WHO has suggested that added sugars should provide no more than 10% of dietary energy (13).
+Current estimates are that the mean intake of added sugar by Americans accounts for 15.8% of total energy and that the largest source of these added sugars is nondiet soft drinks, which account
+1 From the Department of Nutrition, Harvard School of Public Health, Boston, MA (VSM and FBH); the Department of Epidemiology, German Institute of Human Nutrition Potsdam-Rehbruecke, Nuthetal, Germany (MBS); and the Channing Laboratory, Department of Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, MA (FBH).
+2 Supported by grant no. DK58845 from the National Institutes of Health and by an American Heart Association Established Investigator Award (to FBH).
+3 Reprints not available. Address correspondence to FB Hu, Department of Nutrition, Harvard School of Public Health, 665 Huntington Avenue, Boston, MA 02115. E-mail: frank.hu@channing.harvard.edu.
+Received November 8, 2005. Accepted for publication February 15, 2006.
+
+274 Am J Clin Nutr 2006;84:274 - 88. Printed in USA. (c) 2006 American Society for Nutrition
+
+SUGAR-SWEETENED BEVERAGES AND WEIGHT GAIN
+
+275
+
+Downloaded from ajcn.nutrition.org by guest on March 6, 2016
+
+for 47% of total added sugars in the diet (14). The term soft drink encompasses sodas along with other sugar-sweetened beverages such as fruit drinks, lemonade, and iced tea. The term soda encompasses sugar-sweetened carbonated beverages such as colas. Consumption of these beverages was shown to increase by 135% between 1977 and 2001 (15). It is estimated that, during this time, daily caloric sweetener consumption in the United States increased by 83 kcal per person, of which 54 kcal/d is from soda (10). In the United States, on average, a 12-oz serving [12 oz  1 can of soda (or 1 soda)  1 serving] of soda provides 150 kcal and 40 -50 g sugar in the form of high-fructose corn syrup [(HFCS) 45% glucose and 55% fructose], which is equivalent to 10 teaspoons of table sugar. If these calories are added to the typical US diet without reducing intake from other sources, 1 soda/d could lead to a weight gain of 15 lb or 6.75 kg in 1 y (16).
+Paralleling the pattern of soda consumption is that of the consumption of fruit drinks and fruitades (drinks made by adding water to powder or crystals), which are similarly sweetened and are often consumed in large amounts by toddlers and young children. Of the total 83 kcal/d increase in the consumption of caloric sweetener, 13 kcal/d is estimated to have come from fruit drinks (10). Consumption of these fruit drinks and soda represents nearly 81% of the increase in caloric sweetener intake across 2 recent decades in the United States (10). In addition, the increased consumption of HFCS, the prevailing sweetener used to flavor calorically sweetened beverages in the United States, has been found to mirror the growth of the obesity epidemic (17-19). It has been suggested that the intake of sugar-sweetened beverages may promote weight gain and obesity by increasing overall energy intake (20). Several studies evaluated the relation between the intake of sugar-sweetened beverages and weight gain and obesity, but discrepant results made it difficult to ascertain whether a direct link exists. This review critically examines the current evidence for an association between intake of sugar-sweetened beverages and weight gain and obesity.
+MATERIALS AND METHODS
+Relevant English-language articles were identified by searching the MEDLINE database (National Library of Medicine, Bethesda, MD) of articles published between 1966 and May 2005 for cross-sectional, prospective cohort, and experimental studies of the intake of sugar- sweetened beverages (soft drinks, soda, fruitades, fruit drinks, sports drinks, sweetened iced tea, squashes, and lemonade) and weight gain, obesity, or both. Key words such as "soda," "soda pop," and "sugar-sweetened beverage" hedged with "weight gain," "overweight," and "obesity" were used in the primary search strategy, as well as in a subsequent search using medical subheading (MeSH) terms. Additional published reports were obtained by cross-matching references of selected articles. Selection of articles was restricted to those in the English language that included 1 endpoints evaluating body size or weight measurements in humans--ie, BMI, BMI z score, weight in kilograms, or weight in pounds. Restriction based on the age of the study participants was not used because there is large variability in eligible age groups among studies. For prospective cohort studies, a duration of 6 mo was required for inclusion in our review, to ensure that sufficient follow-up time was provided to effectively evaluate the relation between beverage consumption and weight change. After the data were examined for relevance and eligibility, 30 articles were
+
+identified and extracted (by VSM and MBS). A meta-analysis was attempted, but the degree of heterogeneity among study designs, particularly with respect to the age groups of participants and to outcome assessment, was prohibitive, and therefore a more qualitative assessment is presented. Greater weight is given to large cross-sectional studies with  10 000 participants, prospective cohort studies, and experimental interventions with longer follow-up and large numbers of participants. The nature of the dietary assessment method was also evaluated; we considered the use of food-frequency questionnaires (FFQs) and repeated measures of intake to be optimal for prospective cohort studies. The age of the participants is also considered because assessment of beverage consumption and weight change in very young children is challenging and can be difficult.
+RESULTS
+The key word search initially identified a total of 264 citations--260 from MEDLINE and 4 from the MeSH search. After we screened these publications for English language and established whether they were conducted in humans and contained relevant subject matter pertaining to beverage consumption, body weight, or both, we deemed 72 to be potentially eligible. Forty-seven of the 72 articles were excluded because they did not meet the eligibility criteria (23 did not assess soft drink intake or report weight change data, 12 were editorials or commentaries, 11 were reviews, and 1 prospective cohort study was too short). Five investigations were added after the original extraction. Thus, 30 studies were eligible for review. Of these, 15 are crosssectional studies (21-35), 10 are prospective cohort studies (25, 28, 36 - 43), and 5 are clinical trials and interventions (44 - 48). Two studies (25, 28) report both prospective and cross-sectional findings.
+Cross-sectional studies
+Findings from cross-sectional studies (Table 1) suggest a positive trend in the relation between the intake of sugarsweetened beverages and overweight or obesity. Of the 15 studies included here, 13 involved children and adolescents and 2 involved adults. Six of the studies of children and adolescents (21, 23, 25, 29, 31, 33) found a significant positive association between the intake of sugar-sweetened beverages and overweight or obesity. Three studies suggested positive associations (26, 27, 35), although the associations were not significant, and 3 studies (22, 24, 30) found no significant association (direction of association not reported). One study (34) had inconsistent findings and reported a negative association of high and low quartiles of drink intake with added-sugar drinks (soft drinks and lemonade) and BMI in 8th-grade girls (P  0.013) and a positive association in 4-y-old boys (P  0.055). Some of the most noteworthy findings came from the Growing Up Today (GUT) study (25) and combined National Health and Nutrition Examination Surveys [(NHANES) 21)], both of which included  10 000 children and adolescents. Findings from the GUT study showed that, in girls, the consumption of sugar-added beverages was positively associated with increased weight (0.06 increase in BMI/serving, P  0.04). The third NHANES (NHANES III) combined with earlier versions of NHANES showed that consumption of soft drinks contributed a higher proportion of energy in overweight than in normal-weight subjects in each age and sex group (2-5 y: 3.1% versus 2.4%; 6 -11 y: 5.4% versus 4%; males,
+
+TABLE 1 Cross-sectional studies1
+Reference
+
+Population
+
+Anderson et al (22) Ariza et al (23)
+
+3139 Children (1609 girls, 1530 boys); Norway
+250 Children (123 girls, 127 boys); Hispanic American
+
+Bandini et al (24) Berkey et al (25) Forshee et al (26) Forshee and Storey (27) French et al (28)
+Giammattei et al (29)
+
+43 Adolescents (23 female, 20 male); Boston
+16 679 Children (8941 girls, 7738 boys); Growing Up Today study
+2216 Adolescents (48.5% female, 51.1% male); NHANES III
+3311 Children and adolescents (1624 female, 1687 male); CSFII
+3552 Adults (1913 female, 1639 male); Healthy Worker
+Project, USA
+385 Children (199 girls, 186 boys); California
+
+Gibson (29) Gillis and Bar-Or (31)
+
+1586 Children; National Diet and Nutrition Survey, UK
+181 Children and adolescents (106 female, 75 male)
+
+Liebman et al (32)
+
+1817 Adults (889 female, 928 male); Wellness in the Rockies Study
+
+Downloaded from ajcn.nutrition.org by guest on March 6, 2016
+
+Baseline age or age range y 8-14
+5-6
+
+Weight measure
+BMI (median): girls (grade 8, 1993), 18.9 (18.6)2: girls (grade 8, 2000), 19.1 (18.6); girls (grade 4, 2000), 17.1 (16.7); boys (grade 8, 1993), 19.1(18.7); boys (grade 8, 2000), 19.0 (18.4); boys (grade 4, 2000), 17.1 (16.7)
+23% of Children were overweight ( 95th percentile of weight-for-height)
+
+12-18 9-14 12-16
+
+Percentage body fat: nonobese, 21.1  7.63 (n  22); obese, 43.1  7.2 (n  21)
+BMI: girls aged 9 y, 17.47  2.84; girls aged 14 y, 20.52  3.09; boys aged 9 y, 17.77  2.90; boys aged 14 y, 20.82 3.224
+Mean BMI: females, 21.9; males, 21.5
+
+6-19
+
+Not given
+
+Females, 37.3  10.7;
+males, 39.1  9.8
+11-13
+
+BMI: females, 25.1  5.5; males, 26.6  3.9 BMI z score: girls, 0.53  1.0; boys, 0.63  1.05
+
+1.5-4.5 4-16
+
+Difficult to discern from figure BMI: obese, 29  5.0 (n  91); nonobese,
+17  1.5 (n  90)
+
+18-99
+
+BMI: females aged  50 y, 27.3  6.7; females aged  50 y, 27.2  5.7; males aged  50 y, 27.5  4.9; males aged 50 y, 27.3  4.8
+
+Beverage category
+
+Results
+
+Sweetened soft drinks
+
+No significant association between sweetened soft drinks and overweight (P  1.0) (data not
+shown)
+
+Sweetened beverages, milk, juice
+Soda
+Sugar-sweetened drinks, fruit juice, diet soda, milk
+Fruit drinks, diet fruit drinks, soda, diet soda, coffee, tea, wine, beer, spirits
+Milk, soda, diet soda, fruit drinks, diet fruit drinks, citrus juice, other juice
+Soda
+Soda, diet soda
+Soft drinks
+Soda, sugar-sweetened beverages
+Sugar-sweetened beverages, soda, diet soda
+
+Overweight children more likely than nonoverweight children to consume sweetened beverages daily (67% vs 39%; P  0.03); daily consumption associated with overweight compared with less-than-daily consumption (OR: 3.7; 95% CI: 1.2, 11.0).
+No difference in percentage of energy from soda between obese (5.9  4.9%) and nonobese (6.0  4.9%) subjects
+Girls who drank more sugar-added beverages were heavier (BMI rose 0.06 per serving; P  0.04); data for boys not shown
+Positive nonsignificant association between soda and inverse nonsignificant association between fruit drinks and BMI via 24-h recall
+Positive nonsignificant association between soda and BMI; inverse nonsignificant association between fruit drinks and BMI
+Significant (P  0.03) association between soda consumption and weight in females:   0.47, SE  0.22; a weaker association in males:   0.33, SE  0.21 (P  0.13)5
+Those who consumed  3 soft drinks (soda and diet soda)/d had BMI z scores 0.51 higher (95% CI: 0.17, 0.85, P  0.003), had 4.4% more body fat, and were more likely to have BMIs  85th percentile than did those who consumed  3 soft drinks/d (58.1% vs 33.2%; P  0.006)
+No significant association between BMI and the proportion of soft drinks in the diet (data not shown)
+Obese subjects consumed more sugar-sweetened drinks (P  0.002) and a combination of sugarsweetened drinks and soda (P  0.05; P  0.002 for boys alone) than did nonobese subjects; no significant difference between groups in soda consumption
+Probability of overweight greater in subjects who drank  1 soda/wk than in those who drank  1 soda/wk (70% vs 47% in females aged  50 y; 77% vs 58% in males aged  50 y: P  0.05)
+Probability of obesity greater in subjects who drank  1 soda/wk than in those who drank  1 soda/wk (32% vs 18% in females aged  50 y: 33% vs 18% in females aged  50 y; 26% vs 17% in males aged  50 y; P  0.05)
+(Continued)
+
+276 MALIK ET AL
+
+TABLE 1 (Continued) Reference
+
+Population
+
+Baseline age or age range
+y
+
+Weight measure
+
+Beverage category
+
+Results
+
+SUGAR-SWEETENED BEVERAGES AND WEIGHT GAIN
+
+Nicklas et al (33)
+
+1562 Children (51% girls, 49% boys); Bogalusa Heart Study
+
+Overby et al (34)
+
+2206 Children (810 grade 4, 1005 grade 8, and 391 aged 4 y)
+
+Rodriguez-Artalejo et al (35)
+Troiano et al (21)
+
+1112 Children (555 girls, 557 boys); Spain
+10 371 Children; NHANES III and earlier surveys
+
+10 4-13
+6-7 2-19
+
+24% overweight, 76% normal-weight
+BMI (x  SD) for Q1 and Q4 of percentage of energy consumed from added sugar: girls aged 4 y, 15.7  1.5 (Q1) and 16.1  1.7 (Q4), P  0.341; grade 4 girls, 17.4  2.8 (Q1) and 16.8  3 (Q4), P 0.236; grade 8 girls, 19.4  3.1 (Q1) and 18.5  2.2 (Q4), P  0.013; boys aged 4 y, 15.7  1.3 (Q1) and 16.3  1.4 (Q4), P  0.055; grade 4 boys, 16.8  2.5 (Q1) and 17.2  2.8 (Q4), P  0.312; grade 8 boys, 18.9  2.3 (Q1) and 18.9  2.7 (Q4), P  0.816
+BMI 17.0  2.4
+Not given
+
+Sweetened beverages, juice, milk
+Soft drinks, lemonade
+Sweetened soft drinks, bakery items, yogurt
+Soft drinks
+
+Consumption of sweetened beverages (58% soda, 20% fruit drinks, 19% tea, and 3% coffee) was significantly (P  0.001) associated with overweight (OR: 1.33; 95% CI: 1.12, 1.57, after adjustment for energy, age, study year, ethnicity, sex, and sex  ethnicity interaction)
+Negative association between added sugar and BMI in grade 8 girls (P  0.013) and a positive association in 4-y-old boys (P  0.055); soft drinks contributed an average of 40% of added sugar
+No significant association between sweetened soft drink intake and BMI; difference in BMI between 5th and 1st quartiles of soda intake, 0.4 (P  0.01)6
+Soft drinks contributed higher proportion of energy in overweight than in nonoverweight subjects (aged 2-5 y, 3.1% vs 2.4%; aged 6-11 y, 5.4% vs 4%; males aged 12-19 y, 10.3% vs 7.6%; females aged 12-19 y, 8.6% vs 7.9%; P not given)
+
+1 BMI measured as kg/m2. OR, odds ratio; Q, quartile. 2 Median; 95th percentile cutoff in parentheses (all such values). 3 x  SD (all such values). 4 BMI values based on baseline data presented by Berkey et al (98). 5  represents the difference in weight between women who reported consuming 1 serving (ie, one 12-oz can) of soda per week and those who reported no soda consumption. 6 Because of the large number of statistical tests performed, statistical significance was set at P  0.01.
+
+277
+
+Downloaded from ajcn.nutrition.org by guest on March 6, 2016
+
+278 MALIK ET AL
+
+Downloaded from ajcn.nutrition.org by guest on March 6, 2016
+
+12-19y: 10.3% versus 7.6%; females, 12-19 y: 8.6% versus 7.9%; P values not reported).
+In studies of adults, Liebman et al (32) found a significantly greater probability of overweight in subjects who drank 1 soda/wk than in those who drank 1 soda/wk (70% compared with 47% of women aged  50 y; 77% compared with 58% of men aged  50 y, P  0.05). The probability of obesity was also significantly greater in subjects who drank  1 soda/wk than in those who drank 1 soda/wk (32% compared with 18% of women aged  50 y; 33% compared with 18% of women aged  50 y; 26% compared with 17% of men aged  50 y, P  0.05). Similarly, the findings of French et al (28) indicate that women who consumed 1 soda/wk were 0.47 pounds (0.21 kg) heavier than those who reported no soda consumption (P  0.03). Men consuming 1 soda/wk were 0.33 pounds (0.15 kg) heavier than those who reported no soda consumption, although this difference was not significant (P  0.13).
+Prospective cohort studies
+Descriptive characteristics of the prospective cohort studies included in this review are presented in Table 2. Six of the 10 studies included here were in children and adolescents (25, 36, 38 - 40, 42) and 4 were in adults (28, 37, 41, 43).
+Four of the studies in children and adolescents found significant positive associations between the intake of sugar-sweetened beverages and greater overweight or obesity (25, 38, 40, 42). During a 3-y follow-up of 11 654 children (25), there was a significant association between soda consumption and weight gain in both boys and girls; boys who increased their soda consumption from the previous year gained weight (0.04 increase in BMI/additional daily serving, P  0.01), and children who increased their soda intake by 2 servings/d from the previous year gained weight (0.14 increase in BMI in boys, P  0.01; 0.10 increase in BMI in girls, P  0.046). Adjustment for energy attenuated the magnitude of the estimated associations, possibly because of the contribution of sugar-sweetened beverages to total energy intake. In a smaller investigation, Ludwig et al (38) found that both baseline consumption of sugar-sweetened beverages and a change in consumption independently predicted change in BMI during 19 mo of follow-up. In the fully adjusted model, BMI increased by 0.18 from baseline for each serving consumed per day (95% CI: 0.09, 0.27; P  0.02). For each additional serving of sugar-sweetened beverage consumed per day, BMI increased by 0.24 (95% CI: 0.10, 0.39; P  0.03) and the odds ratio (OR) of obesity increased by 60% (OR: 1.60; 95% CI: 1.14, 2.24; P  0.02). Phillips et al (40) evaluated the longitudinal relation (from baseline to 4 y after menarche) between the consumption of energy-dense snack (EDS) foods, including soda, and relative weight change during adolescence in a cohort of preadolescent girls with a baseline age of 8 -12 y. Subjects in the third and fourth quartiles of percentage of calories from soda had BMI z scores an average of 0.17 units higher than those of subjects in the first quartile (P  0.001). Welsh et al (42) assessed the risk of overweight over a 1-y period in low-income children aged 2 and 3 y at baseline by quartile of consumption of sweetened drinks (including soda, fruit drinks, vitamin C- containing juices, and other juices) and baseline weight status. Consumption of sweetened drinks was positively associated with the development of overweight in normal-weight children and the maintenance of overweight over time.
+
+Two studies in children found nonsignificant associations between the intake of sugar-sweetened beverages and BMI. Newby et al (39) examined the association between beverage consumption and changes in weight and BMI in low-income preschool children followed for 6 -12 mo. Multivariate regression analysis found no significant association between soda intake and annual changes in BMI, but low intakes and limited variation in the intake of soda and fruit drinks observed in preschool children may have limited the power of the analyses. A small study by Blum et al (36) did not find a significant association between the assessed changes in the consumption of sugary beverages and BMI z scores in 166 schoolchildren in a 2-y period.
+Only 4 studies have examined the relation between the intake of sugar-sweetened beverages and weight gain in adults. A recent study by Schulze et al (41) evaluated the effect of the intake of sugar-sweetened beverages on weight gain and the incidence of type 2 diabetes in a large cohort of young and middle-aged women during 2 consecutive follow-up periods of 4 y. In both periods, women who increased their consumption of soda from  1 serving/wk to  1 serving/d had significantly (P  0.001) larger increases in weight (multivariate-adjusted x: 4.69 kg during 1991-1995 and 4.20 kg during 1995-1999) and BMI (multivariate-adjusted x: 1.72 during 1991-1995 and 1.53 during 1995-1999) than did women who maintained a low (1/wk) or a high (1/wk) intake or substantially reduced their intake (from 1/d to  1/wk). The lowest increases in weight and BMI were observed in women who reduced their intake from high to low (multivariate-adjusted x increases in weight of 1.34 kg during 1991-1995 and 0.15 kg during 1995-1999; respective multivariate-adjusted x increases in BMI: 0.49 and 0.05). However, weight change in the women who maintained a high consumption of soda and in those who maintained a low consumption did not differ significantly. As part of an investigation of the stability of soft-drink intake from adolescence (aged 11-17 y in 1979-1981) to adulthood (aged 23-27 y in 1991 and 31-35 y in 1999), Kvaavik et al (37) assessed the association between longterm consumption of soft drinks and body weight. After an 8-y follow-up, the authors found slightly higher odds of overweight and obesity in long-term high consumers of soda than in longterm low consumers of soda (both groups made up of both men and women), although these findings were not significant. A recent study evaluated whether the consumption of sugarsweetened beverages increased the likelihood of weight gain in a Mediterranean population of 7194 men and women (x age: 41 y) who were followed for a median of 28.5 mo (43). The authors found that, of participants with a history of weight gain (3 kg in the 5 y before baseline), those in the 5th quintile of sweetenedbeverage consumption had a 60% greater odds of weight gain during follow-up than did those in the 1st quintile (OR: 1.6, 95% CI: 1.2, 2.1; P value  0.02). A nonsignificant positive association was found in participants who had not gained weight in the 5-y period before baseline (OR: 1.10, 95% CI: 0.91, 1.34; 43). Another study with a similar length of follow-up, conducted in 3552 healthy workers in the United States, found that an increased consumption of 1 soda/wk was associated with a small and nonsignificant increase in body weight (28).
+Experimental studies
+The descriptive characteristics of experimental trials included in this review are shown in (Table 3). All 3 short-term feeding trials (44, 46, 47) were conducted in adults, and their findings
+
+TABLE 2 Prospective studies1
+
+Reference
+
+Population
+
+Berkey et al (25)
+
+11 654 Children (6636 girls, 5067 boys); Growing Up Today study
+
+Bes-Rastrollo et al (43)
+
+7194 Adults; Seguimiento Universidad de Navarra Study
+
+Blum et al (36) French et al (28) Kvaavik et al (37)
+
+166 School-age children (92 girls, 74 boys); Nebraska
+3552 Adults (1913 females, 1639 males); Healthy Worker Project, USA
+422 Adults (215 female, 207 male); Oslo Youth Study Survey
+
+Ludwig et al (38) Newby et al (39) Phillips et al (40)
+
+548 Children (263 girls, 285 boys); Planet Health Intervention and Evaluation project
+1345 Children (670 girls, 675 boys); North Dakota (WIC)
+141 Females; MIT Growth and Development Study
+
+Schulze et al (41)
+
+51 603 Females; Nurses Health Study II
+
+Welsh et al (42)
+
+10 904 Children (50.1% girls, 49.9% boys); Missouri (WIC)
+
+Baseline age or age range y 9-14
+41
+9.3  1.0
+Females, 37.3  10.7;
+males, 39.1  9.8
+23-27
+11.7  0.8
+2-5 8-12
+24-44
+2-3
+
+Downloaded from ajcn.nutrition.org by guest on March 6, 2016
+
+Duration of follow-up
+3y
+28.5 mo (median)
+2y 2y 8y
+19 mo 6-12 mo
+10 y 8y
+1y
+
+Beverage category
+Sugar-sweetened drinks, fruit juice, diet soda, milk
+Sugar-sweetened soft drinks, diet soda, milk
+Sugar-sweetened drinks, fruit juice, diet soda, milk
+Soda
+Soda, diet soda
+Sugar-sweetened drinks, diet soda, fruit juice
+Fruit juice, fruit drinks, milk, soda, diet soda
+Energy-dense snack foods (soda)
+Sweetened soft drinks, diet soft drinks, fruit juice
+Soda, fruit drinks, vitamin C-containing juices, other juices
+
+BMI, BMI z score, or weight (in kg)
+
+Baseline
+
+Follow-up
+
+Girls aged 9 y, 17.47  2.842; girls aged 14 y, 20.52  3.09; boys aged 9 y, 17.77  2.90; boys aged 14 y, 20.82  3.223
+All subjects: 61.8  11-74.5  14 kg
+BMI z score, all subjects: 0.47  1.0
+
+Not given
+Percentage increase in weight (in kg) by quartile of soft drink consumption in subjects with  3 kg weight gain in 5 y before baseline: Q1, 41; Q2, 46; Q3, 43; Q4, 46; Q5, 50
+BMI z score, all subjects: 0.56  1.0
+
+Females, 25.1  5.5; males, 26.6  3.9
+
+Females, 25.2  5.5; males, 26.6  3.8
+
+Females, combined 1979 and 1981 entries: 19.8  2.5;
+males, combined 1979 and 1981 entries, 19.5  2.6
+
+Females (1999), 23.4  4.1; males (1999), 25.6  3.9
+
+20.73  3.99
+
+22.23  4.38
+
+Girls, 16.4  1.3; boys, 16.7  1.3
+BMI z score: 0.27  0.89 (n  166)
+
+Not given BMI z score: 0.02  0.79
+
+By frequency of soft drink intake: 1/mo, 24.8  5.2; 1-4/mo, 24.2  5.0; 2-6/ wk, 24.3  5.5; 1/d, 24.8  6.1
+75% Of children were normal or underweight, 14.5% were at risk of overweight, and 10.1% were overweight12
+
+By change in soft drink intake: a) 24.3  4.9; b) 24.4  5.9; c) 25.8  5.8; d) 24.9  5.710
+3% Of normal-weight children were overweight at followup, 25% of at-risk children were overweight at followup, and 67% of overweight children remained overweight
+
+Results as predictors of weight change
+Association between sugar-sweetened beverage intake and BMI: girls,   0.02, SE  0.012 (P  0.10); boys,   0.03, SE  0.014 (P  0.05)4,5
+Association between sugar-sweetened beverage intake and weight gain in subjects with  3 kg weight gain in 5 y before baseline (OR  1.6; 95% CI: 1.2, 2.4; P  0.02)
+No significant association between sugarsweetened beverage intake and year 2 BMI z score (  0.003, SE  0.004; P  0.05)6
+Positive but nonsignificant association between soda consumption and weight change: females,   0.08, SE  0.10 (P  0.39); males,   0.11, SE  0.09 (P  0.22)7
+No significant association between soda intake and change in BMI: overweight males, OR: 1.05 (95% CI: 0.46, 2.40); obese males, OR: 2.29 (95% CI: 0.48, 10.96); overweight females, OR: 1.57 (95% CI: 0.46, 5.33); obese females, OR: 0.80 (95% CI: 0.09, 6.85)
+Association between sugar-sweetened beverage intake and BMI (x: 0.24; 95% CI: 0.10, 0.39; P  0.03) and odds of obesity (OR: 1.60; 95% CI: 1.14, 2.24; P  0.02)8
+No significant association between soda intake and change in BMI (  0.01, SE  0.02; P  0.50), multivariate adjusted
+Association between soda intake and BMI z score:   0.17 for Q3 and Q4 of percentage of calories from soda (P  0.001)9
+Association between soft-drink intake and weight gain ( xSE: 4.69  0.20 kg from 1991 to 1995 and 4.20  0.22 kg from 1995 to 1999) and BMI (x  SE: 1.72  0.07 from 1991 to 1995 and 1.53  0.08 from 1995 to 1999); multivariate adjusted means11
+Association between sweet-drink consumption and overweight: baseline normal weight, Q2 (OR: 1.5, 95% CI: 0.9, 2.4); Q3 (OR  1.4, 95% CI: 0.8, 2.3); Q4 (OR: 1.3, 95% CI: 0.8, 2.1); at-risk overweight, Q2 (OR: 2.0, 95% CI: 1.3, 3.2); Q3 (OR: 2.0, 95% CI: 1.2, 3.2); Q4 (OR: 1.8, 95% CI: 1.1, 2.8); overweight, Q2 (OR: 2.1, 95% CI: 1.3; 3.4); Q3 (OR: 2.2, 95% CI: 1.4, 3.7); Q4 (OR: 1.8, 95% CI: 1.1, 2.9)13
+(Continued)
+
+279
+
+SUGAR-SWEETENED BEVERAGES AND WEIGHT GAIN
+
+280 MALIK ET AL
+
+TABLE 2 (Continued)
+1 OR, odds ratio; Q, quartile; WIC, Special Supplemental Food Program for Women, Infants, and Children. 2 x  SD (all such values unless indicated otherwise). 3 BMI values based on baseline data presented by Berkey et al (98). 4  represents the 1-y change in BMI per usual daily serving of each beverage during the same year. 5 Values were not adjusted for energy: all beverages were included simultaneously in each sex-specific mixed model adjusted for age, Tanner stage, race, menarche (girls), prior BMI z score, height growth, milk type, physical activity, and inactivity. After adjustment for energy, associations were no longer significant: boys, P  0.31; girls, P  0.15. 6 Data from written communication from Blum. 7  represents the change in weight (lb) over the 2-y period associated with an increase of 1 serving of soda per week (1 serving  12 oz). 8 Increase in BMI and frequency of obesity for each additional daily serving of sugar-sweetened drink consumed after adjustment for anthropometric, demographic, dietary, and lifestyle variables and total energy. 9  represents the unit change in BMI z score associated with each incremental increase in quartile of percentage of calories from soda, adjusted for age at menarche, parental overweight, and servings of fruit and vegetables. 10 BMI presented by change in frequency of soft drink consumption from 1991 to 1995. Categories: a) consistent 1/wk, b) consistent 1/d, c) 1/wk to 1/d, and d) 1/d to 1/wk. 11 Greater increase in weight and BMI shown in females who increased soft-drink consumption from 1/wk to 1/d than in those who were consistent 1/wk, consistent 1/d, or 1/d to 1/wk. 12 Normal weight or underweight defined as BMI 85th percentile, overweight defined as BMI 85th-95th percentile, and overweight defined as BMI 95th percentile according to the Centers for Disease Control and Prevention growth chart. 13 Referent quartile of sugar-sweetened drink consumption: quartile 1 (0 to 1 drink/d), quartile 2 (1 to 2 drinks/d), quartile 3 (2 to 3 drinks/d), and quartile 4 (3 drinks/d).
+
+Downloaded from ajcn.nutrition.org by guest on March 6, 2016
+
+TABLE 3 Experimental trials and intervention1
+
+Reference
+
+Population
+
+DiMeglio et al (44)
+
+15 Adults (8 female, 7 male)
+
+Ebbeling et al (48)
+
+103 Adolescents (56 female, 47 male)
+
+Baseline age or age range
+y 22.8  2.732
+13-18
+
+Design
+
+Intervention and main outcome measures
+
+Duration
+
+Crossover
+Randomized controlled trial
+
+Isocaloric liquid (soda) vs solid (jelly beans) load and body weight and appetite control
+Weekly home delivery of noncaloric beverages (4 servings/d for subjects) and telephone contact
+
+2  4 wk, 4-wk washout
+25 wk
+
+James et al (45)
+
+644 Children (29 clusters)
+
+Raben et al (46)
+
+41 Adults (35 female, 6 male)
+
+7-11 20-50
+
+Cluster randomized controlled trial
+Parallel
+
+Focused educational program on nutrition (15 intervention clusters and 14 control clusters) and drink consumption and weight status
+Daily supplements of sucrose or artificial sweeteners and effect on appetite and body weight4
+
+One school year 10 wk
+
+Tordoff and Alleva (47)
+
+30 Adults (9 female and 21 male)
+
+Female, 28.2  2.7;
+male, 22.9  0.83
+
+Crossover
+
+1150 g Soda/d sweetened, with APM compared with HFCS or no soda; assessment of body weight and appetite control
+
+3  3 wk
+
+1APM, aspartame: HFCS, high-fructose corn syrup; NS, nonsignificant. 2 x  SD (all such values unless indicated otherwise). 3 x  SE. 4 70% of sucrose came from beverages, and beverages consisted of several soft drinks and flavored fruit juices.
+
+Downloaded from ajcn.nutrition.org by guest on March 6, 2016
+
+Baseline
+
+BMI
+
+Endpoint
+
+Liquid, 21.8  2.2; solid, 22.1  2.3
+
+Liquid, 21.9  2.1; solid, 22.2  2.2
+
+Intervention, 25.7  6.3; control, 24.9  5.7
+
+Change in BMI:
+intervention, 0.07  0.14; control, 0.21  0.153
+
+Intervention, 17.4  0.6; control, 17.6  0.7
+
+Intervention, 17.9  0.7; control, 17.4  0.6
+
+Sucrose, 28.0  0.5; sweetner, 27.6  0.53
+
+Not given
+
+Females, 69.6  4.3 kg; males, 76.6  2.1 kg3
+
+Not given
+
+Results
+Significant increase in body weight and BMI after liquid load (P  0.05)
+Decreasing sugar-sweetened beverage intake significantly reduced body weight in subjects with baseline BMI 30 (net BMI change  0.75  0.34 in treatment group compared with control subjects in the upper baseline BMI tertile)
+Greater percentage of obesity and overweight in control subjects than in the intervention group (mean difference, 7.7%; 95% CI: 2.2%, 13.1%) and greater consumption of carbonated drinks in control subjects (mean difference, 0.7; 95% CI: 0.1, 1.3)
+Body weight, fat mass, and BMI increased in sucrose group and decreased in sweetener group; respective difference between groups (2.6 kg; 95% CI: 1.3, 3.8; 1.6 kg, 95% CI: 0.4, 2.8; and BMI 0.9, 95% CI: 0.5, 1.4)
+Relative to no soda, HFCS soda significantly (P  0.01) increased weight in females (0.97  0.25 kg) and NS increase in males; APM soda decreased weight in males (0.25  0.29 kg, P  0.05) and NS increase in females
+
+281
+
+SUGAR-SWEETENED BEVERAGES AND WEIGHT GAIN
+
+282 MALIK ET AL
+
+Downloaded from ajcn.nutrition.org by guest on March 6, 2016
+
+support the hypothesis that intake of sugar-sweetened beverages is positively associated with weight gain and obesity. Investigations by Raben et al (46) and Tordoff and Alleva (47) compared the effects of the consumption of sucrose and high-fructose corn syrup, a sweetener used to flavor soda, with the consumption of artificial sweeteners on energy intake and body weight. The findings of the study by Raben et al indicate that, in overweight men and women randomly assigned to receive either daily supplements of sucrose or artificial sweeteners for 10 wk, body weight and fat mass increased in the sucrose group (by 1.6 and 1.3 kg, respectively) and decreased in the sweetener group (by 1.0 and 0.3 kg, respectively). Differences between groups were significant for body weight (P  0.001) and fat mass (P  0.01). Tordoff and Alleva (47) observed similar findings when they gave normal-weight subjects 1150 g soda/d sweetened with aspartame (APM) or HFCS or no soda for 3 wk in a 3  3 crossover study. To investigate whether sweetened beverages contribute an increased proportion of energy to the diet by eliciting a weak compensatory dietary response resulting in a positive energy balance and weight gain, DiMeglio and Mattes (44) conducted a 2  4 -wk crossover trial. Subjects were given 1883 kJ/d of carbohydrate loads in either liquid (soda) or solid (jelly beans) form. The percentage of dietary energy compensation was calculated as [(baseline intake  1883 kJ) - (free-feeding intake  1883 kJ)/1883 kJ]  100. During the solid phase, subjects compensated for the energy that was provided by reducing free-feeding intake so that the overall dietary compensation score was precise (118%). However, in the liquid phase, no compensation was observed, and, in fact, total daily energy intake from free feeding increased relative to baseline, which resulted in a dietary compensation score of 17% [ie, the energy from the carbohydrate load was added to the customary diet which also increased slightly (17%)]. Consequently, body weight and BMI increased significantly (P  0.05) from pretreatment values only during the liquid phase.
+In a recent cluster-randomized controlled trial (RCT) in schoolchildren, James et al (45) found that a school-based educational program aimed at reducing the consumption of carbonated drinks was successful in producing a modest reduction, which was associated with a reduction in the prevalence of overweight and obesity (at 12 mo, the proportion of overweight and obese children in the control group increased by 7.5%, whereas that in the intervention group decreased by 0.2%). More recently, Ebbeling et al (48) conducted a pilot RCT for 25 wk in 103 adolescents aged 13-18 y who regularly consumed sugar-sweetened beverages (1 serving/d) to evaluate the effects on body weight of decreasing sugar-sweetened beverage consumption. Participants were randomly assigned to either the intervention group, who received weekly home deliveries of noncaloric beverages for 25 wk, or the control group, who continued their usual beverage consumption habits throughout follow-up. Consumption of sugar-sweetened beverages decreased by 82% in the intervention group and did not change in the control group. Decreasing sugar-sweetened beverage consumption had a beneficial effect on body weight that was associated with baseline BMI (the difference in BMI between the treatment group and the control subjects in the uppermost tertile of baseline BMI was 0.75  0.34) (48).
+DISCUSSION
+Thirty studies were identified and included in this systematic review. Of these, 15 were cross-sectional, 10 were prospective
+
+cohorts, and 5 were experimental. Most of the cross-sectional studies, especially the large ones, found a positive association between the consumption of sugar-sweetened beverages and body weight. Three prospective studies that included repeated measures of both soft drinks and weight found that an increase in the consumption of sugary soft drinks was significantly associated with greater weight gain and greater risk of obesity over time in both children (25, 38) and adults (41). A 1-y intervention study found that reducing soft-drink consumption in schoolchildren led to a significant reduction in the prevalence of overweight and obesity (45), and a 25-week RCT in adolescents found that a reduction in the intake of sugar-sweetened beverages had a beneficial effect on body weight that was strongly associated with baseline BMI (48). Despite our overall findings of a positive association between sugar-sweetened beverage consumption and weight gain and obesity, other investigators have suggested that such a relation does not exist. Multiple studies based on the Continuing Survey of Food Intake for Individuals (CSFII) 1994 - 1996 (26) and 1998 (27) and NHANES III (1988 -1994; 49) did not find significant associations between consumption of soda or fruit drinks and BMI in American children and adolescents. However, data from both surveys suggest a slight positive association between soda consumption and BMI and a slight inverse association between fruit drink consumption and BMI (26, 27). Interpretation of these findings is limited, however, by the fact that they were cross-sectional and relatively small and were conducted in children and adolescents, groups in whom dietary assessment and weight measurement are difficult. A recent risk analysis using CSFII, NHANES III, and National Family Opinion (NFO) WorldGroup Share of Intake Panel (SIP) data evaluated the relation between beverage consumption from school vending machines and adolescent overweight. Findings from the risk assessment showed that removal from the schools of vending machines containing carbonated soft drinks had no effect on BMI (50). As discussed by those authors, it is possible that the removal of vending machines did not affect BMI because soft drink consumption from school vending machines is a small fraction of total soft drink consumption, and the relation between soft drink consumption and BMI is not strong in the study population (50).
+Overall, results from our review support a link between the consumption of sugar-sweetened beverages and the risks of overweight and obesity. However, interpretation of the published studies is complicated by several method-related issues, including small sample sizes, short duration of follow-up, lack of repeated measures in dietary exposures and outcomes, and confounding by other diet and lifestyle factors.
+Sample size and duration of follow-up
+The discrepancies seen among cross-sectional and prospective cohort studies may relate to study design, sample size, and duration of follow-up. The cross-sectional studies included here vary markedly in size. Only cross-sectional investigations by Berkey (25) and Troiano et al (21) included  10 000 children, which may provide sufficient power to effectively assess the relation between the consumption of sugar-sweetened beverages and weight. Sample size and the duration of follow-up of prospective cohort studies also tended to vary. The largest prospective study conducted in children, that of Berkey et al (25), found significant associations between the intake of sugar-sweetened beverages and weight gain in 11 654 children followed for 3 y. The study by Blum et al (36), which found a nonsignificant
+
+SUGAR-SWEETENED BEVERAGES AND WEIGHT GAIN
+
+283
+
+association between the intake of sugar-sweetened beverages and year 2 BMI z scores included only 166 children, which may have limited the statistical power to predict associations between beverage consumption and BMI. Newby et al (39) also found a nonsignificant association between soda consumption and annual change in BMI in a sample of 1345 children. It is possible that the 6- to 12-mo follow-up in that study was not sufficient and that the participants were too young for a study of the relation between beverage consumption and weight. A small study (not included in Table 2) of 21 children and with a follow-up of 4 - 8 wk found that the children with the greatest consumption of sweetened beverages (16 oz/d) gained more weight (1.12  0.7 kg) than did the children who consumed an average of 6 -16 oz sweetened beverage/d (0.32- 0.48  0.4 kg) (51). Unfortunately, the sample size was too small and the follow-up was too short to provide sufficient power for the observed difference in weight gain to be significant (P  0.4). Two of the 4 studies conducted in adults had 8-y follow-up. Schulze et al (41) studied  51 000 women and found a significant positive association between soda consumption and weight gain. Kvaavik et al (37) found nonsignificant positive associations between soda consumption and overweight in men and women and between soda consumption and obesity in men. However, their small overall sample size (n  422) and the subsequent stratification of subjects for subgroup analysis may have limited the power of the study to detect significant differences between groups.
+
+Repeated measures
+The most comprehensive evaluation of diet and weight involve repeated measurements of both diet and weight over time so that specific changes in diet can be paralleled with changes in weight. Of the 6 prospective cohort studies conducted in children and adolescents, only those by Ludwig et al (38) and Berkey et al (25) reported changes in both the consumption of sugar-sweetened beverages and BMI. Schulze et al (41) evaluated mean changes in weight and BMI in adults according to changes in soda consumption over two 4-y periods and found that weight gain was greatest in women who increased their soda consumption from  1/wk to  1/d and smallest in women who decreased their intake.
+Ascertainment of repeated measures of diet and weight allows for tracking and identification of particular dietary items that elicit changes in weight. Whereas repeated measures of diet and weight are useful for characterizing longitudinal relations, it is important to acknowledge that longitudinal analyses are not immune to the problem of reverse causation (ie, persons change their diet because of their weight) that commonly plagues crosssectional analysis, because longitudinal analyses typically compare changes in one variable with changes in another. Stable intake patterns over time, on the other hand, may be more informative because the direction of association would be clearer, although the follow-up required for such analyses must be sufficiently long for measures of stable intake over time to be evaluated.
+
+Downloaded from ajcn.nutrition.org by guest on March 6, 2016
+
+Dietary assessment methods
+The dietary assessment methods used to evaluate beverage consumption are also an important consideration, because each method has its own set of intrinsic errors that could be manifested in effect estimates. In addition, because the relation between beverage intake and weight is longitudinal, a tool that can assess long-term patterns in intake over time, such as an FFQ, would be most appropriate (52). Methods used to assess beverage consumption among the cross-sectional studies are diverse. The 2 largest investigations, those of Berkey et al (25) and Troiano et al (21), employed validated FFQs to assess the previous year's intake and 24-h diet recalls, respectively. Of the 6 prospective cohort studies conducted in children and adolescents, 5 used previously validated FFQs to assess beverage consumption. Studies by Ludwig et al (38), Newby et al (39), and Welsh et al (42) used instruments that evaluated intake over the previous 30 d, and studies by Berkey et al (25) and Phillips et al (40) used instruments that evaluated intake over the previous year. Blum et al (36) used 24-h diet recalls at baseline and study exit (year 2) to assess beverage consumption, which may have further limited the power of the study to detect associations between beverage consumption and BMI. Three of the prospective cohort studies conducted in adults used validated FFQs to assess beverage consumption over the previous year (37, 41, 43), although Kvaavik et al (37) had used 2 different surveys during follow-up before incorporation of the FFQ, which could have led to some degree of misclassification of beverage consumption and attenuation of actual effects. French et al (28) used a short (18-item) FFQ that was constructed specifically for the study; the use of a more comprehensive instrument was not feasible because of the limited time available for subjects to complete questionnaires at the worksites. Omission of certain food items commonly consumed with soda (or sweetened beverages) could affect the reporting of beverage consumption and the ability to control for confounding.
+
+Confounding
+The cross-sectional studies included in this review are particularly prone to confounding, because beverage consumption and weight were measured at only one timepoint. For example, overweight persons may abstain from consuming soda or switch to diet soda as part of a weight-loss strategy, which could result in a spuriously negative association or underestimation of the link between overweight and soda consumption. Despite these limitations, cross-sectional studies are important for hypothesis generation, and they provide an impetus for conducting prospective cohort and experimental investigations (52). Although prospective cohort studies are better able to control for confounding than are cross-sectional studies, they still are observational in nature and may not completely disentangle the effects of other aspects of diet and lifestyle from the effects of soda consumption on weight. Many studies have suggested that unhealthy lifestyle behaviors tend to cluster (37, 53-57). Confounding of the association between the intake of sugar-sweetened beverages and weight is difficult to assess in studies conducted in children and adolescents, because their lifestyle patterns are still being developed (58, 59). Two of the 4 prospective cohort studies conducted in adults found that subjects with higher intakes of soda tended to smoke more, be less physically active, and have higher intakes of total energy than did subjects with smaller intakes. In addition, Schulze et al (41) reported higher intakes of total carbohydrate, sucrose, and fructose and an overall higher dietary glycemic load (GL) in subjects with higher soda consumption than in those with lower soda consumption, which could reflect consumption of soda itself or a combination of soda and processed foods commonly consumed alongside soda. Consequently, it is difficult to ascertain whether the weight gain that resulted from the consumption of calories in soda itself or of calories in foods often eaten in conjunction with soda or from a lack of physical activity was counteracted by the weight-reducing effect of smoking.
+
+284 MALIK ET AL
+
+Downloaded from ajcn.nutrition.org by guest on March 6, 2016
+
+Therefore, it is important to control for detailed measures of confounding variables. For example, in addition to control for baseline weight, smoking, and alcohol use, Schulze et al (41) controlled for baseline and changes in physical activity and other lifestyle covariates and for the intake of red meat, french fries, processed meat, sweets, and snacks (food items that cluster together in this study population to a "Western" dietary pattern). It is interesting that the study by Bes-Rastrollo et al (43) found that adjustment for total energy intake, snack foods, and other potential confounders did not materially change effect estimates, which suggested that the association between sugar-sweetened beverage consumption and weight is independent of the influence of other foods that were evaluated in multivariate models.
+Biologic mechanisms
+Experimental studies are known to provide some of the most rigorous evaluations of dietary intake and body weight. Dietary trials of long duration, although theoretically ideal, can be complicated by high cost and lack of compliance on the part of study participants. However, findings from short-term feeding trials provide valuable insight into possible mechanisms that can explain why the consumption of sugar-sweetened beverages may lead to weight gain and obesity.
+The prevailing evidence suggests that weight gain arises because compensation at subsequent meals for energy consumed in the form of a liquid could be less complete than that for energy consumed in the form of a solid, most likely because of the low satiety of liquid foods (20). For example, DiMeglio and Mattes (44) showed that consumption of 1180 kJ soda/d resulted in significantly greater weight gain than did consumption of an isocaloric solid carbohydrate load. Others have reported similar findings (60, 61). Many studies have shown a connection between consumption of sugar-sweetened beverages and total energy intake, which supports the notion that, when persons increase liquid carbohydrate consumption, they do not concomitantly reduce their solid food consumption (9, 11, 21, 25, 35, 37, 39, 62- 67). For example, Schulze et al (41) reported that women who increased their intake of sugar-sweetened beverages also increased their total caloric consumption by an average of 358 kcal/d and that most of the excess calories were contributed by soda.
+Comparison of beverages sweetened artificially with those sweetened calorically had similar findings. Tordoff and Alleva (47) showed that, in comparison to the values found when subjects received no beverages, total energy intake and body weight increased when those subjects were given 2215 kJ HFCSsweetened beverage/d for 3 wk but decreased when they were given artificially sweetened carbonated beverage for the same period. Similarly, Raben (46) showed that the consumption of sucrose-containing beverages resulted in greater energy consumption and weight gain over 10 wk than did consumption of artificially sweetened beverages, with most of the exceeding energy intake accounted for by the sucrose supplement; this suggests that subjects consuming calorically sweetened beverages did not compensate for this consumption by reducing the intake of other items, and thus they gained weight (16, 46). Similar results have been reported in preschool children (68). These findings are also supported by the observation in some prospective cohort studies that the consumption of diet soda is negatively associated with energy intake and weight, whereas the intake of sugar-sweetened beverages is positively associated with energy intake and weight (38, 41). However, others have
+
+reported contrary findings (25-27, 37). Evaluation of the consumption of diet soda, energy intake, and weight is complex, because, for some, the consumption of calorie-reduced beverages could serve as justification for consumption of excess calories from other food sources.
+Studies evaluating the effects of caloric and noncaloric sweet drinks on hunger and appetite have had conflicting results. Some experimental studies found that the consumption of noncaloric sweeteners does not increase hunger and food intake, whereas the consumption of caloric sweeteners, as speculated, does do so, which implies that participants did not compensate for the energy deficit resulting from the consumption of noncaloric sweeteners in place of caloric sweeteners (69 -71). These studies also showed that the consumption of calorically sweetened drinks resulted in greater energy intake than did the consumption of artificially sweetened drinks. Conversely, others have found that replacing calorically sweetened drinks with artificially sweetened drinks did not affect total energy intake and may actually have increased subsequent energy intake (72, 73). These studies also showed that appetite and hunger ratings did not differ according to the type of sweetener consumed and that participants compensated for the energy deficit resulting from the replacement of caloric sweeteners with artificial sweeteners. In addition, some evidence suggests that the palatability of both sugarsweetened and artificially sweetened drinks increases subjective hunger and hence energy intake and weight gain. However, these findings require further elucidation (41, 44, 74 -76).
+A recent study conducted in mice suggested that the consumption of fructose-sweetened beverages increases adiposity more than does the consumption of either sucrose-sweetened or artificially sweetened beverages (77). The likely mechanism is believed to be a shift of substrate use to lipogenesis. This finding is of particular interest because soft drinks are sweetened with HFCS in the United States and with sucrose in Europe; it should be noted that fructose and HFCS are not interchangeable, however, because HFSC also contains a glucose fraction. It has been hypothesized that fructose may lead to greater weight gain and insulin resistance by elevating plasma triacylglycerols and subsequently decreasing the production of insulin and leptin in peripheral tissues--not suppressing ghrelin--thereby decreasing signaling to the central nervous system from insulin and leptin-- and possibly ghrelin (78 - 81). However, the sugar composition (ie, the amount of glucose compared with that of fructose) of HFCS and sucrose, which contain the same number of calories, does not differ appreciably. Whether HFCS is more detrimental to weight gain than are other types of sugar requires further study.
+Diabetes and other health consequences
+In addition to its potential role in weight gain, the intake of sugar-sweetened soda may increase the risk of type 2 diabetes. Schulze et al (41) observed that the intake of soft drinks, rather than of fruit juices, was significantly associated with an increased risk of diabetes, even after adjustment for BMI. This association likely is mediated in part through the high amount of rapidly absorbable carbohydrates such as HFCS that are found in soda in the United States, and the absorbability of those carbohydrates has an effect on blood glucose similar to that of sucrose (82). Although sugar-sweetened beverages on average have a moderate glycemic index (83), they have been shown to contribute to a high glycemic load (GL) of the overall diet by virtue of the large
+
+SUGAR-SWEETENED BEVERAGES AND WEIGHT GAIN
+
+285
+
+Downloaded from ajcn.nutrition.org by guest on March 6, 2016
+
+quantities consumed; this high GL is associated with poor glycemic control, particularly among persons with diabetes (84, 85). Several studies also suggested that inflammatory biomarkers such as C-reactive protein (86, 87) and haptoglobin (88, 89) may be associated with the risk of diabetes and may be compounded by the intake of rapidly digested and absorbed carbohydrates (86). A recent study investigating the effect of sucrosesweetened and artificially sweetened food and drinks on inflammatory markers in overweight subjects found that consumption of sucrose-sweetened items significantly increased plasma haptoglobin and transferrin but nonsignificantly increased C-reactive protein (90). This study corroborates findings from others that suggest that the proinflammatory process underlying the greater risk of diabetes may be exacerbated by a high intake of rapidly digested and absorbed carbohydrates (90).
+It has also been suggested that soft drinks that contain caramel coloring are rich in advanced glycation end-products, which may increase insulin resistance and inflammation: however, such findings were not reported for diet soda and warrant further investigation (91, 92). Recent findings from a prospective cohort study also indicatd that the intake of sweetened soft drinks may be associated with a greater risk of pancreatic cancer, particularly in women with high BMI or a low physical activity level and an underlying degree of insulin resistance (93).
+The consumption of soft drinks has also been linked to other health consequences, which are apparent to the greatest degree in children and adolescents. Savoca et al (94) found that the intake of caffeine from soda (10 -16 mg/100 g) may increase blood pressure in adolescents, especially those of African American background, thereby increasing their risk of hypertension, although this adolescent population's blood pressure may also be affected by dietary and lifestyle practices for which the consumption of caffeinated beverages is a marker. Additional research is therefore warranted, particularly because the incidence of adolescent hypertension is on the rise (95, 96). Recent findings suggest that regular coffee consumption may reduce the risk of diabetes (97). However, the benefits of coffee are most likely due to components of coffee, such as chlorogenic acid and magnesium, other than caffeine, because both caffeinated coffee and decaffeinated coffee have been found to lower risk of diabetes.
+Additional implications of sugar-sweetened beverage consumption, particularly in children and adolescents, include the displacement of milk and other more nutritious beverages from the diet (11, 15, 33, 35, 36, 66, 67, 98, 99). Reduction of milk intake among children is a public health concern because milk is an important source of protein and of certain vitamins and minerals, such as calcium, vitamin D, vitamin A, and vitamins B-12 and B-6, and some survey data have indicated that the intake of calcium by children and adolescents is declining in the United States (15). In contrast to these findings, others have suggested that the consumption of added sugars such as soda and fruit drinks has a negligible effect on overall diet quality (100). Several studies showed that the consumption of cola-type beverages in particular is negatively associated with bone mineral density and positively associated with bone fractures (101-104). These findings are believed to be mediated by the high phosphate content of cola, which leads to a change in the calcium-phosphorus ratio in the diet and ultimately to a deleterious effect on bone (102). Low calcium intake during adolescence is critical because it jeopardizes the accrual of maximal peak bone mass. It has been suggested that a 5-10% deficit in peak bone mass may result in
+
+a 50% greater lifetime prevalence of hip fracture (102). Contrary to these findings, a study conducted among CSFII participants suggested that the consumption of soda, fruit drinks, and other nondairy beverages is positively, although weakly, associated with calcium intake (105). Furthermore, the intake of soft drinks has been linked to increased risk of dental caries because of the sodas' high sugar content and acidity, which result in enamel erosion over time (106), although data from NHANES III suggest that carbonated soft drinks are not associated with poor dental health (107).
+Fruit juices
+Although the focus of this review is soda and other nonnutritive sugar-added beverages such as fruit drinks, fruit juices such as apple juice, which are consumed in great quantities by young children, have also been linked to overweight and obesity by some investigators. In a population-based cross-sectional study by Dennison et al (108), the prevalence of overweight was higher in those children aged 2-5 y who were consuming  12 fluid oz juice/d than in those drinking  12 fl oz juice/d (32% of children drinking  12 fl oz fruit juice/d and 9% of those drinking  12 fl oz/d had a BMI  90th age-and sex-specific percentile; P  0.01). Similar findings were reported by others (109). In a later study by Dennison (110), it was suggested that previously reported associations between high intakes of fruit juice and obesity were observed with apple juice only, which likely reflects the high fructose (13.9 g/8 oz serving) and sucrose (4.2 g/serving) content of apple juice (111). However, others who studied juice intake longitudinally found that the consumption of fruit juice, irrespective of type, does not influence weight (112, 113). A recent prospective cohort of adults in a Mediterranean population found a weak but significant association between weight gain and sweetened fruit juice consumption [OR: 1.16; 95% CI: 0.99, 1.36 (43)]. Further evaluation of the effect on weight of fruit juice intake in general and by type is warranted because fruit juice remains an important source of vitamins and minerals, particularly for children.
+Conclusions
+The consumption of sugar-sweetened beverages has increased dramatically in the past decades, in parallel with increasing prevalences of overweight and obesity in the United States. Currently, sugary soft drinks contribute 8%-9% of total energy intake in both children and adults (15). Although it has long been suspected that soft drinks contribute at least in part to the obesity epidemic, only in recent years have large epidemiologic studies begun to investigate the relation between soft-drink consumption and long-term weight gain.
+In this systematic review, findings from several large crosssectional investigations, well-powered prospective cohort studies with long follow-up and repeated measures of diet and weight, a school-based intervention targeting soda consumption, and an RCT assessing the effect of reducing sweetened beverage consumption have provided strong evidence for the independent role of the intake of sugar-sweetened beverages, particularly soda, in the promotion of weight gain and obesity in children and adolescents. Findings from prospective cohort studies conducted in adults, taken in conjunction with results from short-term feeding trials, also support a positive association between soda consumption and weight gain, obesity, or both. However, further research,
+
+286 MALIK ET AL
+
+Downloaded from ajcn.nutrition.org by guest on March 6, 2016
+
+particularly from large prospective cohort studies with long follow-up and repeated measures of both diet and weight, is needed to provide more convergence in the data. Experimental studies have suggested that the likely mechanism by which sugar-sweetened beverages may lead to weight gain is the low satiety of liquid carbohydrates and the resulting incomplete compensation of energy at subsequent meals. It has also been suggested that the HFCS content of soda may have a particular role in adiposity and diabetes risk, although further experimental research is needed to fully elucidate the detrimental effects of HFCS in comparison with those of other types of sugars.
+Sugar-sweetened beverages, particularly soda, provide little nutritional benefit and increase weight gain and probably the risk of diabetes, fractures, and dental caries. Given that global incidence rates of overweight and obesity are on the rise, particularly among children and adolescents, it is imperative that current public health strategies include education about beverage intake. Consumption of sugar-sweetened beverages such as soda and fruit drinks should be discouraged, and efforts to promote the consumption of other beverages such as water, low-fat milk, and small quantities of fruit juice should be made a priority.
+FBH conceived the idea for this study. VSM and MBS extracted the data. VSM and FBH wrote the manuscript. VSM, MBS, and FBH interpreted the data and edited the final draft of the manuscript. None of the authors had a personal or financial conflict of interest.s
+REFERENCES
+1. World Health Organization. Obesity and overweight fact sheet. Geneva, Switzerland: World Health Organization, 2003. Internet: http://www.who.int/dietphysicalactivity/media/en/gsfs_obesity.pdf (accessed 9 September 2005).
+2. Morrill AC, Chinn CD. The obesity epidemic in the United States. J Public Health Policy 2004;25:353- 66.
+3. Flegal KM, Carroll MD, Ogden CL, Johnson CL. Prevalence and trends in obesity among US adults, 1999 -2000. JAMA 2002;288:1723-7.
+4. Centers for Disease Control and Prevention. Prevalence of overweight among children and adolescents: United States, 1999-2002. Internet: http://www.cdc.gov/nchs/products/pubs/pubd/hestats/overwght99.htm (accessed 9 September 2005).
+5. Must A, Spadano J, Coakley EH, Field AE, Colditz G, Dietz WH. The disease burden associated with overweight and obesity. JAMA 1999; 282:1523-9.
+6. Allison DB, Fontaine KR, Manson JE, Stevens J, VanItallie TB. Annual deaths attributable to obesity in the United States. JAMA 1999; 282:1530 - 8.
+7. Allison DB, Zannolli R, Narayan KM. The direct health care costs of obesity in the United States. Am J Public Health 1999;89:1194 -9.
+8. Kantor L. A dietary assessment of the US food supply: comparing per capita food consumption with Food Guide Pyramid service recommendations. US Department of Agriculture. Washington, DC: US Government Printing Office, 1998.
+9. Anand R, Basiotis P. Is total fat consumption really decreasing? Washington, DC: USDA Center for Nutrition Policy and Promotion, 1998. (Nutrition Insights 5.)
+10. Popkin BM, Nielsen SJ. The sweetening of the world's diet. Obes Res 2003;11:1325-32.
+11. Johnson RK, Frary C. Choose beverages and foods to moderate your intake of sugars: the 2000 Dietary Guidelines for Americans--what's all the fuss about? J Nutr 2001;131:2766S-71S.
+12. 2005 Dietary guidelines for Americans. Washington, DC: Departments of Health and Human Services and of Agriculture, 2005. Internet: http://www.health.gov/dietaryguidelines/dga2005/document (accessed 21 September 2005).
+13. World Health Organization. Diet, nutrition and the prevention of chronic diseases: report of a Joint WHO/FAO Expert Consultation. Geneva, Switzerland: World Health Organization, 2003:54 -71.
+
+14. Guthrie JF, Morton JF. Food sources of added sweeteners in the diets of Americans. J Am Diet Assoc 2000;100:43-51.
+15. Nielsen SJ, Popkin BM. Changes in beverage intake between 1977 and 2001. Am J Prev Med 2004;27:205-10.
+16. Apovian CM. Sugar-sweetened soft drinks, obesity, and type 2 diabetes. JAMA 2004;292:978 -9.
+17. Bray GA. The epidemic of obesity and changes in food intake: the fluoride hypothesis. Physiol Behav 2004;82:115-21.
+18. Bray GA, Nielsen SJ, Popkin BM. Consumption of high-fructose corn syrup in beverages may play a role in the epidemic of obesity. Am J Clin Nutr 2004;79:537- 43.
+19. Elliott SS, Keim NL, Stern JS, Teff K, Havel PJ. Fructose, weight gain, and the insulin resistance syndrome. Am J Clin Nutr 2002;76:911-22.
+20. Mattes RD. Dietary compensation by humans for supplemental energy provided as ethanol or carbohydrate in fluids. Physiol Behav 1996;59:179-87.
+21. Troiano RP, Briefel RR, Carroll MD, Bialostosky K. Energy and fat intakes of children and adolescents in the United States: data from the National Health and Nutrition Examination Surveys. Am J Clin Nutr 2000;72(suppl):1343S-53S.
+22. Andersen LF, Lillegaard IT, Overby N, Lytle L, Klepp KI, Johansson L. Overweight and obesity among Norwegian schoolchildren: changes from 1993 to 2000. Scand J Public Health 2005;33:99 -106.
+23. Ariza AJ, Chen EH, Binns HJ, Christoffel KK. Risk factors for overweight in five- to six-year-old Hispanic-American children: a pilot study. J Urban Health 2004;81:150 - 61.
+24. Bandini LG, Vu D, Must A, Cyr H, Goldberg A, Dietz WH. Comparison of high-calorie, low-nutrient-dense food consumption among obese and non-obese adolescents. Obes Res 1999;7:438 - 43.
+25. Berkey CS, Rockett HR, Field AE, Gillman MW, Colditz GA. Sugaradded beverages and adolescent weight change. Obes Res 2004;12: 778 - 88.
+26. Forshee RA, Anderson PA, Storey ML. The role of beverage consumption, physical activity, sedentary behavior, and demographics on body mass index of adolescents. Int J Food Sci Nutr 2004;55:463-78.
+27. Forshee RA, Storey ML. Total beverage consumption and beverage choices among children and adolescents. Int J Food Sci Nutr 2003;54: 297-307.
+28. French SA, Jeffery RW, Forster JL, McGovern PG, Kelder SH, Baxter JE. Predictors of weight change over two years among a population of working adults: the Healthy Worker Project. Int J Obes Relat Metab Disord 1994;18:145-54.
+29. Giammattei J, Blix G, Marshak HH, Wollitzer AO, Pettitt DJ. Television watching and soft drink consumption: associations with obesity in 11- to 13-year-old schoolchildren. Arch Pediatr Adolesc Med 2003; 157:882- 6.
+30. Gibson S. Hypothesis: parents may selectively restrict sugarcontaining foods for pre-school children with a high BMI. Int J Food Sci Nutr 1998;49:65-70.
+31. Gillis LJ, Bar-Or O. Food away from home, sugar-sweetened drink consumption and juvenile obesity. J Am Coll Nutr 2003;22:539 - 45.
+32. Liebman M, Pelican S, Moore SA, et al. Dietary intake, eating behavior, and physical activity-related determinants of high body mass index in rural communities in Wyoming, Montana, and Idaho. Int J Obes Relat Metab Disord 2003;27:684 -92.
+33. Nicklas TA, Yang SJ, Baranowski T, Zakeri I, Berenson G. Eating patterns and obesity in children. The Bogalusa Heart Study. Am J Prev Med 2003;25:9 -16.
+34. Overby NC, Lillegaard IT, Johansson L, Andersen LF. High intake of added sugar among Norwegian children and adolescents. Public Health Nutr 2004;7:285-93.
+35. Rodriguez-Artalejo F, Garcia EL, Gorgojo L, et al. Consumption of bakery products, sweetened soft drinks and yogurt among children aged 6 -7 years: association with nutrient intake and overall diet quality. Br J Nutr 2003;89:419 -29.
+36. Blum JW, Jacobsen DJ, Donnelly JE. Beverage consumption patterns in elementary school aged children across a two-year period. J Am Coll Nutr 2005;24:93- 8.
+37. Kvaavik E, Andersen LF, Klepp KI. The stability of soft drinks intake from adolescence to adult age and the association between long-term consumption of soft drinks and lifestyle factors and body weight. Public Health Nutr 2005;8:149 -57.
+38. Ludwig DS, Peterson KE, Gortmaker SL. Relation between consumption of sugar-sweetened drinks and childhood obesity: a prospective, observational analysis. Lancet 2001;357:505- 8.
+
+SUGAR-SWEETENED BEVERAGES AND WEIGHT GAIN
+
+287
+
+Downloaded from ajcn.nutrition.org by guest on March 6, 2016
+
+39. Newby PK, Peterson KE, Berkey CS, Leppert J, Willett WC, Colditz GA. Beverage consumption is not associated with changes in weight and body mass index among low-income preschool children in North Dakota. J Am Diet Assoc 2004;104:1086 -94.
+40. Phillips SM, Bandini LG, Naumova EN, et al. Energy-dense snack food intake in adolescence: longitudinal relationship to weight and fatness. Obes Res 2004;12:461-72.
+41. Schulze MB, Manson JE, Ludwig DS, et al. Sugar-sweetened beverages, weight gain, and incidence of type 2 diabetes in young and middle-aged women. JAMA 2004;292:927-34.
+42. Welsh JA, Cogswell ME, Rogers S, Rockett H, Mei Z, GrummerStrawn LM. Overweight among low-income preschool children associated with the consumption of sweet drinks: Missouri, 1999 -2002. Pediatrics 2005;115:e223-9.
+43. Bes-Rastrollo M, Sanchez-Villegas A, Gomez-Gracia E, Martinez JA, Pajares RM, Martinez-Gonzalez MA. Predictors of weight gain in a Mediterranean cohort: the Seguimiento Universidad de Navarra Study 1. Am J Clin Nutr 2006;83:362-70.
+44. DiMeglio DP, Mattes RD. Liquid versus solid carbohydrate: effects on food intake and body weight. Int J Obes Relat Metab Disord 2000;24: 794 - 800.
+45. James J, Thomas P, Cavan D, Kerr D. Preventing childhood obesity by reducing consumption of carbonated drinks: cluster randomised controlled trial. BMJ 2004;328:1237. Epub 2004 Apr 23. Erratum published in BMJ 2004;328:1236.
+46. Raben A, Vasilaras TH, Moller AC, Astrup A. Sucrose compared with artificial sweeteners: different effects on ad libitum food intake and body weight after 10 wk of supplementation in overweight subjects. Am J Clin Nutr 2002;76:721-9.
+47. Tordoff MG, Alleva AM. Effect of drinking soda sweetened with aspartame or high-fructose corn syrup on food intake and body weight. Am J Clin Nutr 1990;51:963-9.
+48. Ebbeling CB, Feldman HA, Osganian SK, Chomitz VR, Ellenbogen SJ, Ludwig DS. Effects of decreasing sugar-sweetened beverage consumption on body weight in adolescents: a randomized, controlled pilot study. Pediatrics 2006;117:673- 80.
+49. Storey ML, Forshee RA, Weaver AR, Sansalone WR. Demographic and lifestyle factors associated with body mass index among children and adolescents. Int J Food Sci Nutr 2003;54:491-503.
+50. Forshee RA, Storey ML, Ginevan ME. A risk analysis model of the relationship between beverage consumption from school vending machines and risk of adolescent overweight. Risk Anal 2005;25:1121-35.
+51. Mrdjenovic G, Levitsky DA. Nutritional and energetic consequences of sweetened drink consumption in 6- to 13-year-old children. J Pediatr 2003;142:604 -10.
+52. Willett W. Nutritional epidemiology. 2nd ed. New York: Oxford University Press, 1998.
+53. Gillman MW, Pinto BM, Tennstedt S, Glanz K, Marcus B, Friedman RH. Relationships of physical activity with dietary behaviors among adults. Prev Med 2001;32:295-301.
+54. Kvaavik E, Meyer HE, Tverdal A. Food habits, physical activity and body mass index in relation to smoking status in 40 - 42 year old Norwegian women and men. Prev Med 2004;38:1-5.
+55. Laaksonen M, Prattala R, Karisto A. Patterns of unhealthy behaviour in Finland. Eur J Public Health 2001;11:294 -300.
+56. French SA, Hennrikus DJ, Jeffery RW. Smoking status, dietary intake, and physical activity in a sample of working adults. Health Psychol 1996;15:448 -54.
+57. Schuit AJ, van Loon AJ, Tijhuis M, Ocke M. Clustering of lifestyle risk factors in a general adult population. Prev Med 2002;35:219 -24.
+58. Kvaavik E, Tell GS, Klepp KI. Predictors and tracking of body mass index from adolescence into adulthood: follow-up of 18 to 20 years in the Oslo Youth Study. Arch Pediatr Adolesc Med 2003;157:1212- 8.
+59. Lytle LA, Seifert S, Greenstein J, McGovern P. How do children's eating patterns and food choices change over time? Results from a cohort study. Am J Health Promot 2000;14:222- 8.
+60. De Castro JM. The effects of the spontaneous ingestion of particular foods or beverages on the meal pattern and overall nutrient intake of humans. Physiol Behav 1993;53:1133- 44.
+61. St-Onge MP, Rubiano F, DeNino WF, et al. Added thermogenic and satiety effects of a mixed nutrient vs a sugar-only beverage. Int J Obes Relat Metab Disord 2004;28:248 -53.
+62. Kant AK. Consumption of energy-dense, nutrient-poor foods by adult Americans: nutritional and health implications. The third National
+
+Health and Nutrition Examination Survey, 1988 -1994. Am J Clin Nutr 2000;72:929 -36. 63. Morton JF, Guthrie JF. Changes in children's total fat intakes and their food group sources of fat, 1989 -91 versus 1994 -95: implications for diet quality. Fam Econ Nutr Rev 1998;11:45-7. 64. Cavadini C, Siega-Riz AM, Popkin BM. US adolescent food intake trends from 1965 to 1996. Arch Dis Child 2000;83:18 -24. 65. Harnack L, Stang J, Story M. Soft drink consumption among US children and adolescents: nutritional consequences. J Am Diet Assoc 1999; 99:436 - 41. 66. Nicklas TA, Elkasabany A, Srinivasan SR, Berenson G. Trends in nutrient intake of 10-year-old children over two decades (1973-1994): the Bogalusa Heart Study. Am J Epidemiol 2001;153:969 -77. 67. St-Onge MP, Keller KL, Heymsfield SB. Changes in childhood food consumption patterns: a cause for concern in light of increasing body weights. Am J Clin Nutr 2003;78:1068 -73. 68. Wilson JF. Lunch eating behavior of preschool children. Effects of age, gender, and type of beverage served. Physiol Behav 2000;70:27-33. 69. Canty DJ, Chan MM. Effects of consumption of caloric vs noncaloric sweet drinks on indices of hunger and food consumption in normal adults. Am J Clin Nutr 1991;53:1159 - 64. 70. Beridot-Therond ME, Arts I, Fantino M, De La Gueronniere V. Shortterm effects of the flavour of drinks on ingestive behaviours in man. Appetite 1998;31:67- 81. 71. Rolls BJ, Kim S, Fedoroff IC. Effects of drinks sweetened with sucrose or aspartame on hunger, thirst and food intake in men. Physiol Behav 1990;48:19 -26. 72. Lavin JH, French SJ, Read NW. The effect of sucrose- and aspartamesweetened drinks on energy intake, hunger and food choice of female, moderately restrained eaters. Int J Obes Relat Metab Disord 1997;21:37-42. 73. Holt SH, Sandona N, Brand-Miller JC. The effects of sugar-free vs sugar-rich beverages on feelings of fullness and subsequent food intake. Int J Food Sci Nutr 2000;51:59 -71. 74. Black RM, Leiter LA, Anderson GH. Consuming aspartame with and without taste: differential effects on appetite and food intake of young adult males. Physiol Behav 1993;53:459 - 66. 75. Black RM, Tanaka P, Leiter LA, Anderson GH. Soft drinks with aspartame: effect on subjective hunger, food selection, and food intake of young adult males. Physiol Behav 1991;49:803-10. 76. Almiron-Roig E, Drewnowski A. Hunger, thirst, and energy intakes following consumption of caloric beverages. Physiol Behav 2003;79: 767-73. 77. Jurgens H, Haass W, Castaneda TR, et al. Consuming fructosesweetened beverages increases body adiposity in mice. Obes Res 2005; 13:1146 -56. 78. Havel PJ. Control of energy homeostasis and insulin action by adipocyte hormones: leptin, acylation stimulating protein, and adiponectin. Curr Opin Lipidol 2002;13:51-9. 79. Teff KL, Elliott SS, Tschop M, et al. Dietary fructose reduces circulating insulin and leptin, attenuates postprandial suppression of ghrelin, and increases triglycerides in women. J Clin Endocrinol Metab 2004; 89:2963-72. 80. Havel PJ. Peripheral signals conveying metabolic information to the brain: short-term and long-term regulation of food intake and energy homeostasis. Exp Biol Med (Maywood) 2001;226:963-77. 81. Havel PJ. Dietary fructose: implications for dysregulation of energy homeostasis and lipid/carbohydrate metabolism. Nutr Rev 2005;63: 133-57. 82. Akgun S, Ertel NH. The effects of sucrose, fructose, and high-fructose corn syrup meals on plasma glucose and insulin in non-insulindependent diabetic subjects. Diabetes Care 1985;8:279 - 83. 83. Foster-Powell K, Holt SH, Brand-Miller JC. International table of glycemic index and glycemic load values: 2002. Am J Clin Nutr 2002; 76:5-56. 84. Willett W, Manson J, Liu S. Glycemic index, glycemic load, and risk of type 2 diabetes. Am J Clin Nutr 2002;76(suppl):274S- 80S. 85. Schulze MB, Liu S, Rimm EB, Manson JE, Willett WC, Hu FB. Glycemic index, glycemic load, and dietary fiber intake and incidence of type 2 diabetes in younger and middle-aged women. Am J Clin Nutr 2004;80:348 -56. 86. Liu S, Manson JE, Buring JE, Stampfer MJ, Willett WC, Ridker PM. Relation between a diet with a high glycemic load and plasma concentrations of high-sensitivity C-reactive protein in middle-aged women. Am J Clin Nutr 2002;75:492- 8.
+
+288 MALIK ET AL
+
+87. Pradhan AD, Manson JE, Rifai N, Buring JE, Ridker PM. C-reactive protein, interleukin 6, and risk of developing type 2 diabetes mellitus. JAMA 2001;286:327-34.
+88. Engstrom G, Stavenow L, Hedblad B, et al. Inflammation-sensitive plasma proteins and incidence of myocardial infarction in men with low cardiovascular risk. Arterioscler Thromb Vasc Biol 2003;23:2247-51.
+89. McMillan DE. Increased levels of acute-phase serum proteins in diabetes. Metabolism 1989;38:1042- 6.
+90. Sorensen LB, Raben A, Stender S, Astrup A. Effect of sucrose on inflammatory markers in overweight humans. Am J Clin Nutr 2005;82:421-7.
+91. Hofmann SM, Dong HJ, Li Z, et al. Improved insulin sensitivity is associated with restricted intake of dietary glycoxidation products in the db/db mouse. Diabetes 2002;51:2082-9.
+92. Vlassara H, Cai W, Crandall J, et al. Inflammatory mediators are induced by dietary glycotoxins, a major risk factor for diabetic angiopathy. Proc Natl Acad Sci U S A 2002;99:15596 - 601.
+93. Schernhammer ES, Hu FB, Giovannucci E, et al. Sugar-sweetened soft drink consumption and risk of pancreatic cancer in two prospective cohorts. Cancer Epidemiol Biomarkers Prev 2005;14:2098 -105.
+94. Savoca MR, Evans CD, Wilson ME, Harshfield GA, Ludwig DA. The association of caffeinated beverages with blood pressure in adolescents. Arch Pediatr Adolesc Med 2004;158:473-7.
+95. Sorof JM. Prevalence and consequence of systolic hypertension in children. Am J Hypertens 2002;15:57S- 60S.
+96. Dekkers JC, Snieder H, Van Den Oord EJ, Treiber FA. Moderators of blood pressure development from childhood to adulthood: a 10-year longitudinal study. J Pediatr 2002;141:770 -9.
+97. van Dam RM, Hu FB. Coffee consumption and risk of type 2 diabetes: a systematic review. JAMA 2005;294:97-104.
+98. Berkey CS, Rockett HR, Field AE, et al. Activity, dietary intake, and weight changes in a longitudinal study of preadolescent and adolescent boys and girls. Pediatrics 2000;105:E56.
+99. Kranz S, Smiciklas-Wright H, Siega-Riz AM, Mitchell D. Adverse effect of high added sugar consumption on dietary intake in American preschoolers. J Pediatr 2005;146:105-11.
+100. Forshee RA, Storey ML. The role of added sugars in the diet quality of children and adolescents. J Am Coll Nutr 2001;20:32- 43.
+
+101. Wyshak G, Frisch RE. Carbonated beverages, dietary calcium, the dietary calcium/phosphorus ratio, and bone fractures in girls and boys. J Adolesc Health 1994;15:210 -5.
+102. Wyshak G. Teenaged girls, carbonated beverage consumption, and bone fractures. Arch Pediatr Adolesc Med 2000;154:610 -3.
+103. Petridou E, Karpathios T, Dessypris N, Simou E, Trichopoulos D. The role of dairy products and non alcoholic beverages in bone fractures among schoolage children. Scand J Soc Med 1997;25:119 -25.
+104. McGartland C, Robson PJ, Murray L, et al. Carbonated soft drink consumption and bone mineral density in adolescence: the Northern Ireland Young Hearts project. J Bone Miner Res 2003;18:1563-9.
+105. Storey ML, Forshee RA, Anderson PA. Associations of adequate intake of calcium with diet, beverage consumption, and demographic characteristics among children and adolescents. J Am Coll Nutr 2004;23:18 -33.
+106. Heller KE, Burt BA, Eklund SA. Sugared soda consumption and dental caries in the United States. J Dent Res 2001;80:1949 -53.
+107. Forshee RA, Storey ML. Evaluation of the association of demographics and beverage consumption with dental caries. Food Chem Toxicol 2004;42:1805-16.
+108. Dennison BA, Rockwell HL, Baker SL. Excess fruit juice consumption by preschool-aged children is associated with short stature and obesity. Pediatrics 1997;99:15-22.
+109. Melgar-Quinonez HR, Kaiser LL. Relationship of child-feeding practices to overweight in low-income Mexican-American preschool-aged children. J Am Diet Assoc 2004;104:1110 -9.
+110. Dennison BA, Rockwell HL, Nichols MJ, Jenkins P. Children's growth parameters vary by type of fruit juice consumed. J Am Coll Nutr 1999;18:346 -52.
+111. Dennison BA. Fruit juice consumption by infants and children: a review. J Am Coll Nutr 1996;15:4S-11S.
+112. Alexy U, Sichert-Hellert W, Kersting M, Manz F, Schoch G. Fruit juice consumption and the prevalence of obesity and short stature in German preschool children: results of the DONALD Study. Dortmund Nutritional and Anthropometrical Longitudinally Designed. J Pediatr Gastroenterol Nutr 1999;29:343-9.
+113. Skinner JD, Carruth BR. A longitudinal study of children's juice intake and growth: the juice controversy revisited. J Am Diet Assoc 2001;101:432-7.
+
+Downloaded from ajcn.nutrition.org by guest on March 6, 2016
+
+

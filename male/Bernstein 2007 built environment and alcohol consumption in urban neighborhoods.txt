@@ -1,0 +1,431 @@
+Available online at www.sciencedirect.com
+
+Drug and Alcohol Dependence 91 (2007) 244-252
+
+The built environment and alcohol consumption in urban neighborhoods
+Kyle T. Bernstein a,, Sandro Galea b,c,d, Jennifer Ahern b,e, Melissa Tracy b,c, David Vlahov c,d
+a Department of Emergency Medicine, NYU School of Medicine, New York, NY 10013, USA b Department of Epidemiology, University of Michigan, Ann Arbor, MI 48104, USA
+c Center for Urban Epidemiology Studies, New York Academy of Medicine, New York, NY 10029, USA d Department of Epidemiology, Columbia University Mailman School of Public Health, New York, NY 10032, USA
+e Division of Epidemiology, University of California at Berkeley, Berkeley, CA 94530, USA
+Received 26 July 2006; received in revised form 13 March 2007; accepted 5 June 2007
+Abstract
+Objectives: To examine the relations between characteristics of the neighborhood built environment and recent alcohol use. Methods: We recruited participants through a random digit dial telephone survey of New York City (NYC) residents. Alcohol consumption was assessed using a structured interview. All respondents were assigned to neighborhood of residence. Data on the internal and external built environment in 59 NYC neighborhoods were collected from archival sources. Multilevel models were used to assess the adjusted relations between features of the built environment and alcohol use. Results: Of the 1355 respondents, 40% reported any alcohol consumption in the past 30 days, and 3% reported more than five drinks in one sitting (heavy drinking) in the past 30 days. Few characteristics of the built environment were associated with any alcohol use in the past 30 days. However, several features of the internal and external built environment were associated with recent heavy drinking. After adjustment, persons living in neighborhoods characterized by poorer features of the built environment were up to 150% more likely to report heavy drinking in the last 30 days compared to persons living in neighborhoods characterized by a better built environment. Conclusions: Quality of the neighborhood built environment may be associated with heavy alcohol consumption in urban populations, independent of individual characteristics. The role of the residential environment as a determinant of alcohol abuse warrants further examination. (c) 2007 Elsevier Ireland Ltd. All rights reserved.
+Keywords: Epidemiology; Alcohol; Multilevel modeling; Neighborhood
+
+1. Introduction
+The global burden of disease attributed to alcohol consumption is substantial. Between 1.5% and 3.2% of global mortality and 6% of total global life years lost have been attributed to alcohol consumption (Murray and Lopez, 1996; Rehm et al., 2003). Furthermore, a dose response relationship has been documented between increasing amounts of daily alcohol consumption and the risk of developing disease, including oral, esophageal, liver, and breast cancers, unipolar major depression, epilepsy, coronary heart disease, stroke, and liver cirrhosis (Rehm et al., 2003). In the United States, per capita alcohol consumption in 2003 was
+ Corresponding author at: Bureau of HIV/AIDS Prevention and Control, 40 Worth Street, Room 1502, New York, NY 10013, USA. Tel.: +1 212 788 4284; fax: +1 212 788 2273.
+E-mail address: kbernste@health.nyc.gov (K.T. Bernstein).
+
+estimated to be 2.22 gal, representing a 0.9% increase over 2002 (Lakins et al., 2005).
+Several individual characteristics have been associated with an increased risk of frequent heavy drinking. Frequent heavy drinking and its sequelae vary by gender and race/ethnicity (Caetano and Clark, 1998a,b). Lower educational attainment and income, unemployment, being single, separated, or divorced, and younger age have been shown to increase the risk of heavy drinking (Galvan and Caetano, 2003). Attitudes towards drinking also appear to differ by both gender and race/ethnicity, with non-Whites having more negative attitudes towards drinking and drunkenness compared to Whites (Caetano and Clark, 1999). Furthermore, liberal attitudes and norms regarding drinking have been associated with increased risk of heavy drinking (Caetano and Clark, 1999).
+Although during the past decade a growing body of research has considered the relations between characteristics of
+
+0376-8716/$ - see front matter (c) 2007 Elsevier Ireland Ltd. All rights reserved. doi:10.1016/j.drugalcdep.2007.06.006
+
+K.T. Bernstein et al. / Drug and Alcohol Dependence 91 (2007) 244-252
+
+245
+
+neighborhoods and health (Cohen et al., 2003; Diehr et al., 1993; Ellaway and Macintyre, 1996; Macintyre and Ellaway, 2003; Subramania et al., 2001), there is a paucity of research on features of an individual's neighborhood context that may play a role in shaping alcohol use and misuse. There has been some research on characteristics of neighborhoods and their relation to alcohol use among adolescents and young adults (Kim and McCarthy, 2006; Wilson et al., 2005). Among adolescents, regular alcohol use increases with lower neighborhood attachment, organization, and higher community norms favoring drug use and the perceived availability of drugs (Beyers et al., 2004). One analysis has shown that alcohol use among adolescents is correlated with increased neighborhood violence and drug use, and decreased safety (Lambert et al., 2004). It has been reported that high socio-economic status (SES) neighborhoods have increased reporting of parental drinking which may in turn be associated with increased adolescent alcohol use (Chuang et al., 2005).
+A few recent reports have assessed the spatial relations between availability of alcohol within communities and individual alcohol consumption. These studies have found a relationship between proximity and availability of alcohol in both individual consumption of alcohol and community disorder and violence (Cohen et al., 2006; Gorman et al., 2001; Gruenewald et al., 1993, 2002; Lipton and Gruenewald, 2002; Millar and Gruenewald, 1997; Zhu et al., 2004). However, these studies were concerned particularly with the location and density of the availability of alcohol as key determinants of alcohol consumption and attendant adverse health consequences and did not consider if features of neighborhoods themselves, separate and apart from availability of alcohol, were associated with individual alcohol consumption. We are aware of only one study that has considered whether particular neighborhood characteristics are associated with risk of adult alcohol use. In that study, women residing in neighborhoods characterized by high levels of disorder, drank more heavily or got drunk more often than those living in a more orderly neighborhood (Hill et al., 2005). This study was limited by reliance on self-reports for both alcohol use and neighborhood conditions and was restricted to women.
+The urban built environment can be thought of as all of the characteristics of an area or neighborhood that cannot be reduced to the people that live in that area (Weich et al., 2002, 2001). This includes not only the buildings of a neighborhood, but the streets, parks, public spaces, etc. There is growing interest in the notion of the built environment and its potential influence on health, and there is no one definition of what constitutes the built environment. For example, land use, urban sprawl, residential proximity to playgrounds and fast food establishments have been examined within the context of obesity (Burdette and Whitaker, 2004; Ewing et al., 2006; Gordon-Larsen et al., 2006). Indoor air quality has been extensively studied in relation to respiratory and other illnesses in both workplaces and homes (Apte et al., 2000; Bornehag et al., 2005; Mendell et al., 2002; Sundell et al., 1995; Wargocki et al., 2002). Additionally, the role of new road construction has been explored in the context of injuries, noise pollution, air and sleep quality (Egan et al., 2003). Although there is no consensus in the literature about a single definition
+
+of the built environment, leading thinkers in the area have urged that the role of multiple dimensions of the built environment need to be explored in concert, and that study designs that objectively assess the built environment are key next steps for the field (Frumkin, 2006).
+In this analysis we expand upon the growing body of literature examining the potential health consequences of poor built environment. This work examines the relation between characteristics of the neighborhood built environment and alcohol use in a large urban area. We make a distinction here between the internal and the external built environment and make use of an objective assessment of the built environment using archival data combined with survey self-report data to assess use of alcohol. In this paper we define the internal built environment as the internal characteristics of individual homes and the external built environment as characteristics of the facade or structure of the home.
+2. Methods
+2.1. Sample
+A random digit dial telephone survey was conducted between March and June of 2002 among residents of the New York City (NYC) metropolitan area. Non-institutionalized adult residents of the NYC metropolitan area aged 18 years and over were eligible for the study (Tardiff et al., 1986). The study was intended to document mental health in the aftermath of the September 11, 2001 attacks. Residents living closest to the World Trade Center site were oversampled. While the telephone survey sampled from the larger metropolitan area, this analysis was restricted to residents of the five boroughs of NYC. The cooperation rate for the 35 min survey was 64.3%; the sample of respondents did not differ significantly from the 2000 census estimates of New York City with respect to age, gender, race/ethnicity, or income. The Institutional Review Board of the New York Academy of Medicine reviewed and approved this work.
+Using a structured questionnaire, respondents were interviewed regarding demographic characteristics such as age, race/ethnicity, sex, educational attainment and income. For this analysis, alcohol use was assessed in two ways: report of drinking any alcohol in the past 30 days and report of drinking five or more drinks at one sitting in the past 30 days (heavy alcohol use).
+2.2. Built environment assessment
+The 59 community districts of NYC represent the neighborhood units in this study. The community district boundaries represent efforts of the New York City Office of City Planning in the 1970s to define neighborhoods through the residents' own descriptions and community involvement was critical in their development. While these districts may no longer represent the homogenous units initially described three decades ago, they do represent neighborhoods that are meaningful for local residents and relevant to resident health and behavior. Examples of these community districts include well-recognized neighborhoods like the Upper West Side, or Bedford-Stuyvesant (Galea et al., 2005, 2003; Marzuk et al., 1997; Tardiff et al., 1986).
+Information describing characteristics of the neighborhood built environment was obtained from the 1999 NYC housing and vacancy survey (NYCHVS) (U.S. Census Bureau, 1999) and the fiscal 2002 NYC mayor's management report (New York City Mayor's Office of Operations, 2004). The NYCHVS is sponsored by the NYC Department of Housing Preservation and Development and is conducted approximately every 3 years. In the NYCHVS, trained field staff visits a sample of housing units in each neighborhood; the 1999 NYCHVS included over 15,000 occupied units. For each housing unit, the field staff assess the physical condition of the unit as well as interview one adult member. This analysis includes only occupied housing units to allow for comparison between the relative roles of external and internal built environments. The median number of housing units sampled per neighborhood was 245 (range of 187-702).
+
+246 K.T. Bernstein et al. / Drug and Alcohol Dependence 91 (2007) 244-252
+
+Table 1 Characteristics of the internal and external built environment in 59 New York City neighborhoods
+
+Characteristic
+
+Mean
+
+Study participants Median income ($)
+
+23 38,714
+
+Median
+13 36,470
+
+External built environment Percentage of buildings in neighborhood observed to be in dilapidated condition (one or more critical defect such as major open holes in the walls, or intermediate defects such as missing stair rails, or poor original construction and thus incapable of providing safe and adequate shelter for occupants) Percentage of buildings in neighborhood observed to be in deteriorating condition (displayed a lack of proper upkeep that could be corrected by normal maintenance, demonstrated through one or more intermediate defects like rotted or loose window frames or broken or missing stair rails) Percentage of buildings in neighborhood observed to have any external wall problems (missing bricks, siding, or outside wall material, sloping of bulging outside walls, or major cracks in outside walls Percentage of buildings in neighborhood observed to have any window problems (broken or missing windows, rotted or loose windows, or boarded up windows) Percentage of buildings in neighborhood observed to have any interior or exterior stairway problems (loose, broken or missing railing, rotted or loose, broken, or missing steps) Number of structural fires (emergency incidents in which the NYC fire department responded that were classified as structural fires or fires that have spread throughout the building
+Internal built environment Percentage of housing units in neighborhood experiencing toilet breakdowns (a time in the past 3 months when all toilets were not working for 6 consecutive hours) Percentage of housing units in neighborhood with some non-functioning kitchen facilities Percentage of housing units in neighborhood experiencing more than three heat breakdowns in winter (when heating equipment was not working for 6 consecutive hours) Percentage of housing units in neighborhood needing additional heat in winter (using additional sources of heat [such as a kitchen stove] because the regular system, though working, did not provide sufficient heat) Percentage of housing units in neighborhood with a large area of peeling paint or plaster (area of broken or peeling plaster on the interior ceiling or walls larger than 8.5 in. by 11 in.) Percentage of housing units in neighborhood with internal water leakage (any water leaking into the unit in the past 12 months, not including leaks resulting from the unit's own plumbing fixtures backing up or overflowing
+
+1.0
+5.9
+2.9 3.2 4.9 454.2
+9.6 2.4 4.4 11.0 6.5 16.2
+
+0.5
+5.1
+2.3 2.4 3.5 434.0
+9.0 2.4 3.2 9.2 5.9 15.5
+
+S.D. 1.3
+
+Range 4-291
+16,000-79,475
+0-7.7
+
+3.8 0.3-18.7
+
+2.9 2.8 4.3 197.1
+
+0-12.5 0-11.5 0-16.2 137.0-1014.0
+
+3.9 2.5-18.5 1.5 0-6.3 3.7 0-16.6
+5.8 1.6-30.1
+3.5 0.4-14.2
+5.9 7.0-29.6
+
+The Mayor's Office of Operations compiles data from a variety of agencies within the NYC government, including the fire department, police department, and the department of sanitation in the biannual mayor's report. Data from 2002 was obtained by accessing the interactive "My Neighborhood Statistics" feature on the mayor's management report website. A summary of all features of the internal and external built environment assessed is provided in Table 1.
+2.3. Statistical analysis
+Statistical analyses were weighted to adjust for the probability of selection, accounting for number of persons in a household, number of telephones in the household, and the oversample. Multilevel generalized estimating equation models (Zeger and Liang, 1986) were used to assess the relations between characteristics of the built environment and the drinking of alcohol in the past 30 days and heavy drinking in the past 30 days. Separate models were constructed for each measure of the built environment. The linearity of the relations between the independent variables and outcomes were examined by assessing differences in the log likelihoods between models with a linear exposure and a quadratic exposure; simple linear models were found to be appropriate for all relations examined. Adjusted models controlled for median neighborhood income in 2000 (Bureau, 2000), household income, age, race/ethnicity,
+
+and gender. Marital status and education were assessed as potential confounders and found not to significantly change the results of the models; therefore these covariates were not included in the final models presented. Odds ratios (ORs) were calculated from the final model. Here each OR represents the change in the relative odds of drinking alcohol in the 30 days prior to interview (or heavy drinking in the 30 days prior to interview) for a one standard deviation change in the measure of the built environment (Table 1). We also considered models that adjusted for depression and exposure to the September 11 terrorist attacks to assess if the timing of the study and the particular circumstances of the study influenced the results documented here.
+3. Results
+A total of 1570 NYC residents were interviewed; 1355 (86.3%) provided information required to determine neighborhood of residence. There were no significant demographic differences between participants who provided residential information and those who declined. Table 2 shows the demographic characteristics of the study population; the demographic distri-
+
+K.T. Bernstein et al. / Drug and Alcohol Dependence 91 (2007) 244-252
+
+Table 2 Demographic characteristics of study population and reported alcohol use in past 30 days
+
+Overall study population
+
+%
+
+Percentage drinking alcohol in past 30 days
+
+Total
+
+1355
+
+100.00
+
+39.98
+
+Age 18-24 25-34 35-44 45-54 55-64 65+
+
+144
+
+15.95
+
+44.69
+
+357
+
+27.75
+
+39.65
+
+279
+
+18.33
+
+43.76
+
+248
+
+18.04
+
+41.90
+
+148
+
+10.95
+
+29.32
+
+134 8.98 28.31
+
+Gender Male Female
+
+616
+
+43.83
+
+48.24
+
+739
+
+56.17
+
+32.38
+
+Race/ethnicity White Asian African-American Hispanic Other
+
+682 102 220 291
+40
+
+35.65 6.26 24.24
+29.69 4.15
+
+58.27 25.81 28.08 26.76 47.87
+
+Income
+
+$100,000+
+
+213
+
+11.33
+
+70.95
+
+$75,000-$99,999
+
+102
+
+9.76 55.89
+
+$50,000-$74,999
+
+196
+
+16.08
+
+44.36
+
+$40,000-$49,999 93 6.68 41.88
+
+$30,000-$39,999
+
+134
+
+14.91
+
+44.06
+
+$20,000-$29,999
+
+142
+
+16.54
+
+30.29
+
+<$20,000
+
+265
+
+24.71
+
+29.59
+
+Education Graduate degree College degree Some college High school graduate/GED <High school graduate
+
+255 442 239 248 169
+
+10.55 27.87 21.60 23.99 15.99
+
+59.42 54.24 35.97 32.37 15.95
+
+p-Value 0.13
+<0.001 <0.001 <0.001
+<0.001
+
+Percentage drinking heavy alcohol in past 30 days
+3.25
+5.01 4.19 3.27 2.20 2.05 0.56
+5.60 1.41
+4.71 2.55 2.79 2.09 3.84
+5.59 0.34 3.11 8.16 0.51 5.63 4.39
+3.07 4.66 2.66 2.50 2.85
+
+247 p-Value 0.31
+0.0009 0.64 0.0002
+0.75
+
+bution is comparable to the 2000 census demographics for NYC. Overall, the mean age of the sample population was 40.36 and 56.2% were female. Over a third of the sample was White, 24.2% were African-American, and 29.7% were hispanic. Forty-four percent of the sample reported an annual income of $50,000 or more, and 38% had completed at least a college degree.
+The prevalences of alcohol drinking in the last 30 days and heavy alcohol drinking (more than five drinks in one sitting) were 40% and 3%, respectively. Males and Whites (p < 0.001) were more likely to report drinking any alcohol in the past 30 days (Table 2). Furthermore, there were moderate dose response relations between increasing income and education, and increasing prevalence of any drinking in the past 30 days (Table 2). Men reported more heavy drinking in the past 30 days (p < 0.001, Table 2). Unlike any drinking in the past 30 days, no association was found between race/ethnicity and heavy drinking in the past 30 days. Significant differences were seen with respect to income and heavy drinking (p < 0.001), but not with education.
+The results of the multilevel models predicting any alcohol use in the past 30 days are shown in Table 3. Several factors showed unadjusted negative associations (buildings with stairway problems, toilet breakdowns, non-functioning kitchen
+
+facilities, more than three heat breakdowns, and need for additional heat) with any drinking in the past 30 days; however after adjustment only two characteristics of the built environment were still associated with alcohol use. A respondent living in a neighborhood characterized by units with large areas of peeling paint or plaster had a 1.33 (95% CI 1.08-1.65) times greater odds of drinking in the last 30 days compared to a similar respondent living in a neighborhood characterized by one standard deviation fewer units with large areas of peeling paint and plaster. The adjusted OR for percentage of units with internal water leakage was 1.30 (1.01-1.66).
+Table 4 describes the results of the multilevel models predicting heavy alcohol use (more than five drinks in one sitting) in the past 30 days. In adjusted models, several characteristics of the built environment were associated with increased odds of heavy drinking. These included percentage of buildings with window problems (OR = 2.05, 95% CI 1.03-4.09) or stairway problems (OR = 2.34, 95% CI 1.13-4.86), percentage of units with more than three heat breakdowns in winter (OR = 2.42, 95% CI 1.33-4.43), needing additional heat in winter (OR = 2.18, 95% CI 1.21-3.93), with large areas of peeling paint or plaster (OR = 2.02, 95% CI 1.18-3.46), and internal leakage (OR = 2.55, 95% CI 1.61-4.05).
+
+248 K.T. Bernstein et al. / Drug and Alcohol Dependence 91 (2007) 244-252
+
+Table 3 Multilevel logistic regression models predicting any alcohol use in the past 30 days
+Characteristic
+
+ORa
+
+External Percentage of buildings observed to be in dilapidated condition Percentage of buildings observed to be in deteriorating condition Percentage of buildings with any external wall problems Percentage of buildings with any window problems Percentage of buildings with any stairway problems Number of structural fires
+
+0.89 0.88 0.82 0.86 0.75 0.87
+
+Internal Percentage of units experiencing toilet breakdowns Percentage of units with some non-functioning kitchen facilities Percentage of units experiencing more than three heat breakdowns in winter Percentage of units needing additional heating in winter Percentage of units with large area of peeling paint or plaster Percentage of units with internal water leakage
+
+0.68 0.81 0.73 0.74 0.90 0.81
+
+a Odds ratio for a 1S.D. increase in the particular characteristic of the built environment. b Adjusted for neighborhood income, household income, age, race, sex.
+
+95% CI
+0.71-1.11 0.70-1.11 0.67-1.02 0.69-1.06 0.61-0.93 0.67-1.10
+0.56-0.83 0.66-0.99 0.58-0.93 0.58-0.95 0.74-1.09 0.64-1.02
+
+Table 4 Multilevel logistic regression models predicting heavy alcohol use (more than five drinks in a sitting) in the last 30 days
+
+Characteristic
+
+ORa 95% CI
+
+External Percentage of buildings observed to be in dilapidated condition Percentage of buildings observed to be in deteriorating condition Percentage of buildings with any external wall problems Percentage of buildings with any window problems Percentage of buildings with any stairway problems Number of structural fires
+
+1.16 0.81-1.68 0.96 0.51-1.81 1.29 0.78-2.13 1.21 0.72-2.18 1.25 0.68-2.28 1.29 0.81-2.07
+
+Internal Percentage of units experiencing toilet breakdowns Percentage of units with some non-functioning kitchen facilities Percentage of units experiencing more than three heat breakdowns in winter Percentage of units needing additional heating in winter Percentage of units with large area of peeling paint or plaster Percentage of units with internal water leakage
+
+1.06 1.15 1.27 1.26 1.35 1.40
+
+0.62-1.82 0.67-1.97 0.75-2.14 0.76-2.08 0.82-2.20 0.88-2.24
+
+a Odds ratio for a 1S.D. increase in the particular characteristic of the built environment. b Adjusted for neighborhood income, household income, age, race, sex.
+
+Adjusted ORa,b
+1.00 1.11 1.01 1.24 1.08 1.10
+0.93 0.99 1.15 1.05 1.33 1.30
+Adjusted ORa,b
+1.26 1.14 1.68 2.05 2.34 1.48
+1.65 1.57 2.42 2.18 2.02 2.55
+
+95% CI
+0.81-1.24 0.69-1.44 0.80-1.29 0.98-1.56 0.84-1.39 0.89-1.37
+0.69-1.24 0.79-1.24 0.90-1.47 0.79-1.39 1.08-1.65 1.01-1.66
+95% CI
+0.84-1.89 0.64-2.04 0.92-3.06 1.03-4.09 1.13-4.86 0.84-2.63
+0.85-3.22 0.91-2.72 1.33-4.43 1.21-3.93 1.18-3.46 1.61-4.05
+
+Two additional sets of multilevel models were also examined, adjusting for lifetime depression, and whether the respondent was directly affected by the September 11 terrorist attacks. The results of the multilevel models did not change substantially with the addition of any of these factors, therefore the models presented (Tables 3 and 4) do not include these additional factors.
+4. Discussion
+This multilevel analysis found that while few characteristics of the neighborhood built environment were associated with any drinking, several characteristics of both the internal and the external built environment were associated with an increased episodes of recent heavy drinking. Respondents living in neighborhoods characterized by poor built environments were up to 150% more likely to report recent heavy drinking than similar respondents in neighborhoods with better built environments, when controlling for individual characteristics.
+
+There are well-established theoretic frameworks that may help us understand the association between living in a substandard built environment and heavy drinking. The tension reduction hypothesis suggests that alcohol reduces stress and distress and that people consume alcohol to reduce the stress and distress of their lives (Conger, 1956). Several authors have suggested that living in poor neighborhoods is associated with psychological distress (Aneshensel and Sucoff, 1996; Galea et al., 2005; Latkin and Curry, 2003; Ross and Mirowsky, 2001; Schulz et al., 2000). It is therefore plausible that persons living in neighborhoods characterized by poor quality built environments use alcohol to relieve stress due to their living conditions. The observation that heavy alcohol use is associated with conditions of the neighborhood built environment rather than any drinking may support this hypothesis. The association between characteristics of the built environment and heavy alcohol use was independent of individual characteristics, suggesting that quality of the local neighborhood may be associated with vulnerability to adverse health among all persons in such neighborhoods,
+
+K.T. Bernstein et al. / Drug and Alcohol Dependence 91 (2007) 244-252
+
+249
+
+independent of the possible salutary properties of individual resources such as income.
+It is possible that the association between qualities of the neighborhood built environment and heavy alcohol use may be a reflection of a concentration of other deleterious elements of the urban neighborhood environment that, through various mechanisms, increase exposure to stressors and hence heavy alcohol drinking. The analyses presented here were adjusted for neighborhood income suggesting that factors directly linked to neighborhood economic status are unlikely to explain the observed association. However, factors such as neighborhood collective efficacy and social capital, unmeasured here, may contribute to the observed association. Although we found that both features of the internal and the external built environment were associated with increased risk of heavy alcohol use, features of the internal environment were more likely to be associated with heavy alcohol use than were features of the external environment. This may suggest that it is the daily exposure to adverse local conditions that may be central to the relation between the built environment and alcohol use rather than exposure to socially and more collectively experienced elements of the local environment.
+Individual drinking patterns are dynamic and change throughout the life course. Alcohol consumption generally declines as persons age (Karlamangla et al., 2006; Moore et al., 2005). Furthermore, marriage and smoking cessation have been shown to coincide with reductions in heavy drinking (Karlamangla et al., 2006; Moore et al., 2005). In the United States, heavy alcohol consumption is associated with being male, White, unmarried, lower income, and having less than a high school education (Glynn and Rhodes, 2005; Hoffman et al., 1999; Karlamangla et al., 2006; Midanik, 1983; Midanik and Clark, 1994, 1995; Midanik et al., 1990; Moore et al., 2005). Similar findings were seen here when individual level factors were examined (Table 2). Several of the known individual risk factors for heavy alcohol consumption, including low income and low education are likely to cluster within neighborhoods with poor quality built environment. In the analysis presented here, models were adjusted for age, race/ethnicity, sex, income, education, and marital status and we still found a relation between characteristics of the neighborhood environment and heavy alcohol use. This suggests that the association between the neighborhood built environment and heavy alcohol use is, at least in part, independent of the concentration of individual risk factors for heavy alcohol use in these neighborhoods.
+Urban minority communities are burdened with a disproportionate share of alcohol advertising. For example, in Chicago, African-American neighborhoods had nearly five times as many outdoor alcohol advertisements as White neighborhoods (Hackbarth et al., 1995). In Latino communities in California, a child walking home from school may be exposed to between 10 and 60 storefront alcohol advertisements (Alaniz and Wilkes, 1995). African-American youth were exposed to 21% more beer and 42% more distilled spirits magazine advertisements than the per capita exposure of youth in general and were exposed to 15% more alcohol radio advertisements in 2004 (Center on Alcohol Advertising and Youth, 2006). While we are unable to assess the
+
+role of advertising in this analysis, it is possible that alcohol marketing focused in largely minority communities may account for the disproportionate burden of heavy alcohol consumption these communities may experience.
+Previous analyses have suggested that poor neighborhood conditions generally (Cutrona et al., 2005; Driessen et al., 1998; Henderson et al., 2005; Latkin and Curry, 2003; Schulz et al., 2000; Yen and Kaplan, 1999) and poor quality built environment specifically (Galea et al., 2005) may be associated with greater likelihood of psychopathology. Heavy alcohol consumption is well known to be comorbid with psychopathology (Grant and Harford, 1995; Lipton, 1994) and it is possible that psychopathology such as depression may in part mediate the relation observed here. To assess this potential mechanism we considered lifetime depression as a covariate in the multilevel models of interest. Inclusion of depression in these models did not substantially attenuate the point estimates of interest suggesting that at least in this context psychopathology may not contribute substantially to the observations being documented here.
+It is possible that persons who drink more heavily move to neighborhoods characterized by a poorer physical condition. However, social drift is not likely to fully explain the associations we report. The findings we present were adjusted for both individual and neighborhood level income, therefore for social drift to adequately explain our findings, individuals who drank heavily would have to be more likely to move to or remain in neighborhoods with a poorer physical condition, holding constant their individual income and the neighborhood income level. Ultimately it is unclear from this work if residing in neighborhoods characterized by poorer built environments may influence persons to drink heavily or if persons who drink heavily are unable to maintain their homes and in turn their neighborhoods may deteriorate.
+This analysis may not be generalizable to other cities for two reasons. First, NYC is the largest city in the US and it is characterized by a heterogeneity that is uncommon in other cities. Second, the data for this analysis were originally collected to assess mental health problems following the September 11 attacks on New York City. While the survey took place 6 months following the attacks, evidence suggests that there may have been an excess alcohol use that persisted this many months after the terrorist attacks (Vlahov et al., 2004a,b). In order for the attacks to substantially influence these findings however, there would have to be an association between exposure to the attacks and the neighborhood built environment that created bias in the relation between neighborhood characteristics and health behavior. This is unlikely given the very localized nature of the September 11 terrorist attacks influencing a very small geographic part of New York City. We note that when we adjusted for being directly affected by the September 11 terrorist attacks, the measures of association describing the associations of interest did not change substantially. This is reassuring that the results documented here are not simply a reflection of associations that were present at one point in time in one specific circumstance. It remains possible, however, that unmeasured confounders particular either to the time of this study or to New York City as distinct from other cities, explain the results documented here.
+
+250 K.T. Bernstein et al. / Drug and Alcohol Dependence 91 (2007) 244-252
+
+One of the challenges of existing work that has assessed features of the urban environment that may be associated with behavior is the reporting of both environmental features and of behavior by the same study participants. The principal method to overcome this limitation is through the use of measures that characterize the built environment that were independent of the survey assessing alcohol use. Efforts to objectively assess the built environment have been documented by several authors (Cohen et al., 2000; Ewing et al., 2002). Increasingly it is recognized that objective assessments of the built environment have a critical role to play in epidemiologic work that is concerned with assessing relations between the built environment, health, and health behavior (McGinn et al., 2007). Consistent with this thinking, we used an objective assessment of the built environment in this study. Specifically, the assessments of neighborhood condition that were used for this study were carried out by objective field investigations by the NYC municipal government for purposes other than the analysis presented here. While these assessments may not consider the perspective of those who live in the neighborhood and how they may internalize of view the conditions that they live in, we suggest, as have others, that the objective nature of the built environment data strengthens confidence in the empiric observations documented here. From a methodologic point of view, the combination of objective assessments of the built environment with survey report of alcohol use substantially minimizes potential endogeneity and strengthens confidence in the observations documented here.
+Our analysis suggests an association between heavy alcohol use and the urban built environment. However, it is far more difficult to draw causal inference directly from this work. A growing number of authors have written about the challenges of applying causal thinking to macrosocial determinants of health (Kaufman, 2007). Modern epidemiologic causal thinking is predicated on counterfactual arguments that posit an alternate reality where all other factors, except the putative cause of interest, are held constant. However, it is challenging to articulate counterfactual experiments or scenarios that change putative social causal factors in isolation. For example, we found that irrespective of individual and household income, residing in a neighborhood with a larger percentage of homes with internal water damage increases individual likelihood of reporting heavy drinking. Generating a counterfactual argument regarding internal water damage is challenging. Such a counterfactual would require envisioning an identical person living in an identical neighborhood that is the same in all other respects except the proportion of homes in that neighborhood characterized by internal water damage. The exposure of interest here clearly is inextricably tied to a range of other neighborhood-level, and individual-level factors and conditions such that changing this one particular factor would almost necessarily imply changing several other factors, including other features of the built environment (e.g., low interest home improvement loans, changes in building codes, more frequent building inspections). We note that this challenge is not particular to the study of the relation between the built environment and health and health behavior, but rather poses a challenge for all epidemiologic inquiry into social factors that may cause health and disease. Importantly, such causal thinking has impli-
+
+cations for the role of work such as that documented here and possible interventions that may be informed by it. Although we isolate here specific elements of the built environment that are associated with alcohol drinking, the relevant intervention here may not be changing these specific elements, but rather intervening at different levels of influence in such a way as to change living conditions as a whole to improve the social environment. For example, relevant policy level interventions arising from this work probably would not target the fixing of water leaks, but rather may target overall conditions of the built environment.
+There are likely several other contextual processes that both separate from, and potentially with, characteristics of the built environment may influence risk of alcohol use. In the analysis presented here we examined the possible relation between one's physical environment and the use and abuse of alcohol. This is but one potential component in the complex etiology of substance use. The pricing, availability, and spatial distribution of alcohol, social norms regarding alcohol use, and parental and social support all may be important in the individual outcome of alcohol use and abuse. Several studies have shown a relation between alcohol outlet density at the neighborhood level and alcohol use, suggesting that alcohol outlets may mediate at least some of the relation between contextual characteristics of neighborhoods and alcohol use (Freisthler et al., 2003; Gorman et al., 2001; Gruenewald et al., 2006a,b, 2002; Scribner et al., 1998, 2000; Treno et al., 2001; Zhu et al., 2004). These findings are further modified by alcohol price (Treno et al., 1993a,b). Alcohol cost has been shown to be associated with individual consumption as well as retail density (Treno et al., 2001, 2006, 1993a,b). Future research is needed to disentangle the complex relationship between availability, neighborhood, and alcohol use. The process of urban gentrification may provide a natural laboratory for future studies aimed at elucidating the relationship between changing features of the urban built environment and alcohol use and abuse. If the relationship between the built environment and alcohol use is in fact causal, we might expect that as built environments improve through urban gentrification, that the risk of alcohol abuse in specific neighborhoods would be attenuated.
+Caveats considered this work adds to the growing body of literature that has documented an association between the environment in which one lives and health behavior, independent of individual characteristics. In NYC, while residing in a neighborhood characterized by a poor built environment was associated with an increased likelihood of recent heavy drinking, there was little relation between neighborhood environment and any drinking. While this analysis cannot establish a causal relation between exposure to neighborhood environment and use of alcohol, it suggests that local context may play a role in heavy alcohol drinking and that multi-level approaches to the study of heavy alcohol drinking may be warranted.
+Acknowledgements
+Funded in part by National Institutes of Health grants DA017642, MH 066081 and MH 066391.
+
+K.T. Bernstein et al. / Drug and Alcohol Dependence 91 (2007) 244-252
+
+251
+
+References
+Alaniz, M.L., Wilkes, C., 1995. Reinterperting Latino culture in the commodity form: the case of alcohol advertising in the Mexican American community hispanic. J. Behav. Sci. 17 (4), 430-451.
+Aneshensel, C.S., Sucoff, C.A., 1996. The neighborhood context of adolescent mental health. J. Health Soc. Behav. 37 (4), 293-310.
+Apte, M.G., Fisk, W.J., Daisey, J.M., 2000. Associations between indoor CO2 concentrations and sick building syndrome symptoms in U.S. office buildings: an analysis of the 1994-1996 BASE study data. Indoor Air 10 (4), 246-257.
+Beyers, J.M., Toumbourou, J.W., Catalano, R.F., Arthur, M.W., Hawkins, J.D., 2004. A cross-national comparison of risk and protective factors for adolescent substance use: the United States and Australia. J. Adolesc. Health 35 (1), 3-16.
+Bornehag, C.G., Sundell, J., Hagerhed-Engman, L., Sigsgaard, T., 2005. Association between ventilation rates in 390 Swedish homes and allergic symptoms in children. Indoor Air 15 (4), 275-280.
+Burdette, H.L., Whitaker, R.C., 2004. Neighborhood playgrounds, fast food restaurants, and crime: relationships to overweight in low-income preschool children. Prev. Med. 38 (1), 57-63.
+Bureau, U.C., 2000. Census summary tape, file 3A (STF3A). US Department of Commerce, Washington, DC.
+Caetano, R., Clark, C.L., 1998a. Trends in alcohol consumption patterns among whites, blacks and hispanics: 1984 and 1995. J. Stud. Alcohol 59 (6), 659-668.
+Caetano, R., Clark, C.L., 1998b. Trends in alcohol-related problems among whites, blacks, and hispanics: 1984-1995. Alcohol Clin. Exp. Res. 22 (2), 534-538.
+Caetano, R., Clark, C.L., 1999. Trends in situational norms and attitudes toward drinking among whites, blacks, and hispanics: 1984-1995. Drug Alcohol Depend. 54 (1), 45-56.
+Center on Alcohol Advertising Youth, 2006. Exposure of African-American Youth to Alcohol Advertising 2003 to 2004. Center on Alcohol Advertising and Youth, Washington, DC.
+Chuang, Y.C., Ennett, S.T., Bauman, K.E., Foshee, V.A., 2005. Neighborhood influences on adolescent cigarette and alcohol use: mediating effects through parent and peer behaviors. J. Health Soc. Behav. 46 (2), 187-204.
+Cohen, D., Spear, S., Scribner, R., Kissinger, P., Mason, K., Wildgen, J., 2000. "Broken windows" and the risk of gonorrhea. Am. J. Public Health 90 (2), 230-236.
+Cohen, D.A., Mason, K., Bedimo, A., Scribner, R., Basolo, V., Farley, T.A., 2003. Neighborhood physical conditions and health. Am. J. Public Health 93 (3), 467-471.
+Cohen, D.A., Ghosh-Dastidar, B., Scribner, R., Miu, A., Scott, M., Robinson, P., Farley, T.A., Bluthenthal, R.N., Brown-Taylor, D., 2006. Alcohol outlets, gonorrhea, and the Los Angeles civil unrest: a longitudinal analysis. Soc. Sci. Med. 62 (12), 3062-3071.
+Conger, J.J., 1956. Alcoholism: theory, problem and challenge. II. Reinforcement theory and the dynamics of alcoholism. Quart. J. Stud. Alcohol 17 (2), 296-305.
+Cutrona, C.E., Russell, D.W., Brown, P.A., Clark, L.A., Hessling, R.M., Gardner, K.A., 2005. Neighborhood context, personality, and stressful life events as predictors of depression among African American women. J. Abnorm. Psychol. 114 (1), 3-15.
+Diehr, P., Koepsell, T., Cheadle, A., Psaty, B.M., Wagner, E., Curry, S., 1993. Do communities differ in health behaviors? J. Clin. Epidemiol. 46 (10), 1141-1149.
+Driessen, G., Gunther, N., Van, O.J., 1998. Shared social environment and psychiatric disorder: a multilevel analysis of individual and ecological effects. Soc. Psychiatry Psychiatr. Epidemiol. 33 (12), 606-612.
+Egan, M., Petticrew, M., Ogilvie, D., Hamilton, V., 2003. New roads and human health: a systematic review. Am. J. Public Health 93 (9), 1463- 1471.
+Ellaway, A., Macintyre, S., 1996. Does where you live predict health related behaviours?: a case study in Glasgow. Health Bull. (Edinb.) 54 (6), 443-446.
+Ewing, R., Pendall, R., Chen, D., 2002. Measuring Sprawl and its Impact. Smart Growth America, Washington, DC.
+
+Ewing, R., Brownson, R.C., Berrigan, D., 2006. Relationship between urban sprawl and weight of United States youth. Am. J. Prev. Med. 31 (6), 464-474.
+Freisthler, B., Gruenewald, P.J., Treno, A.J., Lee, J., 2003. Evaluating alcohol access and the alcohol environment in neighborhood areas. Alcohol Clin. Exp. Res. 27 (3), 477-484.
+Frumkin, H., 2006. Cities, suburbs, and urban sprawl. In: Freundenberg, N., Galea, S., Vlahov, D. (Eds.), Cities and the Health of the Public. Vanderbilt University Press, Nashville, TN, pp. 144-176.
+Galea, S., Ahern, J., Vlahov, D., Coffin, P.O., Fuller, C., Leon, A.C., Tardiff, K., 2003. Income distribution and risk of fatal drug overdose in New York City neighborhoods. Drug Alcohol Depend. 70 (2), 139-148.
+Galea, S., Ahern, J., Rudenstine, S., Wallace, Z., Vlahov, D., 2005. Urban built environment and depression: a multilevel analysis. J. Epidemiol. Community Health 59 (10), 822-827.
+Galvan, F.H., Caetano, R., 2003. Alcohol use and related problems among ethnic minorities in the United States. Alcohol Res. Health 27 (1), 87-94.
+Glynn, R., Rhodes, P., 2005. Estimated HIV prevalence in the United States at the end of 2003. Abstract Presented at the National HIV Prevention Conference, Atlanta, GA. Abstract T1-B1101.
+Gordon-Larsen, P., Nelson, M.C., Page, P., Popkin, B.M., 2006. Inequality in the built environment underlies key health disparities in physical activity and obesity. Pediatrics 117 (2), 417-424.
+Gorman, D.M., Speer, P.W., Gruenewald, P.J., Labouvie, E.W., 2001. Spatial dynamics of alcohol availability, neighborhood structure and violent crime. J. Stud. Alcohol 62 (5), 628-636.
+Grant, B.F., Harford, T.C., 1995. Comorbidity between DSM-IV alcohol use disorders and major depression: results of a national survey. Drug Alcohol Depend. 39 (3), 197-206.
+Gruenewald, P.J., Ponicki, W.R., Holder, H.D., 1993. The relationship of outlet densities to alcohol consumption: a time series cross-sectional analysis. Alcohol Clin. Exp. Res. 17 (1), 38-47.
+Gruenewald, P.J., Remer, L., Lipton, R., 2002. Evaluating the alcohol environment: community geography and alcohol problems. Alcohol Res. Health 26 (1), 42-48.
+Gruenewald, P.J., Freisthler, B., Remer, L., Lascala, E.A., Treno, A., 2006a. Ecological models of alcohol outlets and violent assaults: crime potentials and geospatial analysis. Addiction 101 (5), 666-677.
+Gruenewald, P.J., Ponicki, W.R., Holder, H.D., Romelsjo, A., 2006b. Alcohol prices, beverage quality, and the demand for alcohol: quality substitutions and price elasticities. Alcohol Clin. Exp. Res. 30 (1), 96-105.
+Hackbarth, D.P., Silvestri, B., Cosper, W., 1995. Tobacco and alcohol billboards in 50 Chicago neighborhoods: market segmentation to sell dangerous products to the poor. J. Public Health Policy 16 (2), 213-230.
+Henderson, C., ez Roux, A.V., Jacobs Jr., D.R., Kiefe, C.I., West, D., Williams, D.R., 2005. Neighbourhood characteristics, individual level socioeconomic factors, and depressive symptoms in young adults: the CARDIA study. J. Epidemiol. Community Health 59 (4), 322-328.
+Hill, T.D., Ross, C.E., Angel, R.J., 2005. Neighborhood disorder, psychophysiological distress, and health. J. Health Soc. Behav. 46 (2), 170-186.
+Hoffman, J.H., Welte, J.W., Barnes, G.M., 1999. Alcohol consumption and alcohol dependence in adults in New York State. Drug Alcohol Depend. 56 (1), 17-23.
+Karlamangla, A., Zhou, K., Reuben, D., Greendale, G., Moore, A., 2006. Longitudinal trajectories of heavy drinking in adults in the United States of America. Addiction 101 (1), 91-99.
+Kaufman, J.S., 2007. Making casual inferences about macrosocial factors as a basis for public health policies. In: Galea, S. (Ed.), Macrosocial Determinants of Population Health. Springer, New York, NY.
+Kim, J., McCarthy, W.J., 2006. School-level contextual influences on smoking and drinking among Asian and Pacific Islander adolescents. Drug Alcohol Depend. 84 (1), 56-68.
+Lakins, N.E., Williams, G.D., Yi, H., Milton, M.E., 2005. Apparent Per Capita Alcohol Consumption: National, State and Regional Trends, 1977-2003. U.S.D.o.H.a.H.S. National Institutes of Alcohol Abuse and Alcoholism.
+Lambert, S.F., Brown, T.L., Phillips, C.M., Ialongo, N.S., 2004. The relationship between perceptions of neighborhood characteristics and substance use among urban African American adolescents. Am. J. Community Psychol. 34 (3-4), 205-218.
+
+252 K.T. Bernstein et al. / Drug and Alcohol Dependence 91 (2007) 244-252
+
+Latkin, C.A., Curry, A.D., 2003. Stressful neighborhoods and depression: a prospective study of the impact of neighborhood disorder. J. Health Soc. Behav. 44 (1), 34-44.
+Lipton, R.I., 1994. The effect of moderate alcohol use on the relationship between stress and depression. Am. J. Public Health 84 (12), 1913-1917.
+Lipton, R., Gruenewald, P., 2002. The spatial dynamics of violence and alcohol outlets. J. Stud. Alcohol 63 (2), 187-195.
+Macintyre, S., Ellaway, A., 2003. Neighborhoods and health: an overview. In: Kawachi, I., Berkman, L.F. (Eds.), Neighborhoods and Health. Oxford University Press, New York, pp. 20-42.
+Marzuk, P.M., Tardiff, K., Leon, A.C., Hirsch, C.S., Stajic, M., Portera, L., Hartwell, N., 1997. Poverty and fatal accidental drug overdoses of cocaine and opiates in New York City: an ecological study. Am. J. Drug Alcohol Abuse 23 (2), 221-228.
+McGinn, A.P., Evenson, K.R., Herring, A.H., Huston, S.L., Rodriguez, D.A., 2007. Exploring associations between physical activity and perceived and objective measures of the built environment. J. Urban Health.
+Mendell, M.J., Fisk, W.J., Petersen, M.R., Hines, C.J., Dong, M., Faulkner, D., Deddens, J.A., Ruder, A.M., Sullivan, D., Boeniger, M.F., 2002. Indoor particles and symptoms among office workers: results from a double-blind cross-over study. Epidemiology 13 (3), 296-304.
+Midanik, L., 1983. Familial alcoholism and problem drinking in a national drinking practices survey. Addict. Behav. 8 (2), 133-141.
+Midanik, L.T., Clark, W.B., 1994. The demographic distribution of US drinking patterns in 1990: description and trends from 1984. Am. J. Public Health 84 (8), 1218-1222.
+Midanik, L.T., Clark, W.B., 1995. Drinking-related problems in the United States: description and trends, 1984-1990. J. Stud. Alcohol 56 (4), 395-402.
+Midanik, L.T., Klatsky, A.L., Armstrong, M.A., 1990. Changes in drinking behavior: demographic, psychosocial, and biomedical factors. Int. J. Addict. 25 (6), 599-619.
+Millar, A.B., Gruenewald, P.J., 1997. Use of spatial models for community program evaluation of changes in alcohol outlet distribution. Addiction 92 (Suppl. 2), S273-S283.
+Moore, A.A., Gould, R., Reuben, D.B., Greendale, G.A., Carter, M.K., Zhou, K., Karlamangla, A., 2005. Longitudinal patterns and predictors of alcohol consumption in the United States. Am. J. Public Health 95 (3), 458-465.
+Murray, C.L., Lopez, A.D., 1996. Quantifying the burden of disease and injury attributable to ten major risk factors. In: Murray, C.L., Lopez, A.D. (Eds.), The Global Burden of Disease: A Comprehensive Assessment of the Mortality and Disability from Diseases, Injuries and Risk Factors in 1990 and Projected to 2020. Harvard University on behalf of the World Health Organization, Boston, pp. 295-324.
+New York City Mayor's Office of Operations, 2004. Fiscal, 2002. New York City Mayor's Office of Operations, New York.
+Rehm, J., Gmel, G., Sempos, C.T., Trevisan, M., 2003. Alcohol-related morbidity and mortality. Alcohol Res. Health 27 (1), 39-51.
+Ross, C.E., Mirowsky, J., 2001. Neighborhood disadvantage, disorder, and health. J. Health Soc. Behav. 42 (3), 258-276.
+Schulz, A., Williams, D., Israel, B., Becker, A., Parker, E., James, S.A., Jackson, J., 2000. Unfair treatment, neighborhood effects, and mental health in the detroit metropolitan area. J. Health Soc. Behav. 41 (3), 314-332.
+Scribner, R.A., Cohen, D.A., Farley, T.A., 1998. A geographic relation between alcohol availability and gonorrhea rates. Sex Transm. Dis. 25 (10), 544-548.
+
+Scribner, R.A., Cohen, D.A., Fisher, W., 2000. Evidence of a structural effect for alcohol outlet density: a multilevel analysis. Alcohol Clin. Exp. Res. 24 (2), 188-195.
+Subramania, S.V., Kawachi, I., Kennedy, B.P., 2001. Does the state you live in make a difference? Multilevel analysis of self-rated health in the US. Soc. Sci. Med. 53 (1), 9-19.
+Sundell, J., Wickman, M., Pershagen, G., Nordvall, S.L., 1995. Ventilation in homes infested by house-dust mites. Allergy 50 (2), 106-112.
+Tardiff, K., Gross, E.M., Messner, S.F., 1986. A study of homicides in Manhattan, 1981. Am. J. Public Health 76 (2), 139-143.
+Treno, A.J., Nephew, T.M., Ponicki, W.R., Gruenewald, P.J., 1993a. Alcohol beverage price spectra: opportunities for substitution. Alcohol Clin. Exp. Res. 17 (3), 675-680.
+Treno, A.J., Parker, R.N., Holder, H.D., 1993b. Understanding U.S. alcohol consumption with social and economic factors: a multivariate time series analysis, 1950-1986. J. Stud. Alcohol 54 (2), 146-156.
+Treno, A.J., Gruenewald, P.J., Johnson, F.W., 2001. Alcohol availability and injury: the role of local outlet densities. Alcohol Clin. Exp. Res. 25 (10), 1467-1471.
+Treno, A.J., Gruenewald, P.J., Wood, D.S., Ponicki, W.R., 2006. The price of alcohol: a consideration of contextual factors. Alcohol Clin. Exp. Res. 30 (10), 1734-1742.
+U.S. Census Bureau, 1999. New York City housing and vacancy survey. U.S. Census Bureau.
+Vlahov, D., Galea, S., Ahern, J., Resnick, H., Boscarino, J.A., Gold, J., Bucuvalas, M., Kilpatrick, D., 2004a. Consumption of cigarettes, alcohol, and marijuana among New York City residents six months after the September 11 terrorist attacks. Am. J. Drug Alcohol Abuse 30 (2), 385-407.
+Vlahov, D., Galea, S., Ahern, J., Resnick, H., Kilpatrick, D., 2004b. Sustained increased consumption of cigarettes, alcohol, and marijuana among Manhattan residents after September 11, 2001. Am. J. Public Health 94 (2), 253-254.
+Wargocki, P., Sundell, J., Bischof, W., Brundrett, G., Fanger, P.O., Gyntelberg, F., Hanssen, S.O., Harrison, P., Pickering, A., Seppanen, O., Wouters, P., 2002. Ventilation and health in non-industrial indoor environments: report from a European multidisciplinary scientific consensus meeting (EUROVEN). Indoor Air 12 (2), 113-128.
+Weich, S., Burton, E., Blanchard, M., Prince, M., Sproston, K., Erens, B., 2001. Measuring the built environment: validity of a site survey instrument for use in urban settings. Health Place 7 (4), 283-292.
+Weich, S., Blanchard, M., Prince, M., Burton, E., Erens, B., Sproston, K., 2002. Mental health and the built environment: cross-sectional survey of individual and contextual risk factors for depression. Br. J. Psychiatry 180, 428- 433.
+Wilson, N., Syme, S.L., Boyce, W.T., Battistich, V.A., Selvin, S., 2005. Adolescent alcohol, tobacco, and marijuana use: the influence of neighborhood disorder and hope. Am. J. Health Promot. 20 (1), 11-19.
+Yen, I.H., Kaplan, G.A., 1999. Poverty area residence and changes in depression and perceived health status: evidence from the Alameda County Study. Int. J. Epidemiol. 28 (1), 90-94.
+Zeger, S.L., Liang, K.Y., 1986. Longitudinal data analysis for discrete and continuous outcomes. Biometrics 42 (1), 121-130.
+Zhu, L., Gorman, D.M., Horel, S., 2004. Alcohol outlet density and violence: a geospatial analysis. Alcohol Alcohol. 39 (4), 369-375.
+
+

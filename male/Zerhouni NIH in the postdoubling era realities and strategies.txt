@@ -1,0 +1,272 @@
+POLICYFORUM
+
+Downloaded from www.sciencemag.org on December 20, 2011
+
+RESEARCH FUNDING
+NIH in the Post-Doubling Era: Realities and Strategies
+
+Immediate- to long-term approaches are discussed that will minimize the negative impacts of current budget constraints and still preserve the NIH mission.
+
+Elias A. Zerhouni*
+
+This has been a challenging year for the National Institutes of Health (NIH) and the biomedical research commu-
+
+nity. An extraordinarily tight federal budget
+
+is eroding the growth
+
+of NIH at a time
+
+Enhanced online at
+www.sciencemag.org/cgi/ content/full/314/5802/1088
+
+when opportunities for scientific progress
+
+and advances in human
+
+health have never been
+
+greater. As I talk to scientists and administra-
+
+tors throughout the country, the anxiety is
+
+palpable. I share these concerns. I am most
+
+deeply troubled about the impact of this diffi-
+
+cult situation on junior scientists, and on the
+
+ability of established investigators to maintain
+
+their laboratories.
+
+To engage in a productive dialogue about
+
+the future, I provide here some data, share
+
+my perspective about the main causes of the
+
+present situation, and outline the actions we
+
+are taking to reduce the very real strain on
+
+our scientists.
+
+Realities
+Many scientists are dismayed that it is more difficult to get funded today than it was before the NIH budget doubled. What can explain this apparent paradox? The core reason is the increase in the number of new applications and applicants for NIH grants (see figure, p. 1089). In 1998, NIH received 24,151 applications for new and competing research project grants (RPGs) (1); NIH expects to receive over 46,000 in 2006 and over 49,000 in 2007. The doubling in the demand for grants is primarily due to a large increase in the number of new scientists applying for grants. In 1998, there were about 19,000 scientists applying for competing awards. In 2006, NIH expects to receive applications from approximately 34,000 scientists and forecasts that over 36,000 scientists will apply in 2007. Remarkably, the largest surge in demand for grants occurred at the end of the doubling period and continues today. This "perfect storm"--the imbalance between supply and demand for grants--is the fundamental reason for the painful cir-
+
+* E. Zerhouni is the director of the National Institutes of Health, Bethesda, MD 20892, USA. E-mail: zerhounidirect@nih.gov
+
+cumstances in which we find ourselves. The principal cause of this remarkable
+growth in grant demand is the unprecedented expansion of research capacity across the country that began in 1999. Stimulated by successive administrations' and Congress's calling for more research on emerging health issues, academic institutions responded. Using philanthropic, local, and state resources, as well as loans, they expanded the scientific infrastructure and workforce to address the growing scope and complexity of our scientific challenges. For example, the American Association of Medical Colleges projects that an estimated $15 billion have been committed to new research facilities between 1998 and 2007, compared with $3.2 billion between 1990 and 1997. Allowing for
+
+the lag time necessary to build facilities and train scientists, this expansion is now being felt in the form of a rapid surge in applications. It should not go without mentioning, however, that this increased investment by our research institutions is resulting in the development of entirely new fields of research, leading to an acceleration of the pace of promising research advances across the entire spectrum of the biomedical and behavioral sciences. This is just what the nation wants and needs.
+Unfortunately, our ability to sustain this expanded research enterprise is now at risk. Some of the tension is due to inflation. Since 1998, the average size of RPGs grew by about 40%, and NIH budgets have not kept pace with biomedical research and development inflation since 2003 (2).
+Increased demand, inflation effects, and flat budgets are the main drivers of today's challenges. It has been suggested that decreased success rates are the result of NIH's excessively shifting its emphasis to applied research and clinical trials through large solicitations and projects at the expense of unsolicited, investigator-initiated basic research. This is simply not the case. In 1998, 54% of the total budget of NIH was dedicated to basic research, 40% to applied research (including clinical trials), and 6% to infrastructure programs. Funding for basic science is currently above 55% and is slated to grow beyond 56% in 2007; at which point, applied research will reach 41%, and 3% will be devoted to infrastructure needs.
+NIH embraces the importance of investigator-initiated research. We are firmly committed to independent grant mechanisms such as the unsolicited R01. Although the absolute number of requests for applications (RFAs) (3) grew during the early part of the doubling, their proportion relative to the NIH budget decreased since the doubling ended. Today, 91% of funded RPGs are unsolicited, compared with 88% in 2003, and 92% in 1998. Of our extramural grants budget, 78% remains dedicated to RPGs (4) as compared with 81% in 1998. The difference is primarily due to growth in centers and contract mechanisms to address emerging public health priorities.
+It has also been suggested that the NIH
+
+1088
+
+17 NOVEMBER 2006 VOL 314 SCIENCE www.sciencemag.org
+Published by AAAS
+
+CREDIT: JIM FRAZIER/IMAGES.COM/CORBIS
+
+POLICYFORUM
+
+Number of applications/applicants (in thousands)
+1998 1999 2000 2001 2002 2003 2004 2005 2006 2007
+% Success rate of grants funded
+Downloaded from www.sciencemag.org on December 20, 2011
+
+Roadmap (5) is a major cause of reduced suc- tists. Like farmers during difficult
+
+cess rates. In fact, the Roadmap represents times, we should not "eat our seed only 1.2% of the fiscal year (FY) 2006 NIH corn," but protect it. To accom-
+
+60
+
+Projected
+
+35
+
+budget. The science within the Roadmap is plish this, we have implemented peer-reviewed and very competitive. It is not a three specific strategies to en-
+
+50
+
+30
+
+monolithic program, but rather supports over 345 principal investigators at 133 extramural institutions through a variety of mechanisms, including R01s. It does not significantly affect overall success rates. The planned Roadmap budget represents a balanced portfolio, with
+
+courage and support junior scientists and new investigators: (i) Every institute and center is working to ensure that the success rates of new investigators are not disproportionately affected by flat
+
+40 30
+
+25 20 15
+
+40% going to basic research; 40% to clinical budgets, through various mechaand translational research; and 20% to inter- nisms such as differential pay line
+
+20
+
+10
+
+disciplinary and high-risk research, such as the Pioneer awards.
+I believe that any organization of the size and complexity of NIH needs to have an
+
+considerations. (ii) Because new investigators may not have the resources to sustain long peerreview cycles, they now receive
+
+10 0
+
+Applications Applicants Success rate
+
+5 0
+
+explicit and dynamic process for supporting their critiques within 1 week of
+
+critical scientific programs that cut across review and can apply up to 3
+
+Years
+
+scientific areas and that none of the individ- weeks beyond the next receipt
+
+ual institutes could support on its own. In date. This dramatically decreases the length junior researchers are facing in our aca-
+
+an era of rapid convergence of (and emerg- of the application review cycle without demic systems. Now is not the time to dis-
+
+ing opportunities in) science, the Roadmap compromising the rigor of peer review. (iii) courage young scientists, but to find bold
+
+process allows NIH to support innovative Outstanding new investigators still in ways of improving their career prospects
+
+and high-risk research, incubate new ideas, postdoctoral training may now apply to the and opportunities.
+
+and stimulate the development of transform- Pathway to Independence awards program Balancing supply and demand. NIH
+
+ing strategies that can benefit the entire launched in 2006 (6). It will fund 150 to 200 spends more on funding grants today than
+
+scientific community. To ensure vitality, postdoctoral candidates for each of the next ever before, but over 80% of its budget is
+
+no initiative will be funded for more than 5 years. These scientists will receive up to committed to ongoing projects. In any given
+
+10 years, with most lasting 5 years. In my 2 years of mentored training support, fol- year, the only resources available for new
+
+opinion, the greatest risk for science is to lowed by 3 years of R01-level funding, con- grants are those that come from ending proj-
+
+stop taking risks. The Roadmap process tingent upon securing a tenure-track position ects that started 4 to 5 years before, plus any
+
+allows NIH to remain responsive even with appropriate institutional support and re- new increase in the overall budget. Our large
+
+in constrained times. It has been and will continue to be developed through wide consultations with members of
+
+"Pragmatic and prudent steps need to be taken to minimize the long-term negative impact of the
+
+commitment base, the unexpected budgetary impact of hurricane Katrina, the fact that in 2006 the only funds avail-
+
+the scientific community. The hopefully short-term budget woes."
+Roadmap process was well
+
+able were those freed up from grants started when the NIH
+
+received by Congress and the
+
+budget had not reached its
+
+administration and served as an important sources. This strategy is designed to retain peak, along with the growing number of
+
+part of the rationale for NIH's small budget promising scientists and to give them the applications, compounded our difficulties. To
+
+increases in 2004 and 2005.
+
+opportunity for independent research at an alleviate the strain, we made the hard decision
+
+earlier stage of their career. Some institutes to reduce the committed budget of existing
+
+Strategies
+
+and centers are looking to expand this and awards by 2.35% for 2006, freeing up some
+
+Given these facts, what strategies for the other pilot programs in the future.
+
+resources for new and competing awards. In
+
+future should we, as a community, consider? I remain concerned about how long it now the coming years, as we recycle funds from
+
+Pragmatic and prudent steps need to be taken takes for a scientist to launch his or her inde- the higher funding years of 2003 to 2005,
+
+to minimize the long-term negative impact of pendent research program. Today, the average more uncommitted funds will become avail-
+
+the hopefully short-term budget woes. We age at which a scientist receives a tenure- able, and thus more new and competing
+
+must develop unified, informed, and proac- track faculty appointment has increased to RPGs can be awarded.
+
+tive strategies.
+
+38, and the average age for receiving a first Although strategic priority setting and
+
+We need to remain focused on our core independent award from NIH is above 40. careful management of these recycled funds
+
+values and to pursue our fundamental mis- This trend must be reversed, and the new will help stabilize success rates, they will
+
+sion of discovery--translating new knowl- Pathways program is one component of our not be sufficient to satisfy the much larger
+
+edge into tangible benefits for the American strategy to do so.
+
+demand for grant funding, if the budget
+
+people. This must remain our top priority. We all agree on the urgency of develop- remains flat and inflation continues to erode
+
+This means maintaining, to the greatest ing new and better ways of maintaining our purchasing power. While these potential
+
+extent possible, the ability of scientists at all the attractiveness, joy, and excitement of solutions will have an impact on NIH as a
+
+stages of their careers to continue their work. a research career while eliminating the whole, we recognize that neither the prob-
+
+Preserving future generations of scien- daunting obstacles and rigid traditions that lems nor the solutions fit every institute and
+
+www.sciencemag.org SCIENCE VOL 314 17 NOVEMBER 2006
+Published by AAAS
+
+1089
+
+POLICYFORUM
+
+Downloaded from www.sciencemag.org on December 20, 2011
+
+center. This is why we asked each institute and center to adjust its overall portfolio to preserve individual success rates to the extent possible. The difficult decisions that these adjustments require are made in consultation with institutes' and centers' outside scientific advisory councils.
+At the NIH level, we are also redirecting priorities. The intramural program, NIH administrative costs, and infrastructure expenses are being kept well below inflation.
+
+NIH per American over the past 30 years is about $110, or approximately $4 for each American per year over the entire period. In return, we enjoyed a 63% decrease in mortality due to heart disease. The value to Americans of this increase in life expectancy has been estimated at about $1.5 trillion per year over the 1970-90 period (10). This is an impressive return on investment by any measure, even if only a fraction of the gain came from medical research.
+
+"... the greatest risk for science is to stop taking risks."
+
+Given the current environment, Roadmap budgets are also reduced, and no new initiative within the Roadmap can be undertaken unless it fits within the budget agreed to by all the institute and center directors. This means that for the foreseeable future, new Roadmap initiatives can only begin as other Roadmap initiatives conclude.
+Improving peer review. Exacerbating current frustrations for investigators and reviewers is the burden associated with the submission of even more grant applications by applicants seeking to improve their chances of success. In 2006, success rates per application fell to about 20%, while the funding rate for applicants was higher at about 25% (7). This is due, in part, to the fact that we now receive on average 1.4 applications per applicant, compared with 1.2 before 2003. NIH is reevaluating its review system to reduce the length of the review cycle for all applicants, shorten grant applications, reduce unnecessarily burdensome procedures, and further improve the quality of our peer-review system.
+Communicating the benefits of medical research. NIH and the scientific community need to better educate the public about the extraordinary return on investment in the NIH. The value of NIH is so self-evident to our community that we often do not realize that it is not evident to many others. In a survey last year, 73% of Americans could not name NIH as the government agency that funds most of the medical research paid for by U.S. taxpayers (8). I have placed a high priority on enhancing NIH-wide public education efforts, and want to commend the efforts that have been made by all stakeholders, but this is not enough. Congress continually asks me to demonstrate the benefits of the NIH doubling to the American people. We testified to this effect numerous times (9). For example, the estimated total cumulative investment in cardiovascular research at
+
+Nonetheless, we all need to do better in demonstrating our value to society. Since 83% of the NIH's budget goes to more than 3000 research institutions across the country, it is a shared responsibility to communicate clearly and consistently to the public the linkage between NIH and advances at the local and regional levels.
+This renewed effort on communicating the value of NIH to the American public by all stakeholders is critically important. During a recent debate in the House of Representatives about a bill to reauthorize the NIH, the chief sponsor of the bill, Congressman Joe Barton, measured NIH's success in simple terms: "It helps my family. It helps every American family" (11). Representatives made uniformly positive comments about the importance of supporting NIH and increasing its budget by 5% per year for the next 3 years. The bill passed by a strong bipartisan vote of 414 to 2 (12), a hopeful sign.
+Defining a compelling vision for the future. Continued support for NIH will not be based on past performance, but on a shared and compelling vision for a future that serves the fundamental needs of our society. Today, health-care costs are rising at an unsustainable rate. Scientists need to be an intrinsic part of the solution to this problem. Marginal reform of how health care is delivered will not suffice. We need to radically change what is being delivered. There is an urgent need to transform health and medicine from the curative and onerous paradigm of today to the vision of a more predictive, personalized, and preemptive world of health care. The only hope to do so is to further our fundamental understanding of biology and behavior through sustained scientific discovery.
+Since 1945, United States success in scientific research and development has been the result of the implicit partnership that exists among academia, the federal govern-
+
+ment, and industry. In this model, research institutions take the risk of building and developing our national scientific capacity; the federal government, through a competitive peer-review process, funds the best science; and industry plays the critical role of bringing new, safe, and effective products to the public. This strategy is the keystone to sustaining American competitiveness, and must be preserved.
+As a community, we are accomplishing a great deal, but we are in particularly difficult times. Although these are very challenging and painful days, I am confident that we will weather this storm. Now more than ever, an informed, proactive, and unified strategy will be key to advancing the science needed to improve the health of the world. I welcome comments and suggestions on how we can come together as a community to achieve this goal.
+References and Notes
+1. The major funding instruments used by NIH to fund extramural research are financial assistance award grants and cooperative agreement grants. Research project grants are awarded to institutions on behalf of a principal investigator to support medical research activities in the areas that represent both the specific interests and competence of the principal investigators and also the NIH institutes' identified program needs. These are generally initiated by the investigator.
+2. Price indices, NIH Office of Budget, http://officeofbudget. od.nih.gov/UI/GDP_FromGenBudget.htm.
+3. A request for application (RFA) is the official statement that invites grant or cooperative agreement applications to accomplish a specific program purpose. RFAs indicate the amount of funds set aside for the competition and generally identify a single application receipt date. Applications for R01s and other types of grants submitted in response to RFAs are also known as solicited applications.
+4. The extramural grants budget includes research project grants, research centers (grants to support long-term, multidisciplinary programs of medical research), other research grants, such as grants for research career development, and other small grant programs. The extramural grant budget represents 70% of the total NIH budget.
+5. NIH Roadmap, http://nihroadmap.nih.gov/. 6. NIH new investigator programs, http://grants1.nih.gov/
+grants/new_investigators/index.htm.
+7. Success rates indicate the percentage of reviewed research project grant (RPG) applications that receive funding. This is computed on a fiscal-year basis. Applications that have one or more amendments in the same fiscal year are only counted once. Success rates should not be confused with funding rates. Funding rates indicate the percentage of competitively reviewed applicants for RPGs that receive funding in any fiscal year. This is calculated by dividing the number of applicants that received an RPG award by the total number that competed for any RPG in the same fiscal year (some individuals apply for more than one RPG).
+8. M. Woolley, S. M. Propst, JAMA 294, 1380 (2005). 9. Testimony before House and Senate Appropriations
+Committees, 6 April and 19 May 2006. 10. R. Murphy, K. M. Topel, The Economic Value of Medical
+Research (Univ. Chicago Press, Chicago, rev. ed., 1999). 11. Statement of Representative Joe Barton (R-TX) on House
+floor, 28 September 2006. 12. Vote on NIH reauthorization on House floor, 28
+September 2006.
+10.1126/science.1136931
+
+1090
+
+17 NOVEMBER 2006 VOL 314 SCIENCE www.sciencemag.org
+Published by AAAS
+
+

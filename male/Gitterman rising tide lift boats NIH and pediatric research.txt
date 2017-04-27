@@ -1,0 +1,362 @@
+N IH H
+Did A Rising Tide Lift All Boats? The NIH Budget And Pediatric Research Portfolio
+Although fundingforpediatric research increased from FY1998 to FY 2 0 0 3 j t s proportion of total NIH spending went down.
+by Daniel P. Gitterman, Robert S. Greenwood, Keith C. Kocis, B. Rick Mayes, and Aaron N. McKethan
+ABSTRACT: This paper examines National Institutes of Health {NIH) pediatric research spending in absolute terms and relative to the doubling of the NIH overall budget between fiscal years 1998 and 2003. Pediatric spending increased by an average annual rate of 12.8 percent duringthe doubling period (almost on par with the NIH average annual growth rate of 14.7 percent). However, the proportion of the total NIH budget devoted to the pediatric portfolio declined from 12.3 to 11.3 percent. We offer recommendations for implementing existing commitments to strengthen the pediatric research portfolio and to protect the gains of the doubling period.
+THE ALLOCATION OF FEDERAL DOLLARS for thc support of dependent populations has become a major policy concern. Much of the previous attention focused on the economic well-being of children and the elderly--in particular, the decUning impoverishment of the elderly and the growing poverty among children o\'er the past half century.' Trends in federal spending on both groups, reported in absolute terms and relative to each other, show e\'idence of growing intergenerational inequity, leading to increased concern about whether the projected growth in federal spending on health programs for the elderly will come at the expense of credible commitments to programs for children.-
+With that broader debate in mind, we report on the status of the National Institutes of Health (NIH) pediatrie research portfolio in absolute terms and relative to the overall NIH budget during thc doubhng period (fiscal years 1998-2003). We avoid framing NIH appropriations in terms of competition between children
+Daniel Gittrman(Damclg@cmailimc.cdu) is an assistant professor ofpuhlk policy at the University of ^orlh Carolina (UNQ at Chapel Hill. Robert Greenwood is apro/essor ofneurology andpcdiatries and chiefofthc Division ofChild Neiirologv at the UNC School of Medicine. Keith Kocii is an associate professor ofpediatrics and chiefof the Division oj Pediatric Critical Care Medicine at the UNC School ofMedkine. Rick Maxes is an assistant professor ofpublic policy at the LJnivcrsit)' o/Ricfimond, in Richmond. \'irgitiia. Aaron McKethan is a doctoral student in the UNC Department of Public Policy.
+H E A L T H A F F A I R S - V o l u m e 2.5, S u m h c r 5 DOI10.1577.lili:h;ifl.2i.5.!n ^2004Projcci HOPE-JhcPcojik to People Hcahh Fomdatum. lie
+
+IN C H I L nR
+and adults for scarce biomedica] research dollars. Instead, we ask whether a rising budgetary tide lifted all boats: How has the pediatric portfolio fared in the recent era of rapid overall NIH growth?
+Congress has expressed particular interest in thc status of pediatric spending and specifically requested that NIH develop performance indicators to measure its progress toward achieving a stronger pediatric portfolio. This paper is a systematic effort to examine the status of the pediatric portfolio during the doubling period, \\'hen the overall NIH budget increased by an actual cumulative growth rate of 98.3 percent (75.7 percent in inflation adjusted term.s).
+We also highlight the status of the pediatric portfolio within four institutes: National Institute of Child Health and Human Development (NICHD); National Institute of Mental Health (NIMH); National Institute of Neurological Diseases and Stroke (NINDS); and National Human Genome Research Institute (NHGRI). We use these examples to illustrate the benefits of quantilying pediatric spending to assess progress as well as the dangers of drawing conclusions about limited pediatric spending without accounting for thc benefits of biomcdical research, which are often spread o\'cr sub]-)opulations in undifferentiated w^ays.
+Pessimistic assumptions about future annual growth in federal discretionary spending will prove important for understanding thc status of the pediatric portfolio over thc next decade. The dramatic increase in pediatric spending has permitted NIH to fund record levels of new research and therefore to accumulate a sizable commitment base. We conclude with a set of recommendations for implementing existing commitments to strengthen thc NIH pediatric research portfolio and to protect the gains of the doubhng period.
+Background
+* Federal research efforts. Numerous federal research efforts focused on child health during the 1990s.' Concurrently, there was increasing congressional concern about thc "inadequate attention and resources" that NIH was devoting to pediatric research."* In response, NIH issued its first pediatric research report in 1996, which contained a stated commitment "to use a variety of methods" to evaluate Institutes and Centers' (ICs') progress "in achieving a strengthened portfolio in research on children."' Congress also urged NIH to establish guidelines for including children in all clinical research trials. NICHD and thc American Academy of Pediatrics concurred, and in 1998 NIH released formal guidelines to this end.^
+* Mental health. Increased attention also was focused on child and adolescent mental health in the 1990s. Pediatric research lagged behind that in other subspecialties, largely because of pharmaeeutical companies' indifference to marketing psychotropic drugs to children and concerns about the ethics of including children in research. Childhood p.sychopathology emphasized psychodynamic analysis, and, thus, biomedical and psyehopharmacologic research was considered unnecessary, potentially dangerous to children, and misguided.'
+14 S c p t c m IT c r * O c t o h e r 2 D 0 4
+
+N I H B LI n G t. I
+* The Children's Health Act. With the bipartisan Children's Health Act (CHA) of 2000, Congress authorized expanded research on and serviees for childhood and prenatal health problems. Congress directed NICHD to plan and eonduct the National Children's Study (NCS), and the president's FY 2005 budget includes $12 milhon for the NCS, $7.5 million to come from NICHD's budget. Congress also established a Pediatric Researeh Initiative (PRl), to increase support for pediatrie researeh, strengthen eollaborative efforts among ICs, speed the development of pediatrie elinical drug trials, and invest in training pediatrie researchers. Congress authorized $50 million for the NIH Offiee of the Director (OD) to support the PRI in FY 2001. However, because the CHA became effective alter the F^l' 2001 appropriations eycle, that fiscal year's appropriations did not include PRI funding. In FY 2002 the OD awarded $5 million, half of the Director's Discretionary Fund, for the ICs' pediatrie proposals. Other federal developments during this period included an NIH Inter Institute Committee on Pediatric Research to encourage the development of new initiatives and collaboration across ICs; an Interagency Autism Coordinating Committee; and Autism Research Centers of Excellence.
+The CHA requires NIH to report annually to Congress on the total funds that ICs award for pediatric researeh. The FY 2002 and 2003 PRI report highlights initiatives and explains the researeh and clinical significance of collaboration and expanding the pediatric portfolio with supplemental discretionary dollars.^
+Measuring The Pediatric Research Portfoiio
+High annual NIH growth rates have been accompanied by intensified interest in the internal allocation of funds. The selection of researeh program areas to be funded remains the responsibility of NIH, based on a system of investigatorinitiated projects seleeted through merit-based peer review."^ Many factors are considered, including public health needs and scientific opportunity.''^ Prior efforts to analyze spending focused on the flow of dollars to academic pediatrie departments rather than on the pediatrie portfolio."
+In this study, we did not attempt to determine whether the amount of funding that NIH awards for researeh on particular pediatric diseases was commensurate with measures of the burden of disease (prevalence, ineidenee, use of resources and costs, mortality, morbidity, and so forth). We also recognize that the degree of match between funding and disease burden is sensitive to the measure being used and that advoeaey groups for specific diseases ean emphasize data derived via a variety of different methods.'- NIH has an obligation to respond to public health needs, but calculating these needs is very difficult, and there is not always a clear correlation between spending and outcomes."
+NIH defines pediatrie researeh as "all categories of biomedieal researeh (basic, elinical, epidemiological, behavioral, prevention, treatment, diagnosis, as well as outcomes and health serviees) that relate to diseases, conditions, or the health/ development of [people] up to age 21."'"' In FY 1995 the NIH Budget Office directed
+
+HEALTH AFFAIRS - Volume 23, Numl^c i
+
+115
+
+I N \' I: S 1 i N G I N C . H 1 I. n R h N
+all ICs to report total funding (including grants, contracts, and intramural support) related to pediatric disease and cross-cutting researeh areas. The office reports annual spending by disease categories and populations.
+The Budget Office provided specific data on congressional appropriations by IC for FY 1993-2004; pediatrie spendmg by IC for FY 1993-2003; and overall estimates for FY 2005 and pediatric spending estimates for FY 2004 and FY 2005. The dollars reported for these years reflect eaeh ICs estimates of how much pediatrie researeh it is likely to fund based on overall budget increases and any new initiatives. The figures reported by some ICs for FY 1993 and FY 1994 are direct costs only. The NTH OD may pro\'ide seed money or may supplement IC funding, but the same funding is not counted in both the OD's and the ICs spending.
+Because the "doubling period" is referred to in nominal dollars, we report growth rates in nominal terms unless otherwise noted. For future estimates, we calculated the estimated percentage change from FY 2004 to FY 2005 for the NIH budget and the pediatric portfolio, and report projections based on the assumption that the annual rates of change will remain constant through FY 2008.
+The NiH Budget And Pediatric Portfolio, FY 1998-2003
+* The budget. Congress doubled the NIH budget between FY 1998 and FY 2003 (to $27.1 billion), an extraordinary eommitment to accelerate appropriations, which over the previous four decades had doubled every ten years. NIH funding had inereased at an a\'eragc annual rate of 9 percent between FY 1971 and FY 1998." In FY 1994, except for a double digit inerease for AIDS and breast cancer researeh, the NIH budget was static or contracting in real dollars.'^ It increased by an average annual rate of 5.8 percent between FY 1993 and FY 1997. The pediatrie portfolio increased by an a\'erage annual rate of 4.7 percent.
+* Pediatric spending. During the doubling period, NIH appropriations increased at an average annual rate of 14.7 percent. Pediatric spending increased by an average annual rate of 12.8 percent--\'ery clo.se to NIH's overall average annual rate. The most dramatie inerease in pediatrie spending occurred between FY 1998 and FY 2003: a growth rate of 82.4 percent in nominal terms (61.6 percent in inflation-adjusted terms) (Exhibit 1). A rising budgetary tide seems to have lifted all boats: The pediatric portfolio increased dramatieally (almost on par with the NIH budget) during the doubling period.
+In FY 2000 the pediatrie portfolio's 18 percent growth rate exceeded the NIH rate of 14 percent. Only in FY 2003 did the pediatrie growth rate (8.4 percent) fall well below NlH's 16.2 pereent annual rate of growth. The FY 2003 shift to bioterrorism funding likely reduced awards to pediatrie areas compared with earlier fiseal years. In FY 2004 the two growth rates converged (Exhibit 1).
+Although the data show that pediatric researeh enjoyed a share of the benefits of the doubling period, the proportion of the NIH budget devoted to the pediatrie portfolio declined slightly, from 12.3 to 11.3 percent, down from 13.1 percent in
+September, Oucohcr 2004
+
+N IH R
+
+EXHIBIT 1 National Institutes Of Health (NIH) Budget And Pediatric Research Portfolio, Fiscai Years 1 9 9 3 - 2 0 0 5
+
+Fiscal year
+1993 1994 1995 1996
+
+Pediatric portfoiio (S biiiions)
+1.35 1.55 1.44 1.51
+
+NiH totai budget ($ bliiions)
+10.3 10.9 11.3 11.9
+
+Pediatric portfolio as percent of NiH budget
+
+Pediatric portfoiio, annuai percent ciiange
+
+13.1 14.1 12.7 12,7
+
+_
+14.7 -7.0 5.0
+
+NIH budget, annuai percent change
+5.9 3.3 5.6
+
+1997 1998 1999 2000
+
+1.60 1.68 1.90 2.25
+
+12.7 13.6 15.6 17.8
+
+12.6 12.3 12.2 12.6
+
+5.1 4.8 13.2 18.0
+
+6.8 7.1
+14.5
+14.0
+
+2001 2002
+2003 2004 2005
+
+2.51 2.83 3.07 3.17 3.25
+
+20.5
+23.3 27.1
+27.9 28.7
+
+12.3 12.1 11.3 11.4 11.3
+
+11.8 12.7
+8.4 3,3 3.6
+
+14.8 13.9 16.2
+3.0 2.8
+
+Average/percent
+
+change (FY 1998-
+
+2003)
+
+2.4 19,7 12.1
+
+82.4 (61.6f
+
+98.3 (75.7)^
+
+SOURCES: NIH Budget Office: congressional appropriations (Pt" 1993-2004: 2005 estimate): pediatric research spending {FY
+1993-2003; 2004-2005 estimates).
+NOTE: FY 1998 is the base level for the doubling period.
+' Figures in parentheses represent Consumer Price Index (CPI) inflation-adjusted growth rates in 2003 constant dollars.
+
+1991 Thu.s, while overall and pediatric spending both increased in nominal and real terms, the proportion devoted to pediatrics remained flat, as it has done sinee FY 1993 (Exhibit 2).
+
+EXHIBIT 2 National institutes Of Health (NIH) Appropriations And Pediatric Research Portfoiio, Billions Of Dollars, Fiscai Years 1993-2005
+
+Billions of dollars 25
+Total NIH congressional appropriations 20 Pediatric research spending
+I I I15 I IIIIIIIIIIIIIII10
+
+III
+
+1993
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+2005
+
+SOURCE: NIH Budget Office: congressional appropriations (Pi' 1993-2004: 2005 estimate): pediatnc research spending (Pi'
+1993-2003: 2004-2005 estimates).
+NOTES: Nominal dollars not adjusted for inflation. FY 1998 is the base level for the doubling penod.
+
+A f - [ - . A I R S - V o l u m e 2 1, \ u m b e r
+
+17
+
+I N V f: .^ I- I N G I N C H I L D R E N
+
+* Distribution of the pediatric portfolio. In FY 2004 twenty two ICs invested in an NIH pediatric portfolio of S3.2 billion, a major increase from the S1.7 billion distributed across eighteen ICs in FY 1993. The portfolio was not evenly distributed across the twenty two ICs: Almost two thirds was concentrated in five institutes (Exhibit 3). With few exceptions, the leading pediatrie spenders have been the same since FY 1993. They wdll account for the majority (Sl.8 billion) of the $3.2 billion portfolio in FY 2004. Their pediatric spending grew at an average 82.5 percent rate (on par with the pediatric portfolio 82.4 percent rate).
+Pediatric 'High' And 'Low' Spenders
+Here we report on the status of pediatric research within two "leading" ICs (as a percentage of total NIH pediatric spending) to explore how the portfolio has fared within individual ICs and in comparison with others (Fxhibit 4). NICHD sponsors the most pediatric research; it awarded $821.1 million in FY 2004. During the doubling period, its budget grew by 78.7 percent, while pediatric spending within NICHD grew by 74.1 percent. While the NIH budget more than doubled, NICHD, the lead pediatric IC, experienced a smaller rate of growth (Exhibit 5).
+* High spenders. l^JCHD. In FY 2004, 66.1 percent of NICHD's budget was awarded to pediatric research, by far the highest proportion of all ICs. NICHD's portfolio excludes all reproductive, behavioral, demographic, and rehabilitation research not specifically aimed at pediatrie populations. While it is often viewed as the institute for the "profession of pediatric research," NICHD accounted for only a quarter of the NIH pediatric portfolio in FY 2004 (Exhibit 3). Thus, the majority of pediatric dollars are awarded by other ICs. In addition, while pediatric spending has
+
+EXHIBIT 3 Nationai institutes Of Health (NiH) Pediatric Portfoiio, By Top Ten Institute Pediatric Spenders (As Percentage Of Totai), Fiscal Year 2004
+
+NICHD (25.9%) ^ ^ ^ ^
+
+All others (12.1%)
+X y NCRR (2.7%) NINDS(4.6%) NIDA (4.7%)
+
+NIMH (13.2%)
+NiDDK (9.4%) ^
+
+NCI (74%)
+- \MHLBI(9.4%)
+
+SOURCE: NIH Budget Office. NOTES: Shaded segments are the five top-spending institutes. NCRR is Nationai Center for Research Resources. NINDS is Nationai Institute of Neuroiogical Diseases and Stroke; NIDA is Nationai institute on Drug Abuse; NEI is Nationai Eye Institute; NIAID IS Nationai Institute of Allergy and Infectious Diseases; NCI is National Cancer Institute; NHLBI is National Heart. Lung, and Blood Instutute; NiDDK is National Institute of Diabetes and Digestive and Kidney Diseases; NIMH is Nationai Institute of Mental Health; and NICHD is Nationai institute of Child Healtn and Human Development.
+
+S c p t L- in b c r .* n c t o b e r 2 0 0 4
+
+N I H r> n
+
+EXHIBIT 4 Selected National Institutes Of Health (NIH) Institute Budgets And Pediatric Portfolios, Millions Of Dollars, Fiscal Years 1 9 9 3 - 2 0 0 5
+
+NIH {$)
+
+NICHD 1;$)
+
+NIMH(S)
+
+NINDS ($)
+
+NHGRI (S)
+
+year
+1993 1994 1995 1996
+1997 1998 1999 2000
+2001 2002 2003 2004 2005
+
+Ped.
+1,349 1,547 1,439 1.512
+1.604 1.681 1.903 2.245
+2.510 2,829 3.066 3,168 3,251
+
+Total
+10,327 10,938 11,300 11,928
+12,741 13,648 15,629 17.821
+20.458 23.296 27.067 27,888 28,677
+
+Ped.
+528 552 391 408
+425 453 506 587
+664 734 790 821 846
+
+Total Ped.
+
+528 53 555 150
+512 169 593 188
+
+632 192 672 197 750 237
+858 286
+
+976 1,112 1.206
+479 1,281
+
+336 388 405 417 429
+
+Total
+584 613 542 660
+701 750 861 973
+1,106 1,247 1,341
+613 1,421
+
+Ped.
+68 89 86 86
+98 105 109 65
+81 119 142 145 147
+
+Total
+600 631 627 684
+729 781 903 1,029
+1,176 1,327 1.456
+631 1,546
+
+Ped.
+0 10 15 15
+14 16 14 15
+16 20 25 25 26
+
+Total
+106 127 152 169
+189
+218
+265 336
+382 429 465 479 493
+
+Percent change(FY 1998-2003) 82.4%
+
+98,3%
+
+74.1% 78.7 X; 105.8% 78.7%
+
+35,6% 86,6%
+
+54.1% 113.6%
+
+SOURCES: NIH Budgel Office; congressional appropriations (Pi' 1993-2004: 2005 estimate); pediatric research spending(R' 1993-2003: 2004-2005 estimates),
+NOTES: All figures and growth rales are reported in nominal dollars. FY 1998 is the base fevel for the doubling period. Prior to FY 1995. the Nationai Institute for Child Health and Human Development (NICHD) reported ifs total appropriation as "funding for children." After FY 1995, NICHD narrowed its criteria to exclude research not aimed at improving the health of pediatric populations. The National Institute of Mentai Heaith (NiMH) reported that prior to FY 1995 it had not tnoiuded intramurai research and contracts in the budget data. NINDS is Nationai Institute of Neurological Diseases and Strol^e. NHGRI is the National Human Genome Research Institute.
+
+EXHIBIT 5 National Institutes Of Health (NIH) And Pediatric Growth Rates By Selected Institutes, Fiscal Years 1993-2005
+
+Percent 100
+
+IC total budget Pedjatrjc research spending
+
+80
+
+NICHD
+
+NIMH
+
+NINDS
+
+NHGRI
+
+SOURCE: NIH Budget Office: congressional appropriations (FY 1993-2004: 2005 estimate): pediatnc research spending (FY 1993-2003; 2004-2005 estitnates). NOTES: All figures are in nominai doliars, FV 1998 is the base Ievei for the doubling period. IC is Institutes and Centers. NICHD Nationai institue of Child Health and Human Development, NIMH is Nationai Instute of Wenta! Health. NINDS is Nationai Institute of Neuroiogical Diseases and Stroke. NHGPI is Nationai Human Genome Research Institute.
+
+HEALTH AFFAIRS -
+
+m h c (*
+
+I N G IN C H I L n K E N
+increased, NICHD's proportion of the pediatric portfolio has remained relatively flat at 26 percent.
+Historically, a small percentage of NIH funding has flowed to pediatric departments. NICHD, as directed by the CHA in 2000, has increased the number and size of research training grants to institutions supporting pediatric training and career development awards to individuals in pediatric clinical and basic research. Tn FY 2003 NICHD supported $17,6 million (S2.1 million more than in FY 2002) in funding through fellowships, career awards, training grants, and the Child Health Research Centers (CHRCs).
+NIMH. NIMH, the second leading pediatric spender, accounted for 13.2 percent of the portfolio in FY 2004, During the doubling period, the NIMH budget increased by a rate of 78.7 percent. Its pediatric spending grew 105.8 percent (compared with the NIH pediatric portfolio rate of 82.4 percent). NIMH is one of a few ICs whose pediatric spending growth rate well exceeded the institute's overall rate during the doubling period (Exhibit 5). Much of the newly committed funding went to studies of depression and anxiety in children and adolescents. It is difficult to determine whether this sizable increase is the result of a growing incidence of children's mental disorders or a contributor to their identification and diagnosis.
+* Low spenders. NINDS and NHGRI offer examples of ICs with pediatric spending that is below the NIH average (defined as a percentage of the N!H pediatric portfolio). However, data from each illustrate the complexities of quantifying pediatric spending as well as the danger of drawing inappropriate inferences about the implications of such spending for the status of their portfolios.
+I^INDS. NINDS had one of the largest overall budget increases during the doubling period, 86.6 percent. In part, this reflects advances in the understanding of neurological diseases and recognition of their strong impact on families. However, NINDS' pediatric spending experienced more modest growth of 35.6 percent-- less than half the ICs' rate (Exhibit 5). The proportion of the NINDS budget awarded to pediatrics decreased from 11.3 percent to 9,7 percent between FY 1993 and FY 2003. NINDS has fallen in the rankings from sixth (in 2000) to ninth (in 2003) in terms of the percentage of its budget awarded to pediatric research.
+Why has NINDS' pediatric spending fallen if, like other ICs, it makes no allocation of funds by subpopulation? Some of the decrease could represent a problem with labeling w^hat research is relevant to pediatric neurological diseases. Other changes have also played a role. The number of child neurologists has been stagnant during the past decade, while the demand for clinical services has ballooned. NINDS is attempting to encourage more child neurologists to choose research careers by funding the K-12 Neurological Sciences Academic Development Award. The effectiveness of this program remains unknown.
+In addition, clinical studies of children usually require multicenter collaboration. NINDS and professional child neurology organizations have not been able to organize many collaborative efforts. NINDS has sponsored workshops to help in-
+12 0 S e p i : e m b e r O c t : o b e r 2 0 0 4
+
+NIH H
+vestigators develop directions for collaborative research, but the resulting recom mendations have led to projects only infrequently. For example, the NINDS Workshop/Report on Perinatal and Childhood Stroke recommended a multidisciplinary collaborative effort. Although professionals have met to plan research, no funded collaborative studies are forthcoming. Many studies of children's neurological diseases have been organized under the sponsorship of the pharmaceutical industry, especially when this was required by the Food and Drug Administration (FDA). These trends have resulted in fewer investigators and studies that bring ad\'ances in basic science to children with neurological diseases.
+NHGRI. NHGRI represents a case where quantification of pediatric spending can underestimate the impact of biomedical research that is not specifically reported as part of the official pediatric portfolio. For example, NHGRI spent S25.3 million on pediatric research in FY 2004, just 5.3 percent of its budget, NHGRI's budget more than doubled (113.6 percent) and its pediatric spending increased by 54 percent during the doubling period (Exhibit 5). However, NHGRTs research has implications for pediatric populations, although it is not counted as pediatrie spending per sc. As opposed to other ICs, NHGRI provides resources for biomedical research with a broad array of applications, such as the effort to map the human genome sequence. This is typical of much of what NHGRI does, including such initiatives as the Encyclopedia of DNA Elements (ENCODE) and the Haplotype map (HapMap). This "nonpediatric" research will have important implications for ad\'ancing knowledge of childhood disorders.'''
+Caveats On Interpreting Spending Trends
+* Diffuse research categories. In drawing inferences from aggregate research spending patterns, we note that there is always a challenge in determining the "appropriate" amount of spending on a particular subpopulation or disease. In addition, more and more biomedical research has implications that can be generalized across diseases, organs, and age groups, and this can frustrate any true effort to "count" them under any single disease or subpopulation biomedical research category.
+* Clinical research. The data reported include NIH support for research in de\'elopmentiil biology and clinical pediatrics. Thus, developmental biology alone could account for the steady growth rate of the pediatric portfolio. Although this work may lead to new insights into the pathophysiology of diseases that affect children, and hence to new ways to diagnose and treat them, many clinical researchers remain concerned that we are not applying what we already know. Also, the lack of integration of research efforts into centers where basic and clinical scientists research and care for children with complex medical needs compounds the difficulty of performing high-quality, outcomes-based elinical and basic science research.
+* Bioterrorism spending. Bioterrorism took a big share of NIH appropriation growth in the final years of the doubling period, and the shares of the o\'crall increase going to pediatric related research areas have likely dropped off. For example.
+
+H E A L T H A F F A I R S - Volume 2i. N'umher 5
+
+121
+
+I N V P: s 1 I N G I N C H I L D R E N
+
+NIH reported a 536 percent increase in biotcrrorisni spending between FY 2002 and the FY 2005 request. There is coneern that the eontinuing increases in biological defense funding may "crowd out" spending for pediatrie areas.
+* Erosion of doubling-era gains. Finally, many hiomedical researchers fear that luture annual !c\'els ot growth below 6-8 percent may erode the gains NTH achieved during the douHing period. Between FY 2004 and FY' 2005, iNIH appropriations are projected to increase by 2.8 percent, while pediatrie spending is projected to grow by 2.6 percent. Aecording to the FY 2004-2008 Biomedical Research and Develop mcnt Price index (BRDPI) estimates, the NIH budget would need to grow by at least 3.5-3.8 pereent just to keep pace \\-ith inflation (Fxhibit 6). These are far from double digit inereases and might not be enough to maintain the commitments of the doubling era.
+The Future Of The Pediatric Portfolio, FY 2005-2010
+The recent growth of the NIH budget and its pediatric portfolio has permitted ICs to fund record levels of research and therefore to accumulate a substantial commitment base. The challenge ior NIH will be to balance eurrent commit ments, new projects, and funding of new investigators. Management of that base will make NTH vulnerable if funding levels remain static. To protect the gains achie\'ed and to capitalize on recent commitments to strengthen the pediatrie portfolio, we recommend the following.
+* Fund NIH to exceed biomedical inflation. Congress appropriated a 3.7 per eent increase to NIH in FY 2004. The president's F>' 2005 budget proposed a 2.6 percent increase.'^ Most of the twenty .seven ICs would receive increases in the 2.8-3.0 percent range, and NICHD would receive a 3.1 pereent increase. Biomedical
+
+EXHIBrT 6 Annual Growth Rates Of National Institutes Of Health (NIH) And Pediatric Portfolio, Relative To Biomedicai Inflation (The BRDPI), Fiscal Years 1993-2008
+
+Percent 20
+15
+
+Pediatric annual growth rate
+
+10 "
+
+^ NIH annual growth rate
+
+..., -
+0
+1998
+
+2000
+
+-_ BRDPI
+2002
+
+2004
+
+2006
+
+2008
+
+SOURCE: NIH Budget Office: congressional appropriations (FY 1993-2004; 2005 estimate); pediatric research spending (FY 1993-2003; 2004-2005 estimates): Biomedicai Researcii and Deveiopnient Price Index (BRDP!) (Pr" 1998-2003; projections FY 2004-2008). NOTES: Pf 1998 is the base levei for the doubiJng period. Tine BRDPi measures changes in the wetgfited average of the prices of all inputs (such as personnei services, various supplies, and equipment) purchased with the NiH budget to support research.
+
+.S c p 11; m h i: r O i: t n b i: r 2 0 0 4
+
+1 H Ru n GHT
+research inflation tends to exceed the Consumer Ptiee Index (CPl) by approximately 1.5 percent per year. Unless Congress provides annual increases that well exceed the BRDPI rates, NIH and the pediatric specific commitments it made during the doubling period will become increasingly vulnerable.
+* Fund the PRI with specific appropriations. The main purpose of the PRI was to increase existing support for pediatric research. While Congress authorized $50 million to support the PRI in FY 2001 and "such sums as may be necessary" for FY 2002-2005, to date there have been no specific PRI appropriations. According to a key staffer. Congress never intended to make earmarked appropriations, consistent with its usual practice of funding ICs but not disease areas or subpopulations. Aeeordingly, it was expected that NIfi would allocate dollars from within its overall budget to fund research consistent with the PRI. If the PRI is to be supported with dedicated dollars that represent new funchng, supplemental appropriations are the only mechanism by which the pediatric portfolio can expand beyond its "fbced" slice of the budgetary pie.
+* Support the NIH child inciusion poiicy and report on its performance. With a static proportion of funding awarded to pediatrie research, including children in all relevant clinical researeh will become increasingly important. There has never been any effort to e\'aluate the impact of or develop performance indicators for NIH's child inclusion policy. Because childr-^n are counted in numbers of researeh subjects along with adults, retrospective evaluation may be difficult. It is important, if only prospectively, to know whether the NIH guidelines can be effective and to recommend ways to strengthen the inclusion of children in future research.
+* Examine and evaluate the NCS's budgetary trade-offs. NlCHDs FY 2005 budget request includes planning dollars for the National Children's Study (NCS) but not funciing to launch it. Congress has yet to alloeate any specific additional appropriations for study implementation. Fxcluding expenditures for analysis and reporting, estimated total implementation costs are approximately S2.3 billion (not adjusted for inflation). For recruitment and foUow-^up during pregnancy and infancy, costs increase to a maximum of S151 million in 2007, then decrease to approximately $93 million per year from 2010 to completion in 2028.''^ In the current era of tight budgets, it is ine\'itable that internal funding designated for the study would take money away from other program research areas. Without additional appropriations or nongovernmental support, it is highly unlikely that NICHD, as the lead agency, can move beyond the planning stage.
+* Broaden the life-cycle focus of pediatric research. The tendency to define all economic and hc^ilth well being issues as distributional problems among age groups at a slice in time must be avoided. The pediatric community needs to emphasize the potential for investments in pediatrie research to influence health and human development across the life cycle. For example, a more eomplete understanding of the plasticity of the brain might contribute to methods for educating children and preserving cognitive function throughout life. Also, an understanding of the rela-
+
+H E A L T H A F F A I R S - Volume 2i. .N'.imtio 5
+
+123
+
+I N V E S T I N G I N C H i I.
+tionship between genetic variation and disease risk promises to change greatly the prevention and treatment of childhood and adult illnesses. Pediatricians and advocacy groups will need to form partnerships with their adult-focused research and policy colleagues and offer new conceptual arguments (and e\'idence) about the longer-term benefits of today's investment in the health and well being ot our children.
+Danki Cittcrman acknowledges the vav hoj;>eful smik of his son, MaxAshcr, and expresses his respecl for his pediatrician fathey- in law. Sluan Kahn. The authors acknowledge the assistance of Lee Pushkin, NiH Office of the Budget: and Lisa Kacscr. NICHD Office of Program and Public Liaison. They also acknowledge the insights of Miirrav Goldsteinjormer director ofNl}^DS'Ste\tnHyman. former director of'NlMli:. and AJanGuttmacha: deputy director ofNHGRl and the helpful comments of Marie McCormick, Hanwd School of Public Health; Alan Stiles. (JNC School of Medicine: and several anonymous reviewers. Support/or this research was provided by a University of'North Carolina, Chapel Hill, 2004 Junior Faculty Development Award.
+NOTES 1. E. Smolcnsky, S. Danzigcr, and P. Goct.sthiiJk, 'The Declining .Signifiuancc nt Age in the U.S.: Trends in the
+Well- Being of Children and the Elderly since 1938," in The Vulnerable, The Changing Dome.sric Priorities Series, ed-J. Palmer, T Smeeding, and B. Torrcy (Washington: Urban Institute, 1988), 29-54. 2. Congressional Budget Office. "Federal Spending on the Elderly and Children," 2001, ftp.cho.gov/23xx/ doc2300/[set..pdl {9 )unc 2004); and A.E, Benjamin, PW, Newacheck, and H. Wolfe, "Intergenerational Equity' and Pubhc Spending," Pediatrics 88, no. f (f991); 75-83. 3. Executi\'e Office of the President. Office of Science and Technology Policy. "Investing in t \ i r Euture: A National Research Initiative lor America's Children for the Twenty-first Century," April 1997, www.ostp .gov/Childreri' (2June 2004), 4. U.S. House of Representiitives Report no. 209,104th Cong.. 1st se.ss-, 1995, 80-81. 5. National Institutes of Health, "Report on NIH Pediatric Rcseareh" {Bethesda, Md.: NIH. April 1996), 15. 6. NIH. "NIH Policy and Cuidclines on the Inclusion of Children as Participant.s in Research lmolving Human Subjects," 6 Miirch 1998, w\\'w4.ixl,nih-gov''nem/contnict,s/rfps.'ehildpol.htTn (9 June 2004). 7. J.T. Walkup et ill., "The Future ot Pediatric Rsychophiirmacology," Pediatric Chmcs oj North America 45, no. 5 (1998): 1266, 8. NIH, Report toCon^css: T/ic FY2a)2 Pcdiamc Rcsanvh Uvimivc (Rethesda, Md.: NIH. 200J), 9. NIH, "Setting Research Priorities at the Narioniil Insritiites of HciUth." 2 December 200i, www.nih.gov/ abouc/tesearehpriorities.htm (9 June 2004). 10. H, Varmus. "*F\'akiating the Burden of Disease and Spending the Research Dollars of the NTH." Neiv England journal o/Mcciinw 341, no. 24 (1999): I9B-1915. 11. ER. Stiehm. "Pediatric Research; NIH Support in the 'Steady State' Decade, 1985-1993," Archives ofPcdiat rics and Adolescent Medicine 150. no. 9 (1996): 971-974; and L. McCabe, "NiH Support for Research and Training: Futute of Pedi.itrie Seientist.s." Archives ofAihksccnt Kkclidnc 152, no. 9 (1998): 839-842. 12. C, Gross, G. Anderson, and N. Powe. "The Relationship between Funding by the NIH and the Burden of Disease." New England jounml of Medicine 340, no. 24 (1999): 1881-1887 13. R. Dressner, "Public Advixracy and the ,AJkxation of Federal Fund,s for Riomedical Research," Milhank "Quarterly 77. no. 2 (1999): 257-274. 14. \1CHD Internal Memo on Definition of Research on Children. 12June 1997 15. D Korn et al.. "The NIH Budget in the 'Postdoubling' Era," .Science 296, no. 5572 (2002): 1401-1402. 16. B. Healey. "NIH and the Ikxlies Politic," New Englandjouiml of Medicine 350, no. 21 (1994): 1493-1498. 17 O.H. Pescovitz, "Pediatric Research in die Era of Genomics," Pediatric Research 51, no. 6 (2002): 782-786. 18. T. Agres, "2,6 Percent Increase tor NIH in 2005." 3 February 2004. v\'w\v.hiomedcentral.coni-'news/ 2OO4O2Ol'O3 (4 June 2004). 19. U.S. Department of Health and Human Services. "The National Children's Study of the Fffeet of Environ ment on He;iith," 19 Oetober 2001, ohrp.o.sophs,dhhs.go\'/nhrpac/mtg07 02/nhrpacI2.pdf (3 June 2004).
+124 S e p i c m h c r / O c c o b e r 2004
+
+

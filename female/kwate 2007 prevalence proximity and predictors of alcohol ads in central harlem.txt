@@ -1,0 +1,183 @@
+Downloaded from alcalc.oxfordjournals.org at Rutgers University on September 28, 2010
+
+Alcohol & Alcoholism Vol. 42, No. 6, pp. 635-640, 2007 Advance Access publication 28 July 2007
+
+doi:10.1093/alcalc/agm053
+
+PREVALENCE, PROXIMITY AND PREDICTORS OF ALCOHOL ADS IN CENTRAL HARLEM
+NAA OYO A. KWATE, MEGHAN JERNIGAN and TAMMY LEE
+Columbia University, Sociomedical Sciences, USA
+(Received 16 January 2007; first review notified 20 March 2007; in revised form 1 June 2007; accepted 6 June 2007; advance access publication 28 July 2007)
+Abstract -- Aims: This study examined the prevalence of alcohol ads, the spatial relationship between alcohol ads and schools, churches and playgrounds, and area-level determinants of alcohol ad density in Central Harlem, New York City. Methods: Alcohol advertising was quantified using street observation. Data on city demographics and infrastructure were obtained from the census and municipal databases. Results: Alcohol ads were densely distributed; almost half of ads fell within a 152 m buffer of schools, churches and playgrounds; and ad density was positively associated with retail liquor outlet density. Conclusions: Predominantly Black neighbourhoods continue to face high exposure to outdoor alcohol advertising, including around sites at which youth congregate.
+
+In 1992, tobacco marketers were the largest outdoor advertisers, spending $123 million (Outdoor Advertising Services, 2006), and research shows that Black and Latino neighbourhoods have borne a disproportionate burden of those advertisements (Ewert and Alleyne, 1992; Stoddard et al ., 1998). In New York City (NYC) (Graham et al ., 2006) and other cities, tobacco ads remain prominent through store window promotional material, but the Master Settlement Agreement in 1998 prohibited the marketing of tobacco products in standard outdoor advertising formats. In contrast to tobacco, however, alcohol advertising is unregulated. In 2002, Anheuser-Busch was ranked the #1 outdoor advertiser, spending $49,264,700 (TNS Media Intelligence/LMR, 2004). As with findings for tobacco, communities of colour have borne the brunt of exposure to outdoor alcohol ads (Altman et al ., 1991; Hackbarth et al ., 1995; Hyland et al ., 2003; Mitchell and Greenberg, 1991), and these ads appear in a variety of formats and sizes, targeting both pedestrian and motor traffic.
+In the 1990s, grassroots protests in several cities led outdoor media companies to voluntarily withhold advertisements of `vice products' from within five blocks of schools, playgrounds, or houses of worship in some cities (Billboards Being Removed, 1990), and 500 feet (152 m) in others, including NYC (Neighbourhoods Fighting Signs, 1991). However, despite purported voluntary self-regulation by outdoor marketers (Outdoor Advertising Association of America, 2006a), research has shown that such ads continue to be placed in close proximity to these sites (Hackbarth et al ., 2001; Pucci et al ., 1998). At the national level, innovative local ordinances have been implemented to control alcohol retail outlets (Ashe et al ., 2003), but few controls are in place for alcohol advertising, as is true for NYC.
+The present study sought to investigate the prevalence, proximity, and predictors of alcohol advertisements in Central Harlem, a historically segregated and predominantly Black neighbourhood in NYC. According to year 2000 data, census tracts in the neighbour ranged from 55 to 96% Black (average = 77.3%) and median household income was $19 924 (New York City Department of City Planning, 2005).
+*Author to whom correspondence should be addressed at: Department of Sociomedical Sciences, Mailman School of Public Health, Columbia University, 722 W. 168th St., 5th floor, New York, NY 10032, USA; E-mail: nak2106@columbia.edu
+
+Our research aims were as follows: First, to determine the prevalence (as measured by density) and concentration (percentage of ad spaces that promoted alcohol) of alcohol ads in Central Harlem; second, to assess the extent to which alcohol advertisements were proximal (within a 152 m buffer) to schools, churches and playgrounds; and third, to determine area-level predictors of alcohol ad density in the neighbourhood. In this paper, outdoor advertising refers to ad panels that are permanently affixed to the built environment and managed by outdoor marketing companies (e.g. wallscapes, 30-sheets, phone kiosks, bus shelters, and subway entrances).
+METHOD
+Data sources
+In order to examine the spatial relationship between alcohol ads and schools, and to determine which neighbourhood features predicted alcohol ad density, we had to obtain the spatial location of various sites, and did so as follows: we used NYC Department of City Planning databases to identify the addresses of schools (public and private, elementary through high school), churches, and parks/playgrounds. Locations of bars were initially obtained from online databases at the New York State Liquor Authority (2006) and were later verified at street level. The addresses of retail liquor outlets were obtained only at street level. In NYC, these outlets include liquor stores, grocery stores, and bodegas, small corner stores where food and sundries are sold. Because we were interested only in standard outdoor advertising, we did not include advertisements in storefronts or bars in our analyses. In fact, bars did not contain any advertisements other than those for the establishment itself. Retail outlets often contained ads; of 162 total retail outlets, eighty five contained alcohol ads, and these were primarily located at bodegas (79%). However, these ads tended to be banners, flags, sale notices, and promotional items (e.g. neon lights), which did not meet our definition of standard outdoor advertising.
+To identify the spatial location of outdoor alcohol advertisements, we conducted street-level observation. In NYC, outdoor advertising includes a variety of formats, such as large bulletins (ranging in size from 10 6 x 36 to 20 x 60 ), 30-sheet posters (12 3 x 24 6 ), 8-sheet posters (6 x 12 )
+
+ The Author 2007. Published by Oxford University Press on behalf of the Medical Council on Alcohol. All rights reserved
+
+636 N. O. A. KWATE et al .
+
+Downloaded from alcalc.oxfordjournals.org at Rutgers University on September 28, 2010
+
+(SRDS Media Solutions, 2003), phone kiosks, bus shelters, and subway entrances. Again, we did not include unregulated advertisements such as banners, placards or posters placed on nonstandard formats (e.g. lampposts, scaffolding).
+Procedure Central Harlem is a densely populated area comprising 1.4 square miles. Alcohol ads within these boundaries were counted through a two-step process of systematic streetlevel observation. First, we completed a census of all outdoor advertising locations (Kwate and Lee, 2007). Second, after completing the census, we assessed whether locations contained alcohol ads. Outdoor media spaces tend to rotate ads once per month, with posting often occurring on Monday (SRDS Media Solutions, 2003). Thus, we investigated the presence of alcohol after the second Monday in the month, and completed assessments within 1 week. Research staff traversed neighbourhood streets and marked whether an alcohol ad was present at each location and if so, the type of alcohol (beer, liquor) was noted. Geocoding of this data, construction of prevalence levels (described below), and importation of census data (current year, 2006) were conducted by a commercial GIS firm. We completed analyses of spatial relationships between alcohol ads and schools with ArcGIS 9.1.
+ANALYTIC PLAN
+To quantify prevalence of environmental variables (i.e. alcohol ads, schools, churches, playgrounds, bars, and liquor retail outlets), we used a measure of average prevalence at the block group level. Simple summation of the total number of sites in a given block group fails to take into account block group size and does not account for the fact that the sites of interest affect residents in adjacent block groups (Downey, 2003). Thus, after initial geocoding of all addresses, block groups were overlain with a custom grid demarcating smaller cells measuring 60 by 60 m (approximately 1/2 of a NYC block). The number of sites within a 152 m radius from the centre of each cell in the grid were counted, and each cell within the grid received the value of that count. Finally, summing the values of exposure and dividing by the number of cells yielded the average prevalence for the block group (Downey, 2003). This grid data formed the basis of our regression analyses to assess block group predictors of alcohol ad prevalence.
+RESULTS
+Prevalence of alcohol ads We counted 536 total ad spaces, and 135 of them (25%) contained alcohol ads, most of which were for beer (73.13%) and distilled spirits (26.87%). Wine was infrequent, and in contrast to other studies, very few of the beer ads we counted were malt liquor. The average exposure to alcohol ads at the block group level was 11.61 (SD = 5.88), and ranged from 0.0 to 27.27 ads. Figure 1 shows point data and varied exposure to alcohol advertising across Central Harlem.
+
+Spatial proximity of alcohol ads to schools, churches and playgrounds
+Consistent with previous research, we found alcohol ads to be spatially proximate to schools, churches and playgrounds. Figure 2 shows average prevalence, schools, and ads that fell within a 152 m buffer (churches and playgrounds are not shown). Of 135 alcohol ads, fifty nine (43.7%) were within 152 m of a school, 45% were near a church and 24% near a playground. We examined whether these proportions reflected a pattern wherein only a few locations were exposed to many ads, but found that among thirty four schools, twenty seven (79.4%) were exposed within 152 m. The same was true for 83.3% of churches and 59.1% of playgrounds.
+Predictors of alcohol ad density
+We investigated predictors of alcohol advertising density in block groups containing a total population and housing units each greater than 100. Only two block groups did not meet these criteria. We first examined bivariate correlations between average prevalence of alcohol ads and census and infrastructural variables that we hypothesized would be associated with ad density. We anticipated that alcohol marketers would target areas with more potential consumers (population density, housing units), young consumers (median age), lowincome consumers (median household income), and Black consumers (percent Black). Additionally, because there was such a close spatial relationship between alcohol ads and schools, churches and playgrounds, we hypothesized that average exposure to these locations would be positively correlated with alcohol ads. Finally, we hypothesized that alcohol ads would be more dense in areas where consumers can readily purchase alcohol for either on- or off-premise consumption (i.e. retail liquor outlets and bars).
+To test these hypotheses, we first completed bivariate correlations between these IVs and alcohol ad prevalence. Of the census variables, only percent Black emerged as significantly correlated with ad prevalence, but all infrastructural variables (e.g. schools, bars) were significantly correlated with ad prevalence. Table 1 shows descriptive statistics and correlations with ad density for statistically significant variables. Based on these preliminary correlations, we next constructed a multivariable linear regression model to assess the relative contribution of the variables in Table 1 to ad density. Table 2 shows that the regression yielded adjusted R2 = 0.63, F (6, 76) = 24.59, P < 0.001. Only retail liquor outlets and churches emerged as significant predictors when controlling for other variables in the model, and each additional retail outlet corresponded to an increase of 0.857 in ad exposure. This relationship was driven primarily by bodegas, which comprised the majority of outlets (79%). Each additional church was associated with nearly one and a half fewer ads. Confidence intervals around b for churches were fairly wide, ranging from -2.181 to -0.617, due in part to the relatively large standard error for the model. As can be seen, the correlation between churches and ad density was positive in the bivariate model, but negative in the multivariable regression. Such an instance signals the presence of a suppressor variable, a variable that suppresses variance that is irrelevant to the prediction of the DV (Tabachnick and Fidell, 1996). One
+
+PREVALENCE, PROXIMITY AND PREDICTORS OF ALCOHOL ADS IN CENTRAL HARLEM
+
+637
+
+Downloaded from alcalc.oxfordjournals.org at Rutgers University on September 28, 2010
+
+Fig. 1. Prevalence of alcohol ads in Central Harlem.
+
+way to identify suppressor variables is to systematically omit each IV in the regression and examine changes in the regression coefficient (Tabachnick and Fidell, 1996). In our analysis, retail outlets (which was positively correlated with churches) emerged as the suppressor variable.
+DISCUSSION
+This study sought to examine the prevalence of alcohol ads, the proximity of alcohol ads to schools, churches, and playgrounds, and the predictors of alcohol ad density in Central Harlem. We found that on average, census block groups had a prevalence of approximately eleven alcohol ads, and that 25% of outdoor advertising spaces contained promotions for
+
+alcohol. Additionally, almost half of alcohol ads fell within 152 m of schools and churches, while one quarter fell within 152 m of playgrounds. Finally, data showed that prevalence of alcohol ads was positively associated with exposure to retail liquor outlets, and negatively associated with churches.
+The ad prevalence we detected appears to be higher than other reports. For example, a 1991 San Francisco study reported alcohol ad prevalence at 0.5 ads per 1000 residents. Our finding regarding the concentration of alcohol ads (26% of outdoor media-controlled spaces) is concordant with studies published in the 1990s. These reports found alcohol ad concentration in African American neighbourhoods to be in the range of 22 to 23.4% (Altman et al ., 1991; Ewert and Alleyne, 1992; Mitchell and Greenberg, 1991). Although we did not systematically assess what comprised the remaining 74% of ad content in Central Harlem, we noted that
+
+638 N. O. A. KWATE et al .
+
+Downloaded from alcalc.oxfordjournals.org at Rutgers University on September 28, 2010
+
+Fig. 2. Spatial relationship between alcohol ads and schools.
+
+advertisements for a range of widely marketed commodities and services (e.g. clothing, fitness clubs, electronics) were infrequent. Instead, ads tended to be `public service' oriented, such as reminders about the dangers of lead paint, or promotions for low-cost health care plans.
+The Outdoor Advertising Association of America contends that its industry principles include establishing `exclusionary zones that prohibit stationary advertisements of products illegal for sale to minors that are intended to be read from, or within 500 feet of, elementary and secondary schools, public playgrounds, and established places of worship' (Outdoor Advertising Association of America, 2006b). However, we did not find this goal realized in Central Harlem. Indeed, in our street observations, we frequently saw alcohol ads immediate adjacent to schools (e.g. in a bus stop on the school's sidewalk). Taken together, our findings suggest that youth in Central Harlem are likely to have high exposure
+
+to outdoor alcohol ads. This is of particular concern given that research has found that adolescent drinking is associated with exposure to alcohol advertising in stores (Hurtz et al ., in press).
+Churches appeared to be `protected' to some extent, as our analysis revealed that churches were negatively associated with alcohol ad density. However, the fairly large confidence limits around the coefficient for churches suggest that this result should be interpreted with some caution. The greater uncertainty for churches compared to liquor outlets may reflect their fewer numbers, and their limited dispersal throughout the neighbourhood. This is particularly true because our listing did not include storefront churches, which are absent from City Planning databases.
+Retail liquor outlets were positively associated with alcohol ad density. This suggests that marketers target areas in which opportunities for advertising proximal to point-of-purchase
+
+PREVALENCE, PROXIMITY AND PREDICTORS OF ALCOHOL ADS IN CENTRAL HARLEM
+
+639
+
+Downloaded from alcalc.oxfordjournals.org at Rutgers University on September 28, 2010
+
+Table 1. Descriptive statistics and bivariate correlations in block groups
+
+Variable
+
+Correlation
+
+with alcohol
+
+ad density
+
+N Mean SD
+
+(sig.)
+
+Alcohol advertisement density 83 11.61 5.88
+
+Percent black
+
+83 0.67 0.07 0.281 (0.010)
+
+Retail liquor outlets
+
+83 13.46 6.01 0.770 (0.000)
+
+Bars 83 1.32 1.47 0.260 (0.018)
+
+Schools
+
+83 2.58 1.48 0.426 (0.000)
+
+Churches
+
+83 1.71 1.32 0.257 (0.019)
+
+Playgrounds
+
+83 1.41 2.01 0.325 (0.003)
+
+Note: All variables except percent black depict values for average prevalence at the block group level.
+
+Table 2. Regression model
+
+Model
+
+95% confidence interval for B B Lower bound Upper bound
+
+(Constant) Percent Black Retail Liquor Outletsa Bars Schools Churchesa Playgrounds
+
+2.72 -2.31
+0.86 0.45 0.12 -1.40 0.29
+
+-6.16 -16.76
+0.67 -0.17 -0.66 -2.18 -0.21
+
+Note: aIndicates significance at P < 0.001.
+R = 0.812 R2 = 0.660 Adjusted R2 = 0.633
+Std. Error = 3.56
+
+11.587 12.128 1.045 1.080
+0.90 -0.62
+0.78
+
+locations are many. In Central Harlem, most of these locations take shape in the form of bodegas. Because bodegas also sell alcoholic beverages (beer and malt liquor), their prevalence not only `attracts' more standard outdoor alcohol ads, but they are also more likely to feature storefront ads. This is true for tobacco promotions as well, placards of which are hand-delivered, according to one bodega owner's report to the first author.
+
+Limitations and directions for future research
+Some study limitations should be noted. First, we conducted our ad counts during the summer months. The data we obtained may not be generalizable throughout the year. For example, alcoholic beverage companies spend as much as 40% of their advertising budgets in November and December to generate sales for the holiday season (Hackbarth et al ., 1995). However, if advertising is greater at other times of the year, our results would underestimate the prevalence and concentration of alcohol advertising in Central Harlem; what is far less likely is that we have overestimated it. Nonetheless, it may be useful for future research to examine prevalence and concentration of ads at different times of the year, and for extended time durations. A second limitation is that our regression analyses did not control for possible
+
+confounding compositional variables such as mean liquor expenditures. Third, the N for census block groups in our analyses was modest. The sample size contributed to a relatively large standard error, and thus introduced a greater level of uncertainty around regression coefficients. Fourth, a related issue is the fact that our study focused only on one neighbourhood--Central Harlem. Yet, within NYC, Central Harlem's similarities to other Black neighbourhoods in social, economic, and land use characteristics makes it less of an isolated case study. It is possible that the trends we identified may also hold in predominantly White neighbourhoods in NYC. However, this is improbable, given that extant literature consistently documents disparities in the distribution of alcohol advertisements and retail outlets. More at issue is the extent to which our findings are generalizable to other predominantly Black urban communities.
+We would argue that our results show clear relevance to Black neighbourhoods elsewhere in the U.S. To the extent that African American sections of cities across the nation are dominated by pawn shops, check cashing agencies, and liquor stores (Sugrue, 1996; Wilson, 1996), face stigmatization as culturally inferior (Pattillo, 2003) and share similar histories of racial segregation (Massey and Denton, 1993), our results speak to the nature of the built environment not only in Central Harlem, but in other cities as well. It is important to note that although median household income did not emerge as a significant predictor of alcohol ad prevalence in Central Harlem, it is possible that an inverse relationship exists in other neighbourhoods within NYC or in other cities, including those comprised of diverse racial/ethnic populations with low incomes.
+In this regard, future research should investigate other determinants of the local alcohol environment. While our regression model accounted for a substantial proportion (63%) of the variance in outdoor alcohol advertisement density, variables we did not investigate are likely to exert an effect. Variables of interest might include the quality of the commercial sector or aesthetics of the built environment. Taken together, research on these and other determinants would be useful additions to the growing literature on the influence of neighbourhood context on health.
+Acknowledgements -- Completion of the research was supported by a grant from the Department of Defense, The U.S. Army Medical Research and Material Command: W81XWH- 041-0829. We are required to indicate that the views, opinions and findings contained in this report are those of the authors and should not be construed as an official Department of Defense position, policy or decision unless so designated by other documentation. We would also like to thank Ghairunisa Galeta, B.A., for her assistance in data collection, and Ilan H. Meyer, Ph.D., for his comments on a previous version of this manuscript.
+REFERENCES
+Altman, D., Schooler, C. and Basil, M. (1991) Alcohol and cigarette advertising on billboards. Health Education Research 6, 487-490.
+Ashe, M., Jernigan, D., Kline, R. et al . (2003) Land use planning and the control of alcohol, tobacco, firearms, and fast food restaurants. American Journal of Public Health 93, 1404-1408.
+Billboards Being Removed. (1990) The Washington Post, March 17, Available from: LEXIS-NEXIS Academic Universe, General News. Retrieved on December 4 2006.
+
+640 N. O. A. KWATE et al .
+
+Downey, L. (2003) Spatial measurement, geography, and urban racial inequality. Social Forces 81 (3), 937-952.
+Ewert, D. and Alleyne, D. (1992) Risk of exposure to outdoor advertising of cigarettes and alcohol. American Journal of Public Health 82 (6), 895-896.
+Graham, R., Kaufman, L., Novoa, Z. et al . (2006) Eating in, Eating out, Eating well: Access to Healthy Food in North and Central Brooklyn. New York City Department of Health and Mental Hygiene: New York.
+Hackbarth, D., Schnopp-Wyatt, D., Katz, D. (2001) Collaborative research and action to control the geographic placement of outdoor advertising of alcohol and tobacco products in Chicago. Public Health Reports 116, 558-567.
+Hackbarth, D., Silvestri, B. and Cosper, W. (1995) Tobacco and alcohol billboards in 50 Chicago neighborhoods: Market segmentation to sell dangerous products to the poor. Journal of Public Health Policy 16, 213-230.
+Hurtz, SQ., Henriksen, L., Wang, Y. et al . (2007) The relationship between exposure to alcohol advertising in stores, owning alcohol promotional items, and adolescent alcohol use. Alcohol and Alcoholism 42 (2), 143-149.
+Hyland, A., Travers, MJ., Cummings, K. et al . (2003) Tobacco outlet density and demographics in Erie County, New York. American Journal of Public Health 93 (7), 1075-1076.
+Kwate, NOA. and Lee, TH. (2007) Ghettoizing outdoor advertising: Neighborhood disadvantage and ad panel density in African American communities. Journal of Urban Health 84, 21 - 31.
+Massey, DS. and Denton, NA. (1993) American Apartheid: Segregation and the Making of the Underclass. Harvard University Press: Cambridge.
+Mitchell, O. and Greenberg, M. (1991) Outdoor advertising of addictive products. New England Journal of Medicine 88 (5), 331 - 333.
+Neighborhoods Fighting Signs. (1991) St. Louis Post-Dispatch, July 8, 1991. Available from: LEXIS-NEXIS Academic Universe, General News. Retrieved on December 4 2006.
+
+New York City Department of City Planning. Census FactFinder. Available at: http://gis.nyc.gov/dcp/pa/address.jsp. Accessed May 1, 2006.
+New York State Division of Alcoholic Beverage Control State Liquor Authority, Public Query System. Available at http://www.abc.state.ny.us/JSP/query/PublicQueryInstructPage. jsp. Retrieved December 4, 2006.
+Outdoor Advertising Association of America. I. (2006a) OAAA advertising practices for children. Retrieved April 17, 2006, from http://www.oaaa.org/presscenter/public.asp.
+Outdoor Advertising Association of America. I. (2006b) The OAAA Code of Industry Principles.
+Outdoor Advertising Services. (2006) In Encyclopedia of American Industries, Online Edition. Gale Group: Farmington Hills, MI.
+Pattillo, M. (2003) Extending the boundaries and definition of the ghetto. Ethnic and Racial Studies 26 (6), 1046-1057.
+Pucci, LG., Joseph, HM. and Siegel, M. (1998) Outdoor tobacco advertising in six Boston neighborhoods. American Journal of Preventive Medicine 15 (2), 155-159.
+SRDS Media Solutions. (2003) SRDS Out-of-Home Advertising Source. SRDS Media Solutions: Des Plaines, IL.
+Stoddard, JL., Johnson, CA., Sussman, S. et al . (1998) Tailoring outdoor tobacco advertising to minorities in Los Angeles county. Journal of Health Communication 3, 137-146.
+Sugrue, T. (1996) The Origins of the Urban Crisis: Race and Inequality in Postwar Detroit. Princeton University Press: Princeton, NJ.
+Tabachnick, BG. and Fidell, LS. (1996) Using Multivariate Statistics, (3rd edn). Harper Collins: New York.
+TNS Media Intelligence/LMR. (2004) Ad $ Summary Multi Media Service: January-December 2003. Leading National Advertisers, Inc: New York.
+Wilson, WJ. (1996) When Work Disappears: the World of the New Urban Poor. Knopf: New York.
+
+Downloaded from alcalc.oxfordjournals.org at Rutgers University on September 28, 2010
+
+

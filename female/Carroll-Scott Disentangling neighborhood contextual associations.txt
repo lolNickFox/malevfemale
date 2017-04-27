@@ -1,0 +1,343 @@
+Social Science & Medicine 95 (2013) 106e114
+Contents lists available at SciVerse ScienceDirect
+Social Science & Medicine
+journal homepage: www.elsevier.com/locate/socscimed
+
+Disentangling neighborhood contextual associations with child body mass index, diet, and physical activity: The role of built, socioeconomic, and social environments
+Amy Carroll-Scott a,*, Kathryn Gilstad-Hayden a, Lisa Rosenthal a, Susan M. Peters a, Catherine McCaslin b, Rebecca Joyce a, Jeannette R. Ickovics a
+a CARE: Community Alliance for Research and Engagement, Yale School of Public Health, USA b New Haven Public Schools, USA
+
+article info
+Article history: Available online 10 April 2013
+Keywords: New Haven, Connecticut, USA Health behaviors Neighborhood Built environment Socioeconomic status Social environment Health disparities
+
+abstract
+Obesity prevalence among US children and adolescents has tripled in the past three decades. Consequently, dramatic increases in chronic disease incidence are expected, particularly among populations already experiencing health disparities. Recent evidence identifies characteristics of "obesogenic" neighborhood environments that affect weight and weight-related behaviors. This study aimed to examine associations between built, socioeconomic, and social characteristics of a child's residential environment on body mass index (BMI), diet, and physical activity. We focused on pre-adolescent children living in New Haven, Connecticut to better understand neighborhood environments' contribution to persistent health disparities. Participants were 1048 fifth and sixth grade students who completed school-based health surveys and physical measures in fall 2009. Student data were linked to US Census, parks, retailer, and crime data. Analyses were conducted using multilevel modeling. Property crimes and living further from a grocery store were associated with higher BMI. Students living within a 5-min walk of a fast food outlet had higher BMI, and those living in a tract with higher density of fast food outlets reported less frequent healthy eating and more frequent unhealthy eating. Students' reported perceptions of access to parks, playgrounds, and gyms were associated with more frequent healthy eating and exercise. Students living in more affluent neighborhoods reported more frequent healthy eating, less unhealthy eating, and less screen time. Neighborhood social ties were positively associated with frequency of exercise. In conclusion, distinct domains of neighborhood environment characteristics were independently related to children's BMI and health behaviors. Findings link healthy behaviors with built, social, and socioeconomic environment assets (access to parks, social ties, affluence), and unhealthy behaviors with built environment inhibitors (access to fast food outlets), suggesting neighborhood environments are an important level at which to intervene to prevent childhood obesity and its adverse consequences.
+O 2013 Elsevier Ltd. All rights reserved.
+
+Introduction
+Obesity among US children and adolescents has tripled in the past three decades (Ogden et al, 2010). Consequently, dramatic increases in chronic disease incidence are expected, particularly among populations already experiencing health disparities. Indeed, large racial/ethnic disparities emerge at very young ages and exist
+* Corresponding author. Drexel School of Public Health, Department of Community Health and Prevention, 1505 Race Street, Bellet Building, 11th Floor, Philadelphia, PA 19102, USA. Tel.: 1 215 762 2652; fax: 1 215 762 4088.
+E-mail address: ac3343@drexel.edu (A. Carroll-Scott).
+0277-9536/$ e see front matter O 2013 Elsevier Ltd. All rights reserved. http://dx.doi.org/10.1016/j.socscimed.2013.04.003
+
+even among children of the same socioeconomic status (SES), with largest disparities seen among non-Hispanic black girls and Mexican-American boys (Wang & Beydoun, 2007). Despite many programs to prevent childhood obesity, the US did not come close to achieving its Healthy People 2010 objective of reducing the proportion of obese children to 5% (US DHHS, 2000). As a result, Healthy People 2020 goals are more modest: to reduce obesity by 10% (US DHHS, 2011).
+To intervene effectively to prevent obesity, particularly in vulnerable disparity populations, a deeper understanding is needed of the multilevel factors associated with obesity and associated behaviors. Body weight is determined by a multitude of factors, including genetics and biology (Carnell & Wardle, 2008; Mitchell,
+
+A. Carroll-Scott et al. / Social Science & Medicine 95 (2013) 106e114
+
+107
+
+2009), behavior (e.g., energy-dense diet) (Hubacek, 2009), and individual-level social determinants (e.g., education) (McLaren, 2007). Recent evidence suggests the importance of contextual aspects of social determinants such as characteristics of "obesogenic" neighborhood environments that affect weight and related health behaviors (Hill, Wyatt, Reed, & Peters, 2003). This emerging literature suggests that the impact of the environments in which people live, work, and play must be considered to fully understand the obesity epidemic, as pervasive socioeconomic and racial inequalities in these environmental contexts may underlie obesity disparities (Gordon-Larsen, Nelson, Page, & Popkin, 2006; Lovasi, Hutson, Guerra, & Neckerman, 2009).
+Understanding dimensions of residential environments
+The socioecological perspective (also known as the SocialEcological Model, Ecosocial Model, or Ecological Systems Theory) views determinants of health as operating simultaneously at multiple levels e both at the level of the individual, and at the level of social contexts (Bronfenbrenner, 1979; Galvez, Pearl, & Yen, 2010; Krieger, 2001). A socioecological view of obesity has been embraced by researchers, government agencies, community groups, policymakers, and the public (Brownell, Schwartz, Harris, Henderson, & Puhl, 2009). In order to better understand the role of neighborhood environments on child obesity, we need to disentangle the role of distinct domains of neighborhood social-spatial context that interact with individuals. Previous research and theory points to the built, socioeconomic, and social features of neighborhood environments as being important domains.
+The built environment refers to how communities are designed and its physical structure, including land use, retailer mix, street quality and connectivity, sidewalks, housing, and green space. Several recent studies have found that availability of inexpensive, energy-dense foods served in large portions are associated with poorer dietary behaviors (Borradaile et al, 2009) and body mass index (BMI) (Galvez et al, 2009; Grafova, 2008; Jennings et al, 2011; Oreskovic, Kuhlthau, et al., 2009; Oreskovic, Winickoff, et al., 2009). Fewer studies have focused on physical activity; nonetheless evidence suggests that access to recreational or playground facilities (Gordon-Larsen et al., 2006; Potwarka, Kaczynski, & Flack, 2008; Veitch et al, 2011) and more walkable neighborhoods (Rosenberg et al, 2009) lead to increased physical activity, decreased sedentary behavior, or lower BMI.
+The socioeconomic environment refers to the individual and collective socioeconomic composition of neighborhood residents, with implications for number and quality of resources available. Children in disadvantaged neighborhoods have been found to experience worse health outcomes from in utero to adolescence than those in non-disadvantaged neighborhoods (e.g., O'Campo et al., 1997; Pebley & Sastry, 2004). Evidence has also shown that the presence of higher-income, higher-educated neighbors has a protective effect on school-age child behavioral, cognitive, and achievement outcomes (Brooks-Gunn, Duncan, & Aber, 1997). Affluent residents may sustain neighborhood social organization that promotes community attachment and the establishment and reinforcement of positive norms (Massey, 1996; Wen, Browning, & Cagney, 2003). In the childhood obesity literature, national studies have shown that geographic region socioeconomic and racial/ethnic mix is associated with obesity prevalence and physical activity (Nelson, GordonLarsen, Song, & Popkin, 2006; Singh, Kogan, & van Dyck, 2008; Zhang & Wang, 2007). One study found that living in high-income areas was associated with less television watching among girls aged 9e10 years (MacLeod, Gee, Crawford, & Wang, 2008).
+Neighborhood social environment refers to relationships, groups, and social processes that exist between individuals and
+
+groups who live and work in a neighborhood (Yen & Syme, 1999). Sampson, Morenoff, Earls (1999); Sampson, Raudenbush, and Earls (1997) theorized that neighborhoods in which residents interact positivelydby forming social ties and engaging in collective behavior that establishes norms, reciprocity, trust, and collective actiondcan provide a safe, healthy, and positive environment for children. The result may be an established neighborhood social order, with active support (and correction) of children's behaviors by adults in the community. Neighborhood-level social support (Buka et al, 2003), cohesion (Duncan & Mummery, 2005), trust (Subramanian, Kim, & Kawachi, 2002), and social capital (Kim, Subramanian, Gortmaker, & Kawachi, 2006) have been associated with health status, obesity, and physical activity behaviors among adults. Few studies explore these relationships in younger age groups. One study of child obesity found that favorable neighborhood social environment was a stronger predictor of physical activity than the built environment (Franzini et al, 2009).
+Limitations of previous studies
+The built, socioeconomic, and social characteristics of a neighborhood environment co-occur. For example, the built environment of wealthier neighborhoods is more likely to be supportive of healthy lifestyles, including greater access to supermarkets and a wider variety of foods (Popkin, Duffey, & Gordon-Larsen, 2005). However, with few exceptions (e.g., Franzini et al., 2009; GordonLarsen et al., 2006; Merchant, Dehghan, Behnke-Cook, & Anand, 2007; Oreskovic, Kuhlthau, et al., 2009; Oreskovic, Winickoff, et al., 2009; Veugelers, Sithole, Zhang, & Muhajarine, 2008), scarce research has simultaneously examined more than one dimension of neighborhood environment with child obesity. To understand the influence of neighborhood context on childhood obesity, we must measure and understand the influence of multiple distinct domains. Moreover, many studies in this literature use nationally representative data sources, which do not allow for the application of locally meaningful context and data to inform interpretation of findings.
+Moreover, the vast majority of neighborhood effects research has been conducted with adults (Popkin et al., 2005; Xue, Leventhal, Brooks-Gunn, & Earls, 2005). Less is known about how children younger than adolescents interact with and are influenced by their residential environments (Kimbro, Brooks-Gunn, & McLanahan, 2011; Veitch et al., 2011). Thus, the relationship between neighborhood environment with obesity and related obesogenic behaviors among pre-adolescent children remains relatively unexplored. Prevention efforts may be particularly appropriate for this pre-adolescent group because children begin to develop independent dietary and exercise habits during these years (Raynor et al, 2009), while obesity rates nearly double (CDC, 2011).
+Current investigation
+This study aimed to identify characteristics of residential neighborhood environment related to children's BMI and obesityrelated behaviors, including frequency of healthy and unhealthy eating, frequency of physical activity, and amount of screen (e.g., television, computer) time. We explored features of the built environment (e.g., access to green space), socioeconomic environment (e.g., neighborhood-level deprivation/affluence), and the social environment (e.g., social ties, safety) to determine whether these distinct dimensions of neighborhood environments were associated with each outcome above expected individual-level determinants. Our study extends the current literature by including pre-adolescents living in an urban setting experiencing severe and persistent socioeconomic and health disparities. We also aimed
+
+108 A. Carroll-Scott et al. / Social Science & Medicine 95 (2013) 106e114
+
+to contribute to the literature by including objectively measured BMI, reported health behaviors, and locally collected multilevel predictor variables that capture a full range of residential neighborhood factors.
+Based on previous literature and informed by the socioecological perspective, we hypothesized that: 1) BMI and obesityrelated behaviors would correlate negatively with neighborhood concentrated disadvantage and positively with neighborhood concentrated affluence; 2) BMI and obesity-related behaviors would correlate positively with neighborhood built assets (e.g., park space, grocery store access) and negatively with inhibitors (e.g., access to fast food and junk food); and 3) BMI and obesityrelated behaviors would correlate positively with neighborhood social ties and perceived safety, and negatively with crime incidence.
+Methods
+Study setting
+Data came from the larger Community Interventions for Health chronic disease prevention study conducted by the Yale School of Public Health's Community Alliance for Research and Engagement in partnership with the New Haven Public Schools (Duffany et al, 2011; Santilli, Carroll-Scott, Wong, & Ickovics, 2011). The setting is New Haven, CT, a city with a population of approximately 125,000 that experiences significant socioeconomic and health disparities, particularly when compared to Connecticut as a whole. For example, 24% of New Haven residents live below the poverty level, compared to 9% statewide and 3% in New Haven's wealthier suburbs (US Census, 2005e2009). The population is predominantly composed of racial/ethnic minority subgroups: 39% Black/African American and 23% Hispanic/Latino (US Census, 2005e2009). New Haven residents experience risk of illness, disability, and mortality 1.5e7 times higher than others in the state (e.g., Yousey-Hindes & Hadler, 2011).
+Data sources
+Two study samples were used in this multilevel study: 1) a sample of fifth and sixth grade students (level 1), and 2) the New Haven neighborhoods in which these students live (level 2). Each sample is described below.
+Individual-level student data Data were collected in fall 2009 from twelve K-8 schools
+randomly selected from the total of 27 K-8 schools in the district. Yale University's Institutional Review Board and the school district approved all study procedures. Child assent and parental consent were obtained. Data collection methods included health surveys and physical measures, which were then linked to school district administrative data.
+All 1312 enrolled fifth and sixth grade students from the 12 schools in the 2009e2010 school year were eligible and invited to participate. Two percent of their parents chose not to permit their participation in the study (n 1/4 26), and 15% were absent on either day of data collection (n 1/4 192). Forty-six more lacked information required for geocoding residential neighborhood. Therefore the final student sample for this analysis was 1048.
+Health surveys were surveyor-administered during regularly scheduled media classes of the non-remedial 5th and 6th grade classes. Trained research staff read the survey aloud while children followed along and confidentially entered their responses on their own desktop computers via a Survey Monkey online survey (Surveymonkey.com, LLC; Palo Alto, CA). Additional staff checked for
+
+understanding and answered questions, particularly for students with limited literacy.
+Student physical measurements were obtained by trained research staff in private. Height and weight were measured according to the World Health Organization Expanded STEPS protocol (WHO, 2008). A standardized stadiometer (Charder Electronic Co., Ltd., Taiwan) and electronic flat scale (Seca Co, Hamburg, Germany) were used to measure height to the nearest half-centimeter and weight to the nearest tenth of a pound.
+Student demographic characteristics and physical fitness test scores were extracted from school district data systems and merged via student identification number to survey and physical measures data. Demographic data is collected by the school district and maintained for each student. The physical fitness tests are conducted in PE classes with each student as a part of the Connecticut Physical Fitness Assessment Program (CT State Department of Education, 2009).
+Neighborhood-level data Although there has been methodological debate as to the pre-
+cision of census tracts in capturing locally meaningful boundaries and neighborhood-level constructs (Diez-Roux, 2003; Pebley & Sastry, 2004), in New Haven census tracts are closely aligned with locally-derived neighborhood boundaries. Therefore, census tracts were used as the neighborhood unit of analysis in this study. The analytic sample of neighborhoods included 25 of the 29 total census tracts in New Haven. Four tracts were excluded because each contained no more than one student from our sample. The remaining 25 tracts contained between seven and 105 students, with a mean of 42 students.
+All individual-level student data were linked to neighborhoodlevel data by geocoding student home addresses and assigning each student to 2000 US Census tract boundaries via census tract identifiers (FIPS codes) using ArcGIS software (EsriO, Redlands, CA). These census tract identifiers were then used to merge studentlevel data to neighborhood-level data gathered at the tract level for this study: US Census, retailer, parks, and crime data.
+2000 US Census data were downloaded from American Factfinder (US Census Bureau, 2000) for each of the 25 census tracts. Built environment data included retailer and parks data. City retail data came from the 2009 data package of Esri's Business Analyst (Esri, 2009), which extracts business data from a comprehensive list of businesses licensed from Infogroup, Inc. (Papillon, Nebraska). These retailer data include business name, geocoded location, franchise code, and North American Industry Classification System (NAICS) codes. We gathered Infogroup data with NAICS codes related to diet and exercise (e.g., stores, restaurants, gyms). Retailer categorization was further informed by prior asset mapping and store inventories conducted by CARE in summer 2009 in New Haven (Santilli et al., 2011). Due to the lack of produce-only stores, limited seasonal farmers markets, and evidence from store inventories (Santilli et al., 2011), we used access to grocery stores as an indicator of access to healthy food choices. Convenience stores were the measure of access to junk food, as prior store inventories also demonstrated these "corner stores" in New Haven mostly sell high fat/salt/sugar foods (Santilli et al., 2011). Parks data were obtained from New Haven Department of Parks, Recreation and Trees as both parcel and point data. Crime data came from the New Haven Police Department in a data sharing agreement with DataHaven (New Haven, CT), with de-identified incidents from 2002 to mid-2010 scored to the highest offense using Federal Bureau of Investigation Uniform Crime Report codes (FBI, 2011).
+All retailers, parks, and crime incidents were geocoded using the Streetmap North America address locator (Premium package, ArcGIS 10, Esri, Redlands, CA), and then assigned to census tracts. For
+
+A. Carroll-Scott et al. / Social Science & Medicine 95 (2013) 106e114
+
+109
+
+retailers, we included a 20-m buffer around tract boundaries to capture establishments on opposite sides of a street where tract borders follow street routes.
+Study variables
+The five study outcomes of interest, all continuous and observed at the individual student level, included: BMI, frequency of eating healthy foods, frequency of eating unhealthy foods, frequency of exercise, and number of hours of weekday "screen time". The primary explanatory variables are grouped into built environment, socioeconomic environment, and social environment variable categories, and are observed at either the student or neighborhood level.
+Student outcome variables Body mass index (BMI). Objectively measured heights and
+weights were used to calculate BMI (weight in kg/height in m2) for each child, a well-established measure of child adiposity (Pietrobelli et al., 1998). For descriptive purposes only, absolute BMI scores were converted to age- and gender-adjusted percentiles (Kuczmarski et al, 2002, 246) to classify Institute of Medicine BMI risk categories (i.e., healthy weight, overweight, obese) (Koplan, Liverman, & Kraak, 2005). However, the continuous absolute BMI measure was selected as the outcome variable for further analyses e rather than BMI percentiles or risk categories e to enable the exploration and straightforward interpretation of gradient relationships with independent variables. Absolute BMI does this better than BMI percentiles in our sample since numerous BMI percentile values in this sample were near the upper bound, above the 95th percentile, where differences in absolute BMI between percentiles are much greater than at the 50th percentile (Chiolero, Maximova, & Paradis, 2008). To account for differences in BMI by age and gender, these covariates were included in analyses.
+Healthy and unhealthy eating scales. Students were asked questions regarding the number of days per week they eat certain types of foods (adapted from the World Health Organization's Health Behavior in School-Aged Children Collaborative Cross-National Study). We summed responses to four healthy food items (vegetables, fruits, whole grains, nuts/beans) into an additive "frequency of healthy eating" scale, and responses to four unhealthy food items (fast food, foods high in salt and fat, sweets, sugar-sweetened beverages) into a similar "frequency of unhealthy eating" scale. Both ranged from 0 to 28.
+Physical activity. Students answered the Patient-Centered Assessment and Counseling for Exercise (PACE) physical activity frequency item, "In the past week, how many days did you exercise for at least 30 min (walking, playing, sports, gym class)" (Patrick et al, 1994). This item was modified to 30 min from 60 min for comparison purposes for the international Community Interventions for Health study (Duffany et al., 2011), and the resulting continuous variable represents number of days.
+Sedentary behavior. Students answered the question, "On school days, how may hours do you usually watch TV, play video games, and spend time on the computer for fun? (adapted from Modifiable Activity Questionnaire for adolescents, Aaron et al., 1995). This continuous outcome variable is number of hours of screen time.
+Student control variables Demographic characteristics. Demographic controls included age,
+race/ethnicity, sex, and qualification for free/reduced school lunch program. Although school lunch eligibility is not an ideal measure of SES (Harwell & LeBeau, 2010), it is was our best available measure of family socioeconomic status and is used frequently in student studies (e.g., National Center for Education Statistics, 2007). A
+
+single food insecurity item adapted from the Child Food Security Survey Module yielded an additional measure of family SES as well as an important nutrition indicator: "Since school started, were you ever hungry, but didn't eat, because there wasn't enough food at home?" (Connell, Nord, Lofton, & Yadrick, 2004).
+Physical fitness. The Connecticut Physical Fitness Assessment includes four tests of muscular strength and endurance, cardiorespiratory endurance, speed, agility, and flexibility (CT State Department of Education, 2009). Student fitness test scores were categorized based on test scores, age, and gender into meeting or not meeting criterion-referenced standards for good health for all four tests (CT State Department of Education, 2009).
+Neighborhood built environment variables Perceptions of park access. Students indicated their agreement
+(1 1/4 strongly disagree, 5 1/4 strongly agree) with the statement, "there are playgrounds, parks, or gyms close to my home or that I can get to easily" (PACE, Patrick et al., 1994).
+Walking distance variables. Distances between students' homes to the nearest grocery store, convenience store, fast food restaurant, and park were calculated using 3 ArcGIS methods: Euclidian (as the crow flies), shortest network path (walking), and fastest network path (driving) (Apparacio et al., 2008). Shortest network paths were ultimately used because they make most sense in these dense urban neighborhoods, and were attributed to individual students. Distance of one-half mile represents about a 10-min walk.
+Tract-level built environment variables. Tract-level counts were calculated by summing the number of grocery stores, convenience stores, fast food restaurants, and parks within each tract and 20-m buffer. Percent of each tract covered by park space was calculated using parcel data.
+Neighborhood socioeconomic environment variables Because of New Haven's stark socioeconomic disparities, and
+drawing on prior work demonstrating unique effects of both extreme tails of the neighborhood socioeconomic spectrum, we used U.S. Census Bureau data to create separate tract-level factor weighted scales of concentrated disadvantage and affluence, based on established scales used in previous studies of child well-being (e.g., Sampson et al., 1999). Indicators of concentrated disadvantage included percentages of residents living below the poverty line, unemployed, households receiving public assistance, and female-headed households. Indicators of concentrated affluence included percentages of residents 25 years or older with a college education, households with high income, and residents who hold executive or professional jobs.
+Neighborhood social environment variables
+Neighborhood social ties. Students' answered three survey items: "How many of the grown-ups in your neighborhood do you know?"; "How many of the kids and teens do you know?"; and, "Now think about your closest friends, do any of them live in your neighborhood?" (adapted from Los Angeles Family and Neighborhood Survey, Sastry, Ghosh-Dastidar, Adams, & Pebley, 2006). Categorical answers were summed to create an additive scale of peer and intergenerational ties represented at the student level, ranging from 0 1/4 knows no adults/kids & teens/friends, to 5 1/4 knows most.
+Neighborhood safety scale. This scale captured perceived safety in general, as well as neighborhood safety directly related to ability to play or exercise outside. Items included, "Do you feel safe in this neighborhood?" (Sastry et al., 2006), and three items that asked students to rate how much they agree with the following statements: "It is difficult to walk or jog in my neighborhood
+
+110 A. Carroll-Scott et al. / Social Science & Medicine 95 (2013) 106e114
+
+because of things like traffic, no sidewalks, dogs, and gangs"; "It is safe to walk or jog in my neighborhood during the day"; and, "It is not safe to be physically active because of fear of strangers in my neighborhood" (PACE, Patrick et al., 1994). The resulting scale represented at the student level ranges from 1 1/4 not safe, to 5 1/4 very safe.
+Neighborhood crime. Two tract-level variables were created from the 2002e2010 aggregated incident codes consistent with previous criminology and health literature: total number of violent crimes and property crimes.
+Statistical analysis
+Descriptive statistics were calculated for BMI and behavioral outcomes, demographics and other student covariates, and neighborhood-level predictors. Multilevel modeling was used to account for multiple levels of effects tested (Subramanian, Jones, & Duncan, 2003). To account for clustering due to school-stratified design, cross-classified random effects models were used. This meant that individual-level data were modeled at level 1 and crossclassified within both neighborhoods (tracts) and schools at level 2. Including schools in level 2 accounts for the clustering, however no school-level explanatory variables were included in estimated models since we were only interested in neighborhood-level characteristics in this analysis. All five outcome variables were continuous. Key independent variables and covariates included both continuous and dichotomous variables, as per descriptions above. A guided selection process was used to model build, with the goal of creating the most parsimonious models as possible to explain the five outcome variables. First, key individual-level control variables (gender, black race, Latino ethnicity, free/ reduced lunch eligibility) were added in a single-level simple linear regression model. Then all other a priori individual-level variables were added to the model. Via backwards stepwise Ordinary Least Squares model selection, we removed variables (other than key control variables) with the highest p-value one by one, until only key control variables and variables with p < 0.05 remained. Then neighborhood-level variables were added to the model following the same procedure where key neighborhoodlevel control variables (percent black residents, percent Latino residents, concentrated affluence, concentrated disadvantage) were added first and kept in the final model throughout the stepwise backwards elimination procedure. Maximum likelihood method was used to estimate model parameters. All analyses were conducted using Stata 12 (StataCorp, 2011).
+
+Table 1 Descriptive statistics of child-level explanatory and outcome variables, N 1/4 1,048, community interventions for health, New Haven, CT, 2009.
+
+Socioeconomic characteristics Age in years Gender
+Female Male Race/ethnicity Latino Black White/other Primary language at home not English Yes No Free/reduced lunch eligibility Eligible Not eligible Food Secure Yes No BMI kg/m2 Underweight Healthy weight Overweight Obese Health behaviors Freq. of healthy eating/wk (4 items) Freq. of unhealthy eating/wk (4 items) #days/wk exercised > 30 min Physically fit Screen time on weekdays Neighborhood built environment Perceived access to parks, playgrounds, gyms (1 1/4 little access, 5 1/4 good access) Nearest grocery > 1/2 mile Nearest fast food outlet > 0.25 mile Nearest convenient store Nearest park < 1/2 mile Neighborhood social environment Neighborhood social ties scale (0 1/4 knows no adults/kids/friends in neigh, 5 1/4 knows most) Perceived neighborhood safety scale (1 1/4 unsafe, 5 1/4 safe)
+
+Mean (SD) or freq (%)
+10.9 (0.75)
+549 (52.4%) 499 (47.6%)
+512 (48.9%) 426 (40.7%) 110 (10.5%)
+402 (38.3%) 645 (61.4%)
+806 (76.9%) 126 (12.0%)
+804 (76.7%) 110 (10.5%) 21.7 (5.4) 30 (2.9%) 473 (45.1%) 190 (18.1%) 303 (28.9%)
+14.2 (5.6) 12.1 (6.7) 4.7 (2.1) 303 (28.9%) 2.4 (1.4)
+3.9 (1.3)
+391 (37.3%) 514 (49.1%) 723 (69.0%) 1008 (96.3%)
+3.1 (1.3)
+2.7 (0.7)
+
+N
+932 1048
+1048
+1044
+932
+914
+999
+964 869 923 954 921 914 1047 1047 1047 1047 922
+892
+
+American Academy of Pediatrics' recommendation of <2 h per day (Council on Communications and Media, 2011).
+Description of neighborhood environments
+
+Results
+Description of student participants
+Table 1 shows characteristics of the analytic sample of 1048 students. Mean age is 10.9 years. There is a slightly larger proportion of girls than boys (52.4% vs. 47.6%) than would be expected from district-wide frequencies (49.4% vs. 50.6%). Our sample is predominantly represented by US minority subgroups: 48.9% Latino, 40.7% black. Nearly 40% of respondents speak a primary language other than English at home. This sample has low socioeconomic status: 76.9% of the students' families qualified for free or reduced priced lunch, and 10.5% reported food insecurity.
+Forty-five percent of children were at a healthy weight; over half were overweight (18.1%) or obese (28.9%). Students reported an average of 4.7 days per week that they exercised >30 min per day, and 28.9% passed all four CT physical fitness tests. An average of 2.4 h of screen time were reported for weekdays, more than the
+
+Descriptive statistics for individual-level variables relating to neighborhood environment are shown at bottom of Table 1. Respondents' perceived access to parks, playgrounds, and gyms is 3.9 on the scale from 1 (little access) to 5 (good access). For 37% of children, the nearest grocery store is more than one half-mile away, whereas half of respondents have a fast food outlet and 69% have a convenience store within one-quarter mile. Students report an average of 3 neighborhood social ties and perceive their neighborhood as being somewhat unsafe.
+Table 2 shows neighborhood characteristics for the 25 tracts in the sample. Features of the built environment included a mean of nearly 7 fast food outlets and 5 convenience stores per tract, compared to 2 grocery stores. An average of 13% of tracts were covered in green space. Mean percent of Latino and Black residents per tract is 24.8% and 39.4% respectively. An average of 17.3% of tract residents experience socioeconomic disadvantage. Average concentrated affluence is higher, demonstrating that about a quarter of tract residents occupy higher socieconomic positions.
+
+A. Carroll-Scott et al. / Social Science & Medicine 95 (2013) 106e114
+
+111
+
+Table 2 Descriptive statistics of neighborhood built, socioeconomic, and social environment variables, US census 2000 data for 25 New Haven tracts, community interventions for health, New Haven, CT, 2009.
+
+Built environment Count of grocery stores Count of fast food outlets Count of convenient stores Count of parks % of tract covered by green space
+Socioeconomic environment Racial/ethnic composition Percent Latino Percent non-Latino black Concentrated affluence Percent of families with income >$75k Percent of adults w/college education Percent of civilian labor force employed in professional/managerial Concentrated disadvantage Percent of single female-headed HH in tract Percent unemployed Percent of HH receiving public assistance Percent of individuals in poverty
+Social Environment Crime data (2002e2010) Number of total property crimes Number of total violent crimes
+
+Mean (S.D.) N 1/4 25
+2.1 (1.6) 6.8 (6.8) 5.3 (3.5) 4.9 (2.5) 13.1 (13.2)
+24.8 (18.5) 39.4 (19.8) 24.0 (14.1) 13.3 (8.5) 10.7 (6.5) 29.9 (15.3)
+17.3 (7.0) 22.8 (8.5) 13.6 (9.3) 13.1 (7.0) 24.3 (10.7)
+1450.3 (588.2) 441.6 (262.7)
+
+Results of multilevel modeling
+Table 3 shows results of multilevel, cross-classified random effects models predicting our five continuous outcomes: BMI, healthy eating, unhealthy eating, physical activity, and weekday screen time. All models control for individual-level (black, Latino, female, school free/reduced lunch eligibility) and neighborhood-level socio-demographic variables (percent black, percent Latino, concentrated affluence, concentrated disadvantage), while adjusting for school-stratified sampling design.
+Higher BMI (Model 1) was significantly associated with living more than a half mile from the nearest grocery store and living in neighborhoods with more property crimes. Healthy eating (Model 2) was significantly associated with greater perceived access to parks, playgrounds and gyms, higher concentrated affluence, living in a tract with fewer fast food outlets, and more neighborhood social ties. Unhealthy eating (Model 3) was significantly associated with greater density of fast food outlets in the tract, less concentrated affluence, and more neighborhood social ties. Physical activity (Model 4) was significantly associated with greater perceived access to parks, playgrounds, and gyms, and more neighborhood social ties. Finally, more screen time (Model 5) was associated with less neighborhood concentrated affluence.
+Discussion
+This study contributes to the wider social science and public health literature on links between neighborhood characteristics and child obesity by demonstrating that indicators of three neighborhood environment domains e built, socioeconomic, and social e are associated with BMI, diet, and physical activity in pre-adolescent children. In short, social and built attributes of the students' residential neighborhoods were associated with weight and physical activity, whereas socioeconomic environment was not. Indicators of all three neighborhood environment domains influenced healthy and unhealthy eating behaviors. Concentrated affluence had a protective effect on behavioral outcomes, whereas concentrated disadvantage was not significantly associated with any of our obesity outcomes.
+
+As documented in similar US (Kipke et al, 2007) and New Zealand (Day & Pearce, 2011) urban environments, New Haven is a city with few opportunities for buying healthy food relative to unhealthy food, evidenced by lack of grocery and produce stores and a preponderance of convenience stores and fast food outlets. Children living more than a half mile from the nearest grocery had a higher BMI than peers who lived within a half-mile of a grocery store. Although convenience store access was not associated with diet or BMI, likely due to near-universal access citywide, proximity to a fast food outlet was significantly and negatively associated with BMI and diet. Results confirm previous evidence from a growing literature of US (e.g., Borradaile et al., 2009; Leung et al., 2011) and international studies (e.g., Chiang et al., 2011; Harrison et al., 2011) that child diet and BMI are influenced by easy access to stores and restaurants selling unhealthy items.
+Consistent with two recent US systematic reviews (Ding, Sallis, Kerr, Lee, & Rosenberg, 2011; Safron, Cislak, Gaspar, & Luszczynska, 2011), better neighborhood access to parks, playgrounds and gyms was associated with more frequent physical activity. However, our findings showed that perceived access was more important than objective measures of park access (tract-level park count, distance to nearest park, percent of tract covered by parks) for children this age. These findings suggest that children's perceptions of access may be more closely associated with use than mere proximity, perhaps explaining previous lack of evidence of relationships between mapped parks and healthy weight (Potwarka et al., 2008). Although we did not hypothesize any relationships between park access and diet behaviors, we found an association between park access and healthy eating. This may suggest that children with easier access to safe places to play and exercise have more positive health experiences that impact other behaviors, or provide alternatives to loitering at a convenience store or fast food outlet. Or, perhaps, children in neighborhoods with better park access have healthier diets due to shared predictors not accounted for in our analysis. Further research is needed to replicate this finding with other samples and to explore directionality and causality.
+The concentration of affluent neighbors had a protective effect, positively associated with healthy eating, and negatively associated with both unhealthy eating and screen time. The presence of affluent neighbors may bring resources to neighborhoods that influence child obesity (Brooks-Gunn et al., 1997). Alternatively, consistent with the social contagion model (Christakis & Fowler, 2007), neighborhoods with more highly-educated adults may have a normative culture that promotes healthy lifestyles, including leisure time physical activity and healthy eating (Wen, Browning, & Cagney, 2007). Our findings are aligned with a recent study in Thailand that found associations between neighborhood wealth and child obesity risk (Firestone, Punpuing, Peterson, AcevedoGarcia, & Gortmaker, 2011), yet contrary to a recent study in England that found no protective effect among more affluent microlevel contexts (Edwards, Cade, Ransley, Clarke, 2010). These mixed results demonstrate the need for more US evidence and the importance of separately examining both affluence and deprivation.
+Finally, neighborhood social environments were associated with BMI and its related health behaviors among children in this age group. Higher BMI was significantly associated with property crimes, consistent with theory and evidence that neighborhoods characterized by high property crimes experience a lack of social order (Sampson et al., 1999). This suggests a similar social disorder effect may be occurring among younger residents in high-crime environments. Despite the origins of these social order theories in US urban environments, recent international studies (e.g., Huynh, Dibley, Sibbritt, Tran, & Le, 2011; Serene, Shamarina, & Mohd,
+
+112 A. Carroll-Scott et al. / Social Science & Medicine 95 (2013) 106e114
+
+Table 3 Coefficients and standard errors from final multilevel, cross-classified, random effects models predicting BMI, healthy and unhealthy eating, exercise, and screen time, community interventions for health, New Haven, CT, 2009.
+
+Model 1 absolute BMI N 1/4 719
+
+Student socioeconomic Agea Femalea Blacka Latinoa Free/reduced lunch eligiblea Not English spoken at homea Food securea
+
+1.041 (0.257)*** A0.249 (0.381)
+2.537 (0.719)*** 2.372 (0.785)** A1.207 (0.607)* A1.148 (0.595)AE
+e
+
+Student behaviors Freq of healthy eatinga Freq of unhealthy eatinga Physically fita
+
+A0.084 (0.034)* A0.109 (0.034)** A2.200 (0.411)***
+
+Neighborhood built environment
+
+Perceived park accessa Nearest grocery > 0.5 milea
+
+e 1.484 (0.493)**
+
+Nearest fast food <0.25 milea
+
+0.856 (0.445)AE
+
+Fast food countb
+
+e
+
+Neighborhood socioeconomic environment
+
+Percent blackb
+
+A0.012 (0.020)
+
+Percent latinob
+
+0.033 (0.029)
+
+Concentrated affluenceb
+
+A0.033 (0.030)
+
+Concentrated disadvantageb
+
+A0.068 (0.073)
+
+Neighborhood social environment
+
+Neighborhood social ties scalea Neigh safety scalea
+
+e e
+
+Property crimesb
+
+0.001 (0.001)**
+
+Intercept
+
+11.182 (3.339)*
+
+Model 2 healthy eating scale (1e5) N 1/4 835
+e 0.994 (0.383)**
+A0.737 (0.739) A0.531 (0.715) A0.339 (0.595) e
+1.136 (0.573)*
+e e e
+0.333 (0.148)* e e A0.125 (0.048)*
+0.051 (0.018)** 0.044 (0.025)AE 0.072 (0.032)* A0.040 (0.072)
+0.570 (0.152)*** e e
+7.307 (1.804) ***
+
+Model 3 unhealthy eating scale (1e5) N 1/4 856
+0.939 (0.297)** 1.453 (0.444)** 2.813 (0.863)** 1.626 (0.843)AE 1.011 (0.693)
+A2.345 (0.675)**
+e e e
+e e e
+0.113 (0.056)*
+A0.017 (0.020) A0.013 (0.028) A0.093 (0.037)* A0.022 (0.080)
+0.604 (0.174)** e e
+1.157 (3.691)
+
+Model 4 #days physical activity >30 min N 1/4 753
+e A0.565 (0.137)***
+0.006 (0.261) A0.450 (0.282)
+0.177 (0.212) 0.449 (0.210)* 0.410 (0.210)AE
+0.096 (0.012)*** e e
+0.121 (0.053)* e e e
+0.001 (0.007) A0.007 (0.009)
+0.015 (0.011) 0.035 (0.026)
+0.253 (0.054)*** A0.183 (0.103)AE e
+1.704 (0.745)*
+
+Model 5 #hours screen time N 1/4 753
+e 0.023 (0.091) 0.360 (0.170)* 0.231 (0.164)
+A0.050 (0.143) e e
+A0.023 (0.008)** 0.088 (0.008)***
+A0.164 (0.098)AE
+e e e e
+0.005 (0.004) 0.008 (0.006) A0.016 (0.007)* A0.020 (0.016)
+e e e
+
+AEp < 0.10, *p < 0.05, **p < 0.01, ***p < 0.001.
+Note: All models control for individual socioeconomic variables (Black, Latino, female, school free/reduced lunch eligibility), neighborhood socioeconomic variables (percent
+Black, percent Latino, concentrated affluence, concentrated disadvantage), and school clustering. a Measured at the student level (level-1). b Measured at the tract level (level-2).
+
+2011) have shown similar relationships between neighborhood safety and body weight. It is interesting to note that in our sample violent crime incidents and the subjective measure of perceptions of neighborhood safety had no association with obesity outcomes, despite prevailing community concerns at the time related to increased neighborhood violence.
+Students who reported more neighborhood social ties reported more frequent eating of healthy and unhealthy food items, and more days of exercise during the week. This finding may suggest that children who know more friends and other kids in the neighborhood are more likely to eat socially with them, whether the food is healthy or not. Results also suggest that children with more cohesive neighborhood social networks exercise more frequently, a finding confirming a recent study that parentreported perceptions of neighborhood collective efficacy were associated with more outdoor play and less television watching among younger children (Kimbro et al., 2011). Interestingly, social ties had a stronger effect in our study than that of perceived neighborhood safety. It may be that the presence of peers and friends in the neighborhood either mitigates concerns about neighborhood safety or is related to these perceptions.
+This study had some methodological limitations. Given the breadth of our data, we were not always able obtain in-depth measures on all relevant factors. We had limited measures of family socioeconomic status and tract-level social environment measures, including no adult measures of social cohesion or collective efficacy. We had no indicator for student immigrant status. Behavioral indicators like 24-h dietary and physical activity recalls would also have strengthened the study. 2000 census data was used because more recent 2005e2009 American Community Survey estimates and 2010 decennial census data were not available at the time. However, we consider this strength in study design as it
+
+allowed us to explore the temporal relationship between 2000 neighborhood socioeconomic characteristics and 2009 outcomes. Longitudinal studies should focus on how neighborhood socioeconomic environment changes that occur as a result of the economic recession beginning in 2007 affect later obesity outcomes. Finally, our data are cross-sectional, therefore caution needs to be taken when interpreting these findings. However, this crosssectional exploration of neighborhood environment domains with child obesity is an essential first step to inform future research that should examine these relationships longitudinally to test causality, directionality, and potential mechanisms. These next steps are necessary to elucidate a conceptual model that builds upon the socioecological perspective by differentiating how neighborhood social-spatial forces shape child obesity.
+Despite these limitations, this study builds upon prior research by focusing on a pre-adolescent cohort of at-risk youth seldom included in prior studies and using multiple data sources, including objective indicators of BMI, the built environment, and crime incidents. Moreover, our results extend previous literature by examining multiple dimensions of neighborhood environments simultaneously within a single US geographic context, as done in recent Canadian studies (e.g., Merchant et al., 2007; Veugelers et al., 2008), demonstrating that distinctive environmental domains have independent relationships with different child obesity outcomes. Although our results are seemingly generalizable only to similar US urban neighborhood contexts, we argue that within such high-risk environments are clues to multiple mechanisms linking neighborhood environments with the problem of childhood obesity that is growing in diverse US and international contexts.
+These findings identify neighborhood contextual factors that are more mutable than macro socioeconomic forces and have been shown to change relatively quickly as a result of policies and
+
+A. Carroll-Scott et al. / Social Science & Medicine 95 (2013) 106e114
+
+113
+
+programs (Samuels et al, 2010). For example, these findings suggest the need for interventions that take advantage of pre-adolescent peer networks and norms on healthy behaviors, or zoning policies that restrict density of food outlets selling unhealthy items. To effectively address the current obesity pandemic, our findings reinforce the need for sustainable, locally-meaningful programs and polices that go beyond individual-level behavior change approaches to provide safer, healthier neighborhood environments for children to thrive and grow into healthy adults.
+Acknowledgments
+Funding for this study came from the Aetna Foundation. Support for the baseline data collection came from the Patrick and Catherine Weldon Donaghue Medical Research Foundation. This research was conducted in affiliation with Community Interventions for Health, Oxford Health Alliance, Oxford England. The authors are grateful to our partnership with the New Haven Public Schools, and would like to acknowledge District leadership, the students who participated in the study, and the principals, teachers, and school wellness facilitators at each of the twelve Community Interventions for Health study schools. We are also grateful to DataHaven for helping us to acquire the data needed to explore these important research questions. DataHaven is a non-profit 501(c)3 organization dedicated to improving the Greater New Haven and Valley Region by compiling and sharing high-quality public information for effective decision making.
+References
+Aaron, D. J., Kriska, A. M., Dearwater, S. R., Cauley, J. A., Metz, K. F., & LaPorte, R. E. (1995). Reproducibility and validity of an epidemiologic questionnaire to assess past year physical activity in adolescents. American Journal of Epidemiology, 142(2), 191e201.
+Apparicio, P., Abdelmajid, M., Riva, M., & Shearmur, R. (2008). Comparing alternative approaches to measuring the geographical accessibility of urban health services: distance types and aggregation-error issues. International Journal of Health Geographics, 7, 7.
+Borradaile, K. E., Sherman, S., Vander Veur, S. S., et al. (2009). Snacking in children: the role of urban corner stores. Pediatrics, 124(5), 1293e1298.
+Bronfenbrenner, U. (1979). The ecology of human development: Experiments by nature and design. Cambridge, MA: Harvard University Press.
+Brooks-Gunn, J., Duncan, G. J., & Aber, J. L. (1997). Neighborhood poverty. New York: Russell Sage Foundation.
+Brownell, K. D., Schwartz, M. B., Harris, J. L., Henderson, K. E., & Puhl, R. (2009). The need for bold action to prevent adolescent obesity. Journal of Adolescent Health, 45, S8eS17.
+Buka, S. L., Brennan, R. T., Rich-Edwards, J. W., et al. (2003). Neighborhood support and the birth weight of urban infants. American Journal of Epidemiology, 157(1), 1e8.
+Carnell, S., & Wardle, J. (2008). Appetitive traits and child obesity: measurement, origins and implications for intervention. Proceedings of the Nutrition Society, 67(4), 343e355.
+Centers for Disease Control and Prevention. (2011). Obesity rates among all children in the United States: NHANES data. Accessed 14.01.12. http://www.cdc.gov/ obesity/childhood/data.html.
+Chiang, P.-H., Wahlqvist, M. L., Lee, M.-S., Huang, L.-Y., Chen, H.-H., & Huang, S. T.-Y. (2011). Fast-food outlets and walkability in school neighbourhoods predict fatness in boys and height in girls: a Taiwanese population study. Public Health Nutrition, 14(9), 1601e1609.
+Chiolero, A., Maximova, K., & Paradis, G. (2008). Changes in BMI: an important metric for obesity prevention. Pediatrics, 122(3), 683.
+Christakis, N. A., & Fowler, J. H. (2007). The spread of obesity in a large social network over 32 years. The New England Journal of Medicine, 357(4), 370e379.
+Connell, C. L., Nord, M., Lofton, K. L., & Yadrick, K. (2004). Food security of older children can be assessed using a standardized survey instrument. The Journal of Nutrition, 134(10), 2566e2572.
+Council on Communications and Media. (2011). Children, adolescents, obesity, and the media. Pediatrics, 128(1), 201e208.
+CT State Department of Education. (2009). Accessed 17.07.12. www.sde.ct.gov/sde/ cwp/view.asp?a1/42618&;q1/4320980.
+Day, P. L., & Pearce, J. (2011). Obesity-promoting food environments and the spatial clustering of food outlets around schools. American Journal of Preventive Medicine, 40(2), 113e121.
+Diez-Roux, A. V. (2003). The examination of neighborhood effects on health: conceptual and methodological issues related to the presence of multiple levels of
+
+organization. In I. Kawachi, & L. F. Berkman (Eds.), Neighborhoods and health (pp. 45e64). New York, NY: Oxford University Press. Ding, D., Sallis, J. F., Kerr, J., Lee, S., & Rosenberg, D. E. (2011). Neighborhood environment and physical activity among youth a review. American Journal of Preventive Medicine, 41(4), 442e455. Duffany, K. O., Finegood, D. T., Matthews, D., et al. (2011). Community Interventions for Health (CIH): a novel approach to tackling the worldwide epidemic of chronic diseases. CVD Prevention and Control, 6, 47e56. Duncan, M., & Mummery, K. (2005). Psychosocial and environmental factors associated with physical activity among city dwellers in regional Queensland. Preventive Medicine, 40(4), 363e372. Edwards, K. L., Cade, J. E., Ransley, J. K., & Clarke, G. P. (2010). A cross-sectional study examining the pattern of childhood obesity in Leeds: affluence is not protective. Archives of Disease in Childhood, 95(2), 94e99. Esri. (2009). 2009 methodology statement: EsriO data e Business locations and business summary. Redlands, CA. Federal Bureau of Investigation. (2011). Uniform crime reporting Statistics: Their proper use. Firestone, R., Punpuing, S., Peterson, K. E., Acevedo-Garcia, D., & Gortmaker, S. L. (2011). Child overweight and undernutrition in Thailand: is there an urban effect? Social Science & Medicine (1982), 72(9), 1420e1428. Franzini, L., Elliott, M. N., Cuccaro, P., et al. (2009). Influences of physical and social neighborhood environments on children's physical activity and obesity. American Journal of Public Health, 99(2), 271e278. Galvez, M. P., Hong, L., Choi, E., et al. (2009). Childhood obesity and neighborhood food-store availability in an inner-city community. Academic Pediatrics, 9(5), 339e343. Galvez, M. P., Pearl, M., & Yen, I. H. (2010). Childhood obesity and the built environment. Current Opinion in Pediatrics, 22(2), 202e207. Gordon-Larsen, P., Nelson, M. C., Page, P., & Popkin, B. M. (2006). Inequality in the built environment underlies key health disparities in physical activity and obesity. Pediatrics, 117(2), 417e424. Grafova, I. B. (2008). Overweight children: assessing the contribution of the built environment. Preventive Medicine, 47(3), 304e308. Harrison, F., Jones, A. P., van Sluijs, E. M. F., Cassidy, A., Bentham, G., & Griffin, S. J. (2011). Environmental correlates of adiposity in 9e10 year old children: considering home and school neighbourhoods and routes to school. Social Science & Medicine (1982), 72(9), 1411e1419. Harwell, M., & LeBeau, B. (2010). Student eligibility for a free lunch as an SES measure in education research. Educational Researcher, 39(2), 120e131. Hill, J. O., Wyatt, H. R., Reed, G. W., & Peters, J. C. (2003). Obesity and the environment: where do we go from here? Science, 299(5608), 853e855. Hubacek, J. A. (2009). Eat less and exercise more e is it really enough to knock down the obesity pandemia? Physiological Research, 58(Suppl 1), S1eS6. Huynh, D. T. T., Dibley, M. J., Sibbritt, D., Tran, H. T. M., & Le, Q. T. K. (2011). Influence of contextual and individual level risk factors on adiposity in a preschool child cohort in Ho Chi Minh City, Vietnam. International Journal of Pediatric Obesity: IJPO: An Official Journal of the International Association for the Study of Obesity, 6(2-2), e487e500. Jennings, A., Welch, A., Jones, A. P., et al. (2011). Local food outlets, weight status, and dietary intake: associations in children aged 9e10 years. American Journal of Preventive Medicine, 40(4), 405e410. Kim, D., Subramanian, S. V., Gortmaker, S. L., & Kawachi, I. (2006). US state- and county-level social capital in relation to obesity and physical inactivity: a multilevel, multivariable analysis. Social Science & Medicine (1982), 63(4), 1045e 1059. Kimbro, R. T., Brooks-Gunn, J., & McLanahan, S. (2011). Young children in urban areas: links among neighborhood characteristics, weight status, outdoor play, and television watching. Social Science & Medicine (1982), 72(5), 668e676. Kipke, M. D., Iverson, E., Moore, D., et al. (2007). Food and park environments: neighborhood-level risks for childhood obesity in East Los Angeles. The Journal of Adolescent Health: Official Publication of the Society for Adolescent Medicine, 40(4), 325e333. Koplan, J. P., Liverman, C. T., & Kraak, V. I. (2005). Preventing childhood obesity: Health in the balance. Washington, DC: National Academies Press. Krieger, N. (2001). Theories for social epidemiology in the 21st century: an ecosocial perspective. International Journal of Epidemiology, 30(4), 668e677. Kuczmarski, R. J., Ogden, C. L., Guo, S. S., et al. (2002). 2000 CDC growth charts for the United States: methods and development. In Vital health Stat, 11. National Center for Health Statistics. Leung, C. W., Laraia, B. A., Kelly, M., Nickleach, D., Adler, N. E., Kushi, L. H., et al. (2011). The influence of neighborhood food stores on change in young girls' body mass index. American Journal of Preventive Medicine, 41(1), 43e51. Lovasi, G. S., Hutson, M. A., Guerra, M., & Neckerman, K. M. (2009). Built environments and obesity in disadvantaged populations. Epidemiologic Review, 31, 7e20. McLaren, L. (2007). Socioeconomic status and obesity. Epidemiologic Review, 29, 29e48. MacLeod, K. E., Gee, G. C., Crawford, P., & Wang, M. C. (2008). Neighbourhood environment as a predictor of television watching among girls. Journal of Epidemiology & Community Health, 62(4), 288e292. Massey, D. S. (1996). The age of extremes: concentrated affluence and poverty in the twenty-first century. Demography, 33(4), 395e412. Merchant, A. T., Dehghan, M., Behnke-Cook, D., & Anand, S. S. (2007). Diet, physical activity, and adiposity in children in poor and rich neighbourhoods: a crosssectional comparison. Nutrition Journal, 6, 1.
+
+114 A. Carroll-Scott et al. / Social Science & Medicine 95 (2013) 106e114
+
+Mitchell, G. A. (2009). Genetics, physiology and perinatal influences in childhood obesity: view from the chair. International Journal of Obesity, 33(Suppl 1), S41eS47.
+National Center for Education Statistics. (2007). The nation's report card: Mathematics. Rep. No. NCES 2007e494, prepared by J. Lee, W. Grigg, & G. Dion. Washington, DC: U.S. Department of Education. Retrieved 20.09.08, from. http://nces.ed.gov/nationsreportcard/pdf/main2007/2007494.pdf.
+Nelson, M. C., Gordon-Larsen, P., Song, Y., & Popkin, B. M. (2006). Built and social environments associations with adolescent overweight and activity. American Journal of Preventive Medicine, 31(2), 109e117.
+O'Campo, P. (1997). Neighborhood risk factors for low birthweight in Baltimore: a multilevel analysis. American Journal of Public Health, 87(4), 597e603.
+Ogden, C. L., Carroll, M. D., Lester, C. R., et al. (2010). Prevalence of high body mass index in US children and adolescents, 2007e2008. Journal of the American Medical Association, 303(3), 242e249.
+Oreskovic, N. M., Kuhlthau, K. A., Romm, D., & Perrin, J. M. (2009). Built environment and weight disparities among children in high- and low-income towns. Academic Pediatrics, 9(5), 315e321.
+Oreskovic, N. M., Winickoff, J. P., Kuhlthau, K. A., et al. (2009). Obesity and the built environment among Massachusetts children. Clinical Pediatrics, 48(9), 904e912.
+Patrick, K., Sallis, J. F., Long, B., et al. (1994). A new tool for encouraging activity: Project PACE. The Physician and Sportsmedicine, 22, 45e55.
+Pebley, A. R., & Sastry, N. (2004). Neighborhoods, poverty, and Children's well-being. In K. M. Neckerman (Ed.), Social inequality (pp. 119e145). New York, NY: Russell Sage Foundation.
+Petrobelli, A., Fath, M. S., Allison, D. B., Gallagher, D., Chiumello, G., & Heymsfield, S. B. (1998). Body mass index as a measure of adiposity among children and adolescents: a validation study. Journal of Pediatrics, 132(2), 204e210.
+Popkin, B. M., Duffey, K., & Gordon-Larsen, P. (2005). Environmental influences on food choice, physical activity and energy balance. Physiology & Behavior, 86(5), 603e613.
+Potwarka, L. R., Kaczynski, A. T., & Flack, A. L. (2008). Places to play: association of park space and facilities with healthy weight status among children. Journal of Community Health, 33(5), 344e350.
+Raynor, H. A., Jelalian, E., Vivier, P. M., et al. (2009). Parent-reported eating and leisuretime activity selection patterns related to energy balance in preschool- and school-aged children. Journal of Nutrition Education and Behavior, 41(1), 19e26.
+Rosenberg, D., Ding, D., Sallis, J. F., et al. (2009). Neighborhood Environment Walkability Scale for Youth (NEWS-Y): reliability and relationship with physical activity. Preventive Medicine, 49(2e3), 213e218.
+Safron, M., Cislak, A., Gaspar, T., & Luszczynska, A. (2011). Micro-environmental characteristics related to body weight, diet, and physical activity of children and adolescents: a systematic umbrella review. International Journal of Environmental Health Research, 21(5), 317e330.
+Sampson, R. J., Morenoff, J. D., & Earls, F. (1999). Beyond social capital: spatial dynamics of collective efficacy for children. American Sociological Review, 64(5), 633e660.
+Sampson, R. J., Raudenbush, S. W., & Earls, F. (1997). Neighborhoods and violent crime: a multilevel study of collective efficacy. Science, 277(5328), 918e924.
+Samuels, S. E., Craypo, L., Boyle, M., et al. (2010). The California Endowment's healthy eating, active communities program: a midpoint review. American Journal of Public Health, 100(11), 2114e2123.
+Santilli, A., Carroll-Scott, A., Wong, F., & Ickovics, J. (2011). Urban youths go 3000 miles: engaging and supporting young residents to conduct neighborhood asset mapping. American Journal of Public Health, 101(12), 2207e2210.
+
+Sastry, N., Ghosh-Dastidar, B., Adams, J., & Pebley, A. R. (2006). The design of a multilevel survey of children, families, and communities: the Los Angeles family and neighborhood survey. Social Science Research, 35(4), 1000e1024.
+Serene, T. E. H., Shamarina, S., & Mohd, N. M. T. (2011). Familial and socioenvironmental predictors of overweight and obesity among primary school children in Selangor and Kuala Lumpur. Malaysian Journal of Nutrition, 17(2), 151e162.
+Singh, G. K., Kogan, M. D., & van Dyck, P. C. (2008). A multilevel analysis of state and regional disparities in childhood and adolescent obesity in the United States. Journal of Community Health, 33(2), 90e102.
+StataCorp. (2011). Stata statistical software: Release 12. College Station, TX: StataCorp LP.
+Subramanian, S. V., Jones, K., & Duncan, C. (2003). Multilevel methods for public health research. In I. Kawachi, & L. F. Berkman (Eds.), Neighborhoods and health (pp. 65e111). New York, NY: Oxford University Press.
+Subramanian, S. V., Kim, D. J., & Kawachi, I. (2002). Social trust and self-rated health in US communities: a multilevel analysis. Journal Of Urban Health-bulletin of The New York Academy of Medicine, 79(4), S21eS34.
+U.S. Census Bureau. American community survey. 2005e2009 5-year estimates. U.S. Census Bureau. (2000). American factfinder: New Haven, CT. Retrieved June
+2011 from http://factfinder.census.gov. U.S. Department of Health and Human Services. (2000). Healthy people 2010: Un-
+derstanding and improving health (2nd ed.).. Washington, DC. U.S. Department of Health and Human Services. (2011). Office of disease prevention
+and health promotion. Healthy people 2020Washington, DC. Available at http:// www.healthypeople.gov/2020/topicsobjectives2020/overview.aspx? topicId1/429. Accessed 12.01.11. Veitch, J., Timperio, A., Crawford, D., et al. (2011). Is the neighbourhood environment associated with sedentary behaviour outside of school hours among children? Annals of Behavioral Medicine: A Publication of the Society of Behavioral Medicine, 41(3), 333e341. Veugelers, P., Sithole, F., Zhang, S., & Muhajarine, N. (2008). Neighborhood characteristics in relation to diet, physical activity and overweight of Canadian children. International Journal of Pediatric Obesity: IJPO: An Official Journal of the International Association for the Study of Obesity, 1e8. Wang, Y., & Beydoun, M. A. (2007). The obesity epidemic in the United StatesdGender, age, socioeconomic, racial/ethnic, and geographic characteristics: a systematic review and meta-regression analysis. Epidemiologic Review, 29(1), 6e28. Wen, M., Browning, C. R., & Cagney, K. A. (2003). Poverty, affluence, and income inequality: neighborhood economic structure and its implications for health. Social Science & Medicine, 57(5), 843e860. Wen, M., Browning, C. R., & Cagney, K. A. (2007). Neighbourhood deprivation, social capital and regular exercise during adulthood: a multilevel study in Chicago. Urban Studies, 44(13), 2651e2671. WHO. (2008). STEPS surveillance manual. Geneva: World Health Organization. Xue, Y., Leventhal, T., Brooks-Gunn, J., & Earls, F. J. (2005). Neighborhood residence and mental health problems of 5- to 11-year-olds. Archives of General Psychiatry, 62(5), 554e563. Yen, I. H., & Syme, S. L. (1999). The social environment and health: a discussion of the epidemiologic literature. Annual Review of Public Health, 20(1), 287e308. Yousey-Hindes, K. M., & Hadler, J. L. (2011). Neighborhood socioeconomic status and influenza hospitalizations among children: new Haven county, Connecticut, 2003e2010. American Journal of Public Health, 101(9), 1785e1789. Zhang, Q., & Wang, Y. (2007). Using concentration index to study changes in socioeconomic inequality of overweight among US adolescents between 1971 and 2002. International Journal of Epidemiology, 36(4), 916e925.
+
+

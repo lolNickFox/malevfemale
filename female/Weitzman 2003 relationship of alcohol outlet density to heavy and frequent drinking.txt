@@ -1,0 +1,208 @@
+Health & Place 9 (2003) 1-6
+The relationship of alcohol outlet density to heavy and frequent drinking and drinking-related problems among
+college students at eight universities
+Elissa R. Weitzman*, Alison Folkman, M.P.H. Kerry Lemieux Folkman, Henry Wechsler
+Department of Health & Social Behavior, Harvard School of Public Health, Landmark Center, 401 Park Drive, P.O. Box 15678, Boston, MA 02215, USA
+Abstract
+To determine whether alcohol outlet density was correlated with heavy and frequent drinking and drinking-related problems, we compared ecological measures of outlet density with survey measures of drinking using a geographic information system and the Harvard School of Public Health College Alcohol Study (n 1/4 3; 421; site n 1/4 8). We identified 966 outlets within 8 2-mile study areas. Densities/site ranged from 32 to 185. Density was correlated with heavy drinking (r 1/4 0:82; p 1/4 0:01), frequent drinking (r 1/4 0:73; p 1/4 0:04) and drinking-related problems (r 1/4 0:79; p 1/4 0:02). Women, underage students and students who picked up binge drinking in college were affected. Implications for prevention and research are discussed. r 2002 Elsevier Science Ltd. All rights reserved.
+Keywords: Alcohol use; Drinking problems; Alcohol outlet density; Prevention; Environment; College
+
+Introduction
+Features of local alcohol economies, in addition to characteristics of drinkers, may influence drinking behavior among college students. Discount pricing of alcoholic drinks and promotion of alcoholic beverages have been linked to consumption among college students (Chaloupka et al., 1998; Wechsler et al., 2000a). Lower rates of binge drinking exist among students at schools whose administrators report an absence of alcohol outlets within a mile of campus (Wechsler et al., 1994). Outlet density may impact drinking by making low cost, or volume discounted alcohol available to persons predisposed to drink heavily (Gruenewald et al., 1996), for example young adults. High outlet density may reflect heavy drinking norms and preferences (Scribner et al., 2000), or underlying
+*Corresponding author. Tel: +1-617-384-8933; fax: +1-617384-8730.
+E-mail address: eweitzma@hsph.harvard.edu (E.R. Weitzman).
+
+community features, such as social disorganization or social capital linked to frequent heavy drinking in college (Weitzman and Kawachi, 2000).
+The purpose of this study was to: (a) pilot the collection of secondary data about local alcohol licenses and assess their availability and quality; and, (b) determine whether levels of heavy and frequent drinking and drinking-related problems varied systematically with alcohol outlet density among students at colleges participating in the ``A Matter of Degree'' (AMOD) program to reduce binge drinking and related harms.
+Methods
+Data collection for geographic information systems (GIS)
+Outlet information was collected for venues within a 2-mile radius of a central location point (CLP) on or near eight of ten AMOD campuses. CLPs were
+
+1353-8292/03/$ - see front matter r 2002 Elsevier Science Ltd. All rights reserved. PII: S 1 3 5 3 - 8 2 9 2 ( 0 2 ) 0 0 0 1 4 - X
+
+2 E.R. Weitzman et al. / Health & Place 9 (2003) 1-6
+
+identified by local evaluators and corresponded to a student union, administrative location or major intersection. The 2-mile distance was chosen because it encompassed major businesses and student residences (on- and off-campus). One site was excluded because the response rate on the student behavioral survey was too low (o50%), another because data describing outlet density were unreliable.
+Enumeration of licensed outlets within study areas was accomplished by matching lists of local licenses to study areas addresses using ArcView 3.1 GIS software (Environmental Systems Research Institute, Inc.,r 2000), as follows. We compiled a master list of licensed venues by site from government licensing boards, secondary data sources and physical observation for the 1999-2000 academic year. Lists included: (1) name; (2) address; (3) license type(s); (4) venue category (i.e., restaurant, bar, nightclub, package store/liquor store/beer distributor, other); and, (5) license category (i.e., whether license supports alcohol consumption on- and/or off-premise). Outlets were excluded that did not typically serve college students; venues with a combined on-site and catering license were coded as ``on-site'' based on how they functioned for college students. Exclusions and re-categorizations were made case by case.
+Next, site CLP addresses were entered into ArcView, and a 2-mile radial boundary was drawn. After identifying the 2-mile study areas we geocoded address and zip code fields of each outlet using ArcView's automated geocoding function, whereby the software attempted to match each address element with its spatial street database. Addresses for which a 100% match was found were mapped without further inspection. Addresses for which either no match or a partial match was found were verified using multiple resources. Sources of error included: (1) misspelled street names, (2) incorrect street types, (3) incorrect or missing street directions, (4) incorrect street numbers, and (5) incorrect zip codes. Incorrect elements were repaired, and a modified subset of addresses was submitted for a second round of geocoding.
+The first two rounds of geocoding produced spatial coordinates for 93-100% of the licensed outlets by site. Remaining addresses were likely created subsequent to the ArcView street database. In such cases, a proxy geocode was generated using local data. Six venues were located manually using information from paper maps sent by site evaluators. Once plotted, we visually inspected maps and identified outlets within the study areas. These were counted and included in the analyses.
+
+(CAS) survey (institutional n 1/4 8 for this study, student n 1/4 3421). Information about the CAS methods and measures is published elsewhere (Wechsler et al., 1994; Wechsler et al., 1998; Wechsler et al., 2000b).
+Student drinking behaviors at the AMOD sites included: Heavy drinking (percentage of drinkers who reported consuming five or more drinks at an offcampus party in the past 30 days); Frequent drinking (percentage of drinkers who reported drinking on at least 10 occasions in the past 30 days); and, Drinkingrelated problems (percentage of drinkers reporting five or more problems associated with one's own alcohol consumption since the beginning of the school year). Measures are consistent with other large national surveys of youth drinking (Presley et al., 1996; Douglas et al., 1997; Johnston et al., 1999).
+Initial analyses tested rank order correlations between outlet density and drinking among all student drinkers. Next, we tested rank order correlations between outlet density and drinking measures among subgroups of student drinkers. Because the elasticity of demand for alcohol differs for college women and men as do their access patterns (Chaloupka and Wechsler, 1996), we examined gender differences in effect among all student drinkers. On all analyses, ties were taken into account by Statistical Analysis Software (SAS) (SAS Institute, Inc., r1999-2000). Findings are reported for probability thresholds of po0:05 with a two-tailed test of significance. We note all significant correlations and annotate those with multiple ties.
+Results
+School setting and student characteristics
+Study sites were located in different geographic regions of the United States and set in different types of communities (i.e., small town, urban, suburban) (Table 1). All of the universities were public and all but one had full-time undergraduate student enrollments >10,000.
+There were 3421 survey respondents among the eight AMOD sites (average response rate was 62%, ranging from 51% to 73%). From one-half to two-thirds of the student respondents at the sites were female. A majority of students reported they were White and between 48% reported they were younger than 21-64 years of age, the legal age for purchasing and consuming alcohol. From 10% to 21% of the respondents reported they were members of fraternities and sororities.
+
+Student survey data
+
+Outlet characteristics
+
+We used behavioral survey data from the 1999 Harvard School of Public Health College Alcohol Study
+
+We identified 2304 alcohol outlets using master lists at the eight AMOD sites, of which we were able to geocode
+
+E.R. Weitzman et al. / Health & Place 9 (2003) 1-6
+
+3
+
+Table 1 Site characteristics and survey respondent sociodemographicsa
+
+Site
+
+AB
+
+Setting Region
+
+Northeast South
+
+C South
+
+Location
+
+Small town
+
+Small town
+
+Suburban
+
+Student characteristics Total N Response rate (%)
+% Female % White % Underage % Greek-affiliated
+
+391 728 348 (63) (57) (62)
+58 67 56 94 88 73 63 64 54 10 17 20
+
+Outlet characteristics # (%) Total density, 2 miles On-site venues, 0-1 miles Off-site venues, 0-1 miles On- & off-site venues, 0-1 miles On-site venues, 1-2 miles Off-site venues, 1-2 miles On- & off-site venues, 1-2 miles
+
+156 41 (26) 13 (8)
+1 (1) 52 (33) 47 (30)
+2 (1)
+
+32 17 (53) 4 (13)
+1 (3) 7 (22) 3 (9) 0 (0)
+
+a Percentages may not add to 100 due to rounding error.
+
+185 0 (0) 18 (10) 63 (34) 0 (0) 42 (23) 62 (34)
+
+D
+North Central Urban
+388 (62)
+55 90 48 21
+117 26 (22)
+6 (5) 46 (39)
+7 (6) 20 (17) 12 (10)
+
+E
+North Central Small town
+412 (66)
+60 89 55 17
+85 0 (0) 14 (16) 50 (59) 0 (0) 7 (8) 14 (16)
+
+F
+North Central Urban
+462 (73)
+56 89 54 12
+156 0 (0) 12 (8) 54 (35) 0 (0) 15 (10) 75 (48)
+
+G
+West
+Suburban
+382 (63)
+51 83 58 17
+152 60 (39) 15 (10)
+4 (3) 49 (32) 21 (14)
+3 (2)
+
+H
+South
+Urban
+310 (51)
+62 83 63 16
+83 12 (14) 13 (16)
+0 (0) 34 (41) 24 (29)
+0 (0)
+
+Fig. 1. Study community with the lowest alcohol outlet density.
+
+4 E.R. Weitzman et al. / Health & Place 9 (2003) 1-6
+
+and map 2217 (96%), ranging from 93% to 100% across sites. Site H had the largest proportion of unmapped outlets but, because it drew on source data describing a much larger geographic unit than the others, was not considered to have a disproportionate amount of missing data. Almost half (n 1/4 966; 44%) of the mapped outlets were located within two miles of the CLPs. Of these 470 fell within the first mile (i.e., a 1-mile radius from the CLP), and 496 fell between one and two miles.
+Total outlet densities within the 2-mile radii of the study sites ranged from 32 (Site B) to 185 venues (Site C) with an average of 121 (Table 1). Figs. 1 and 2 depict the lowest- and highest-density communities, respectively.
+There were fewer off-site venues than there were onsite or both on-/off-site venues in the study areas. The proportion of off-site venues increased at greater distances from the CLPs. Closer in, 10% (n 1/4 95) of the 966 outlets were licensed for off-site consumption compared to about one-fifth (n 1/4 179; 19%) in the oneto-two mile radial ring.
+Student drinking behaviors
+All sites had student populations that exhibited high levels of heavy and frequent drinking and drinking-
+
+related problems (Table 2). From 27% to 41% of students reported heavy drinking, consuming five or more drinks at an off-campus party in the past 30 days. From approximately one-fifth to one-third of students at the sites reported frequent drinking (consuming alcohol on ten or more occasions during the past 30 days), and large percentages of students (18-32%) reported experiencing five or more problems resulting from their drinking.
+Between 20% and 46% of the respondents reported frequent drunkenness (i.e., they drank enough to get drunk three or more times during the past 30 days). A minority of respondents reported that they drank but did not do so frequently and heavily. With few exceptions, the majority of students reported that they usually binge when they drink. When asked why they drink alcohol, 44-65% of the students across sites indicated ``to get drunk'' as an important reason.
+Associations between outlet density and heavy drinking, frequent drinking and drinking-related problems
+Outlet density and heavy drinking. Overall there was a significant correlation between outlet density and heavy drinking (i.e., consumed 5+ drinks at an off-campus
+
+Fig. 2. Study community with the highest alcohol outlet density.
+
+E.R. Weitzman et al. / Health & Place 9 (2003) 1-6
+
+5
+
+Table 2 Drinking characteristics by site, n (%)a
+
+Site
+
+AB C
+
+Drinking behavior Heavy drinking Frequent drinking Drinking-related problems Frequent drunkenness Non ``binge'' drinking Usually binges when drinks Drinks to get drunk Abstains
+
+138 (41) 106 (31) 116 (32) 142 (43) 90 (24) 184 (54) 240 (65)
+20 (5)
+
+200 (36) 147 (26) 136 (22) 226 (41) 198 (27) 323 (57) 390 (61) 90 (12)
+
+99 (39) 74 (29) 87 (31) 93 (37) 111 (33) 138 (54) 167 (58) 55 (16)
+
+a Percentages may not add to 100 due to rounding error.
+
+D
+103 (36) 63 (21) 88 (26) 73 (26) 120 (32) 158 (54) 163 (48) 46 (12)
+
+E
+124 (37) 82 (24) 102 (27) 131 (39) 116 (28) 187 (55) 221 (58) 28 (7)
+
+F
+147 (37) 129 (32) 127 (30) 180 (46) 113 (25) 217 (54) 262 (62)
+36 (8)
+
+G
+117 (37) 91 (29) 109 (32) 116 (37) 109 (29) 145 (45) 225 (64) 29 (8)
+
+H
+53 (27) 40 (19) 44 (18) 40 (20) 125 (42) 78 (38) 112 (44) 52 (17)
+
+party) for all drinkers (r 1/4 0:82; p 1/4 0:01), with several sites tied in rank. This finding was found to hold for multiple subgroups of students, specifically for men (r 1/4 0:73; p 1/4 0:04) and students who picked up binge drinking in college (r 1/4 0:75; p 1/4 0:03).
+Outlet density and frequent drinking. Outlet density was correlated with frequent drinking (i.e., drank on 10+ occasions in past 30 days) for all drinkers (r 1/4 0:73; p 1/4 0:04) where there were multiple ties in rank, nonGreek affiliated students (r 1/4 0:75; p 1/4 0:03), women (r 1/4 0:72; p 1/4 0:04), underage students (r 1/4 0:79; p 1/4 0:02) which had multiple ties, and students who picked up binge drinking in college (r 1/4 0:84; p 1/4 0:01).
+Outlet density and drinking-related problems. Finally, outlet density was correlated with problem drinking (i.e., reporting 5+ problems since the beginning of the school year) among all drinkers (r 1/4 0:79; p 1/4 0:02), women (r 1/4 0:90; p 1/4 0:002), underage students (r 1/4 0:73; p 1/4 0:04), overage students (r 1/4 0:79; p 1/4 0:02), and students who reported picking up binge drinking in college (r 1/4 0:76; p 1/4 0:03).
+Outlet density and student demographic characteristics. When ranked by prevalence, student demographic characteristics at the study sites were unrelated to the rank ordering of outlet density.
+Discussion
+We found associations between outlet density, heavy and frequent drinking and drinking-related problems among all student drinkers and among several subgroups. These associations are notable. If outlet density were a trivial factor we might not expect it to influence less committed and/or experienced drinkers (i.e., women or students who report picking up binge drinking in college). In fact, it appears that the ``wettest'' communities may be particularly risky for young people whose drinking does not reflect entrenched high-risk patterns.
+
+Thorough investigation of these associations and mechanisms underlying them are needed.
+Several lessons were learned in this exploration. First, license categories vary considerably across state and local boundaries, challenging both researchers and policymakers. Development and adoption of a standardized licensing system may make sense. We also found considerable variation in the quality and currency of license information from local licensing boards. It was helpful to supplement these data with data from electronic and physical sources, including web site yellow pages and business directories. A skilled local evaluation staff was instrumental to both the creation of a license typology that could be applied across sites, and the collection of reliable local data.
+Given the small sample of this study it will be important to take a broader more comprehensive look using national data. That larger look will address some of this study's limitations. We used an analytic technique appropriate for nonparametric data and small sample sizes. This technique did not allow us to control for other variables. We limited the chance that our findings were due to differences in underlying student characteristics by testing whether outlet density and student sample characteristics were related and confounding the observed relationships. They were not. Future work using a national survey sample will use multivariate multilevel methods to account for individual and community characteristics.
+Cross-sectional data like ours constrain us from making causal inferences about the relationship between outlet density and drinking. While we cannot determine the chronological order of supply and demand patterns at these sites, it is unlikely that supply fully followed demand. AMOD sites were selected based on their very high levels of heavy episodic or binge drinking--levels that had been in place for several years as have their patterns of bar and alcohol outlet density. Finally, we used as our outlet measure total density within a
+
+6 E.R. Weitzman et al. / Health & Place 9 (2003) 1-6
+
+bounded geographic area specific to the AMOD college towns and students. This made sense for our purposes but findings cannot be generalized to other settings or populations.
+Acknowledgements
+This research was supported by grants from the Robert Wood Johnson Foundation. We thank Toben Nelson and Kathy McCabe, Carol Bormann, Ann Dorwaldt, Brenda Egolf, Kathryn Farris, Julie Kearney, Diane Leiva, William Lugo, Steve Martin, Duane Shell and Brenda Woods.
+References
+Chaloupka, F.J., Wechsler, H., 1996. Binge drinking in college: the impact of price, availability, and alcohol control policies. Contemporary Economic Policy 14 (4), 112-124.
+Chaloupka, F.J., Grossman, M., Saffer, H., 1998. The effects of price on the consequences of alcohol use and abuse. Recent Developments in Alcoholism 14, 331-346.
+Douglas, K.A., Collins, J.L., Warren, C., Kann, L., Gold, R., Clayton, S., Ross, J.G., Kolbe, L.J., 1997. Results from the 1995 National College Health Risk Behavior Survey. Journal of American College Health 46 (2), 55-66.
+Environmental Systems Research Institute, Inc., r 2000. ArcView 3.1 [Computer Software] Redlands, CA.
+Gruenewald, P.J., Millar, A.B., Roeper, P., 1996. Access to alcohol: geography and prevention for local communities. Alcohol Health & Research World 20 (4), 244-251.
+Johnston, L.D., O'Malley, P.M., Bachman, J.G., 1999. National Survey Results on Drug Use from the Monitoring the Future Study, 1975-1998. Vol. II: College Students and
+
+Young Adults. NIH Publication number 99-4661. National Institute on Drug Abuse, Betheda, MD. Presley, C.A., Meilman, P.W., Cashin, J.R., Lyerla, R., 1996. Alcohol and Drugs on American College Campuses: Use, Consequences, and Perceptions of the Campus Environment. Vol IV: 1992-94. Southern Illinois University, Carbondale, IL. SAS Institute, Inc., r 1999-2000. The SAS System Version 8.1 [Computer Software] Cary, NC. Scribner, R.A., Cohen, D.A., Fisher, W., 2000. Evidence of a structural effect for alcohol outlet density: a multilevel analysis. Alcoholism: Clinical and Experimental Research 24 (2), 188-195. Wechsler, H., Davenport, A., Dowdall, G., Moeykens, B., Castillo, S., 1994. Health and behavioral consequences of binge drinking in college. A national survey of students at 140 campuses. Journal of the American Medical Association 272 (21), 1672-1677. Wechsler, H., Dowdall, G.W., Maenner, G., Gledhill-Hoyt, J., Lee, H., 1998. Changes in binge drinking and related problems among American college students between 1993 and 1997. Results of the Harvard School of Public Health College Alcohol Study. Journal of American College Health 47 (2), 57-68. Wechsler, H., Kuo, M., Lee, H., Dowdall, G.W., 2000a. Environmental correlates of underage alcohol use and related problems of college students. American Journal of Preventive Medicine 19 (1), 24-29. Wechsler, H., Lee, J.E., Kuo, M., Lee, H., 2000b. College binge drinking in the 1990s: a continuing problem. Results of the Harvard School of Public Health 1999 College Alcohol Study. Journal of American College Health 48 (5), 199-210. Weitzman, E.R., Kawachi, I., 2000. Giving means receiving: the protective effect of social capital on binge drinking on college campuses. American Journal of Public Health 90 (12), 1936-1939.
+
+

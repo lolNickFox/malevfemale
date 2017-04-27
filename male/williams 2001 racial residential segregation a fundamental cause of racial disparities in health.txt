@@ -1,0 +1,304 @@
+Viewpoint
+Racial Residential Segregation: A Fundamental Cause of Racial Disparities in Health
+
+David R. Williams, PhD, MPHa Chiquita Collins, PhDb
+
+SYNOPSIS
+Racial residential segregation is a fundamental cause of racial disparities in health. The physical separation of the races by enforced residence in certain
+areas is an institutional mechanism of racism that was designed to protect whites from social interaction with blacks. Despite the absence of supportive legal statutes, the degree of residential segregation remains extremely high for most African Americans in the United States. The authors review evidence that suggests that segregation is a primary cause of racial differences in socioeconomic status (SES) by determining access to education and employment opportunities. SES in turn remains a fundamental cause of racial differences in health. Segregation also creates conditions inimical to health in the social and physical environment. The authors conclude that effective efforts to eliminate racial disparities in health must seriously confront segregation and its pervasive consequences.
+
+aDepartment of Sociology and Survey Research Center, Institute for Social Research, University of Michigan, Ann Arbor, MI
+bDepartment of Sociology, University of Texas at Austin, Austin, TX
+Address correspondence to David R. Williams, PhD, MPH, Institute for Social Research, Univ. of Michigan, PO Box 1248, Ann Arbor, MI 48106-1248; tel. 734-936-0649; fax 734-647-6972; e-mail <wildavid@umich.edu>.
+Preparation of this article was supported by grants MH59575 and MH57425 from the National Institute of Mental Health and by the John D. and Catherine T. MacArthur Foundation Research Network on Socioeconomic Status and Health. The authors thank Scott Wyatt for research assistance and Kathleen Boyle for preparing the manuscript.
+(c) 2001 Association of Schools of Public Health
+
+404 
+
+Public Health Reports / September-October 2001 / Volume 116
+
+Racial Residential Segregation  405
+
+Racial disparities are large and pervasive across multiple indicators of health status. Mortality data for the United States reveal that, compared to the white population, African Americans/blacks have an elevated death rate for 8 of the 10 leading causes of death.1 Especially disconcerting is evidence revealing that black-white disparities in health have not narrowed over time. For example, age-adjusted all-cause mortality for African Americans was one and a half times as high as that of whites in 1998, identical to what it was in 1950.1 Moreover, the black:white ratios of mortality from coronary heart disease, cancer, diabetes, and cirrhosis of the liver were larger in the late 1990s than in 1950.2 In the case of infant mortality, the black:white ratio increased from 1.6 in 1950 to 2.4 in 1998.1 Such large and persistent racial disparities in health are inconsistent with widely supported American values of equality in society.
+Healthy People 2010 is a major planning initiative of the United States government that seeks to eliminate racial and ethnic disparities in health by the year 2010. The success of this initiative is contingent on identifying and addressing the fundamental causes of these disparities. Researchers have long emphasized the importance of distinguishing basic, fundamental causes from surface or proximate ones.3-7 Basic causes are those responsible for generating a particular outcome. Changes in these factors produce corresponding changes in outcomes. In contrast, although proximate factors (surface causes) are related to outcomes, changes in these factors do not lead to changes in the relevant outcomes. Accordingly, interventions to reduce or eliminate racial disparities in health that focus only on proximate causes will have only limited effectiveness.
+In this article, we argue that racial residential segregation is the cornerstone on which black-white disparities in health status have been built in the US. Segregation is a fundamental cause of differences in health status between African Americans and whites because it shapes socioeconomic conditions for blacks not only at the individual and household levels but also at the neighborhood and community levels. We review evidence that suggests that segregation is a key determinant of racial differences in socioeconomic mobility and, additionally, can create social and physical risks in residential environments that adversely affect health.
+Nature and Origins of Residential Segregation Although residential segregation is a neglected variable in contemporary discussions of racial disparities in health, it has long been identified as the central determinant of the creation and perpetuation of ra-
+
+cial inequalities in America.8-12 Segregation refers to the physical separation of the races in residential contexts. It was imposed by legislation, supported by major economic institutions, enshrined in the housing policies of the federal government, enforced by the judicial system, and legitimized by the ideology of white supremacy that was advocated by churches and other cultural institutions.11-13 These institutional policies combined with the efforts of vigilant neighborhood organizations, discrimination on the part of real estate agents and home sellers, and restrictive covenants to limit the housing options of black Americans to the least desirable residential areas. In both Northern and Southern cities, levels of black-white segregation increased dramatically from 1860 to 1940 and have remained strikingly stable since then.12
+The segregation of African Americans is distinctive. Although most immigrant groups have experienced some residential segregation in the United States, no immigrant group has ever lived under the high levels of segregation that currently exist for the African American population.12 In the early 20th century, immigrant enclaves were never homogeneous to one immigrant group. In most immigrant ghettos, the ethnic immigrant group after which the enclave was named did not constitute a majority of the population of that area, and most members of European ethnic groups did not live in immigrant enclaves.12,14
+The Civil Rights Act of 1968 made discrimination in the sale or rental of housing units illegal in the United States, but studies reveal that subtle and explicit discrimination in housing persists.15 Thus, although African Americans express higher support than members of other racial/ethnic groups for residence in integrated neighborhoods,16 analyses of 2000 Census data document that the residential exclusion of blacks remains high and distinctive.17 Nationally, the index of dissimilarity (a measure of segregation) for the United States declined from 0.70 in 1990 to 0.66 in 2000.17 An index of 0.66 means that 66% of blacks would have to move to eliminate segregation.18 Generally, a dissimilarity index value above 0.60 is thought to represent extremely high segregation.19 In the 2000 Census, more than 74 Metropolitan Statistical Areas (MSAs) were found to have dissimilarity scores greater than 0.60.17 Instructively, these metropolitan areas contained the majority of the black population. In the last decade, segregation has declined the most in smaller, growing cities, especially those of the Southwest and West, and has remained relatively stable in the large metropolitan areas of the Northeast and Midwest. The decline in segregation has been due to a reduction in the number of all-white census tracts and has had no
+
+Public Health Reports / September-October 2001 / Volume 116
+
+406  Viewpoint
+
+impact on very high percentage African American census tracts, the residential isolation of most African Americans, or the concentration of urban poverty.17
+Segregation and Health Status: Individual and Household SES Researchers have identified socioeconomic status (SES) as a fundamental cause of the observed social inequalities in health4-6 and in particular of racial differences in health.7 Yet health researchers and practitioners have given inadequate attention to the causes of racial disparities in SES. Racial differences in SES are the predictable results of the successful implementation of institutional policies and arrangements, with residential segregation being a prominent one in the US context. By determining access to educational and employment opportunities for African Americans, residential segregation has truncated their socioeconomic mobility and has been a central mechanism by which racial inequality has been created and reinforced in the United States.12,13
+Segregation and Educational Opportunity First, residential segregation has led to highly segregated elementary and high schools and is a fundamental cause of racial differences in the quality of education. For most Americans, residence determines which public school students can attend, and the funding of public education is under the control of local government. Thus, community resources importantly determine the quality of neighborhood schools. There is a very strong relationship between residential segregation and the concentration of poverty. Public schools with high proportions of blacks and Hispanics are dominated by poor children.21 Nationally, the correlation between the percentage of poor students in a school and the percentage of black and Hispanic students was 0.66 in 1991.20 In metropolitan Chicago, the correlation between the percentages of poor and nonwhite students was 0.90 for elementary schools in 1989.21 Although there are millions of poor whites in the US, poor white families tend to be dispersed throughout communities, with many residing in desirable residential areas.21,22 In 96% of predominantly white schools, the majority of students come from middle-class backgrounds.21
+Levels of segregation for black and Latina/o students are currently on the increase.23 One recent study found that as a growing number of minority families moved to the suburbs from 1987 to 1995, residential segregation there led to increased levels of segregation in suburban schools.24
+The concentration of poverty, not racial composi-
+
+tion per se, is the basic cause of the problems that plague segregated schools. Compared to schools in middle-class areas, segregated schools have lower average test scores, fewer students in advanced placement courses, more limited curricula, less qualified teachers, less access to serious academic counseling, fewer connections with colleges and employers, more deteriorated buildings, higher levels of teen pregnancy, and higher dropout rates.21 These conditions contribute to peer pressure against academic achievement and in support of crime and substance use. Black and Latina/o students are concentrated in urban schools that have different and inferior courses and lower levels of achievement than the schools attended by white students in adjacent suburban school districts. Thus, racial residential segregation leads to racial differences in high school dropout and graduation rates; competencies and knowledge of high school graduates; preparation for higher education; and the probability of enrollment in college.
+Segregation and Employment Opportunities Second, institutional discrimination, based on residential segregation, severely restricts employment opportunities, and thus income levels, for African Americans. In the last several decades there has been a mass movement to the suburbs of low-skilled, high-paying jobs from many of the urban areas where blacks are concentrated.22,25,26 This has created a "spatial mismatch" in which African Americans reside in areas that do not offer ready access to high-paying entrylevel jobs. It has also led to a "skills mismatch" in which the available jobs in the urban areas where African Americans live require levels of skill and training that many do not have. Some corporations explicitly use the racial composition of areas in their decision-making processes regarding the placement of new facilities and the relocation of existing ones.27 Negative racial stereotypes of African Americans and the areas where they are concentrated play an important role in many of these decisions.28,29 Thus, during routine "non-racial" restructuring, relocation, and downsizing, employment facilities are systematically moved to suburban and rural areas where the proportions of African Americans in the labor force are low. For example, a Wall Street Journal analysis of more than 35,000 US companies found that African Americans were the only racial group that experienced a net job loss during the economic downturn of 1990-1991.30 African Americans had a net job loss of 59,000 jobs, while there was a net gain of 71,100 for whites, 55,100 for Asians, and 60,000 for Latina/o/s.
+Residential segregation also affects employment
+
+Public Health Reports / September-October 2001 / Volume 116
+
+Racial Residential Segregation  407
+
+opportunities by isolating blacks in segregated communities from both role models of stable employment and social networks that could provide leads about potential jobs.22 The social isolation created by these structural conditions in segregated residential environments can then induce cultural responses that weaken the commitment to norms and values that may be critical for economic mobility. For example, long-term exposure to conditions of concentrated poverty can undermine a strong work ethic, devalue academic success, and remove the social stigma of imprisonment as well as of educational and economic failure.31
+Consequences of Segregation: Racial Differences in SES After a thorough empirical analysis of the effects of segregation on young African Americans making the transition from school to work, Cutler et al. concluded that the elimination of residential segregation would lead to the disappearance of black-white differences in earnings, high school graduation rates, and idleness and would reduce racial differences in single motherhood by two-thirds.32 Segregation is thus a central force in producing the large racial differences in socioeconomic circumstances evident in Table 1. In 1998, whites had higher levels of income and education attainment and lower levels of poverty and unemployment than African Americans. Other data reveal that large racial differences in unemployment persist even at equivalent levels of education.33
+Many socioeconomic indicators are not equivalent across race.34,35 For example, a given level of education may not reflect the same degree of educational preparation and skills. There are also racial differences in the income returns for a given level of education, with blacks, especially black males, earning less income than whites at comparable levels of education (Table 1). In addition, American women of all racial groups earn less than their similarly educated male counterparts. This gender difference in earnings combined with racial differences in household structure (black households are more likely than white ones to be headed by a female33), means that, especially for women, racial differences in individual earnings at equivalent levels of education, understate racial differences in household income. National data, as shown in Table 1, indicates that in 1996, black households in which the survey respondent was a college-educated male earned 80 cents for every dollar earned by a comparable white household. Such racial differences in the returns to education are evident at all levels of educational preparation but are more marked for women than for men.
+
+Households of black women who completed high school earned 64 cents for every dollar earned by comparable white households, and households of black women with a college degree earned 74 cents for every dollar earned by comparable white households.
+The largest racial difference evident in Table 1 is for wealth. The median net worth of whites is almost six times that of blacks. This underscores the extent to which racial differences in income understate racial differences in economic status and resources. At every level of income, blacks have considerably less wealth than whites.36 For example, the net worth at the lowest quintile of income is $9,720 for white households, compared to $1,500 for African American households (Table 1). At the highest quintile of income, white households have a net worth of $123,781, compared to $40,866 for black households. Racial differences in wealth also link the current situation of blacks to historic processes of segregation. For most American families, housing equity is a major source of wealth. Thus, today's black-white differences in wealth are, to a considerable degree, a direct result of the institutional discrimination in housing practiced in the past that limited the home ownership opportunities of blacks.37 However, racial differences in housing equity also reflect contemporary segregation because African Americans tend to receive smaller returns on their investment in a home than whites. The growth in housing equity over time is smaller for black homeowners in highly segregated areas than for owners of comparable homes in other areas.37
+Race, SES, and Health SES accounts for much of the racial differences in health, yet it is frequently found that SES differences within each racial group are substantially larger than overall racial differences.2,38,39 Table 2 illustrates the key role that SES plays in racial/ethnic differences in health with national data on activity limitation and self-rated health. The rate of activity limitation due to chronic conditions is higher for blacks than for whites, and blacks are more likely to report being in fair or poor health than whites. When stratified by economic status, the rates of activity limitation are almost identical for blacks and whites, suggesting that the higher prevalence of low income among African Americans completely accounts for the observed black-white difference on this outcome.
+The black-white pattern for self-rated health reflects the more familiar pattern in which income predicts variation in health for both groups but blacks report poorer health than whites at all levels of income. Such a pattern exists for other health outcomes, such as
+
+Public Health Reports / September-October 2001 / Volume 116
+
+408  Viewpoint
+
+Table 1. Selected socioeconomic indicators for black and white populations, United States, 1998
+
+Indicator
+
+Black
+
+Median household income
+
+$25,351
+
+Poverty indicators Percent of population below poverty level Percent of children <18 years old below poverty level Percent of people 65 years old below poverty level
+
+26.1 36.4 26.4
+
+Educational attainment of those age 25 years and older High school graduate or higher (percent) College graduate or higher (percent)
+
+76.0 14.7
+
+Percent of population 16 years old unemployed
+
+8.9
+
+Personal income by education, ages 25-64 years Median income, high school graduate, male Median income, college graduate, male Median income, high school graduate, female Median income, college graduate, female
+
+$22,099 $39,278 $14,355 $33,865
+
+Household income by education of survey respondent 25 years old, 199640 Median income, high school graduate, male Median income, college graduate, male Median income, high school graduate, female Median income, college graduate, female
+
+$36,020 $54,500 $23,556 $47,100
+
+Wealth (1995)36 Median net worth Median net worth, lowest income quintile Median net worth, highest income quintile
+
+$ 7,073 $ 1,500 $40,866
+
+NOTE: Data are for 1998, except as noted. Source of data is Reference 112, except as noted.
+
+White $40,912
+10.5 14.4
+8.9
+83.7 25.0
+3.9
+$29,789 $53,158 $15,733 $31,454
+$41,200 $67,952 $37,000 $64,007
+$49,030 $ 9,720 $123,781
+
+coronary heart disease mortality and life expectancy.40 The residual effect of race, after SES is controlled for, could reflect the non-equivalence of individual indicators of SES across race, racial differences in community context, the long-term consequences of exposure to adversity in childhood, and the effect of other aspects of racism. Two studies have reported that perceptions of discrimination make an incremental contribution to explaining racial differences in self-rated health after SES is accounted for.41,42
+In the United States, large and persistent blackwhite differences in health co-occur with large and persistent black-white differences in SES. The Economic Report of the President in 1998 documented that there was little change in the economic gap between blacks and whites in the last quarter of the 20th century.43 In 1978, black households earned 59 cents for every dollar earned by white households, and had a poverty rate that was 3.5 times as high and an unemployment rate that was 1.9 times as high. In 1996, African Ameri-
+
+can households earned 59 cents in income for every dollar earned by whites, and African Americans had a poverty rate that was 2.5 times as high and an unemployment rate that was twice as high as whites.
+Analysis of economic and health data for the last 50 years reveals that the narrowing of the black-white gap in economic status was associated with a parallel narrowing of the black-white gap in health; similarly, a widening of the racial gap in SES was associated with a widening gap in health.44 Specifically, during the late 1960s and the mid-1970s, as a result of the gains of the Civil Rights Movement, there was some narrowing of the black-white gap in income.43 There was a corresponding narrowing of the racial gap in health status. That is, from 1968 to 1978, across multiple causes of death, black men and women experienced a larger decline in mortality, both on a percentage and an absolute basis, than their white counterparts.45 Life expectancy data for this period show larger gains for blacks than whites on both a relative and an absolute
+
+Public Health Reports / September-October 2001 / Volume 116
+
+Racial Residential Segregation  409
+
+Table 2. Percentage of individuals reporting fair or poor health and activity limitations, by black vs white race and by household income, United States, 1997
+
+Percent reporting activity limitations
+
+Percent reporting fair or poor health
+
+Household income
+
+Black
+
+White
+
+Black
+
+White
+
+Poor Near poor Non-poor Total
+
+29.4 29.5 25.6 20.6
+
+20.0 20.7 19.5 14.1
+
+10.7 10.7 9.6 5.7
+
+17.0 13.2 15.8
+
+8.0
+
+SOURCE OF DATA: Reference 1
+
+basis. During the early 1980s, in the wake of substantial changes in social and economic policies at the national level, the health status of economically vulnerable populations worsened in several states.46,47 Similarly, the black-white gap in health status widened between 1980 and 1991 for multiple health outcomes, including life expectancy, excess deaths, and infant mortality.35,48
+Segregation and the Effects of Place Segregation can also adversely affect health by creating a broad range of pathogenic residential conditions that can induce adverse effects on health status. Measures of segregation appear to capture some of the effects of racism at the area level, and these community-level effects are one reason for the persistence of racial differences in health status even after controls are introduced for individual variations in SES.49 The available evidence clearly indicates that racial segregation has created distinctive ecological environments for African Americans. For example, although numerically there are more poor whites than poor African Americans in the US, most poor white people are residentially located next to non-poor people, while most poor African Americans are concentrated in highpoverty neighborhoods.22 An analysis of the 171 largest cities in the US indicated that there was not even one city where whites lived in comparable ecological conditions to blacks in terms of poverty rates and single-parent households.50 Sampson and Wilson concluded, "The worst urban context in which whites reside is considerably better than the average context of black communities."50
+A growing number of studies using multilevel analyses indicate that social and economic characteristics of residential areas are associated with a broad range of health outcomes independent of individual indicators of SES.51 For example, Diez Roux and colleagues found that even after adjustment for education, income, and occupational status and a broad range of biomedical
+
+and behavioral risk factors for coronary heart disease (smoking, exercise, hypertension, diabetes, obesity, and LDL and HDL cholesterol), people residing in disadvantaged neighborhoods had a higher incidence of heart disease than people who lived in more advantaged neighborhoods.52 Several studies have specifically operationalized residential segregation and related the level of segregation to rates of morbidity and mortality. This body of research has found that residential segregation is related to elevated risks of cause-specific and overall adult mortality,53-56 infant mortality,57-60 and tuberculosis.61 On the other hand, one study found that the degree of residential segregation was unrelated to infant mortality rates.62 There are multiple characteristics of low SES environments, in general, and segregated environments, in particular, that are likely to be related to health. We now consider some of the ways in which residence in segregated areas can adversely affect health. Because of the paucity of work in this area, we include a discussion of the related work of Sally Macintyre and colleagues from Scotland that illustrates area variations in risk factors for disease.
+Segregation and Neighborhood and Housing Quality Residential segregation can lead to large differences in neighborhood quality. Racial residential segregation has also led to unequal access for most blacks to a broad range of services provided by municipal authorities. Political leaders have been more likely to cut spending and services in poor neighborhoods, in general, and African American neighborhoods, in particular, than in more affluent areas.31,63,64 Poor people and members of minority groups are less active politically than their more economically and socially advantaged peers, and elected officials are less likely to encounter vigorous opposition when services are reduced in the areas in which large numbers of poor people and people of color live. This disinvestment of economic resources in these neighborhoods has led to a decline in the urban infrastructure, physical envi-
+
+Public Health Reports / September-October 2001 / Volume 116
+
+410  Viewpoint
+
+ronment, and quality of life in these communities.65,66 The selective out-migration of many whites and some middle-class blacks from cities to the suburbs has also reduced the urban tax base and the ability of some cities to provide a broad range of supportive social services to economically deprived residential areas.31
+Racial differences in neighborhood quality persist at all levels of SES. Middle-class suburban African Americans reside in neighborhoods that are less segregated than those of poor, central city blacks.67 However, compared to their white counterparts, middleclass blacks are more likely to live in poorer quality neighborhoods with white neighbors who are less affluent than they are.67 That is, middle-class blacks are less able than their white counterparts to translate their higher economic status into desirable residential conditions. One recent analysis of 1990 Census data revealed that suburban residence does not buy better housing conditions for blacks.68 The suburban locations where African Americans reside tend to be equivalent or inferior to those of central cities.68
+Research by Macintyre and colleagues in four neighborhoods of Glasgow, Scotland, that varied in economic characteristics illustrates the ways in which neighborhood areas can vary in the provision of resources that support health.69,70 These researchers found that neighborhood areas differed in terms of access to public and private transportation, exposure to personal and property crime, amenities, neighborliness, and problems such as litter, noxious odors, and discarded needles. US research has found that poor, segregated African American neighborhoods are also characterized by high mobility, low occupancy rates, high levels of abandoned buildings and grounds, relatively larger numbers of commercial and industrial facilities, and inadequate municipal services and amenities, including police and fire protection.71 Neighborhood problems are associated with ill health. For example, Collins and colleagues found a positive association between a woman's negative rating of her neighborhood (in terms of police protection, municipal services, cleanliness, quietness, and schools) and the likelihood of having a low birthweight infant.49
+The quality of housing is also likely to be poorer in highly segregated areas, and poor housing conditions can also adversely affect health. Multiple housing stressors (dampness or condensation, inadequate heat, problems with noise and vibration from outside, the lack of space and the lack of private space, as well as the presence of environmental hazards) varied by area in the four contrasting neighborhoods in Glasgow, Scotland.72 Similarly, US data indicate that crowding, substandard housing, elevated noise levels, inability to
+
+regulate temperature and humidity, as well as elevated exposure to noxious pollutants and allergens (including lead, smog, particulates, and dust mites) are all common in poor, segregated communities.66,71 These aspects of the physical environment have been shown to adversely affect health.71,72
+Segregation and Health Behaviors Research also reveals that the socioeconomic characteristics and segregation levels of particular areas can lead to dramatic variations in factors conducive to the practice of healthy or unhealthy behaviors. In Glasgow, there were more athletic tracks, playing fields, and swimming pools in economically advantaged neighborhoods than in economically disadvantaged ones.69 US research also reveals that a lack of recreational facilities and concerns about personal safety can discourage leisure time physical exercise. For example, analysis of data from the 1996 Behavioral Risk Factor surveys for five states found a positive association between the perception of neighborhood safety and physical exercise.73 Instructively, this association was somewhat larger among members of racial/ethnic minority groups than among whites.
+Segregation can also lead to racial differences in the purchasing power of a given level of income for a broad range of services, including those that are necessary to support good health. Many commercial enterprises avoid segregated urban areas; as a result, the available services are typically fewer in quantity, poorer in quality, and often higher in price than those available in less segregated urban and suburban areas. On average, blacks pay higher costs than whites for housing, food, insurance, and other services.35 The consumption of nutritious food items is positively associated with their availability, and the availability of healthful products in grocery stores varies across counties as well as ZIP Codes.74 Thus, the high cost and poor quality of grocery items in segregated neighborhoods can lead to poorer nutrition.
+Researchers have long noted that both the tobacco and alcohol industries have heavily targeted poor minority communities with advertising for their products.75-79 These marketing strategies include greater intensity of large highway billboard advertising in minority communities, the increasing use of smaller but more visible billboards, the concentration of alcohol and tobacco ads in print outlets with large minority readerships, and the increasing level of corporate sponsorship of athletic, cultural, civic, and entertainment events targeted to minority consumers.79 Moreover, tobacco and alcohol use are coping strategies that are frequently employed to obtain escape and relief from
+
+Public Health Reports / September-October 2001 / Volume 116
+
+Racial Residential Segregation  411
+
+the personal suffering and deprivation that characterizes many disadvantaged environments. Many segregated areas have high levels of multiple sources of stress, including violence, financial stress, family separation, chronic illness, death, and family turmoil.71 Research reveals that exposure to stress is positively associated with tobacco, alcohol, and drug use.80-83 One recent study of African Americans in 10 different census tracts in Southern California found a positive association between cigarette smoking and a measure of lifetime exposure to segregation.84
+Data from Scotland have documented an area effect on the practice of a broad range of health behaviors, independent of individual characteristics.85 That is, even after adjustment for age, gender, and individual indicators of SES, the data show that people living in more economically deprived neighborhoods were more likely to smoke, less likely to consume healthy foods (such as fruits, vegetables, and whole grain bread), more likely to consume unhealthy foods (such as sweets, cakes, processed meats, and french fries), and less likely to exercise than their counterparts in wealthier neighborhoods.85 Not surprisingly, residents of more economically deprived neighborhoods were shorter, had higher body mass indexes, larger waist circumferences, and higher waist-hip ratios than their peers in more economically advantaged residential areas.86
+Segregation and Medical Care Segregation is also likely to adversely affect access to high quality medical care. The four Glasgow neighborhoods varied in the quality of primary health care services (health clinics, physicians, dentists, opticians, and pharmacies).69 African Americans face challenges in accessing medical care, and it is likely that these are more acute in segregated areas. Health care facilities are more likely to close in poor and minority communities than in other areas.87,88 One recent study of New York City neighborhoods revealed that pharmacies in minority neighborhoods were less likely than pharmacies in other areas to have adequate medication in stock to treat people with severe pain.89 Moreover, other recent research documents that, irrespective of residence, African American and members of other minority groups are less likely than whites to receive appropriate medical treatment after they gain access to medical care.90 This pattern exists across a broad range of medical procedures and institutional contexts and is not accounted for by differences in SES, insurance, or disease severity. The causes of these disparities have not been identified, but it is likely that unconscious discrimination based
+
+on negative stereotypes of race and residence plays a role.91,92
+Segregation and Crime, Homicide, and Social Context An investigation of segregation also sheds light on the racial differences in some health outcomes that have strong environmental components. African Americans are much more likely than whites to be victims of all types of crime, including homicide.33 Of the 15 leading causes of death in the United States, the blackwhite gap is largest for homicide. In 1996, the death rate from homicide for African Americans was 30.6 per 100,000 population--virtually identical to the rate of 30.5 in 1950.1 Several studies have found that segregation is positively associated with the risk of being a victim of homicide for blacks,31,93-96 although this finding is not uniform.97 Table 3 presents the homicide rates for men and women for 1994-1995 stratified by self-reported race and education. Irrespective of racial status, the homicide rate was strongly patterned by SES. For both men and women, the racial gaps were large even at identical levels of education, with, for example, the homicide rate of black males in the highest education category exceeding that of white males in the lowest education group. These dramatic racial differences may reflect an important area effect.
+Sampson's research on the causes of urban violence clearly suggests that the elevated homicide rate of African Americans is a consequence of residential segregation.98 His research indicates that in black urban communities characterized by high rates of poverty, there are only very small pools of employable or stably employed males. Social science research has long documented that high male unemployment and low wage rates for males are associated with higher rates of female-headed households for both blacks and whites.99 Lack of access to jobs produces high rates of male unemployment and underemployment, which in turn underlies the high rates of out-of-wedlock births, the large numbers of female-headed households, the "feminization of poverty," and the extreme concentration of poverty in many black communities.100,101 In turn, single-parent households lead to lower levels of social control and supervision. Sampson documented a strong association between family structure and violent crime.98 Importantly, the relationship between family structure and violent crime for whites was identical in sign and magnitude to that for blacks. Thus, the elevated rates of violent crime and homicide for African Americans are determined by the structural conditions of their residential contexts. Relatedly, residential segregation also contributes to racial dif-
+
+Public Health Reports / September-October 2001 / Volume 116
+
+412  Viewpoint
+
+Table 3. Homicide rates among adults 25-44 years of age by educational attainment, sex, and black vs white race, 1994-1995
+
+Male
+
+Female
+
+Household income
+
+Black
+
+White
+
+Black
+
+White
+
+<12 years
+
+163.3 25.0 38.2 10.2
+
+12 years
+
+110.7 10.6 22.0
+
+4.7
+
+13 32.4 2.9 9.4 1.6
+
+Total (1995)1
+
+77.9 11.0 17.4
+
+3.3
+
+SOURCE OF DATA: Reference 40 for all data except 1995 totals
+
+ferences in drug use. A study using national data revealed that elevated rates of cocaine use by blacks and Hispanics in individual-level data could be completely explained when individuals were grouped into neighborhood clusters based on Census characteristics.102
+Research Directions This article has focused heavily on the experience of African Americans. Research is needed to explore the extent to which segregation affects the health of other minority populations and to identify the fundamental causes of all racial/ethnic disparities in health. Similar to the pattern for African Americans, long-term data for American Indians served by the Indian Health Service indicate widening American Indian-white disparities for multiple causes of death.103 For example, the American Indian mortality rate for diabetes was 1.3 times as high as that of whites in 1955, but 3.7 times as high in 1993. Similarly, the American Indian:white mortality ratio for liver cirrhosis increased from 2.9 in 1955 to 4.6 in 1993. Reservations are another prominent example of residential segregation that deserves careful examination in identifying the basic causes of health challenges faced by many American Indians and Alaskan Natives.
+Segregation is a factor that may also adversely affect Hispanics, although its impact on the Hispanic population is likely to be smaller than that for African Americans. Levels of segregation of Hispanics from whites are moderate, compared to those of African Americans.104 Even under conditions of high immigration, there has not been the expected large increase in residential segregation for Hispanics in recent decades.104 Mainland Puerto Ricans are the exception to this generalization. Because of their relatively higher level of African ancestry, Puerto Ricans are distinctive among Hispanic groups in having high levels of segregation.104 More important than segregation as a determinant of the low SES levels of other Hispanic subgroups is the immigration of large numbers of relatively
+
+unskilled individuals with low levels of educational attainment.105 The lower levels of segregation for most Hispanic groups suggest that the long-term socioeconomic trajectory of Hispanics is likely to be somewhat better than that of African Americans.106 On the other hand, the Hispanic population faces considerable difficulties with socioeconomic mobility due to substantial barriers to occupational mobility and persisting educational disadvantages.105 The situation of Hispanics highlights the heterogeneity of minority populations and the importance of paying attention to the specific circumstances of each population group.
+The consequence of segregation for whites is another issue worthy of careful empirical scrutiny. One recent study found that segregation was associated with elevated mortality for whites in cities high on two indices of segregation.54 However, it is not clear whether this reflects an adverse effect of some of the structural characteristics of highly segregated cities or a selection effect in which more vulnerable whites (in terms of SES, age, and health) did not migrate out of highly segregated cities.
+Finally, research is needed to catalogue and quantify the specific aspects of the social and physical environments of segregated neighborhoods that are plausibly linked to health. The assessment strategies that have been used in Chicago107 and Glasgow70 are good places to start. However, such approaches must be expanded to capture potentially health-enhancing aspects of residence in segregated areas. Mental health researchers have long documented that mental health is enhanced when group members reside in enclaves with higher concentrations of their group.108-110 The conditions under which segregation can positively and negatively affect health are not well understood. Additionally, theoretically driven multilevel analytic models are needed that will identify how characteristics of the physical and social environment relate to each other and combine with individual predispositions and characteristics in additive and interactive ways to influence health.
+
+Public Health Reports / September-October 2001 / Volume 116
+
+Racial Residential Segregation  413
+
+CONCLUSION
+It is widely recognized that a pervasive and persistent pattern of racial disparities across a broad range of indicators of health status is determined by a complex, multifactorial web of causation. One effective way to eliminate these disparities is to identify and eliminate the "spiders" responsible for creating the web in the first place.111 The evidence reviewed suggests that racial residential segregation, an institutional manifestation of racism, is one of the most important "spiders" responsible for persisting black-white inequalities in health. Inattention to eliminating residential segregation and/or the conditions created by it may limit the utility of well-intentioned efforts to reduce racial disparities in health. Thus, effective efforts to reduce racial disparities in health status should seriously grapple with reducing racial disparities in socioeconomic circumstances, and with targeting interventions not only at individuals but also at the geographic contexts in which they live.
+REFERENCES
+1. National Center for Health Statistics (US). Health, United States, 2000 with adolescent health chartbook. Hyattsville (MD): Department of Health and Human Services (US); 2000.
+2. Williams DR. Race, SES, and health: the added effects of racism and discrimination. Ann N Y Acad Sci 1999;896:173-88.
+3. Lieberson S. Making it count: the improvement of social research and theory. Berkeley: University of California Press; 1985.
+4. House JS, Kessler RC, Herzog AR, Mero R, Kinney A, Breslow M. Age, socioeconomic status, and health. Milbank Q 1990;68:383-411.
+5. Link BG, Phelan J. Social conditions as fundamental causes of disease. J Health Soc Behav 1995;Extra Issue: 80-94.
+6. Williams DR. Socioeconomic differentials in health: a review and redirection. Soc Psychol Q 1990;53:81-99.
+7. Williams DR. Race and health: basic questions, emerging directions. Ann Epidemiol 1997;7:322-33.
+8. Myrdal G. An American dilemma: the Negro problem and modern democracy. New York: Harper & Brothers Publishers; 1944.
+9. Clark KB. Dark ghetto: dilemmas of social power. New York: Harper and Row; 1965.
+10. US National Advisory Commission on Civil Disorders. The Kerner report. New York: Pantheon Books; 1988.
+11. Cell J. The highest stage of white supremacy: the origin of segregation in South Africa and the American South. New York: Cambridge University Press; 1982.
+12. Massey DS, Denton NA. American apartheid: segrega-
+
+tion and the making of the underclass. Cambridge (MA): Harvard University Press; 1993. 13. Jaynes GD, Williams RM. A common destiny: blacks and American society. Washington: National Academy Press; 1989. 14. Lieberson S. A piece of the pie: black and white immigrants since 1880. Berkeley: University of California Press; 1980. 15. Fix M, Struyk RJ. Clear and convincing evidence: measurement of discrimination in America. Washington: Urban Institute Press; 1993. 16. Bobo L, Zubrinsky CL. Attitudes on residential integration: perceived status differences, mere in-group preference, or racial prejudice? Soc Forces 1996;74:883909. 17. Glaeser EL, Vigdor JL. Racial segregation in the 2000 Census: promising news. Brookings Institution Survey Series. Washington: Brookings Institution; 2001. 18. Massey DS, Denton N. The dimensions of residential segregation. Soc Forces 1988;67:281-315. 19. Massey DS, Denton NA. Hypersegregation in U.S. metropolitan areas: black and Hispanic segregation along five dimensions. Demography 1989;26:373-92. 20. Orfield G. The growth of segregation in American schools: changing patterns of separation and poverty since 1968. Report of the Harvard Project on School Desegregation to the National School Boards Association. New York: New Press; 1993 Dec. 21. Orfield G, Eaton SE. Dismantling desegregation: the quiet reversal of Brown v. Board of Education. New York: New Press; 1996. 22. Wilson WJ. The truly disadvantaged. Chicago: University of Chicago Press; 1987. 23. Orfield G. Schools more separate: consequences of a decade of resegregation. The Cambridge (MA): Harvard University, Civil Rights Project; 2001 Jul. 24. Reardon SF, Yun JT. Suburban racial change and suburban school segregation, 1987-95. Soc Educ 2001; 74:79-101. 25. Wilson WJ. When work disappears: the world of the new urban poor. New York: Alfred A. Knopf; 1996. 26. Kasarda JD. Urban industrial transition and the underclass. Ann Am Acad Political Soc Sci 1989;501:26-47. 27. Cole RE, Deskins DR Jr. Racial factors in site location and employment patterns of Japanese auto firms in America. California Manage Rev 1988;31(1):9-22. 28. Kirschenman J, Neckerman KM. "We'd love to hire them, but . . .": the meaning of race for employers. In: Jencks C, Peterson PE, editors. The urban underclass. Washington: Brookings Institution; 1991. p. 203-32. 29. Neckerman KM, Kirschenman J. Hiring strategies, racial bias, and inner-city workers. Soc Problems 1991; 38:433-47. 30. Sharpe R. In latest recession, only blacks suffered net employment loss. Wall Street Journal 1993 Sep 14;Sect. A:1. 31. Shihadeh ES, Flynn N. Segregation and crime: the
+
+Public Health Reports / September-October 2001 / Volume 116
+
+414  Viewpoint
+
+effect of black social isolation on the rates of black urban violence. Soc Forces 1996;74:1325-52. 32. Cutler DM, Glaeser EL, Vigdor JL. Are ghettos good or bad? Q J Econ 1997;112:827-72. 33. Council of Economic Advisers for the President's Initiative on Race. Changing America: indicators of social and economic well-being by race and Hispanic origin. Washington: Government Printing Office; 1998. 34. Kaufman JS, Cooper RS, McGee DL. Socioeconomic status and health in blacks and whites: the problem of residual confounding and the resiliency of race. Epidemiology 1997;8:621-8. 35. Williams DR, Collins C. U.S. socioeconomic and racial differences in health. Annu Rev Sociol 1995;21:349-86. 36. Davern ME, Fisher PJ. Census Bureau (US). Household net worth and asset ownership: 1995. Current Population Reports, Household Economic Studies P7071. Washington: Government Printing Office; 2001. 37. Oliver ML, Shapiro TM. Black wealth/white wealth: a new perspective on racial inequality. New York: Routledge; 1997. 38. Sorlie P, Rogor E, Anderson R, Backlund E. Blackwhite mortality differences by family income. Lancet 1992;340:346-50. 39. Navarro V. Race or class versus race and class: mortality differentials in the United States. Lancet 1990;336: 1238-40. 40. National Center for Health Statistics (US). Health, United States, 1998 with socioeconomic status and health chartbook. Hayattsville (MD): Department of Health and Human Services (US); 1998. 41. Williams DR, Yu Y, Jackson J, Anderson N. Racial differences in physical and mental health: socioeconomic status, stress, and discrimination. J Health Psychol 1997; 2:335-51. 42. Ren XS, Amick B, Williams DR. Racial/ethnic disparities in health: the interplay between discrimination and socioeconomic status. Ethn Dis 1999;9:151-65. 43. Economic report of the President with the annual report of the Council of Economic Advisers. Washington: Government Printing Office; 1998. 44. Williams DR. Race and health: trends and policy implications. In: Auerbach JA, Krimgold BK, editors. Income, socioeconomic status, and health: exploring the relationships. Washington: National Policy Association, Academy for Health Services Research and Health Policy; 2001. p. 67-85. 45. Cooper RS, Steinhauer M, Schatzkin A, Miller W. Improved mortality among U.S. blacks, 1968-1978: the role of antiracist struggle. Int J Health Serv 1981;11: 511-22. 46. Mandinger M. Health service funding cuts and the declining health of the poor. N Engl J Med 1985;313: 44-7. 47. Lurie N, Ward NB, Shapiro MF, Brook RH. Termination from Medi-Cal: does it affect health? N Engl J Med 1984;311:480-4.
+
+48. National Center for Health Statistics (US). Excess deaths and other mortality measures for the black population: 1979-81 and 1991. Hyattsville (MD): Public Health Service (US); 1994.
+49. Collins JW, David RJ, Symons R, Handler A, Wall S, Andes S. African-American mothers' perception of their residential environment, stressful life events, and very low birthweight. Epidemiology 1998;9:286-9.
+50. Sampson RJ, Wilson WJ. Toward a theory of race, crime, and urban inequality. In: Hagan J, Peterson RD, editors. Crime and inequality. Stanford (CA): Stanford University Press; 1995. p. 37-54.
+51. Pickett KE, Pearl M. Multilevel analyses of neighbourhood socioeconomic context and health outcomes: a critical review. J Epidemiol Community Health 2001; 55:111-22.
+52. Diez Roux AV, Merkin SS, Arnett D, Chambless L, Massing M, Nieto FJ, et al. Neighborhood of residence and incidence of coronary heart disease. N Engl J Med 2001;345:99-106.
+53. Polednak AP. Poverty, residential segregation, and black/white mortality rates in urban areas. J Health Care Poor Underserved 1993;4:363-73.
+54. Collins CA, Williams DR. Segregation and mortality: the deadly effects of racism? Sociological Forum 1999; 14:495-523.
+55. Fang J, Madhavan S, Bosworth W, Alderman MH. Residential segregation and mortality in New York City. Soc Sci Med 1998;47:469-76.
+56. Guest AM, Almgren G, Hussey JM. The ecology and race and socioeconomic distress: infant and workingage mortality in Chicago. Demography 1998;35:25-34.
+57. LaVeist TA. Linking residential segregation and infant mortality race disparity in U.S. cities. Sociol Soc Res 1989;73:90-4.
+58. LaVeist TA. The political empowerment and health status of African-Americans: mapping a new territory. Am J Sociol 1992;97:1080-95.
+59. LaVeist TA. Beyond dummy variables and sample selection: what health services researchers ought to know about race as a variable. Health Serv Res 1993;29:1-16.
+60. Polednak AP. Black-white differences in infant mortality in 38 Standard Metropolitan Statistical Areas. Am J Public Health 1991;81:1480-2.
+61. Acevedo-Garcia D. Zip code-level risk factors for tuberculosis: neighborhood environment and residential segregation in New Jersey, 1985-1992. Am J Public Health 2001;91:734-41.
+62. Polednak AP. Trends in U.S. urban black infant mortality, by degree of residential segregation. Am J Public Health 1996;86:723-6.
+63. Wallace R. Urban desertification, public health and public order: "Planned shrinkage," violent death, substance abuse, and AIDS in the Bronx. Soc Sci Med 1990;31:801-13.
+64. Wallace R. Expanding coupled shock fronts of urban decay and criminal behavior: how U.S. cities are be-
+
+Public Health Reports / September-October 2001 / Volume 116
+
+Racial Residential Segregation  415
+
+coming "hollowed out." J Quantitative Criminology 1991;7:333-56. 65. Alba RD, Logan JR. Minority proximity to whites in suburbs: an individual-level analysis of segregation. Am J Sociol 1993;98:1388-427. 66. Bullard RD. Urban infrastructure: social environmental, and health risks to African Americans. In: Livingston IL, editor. Handbook of black American Health: the mosiac of conditions, issues, policies and prospects. Westport (CT): Greenwood Publishing; 1994. p. 315-30. 67. Alba RD, Logan JR, Stults BJ. How segregated are middle-class African Americans? Soc Problems 2000; 47:543-58. 68. Harris DR. All suburbs are not created equal: a new look at racial differences in suburban locations. Research Report No. 99-440. Ann Arbor: University of Michigan, Population Studies Center; 1999. 69. Macintyre S, Maciver S, Sooman A. Area, class and health: Should we be focusing on places or people? J Soc Politics 1993;22:213-34. 70. Sooman A, Macintyre S. Health and perceptions of the local environment in socially contrasting neighbourhoods in Glasgow. Health & Place 1995;1(1):15-26. 71. Evans GW, Saegert S. Residential crowding in the context of inner city poverty. In: Wapner S, Demick J, Yamamoto T, et al., editors. Theoretical perspectives in environment-behavior research. New York: Kluwer Academic/Plenum Publishers; 2000. p. 247-67. 72. Ellaway A, Macintyre S. Does housing tenure predict health in the UK because it exposes people to different levels of housing related hazards in the home or its surroundings? Health & Place 1998;4(2):141-50. 73. Neighborhood safety and the prevalence of physical inactivity--selected states, 1996. MMWR Morb Mortal Wkly Rep 1999;48(7):143-6. 74. Cheadle A, Psaty BM, Curry S, Wagner E, Diehr P, Koepsell T, Kristal A. Community-level comparisons between the grocery store environment and individual dietary practices. Prev Med 1991;20:250-61. 75. Hacker AG, Collins R, Jacobson M. Marketing booze to blacks. Washington: Center for Science in the Public Interest; 1987. 76. Rabow J, Watt R. Alcohol availability, alcohol beverage sales, and alcohol-related problems. J Stud Alcohol 1982;43:767-801. 77. Maxwell B, Jacosbon M. Marketing disease to Hispanics: the selling of alcohol, tobacco, and junk foods. Washington: Center for Science in the Public Interest; 1989. 78. Mayberry RM, Price PA. Targeting blacks in cigarette billboard advertising: results from down South. Health Values: The Journal of Health Behavior, Education & Promotion 1993;17(1):28-35. 79. Moore AJ, Williams JD, Qualls WJ. Target marketing of tobacco and alcohol-related products to ethnic minority groups in the United States. Ethn Dis 1996;6:83-98. 80. Linsky AS, Straus MA, Colby JP. Stressful events, stress-
+
+ful conditions and alcohol problems in the United States: a partial test of Bales's theory. J Stud Alcohol 1985;46:72-80. 81. Singer M. Toward a political economy of alcoholism. Soc Sci Med 1986;23:113-30. 82. Conway T, Ward H, Vickers R, Rahe R. Occupational stress, and variation in cigarette, coffee, and alcohol consumption. J Health Soc Behav 1981;22:155-65. 83. Benfari R, Ockene J, McIntyre K. Control of cigarette smoking from a psychological perspective. Annu Rev Public Health 1982;3:101-28. 84. Landrine H, Klonoff EA. Racial segregation and cigarette smoking among blacks: findings at the individual level. J Health Psychol 2000;5:211-9. 85. Ellaway A, Macintyre S. Does where you live predict health related behaviours? a case study in Glasgow. Health Bull 1996;56:443-6. 86. Ellaway A, Anderson A, Macintyre S. Does area of residence affect body size and shape? Int J Obesity 1997; 21:304-8. 87. Whiteis DG. Hospital and community characteristics in closures of urban hospitals, 1980-87. Public Health Rep 1992;107:409-16. 88. McLafferty S. Neighborhood characteristics and hospital closures: a comparison of the public, private, and voluntary hospital systems. Soc Sci Med 1982;16: 1667-74. 89. Morrison RS, Wallenstein S, Natale DK, Senzel RS, Huang L-L. "We don't carry that": failure of pharmacies in predominantly nonwhite neighborhoods to stock opioid analgesics. N Engl J Med 2000;342:1023-6. 90. Mayberry RM, Mili F, Ofili E. Racial and ethnic differences in access to medical care. Med Care Res Rev 2000;57 Suppl 1:108-45. 91. Williams DR, Rucker TD. Understanding and addressing racial disparities in health care. Health Care Financing Rev 2000;21(4):75-90. 92. van Ryn M, Burke J. The effect of patient race and socio-economic status on physicians' perceptions of patents. Soc Sci Med 2000;50:813-28. 93. Logan JR, Messner SF. Racial residential segregation and suburban violent crime. Soc Sci Q 1987;68:510-27. 94. Rosenfield R. Urban crime rates: effects of inequality, welfare dependency, region and race. In: Byrne J, Sampson R, editors. The social ecology of crime. New York: Springer-Verlag; 1986. 95. Potter L. Socioeconomic determinants of white and black life expectancy differentials. Demography 1991; 28:303-20. 96. Krivo LJ, Peterson RD. Extremely disadvantaged neighborhoods and urban crime. Soc Forces 1996:75;619-50. 97. Sampson RJ. Race and criminal violence: a demographically disaggregated analysis of urban homicide. Crime and Delinquency 1985;31:47-82. 98. Sampson RJ. Urban black violence: the effect of male joblessness and family disruption. Am J Sociol 1987; 93:348-82.
+
+Public Health Reports / September-October 2001 / Volume 116
+
+416  Viewpoint
+
+99. Bishop JH. Jobs, cash transfers, and marital instability: a review and synthesis of the evidence. J Human Resources 1980;XV:301-34.
+100. Testa M, Astone NM, Krogh M, Neckerman KM. Employment and marriage among inner-city fathers. In: Wilson WJ, editor. The ghetto underclass. Newberry Park (CA): Sage; 1993. p. 96-108.
+101. Wilson WJ, Neckerman KM. Poverty and family structure: the widening gap between evidence and public policy issues. In: Danziger SH, Weinberg DH, editors. Fighting poverty. Cambridge (MA): Harvard University Press; 1986. p. 232-59.
+102. Lillie-Blanton M, Martinez RM, Taylor AK, Robinson BG. Latina and African American women: continuing disparities in health. Int J Health Serv 1993;23: 555-84.
+103. Indian Health Service (US). Trends in Indian health. Rockville (MD): Department of Health and Human Services (US); 1997.
+104. Massey DS. Residential segregation and neighborhood conditions in U.S. metropolitan areas. In: Smelser N, Wilson WJ, Mitchell F, editors. America becoming: racial trends and their consequences. Vol. 1. Washington: National Academy of Sciences Press; 2001. p. 391434.
+
+105. Camarillo AM, Bonilla F. Hispanic in a multicultural society: a new American dilemma? In: Smelser N, Wilson WJ, Mitchell F, editors. America becoming: racial trends and their consequences. Vol. 1. Washington: National Academy of Sciences Press; 2001. p. 103-34.
+106. Williams DR. Racial variations in adult health status: patterns, paradoxes and prospects. In: Smelser N, Wilson WJ, Mitchell F, editors. America becoming: racial trends and their consequences. Vol. II. Washington: National Academy of Sciences Press; 2001. p. 371-410.
+107. Raudenbush SW, Sampson RJ. Ecometrics: toward a science of assessing ecological settings, with application to the systematic social observation of neighborhoods. Sociological Methodology 1999;29:1-41.
+108. Faris RE, Dunham HW. The ecology of mental disorder. New York, NY: Hafner; 1960.
+109. Levy L, Rowitz, L. The ecology of mental disorder. New York, NY: Behavioral Publications; 1973.
+110. Halpern D. Minorities and mental health. Soc Sci Med 1993;36:597-607.
+111. Krieger N. Epidemiology and the web of causation: has anyone seen the spider? Soc Sci Med 1994;39:887-903.
+112. Bureau of Census (US). Statistical abstract of the United States. Washington: Government Printing Office; 2000.
+
+Public Health Reports / September-October 2001 / Volume 116
+
+

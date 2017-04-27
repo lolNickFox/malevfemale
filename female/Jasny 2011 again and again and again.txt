@@ -1,0 +1,67 @@
+SPECIALSECTION
+
+CREDIT: ISTOCKPHOTO.COM
+Downloaded from http://science.sciencemag.org/ on October 5, 2016
+
+INTRODUCTION
+Again, and Again, and Again ...
+
+REPLICATION--THE CONFIRMATION OF RESULTS AND CONCLUSIONS FROM ONE STUDY obtained independently in another--is considered the scientific gold standard. New tools and technologies, massive amounts of data, long-term studies, interdisciplinary approaches, and the complexity of the questions being asked are complicating replication efforts, as are increased pressures on scientists to advance their research. The five Perspectives in this section (and associated News and Careers stories, Readers' Poll, and Editorial) explore some of the issues associated with replicating results across various fields.
+Ryan (p. 1229) highlights the excitement and challenges that come with fieldbased research. In particular, observing processes as they occur in nature allows for discovery but makes replication difficult, because the precise conditions surrounding the observations are unique. Further, although laboratory research allows for the specification of experimental conditions, the conclusions may not apply to the real world. Debate about the merits of lab-based and field-based studies has been a persistent theme over time. Tomasello and Call (p. 1227) further contribute to this debate in their discussion of some obvious barriers to replication in primate cognition and behavior research (small numbers of subjects, expense, and ethics issues) as well as more subtle ones, such as the nontrivial challenge of designing tasks that elicit complex cognitive behaviors.
+New technologies continue to produce a deluge of data of different varieties, raising expectations for new knowledge that will translate into meaningful therapeutics and insights into health. Ioannidis and Khoury (p. 1230) outline multiple steps for validating such large-scale data on the path to clinical utility and make suggestions for incentives (and penalties) that could enhance the availability of reliable data and analyses.
+Peng (p. 1226) discusses the need for a minimum standard of reproducibility in computer sciences, arguing that enough information about methods and code should be available for independent researchers to reach consistent conclusions using original raw data. Specifically, he describes a model that one journal has used to make this a reality.
+The need to convince the public that data are replicable has grown as science and public policy-making intersect, an issue that has has beset climate change studies. As Santer et al. (p. 1232) describe, having multiple groups examining the same data and generating new data has led to robust conclusions.
+The importance of replication and reproducibility for scientists is unquestioned. Sometimes attempts to replicate reveal scientific uncertainties. This is one of the main ways that science progresses (see associated News stories of faster-than-light neutrinos and sirtuins, pp. 1200 and 1194). Unfortunately, in rare instances (compared to the body of scientific work), it can also indicate fraud (see the Editorial by Crocker and Cooper, p. 1182). How do we promote the publication of replicable data? The authors in this section come up with possibilities that are targeted at funders, journals, and the research culture itself. In the Readers'Poll, you can make your views known as well.
+- BARBARA R. JASNY, GILBERT CHIN, LISA CHONG, SACHA VIGNIERI
+
+Data Replication & Reproducibility
+
+CONTENTS
+
+Perspectives
+
+1226
+
+Reproducible Research in Computational Science R. D. Peng
+
+1227
+
+Methodological Challenges in the Study of Primate Cognition M. Tomasello and J. Call
+
+1229
+
+Replication in Field Biology: The Case of the Frog-Eating Bat M. J. Ryan
+
+1230
+
+Improving Validation Practices in "Omics" Research J. P. A. Ioannidis and M. J. Khoury
+
+1232
+
+The Reproducibility of Observational Estimates of Surface and Atmospheric Temperature Change B. D. Santer et al.
+
+See also Editorial p. 1182; News stories pp. 1194 and 1200; Readers' Poll p. 1203; Science Careers content p. 1179; and www.sciencemag.org/special/data-rep/
+
+www.sciencemag.org SCIENCE VOL 334 2 DECEMBER 2011
+Published by AAAS
+
+1225
+
+Downloaded from http://science.sciencemag.org/ on October 5, 2016
+
+Editor's Summary
+
+Again, and Again, and Again ... Barbara R. Jasny, Gilbert Chin, Lisa Chong and Sacha Vignieri
+(December 1, 2011)
+Science 334 (6060), 1225. [doi: 10.1126/science.334.6060.1225]
+
+This copy is for your personal, non-commercial use only.
+
+Article Tools Permissions
+
+Visit the online version of this article to access the personalization and article tools: http://science.sciencemag.org/content/334/6060/1225
+Obtain information about reproducing this article: http://www.sciencemag.org/about/permissions.dtl
+
+Science (print ISSN 0036-8075; online ISSN 1095-9203) is published weekly, except the last week in December, by the American Association for the Advancement of Science, 1200 New York Avenue NW, Washington, DC 20005. Copyright 2016 by the American Association for the Advancement of Science; all rights reserved. The title Science is a registered trademark of AAAS.
+
+

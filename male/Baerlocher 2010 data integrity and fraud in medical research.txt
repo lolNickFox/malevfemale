@@ -1,0 +1,252 @@
+European Journal of Internal Medicine 21 (2010) 40-45
+Contents lists available at ScienceDirect
+European Journal of Internal Medicine
+j o u r n a l h o m e p a g e : w w w. e l s ev i e r. c o m / l o c a t e / e j i m
+
+Original article
+Data integrity, reliability and fraud in medical research
+Mark Otto Baerlocher a,, Jeremy O'Brien b, Marshall Newton c, Tina Gautam d, Jason Noble e
+a University of Toronto Radiology Residency Program, Toronto, Ontario, 13 Marshview Drive; Sackville, New Brunswick, Canada E4L 3B2 b McGill University Radiology Residency Program, Montreal, Quebec, #205-3827 boul Saint-Laurent, Montreal, Quebec, Canada H2W1X9 c University of Western Ontario, London, Canada d University of Toronto, Toronto, Canada e Dept. of Ophthalmology and Vision Sciences, University of Toronto, Toronto, Canada
+
+article info
+Article history: Received 30 August 2009 Received in revised form 8 November 2009 Accepted 11 November 2009 Available online 26 November 2009
+Keywords: Data integrity Academia Data reliability Academic fraud
+
+abstract
+Background: Data reliability in original research requires collective trust from the academic community. Standards exist to ensure data integrity, but these safeguards are applied non-uniformly so errors or even fraud may still exist in the literature. Objective: To examine the prevalence and consequences of data errors, data reliability safeguards and fraudulent data among medical academics. Methodology: Corresponding authors of every fourth primary research paper published in the Journal of the American Medical Association (2001-2003), Canadian Medical Association Journal (2001-2003), British Medical Journal (1998-2000), and Lancet (1998-2000) were surveyed electronically. Questions focused on each author's personal experience with data reliability, data errors and data interpretation. Results: Sixty-five percent (127/195) of corresponding authors responded. Ninety-four percent of respondents accepted full responsibility for the integrity of the last manuscript on which they were listed as co-author; however, 21% had discovered incorrect data after publication in previous manuscripts they had co-authored. Fraudulent data was discovered by 4% of respondents in their previous work. Four percent also noted `smudged' data. Eighty-seven percent of respondents used data reliability safeguards in their last published manuscript, typically data review by multiple authors or double data entry. Twenty-one percent were involved in a paper that was submitted despite disagreement about the interpretation of the results, although the disagreeing author commonly withdrew from authorship. Conclusions: Data reliability remains a difficult issue in medical literature. A significant proportion of respondents did not use data reliability safeguards. Research fraud does exist in academia; however, it was not reported to be highly prevalent.
+(c) 2009 European Federation of Internal Medicine. Published by Elsevier B.V. All rights reserved.
+
+1. Introduction
+Despite a rigorous manuscript external review process, involving both Journal Editors as well as independent `experts', the reader of scientific literature is often forced to trust manuscript authors that the presented data are accurate. The reader cannot know if there are errors in the presented data, save for a suspicion developing if the end result does not make sense to him. In the example of a new medication, or new intervention, it may be particularly difficult for the reader to have a pre-conceived sense of the expected outcome prior to reading the manuscript. In many cases, inaccuracies and errors may be revealed through time. We cannot know how errors were missed.
+ Corresponding author. E-mail addresses: mark.baerlocher@utoronto.ca (M.O. Baerlocher),
+obrien.jeremy@gmail.com (J. O'Brien), mnewton4@uwo.ca (M. Newton), tina.gautam@utoronto.ca (T. Gautam), jason.noble@utoronto.ca (J. Noble).
+
+In essence, we must trust that the investigators have eliminated, or at least minimized, human error through data reliability safeguards and thus only true values were recorded, analyzed, and presented. Data checks may include double data entry, multiple investigators independently interpreting the data/statistics, duplicate statistical analyses, tests of inter-observer variability, duplicate data abstraction, and hard copies of electronic data sent from the lab or data acquisition source.
+In addition to formal statements of authorship contribution from each author, many Journals also require a formal assumption of responsibility for the integrity of the entire work, from "inception to published article" (e.g. JAMA: http://jama.ama-assn.org/ifora_current. dtl Accessed on January 3, 2005) by one or all of the authors, and an assumption of responsibility for the integrity of at least some of the work by all authors. Generally, all authors must agree to provide the data or to fully cooperate in obtaining and providing the data on which the manuscript is based if requested for examination by the Editors of the respective Journal. All authors must sign this form. However, most Journals do not require a statement which details the
+
+0953-6205/$ - see front matter (c) 2009 European Federation of Internal Medicine. Published by Elsevier B.V. All rights reserved. doi:10.1016/j.ejim.2009.11.002
+
+M.O. Baerlocher et al. / European Journal of Internal Medicine 21 (2010) 40-45
+
+41
+
+Table 1 Data integrity and accuracy.
+
+Survey question
+
+Responses n
+
+Confidence in "integrity"a of data upon which last manuscript was based? (for last manuscript listed as a co-author) (1/least-10/most) 1 2-7 8 9 10
+Accept responsibility for integrity of entire manuscript (for last manuscript listed as a co-author)? Yes No
+Of listed authors, proportion that can ensure accuracy and integrity of data upon which last manuscript was based (for last manuscript listed as a co-author)?  25% 26-50% 51-75% 76-99% 100% Unspecified
+On average, how confident are you in the "integrity" of the data upon which others' published manuscripts you read are based? (1 = least confidence, 10 = most confidence) 1 2 3 4 5 6 7 8 9 10
+Ever been suspicious of integrity of data upon which manuscript based in which listed as a co-author? Yes No
+If yes to previous question, respondent's response?(Responses not mutually exclusive) Nothing Personally verified the data Voiced concerns Requested name withdrawn from manuscript Other Could not do anything, was not consulted or informed prior to publication Removed offending center from manuscript Other
+Ever discovered data in a project you were involved in to have been inaccurate or incorrect due to human error, before publication? Yes No
+Ever discovered data in a project you were involved in to have been inaccurate or incorrect due to human error, after publication? Yes No
+If yes, how was this discovered? Myself, rereading manuscript/re-analyzing data Informed by other readers Informed by other authors Other--not specified
+If yes, what did you do about it? Letter to Journal/Editor  erratum published Corrected in a future publication and explained difference No letter to Journal/Editor or correction in subsequent manuscript Other Letter to recipient of private report
+Ever discovered data in a project you were not involved in, but was within your department, to have been inaccurate or incorrect due to human error, after publication? Yes No
+
+0.8% 0%
+3.2% 23.4% 72.6%
+94.4% 5.6%
+14.5% 18.5% 21.0% 12.1% 32.3%
+1.6%
+0.9% 0.9% 4.7% 3.7% 6.5% 8.4% 31.8% 20.6% 15.0% 7.5%
+16.7% 83.3%
+0.0% 27.3% 63.6% 36.4% 31.8%
+4.5%
+4.5% 9.1%
+62.4% 37.6%
+21.1% 78.9% 24 54.2% 20.8% 12.5% 12.5%
+45.8% 12.5% 37.5%
+4.1% 4.1%
+8.8% 91.2%
+
+124 126 124 107
+126 22
+125 123
+24 125
+
+data reliability safeguards that were used. Therefore, investigators may not have used any safeguard, and may still sign the forms required of them by the Journal with honesty.
+A related topic involves inaccurate data that is intentional, i.e. research fraud. There have been a number of examples published in the literature [1,2]. In some cases, the conclusions of the fraudulent work may have no tangible effect; in other cases, the work may have a very large impact. In the case of Dr. Ram B Singh, for example, the suspected work [3] has been cited well over 200 times, included in guidelines, and led to a flurry of additional activity [4]. In the recent case of Eric Poehlman, a high-profile researcher who was found to have falsified data in at least 17 federal grant applications which resulted in USD$2.9 million in funding, the penalty may for the first time include time in prison as well as a hefty personal fine [5].
+Unfortunately, fraudulent research is often very difficult to detect [6]. Investigators have examined and documented particularly famous cases of research fraud in order to determine patterns of `lapses' on the part of the perpetrator's co-authors, manuscript reviewers, and Journal Editors which increase the likelihood of cases of fraudulent research being missed. For example, in an analysis of fraudulent work done by John Darsee, Stewart and Feder [7] identified two types of frequently occurring lapses: careless "Type A" lapses, which include errors, inconsistencies, failure to obtain relevant data, and guest or honorary co-authorship, and more serious "Type B" lapses, which include misleading statements and citations, failure to acknowledge data sources, and failure to adequately respond to charges of fraud.
+The objective of this study was to examine these issues in more detail among authors publishing in high-impact general medical Journals. Specifically, we sought to investigate issues related to data integrity, including the incidence of data errors (both accidental and intentional), the consequences of the errors, data reliability safeguards in place by authors, and consequences of disagreement in the interpretation of data among study authors.
+2. Methods
+A survey focused on questions regarding data integrity and safeguards, reliability, and fraud was developed and pilot-tested by five research-oriented clinician-scientists internists for feedback (Appendix A). Ethics approval was obtained from our institution prior to the start of this project. The survey was uploaded onto a commercial online survey website. Corresponding authors with functional email addresses of every fourth original research manuscript published in JAMA (2001- 2003), BMJ (1998-2000), CMAJ (2001-2003), and Lancet (1998-2000) were emailed background information to the survey, a hyperlink to the online survey, and a personalized survey code. Corresponding authors were also emailed an electronic document containing the survey which could be returned either electronically or via mail to the study investigators. Corresponding authors without working email address were excluded. Email reminders were sent to those not responding approximately every 2 weeks for a total of nine email reminders.
+3. Results
+A total of 127 corresponding authors completed the survey, of a possible 195 with functioning email addresses, for a response rate of 65%.
+Responses surrounding data integrity and human error are compiled in Table 1. The majority of respondents claimed to be very confident in the integrity of the data upon which the manuscript was based, with 96%
+Notes to Table 1: a "The condition existing when data are unchanged from their source and have not
+been accidentally or maliciously modified, altered, or destroyed, for example during transfer, storage, or retrieval".
+
+42 M.O. Baerlocher et al. / European Journal of Internal Medicine 21 (2010) 40-45
+
+reporting a confidence score of 9 or 10 (1/least confidence-10/most confidence). Furthermore, the clear majority accepted responsibility for the integrity of the entire manuscript. A third of respondents claimed that less than half of the listed co-authors could ensure the accuracy and integrity of the data within the manuscript, and in 14.5% of cases fewer than a quarter of the authors could ensure its accuracy. The majority of respondents (62.4%, Table 1) also claimed to have in fact discovered data errors prior to publication, while 21.1% discovered data errors after publication. The majority of respondents made attempts to correct data errors discovered after publication, but 37.5% did not.
+Table 2 indicates that a small percentage of respondents (4%) had discovered fraudulent data in a project with which they were involved. Some of these projects were noted to have been published. Ninety-two percent of respondents believed that 10% or greater of their colleagues were involved in a manuscript that contained fraudulent or smudged data.
+Table 3 lists responses related to data reliability safeguards in the literature. Among those surveyed, 87.1% claimed to utilize data reliability safeguards in their manuscripts, most commonly more than one investigator independently verifying the statistics and analyses (79.1%), followed by double data entry (43.6%). Most respondents believed that Journals should establish a minimum in terms of data reliability safeguards for manuscripts which they publish.
+
+Table 2 Fraudulent and "smudged" data.
+
+Survey question
+
+Responses n
+
+Ever discovered data in a project you were involved in to have been fraudulent? Yes No
+If yes, how did you discover this? Data checks Informed by another investigator Informed by someone not involved in research but overheard conversation
+If yes, what did you do about it? Withdrew from project Perpetrating study group removed from trial/consortium Perpetrating investigators removed from study, and disciplined substantially Nothing except fraudulent data removed
+If yes, was the manuscript published with the fraudulent data? Yes No
+Ever discovered data in a project you were not involved in, but was within your department, to have been fraudulent, after publication? Yes No
+In the past 3 years, have you ever been a co-author on a paper with data you suspected and/or was "smudged" (i.e. the data was somehow altered without stating this in the manuscript, in a situation where most scientific purists would say the data should not have been altered; for example, deleting outliers)? Yes No
+What percentage of other clinician-scientist authors do you think have been a co-author on a paper with data they suspected and/or was smudged? 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+
+4.0% 96.0%
+40.0% 40.0% 20.0%
+20.0% 40.0% 20.0%
+20.0%
+6.7% 93.3%
+2.4% 97.6%
+4.0% 96.0%
+7.2% 46.4% 23.7%
+8.2% 2.1% 6.2% 1.0% 4.1% 1.0% 0.0% 0.0%
+
+125 5 5
+15 126 124
+97
+
+Table 3 Data reliability safeguards.
+
+Survey question
+
+Responses n
+
+Safeguards in place to ensure integrity of data upon which last manuscript based? Yes No
+If yes to previous question, safeguards used? N1 investigator independently interpreting the data/statistics Double data entry Hard copy of data sent from lab/data acquisition source as check on electronic or faxed copy Duplicate statistical analysis Statistical test(s) of inter-observer variability Duplicate data abstraction Other Supervision Plausibility of results Other
+Do you think Journals should require a minimum in terms of data reliability safeguards? Yes No
+If yes, what do you think this minimum should be (answers not mutually exclusive)? Signed guarantor/declaration of data accuracy/reliability Signed document that ALL authors agree with conclusions Repeat independent analysis of data/major findings Signed disclosure of description of data safeguards utilized Random data `audits' Double data entry Copy of data filed with Journal Signed guarantor/declaration from 2 authors (1st + senior) Pre-registration of major trials Hard copy of data sent from lab as check of electronic data Depends on the size of the project Access to original study protocol and ethics submission Access to original study data if requested Other--"I think the problem is the Journals and leading researchers ignore the contribution of the data/specimen collector. I think this is unjust as to their efforts and leads to fraud. I think the data collector must be an author and must sign a form that their data was collected with integrity and had not been altered by the big name who analyzed and wrote the paper. The hierarchical system the Journals e.g. BMJ and institutions insist on is encourages fraud as data/specimen collection is considered insignificant. This means that those generating the hypothesis can interpret the data to suit themselves only the data/specimen collector." Other--"In a pharmaceutical trial that has been submitted to national regulatory agencies for market approval, the Journal should have the right to access the report and supporting documents (excluding those with personal identifiers) submitted to regulatory agencies." Unsure, not specified
+What percentage of other clinician-scientist authors do you think have safeguards to ensure the integrity and accuracy of their data? 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+
+87.1% 12.9%
+79.1% 43.6% 42.6%
+40.9% 28.2% 18.2% 15.5%
+1.8% 1.8% 11.8%
+65.0% 35.0%
+42.2% 12.7% 11.3%
+9.9% 4.2% 4.2% 2.8% 1.4% 1.4% 1.4% 1.4% 1.4% 1.4% 1.4%
+1.4%
+19.7%
+0.0% 19.4% 12.6%
+6.8% 7.8% 16.5% 7.8% 1.9% 10.7% 13.6% 2.9%
+
+124 110 123
+71
+103
+
+Table 4 presents results related to author agreement and interpretation of research data. Twenty percent of respondents were involved in a project at some point in which one of the authors disagreed with the interpretation of the data once the manuscript was in its final form. In 36.0% of these cases, the investigator disagreeing with the interpretation of the majority withdrew as co-author.
+
+M.O. Baerlocher et al. / European Journal of Internal Medicine 21 (2010) 40-45
+
+43
+
+Table 4 Data interpretation and author agreement.
+
+Survey Question
+
+Responses n
+
+Ever been involved in a paper where one of the authors disagreed with the interpretation of the data, once the paper was in its final form (i.e. submitted for review)? Yes No
+If yes, how was the issue resolved? Person disagreeing with majority withdrew as co-author Both interpretations presented in Manuscript Discussion; revision/agreement/issue resolved Concerns ignored, or nothing Paper not published Other Too late: person in disagreement was honorary co-author on paper but unaware until publication Person in disagreement re-published additional statistics independently
+Ever been involved in a paper where one of the authors voluntarily withdrew as a co-author of the manuscript due to his/her disagreement with interpretation of the data? Yes No
+Ever been involved in a paper where one of the authors was forced to withdraw as a co-author of the manuscript due to his/her disagreement with interpretation of the data? Yes No
+If yes to either of two previous questions, were there any repercussions? Yes Hard feelings/rude behavior Not specified Paper not published as a result No or loss of publication from CV Unsure (ongoing)
+
+20.8% 79.2%
+36.0% 4.0%
+36.0% 12.0%
+4.0%
+4.0%
+4.0%
+25.4% 74.6%
+0.8% 99.2%
+17.9% 10.7%
+3.6% 3.6% 78.6% 3.6%
+
+125 25
+126 126
+28
+
+4. Discussion
+4.1. Data integrity awareness
+There are a number of interesting conclusions that may be drawn from our results. Survey respondents were asked to recall the last manuscript on which they were listed as a co-author (any position). Table 1 reveals that the majority of respondents accepted responsibility for the integrity of their last manuscript. Interestingly, many respondents believed that between half and three-quarters of their co-authors could not similarly accept responsibility for the accuracy and integrity of their last manuscript. If this sentiment indeed reflects reality, this poses risks to these authors: should the data be fraudulent, they may not be aware of it. This could quite conceivably do irrevocable damage to a junior author's future career, or tarnish a more experienced author's past achievements.
+
+4.2. Data errors
+A significant minority of respondents recalled having been suspicious of data in a project in which they were involved, which resulted most commonly in the author voicing their concerns or personally rechecking the data. In over a third of cases, however, the author lacked confidence in the data to the degree where they requested their name be withdrawn from the manuscript. In one case, the offending center was removed from the project/manuscript, while in another case the author could not do anything prior to publication, as they were not aware they were a co-author.
+Table 1 demonstrates that all respondents acted in some way when they were suspicious of manuscript data prior to publication. When errors were discovered after publication, however, it is rather disturbing to find that over one third of respondents did not take steps
+
+to correct these errors through either a letter to the editor or corrections in future manuscripts. This is in-line with a finding by Parrish [8] that there is often a lack of communication to Journal Editors regarding manuscript corrections. Compounding this is a slow (or lack of) response by Journals in publishing either corrections or manuscript retractions, and a lack of written procedures among Journals for responding to such allegations [9]. Such findings are troubling for academia in general, but may also have practical implications. If data errors in a manuscript are not corrected and this manuscript has an influence on clinical practice, patient care may be compromised.
+4.3. Fraudulent data
+The results suggest that there is a non-zero incidence of fraudulent data; 4.0% of respondents claimed to have been aware of fraudulent research in a project with which they were involved (Table 2). Thankfully, there were serious consequences in most cases. In one case, conducted by several residents as part of the research requirement by their residency program, significant disciplining of the residents involved was handed out after the fraud was revealed through boasting of one resident involved. In two other cases, the offending center was removed from the large trial consortium, and in another case, the respondent withdrew him/herself from the trial (though the fraud was on the part of another investigator). Such serious consequences are important to deterring other researchers from this type of behavior.
+The careful reader will note that in Table 2, while only 5 respondents (4.0%) reported having been involved in a project where fraud was discovered, a subsequent question is asked--if the respondent was involved in such a project, and was the resultant manuscript published with the fraudulent data? While one would expect only 5 respondents to have answered this question, 15 responded. While a misunderstanding of the question is possible, an alternate explanation would be that some respondents did not initially wish to admit having ever been involved in a project found to include fraudulent data.
+Somewhere in a gray zone between unintentional errors and fraudulent data, lies the issue of data `smudging'; that is, data which are altered from their original form, in a way that a statistician would not consider appropriate, however at the same time is not `fraudulent'. For example, deletion or minimization of outliers may be one such example. Fortunately, a small minority of respondents reported having been involved in a project where this was (recognized as) an issue (4.0%, Table 2). Again, however, 12.3% of respondents believed that 50% or more of other researchers had been involved in projects where data smudging had occurred (Table 2). This result may speak of the virtue of our specific cohort of respondents versus their peers, or more likely the psychology of self-reporting of perceived negative behavior. These results may be compared to those of Gardner et al. [10], who found that the 1% of authors reported that one of their specified manuscripts misrepresented the research, 5% of authors reported falsification or misrepresentation of research in research they had been involved in within a time frame of 10 years, and 17% personally knew of such a case other than from published literature.
+4.4. Data reliability safeguards
+Based on the incidence of fraudulent or smudged data, there is clearly a need for data reliability safeguards or checks. If the incidence of data errors both pre- and post-publication is as high as the results suggest, one may wonder how many cases are being missed. Despite the majority of respondents claiming to use data safeguards, the efficacy of these safeguards is unknown and they almost certainly do not pick up every case of data error. Cases involving fraudulent research may be even more difficult to detect, particularly if the primary authors are involved (in the case of unintentional data errors,
+
+44 M.O. Baerlocher et al. / European Journal of Internal Medicine 21 (2010) 40-45
+
+the primary authors most commonly detected the errors). In the example mentioned above involving fraudulent research on the part of residents, had it not been for the residents' boasting, it is very possible that the fraud may have gone unrecognized.
+The question then arises, which safeguards to use? While the majority of respondents believed that Journals should require a minimum in terms of data reliability safeguards, they were not as sure what such a requirement should be. The largest proportion felt that a signed guarantor document or declaration of data accuracy, either by the most responsible author or by all authors, was appropriate. A sizable minority felt that a signed disclosure with a description of the authors' steps taken to ensure data reliability should be required. An interesting comment by one respondent alluded to the notion that the investigator responsible for collecting the data is often side-lined, and their contribution minimized by the senior author, while they should in fact be signing a declaration that the data they collected are reliable. This suggestion may be prescient, considering that students and junior researchers, who may be less familiar with proper research procedures, are often the investigators collecting data or doing other menial steps in scientific research projects.
+The question, of course, is whether any of these measures would have an effect other than increasing the time required to submit a manuscript. Several mentioned that data from large trials, particularly those conducted by industry sponsors filing for registration of a new drug with regulatory authorities, should be either filed with the Journal, or at least be made available upon request. Others believed that random data `audits' would have a dramatic impact, presumably as authors would be nervous about being audited and discovered to have accidentally included data errors in their manuscript, and therefore perform additional data checks prior to manuscript submission. The proper method to encourage and enforce data integrity is still a subject of debate, with governmental, legal and institutional bodies such as the Committee for Publication Ethics (COPE) all presented as plausible options [11,12]. Investigation into the efficacy of particular types of data reliability safeguards may also yield important information to help guide future research guidelines and enforcement.
+4.5. Disagreement among investigators
+In addition to data inaccuracies, there is often room for differing interpretations of the same data. Table 4 demonstrates that one in five authors disagreed with data interpretation at the final stages of manuscript preparation. Occasionally this resulted in removal of an investigator from the authorship of a manuscript, while discussion also ensued to resolve the disagreement. These questions highlight the significant subjective component present in clinical and scientific research. A recent article demonstrated that even meta-analysis, a technique designed to objectively synthesize the results of various studies to answer a particular research question, is influenced by a subjective component [13]. Even if data reliability is ensured through safeguards and Journal disclosures, subjectivity may influence conclusions and recommendations. A review of the literature suggests that there is no agreed process for handling author disagreement despite the effect that such disagreement may have on the conclusions of research projects.
+4.6. Study limitations
+While our study raises a number of interesting questions, our methodology is not without limitations. Respondents to our survey were publishing academics in four top medical Journals, which may have biased our results. They cannot necessarily be generalized to represent other authors publishing in the scientific literature. In fact, these Journals may have employed higher standards for ensuring data reliability; therefore the incidence of data error and fraud may be
+
+higher in other, less reputable Journals. Further, our analysis did not employ multivariate analysis or account for demographic or experience related differences between respondents.
+5. Conclusion
+While Journal Editors have a crucial role to play in ensuring the integrity of research they publish [14], we acknowledge that the scope of Journals' abilities are far from extensive. Short of duplicating the entire study, there is no definitive method by which to detect errors, and any review process, regardless of how rigorous, will be inherently limited.
+There is similar detection difficulty in the case of scientific misconduct. And when it is discovered, there is often substantial delay between allegations of scientific misconduct, and notification of the corresponding Journal Editors [8]. The question arises, who is responsible for investigating allegations of such scientific misconduct, as there is clearly only so much Journals can do [2]. Possibilities include employers, those funding the research, regulatory bodies, colleges and professional societies, the criminal justice system, national bodies, the media, some other international body [15], as well as department colleagues and manuscript co-authors.
+The presented results show that data integrity remains a problematic issue, with a significant proportion of authors publishing in high-impact medical Journals failing to use data reliability safeguards. They also show that research fraud, at least that which has been identified, is not highly prevalent. Based on these conclusions, we believe the following recommendations would help increase data integrity in the scientific literature:
+1. Journals should require a signed document that at least 2 coauthors (if more than one author) be able to explain the results of the manuscripts, and guarantee the data.
+2. Journals should begin requiring a minimum list of data safeguards for manuscripts presenting original research.
+3. Journals should require a signed disclosure of which data safeguards were used by submitting authors.
+4. All submitting authors should be required to submit a letter to the relevant Journal Editor for data errors discovered following publication.
+5. Data for original research should be available, upon request, by Journal Editors if necessary.
+6. Learning points
+* Research fraud still exists in the literature, however, the prevalence is reported to be low.
+* Greater than 10% of authors surveyed did not use data reliability safeguards, while 1 in 5 surveyed noted errors in their manuscripts after publication.
+* Further efforts by Journal Editors to ensure data reliability, such as signed disclosures and requirements for data reliability safeguards, may help increase data integrity and reduce academic fraud in the literature.
+Acknowledgements
+The authors would like to thank Dr. John Floras, Dr. Mark Silverberg, Dr. Katherine Siminovitch, Dr. Sharon Straus and Allan S. Detsky for providing feedback during the development of the survey, and Dr. Matthew Stanbrook for providing input regarding development of both the survey and study. The authors have no financial or other conflicts of interest. The principal investigator had full access to all of the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis.
+
+M.O. Baerlocher et al. / European Journal of Internal Medicine 21 (2010) 40-45
+
+45
+
+Appendix A. Survey questions
+1. On a scale of 1-10, rate your confidence in the "integrity" ("the condition existing when data is unchanged from its source and has not been accidentally or maliciously modified, altered, or destroyed, for example during transfer, storage, or retrieval") of the data upon which the manuscript is based? (1 = least confidence, 1 = most confidence).
+2. Do you accept responsibility for the integrity of the manuscript in its entirety?
+3. Of the listed authors, how many can ensure accuracy and integrity of the data contained in it, and can confidently explain the results of the entire manuscript? (Note: the total number of authors was recorded by the study investigators.)
+4. Do you have any safeguards or checks to ensure the integrity of the data upon which the manuscript is based?
+5. If Yes to 3, what are they?
+ hard copy of data sent from lab/data acquisition source  N1 investigator independently interpreting the data/statistics  statistical test(s) of inter-observer variability  double data entry  duplicate data abstraction  other--please list:
+6. Have you ever been suspicious of the integrity of data in one of your publications?
+7. If Yes to 6, what did you do about it?
+ nothing  personally verified the data  voiced your concerns  requested your name be withdrawn from the manuscript  other--please list:
+8. Have you ever discovered data in a project you were involved with to have been inaccurate or incorrect due to human error?
+9. If Yes to previous, how did you discover this? (Please list). 10. If Yes to 7, what was your response? (Please list). 11. Have you ever discovered data in a project you were involved
+with to have been fraudulent? 10. If Yes to previous, how did you discover this? (Please list). 11. If Yes to 10, what was your response? (Please list.) 12. Have you been involved in a paper where one of the authors
+disagreed with the interpretation of the data? 13. If Yes to 13, how was the issue resolved? 14. Have you ever been involved in a study where one of the authors
+voluntarily dropped out of the manuscript as a co-author due to his/her disagreement with interpretation of the data?
+
+15. Have you ever been involved in a study where one of the authors was forced to drop out of the manuscript as a co-author due to his/her disagreement with interpretation of the data?
+16. If Yes to either 15 or 16, were there any repercussions? 17. Do you think Journals should request a minimum (e.g. signatory
+declaration) in terms of data reliability safeguards? 18. If Yes to previous, what do you think this minimum should be?
+(Please list). 19. In the past 3 years, have you ever been a co-author on a paper
+with data you suspected and/or was "smudged" (i.e. somehow altered the data without stating this in the manuscript, in a situation where most scientific purists would say the data should not have been altered; for example, deleting outliers)? 20. What percentage of other clinician-scientist authors do you think have been a co-author on a paper with data they suspected and/or was smudged? (0-100%). 21. Do you have any safeguards to ensure the integrity and accuracy of your data? 22. What percentage of other clinician-scientist authors do you think have safeguards to ensure the integrity and accuracy of their data? (0-100%).
+References
+[1] White C. Three journals raise doubts on validity of Canadian studies. BMJ 2004;328:67. [2] Smith J, Godlee F. Investigating allegations of scientific misconduct. BMJ
+2005;331:245-6. [3] Singh RB, Rastogi SS, Verma R, Laxmi B, Singh R, Ghosh S, et al. Randomised controlled
+trial of cardioprotective diet in patients with recent acute myocardial infarction: results of one year follow up. BMJ 1992;304(6833):1015-9. [4] White C. Suspected research fraud: difficulties of getting at the truth. BMJ 2005;331 (7511):281-8. [5] Kintisch E. Scientific misconduct. Researcher faces prison for fraud in NIH grant applications and papers. Science 2005;307(5717):1851. [6] Claxton LD. Scientific authorship. Part 1. A window into scientific fraud? Mutat Res 2005;589(1):17-30. [7] Stewart WW, Feder N. The integrity of the scientific literature. Nature 1987;325 (6101):207-14. [8] Parrish DM. Scientific misconduct and correcting the scientific literature. Acad Med 1999;74(3):221-30. Erratum in Acad Med 1999;74(6):621. [9] Friedman PJ. Correcting the literature following fraudulent publication. JAMA 1990;263(10):1416-9. [10] Gardner W, Lidz CW, Hartwig KC. Authors' reports about research integrity problems in clinical problems. Contemp Clin Trials 2005;26(2):244-51. [11] Jaffer U, Cameron A. Deceit and fraud in medical research. Int J Surg 2006;4:122-6. [12] Slesser AA, Qureshi YA. The implications of fraud in medical and scientific research. World J Surg 2009;33:2355-9. [13] Shrier I, Boivin JF, Platt RW, Steele RJ, Brophy JM, Carnevale F, et al. The interpretation of systematic reviews with meta-analyses: an objective or subjective process? BMC Med Infom Decis Mak 2008 May 21;8:19. [14] Woolf PK. Ensuring integrity in biomedical publication. JAMA 1987;258(23):3424-7. [15] Smith R. Investigating the previous studies of a fraudulent author. BMJ 2005;331:288-91.
+
+

@@ -1,0 +1,2327 @@
+Volume 83 | Issue 1
+
+Indiana Law Journal
+Article 5
+
+Winter 2008
+When Disability Isn't "Just Right": The Entrenchment of the Medical Model of Disability and the Goldilocks Dilemma
+Bradley A. Areheart
+University of Texas, bradleyareheart@gmail.com
+
+Follow this and additional works at: http://www.repository.law.indiana.edu/ilj Part of the Health Law and Policy Commons, and the Medical Jurisprudence Commons
+Recommended Citation
+Areheart, Bradley A. (2008) "When Disability Isn't "Just Right": The Entrenchment of the Medical Model of Disability and the Goldilocks Dilemma," Indiana Law Journal: Vol. 83: Iss. 1, Article 5. Available at: http://www.repository.law.indiana.edu/ilj/vol83/iss1/5
+This Article is brought to you for free and open access by the Law School Journals at Digital Repository @ Maurer Law. It has been accepted for inclusion in Indiana Law Journal by an authorized administrator of Digital Repository @ Maurer Law. For more information, please contact wattn@indiana.edu.
+
+When Disability Isn't "JustRight": The Entrenchment of the Medical Model of Disability and the Goldilocks Dilemma
+BRADLEY A. AREHEART*
+INTRODUCTION: THE FAIRY TALE OF DISABILITY PROTECTION ................1.81............. I. THE ONGOING ENTRENCHMENT OF THE MEDICAL MODEL OF DISABILITY .. 185
+A. The MedicalandSocial Models ofDisability................1.85................. B. Publicly: The MedicalParadigmofDisabilityReigns...........19.2............ C Judicially: The GoldilocksDilemma .....................2.0.9................. II. RESTORING THE ADA: A RETURN TO THE SOCIAL MODEL OF DISABILITY.. 225 A. The ADA RestorationAct: Escaping the Goldilocks Dilemma.....2.2.7.... B. Broadeningthe Scope ofDisability......................2.2.9................. C. Educatingthe Public and the Judiciary...................2.3.1.................
+C ONCLU SION ........................................................2.3.2.....................
+INTRODUCTION: THE FAIRY TALE OF DISABILITY PROTECTION
+The Supreme Court's interpretation of the Americans with Disabilities Act (ADA) has forced people with disabilities into a Goldilocks dilemma-they are either too disabled or not disabled enough. And thus far, very few have been "disabled 'just right."' 1 This Goldilocks dilemma is an apt analogy for the predicament facing disabled individuals. By consistently narrowing the meaning of disability, federal courts-and especially the U.S. Supreme Court-have weakened the ADA by severely constricting the scope of who qualifies for its protection.
+Concern over the ADA is timely. In September of 2006, bipartisan legislation based on the National Council on Disability's recommendations was introduced in the House of Representatives. 3 Entitled the ADA Restoration Act of 2006, the bill failed to make
+* Associate, Jenner & Block; J.D. 2005, University of Texas. I am indebted to Wendy Wagner for her support with this project. Nancy Levit was also an encouragement. Many thanks to Robert Burgdorf, Michael Heidler, Sharona Hoffman, Paul Secunda, Michael Stein, and Michael Waterstone for their comments. All glory to Jesus Christ.
+1. Ruth O'Brien, DefiningMoments: (Dis)ability,Individuality,andNormalcy,in VOICES FROM THEEDGE: NARRATIVES ABOUT THE AMERICANS WITH DISABILITIES Acr 41 (Ruth O'Brien ed., 2004) (citing Charles Lindner, Supreme Court Upsettinga Rights Movement: The Supreme Court'sADA Employment Rulings Read as If They Were Drawnfrom the Pages ofCatch 22, L.A. TIMES, June 2, 2002, at M2). Aviam Soifer has used the Goldilocks metaphor to illustrate the Supreme Court's tendency to second-guess the amount ofCongressional findings required to support legislation guaranteeing constitutional rights through the enforcement clauses of the Reconstruction Amendments. Aviam Soifer, CourtingAnarchy, 82 B.U. L. REV. 699, 712-13 (2002).
+2. Albert R. Hunt, MoreAttentionforDisabilities,WALL ST. J., Dec. 23, 2004, at A 11. In particular, the Supreme Court has articulated an extremely cautionary approach when it comes to assessing who should qualify for protection against discrimination in employment under the ADA. O'Brien, supra note 1, at 49 (citing Sutton v. United Airlines, Inc., 527 U.S. 471, 511 (1999) (Stevens, J., dissenting)).
+3. Americans with Disabilities Act Restoration Act of 2006, H.R. 6258, 109th Cong. (2006), availableat http://www.govtrack.us/congress/bill.xpd?bill=h 109-6258.
+
+INDIANA LA W JOURNAL
+
+[Vol. 83:181
+
+any progress before the session ended and the bill was cleared from the books.4 A new Congress, however, provides renewed hope for the passage of such a bill. 5 Indeed, on
+
+July 26, 2007, Congress introduced a nearly identical version of the legislation proposed last fall: the ADA Restoration Act of 2007 ("ADA Restoration Act").6
+
+The ADA Restoration Act, among other things, would simplify the definition of disability under the ADA. 7 As will be explained, the present definition of disability is
+
+narrowly construed and often results in judges focusing on the threshold question of
+
+whether someone actually has a disability--even to the exclusion of considering an
+
+employer's motives. The ADA Restoration Act would also expand the scope of disability significantly by legislating rules of construction. 9 Such changes evince the
+
+plain meaning of disability the framers of the ADA intended-a broad interpretation that takes into account the social meaning of disability.l
+
+Much of the controversy over the ADA has centered on how to define disability.
+
+The answer to this question is critical, as it determines who enjoys the statute's
+
+protection and who does not."1 This focus has been pronounced for the protection the
+
+ADA provides in the context of employment under Title I. Title I mandates that "no
+
+covered entity shall discriminate against a qualified individual with a disability
+
+because of the disability of such individual" with regard to any aspect of
+
+employment. 12 diluted and the
+
+This is part of
+
+the the
+
+AtiDtleAunondewr hwichhicthhitsheAArtiDclAe 'ws ipllrofoteccutsi.o' n3
+
+has
+
+been
+
+heavily
+
+4. Id. 5. This is not to say that such a bill will likely pass. Rather, it is simply more likely to pass
+in the current Congress than before-especially given that the "[new] Democratic leadership is very pro-ADA." Sam Bagenstos, Disability Law, http://disabilitylaw.blogspot.com/
+2006 11_01_archive.html (Nov. 13, 2006, 9:29 CDT). Bagenstos rightly cautions that any
+attempt to redefine disability will almost certainly engender staunch opposition. Id. 6. ADA Restoration Act of 2007, H.R. 3195, 110th Cong. (2007), available at
+http://www.govtrack.us/congress/bill.xpd?bill=h 110-3195. 7. See generally id.
+8. See infra Part I.C. 9. H.R. 3195  4(2)(B), 7. 10. See NAT'L COUNCIL ON DISABILITY, RIGHTING THE ADA 11, 102 (Dec. 1, 2004), http://www.ncd.gov/newsroom/publications/2004/pdf/rightingada.pdf [hereinafter RIGHTING THE ADA] (asserting its recommendation would refocus the ADA on prohibiting disability discrimination and incorporate a "social model" of disability); see also infra Part I.A. (explaining the social model ofdisability). 11. The requirements to bring a lawsuit under Title I of the ADA are discussed in detail in Part I.C. 12. 42 U.S.C.  12112(a) (2000). 13. The other main protective categories under the ADA are Title 11,42 U.S.C.  1213112165 (2000), which prohibits discrimination by public entities, and Title III, 42 U.S.C.  12181-12189 (2000), which proscribes discrimination in public accommodations and services provided by private entities. Concerns about who qualifies as disabled have been less pronounced for Titles IIand III of the ADA. See generallyMichael Waterstone, The Untold Story of the Rest of the Americans with DisabilitiesAct, 58 VAND. L. REv. 1807 (2005) (exploring how Titles IIand III of the ADA have fared much more favorably than Title 1). In particular, the individualized inquiry is much less rigorous. For example, "[u]nder Title II, someone may sue for discrimination because she could have benefited from a state or local government's service." O'Brien, supranote 1,at 41. This lower threshold for standing in Titles
+
+2008]
+
+WHEN DISABILITY ISN'T "JUSTRIGHT"
+
+This Article explains how, amidst all that has informed and is informing a cultural
+view of disability, there is a single predominating paradigm-the medical model of disability.1 4 Despite the general trend toward social constructionist accounts of
+identity, and in particular, the shift to a social model of disability among activists and academics,1 5 society seems to have retained a medical paradigm for understanding
+disability. Perhaps this is due to the fact that disability and its theoretical
+underpinnings have not received the same degree of scrutiny as other aspects of identity, such as race or gender.16 These underpinnings-and especially how they are
+mpuabnliifcesatneddjuindimcieadl ipaerrceeppretisoenntoatfiodnissaboilfitdyi.s' a7bility-are critical and affect both the
+Unlike scholarship that has only mentioned the medical model of disability in passing,' 8Part I documents how it remains firmly ensconced in our culture's collective
+consciousness. The ADA represented a symbolic victory for making the transition to a
+
+II and III of the ADA helps explain how suits brought under these titles have been relatively successful when compared with those brought under Title I. Significantly, between eighty and ninety percent ofall suits brought under Title I have been decided in the employer's favor. Id. at 18-19.
+14. See infraPart I.A. (explaining the medical model of disability). 15. Colin Barnes, Mike Oliver & Len Barton, Introduction,in DISABILITY STUDIES TODAY 1-8 (Colin Barnes, Mike Oliver & Len Barton eds., 2002) (explaining the academic shift to an emphasis on disability as a sociological field). 16. See also Gary L. Albrecht, AmericanPragmatismandDisabilityStudies, in DIsABILrrY STUDIES TODAY, supra note 15, at 32 (explaining how, in the United States, the "emphasis on rugged individualism, capitalism and the American brand of democracy" shapes an individualized model of disability).
+17. PAUL T. JAEGER& CYNTHIA ANN BOWMAN, UNDERSTANDING DISABILITY: INCLUSION,
+ACCESS, DIVERSITY, AND CIVIL RIGHTS 100 (2005) (examining the influence the media's
+portrayal of disability has on public perception); CHARLES A. RILEY II, DISABILITY AND THE MEDIA: PRESCRIPTIONS FOR CHANGE xiv (2005) (same). Additionally, Richard Scotch, Professor
+of Sociology at the University of Texas of Dallas, has observed: [I]fthe marginalization of people with disabilities is the result of social processes that are embedded in our culture, then it is not surprising that governmental and legal institutions as well have employed a traditional medical model of disability
+based on incapacity that focuses on the limitations ofplaintiffs with disabilities in their application of the ADA. Public officials and the courtsfrequently mirror well-establishedlimiting assumptionsaboutpeoplewith disabilities.The statute's
+broad definitions of who has a legitimate disability, what constitutes discrimination on the basis of disability, and what remedies are appropriate in countering such discrimination may be at odds with popular understandingsof who should be treated as "truly" disabled, what their problems are, and what protections they deserve from regulators and the courts. Richard K. Scotch, Models ofDisabilityandtheAmericans with DisabilitiesAct, 21 BERKELEY J. EMP. & LAB. L. 213, 218 (2000) (emphasis added) (citations omitted); see also RIGHTING THE ADA, supra note 10, at 40 (explaining that the media and courts' mischaracterizations "have fed on one another" to frustrate the ADA's goals). 18. MARY JOHNSON, MAKE THEM Go AWAY: CLINT EASTWOOD, CHRISTOPHER REEVE &
+THE CASE AGAINST DISABILITY RIGHTS 237 (2003); RILEY, supra note 17, at 13 (noting that "examples of the medical model persistently dominate the mainstream press"); Mary Crossley,
+The DisabilityKaleidoscope,74 NOTRE DAME L. REV. 621, 653 (1999).
+
+INDIANA LA WJOURNAL
+
+[Vol. 83:181
+
+social view of disability, but the ongoing public representations of disability and federal courts' treatment of disability have told a different story. 19
+Part I.A briefly explicates the two dominant models for understanding disabilitythe medical and social models of disability.20 Part I.B then examines a few key cultural
+examples ofthe present and ongoing entrenchment of the medical model ofdisability: Million DollarBaby and Clint Eastwood's legal battle with the ADA, Christopher Reeve, and the Jerry Lewis Telethon. Though influential in shaping a contemporary understanding of disability, these representations have not received much examination by legal scholars. 2 1 There have been many consequences to the dominance of the medical paradigm in popular culture, but perhaps most significantly, it has simply misled the public and judiciary about what it means for someone to have a disability.
+Part I.C tracks the medical model's entrenchment in federal court decisions
+addressing the ADA. There has been little discussion among legal scholars of how the dilemmas emerging from federal court decisions under Title I of the ADA appear to stem from a "medicalized" understanding of disability. 22 This Section argues that the cultural persistence of the medical paradigm has mediated an ongoing focus on the definitional bounds of disability and created a Goldilocks dilemma: ADA claimants
+often are found either "not disabled enough" to warrant the protections of the ADA or "too disabled" to be a "qualified individual" for the respective job.23 Finally, this Section provides an analysis of how even the most recent federal court decisions continue to perpetuate the Goldilocks dilemma.
+Part II of this Article argues that Congress should pass an ADA restoration act
+similar to the one that is currently pending in the legislature. Such an Act would overhaul the ADA and provide a workable solution that could reshape misunderstandings and stereotypes concerning both the ADA and disability in general. Finally, this Part recommends that the EEOC compile reports to document systemic
+
+19. See infra Part I. 20. Although there are many theoretical models for apprehending disability, these two have been the most pronounced in academic literature. 21. Mary Johnson (and her book Make Them Go Away, supra note 18) is a striking exception. See infra note 89 and accompanying text (crediting Make Them Go Away with furthering the conversation about disability and the media). 22. Some have examined a few Supreme Court decisions from this vantage point. Crossley,
+supranote 18, at 710 (noting how federal courts addressing impairment employ a medicalized understanding of "impairment"); Elizabeth A. Pendo, Disability, Doctors and Dollars: Distinguishingthe ThreeFaces ofReasonableAccommodation, 35 U.C. DAVIs L. REv. 1175, 1191, 1195, 1217-18, 1224-25 (2002) (noting that four recent Supreme Court decisions represent the "Court's return to a narrower, biomedical model of disability"); Laura L. Rovner, Disability,Equality,andIdentity, 55 ALA. L. REV. 1043, 1076-81 (2004) (examining how in Alabama v. Garrett the Supreme Court viewed the plaintiffs' claims through the lens of the medical model of disability). These examinations have been brief and almost exclusively
+focused on Supreme Court jurisprudence. See Michael Ashley Stein, Same Struggle,Different Difference: ADA Accommodations as Antidiscrimination,153 U. PA. L. REV. 579, 608 (2004)
+(explaining thatthe canonical treatment ofADA accommodations views the source of cost as arising from "the endogenous, inherent inability of the disabled, rather than through the exogenous, constructed social environment").
+23. This dilemma has been recognized by scholars as a "catch-22" under the ADA. See,
+e.g., Robert L. Burgdorf, Jr., The Americans with DisabilitiesAct: Analysis andImplicationsof a Second-GenerationCivil Rights Statute, 26 HARv. C.R.-C.L. L. REv. 413,448 (1991).
+
+2008]
+
+WHEN DISABILITY ISN'T "JUSTRIGHT"
+
+disability discrimination toward certain groups. Such reports could educate the public
+and judiciary as to certain disabled groups that have experienced extreme and ongoing 24
+discrimination.
+
+I. THE ONGOING ENTRENCHMENT OF THE MEDICAL MODEL OF DISABILITY
+
+During the last two decades, a growing body of scholarship has emerged that focuses on the philosophical nature ofdisability.2 5 This body ofliterature has fit under
+the guise of "disability studies" and has examined the evolving views of disability.
+More recently, this work has crossed into the legal arena, providing legal scholars a
+conceptually helpful foundation for understanding the social dynamics of what it means to be disabled.26 This Section will briefly focus on the two most basic theories for understanding disability: the medical model of disability and the social model of disability. 27 Understanding these conceptual paradigms for disability is critical for
+apprehending the current interpretive flaws, and promise, of the ADA.
+
+A. The Medical andSocial Models ofDisability
+
+The medical model of disability has been the dominant paradigm of disability in America.28 This model does not so much reference an intellectual position advanced by contemporary scholars as it provides a way of describing the norms that have
+traditionally governed disability in Western society. As such, it relies on normative categories of "disabled" and "non-disabled, 29 and presumes that a person's disability
+
+24. Though it is unlikely that much of the public would read these reports, it is likely that they would be written about and presented by attorneys to the judiciary. Over time, the content of such reports could "trickle down" to the public as certain findings in these reports slowly become more widespread and mainstream.
+25. See, e.g., DISABILITY STUDIES TODAY, supra note 15; MICHAEL OLIVER, THE POLITICS OF DISABLEMENT: A SOCIOLOGICAL APPROACH (1990); THE DISABILITY STUDIES READER (Lennard J. Davis ed., 2d ed. 2006).
+26. Mary Crossley, Reasonable Accommodation as Part and Parcel of the Antidiscrimination Project, 35 RUTGERS L. J. 861, 875 (2004) (citing, e.g., Samuel R. Bagenstos, Subordination, Stigma, and "Disability," 86 VA. L. REV. 397 (2000); PaulaE. Berg, Ill/Legal: Interrogating the Meaning and Function of the Category of Disability in AntidiscriminationLaw, 18 YALE L. & POL'Y REv. 1 (1999)).
+27. A U.S. Commission on Civil Rights' report, authored by Christopher Bell and Robert Burgdorf, aptly set out these two divergent views--even before the ADA passed:
+There are two common views with distinctly divergent assumptions and approaches to the problem ofhandicap discrimination. Many people see handicaps as strictly physical or mental disorders that limit ability.... The competing view emphasizes that societal actions and prejudice restrict opportunities for people with mental and physical limitations[.]
+U.S. COMM'N ON CIVIL RIGHTS, ACCOMMODATING THE SPECTRUM OF INDIVIDUAL ABILITIES 86 (1983) [hereinafter ACCOMMODATING THE SPECTRUM].
+28. Crossley, supra note 26, at 876; Scotch, supra note 17, at 218 ("For over a hundred years, disability has been defined in predominantly medical terms as a chronic functional incapacity whose consequence was functional limitations assumed to result from physical or mental impairment.").
+29. Lisa Eichhorn, Hostile Environment Actions, Title VII, andtheADA: The Limits ofthe
+
+INDIANA LA W JOURNAL
+
+[Vol. 83:181
+
+is "a personal, medical problem, requiring but an individualized medical solution; that
+
+people who have disabilities face no 'group' problem caused by society or that social
+
+policy should be used to ameliorate., 30 The medical model views the physiological
+
+condition disability.
+
+itself as 32 Even
+
+the problem. 31 In other words, "the those with disabilities have sometimes
+
+individual is adopted this
+
+vtiheew.lo33cus
+
+of
+
+Understood simply as a biological trait, disability leaves the individual in need of physiological assistance to remediate the effects ofthe disability. 34 Under the medical
+
+model, people with disabilities are often characterized as having individual attributes of incapacity and dependence. 35 Accordingly, given the view of disability as an
+
+individual problem, appropriate assistance is understood either as rehabilitation efforts
+
+to enable the individual to overcome the effects of the disability, or medical efforts to find a cure for the individual.36 Either way, the focus is on the individual and how she
+can overcome her condition.37 In the context of accommodations under the ADA,
+
+adherence to the notion of disability as biological inability is precisely what enables the conclusion that accommodations push the market's balance beyond equilibrium. 38
+
+More generally, adherence to the medical model encourages the view that disability rights are "special," akin to some form of charity for biological losers. 39 In short, under
+
+the medical model, a person's disability is her own personal misfortune-devoid of social cause or responsibility. 40 From this perspective, the medical model has the
+
+Copy-And-PasteFunction,77 WASH. L.REv. 575, 597 (2002). These categories create abinary distinction that has fueled the Goldilocks dilemma discussed inPart I.C.
+30. JOHNSON, supra note 18, at 27; see also Eichhom, supra note 29, at 595 (explaining that under the medical model ofdisability, disability is apprehended as a measurable, biological fact or an inherently individual defect).
+31. See JAEGER & BOWMAN, supra note 17, at 13-14 (observing that the eugenics movement is the quintessential medical model approach to disability).
+32. JOHNSON, supra note 18, at 61; Crossley, supra note 18, at 649; Eichhom,supra note 29, at 596; see also JAEGER & BOWMAN, supranote 17, at 14 (noting this perspective interprets the individual with the disability as the problem).
+33. See infraPart I.B.2 (discussion of Christopher Reeve). 34. Crossley, supranote 26, at 876. 35. Rovner, supranote 22, at 1044. 36. Crossley, supranote 26, at 876; Stein, supranote 22, at 607. "Thus, the medical model often obliged people with disabilities to make heroic physical efforts to look and act like nondisabled people." Eichhom, supra note 29, at 595-96. 37. Eichhom, supra note 29, at 595. Part ofthe downfall of this expectation is that not all disabilities hold the promise or possibility of a cure and/or remediation. In addition, ifa disabled individual is to spend her time seeking a cure, this may trade offwith efforts to achieve help for her present condition-such as in the form of reasonable accommodations. Finally, the viewpoint that a disabled person must seek to overcome her disability is quite convenient because if one believes that the only thing that will truly help a disabled person is a "cure," and the cure does not exist or has not been found, then that person would appear not to have any further responsibility. JOHNSON, supra note 18, at 231. 38. Stein, supra note 22, at 598. Stein calls this approach the "canonical perspective" for accommodation costs. Id. 39. See id. at 607 (noting that the perspective of disability rights as "special" fits squarely with the medical model ofdisability). 40. Crossley, supra note 26, at 876; Scotch, supra note 17, at 219 ("By focusing on adaptations required from people with disabilities, the medical model implies far less from employers or other social gatekeepers in terms of accommodation since the environment istaken
+
+2008]
+
+WHEN DISABILITY ISN'T "JUSTRIGHT"
+
+capacity to fragment the disability community by stressing the individual physiological
+traits that differentiate disabled persons, rather than the common societal obstacles that unite them.4'
+Under the medical model, people with disabilities are often typecast into one oftwo roles: the "pitiable poster child" or the "inspirational 'supercrip. ' ' 42 Under the "pitiable poster child" role, disabled individuals are seen as objects ofpity-childlike and in need of charity.43 Think Jerry Lewis Telethon. This image of the "cute and
+courageous" poster child, smiling despite her cruel fate, is a "most beloved American symbol of disability." 44 The contrasting, alternate role to the poster child is the "supercrip." If a disabled person is unable to assume a cute and childlike role in
+society, the expectation is for that person to be a supercrip and "overcome" her disability through her own courageous efforts.45 A supercrip is a disabled personusually likeable-who has a heroic story of attempting to overcome her disability.46
+Christopher Reeve is the archetypal example. The disability rights movement has
+spurned such characterizations and sought "to put an ordinary face-not that of a
+victim, a hero, or a martyr-on people with disabilities.9 The cultural entrenchment
+of these48 characterizations and roles will be discussed in more detail in the Section below.
+
+as given."). One disability scholar has put it this way: "With the medical lens fixed on the individual and his or her disability, the larger political, economic, and material forces at play in
+an able-ist society fall somewhere outside the frame." Linda Ware, Writing, Identity,and the Other:Dare We Do DisabilityStudies?, 52 J. TCHR. EDUC. 107,107 (2001).
+41. JACQUELINE VAUGHN SWITZER, DISABLED RIGHTS: AMERICAN DISABILITY POLICY AND THE FIGHT FOREQUALITY 13 (2003) (quoting Harlan Hahn, CivilRightsforDisabledAmericans: The Foundationofa PoliticalAgenda, in IMAGES OF THE DISABLED, DISABLING IMAGES 181 (Alan Gartner & Tom Joe eds., 1987)). This is important since the disability rights movement has historically had difficulty organizing as "people with disabilities shared no common social position and had little reasons to interact with each other socially." RUTH O'BRIEN, CRIPPLED
+JUSTICE: THE HISTORY OF MODERN DISABILITY POLICY IN THE WORKPLACE 109 (2001). 42. Michael Ashley Stein, LaborMarkets, Rationality,andWorkers with Disabilities,21
+BERKELEY J.EMP. & LAB. L. 314, 330 (2000). Professor Riley has similarly observed that the traditional emphasis on the physical aspect of disability renders "the 'sadcrip-supercrip' as two sides ofthe same coin-one is dependent on caregivers while the other is a miraculous triumph of medical progress teamed with willpower." RILEY, supra note 17, at 3-4. (In Riley's explanation, the "pitiable poster child" is the "sadcrip."). Riley also observes the tendency in the media to drift toward one of these two polarities: over-dramatized stories of either the "supercrip" or the "patient" ("sadcrip"). Id. at 51. Accordingly, the Easter Seals, a disability organization, has urged writers to tell "more fully integrated" stories ofpeople with disabilities. Id. Such stories chronicle "people living ordinary lives, working and playing side by side with others, 'experiencing the same pain/pleasures that others derive."' Id.
+43. Stein, supra note 42, at 330.
+44. Id.; JOSEPH P. SHAPIRO, No PITY: PEOPLE WITH DISABILITIES FORGING A NEW CIVIL
+RIGHTS MOVEMENT 12 (1993) ("The poster child... [n]o other symbol of disability is more beloved by Americans than the cute and courageous poster child-or more loathed by people with disabilities themselves.").
+45. Stein, supra note 42, at 330; see also RILEY, supra note 17, at 27 (observing that the disability memoir "is all second act-its very premise is the triumph of recovery and forward motion").
+46. SWITZER, supra note 41, at 41. 47. O'BREN, supra note 41, at 2. 48. See infra Part I.B.2.
+
+INDIANA LA W JOURNAL
+
+[Vol. 83:181
+
+Juxtaposed with the medical model of disability is the social model. Given the
+expanse of its supporters, no one restatement of the social model will cover every interpretation.49 In short, under this model, disability is redefined as a social
+construct-a type of multi-faceted societal oppression-and distinguished from the physiological notion of impairment.50 In this context, being "disabled" depends upon deviation from society's construction of corporeal normality. 51 Moreover, the
+experience of being a disabled person consists largely of encounters with the many
+barriers erected by society-physical, institutional, and attitudinal-that inhibit full participation in mainstream life. 52 One upshot of the social model is that the
+
+49. Adam Samaha, What Goodis theSocialModel ofDisability?,74 U. CHI. L. REV. 1251, 1257 (2007).
+50. See generallyTom Shakespeare, The Social Model of Disability,in THE DISABILITY
+STUDIES READER, supra note 25, at 197. 51. SWITZER, supranote 41, at 7; see Crossley, supranote 18, at 649 (explaining how the
+concept of being a "normal human being" is socially constructed and therefore culturally
+relative); Ron Amundson, BiologicalNormalityandthe ADA, in AMERICANS wITHDisABiLrrEs: EXPLORING IMPLICATIONS OF THE LAW FOR INDIVIDUALS AND INSTITUTIONS 102-09 (Leslie Pickering Francis & Anita Silvers eds., 2000) (arguing the categories of "normal" and "abnormal" are not parts of the biological world, but instead, based on social myth). See
+generallyLENNARD J. DAVIS, ENFORCING NORMALCY: DISABILITY, DEAFNESS, AND THE BODY
+(1995) (arguing that to understand the construction of disability one must understand the emergence and construction of normalcy). The consequence of this insight is that the very meaning of disability will vary from one culture to the next. A number of authors have provided excellent cross-cultural scholarship on disability, in which they assess the variation of the meaning of disability from one culture and/or country to the next.
+52. Anita Silvers, Formal Justice, in DISABILITY, DIFFERENCE, DISCRIMINATION: PERSPECTIVES ON JUSTICE IN BIOETHICS AND PUBLIC POLICY 74 (Anita Silvers, David Wasserman 7Mary B. Mahowald eds., 1998); Crossley, supranote 26, at 876-77. Crossley explains this dynamic in the following way:
+A person who cannot walk may certainly experience the "natural" disadvantages associated with this inability as a loss, but more limiting is the inability to enter public buildings accessed exclusively by stairs, to use public transportation that is inaccessible, or to frequent sites with narrow restroom stalls. Similarly, a person who becomes deaf may mourn the loss of listening to music or hearing laughter,
+but is likely to suffer far graver injury from society's near universal adoption of telephonic communication systems that exclude him from participation in employment and social life. In this view, the primary harms experienced by persons with disabilities are the product of social expectations and arrangements and conventional methods ofphysical construction. Id. at 877. This point helps explain how one could argue that disability discrimination is always the result of an environmental barrier-and not due to the actual impairment. Forexample, when an employer makes the decision not to hire a qualified person because ofhis diagnosis ofbipolar disorder, the discrimination is happening not because of his mood disorder, but because of an attitudinal barrier that the person making the hiring decision possesses and is choosing to act upon. NAT'L COUNCIL ON DISABILITY, DEFINING "DISABILITY" INA CIVIL RIGHTS CONTEXT: THE
+COURTS' FOCUS ON EXTENT OF LIMITATIONS AS OPPOSED TO FAIR TREATMENT AND EQUAL
+OPPORTUNITY, No. 6 POL'Y BRIEF SERIES: RIGHTING THE ADA 25 (2003), available at http://www.ncd.gov/newsroom/publications/pdf/extentoflimitations.pdf. [hereinafterDEFNING DISABILITY]; see also Rovner, supra note 22, at 1044 (articulating "attitudinal, architectural, sensory, cognitive and economic barriers").
+
+2008]
+
+WHEN DISABILITY ISN'T "JUSTRIGHT"
+
+experience of disability is not inherent or inevitable given a particular medical
+condition; 53 rather, it depends upon the particular social context in which one lives and functions. 54 Upon theorizing that the primary disadvantages associated with disability
+
+are social structures and practices, the claim that society has some responsibility to
+
+remedy the disadvantage may follow more naturally."5 Accordingly, whereas the
+
+medical model facilitates medical social model focuses on adjusting
+
+solutions the social
+
+toenavdijruosntmtheentintdoivfiitdiunadlivtoidfuiat lsso.c56iety,
+
+the
+
+Social modelists do not ignore the role of physiology in producing disadvantage.
+
+However, as alluded to earlier, the physiological aspect is distinguished from disability under the rubric of impairment.57 Tom Shakespeare, in his essay on the social model of
+
+disability, notes that key to the social model of disability is a series of dichotomies, one of which is that impairment is distinguished from disability. 58 For example,
+
+blindness is a biological impairment that limits a respective individual's participation
+
+in society. Even if society could entirely accept blind individuals, without bias or
+
+stereotyping, and could restructure architecture to take account of their needs, there
+
+would still be physiological limitations for such individuals. Moreover, physiological
+
+conditions must when it comes to
+
+be taken into account-even under the social providing access or accommodations through
+
+model of disabilityarchitectural changes.
+
+59
+
+Nevertheless, the key claim under the social model is that disability is, by definition,
+
+altogether a social construct.
+
+The debate on welfare cogently illustrates the difference between the medical and
+
+social models of disability. The medical model of disability is akin to a form of
+
+53. Talk ofthe Nation:BeyondAffliction: CultureofDisability(NPR radio broadcast May 4,1998).
+54. Id. 55. Crossley, supra note 26, at 877-78. Because this article ties restoring the social model of disability to a policy response, it is worth briefly addressing the recent argument that the social model of disability has no necessary policy implications. See generally Samaha, supra note 49. Though the question inthe title of Samaha's article-What Goodis the SocialModelof Disability?-isprovocative, the article itself supplies a number ofanswers: the social model of disability deepens our understanding of disability causation; it breaks open policy space by destabilizing the view that impairment-related disadvantage is simply a product ofnature; and it "speaks to normative commitments about what information isrelevant to human judgment." Id. at 1279-81. Still, Samaha's thesis-that there must be normative theory to justify policy response-has appeal.
+This Article operates off the (normative) institutional presumption that the ADA-
+similar to other antidiscrimination statutes-is generally warranted, given the "history of purposeful unequal treatment" people with disabilities have endured and continue to endure. 42 U.S.C.  12101 (a)(7) (2007). Exploring in-depth the normative and philosophical theories that might justify this predisposition may be auseful exercise, but is beyond the scope ofthis Article.
+56. Steven R. Smith, DistortedIdeals: The "ProblemofDependency" andtheMythologyof
+Independent Living, 27 Soc. THEORY& PRAc. 579, 595 (2001). 57. Shakespeare, supranote 50, at 198. 58. Id. at 198-99. The two other dichotomies he notes are that the social model is
+distinguished from the medical model and disabled people are distinguished from non-disabled people (in that disabled people are a uniquely oppressed group). Id.
+59. Theresia Degener, InternationalDisabilityLaw-A New LegalSubject on theRise: The InterregionaEl xperts 'Meeting in HongKong, December13-17, 1999, 18 BERKELEY J. lNfL.
+180, 182 (2000).
+
+INDIANA LA WJOURNAL
+
+[Vol. 83:181
+
+conservative antiwelfare ideology, which locates the problem in the individual.60 This
+
+ideology is typically illustrated through claims that the person just needs to "get ajob"
+
+or "stop being lazy." Similarly, when people individualize disability, as do welfare conservatives, they overlook the possibility that disability is a group problem.6'
+
+Conversely, the social model of disability shifts the locus of responsibility for the
+
+problems disab6l2ed people face from the individuals themselves to their inhospitable environments.
+
+Interestingly, the medical view of disability stands in stark contrast to how other
+
+forms of discrimination are typically viewed. For example, the vast majority of people
+
+believe that the not from these
+
+problems besetting racial minorities, groups' physiological inferiority, but
+
+wfroommens,ocainedtalhodmisocrsiemxuinaalstiosnte.m63
+
+Discrimination against these groups is considered irrational by most; few attempt to
+
+justify discrimination against any of these groups as acceptable. Yet many people seem
+
+to view discrimination against disabled people as rational-the result of their own bodies' deficiencies-and distinguishable from other forms of discrimination. 64 The
+
+result is that even people who avoid other forms of discrimination may be apt to
+
+rationalize disability discrimination.
+
+However, viewing disability through a sociological lens orients it as a prejudice that is different from other forms of discrimination in type, but not degree. 65 Most people
+
+are generally acquainted with what it means for someone to be subjected to the
+
+discriminatory whims of culture. Accordingly, understanding disability discrimination
+
+as another type of socially constructed bias, such as race-based or sex-based discrimination, makes it more likely that people will support disability rights.66 In this
+
+context, disability discrimination is the product of a society that refuses to
+
+accommodate and include disabled individuals.
+
+One might naturally question where the ADA fits with regard to these conceptual
+
+models. The medical model has traditionally been the dominant conceptual paradigm
+
+for understanding disability, but the ADA's passage in 1990 was generally seen as a
+
+60. JOHNSON, supranote 18, at 61 (observing that the "medical model positing the problem inthe individual and the right-wing anti-welfare ideology positing the problem in the individual seem to coincide here, although they come from different traditions"); F. Allan Hanson, Where HaveAll the Abnormal People Gone?,HUMANIST, Mar.-Apr. 2000, at 29.
+61. JOHNSON, supra note 18, at 61. Because the medical-model positing of disability problems in the individual is so similar to the view of those who oppose welfare, the conservative reading of disability has seemed intuitive to most people. Id. People tend to see disability "as a medical problem besetting an individual, or a moral problem inherent in someone who fakes and whines." Id.;ABCNews Special (ABC television broadcast, August 17, 1995) (juxtaposing the victim mentality ofdisabled persons with hardworking immigrants who earlier this century built America into the most successful and prosperous country in the world).
+62. Eichhom, supra note 29, at 599. 63. JOHNSON, supranote 18, at 27-28. 64. Id. at 30, 70-73; Stein, supra note 22, at 622, 671-73. See also JAEGER & BOWMAN, supranote 17, at 18 (noting the tendency ofpeople to dismiss disability as anything more than a medical issue); Harlan Hahn, FeministPerspectives,Disability,Sexuality,andLaw:New Issues
+andAgendas,4 S. CAL. REv. L. & WOMEN'S STUD. 97, 103 (1994). As an example of this point,
+see Jerry L. Mashaw, Against FirstPrinciples,31 SAN DIEGO L. REv. 211,233 (1994) (arguing that public policy ought to "clearly admit[] that the disabled are not as able as the able").
+65. Scotch, supra note 17, at 215; JOHNSON, supra note 18, at 23 1.
+66. JOHNSON, supranote 18, at 231.
+
+2008]
+
+WHEN DISABILITY ISN'T "JUSTRIGHT"
+
+conceptual departure from the medical model of disability.67 Instead of building on the
+
+assumption that people's physiological impairments were individual problems, the
+
+ADA illuminated the social dimension of disability by providing statutory recourse to
+
+acts of employment discrimination (Title I), mandating that public entities be
+
+accessible (Title II), and providing the right to accommodation (Title III). The ADA
+
+was explicitly intended to cover those who had been subjected to a history ofunequal treatment,based on physical characteristics beyond the control of such individuals. 68
+
+Under the ADA, the focus on disability did not involve scrutinizing disabilities and
+
+weighing severity. Rather, understanding this protected group was primarily about
+
+comprehending discrimination on
+
+that the
+
+many basis of
+
+diwsaebreilitye.6x9periencing
+
+unwarranted
+
+and irrational
+
+Viewing disability through a sociological lens also reconciles how Congress, in
+
+drafting
+
+the
+
+ADA,
+
+could
+
+have
+
+been
+
+addressing
+
+"a
+
+discrete
+
+and
+
+insular
+
+minority'
+
+7 0
+
+even
+
+though most ofus presently have one or more disability, or will become disabled in the future.7' What Congress appears to have understood was that those with physical
+
+impairments become a discrete and insular minority precisely because they are denied access and accommodation, and made to feel abnormal from the rest of society. 72 The
+
+experience of disability for these people is not about their impairment, but discrimination. 73 Thus, disability appears to have been understood by the ADA's framers as a term having sociological dimensions. 74 From this vantage point, the
+
+67. Rovner, supra note 22, at 1044; Miranda Oshige McGowan, Reconsidering the Americans with DisabilitiesAct, 35 GA. L. REv. 27, 62 (2000) ("[The ADA] reject[ed] the 'medical' model of disability in that none ofits provisions address[ed] rehabilitation."); seealso JOHNSON, supranote 18, at 173-74 (observing that the ADA was predicated on a social model of disability).
+68. See 42 U.S.C.  12101 (b) (describing the purposes of the ADA); JOHNSON, supra note 18, at 182-83.
+69. JOHNSON, supra note 18, at 182-83. As an analogue, Johnson observes that the Civil Rights Act of 1964 was not about the epistemic bounds of race or sex, but the reality of discrimination. Id. at 201.
+70. 42 U.S.C.  12101(a)(7) (2000). 71. This perspective is premised on the notion of a continuous spectrum that includes a wide range of ability and disability. RILEY, supra note 17, at 8. Under this conception of disability, the population is not split neatly into groups of disabled and nondisabled. Id. Rather, in this context, at any point in time, a person falls somewhere on the spectrum and overtime will
+move with inevitability toward the end that represents a greater degree of disability. Id. For example, one may presently have 20/20 eyesight, but in thirty years may need glasses, and in another thirty years, be legally blind.
+72. Mary Johnson observes that the ADA was intended for those individuals who had been
+subjected to a history of discriminatory treatment on the basis of disability. "That was [who] constituted the minority-not the type of disability; not the severity of disability; not the functional limitation it caused or how 'substantially' it'limited' any ofwhat could be concocted by bureaucrats as a 'major life activity'-but the [discriminatory] treatment by others." JOHNSON, supranote 18, at 182-183.
+73. Id.; see also supranote 51 and accompanying text (explaining how disability is largely constitutive of one's social context).
+74. This is even clearer from language in the ADA discussing those disabled as "faced with restrictions and limitations, subjected to a history ofpurposeful unequal treatment, and relegated to a position ofpolitical powerlessness in our society." 42 U.S.C.  12101 (a)(7). Significantly,
+
+INDIANA LA WJOURNAL
+
+[Vol. 83:181
+
+significance of disability, like race or sex, is not that someone might have a disability (or race or sex), but that its existence is a source of unwarranted and irrational bias in this culture.
+Despite the ADA's conceptual bent, a social view of disability has not taken root in America. The idea of disability as a social construct had not taken hold in the national consciousness when the ADA was signed; over fifteen years later, there has been little progress in that direction. 75 Rather, the medical model remains firmly entrenched, aided by the media and reflected in the recent decisions handed down by federal courts. And this entrenchment is not only academic. There are significant consequences to adopting one model of disability or another. In fact, popular and judicial opinions about protections for those with disabilities depend largely on how
+people conceptualize disability and the nature of problems faced by people with physical impairments.76 Indeed, one scholar has observed that the overarching
+disagreement regarding the ADA can rightly be characterized as a "clash of perspectives" about the meaning of disability. 77 The next Section will examine the medical model's entrenchment in the public sphere.
+
+B. Publicly: The Medical ParadigmofDisabilityReigns
+
+The distinction between the medical and social models is of paramount importance to an understanding of the media and disability. Nearly all the problems in the representation of people with disabilities can be traced to the imposition of the medical model ....
+
+The cultural representation ofpeople with disabilities affects our understanding of
+
+what itmeans to be allocation ofsocial
+
+human; in more practical terms, it resources, and the meaning of civil
+
+raifgfehctsts. 79public
+
+policy,
+
+the
+
+Despite the enactment of the ADA and years for disability advocates to advance
+their cause, the medical model ofdisability remains firmly ensconced in our culture's collective consciousness.80 This entrenchment in culture, and more specifically, in the
+media, has been important. Mass media representation of disability has a powerful
+
+the visible majority-from popular culture to federal judges-have interpreted disability inquite the opposite way. JOHNSON, supranote 18, at 174-75.
+75. See Rovner, supranote 22, at 1086. Rovner notes that although disability advocates invoked the language of civil rights leading up to passage of the ADA, the statute's "'major philosophical underpinnings ha[ve] never really entered the national consciousness."' Id. at 1087 (quoting JOHNSON, supranote 18, at 237).
+76. Scotch, supra note 17, at 214. 77. Id. at 213-14 (interpreting this "clash" as existing between the medical and sociopolitical models of disabilities). 78. RILEY, supra note 17, at 12. 79. JAEGER & BowMAN, supra note 17, at 95 (quoting Michael Berube, The Cultural RepresentationofPeoplewithDisabilitiesAffects UsAll, CHRON. HIGHEREDOUC., May 30, 1997,
+at B4-B5). 80. JOHNSON, supranote 18, at 237; RILEY, supranote 17, at 13 (noting that "examples of
+the medical model persistently dominate the mainstream press"); Crossley, supra note 18, at 653. ContraHanson, supranote 60, at 29 (arguing that the present uncertainty surrounding the terms used to refer to people with disabilities (e.g., handicapped, disabled, differently-abled, limited, challenged) is indicative that the medical model of disability is losing ground).
+
+2008]
+
+WHEN DISABILITY ISN'T "JUSTRIGHT"
+
+effect on how people understand disabled individuals. 81 Indeed, much of what we
+
+know about any given subject comes from what we see on television or in the movies.8 2 The predominance of the medical model of disability in the media has left
+many people with a jaded view of disability.83 Popular images and statements about
+
+disability have reinforced popular stereotypes and created inaccurate assumptions about what it means to be disabled.84 In particular, these representations have informed the perceptions of employers who must abide by the provisions of the ADA. 85 Thus,
+
+bsuuct halrseopriemspenlitcaittiloyndso(wonr pmlaisyrelpergeaslepnrtoattieocntiso)nnsoatvoanillayblienfoformr peaocpolnecewpittihondiosfadbiislaitbieilsit.y8,6
+
+The National Council on Disability has reported that "[n]egative impressions of the
+
+ADA fostered by media mischaracterizations have fostered widespread
+
+misunderstanding of the Act's purposes and vision.. .. "87 Moreover, the media's
+
+propagation of a medicalized image of disability has had negative effects in the areas
+
+of unemployment, of self-esteem."' 88
+
+health
+
+care,
+
+education,
+
+social
+
+policy,
+
+and
+
+"the
+
+unquantifiable
+
+factor
+
+81. JAEGER & BOWMAN, supra note 17, at 100; see generally RILEY, supra note 17 (examining the influence the media's portrayal of disability has on public perception); Cary LaCheen, Achy Breaky Pelvis, Lumber Lung and Juggler'sDespair: The Portrayalof the Americans with DisabilitiesAct on Television andRadio, 21 BERKELEY J. EMP. & LAB. L. 223, 223 (2000) (noting the power ofthe media "not just to reflect but to shape public opinion").
+82. LaCheen, supra note 81, at 223. 83. The media have played a critical role in aiding cultural hostility toward disability through reifying unexamined assumptions about disability. Ware, supra note 40, at 108. In particular, the medical model's grip on society has obscured cultural views on the morality of access and accommodation. JOHNSON, supranote 18, at 238; Scotch, supranote 17, at 219-20. 84. RuTH COLKER, THE DISABILITY PENDULUM: THE FIRST DECADEOF THEAMERICANS WITH DISABILITIES ACT 7 (2005); JAEGER & BOWMAN, supranote 17, at 100; RILEY, supranote 17, at xiv; SHAPIRO, supra note 44, at 30; SWITZER, supra note 41, at 40-43 (explaining how the media have pigeonholed people with disabilities into common stereotypes); RIGHTINGTHEADA, supra note 10, at 40. 85. Scotch, supra note 17, at 217. For example, the employment provisions of the ADA define a qualified person with a disability as one who can perform the essential functions of a job with or without reasonable accommodation. Id. Accordingly, "the perceptions and expectations associated with disability and work help to shape judgments about the capacity of persons with a disability to perform adequately within specific environments." Id. 86. "Opinions about the Americans with Disabilities Act depend to a large extent on how
+one defines disability and the nature of the problems faced by people who have disabilities." Scotch, supranote 17, at 214. As noted above, these definitions and understandings ofdisability are shaped largely by the media. See supranotes 78-82, and accompanying text. As an example, the cultural emphasis on finding a cure for disabilities neglects the current need disabled individuals have for access, accommodation, and non-discrimination-the very intent of the
+ADA. See infra Part I.B.2. 87. NAT'L COUNCIL ON DISABILITY, POLICY BRIEF SERIES: RIGHTING THE ADA, No. 5,
+NEGATIVE MEDIA PORTRAYALS OF THE ADA 5 (2003), available at http://www.ncd.gov/ newsroom/publications/pdf/negativemedia.pdf [hereinafter NEGATIVE MEDIA PORTRAYALS]; RIGHTING THE ADA, supra note 10, at 40 (observing that media characterizations have placed the ADA "in a highly unfavorable light and plac[ed] a negative 'spin' on the ADA, the court decisions interpreting it, and its impact on American society").
+88. RILEY, supra note 17, at 1.
+
+INDIANA LA WJOURNAL
+
+[Vol. 83:181
+
+Mary Johnson's book Make Them Go Away furthered the conversation about disability and the media a few years ago by identifying Clint Eastwood and
+Christopher Reeve as two controversial cultural markers of the discourse about disability.8 9 This Section will tread in her footsteps by further analyzing these and other well-known media representations of disability over the last decade. These representations are critical primarily because they have reinforced stereotypes
+predicated on the medical paradigm of disability.
+
+1. Clint Eastwood and his MillionDollarBaby
+
+Though not disabled, Clint Eastwood was one of the most outspoken and visible
+
+representations for how to view disability and the ADA at the turn of the twentieth century.90 After being sued for access violations 91 at the Mission Ranch Hotel he
+
+owned in California, Eastwood soon began to come after the ADA. Eastwood had
+
+spent $6.7 million remodeling his luxury hotel in Carmel, but had not ensured the bathrooms and parking lot were accessible for people with disabilities. 92 A patron with
+
+disabilities sued, claiming these restrooms were inaccessible and that the only accessible guest room cost more than double the price of other rooms in the hotel.93
+
+Eastwood ADA, but
+
+ultimately first spent
+
+l$o6s0t0a,n0d00wafisghotridnegretdhetolabwrisnugit.h9i4s
+
+hotel
+
+into
+
+compliance
+
+with
+
+the
+
+Eastwood's response to the lawsuit was to criticize the ADA by claiming it filled
+
+the pockets of attorneys, but did not help the disabled; he argued that the typical
+
+lawyer "drives off in a big Mercedes and the disabled person ends up riding off in a
+
+wheelchair." 95 Angered by the lawsuit, Eastwood went to Congress to lobby for a bill
+
+89. See generally JOHNSON, supranote 18. 90. Clint Eastwood stated he was not opposed to the ADA, but only certain provisions. However, for the purposes of this discussion, the important point is that he was perceivedas opposed to the ADA. 91. Eastwood was sued under Title III of the ADA, which requires businesses to make their goods and services accessible to those with disabilities. 92. SWITZER, supranote 41, at 2; James C. Harrington, Editorial, Even Movie StarsHave
+to Abide by the Law, SAN ANTONIO ExPREss-NEws, July 17, 2000, at 5B. 93. Lennard J.Davis, Why 'MillionDollarBaby 'Infuriates theDisabled,CHI. TRIB., Feb.
+2, 2005, at Tempo 1. 94. SWITZER, supra note 41, at 2; Diane Carman, Disabled v. Eastwood, Round Two,
+DENVER POST, January 30,2005, at C . The amount of money spent by Eastwood defending his
+case marks a disturbing trend identified by disability advocates: that some defendants who are sued under Title III would rather spend money fighting their suit than simply comply. SWITZER, supranote 41, at 130-31.
+95. Congress Hears Testimony on Adding New Notice Provision to Title 11 of ADA; EastwoodLeadsCharge, 17 DISABILITY COMPLIANCE BULLETIN, June 2000. It is unclear where Eastwood was getting his facts. Prior to making this statement, Eastwood had escaped any monetary liability to the plaintiff, despite a jury's affirmative finding of access violations.
+COLKER, supra note 84, at 17 1. Moreover, concerns over plaintiff's lawyers getting rich off the ADA are generally unfounded. SWITZER, supra note 41, at 129 (observing the results of one
+study that found when a disabled plaintiff suffered a serious physical injury because of faulty accessibility standards, the typical award was about $10,000). This is especially true in cases like the one brought against Eastwood, where the disabled person seeking accessibility has not suffered any serious physical injury. Id.
+
+2008]
+
+WHEN DISABILITY ISN'T "JUSTRIGHT"
+
+that, if passed, would have required a ninety-day notification by letter before a disabled patron could file suit.96 (Interestingly, Eastwood may well have received
+advance notification of the suit against him. The plaintiff alleged that he sent a
+certified letter to Eastwood regarding the violations and that Eastwood simply refused to sign for it.97) The plaintiff questioned why disabled persons should be the only class of persons required to send letters.98 African-Americans and women barred from
+facilities had never been required to send a letter to an entity in advance of suing them. 99
+Eastwood argued that ADA attorneys "cloak themselves under the guise they're
+doing a favor for the disabled when they are really doing a disservice," and later went so far as to assert that the ADA, as it existed, was harming disabled people. 0I 0 Eastwood argued the ADA amounted to "a form of extortion." 1'0 1 In his words, "everything is litigious and it's not fair. It's not fair to the disabled, and that's what I'm here for, is the disabled."'01 2 It is not exactly clear what he meant by any of these
+statements, especially regarding how the ADA was unfair to people with disabilities. But the significance of Eastwood's claims has less to do with the details of his
+complaints and more to do with the hodgepodge of messages he was sending to the
+public: the ADA is a failure; disabled people are getting more than they deserve; there
+
+96. SWITZER, supra note 41, at 2; Davis, supra note 93, at 1.This amendment would have weakened the ADA by encouraging noncompliance with a statute that was predicated on voluntary compliance. Harrington, supra note 92, at 5B; SWITZER, supranote 41, at 2 (citing a statement issued by the Clinton Administration that the proposed amendment would "unduly burden legitimate ADA enforcement activity" by undermining voluntary compliance). Accordingly, Harrington-director of the Texas Civil Rights Project in Austin-poses the following hypothetical: "Why should a grandmother who wants to go to a restaurant with her family or a husband who wants to go shopping for his ill wife have to give a 90-day notices before being assured they can use a facility that everyone else uses?" Harrington, supranote 92, at 5B. This type of criticism is consonant with other advocacy groups and commentators who argued at the time of the lawsuit that businesses with good intentions needed no special invitation to comply with a law passed by Congress and signed by the President nearly ten years ago. SWITZER, supra note 41, at 2; PR NEWSWIRE, NAPAS' Messageto DirtyHarry:Make our Day andLeave the ADA Alone, May 17, 2000 (arguing that "[a]nyone who truly cares about accessibility has had ample opportunity to find out what the [ADA] requires and to conform
+their conduct to the law"). 97. JOHNsoN, supranote 18, at 153 (explaining how consultant Fred Shotz reviewed the
+legal papers in Eastwood's case and concluded, for the Congressional hearing: "Clint Eastwood did not tell you about the certified letter that was sent to him-that he refused to sign for, and that got returned to the plaintiff's attorney. That, I believe, is called 'notice"'). However, Eastwood's claim in court papers and congressional testimony was that he was never notified in
+the first place. 98. SWITZER, supra note 41, at 2. 99. JOHNsoN, supranote 18, at 29; SWITZER, supra note 41, at 2.
+100. Hardballwith Chris Matthews: Americans with DisabilitiesAct at Center of New Controversy(MSNBC television broadcast, May 17,2000) [hereinafter Hardball].When asked about his approaching testimony before Congress (concerning the need to amend the ADA to give businesses ninety days to right their premises), Eastwood claimed "I'm just going to be here to help out, because I believe that this is harming disabled people." Id.
+101. Davis, supra note 93, at 1. 102. Hardball,supranote 100.
+
+INDIANA LA WJOURNAL
+
+[Vol. 83:181
+
+is no reason a private business like mine should be forced to accommodate disabled individuals. 0 3 Interestingly, Eastwood's comments were consistent with the medical paradigm of disability. First, he appeared publicly to ignore-and even downplay-the
+societal barriers (in this case, physical and attitudinal) that often constitute a person's experience of disability. Second, Eastwood's attitude regarding the ADA focused on the disabled individual. By alleging that the ADA amounted to extortion and was not fair, Eastwood implied that disabled individuals were getting something they did not deserve, and that the quality of their life experience was not his (or society's) responsibility.
+Though he repeatedly claimed he was not against the ADA, Eastwood had an effect on the public's views. As one commentator noted, "[p]eople don't want Dirty Harry telling them they're on the wrong side."'1 4 Disability activist and author Mary Johnson
+observes that it was hard at that time to find a celebrity, or anyone people knew, who wasfor disability rights. 105 The result was that people were hearing one side: the case against disability rights.
+The simple fact was that people knew Clint Eastwood, and his ADA fight got wide,
+and sympathetic, media coverage. In the days leading up to the Congressional hearing over the notification bill he supported, he appeared on the talk shows Crossfire and Hardball,and was covered in a FoxNews Special.106 Countless newspapers published his comments.10 7 In fact, Newsweek used the "Mercedes" quote on its "Perspectives" page. 108 This type of coverage allowed him to affect people's views on the ADA. Though he claimed to speak as a "common person," his involvement turned into the equivalent of a media slam.' 0 9
+A few years later, Eastwood again rocked the disability community with a movie that had the nation's attention. MillionDollarBaby"10 garnered mounds of awards'11
+
+103. See COLKER, supranote 84, at 7 (observing generally that the media barrage against the ADA caused people to think the statute was producing an "inappropriate windfall" for disabled plaintiffs); NEGATIVE MEDIA PORTRAYALS, supra note 87, at 9-12 (arguing that among the myths about disability perpetuated by the media are the myths that "It is too easy to qualify as having a disability under the ADA" and "The ADA permits fringe lawsuits by persons who should not be protected by the Act"). See generally LaCheen, supra note 81 (examining the negative messages the media sends about disability and the ADA).
+104. Howard Mintz, Eastwood Spared 'FisifulofDollars 'in Discrimination Verdict,KNIGHT RIDDER/TRIBUNE NEWS SERVICE, Sept. 30, 2000.
+105. JOHNSON, supranote 18, at 23. 106. Id.at 2 (citing Crossfire (CNN television broadcast, May 18, 2000); Hardball,supra note 100; Special Report, (Fox News television broadcast, May 18, 2000)). 107. E.g., Bob Dart, Eastwood to Congress:Make My Day,PALM BEACH POST, May 19,
+2000, at IA; Editorial, Nobles and Knaves, WASH. TIMES, May 20, 2000, at A 11; Maria A. Gaura, Eastwood in Court to Answer ADA Suit, S.F. CHRON., Sept. 20, 2000, at A] 9; Rafael Lorente, Eastwood Pleads for ADA Redress: Actor-Hotel Owner Says Lawyers Sue Indiscriminately,SUN-SENTINEL (South Florida), May 19,2000, at 3A; Mintz, supra note 104; Michelle Mittelstadt, Celebrities Use Star Power to Sway Policy on CapitolHill, DALLAS MORNING NEWS, May 20, 2000, at IA; Jim Vandehei, Clint Eastwood Saddles Up For
+Disability-ActShowdown, WALL ST. J., May 9, 2000, at A28;. 108. JOHNSON, supra note 18, at 2 (citing Perspectives,NEWSWEEK, May 29, 2000).
+109. Mittelstadt, supra note 107, at IA.
+110. MILLION DOLLAR BABY (Warner Brothers 2004). 111. On top ofcountless nominations, the movie won Golden Globes for Best Director and
+
+2008]
+
+WHEN DISABILITY ISN'T "JUSTRIGHT"
+
+and arguably broached the controversial idea that a disabled life is one not worth
+living. In the movie, the main character, Maggie (Hilary Swank) seeks out Frankie
+(Clint Eastwood) to train her to become a championship boxer. Maggie has had a
+difficult life, but is determined to be a success in something. Frankie initially refuses to train a female boxer, but Maggie's persistence wins him over and he agrees to be her
+coach. Under his tutelage, she becomes an unbeatable boxer-until she breaks her neck in a fight and becomes a quadriplegic. At that point, Maggie soon gives up her
+will to live and begs to be euthanized by Frankie. She compares herself to a sick dog
+that needs to be taken out into the woods and shot. After some time spent agonizing
+over the request, Frankie unplugs her ventilator and injects an overdose of adrenaline
+into her IV.
+Though there are many profound messages in this movie, one possible takeaway is
+troubling: Certain disabilities, like those experienced by a quadriplegic, make life not worth living." 2 Disability activists worry that this movie sends a dangerous message about the intrinsic worth of people with disabilities.' 13 They argue that a disabled
+individual's desire to end her life typically stems from depression, lack of access to pain medication, or the sense that she is a burden to others. 1 4 These activists are
+concerned that the message in Million DollarBaby obscures the reality that there are options other than death for a person in Maggie's situation."15
+Many film critics have defended the movie for its artistic worth, 1 6 and Eastwood himself stated that one does not "have to like incest to watch Hamlet." 17 However,
+parts of the disability community recalled Eastwood's Mission Ranch lawsuit and
+found his subsequent involvement in MillionDollarBaby to be less about art and more about an agenda. " 8 For example, shortly after the movie opened, the National Spinal
+
+Best Actress and won Oscars for Best Picture, Best Supporting Actor, Best Actress, and Best
+Director.
+112. One Chicago-based activist group "Not Dead Yet" has worried that the movie "gives emotional life to the 'better dead than disabled' mindset lurking inthe heart of the typical (read:
+nondisabled) audience member." Sharon Waxman, Groups Criticize 'Baby'forMessage on Suicide, N.Y. TIMES, Jan. 31, 2005, at El. Marcie Roth, executive director of the National Spinal Cord Injury Association, said that Million DollarBaby perpetuates the exact message that her organization works hard to dispel. David Germain, Critics EnterRing Against Eastwood Over DarkPlot Twist in 'Baby,' Assoc. PRESS, Feb. 4,2005.
+113. Susan LoTempio, EastwoodDeliversBlow to UnderstandingsofDisabilities,BUFFALO NEWS, Feb. 13,2005, at H 1;Dianne Williamson, EastwoodFilmEndingDisquieting; 'Baby'a Story About One Woman 's Choice, WORCESTER TELEGRAM &GAZETTE, Feb. 1, 2005, at B 1.
+114. SWITZER, supranote 41, at 150. 115. Laura Hershey, a Denver disability-rights activist, claims that instead of offering the disabled assisted suicide, they should be offered helpful solutions. Carman, supranote 94, at Cl. In Maggie's situation, these solutions might have included counseling or some other means of helping her deal with her depression. Davis, supranote 93, at 1.Other options might have included occupational therapy and physical therapy. Ann Neville-Jan, Life's Worth Morethana Million, SAN GABRIEL VALLEY TRIB., Feb. 6, 2005. 116. See, e.g., Roger Ebert, Telling Tales, TIMES UNION (Albany, N.Y.), Feb. 3,2003, at P38 ("A movie is not good or bad because ofits content, but because of how it handles its content."). Another critic defended the movie by arguing that more than being prescriptive, the film is telling a story of one particular woman and the decision she makes in her particular context. David Edelstein, Beating Up Baby, SLATE, Jan. 26, 2005, http://www.slate.com/id/2112695/. 117. Waxman, supra note 112, at El (quoting Clint Eastwood). 118. Eastwood insisted there was no agenda, hidden or otherwise. "I'm just telling a story,"
+
+INDIANA LA WJOURNAL
+
+[Vol. 83:181
+
+Cord Injury Association issued a press release entitled Eastwood Continues Vendetta
+
+with 'Million Dollar Baby,' in which they alleged that Eastwood's current movie was simply a continuation of an assault against the ADA begun years ago.1 19 Others did not
+
+accept the connection that Eastwood was getting revenge for the previous ADA litigation.' 20
+
+Yet, perhaps as before with Eastwood's comments regarding disability and the
+
+ADA, motives are irrelevant. Indeed, the efforts by commentators to bifurcate art and advocacy'21miss the reality of how the two often overlap. Movies are different than a
+
+piece of culturally abstract art; such productions are often a critical source of information for people.' 22 Accordingly, there must be some responsibility in taking on
+
+subjects as important as those contained in MillionDollarBaby; 123though difficult to
+
+quantify, the message a worth-affects the public
+
+movie and its
+
+lvikieewtsh.'is24sends-regardless
+
+of motives
+
+or artistic
+
+Million DollarBaby reflected and reinforced a medicalized view ofdisability. After
+
+Maggie's paralyzing accident, the movie shifted from its focus on her background,
+
+determination, and tenacity to a strict focus on her physiological impairment As noted
+
+earlier, the medical view of disability advances medical solutions for medical
+
+problems. In this movie, the "solution" for Maggie's quadriplegia was euthanasia.
+
+There was no mention of psychological counseling to aid with her transition back to
+
+society. There was no exploration of the social pressures she would have faced as a
+
+quadriplegic. There was only a medical solution for a medical problem. Such a script
+
+risks implying that disability is misery, that there is no need to bother with attempting
+
+to improve living. The
+
+ma deisssaabgleedisp"e[rts]ohner'se'slifaen, 1e25aasyndwtahyatomuta."n'y126disabilities
+
+make
+
+life
+
+not
+
+worth
+
+2. "We Must Find a Cure": Christopher Reeve and the Jerry Lewis Telethon
+
+Though Eastwood's "media slam" and Million DollarBaby were widely perceived by people with disabilities as offensive, other representations ofdisability have yielded a more complex result. In particular, Christopher Reeve and the Jerry Lewis Telethon have been two of the most well-known media representations of disability and have
+
+he explained. "Idon't advocate. I'm playing a part. I've gone around in movies blowing people away with a .44 magnum. But that doesn't mean I think that's aproper thing to do." Chris Lee, 'Baby'PlotTwistsAngers Activists;A GroupAlleges that the Movie is Partofa 'Vendetta 'by Eastwood,L.A. TIMES, Jan. 27, 2005, at E5; but see Davis, supra note 93, at 1 (expressing skepticism about Eastwood's status as "an impartial artist," in light of the fact that he chose, directed, produced, and acted in the film).
+119. Lee, supranote 118, at E5. 120. Edelstein, supra note 116. 121. See, e.g., Editorial, Fictionon Film;Some 'Million DollarBaby' CriticsForgethe Role of Art, CHARLOTTE OBSERVER, Mar. 1, 2005, at IOA (observing that the public too easily confuses the distinct roles of art and advocacy). 122. COLIN BARNES & GEOF MERCER, DISABILITY 99 (2003); Davis, supra note 93, at 1; Mintz, supranote 104.
+123. James J. Murtagh, Op-Ed., MisleadingMillions, N.Y. SUN, Mar. 3, 2005, at 9. 124. See id. 125. Mary Johnson, 'Million Dollar Baby' Cheap Shot at Disabled, SEATrLE POSTINTELLIGENCER, Feb. 24, 2005, at B7. 126. Id. (quoting attorney Harriet McBryde Johnson).
+
+2008]
+
+WHEN DISABILITY ISN'T "JUSTRIGHT"
+
+greatly informed people's understanding of disability; each has been an influential
+
+advocate in the public domain. But advocates to what end? And what messages have
+
+they sent regarding disability?
+
+For decades the medical model of disability has survived in the Jerry Lewis
+
+Telethon, "the primary source of media exposure to disability for most non-disabled Americans. ''127 And for decades this fundraiser has been criticized for portraying
+
+people with disabilities as objects of pity. 128 This 21 1/2 hour media blitz held each
+
+year on Labor Day raises funds for the
+
+features research
+
+ocefltehberiMtieusscaunldarsiDmyuslttraonpehoyusAlyssoencitaertitoainn.s1,29informs,
+
+and
+
+The Telethon has reinforced the medical paradigm of disability by focusing on the physiological condition of disability.1 30 It has also created and shaped one of two
+
+predominant roles under the medical model of disability-the "pitiable poster
+
+child."'13 1 The poster child role has mainstream acceptance in society because it is
+
+comfortable for those without disabilities. Instead of having to abandon stereotypes
+
+and think of disabled people as contributing members of society, this role allows a non-disabled person to simply write a check. 132 When disability is represented in this
+
+way, it sends the subtle message that disability "is best remedied through treating the
+
+individual . . . rather than through reforming societal institutions."'133 (Of course,
+
+helping individuals and remedying societal discrimination are not mutually exclusive
+
+127. RILEY, supra note 17, at 13; see also JAMES I. CHARLTON, NOTHING ABOUT US WITHOUT Us: DISABILITY OPPRESSION AND EMPOWERMENT 35 (1998) (observing that surveys have shown that more people form attitudes about disabilities from telethons than any other source); Steven Tingus, TelethonBroadcaststhe Wrong Message,DENVERPOST, Sept. 4,2000, at B 10 (calling the Telethon "the nation's most visible disability event"); Michael Volkman, Telethons Wring Cash and Emotions, TIMES UNION (Albany, N.Y.), Aug. 27, 2000, at B I (observing that telethons have enormous power to shape people's views of disability since they are seen by hundreds of millions of people). Moreover,
+[I]t can be very hard to understand disability if one has neither experienced a disability nor has been close to someone who has a disability.... Astoundingly, many people in the United States form their attitudes about disability based on the portrayals of persons with disabilities in telethons and other charitable functions. JAEGER & BOwMAN, supra note 17, at 18. 128. See, e.g., Albin Krebs & Robert M. Thomas, 'Kids 'Called Miscast,N.Y. TIMES, Aug. 26, 1981, at C24 (reciting a statement from disability activists that the "emphasis on 'Jerry's kids'--pale, wan, brave but probably doomed-has helped create a stereotype of disabled persons and led to wrong public policies"). Though the Telethon focuses only on the MDA
+cause, whatever it conveys sends a message about all people with disabilities. Stephen J. Taylor, MDA Unleashes Onslaught:The JerryLewis MuscularDystrophy LaborDay Telethon, POSTSTANDARD (Syracuse, N.Y.), Sept. 3, 1993, at A13.
+129. Muscular Dystrophy Association Telethon, http://www.mdausa.org/telethon. 130. Professor Charles A. Riley II has noted that productions like the Telethon have "an inherent medical bent" and perpetuate the tendency to "consign disability to an issue of the body." RILEY, supra note 17, at 13-14. 131. See id.at 110-12 (discussing the "invention" and history ofthe disabled poster child to generate funds for national disability charities). 132. Yvonne Duffy, Is it Time for Jerry's 'Kids'toEmcee?, CHI. TRIB., Aug. 31, 1993, at N15. 133. Samuel R. Bagenstos, ComparativeDisabilityEmployment Law from an American Perspective,24 COMp. LAB. L. & POL'Y J. 649, 659 (2003).
+
+INDIANA LA WJOURNAL
+
+[Vol. 83:181
+
+goals.) The concern is that childlike, and desperately in
+
+the Telethon need of help.'
+
+3s4tigmatizes
+
+disabled
+
+people
+
+as
+
+crippled,
+
+In the context of the Telethon, the medical model of disability is repackaged as a
+
+type
+
+of
+
+"charity
+
+model."'
+
+13 5
+
+From
+
+this
+
+conceptual
+
+angle,
+
+to be
+
+disabled
+
+is
+
+to
+
+be
+
+in need
+
+of a cure. In the case ofthe Telethon, pity and paternalism are readily apparent at the
+
+outset, given the designation of anyone with muscular dystrophy as one of "Jerry's kids."'136 One subtle message sent by this label is that all people with disabilities are
+
+helpless and childlike, requiring someone else to decide what they need and provide it for them.' 37 The Telethon also sends this message by focusing on children as
+
+exemplars of people with disabilities.'3 8 Even the rhetoric of disability in the Telethon
+
+has reified stereotypes based on pity and paternalism. A former "Jerry's kid" writes:
+
+"Speaking of 'the dystrophic child's plight,' or calling disability a 'curse' reinforces
+
+the offensive stereotype that hand' and 'got in the wrong
+
+we are victims .... Similarly, phrases line' are unfair. Disability is not 'bad'
+
+like or
+
+''wderoalntg.a""ba3d9
+
+Accordingly, critics have claimed that the Telethon represents disabled individuals as
+
+tragic victims in need of charity.' 40 From this characterization, a couple of related
+
+concerns emerge.
+
+134. CHARLTON, supranote 127, at 35 (observing that telethons are "for" disabled people"especially, poor, pathetic, crippled children").
+135. See MARTA RUSSELL, BEYOND RAMPS: DISABILITY AT THE END OF THE SOCIAL CONTRACT 86 (1998); JAEGER & BOWMAN, supranote 17, at 15 (explaining that the medical language of disability quickly became the social language of disempowerment).
+136. RUSSELL, supra note 135, at 85-86 ("Disabled people do not want to be called 'kids' any more than a black man wants to be called 'boy."'); Volkman, supra note 127, at Bl; PrimetimeLive (ABC television broadcast, Sept. 3, 1992) [hereinafter Primetime].
+137. Volkman, supra note 127, atBl. 138. Jonathan C. Drimmer, Cripples,Overcomers,andCivilRights: TracingtheEvolution of FederalLegislationandSocial Policyfor People with Disabilities,40 UCLA L. REv. 1341, 1352 n.42 (1993). The disabled adult is lost in the all-consuming focus on disabled children. For example, people with disabilities are rarely referred to as Mr., Ms., or Mrs., but only by their first names. Id. Moreover, rarely are the images of disability focused on working adults who need money to assist them in their day-to-day living expenses. Id. 139. Ben Mattlin, Op-Ed., An Open Letter to Jerry Lewis: The DisabledNeedDignity, Not Pity, L.A. TIMES, Sept. 1, 1991, at M3. Moreover, language such as "wheelchair-bound" feeds the medical paradigm of disability by creating the perception of an individual that is based solely on one's disability. SWITZER, supra note 41, at 11. To be fair, the Telethon has not been alone in exemplifying such linguistic deficiencies. Even well-respected publications, such as the New York Times, have allowed similar phrasings to "slip through the cracks every year." RILEY, supranote 17, at 50-51. Professor Charles Riley II has shown that according to its own Web site search engine, the Times has been a chronic disability offender, regularly employing phrases like "wheelchair-bound" and "confined to a wheelchair." Id. 140. E.g., LINDA HAMILTON KRIEGER, BACKLASH AGAINST THE ADA: REINTERPRETING DISABILITY RIGHTS 29 (2003); Harlan Hahn,Accommodations andtheADA: UnreasonableBias or BiasedReasoning?, 21 BERKELEY J. EMP. & LAB. L. 166, 169 (2000); Susan Harrigan, ControversyHits Lewis Telethon; Comic Stereotypes theDisabled,Critics Say, WASH. POST, Sept. 1, 1992, at B3; Susan Plese, DespiteObstacles,A PlaceofHer Own, HARTFORD COuRANT, Jan. 26, 1995, at 3 ("When I was 16 most of what I knew about my future came from the Jerry Lewis Telethon," she said. "I thought I would die real soon because that's what they teach you."); Joseph Shapiro, Disabling 'Jerry'sKids', U.S. NEWS AND WORLD REPORT, Sept. 14, 1992, at 39; Tingus, supranote 127, at BI0; Primetime,supra note 136.
+
+2008]
+
+WHEN DISABILITY ISN'T "JUSTRIGHT"
+
+The first concern is that such images reinforce the discriminatory notion that disabled people must have their needs met through charity, rather than through the enforcement of their own rights. 14 1 In this context, the Telethon (or a Telethon-like event) enables non-disabled persons to disengage from deconstructing their own potential discriminatory views by making a financial donation. 42 One scholar has observed that such "[p]olicies and programs[, which are] based on pity[,] are [seen by the public as] acceptable because they make disabled people nonthreatening.' ' 43 Such paternalism has been criticized as an example of how non-disabled individuals are able
+to dominate the discourse about disability with "implicitly patronizing sentiments" and a "slight tone of condescension." 144 The second concern is that it is difficult to feel pity for people with disabilities and also view them as having the same entitlement to rights as people without disabilities. 145 Accordingly, some scholars have noted that where
+such charity and paternalism are present, people are discouraged from wholly accepting others with disabilities-a necessary prerequisite for their integration into America's social fabric.' 46 Former chairman of the Equal Employment Opportunity
+Commission (EEOC) Evan Kemp Jr.-who is himself disabled-observed that these stereotypes are perpetuated by the Telethon and actually increase discrimination. 147 He
+qthueeTsteiolentehdonwphyoretrmaypelodyethrsemwoauslhdehlpirleesdsi.s1a4b8led people when admired public figures on
+
+141. Lisa Eichhom, MajorLitigationActivitiesRegardingMajorLifeActivities: TheFailure
+ofthe "Disability"Definitionin the Americans with DisabilitiesAct of 1990, 77 N.C. L. REV. 1405, 1417 (1999).
+142. See Duffy, supra note 132, atNl5. 143. O'BRIEN, supranote 41, at 12. 144. Hahn, supranote 140, at 181.
+145. Rebecca Nappi, Reeve's HelpforDisabledHadlts Limits, SPOKESMAN REv. (Spokane, Wash.), Nov. 6, 2004, at B1 (quoting Marshall Mitchell, who teaches disability studies at Washington State University); seealso Rovner,supranote 22, at 1043-45 (observing that under the "medical" model of disability, the characterization ofpeople with disabilities as incapable and dependent is a set-up for social and economic isolation).
+146. Eichhom, supranote 141, at 1417; see Stein, supranote 22, at 625-26 (observing that recognizing disabled persons as equal "requires a general transformation in social attitudes, most especially acknowledgement of disability rights as rights rather than as a product of goodwill"). SeegenerallyHahn,supranote 140, at 181-82 (noting that in many respects, "paternalism may be an even more formidable obstacle in the struggle for equality than direct conflict or hostility" and discussing the "hegemony ofpaternalism").
+147. See Evan Kemp Jr., Aiding the Disabled:No Pity,Please,N.Y. TIMES, Sept. 3, 198 1,at A19; Harrigan, supra note 140, at B3; Primetime,supra note 136. Significantly, Kemp was quite knowledgeable about the subject ofhis critique because his parents were part of the group that founded the Muscular Dystrophy Association and later put together the first telethon. SHAPIRO, supra note 44, at 20-21.
+148. Harrigan, supra note 140, at B3; Primetime,supranote 136; see also Shapiro, supra note 140, at 39 (quoting one critic who called the Telethon "a relic of an era when disabled people were thought to need charity, not integration into everyday life"). Accordingly, David
+Engel and Frank Munger--drawing on the centrality of work to a person's identity-have
+observed that the identities of persons with disabilities are typically "spoiled" by the
+presumption that they are incapable ofwork. DAVID M. ENGEL & FRANK W. MUNGER, RIGHTS
+OF INCLUSION: LAW AND IDENTITY IN THE LIFE STORIES OF AMERICANS WITH DISABILITIES 114
+(2003). They note that those who are unable to work are typically seen as persons who are not
+
+INDIANA LAW JOURNAL
+
+[Vol. 83:181
+
+Some critics speculate that this annual fundraiser has been allowed to play on
+
+stereotypes in part because ofits ability to generate huge contributions for research and treatment. 149 And given some of the Telethon's supporters' defenses, this "ends justify
+
+the means" rationale must be at work. Consider the title of one Telethon apologist's
+
+editorial: Answering Lewis' Critics American People Pledged 45.1M During Telethon.'50 Most critics have responded that the forfeiture of dignity and public
+
+misperceptions about disability resulting from the Telethon are far more important
+
+than raising money for research.151 Critics claim there is a false mutual exclusivity in
+
+the assumption that fundraisers will either be successful or not based solely on whether people with disabilities are portrayed as objects of pity.152
+
+Another troubling aspect of the charity/medical model, as it is incorporated in the
+
+Telethon, is the representation of disability as desperately requiring a cure. Attempting
+
+to find a cure for disabilities is certainly not per se detrimental. In fact, seeking a cure
+
+for certain disabilities is quite reasonable since many will die from their respective
+
+disabilities if a cure is not found. This is especially the case with muscular dystrophy.
+
+In short, seeking a cure need not be counterproductive. However, overemphasizing the
+
+need for a cure-while simultaneously neglecting the social dimension of disability-
+
+is damaging. To avoid sending the negative messages illuminated in this Article, there
+
+must be sensitivity in the manner in which a cure is sought. Disability advocates have requested that more emphasis be placed on improving disabled people's lives. 153They
+
+argue that the relative (over)emphasis the elimination of the impairment is
+
+on finding a cure the appropriate
+
+sroeilnuftioorncetsothbeepinrgesudmispatbiolendt;h' a54t
+
+entitled to the full respect due an adult citizen; instead, they are seen as marginal and dependent
+on others. Id. at 116.
+149. RILEY, supra note 17, at 13-14; Marta Russell, Letter to the Editor, JerryLewis' MD
+Telethon, L.A. TIMES, Sept. 12, 1991, at B6 ("As for the money raised... dignity is not for sale.").
+150. Robert Ross, Answering Lewis' Critics American People Pledged 45.IM During Telethon, POST-STANDARD (Syracuse, N.Y.), Sept. 14, 1991, at A7 (summarily claiming thatthe money raised is a response to critics of the Telethon).
+151. Drimmer, supra note 138, at 1352 n.42 (arguing that "the forfeiture of dignity and
+continued oppression of a struggling minority" is not worth the money raised for research); Duffy, supra note 132, at N 15 (arguing that telethon payments allow non-disabled persons to disengage from their discriminatory views); Tingus, supranote 127, at B10 (arguing thatthe net benefits of the Telethon's fundraising for medical research are dwarfed by the overall damage done to the struggle for independence and respect by people with disabilities); Primetimesupra note 136 (explaining that though critics acknowledge all that Lewis has done, especially the
+billion dollars he has raised, they conclude that "this kind of charity costs them too much"). Additionally, critics have decried the Telethon's implicit approach of making the non-disabled audience feel guilty for being "normal," inorder to encourage donations. RUSSELL, supranote
+135, at 85. 152. One disability advocate has observed that both the National Easter Seal Society and
+United Cerebral Palsy Association have junked the pity approach for their telethons. SHAPIRO, supra note 44, at 24. And in the case of the Easter Seal Telethon, its numbers increased from $23 million in 1985 to $42 million in 1992, disproving the idea that a telethon must focus on portraying those with disabilities ina childlike and helpless manner. Id. Still, some critics have argued that no telethon is a good telethon as any will still have overtones that divide the world into the "lucky" and "unlucky," "them" and "us." Id.
+153. Harrigan, supranote 140, at B3.
+154. Hahn, supra note 140, at 169.
+
+2008]
+
+WHEN DISABILITY ISN'T "JUSTRIGHT"
+
+hdoiswabevleedr,pweoitphleouftacae.c1h5a5nge in attitudes, a "cure" will not fix most of the problems
+
+This is where fundraising efforts like the Telethon encounter a fundamental catch-
+
+22.156 In order to raise money, the Telethon overemphasizes the need for a cure. But in
+
+doing so, it sends the message that anyone with a disability should not be content with
+
+her current condition. The subtle message is that disability is unacceptable; a cure must be found.157 Thus, the conundrum: finding a way to encourage generous contributions
+
+like those the Telethon has received over the years, "without resorting to the timetested pity and fear tactics that the medical model provides."',5 8 As previously
+
+mentioned, critics insist this is a false tension and that money could be raised without
+
+portraying those with disabilities in such a paternalistic manner. Susan G. Komen for
+
+the Cure and its non-paternalistic
+
+ofnugnodirnagisifnigghatnadgaadinvsotcbarceya.s1t59cancer
+
+may
+
+provide
+
+a
+
+good
+
+model
+
+for
+
+Still, the Telethon has continued to characterize disabled people with great pity and charity. 160 Accordingly, the Telethon has been accused of sending the message that a life disabled is not one worth living by its inordinate focus on finding a cure.' 61 These
+
+sentiments have at times been communicated in even more explicit terms. Evan Kemp
+
+had this to say about the Telethon: "Pity and compassion are close, but there's a
+
+distinction. Last year Jerry Lewis said that if he found out he had Lou Gehrig's
+
+disease, he'd shoot himself. That's wrong. I know many people with this disease who are leading productive lives. . . [t]hey shouldn't be stigmatized.' 62
+
+155. Duffy, supranote 132, at N15 ("To say that a cure is the answer is not only dishonest but perpetuates the myth that we need cures more than decent housing or jobs.").
+156. See Alan Cullison, Survey Shows MostAmericans FeelAwkwardAroundtheDisabled, HARTFORD COURANT, Sept. 11, 1991, at A3.
+157. Volkman, supranote 127, at B1; see RUSSELL, supranote 135, at 87. 158. RILEY, supranote 17, at 14; see SHAPIRO, supranote 44, at 23 (posing the quandary as whether or not MDA officials listen to their critics and sacrifice what is seemingly the most effective money-making pitch). 159. See WIKIPEDIA, Susan G. Komen for the Cure, http://en.wikipedia.org/wiki/ SusanG._Komen for theCure. 160. Lewis appears to continue to defend such pity tactics. When disability activists recently protested at one of his engagements, Lewis responded by denouncing them and storming offthe stage. According to a recording made by an audience member, he reacted with the following question: "They want me to stop the telethon because I make them look pitiful, what is more pitiful than this?" E.A. Torriero, Foes of Lewis Telethon Most Uncharitable; Comedian is
+Scornful ofActivist Criticsas He Preparesfor 40'h Annual MuscularDystrophy Fundraiser,
+Ch-. TRIB., Sept. 3, 2006, at C4 (documenting how Lewis is still hounded by disabled activists contending that the show is designed to evoke pity, rather than empower the disabled).
+161. See Dianne B.Piastro, Living With a Disability,ST. LOUIs POsT-DSPATCH, Sept. 29, 1990, at D3; Shapiro, supranote 140, at 39 (observing that MDA Executive Director Robert Ross has called living with a disability "cruel, horrible and a despicable fate"); Primetime,supra note 136 (quoting former Jerry's Kid Ben Mattlin, who felt that he was paraded across the stage "as a worst-case scenario, a fate worse than death").
+162. Ken Adelman, Rolling Thunder; Evan Kemp Gets the Law Behind the Only Minority Group Open to All Interview, WASHINGTONIAN, July 1992. During the 1991 Telethon, Lewis said that someone diagnosed with amyotrophic lateral sclerosis (also known as Lou Gehrig's disease) "might as well put a gun in (their) mouth." Anthony Moser, PastPrime Time, ARK. DEMOCRAT-GAZETI-E, Sept. 13, 1995, at F1.
+
+INDIANA LAW JOURNAL
+
+[Vol. 83:181
+
+In sum, there are two general concerns that stem from the Telethon's representation
+
+of the charity/medical model of disability. stereotypes mislead the public about what
+
+One concern is that it means to actually
+
+hthaeve"oabjdeicstaboiflitpyi.ty16"3
+
+Disabled people are stigmatized as crippled, sickly people-the kind that no rational
+
+employer would want to hire. One result ofthese false perceptions is the increase in
+
+discrimination noted by Kemp, former chairman of the EEOC. A second concern is
+
+that these characterizations create a self-fulfilling prophecy for individuals with
+
+disabilities.164 For example, ifdisabled people continually hear that they are unable to
+
+work and have productive lives, they will eventually start to believe it. The Jerry
+
+Lewis Telethon has succeeded at raising money to fund research and treatment, but has
+
+simultaneously failed finding a cure. 166
+
+disabled
+
+people
+
+through
+
+its
+
+emphases
+
+on
+
+pity,
+
+paternalism,
+
+and
+
+After years of disappointments associated with the Telethon, one clear hope for the
+
+disability community emerged in 1995.167 His name was Christopher Reeve. An actor
+
+most notable for his role as Superman, Reeve became a quadriplegic through an
+
+equestrian accident. Reeve was immediately perceived by the disabled community as
+
+someone who would represent strength, dignity, and hope to a public inundated with
+
+false stereotypes.' 68 The disabled community had never had a leader like Martin Luther King, Jr. who could rally America for its cause; 169 thus, people with disabilities
+
+hoped Reeve would become that kind of public advocate. As the media began to
+
+shower Reeve with attention, he soon became a prominent image in people's minds
+
+163. Russell, supranote 149, at B6; Volkman, supranote 127, at B1. 164. &JAEGER BOWMAN, supra note 17, at 20 (observing that stereotypes about disability
+quickly become self-fulfilling prophecies); Tingus, supranote 127, at B 10 ("Thinking ofoneself as incomplete or, even worse, as broken, serves no purpose but to internalize the inadequacy society regularly ascribes to us."); see also Marilyn Dahl, The Role ofthe Media in Promoting Images of Disability-Disabilityas Metaphor The Evil Crip, 18 CAN. J. COMM. 75, 78 (1993) (explaining that self-identity is formed in part by what is communicated in the media).
+165. James Charlton takes this idea one step further, explaining how people with disabilities are oppressed when told by the dominant culture what they cannot do. CHARLTON, supra note 127, at 35. He notes that this type of limiting language "has a profound influence on
+consciousness." Id. 166. One activist is left with this question: Why do print and electronic media outlets remain transfixed by the medical
+miracle rather than the human-rights story? How does the old paternalism, the poster-child mentality, manage to hang on? When will they balance mental and physical disability? Why can't press exposure lead to higher employment levels for people with disabilities? How does the cycle of pity renew itself in the nonprofit world (when will the annual black-tie balls give way to yearlong enabling programs)? RILEY, supra note 17, at xiii. 167. See JOHNSON, supra note 18, at 131 (observing that disability rights activists hoped that someday someone with celebrity status would begin to champion disability rights). 168. Id. 169. SWITZER, supra note 41, at 69; JOHNSON, supra note 18, at 23. The other various campaigns for civil rights had been informed by many well-recognized and outspoken voices, including the Reverend Jesse Jackson and Gloria Steinem. Id. However, there had been no "name" to help publicize the disability rights movement. Id.
+
+2008]
+
+WHEN DISABILITY ISN'T "JUSTRIGHT"
+
+when they thought of disability. 7  Indeed, most people and the media were soon taking their cues from him about what was important to disabled people.'7 1
+
+Although Reeve was perhaps "the most famous disabled person since [Franklin D.] Roosevelt," he did not help the ADA's cause.1 72 His representations in the media
+
+reinforced a medicalized version of disability and typically ignored the social issues
+
+faced by people with disabilities. In fact, Laura Rovner observed that Reeve explicitly
+
+rejected the social view of disability and the disability rights movement by choosing to
+
+focus his efforts on finding a cure for his disability. 173 He told one reporter, "People
+
+say to me 'why don't you give up on that [cure business] and work for better
+
+conditions for people with disabilities? Work harder for the ADA, bring up people on
+
+charges who fail to meet the access codes?' I can't do both effectively, in my
+
+opinion." 174 Rovner comments, "This wholesale rejection ofthe socio-political model
+
+of disability and the embracing of the medical model of disability by arguably the
+
+nation's most well-known of disability as a personal,
+
+disabled medical
+
+figure did condition
+
+mrauthcehrtothfaunrtahesor ceinettraelnocnhes."o''c7i5ety's
+
+view
+
+Sometimes this focus on the medical aspects of disability appeared to be the choice
+
+ofthe media forum. For example, when The New Yorker ran its eleven-page feature on
+
+Christopher Reeve, it was printed under the section heading of the "Annals of Medicine.' 76 The article then proceeded to do justice to the medical paradigm by the
+
+amount of space devoted to dramatizing the physical accident 177 and detailing Reeve's
+
+disabled physiology.17 8 Charles A. Riley II has observed that disability advocates were
+
+correct to deplore this "knee-jerk medicalization of Reeve"--especially when an
+
+alternative 7c9haracterization by The New Yorker would have made a significant statement.
+
+At other times, Reeve himself facilitated a medicalized view of disability by his
+
+asymmetric focus on finding a cure. This, above all, angered disability activists who
+
+viewed Reeve's inordinate focus on finding a cure as consistent with the oft-implied idea that living with a disability is a fate worse than death.' 80 This latter idea
+
+170. JOHNSON, supranote 18, at 129 (noting that Reeve was selected to address the 1996 Democratic National Convention and honored as one ofPeoplemagazine's "25 Most Intriguing People").
+171. Id. at 131. 172. Id.at 129. 173. Rovner, supranote 22, at 1088 n.253. 174. Id. (quoting Sam Maddox, Christopher Reeve: Making Sense Out of Chaos, NEW MOBILITY, Aug. 1996).
+175. Id.
+176. RILEY, supranote 17, at 58-59 (observing that immediately with the Reeve article, one isin "the realm of'medicalization,' the pigeonhole to which the representation of disability has been confined for centuries").
+177. Id.at 63 (arguing that "in terms of the medicalization syndrome," the portion of the article devoted to dramatizing the accident "just plunges the reader further into a view ofReeve as a body on a gurney").
+178. Id.at 63-64 (observing that this portion of the article further reinscribes the medical model of disability and ends up "way out of bounds," given the direction of the article).
+179. Id.at60.
+180. SWITZER, supranote 41, at 154-55 ("Although Jack Kevorkian undoubtedly is one of the most despised and cursed individuals by many disability rights activists, he shares that distinction with Christopher Reeve."); see Kathi Wolfe, DisabilityPolitics;I MayBe Blind,But
+
+INDIANA LA WJOURNAL
+
+[Vol. 83:181
+
+inadvertently surfaced in thoughts of suicide and
+
+early interviews recognizing that
+
+where Reeve he was still
+
+hduismcaunsseadftehrishisstruagcgcildesenwt.i't8h'
+
+Intermittent with these sobering confessions was his general insistence that "we must find a cure." In Reeve's own words, disabled people needed to be "fixed."'8 2 Disability
+
+advocates feared that he was sending a "pernicious message": that, without a cure, disabled people were not whole. 8 3 Marshall Mitchell, who teaches disability studies at
+
+Washington State University, argued that Reeve's emphasis on finding a cure
+
+reinforced the stereotype that having a disability was "the most awful thing in the
+
+world."'' 8 4 Mitchell observed that "[t]he emphasis not the barriers placed on the person by society."'
+
+8is5
+
+always
+
+on
+
+the
+
+medical
+
+condition,
+
+Reeve was accordingly unconcerned with "lower sidewalks" and "better wheelchairs."' 86 In fact, he said just that.'8 7 This mentality infuriated disability
+
+activists, who believed that Reeve oversimplified the complex social issue of disability.' 88 Under the cure mentality (a tenet of the medical paradigm), a disabled person must wait for a "cure" to "fix" his disability' 89-- a medical solution for a
+
+medical problem. The concern is that in the meantime, critical social issues such as access, accommodation, and discrimination are tabled.190 As Reeve pushed for a cure
+
+and projected his disability status as one calling for no special rights, others with disabilities worried that the social side of disability was being slighted.' 91
+
+These worries and concerns are best articulated through an explanation of the "supercrip" dysphemism. As previously discussed, there are two acceptable parts a
+
+disabled person can play in society under the medical model of disability: the pitiable
+
+I Can See Through These Empty Promises,WASH. POST, Sept. 1, 1996, at C5 (recounting that doctors, upon learning she was blind, told her parents they were sorry she was alive).
+181. SWITZER, supra note 41, at 155. 182. Mike Ervin, Editorial, Not All DisabledPeople are Waiting on a 'Fix,'AUSTIN AM.STATESMAN, Aug. 31, 1996, at A15.
+183. DoRIs ZAMES FLEISCHER & FRIEDA ZAMES, THE DISABILITY RIGHTS MOVEMENT: FROM
+CHARITY TO CONFRONTATION 137 (2001); David P. Rundle, Change Views About Disabled Rights,ADA, WICHITA EAGLE, Oct. 19,2003, atAl I ("I have always felt Reeve's attitude wasa bit unrealistic, but none of my business. However, I see now that he has inadvertently perpetuated the idea that the inability to walk (or see, hear, or reason) 'normally' makes one less than human.").
+184. Nappi, supra note 145, at B1 (quoting Marshall Mitchell). 185. Id. 186. JOHNSON, supra note 18, at 128-29. 187. Id.When interviewed by Time, Reeve claimed to take an immediate interest in the American Paralysis Association because "they are dedicated solely to finding a cure for paralysis, nothing less. I liked that ideal. They're not into lower sidewalks and better wheelchairs." Roger Rosenblatt, New Hopes, New Dreams, TIME, Aug. 26, 1996, at 47. 188. SWITZER, supra note41, at 155. 189. Id. 190. Id.(observing that Reeve's insistence for more research appeared to isolate oneelement of disability to the exclusion of the social dimension). These worries were not unjustified; indeed, from the time Reeve was injured until his death, the ADA was under constant attack by the media. JOHNSON, supra note 18, at 7-9. 191. JOHN HOCKENBERRY, MOVING VIOLATIONS: WAR ZONES, WHEELCHAIRS, AND DECLARATIONS OF INDEPENDENCE 204 (1995); see JOHNSON, supra note 18, at 131 (observing that as most people and the media took their cues about what was important to disabled people
+from Reeve, disability rights became less important).
+
+2008]
+
+WHEN DISABILITY ISN'T "JUSTRIGHT"
+
+poster child or the inspirational supercrip. Reeve played the role of the supercrip
+
+perfectly. Though too old and far too successful to be an object of childlike pity, he did
+
+everything within his control to try to "fix" his disability, without demanding that
+
+society accommodate him. This type of supercrip role is generally despised by the
+
+disability community because (a) the emphasis is on overcoming one's disability or
+
+finding a cure, and (b) a supercrip is usually unconcerned with societal
+
+accommodation. The supercrip role is non-threatening for people without disabilities
+
+because it underscores the implicit notion that having a disability is bad and that
+
+anyone disabled ought to try to overcome their disability. Such a role also deflects
+
+attention away from issues characterization infuriates
+
+tohfeadcciseasbs,ilaitcycocmommmoduantiitoyn. ,192and
+
+discrimination.
+
+This
+
+type
+
+of
+
+Perhaps Reeve was focused on the physiological element of disability and
+
+disengaged from social issues precisely because the physiological element was much
+
+more significant to him. Reeve did not experience the same physical, attitudinal, and architectural barriers in society that most disabled people face. 93 In fact, Reeve
+appeared to be "the most fortunate quadriplegic on the planet."' 94 He was wealthy and therefore able to afford the very best medical care and attention. 195Additionally, where
+
+most disabled individuals experienced the stigma of societal exclusion, Reeve was an
+
+insider-aformer Superman who knew everyone and was generally accepted and well respected. 196 Reeve's asymmetrical focus on finding a cure may have been due to the
+
+fact that, for him, it was the physical element of disability that was disabling.
+
+Nevertheless, Reeve's representations of disability were sobering for the disability
+
+community.' 97 Reeve was arguably the most famous person on earth with a
+
+192. The "supercrip" expectation or tendency to "hero-ize" those with disabilities has been
+assessed in the following way: Turning a person with a disability into a hero is a[] common social reaction. This reaction is interesting-on the surface it appears to be positive, but it is actually a different type of negative reaction. The hero reaction usually appears in the form of a compliment like, "I find you so inspiring" or "I am amazed that you can do that" or something similar.... Being viewed as a hero may be better than being viewed as a defective wretch, but both perceptions marginalize the persons in
+question and make them outsiders. JAEGER & BOWMAN, supranote 17, at 22; see also RILEY, supra note 17, at xiv (arguing that when people like Reeve are jammed into prefabricated "supercrip" stories-the types intended to sell products and reward financially--"the individual is lost in the fable"). Riley reminds
+readers of the financial incentive the gatekeepers in media have to tell stories that sell. Accordingly, he admonishes readers not to forget the dollar-and-cents dynamic that governs what about disability makes it to the screen or page. Id. at 1.
+193. Jeff Shannon, Forthe Disabled,Superman'sNew HollywoodRolels a MixedBlessing, SEATTLE TIMES, Apr. 14, 1996, at M1 (observing that Reeve would never have to worry about how to pay for attendant care, expensive medical equipment, or accessibility modifications to his home). For example, shortly after his accident, Reeve was featured at the Oscars despite the virtual non-accessibility ofthe building for most disabled individuals. Id.
+194. Id.
+195. Id.
+196. To many, Reeve-because of his societal privilege-was not properly regarded as apart ofthe disability community. GERARD GROGGIN &CHRISTOPHER NEWELL, DIGITAL DISABILITY: THE SOCIAL CONSTRUCTION OF DISABILITY INNEW MEDIA 133 (2003).
+197. This is a generalization that isnot without its exceptions. Certainly, there were some in
+
+INDIANA LA WJOURNAL
+
+[Vol. 83:181
+
+disability; 198 indeed, in a world full of disabled people, he alone put a contemporary face to the issue.' 99 He could have been the modern-day equivalent of a Martin Luther
+King Jr., petitioning society to roll back the discriminatory barriers that still confronted the disability community. Instead, people with disabilities concluded that Reeve's
+primary interest was not disability rights. Instead, he was simply seeking a cure for his spinal-cord injury-to become "normal" again.
+
+3. From the Public to the Judiciary
+
+The bottom line with the above constructs its view ofdisability based
+
+representations largely on what
+
+of disability is it sees and hears
+
+tihnatthethme epduiab.l2i0c0
+
+The representations discussed above are especially important because they have
+
+garnered national attention. When a celebrity like Reeve or Eastwood speaks up, the
+
+public listens.20 The public could hardly avoid exposure to MillionDollarBaby. And
+
+the Jerry Lewis Telethon is watched by millions every year. These portrayals matter.
+
+Thus, if one can acknowledge that disability discrimination is at least related to these
+
+types of social inputs embedded in culture, it is unsurprising that federal courts have
+
+also employed a traditional medical model ofdisability that focuses on the limitations of disabled plaintiffs in their application of the ADA.20 2 As one professor has noted,
+
+"Public officials and the courts frequently mirror well-established limiting assumptions about people with disabilities. 20 3 Similarly, another scholar has
+
+explained how the reasoning employed by federal courts in deciding cases under Title I has been driven by cultural paradigms for understanding disability.20 4 The result is
+
+the disabled community who were grateful for the increased hope and public awareness he brought to those with disabilities. See, e.g., Susan Cohen, Reeve's LegacyHelpingMany, TIMES UNION (Albany, N.Y.), Oct. 15,2004, at A9; Steve Inskeep, ChristopherReeve'sLegacyforthe Disabled(National Public Radio broadcast Oct. 13, 2004). As iterated throughout this Section, however, it was exactly this public awareness Reeve brought to disability that amplified the content ofhis claims and requests, and especially their underlying presuppositions. Even in the wake ofhis death-a time where criticism often turns to respectful mourning-people were still discussing the mixed/negative messages he sent to the public about disability. Nappi, supranote 145, at B1.
+198. Jon Frank &Christina Nuckols, Actor "Puta Faceon Disability," VIRGINIAN-PILOT,
+Oct. 12, 2004, at Al (explaining that Reeve received worldwide recognition as a disabled person); Rundle, supra note 183, at Al1.
+199. Frank & Nuckols, supranote 198, at Al (citing activists' observations that Reeve put a "prominent personal face" on disability).
+200. JAEGER& BOWMAN, supranote 17, at 100.
+201. See Reuters, CongressGets Visitsfrom 'CauseCelebrities,'DESERETNEWS (Salt Lake City, Utah), June 27, 2000, at A12 (explaining how celebrities, such as Eastwood and Reeve, generate "a heap ofpublicity" for their causes); WorldNews Tonight(ABC television broadcast May 18, 2000) (explaining how celebrities generate public support for their causes).
+202. Scotch, supranote 17, at 218. 203. Id.; see also O'BRIEN, supra note 41, at 137-61 (explaining how federal courts were influenced by cultural views of rehabilitation and disability). Professor Blanck has concurred that underlying the judicial antipathy to Title I are the generally "negative attitudes in society that continue to perpetuate prejudice toward disabled Americans." Peter Blanck, JusticeforAll? StoriesAbout Americans with DisabilitiesandTheirCivilRights,8 J. GENDER RACE & JUST. 1, 6-7 (2004). 204. See O'BRIEN, supranote 41, at 164-65.
+
+2008]
+
+WHEN DISABILITY ISN'T "JUSTRIGHT"
+
+that media and courts' mischaracterizations "have fed on one another" to frustrate the
+
+ADA's culture
+
+goals.20 5 The effect is and, in turn, re-publicize
+
+self-perpetuating, as federal these implicit paradigms via
+
+thceoucratssestatkheeycdueecsidfer.o2m06
+
+In sum, the entrenchment of the medical model of disability has been ubiquitous, and
+
+as the next Section will show, the judicial system has not been immune to its reach.
+
+C. Judicially:The GoldilocksDilemma
+
+[C]urrent ADA jurisprudence suggests a recommitment to a narrow and
+
+individualistic biomedical model as the primary understanding of disability. In
+
+each of the recent trilogy of ADA cases on standing ... the Supreme Court
+
+focused on the objective, biomedical nature of the plaintiffs' alleged impairments,
+
+and whether or not they represented a substantial personal loss of capacities. The
+
+Court's restrictive category of disability "reflects and reinforces the notion that
+
+disability aspect of
+
+is the
+
+ainndoivbijdeuctailv.e,2b07iomedical
+
+phenomenon
+
+that
+
+constitutes
+
+an
+
+essential
+
+In the judicial sphere, the entrenchment of the medical model-and its concomitant
+
+focus on the physiological condition of disability-has translated into a type of
+
+Goldilocks dilemma whereby courts are fixated on the definitional bounds of
+
+disability. By having to fit into a very narrow construction of disability, claimants are
+
+often found either "too disabled" or "not disabled enough" to qualify for the
+
+protections of the ADA. Very few are "disabled just right." Restrictive interpretations
+
+of the ADA have thus "engendered a situation in which many cases are decided solely by looking at the characteristics of the plaintiff."208 The definition of disability may
+
+thus create "the but not disabled
+
+absurd result of a person enough to challenge the
+
+bfeirininggd."is20a9bled
+
+enough
+
+to
+
+be
+
+fired
+
+from
+
+a
+
+job,
+
+This Section will focus on Title I, as this is the part of the ADA that has been most weakened by federal courts. 210 Title I addresses employment and demands that "no
+
+covered entity shall discriminate against a qualified individual with a disability
+
+because of the disability of such individual" with regard to all major aspects of employment. 211 For plaintiffs to have standing to sue for discrimination in the
+
+205. RIGHTING THE ADA, supranote 10, at 40. 206. See O'BRIEN, supra note 41, at 165 ("Requests for accommodation have been characterized by the federal courts as ifdisabled people thought they were exempt from the rules .... Public attention is drawn from the prejudice of the employer or the barriers within the workplace, which constitutes the crux of the disability rights model, to the person with a
+disability."). 207. Pendo, supranote 22, at 1195. 208. Robert L. Burgdorf, Jr., "Substantially Limited" Protection from Disability
+Discrimination: The Special Treatment Model and Misconstructions of the Definition of Disability,42 VILL. L. REv. 409, 561 (1997).
+209. O'BRIEN, supra note 41, at 16 (quoting Professor Chai Feldblum). 210. See generally Waterstone, supra note 13 (exploring how Titles II and Ill of the ADA have fared much more favorably than Title I and do not present the same concerns-such as the
+concerns associated with the definition ofdisability). 211. 42 U.S.C.  12112 (2000). The other main protections under the ADA are Title II,
+which prohibits discrimination by public entities and Title III, which proscribes discrimination in public accommodations and services provided by private entities. Id.  12131-12189.
+
+INDIANA LA WJOURNAL
+
+[Vol. 83:181
+
+workplace under Title I of the ADA, they must satisfy four threshold criteria. First,
+
+they must prove they are disabled. This includes proof that they have an actual disability, 212 have record ofa disability,2 13 or are regarded as disabled. 21 4 Second, they
+
+must be qualified to perform the essential duties of the position. Third, the
+
+accommodations requested by the plaintiff must be reasonable. And finally, the
+
+accommodations must not cause the employer any undue hardship. Before
+
+adjudicating whether there has been any discrimination or illegal motive, courts often
+
+must make these threshold determinations in ruling on a motion for summary
+
+judgment. The last two requirements pertaining to accommodations rarely come up in
+
+ADA cases, since most are dismissed via the dual considerations of whether the person is disabled and whether a person is qualified for the particular job.215
+
+The most consistently litigated and frustrating provision for plaintiffs has been the first requirement: that plaintiffs prove they are disabled.2t 6 The ADA is a unique civil
+
+rights statute because it requires proof of disability before its protections may be sought.217 Unlike other civil rights statutes that prohibit discrimination based on
+
+invidious attitudes about protected traits, the people-specifically those with disabilities, as
+
+AseDt oAutparondtecdtesfinoendlyuandpearrttihceulsatratusteet.2of8
+
+In contrast, under Title VII, a court would not likely spend time analyzing a plaintiff's
+
+relative skin color or religiosity; rather, it would focus primarily on the defendant's alleged conduct.219 The definition of "disability" thus serves a gatekeeping function
+that is unique to ADA jurisprudence.22 
+
+Over the last fifteen years, federal courts have significantly limited the scope ofthe
+
+ADA by whittling down the definition of disability. There are two reasons for the tremendous amount oflitigation over whether a plaintiff actually has a "disability. 22'
+
+First, it is easier to mount a successful defense against an ADA claim by arguing a
+
+person is not disabled than by arguing the accommodation is not reasonable, presents an undue hardship, or that the plaintiff is altogether unqualified.222 Second, courts
+
+abhor vagueness and may be inclined to summarily agree disabled instead ofrightly applying a flexible, individualized
+
+dtheafitnitthioenpolaf idnistiafbfiliistyn. 2o2t3
+
+212. 42  12102(2)(A) (2000). 213. Id. 12102(2)(B). 214. Id.  12102(2)(C).
+215. O'Brien,supranote l, at 100. 216. The intense focus on impairment instead ofthe allegedly discriminatory conduct of the employer is akin to the concerns about investigations and trials ofrape and other sexual offense charges-that the alleged victim is often on trial rather than the alleged perpetrator. Burgdorf, supra note 208, at 561. 217. Leslie Picketing Francis & Anita Silvers, Definitions: Who is Disabled? Who is Protected?, in AMERICANS WITH DISABILITIES: EXPLORING IMPLICATIONS OF THE LAW FOR INDIVIDUALS AND INSTITUTIONS, supranote 51, at 87. 218. Id. 219. Burgdorf, supra note 208, at 560-61. 220. O'BRIEN, supra note 41, at 164 ("Acting as [medical] experts, [] judges and justices have turned themselves into gatekeepers."); Francis & Silvers, supranote 217, at 87. 221. E.g., Paul Steven Miller, The DefinitionofDisability in the Americanswith Disabilities Act: Its Successes andShortcomings,9 EMP. RTS. & EMP. POL'Y J.473, 475 (2005). 222. Id. 223. See id; O'BRIEN, supranote 41, at 164 (noting that "federal court judges and justices have essentially said 'enough,' and limited statutory coverage under Title I").
+
+2008]
+
+WHEN DISABILITY ISN'T "JUSTRIGHT"
+
+Accordingly, employment discrimination cases under the ADA often fail at the summary judgment stage since a claimant is often unable to prove herself disabled. As noted earlier, this focus on the definitional bounds of disability is closely connected with the medical model paradigm that interprets disability by focusing on the impairment and ignoring social conditions.224 The result is that the social construct of disability (and in this context, the potentially discriminatory motives of an employer)
+is left unexamined. Federal courts' decisions regarding proof of disability have significantly weakened
+the ADA,"' particularly with regard to the first prong of disability-actual disability. Most scholars writing in this area have focused exclusively on the seminal, but sparse, U.S. Supreme Court precedent. 226 Accordingly, this Section primarily examines how federal courts of appeals have addressed this issue within the last few years. First, this
+Section examines how federal courts have made it difficult to be "disabled enough" to garner the protections of the ADA. Second, this Section explains how just when plaintiffs appear "disabled enough," they have likely crossed into being "too disabled" to be qualified individuals for their respective jobs. By being required to mount evidence showing one is "really disabled," the plaintiff may be inadvertently helping the employer make its case that the plaintiff was not qualified for the job.
+According to the ADA, "disability" with respect to an individual means "[a] physical or mental impairment that substantially limits one or more major life activities of such individual., 227 Broken out, actual disability contains three principle requirements: first, there must be a physical or mental impairment; second, the impairment must be substantiallylimiting;and last, the impairment must substantially limit a major life activity. The "physical or mental impairment" requirement is rarely an issue in ADA case law. 2 28 The Supreme Court has established a broad scope for impairment, finding that it covers illness and injuries resulting in physiological or psychological change to the person. 22 9 It is the second requirement-that the impairment substantiallylimit a major life activity-that has garnered the majority of
+
+224. See RIGHTING THE ADA, supra note 10, at 13-14 (noting that the current approach to disability is based on the medical model and categorizes people because of their supposedly intrinsic limitations-"without reference to social context and socially imposed barriers").
+225. There is a consensus among most disability scholars that federal courts, and especially the U.S. Supreme Court, are primarily responsible for the ADA's inefficiency. See SUSAN
+GLUCK MEZEY, DISABLING INTERPRETATIONS: THE AMERICANS WITH DISABILITIES ACT IN
+FEDERAL COURT 44 (2005) (concluding that Congress, federal agencies, plaintiffs, and attomeys are not responsible for the ADA's "constrained implementation").
+226. See, e.g., Toyota Motor Mfg., Ky., Inc. v. Williams, 534 U.S. 184, 198 (2002);
+Albertson's, Inc. v. Kirkingburg, 527 U.S. 555 (1999); Murphy v. UPS, 527 U.S. 516 (1999); Sutton v. United Airlines, Inc., 527 U.S. 471 (1999).
+227. 42 U.S.C.  12102(2)(A) (2007). 228. PETER BLANCK, EVE HILL, CHARLES D. SIEGAL & MICHAEL WATERSTONE, DISABILITY CIVIL RIGHTS LAW AND POLICY  3.2(A) (2004). 229. Id. See generally Bragdon v. Abbott, 524 U.S. 624, 632-33 (1998) (construing
+impairment broadly). Accordingly, the regulations have specified that a "physical impairment" includes "[a]ny physiological disorder, or condition, cosmetic disfigurement, or anatomical loss affecting one or more of the following body systems: neurological, musculoskeletal, special sense organs, respiratory (including speech organs), cardiovascular, reproductive, digestive, genitor-urinary, hemic and lymphatic, skin, and endocrine." 29 C.F.R.  1630.2(h)(1) (2006).
+
+INDIANA LAW JOURNAL
+
+[Vol. 83:181
+
+federal courts' attention. Accordingly, the focus in this Part is on the substantiality inquiry, as it is analytically separate from any identification ofa major life activity.
+In the below examination of cases in which employers have avoided liability under the ADA, one might question if some of these plaintiffs would have been more
+successful by bringing their claims under the "regarded as" prong of disability, instead of "actual disability." With regard to this possibility, there are a couple of points worth noting. First, it is exceedingly difficult to prove-especially, after the fact-what an employer believed about a person. A disabled person proceeding under the "regarded as" prong of disability would have to show that the employer "regarded" her as disabled; that is, the employer mistakenly believed she had an impairment that substantially limits a major life activity.23 Moreover, it is not sufficient that the employer believed that a worker had a generalized impairment; the plaintiff must prove the employer specifically regarded the plaintiffs disability as one that substantially limits the plaintiff in one or more major life activities.23 To prove that this particular construction existed in the "theoretical mind" of the employer is a difficult task. 2 The analytical difficulties discussed below regarding functionality and mitigation are just as salient for a claim ofdisability discrimination brought under the "regarded as" prong. In sum, bringing a suit under the "regarded as" prong involves all of the problems ofproving "actual disability"--in addition to the problems associated with proving such a conception of disability existed in the "theoretical mind" of the employer.
+The general purpose of this examination is two-fold: first, to explain how a medicalized view of disability currently informs federal court decisions interpreting Title I; and second, to show how, as a result ofthis entrenchment, federal courts have heavily restricted who is qualified to bring suit under the ADA.
+
+1. "Not Disabled Enough" to Warrant the Protections of the ADA
+
+Federal courts' narrow construal of the definition of "disability" has made it exceedingly difficult for individuals to be both "disabled" and "qualified" to bring successful ADA lawsuits.233 The requirement that has contributed most heavily to this dilemma has been the oftentimes ambiguous "substantially limits" requirement. An individual is substantially limited in one of two scenarios: if she is unable to perform a major life activity that the average person is able to perform, or if she is significantly
+restricted as to the manner or duration under which she can perform a major life
+
+230. Pauline T. Kim, Genetic Discrimination, Genetic Privacy: Rethinking Employee Protectionsfora Brave New Workplace, 96 Nw. U. L. REv. 1497, 1529 (2002).
+231. Id. at 1530. 232. Claudia Center & Andrew J. Imparato, Redefining "Disability" Discrimination:A Proposalto Restore CivilRights ProtectionsforAll Workers, 14 STAN. L. & POL'Y REv. 321,
+328 (2003). 233. COLKER, supranote 84, at xiii; Hahn, supranote 140, at 187. Interestingly, this narrow
+definition for what disability means is without legislative support. COLKER, supranote 84, at 65. Both proponents and opponents of the ADA understood the definition of disability to have a very broad scope. Id.To be sure, there were attempts to limit the definition of disability-for example, by excluding individuals with contagious diseases or a history of drug abuse-but none of these succeeded. Id.Though there were compromises to get the ADA passed, the definition of disability was not a source ofgreat compromise. Id.
+
+2008]
+
+WHEN DISABILITY ISN'T "JUSTRIGHT"
+
+activity when compared with the average person. 234 It is very difficult to predict when
+
+a particular person will meet this requirement.
+
+For example, the Tenth Circuit recently held that a woman with cerebral palsy-
+
+who had difficulty with speech, preparing food, eating, swallowing, dressing herself, and certain manual tasks that related to personal hygiene-was not disabled.2 35 The
+
+plaintiff sued her employer claiming it had unlawfully terminated her because she had a disability. 236 This was a suit brought by a woman who, by all appearances, was
+
+substantially limited in her performance the average person. Yet, the court found
+
+of major life activities when her effectively "not disabled
+
+ceonmopuagrhe.d',
+
+2w37ith
+
+The Tenth Circuit noted that the Supreme Court has stated that "the term 'substantial' must 'be interpreted strictly to create a demanding standard for qualifying
+
+as disabled.' 238 It then quickly reiterated that to meet the ADA's definition of
+
+"disabled" a plaintiff must satisfy a "demanding standard. ' 23 9 The court next applied a
+
+technical and demanding analysis to conclude that no rational jury could find Holt was substantially limited in any major life activity. 240 Holt was found not disabled despite
+
+her full array of apparent limitations.
+
+As noted above, plaintiffs are often found not disabled because ofcomparisons with
+
+"the average person" under the "substantially limits" definition. The key to this "average person" litmus test is an individualized inquiry, whereby the focus is on how
+
+the impairment affects the particular plaintiff.241 Thus, someone with diabetes may be
+
+found, under an individualized assessment, not disabled, while another diabetic may
+
+well be considered disabled under the ADA. An individualized inquiry quite naturally leads to different results for individuals with the same impairment. 242 The result is that
+
+there is little predictability in examining particular disabilities.
+
+234. 29 C.F.R.  1630.2(j)(1)(i)-(ii) (2003). 235. See Holt v. Grand Lake Mental Health Ctr., Inc., 443 F.3d 762 (10th Cir. 2006). 236. Id.at 763. 237. See ida.t 767. 238. Id.at 766 (citing Toyota Motor Mfg., Ky., Inc. v. Williams, 534 U.S. 184, 197 (2002)).
+239. Id.
+240. Id. at 767. 241. Positively, this view appears to recognize parts of the social construction ofdisabilitythat disability is not simply a physiological condition, but consists in the interplay between a person and her surrounding environment. 242. BLANCK ETAL., supranote 228, at  3.2(B)(1). For example, diabetes, depending on its individual effects, may well constitute a substantially life-limiting condition. See,e.g., Nawrotv. CPC Int'l, 277 F.3d 896, 905 (7th Cir. 2002) (concluding that plaintiff's diabetes severely
+limited his ability to think and care for himself); Lawson v. CSX Transp., Inc., 245 F.3d 916, 926 (7th Cir. 2001) (finding plaintiffs ailments, preceded by his diabetes, limited the major life activity ofeating). Conversely, other courts within the same jurisdiction may find that the effects
+of a condition-such as diabetes-do not substantially limit a major life activity. See, e.g., Raffaele v. City ofN.Y., No. 00-CV-3837, 2004 U.S. Dist. LEXIS 17786 at *7 (E.D.N.Y. Sept. 7,2004) (finding that the limitations ofthe plaintiff related to diabetes are certainly inconvenient
+and troublesome but do not constitute a substantial limitation of a major life activity); see also Orr v. Wal-Mart Stores, Inc., 297 F.3d 720, 724 (8th Cir. 2002) ("[A] diabetic is not per se disabled but must demonstrate his condition substantially limits one or more major life activities." (citing Sutton v. United Airlines, Inc., 527 U.S. 471,482 (1999))). Thus, very few conditions could be said to constitute disability per se, or necessarily afford individuals
+protection under the ADA.
+
+INDIANA LA W JOURNAL
+
+[Vol. 83:181
+
+Though such a test may seem intuitively acceptable-that is, that not all people
+
+with the same type of disability should be considered disabled-consider the point that
+
+having a milder form of disability may not make discrimination any less likely. For
+
+example, someone with a very mild case of diabetes likely still requires
+
+accommodation and may still engender certain stereotypes, making this person susceptible to discrimination. 243 However, this person-assuming she were unable to
+
+meet the definition for "actual disability," as interpreted by the federal judiciary-
+
+would have no standing to challenge even outright discrimination on the basis of her
+
+diabetes. Interestingly, the drafters of the ADA did not foresee this degree of
+
+individualized assessment. 244 While the drafters of the ADA anticipated that an
+
+individualized inquiry would be used to determine if someone was qualified to do the
+
+job, it was not intended that one person with epilepsy might be covered by the ADA, but another, not covered.245
+
+Although the individualized assessment recognizes that disability is dynamic and
+
+takes into account some of the social dimension of disability, much of the medical
+
+model's entrenchment remains. First, "[t]he Court's restrictive category of disability 'reflects and reinforces the notion that disability is an objective biomedical
+
+phenomenon that constitutes an essential aspect of the individual.' 246 The
+
+restrictiveness of the definition of disability is illustrated more fully below. Second,
+
+the medical model is entrenched through the judicial system's insistence that people with disabilities prove themselves disabled.247 Disabled persons must prove that they
+
+are truly "different" from those without disabilities, or "disabled enough" to deserve
+
+the protection of the ADA. 248 Such a view reinforces the idea that being disabled
+
+means someone is abnormal, or worse, "special." Finally, disability has been prone to
+
+a medicalized and socially-abstracted examination ...understand the social and historical context of
+
+tshinecdeitshaebibleitnycehxgpeenrieernalcley.""d24o9es
+
+not
+
+243. See infra notes 299-308 and accompanying text (discussing Orr v. Wal-Mart Stores, Inc., 297 F.3d 720 (8th Cit. 2002)).
+244. Chai Feldblum, DefinitionofDisabilityUnder the FederalAnti-DiscriminationLaw:
+What Happened? Why? And What Can We Do About It?, 21 BERKELEY J. EMP. & LAB. L. 91,
+151-52 (1999).
+245. Id. at 152. 246. Pendo, supranote 22, at 1195; see also RIGHTING THE ADA, supranote 10, at 12; Anita
+Silvers, The Unprotected:ConstructingDisabilityin the Context ofAntidiscriminationLaw, in
+AMERICANS WITH DISABILITIES: EXPLORING IMPLICATIONS OF THE LAW FOR INDIVIDUALS AND
+INSTITUTIONS, supranote 51, at 128 (arguing that the U.S. Supreme Court has wrongly clung to the "common idea" that "disability is fixed to defective biological states, and that overcoming
+such defects disposes of disability"). 247. Robert Burgdorf has identified the judiciary's focus on technical obstacles to disability
+protection as part of"the protected class mentality" and explained that it may be due to the fact that people with disabilities have historically been viewed as objects of pity and charity. See Burgdorf,supranote 208, at 568. He notes that though the protected-class approach may have a place insome areas (such as providing special services and benefits to citizens with disabilities), it has no place in the area ofprohibiting discrimination. Id. Inhis words, "[n]ondiscrimination is a guarantee of equality. It is not a special service reserved for a select few." Id.
+248. Bagenstos, supranote 133, at 659. 249. Miller, supra note 221, at 475; see also O'BRIEN, supranote 41, at 168 (arguing the Supreme Court has perceived that physical and mental impairments-and not prejudicial attitudes-are what limit disabled people's workplace opportunities).
+
+2008]
+
+WHEN DISABILITY ISN'T "JUSTRIGHT"
+
+a. Functional Disability: Asking the Wrong Questions
+The federal courts' approach to substantial limitation has been a functional one that is determined by a comparison to what an average person in the general population is able to do. 250 Accordingly, whether a person is substantially limited is a distinct and individualized inquiry that considers not only a particular plaintiff's limitations, but
+also her advantages. Such an individualized inquiry could potentially constitute a sophisticated and sensitive approach.25' In reality, however, federal courts have used this case-by-case assessment as a means of "scrutinizing the personal, societal, medical, and technological ways that someone has to mitigate their condition. 252 The result has been one sided; persons with significant physical disabilities are typically found "not disabled enough. 253 To reach this conclusion, a court will typically note how capable the disabled individual is in various activities and/or how incompetent the average person is by comparison. 25 4 This means "[a] person with a debilitating impairment with more education than the 'average person,' like a pharmacist," may very well be considered not disabled enough. 255 In other words, courts examine how a person functions generally and essentially compare disabled people with "normal"
+2 56
+ones. This holistic assessment translates into courts inventing proxies for lack of
+disability, such as worldly success or education.257 Unbelievably, the proxy has sometimes been success with one's particular job; in these situations, disabled persons will lose coverage under the ADA through their ongoing efforts to be "qualified" for their particular job (also a requirement under the ADA). A functional view of disability can thus obscure the inquiry concerning an employer's discriminatory motives.
+For example, one person may have a severe disability and encounter discrimination based largely on stereotypes associated with it. Yet, this same person may be so educated that he is able to perform the major life activities typically impaired by his disability at the level of an average person. Because the technical requirements for disability are not met, this plaintiffs case would probably be dismissed at summary judgment, without the court ever considering the discriminatory animus of the employer. In this example, even though discrimination is occurring, discriminatory motives get lost in the confusion over comparisons to the average person. 258 In this
+
+250. See O'BRIEN, supranote 41, at 10 (noting this point ofreference incites federal courts to "make normalizing judgments"); O'Brien, supranote 1,at 49.
+251. Sharona Hoffman, CorrectiveJusticeandTitle Iof theADA, 52 AM. U. L. REv. 1213, 1230 (2003).
+252. O'BRIEN, supranote 41, at 16. 253. See DEFINING DISABILITY, supra note 52, at 11; Hoffinan, supra note 251, at 1230 (arguing the individualized assessment mandate "makes the ADA's definition of disability unworkable, and therefore, must be abandoned"). 254. DEFINING DISABILITY, supranote 52, at 11. 255. O'Brien, supra note 1, at 50. 256. See id. 257. Id. at41 (citing Thalos v. Dillon Cos., 86 F. Supp. 2d 1079 (D. Colo. 2000)). 258. Paul Miller, former Commissioner of the EEOC, has observed just this phenomenon. He
+notes,
+
+INDIANA LAWJOURNAL
+
+[Vol. 83:181
+
+context, the functionality query is just another way that the medical model ofdisability is transmitted and disability's social meaning ignored.259
+In February of 2006, the Eleventh Circuit held that a plaintiff who had "learned
+successfully to live with his [disability]" was not disabled enough to merit reasonable accommodation under the ADA. 260 The plaintiff,James Lawson Carr,had a cancerous
+tumor as a child in his right arm that required the replacement of his right humerus with a cadaver bone supported by a metal rod and pins.2 6 1 Years later, while working
+as a cashier for Publix Super Markets, Carr began to experience a sharp, persistent pain in his upper right arm.262 As a general cashier, Carr would often have to lift heavy items, such as bags of charcoal or dog food.263 Accordingly, his doctor soon advised against repetitive lifting activities with his right arm.264 Carr thus requested an
+alternative assignment to a position that required less lifting-such as an Office Cashier, Deli Cashier, or Pharmacy Clerk. 265 Despite these positions becoming available, Publix never accommodated Carr's request. 266 Carr eventually quit his job because of the pain and brought suit under the ADA.267
+The Eleventh Circuit noted that by his own account and "to Carr's credit,Carr has
+learned successfully to live with his impaired arm in a manner that little restricts his major activities., 268 The court also noted Carr's testimony that he is able to care for himself without assistance and that he has "pretty good" use of his right hand.269 The
+Eleventh Circuit employed a functional view of disability and thus concluded that no
+disability had been shown for the purposes ofestablishing a prima facie case underthe
+ADA.270 From the record, it was clear that Carr had experienced significant pain with
+his current job and requested what appeared to be reasonable accommodation. Still,
+because of the court's approach to defining disability-one that was altogether
+removed from the context of working-he was found not disabled enough. Carr had
+
+[E]ven if one lost a job, or was not hired, because of a disability, if the plaintiff demonstrates that he or she isable enough to function regardless of that disability, he or she is not protected by the ADA even though the disability was the reason forthe discrimination ...T.he court never gets to test the disability pretext for the adverse action because the plaintiff is not disabled. Miller, supra note 221, at 475.
+259. See RIGHTING THE ADA, supranote 10, at 109. 260. Carr v. Publix Super Markets, Inc., No. 05-12611,2006 U.S. App. LEXIS 2845, at *7 (11 th Cir. Feb. 6, 2006). 261. Id.at *1. 262. Ida.t *2. 263. Ida.t *2-*3. 264. Id.at *2. 265. Id. 266. Ida.t *2-*3. 267. Id.at*1-*3. 268. Id.at *7(emphasis added). Such a position has been parroted in lower court decisions. For example, in Gillen v. Fallon Ambulance Service, the district court held that a genetic
+amputee, born with only one functioning arm was not disabled and not covered by the ADA. 238 F.3d 11, 17 (1st Cir. 2002) (concluding she was not eligible for coverage under the ADA based largely on her testimony that she was able to do everything required by the job and her general optimism toward challenging tasks).
+269. Carr,2006 U.S. App. LEXIS 2845, at *7. 270. Id.
+
+2008]
+
+WHEN DISABILITY ISN'T "JUSTRIGHT"
+
+learned to live with his disability and hold a productive job in the marketplace. As a
+
+counterintuitive result, he would not receive any protection from the courts.
+
+The federal
+
+most significant result of this judges dismiss eighty percent
+
+functional view of ADA cases at
+
+tohfessuubmstmanatriyaljuldimgmitaetniot nstaisget.h2a7t1
+
+The primary reason judges give for dismissing these suits is that the plaintiff has an
+
+impairment that is not substantially limiting. These plaintiffs are simply "not disabled enough.272 On the flip side, the second most common reason for an ADA case
+
+dismissal is the decision that a plaintiff is not qualified to perform her job-these plaintiffs are "too disabled., 273 The tension between these two dynamics creates an
+
+obvious loophole for employers who decide they simply do not want employees with
+
+physical and mental impairments in their workplace. When these types of cases are
+
+dismissed at summary judgment, the question of how a company has been acting in
+
+demoting, firing, or refusing to provide reasonable accommodation is never examined.
+
+By attempting to limit the ADA to the "truly disabled," federal courts continue to treat disability as a biological phenomenon.274 The result of this approach is that most of the
+
+time-notwithstanding any potential discriminatory animus-an employer is going to be safe.275
+
+In May of 2006, the Third Circuit found that a plaintiff's success in his job supported the conclusion that he was not disabled under the ADA. 276 The plaintiff, a
+
+teacher named Charles Weisberg, sued the school district for failing to provide reasonable accommodation under Title I of the ADA.277 Weisberg was injured at work
+
+when a large wooden speaker fell off the wall behind him and struck him in the back, shoulder, neck, and head.278 Since the time of injury, Weisberg was diagnosed with "concussive brain injury" and had difficulty with his ability to concentrate.279 In
+
+addition, the court noted his abnormal fatigue, slowness in carrying out tasks, and loss of memory. 28 But Weisberg could not have his request for accommodation even
+
+evaluated because the court decided he was not disabled enough. 281 To reach this
+
+271. O'Brien, supra note 1,at 100 (citing Ruth Colker, The ADA: A WindfallforDefendants, 34 HARV. C.R.-C.L. L. REv. 99 (1999)). Interestingly, empirical studies have verified that the ADA fairs considerably worse than its closest statutory analogue, Title VII. See COLKER, supra note 84, at 83-85.
+272. See O'Brien, supranote 1, at 100. 273. Id. 274. Arlene Mayerson & Matthew Diller, The Supreme Court's Nearsighted View of the ADA, in AMERICANS wiTH DISABILITIES: EXPLORING IMPLICATIONS OFTHELAW FORINDIVIDUALS AND INSTITUTIONS, supra note 51, at 125. 275. O'Brien, supra note 1, at 100 n.13 (citing Colker, supra note 271). Colker has since qualified these numbers as not completely accurate. Nevertheless, she has recently reiterated on the basis of more recent empirical work that plaintiffs "fare very poorly before judges at the summary judgment stage." COLKER, supranote 84, at 71 (emphasis added). The effective result is that "the employer is free to act on every bigoted and irrational impulse that it may have toward a particular disability." Mayerson & Diller, supranote 274, at 124. 276. Weisberg v. Riverside Twp. BOE, No. 04-4533, 2006 U.S. App. LEXIS 11800, at *21 (3d Cir. May 11, 2006).
+277. Id. at* 1-*2. 278. Id.at *4. 279. Id.at *4-*5.
+280. Id.at*5. 281. See id.at *3 (observing that the district court did not reach the question of whether
+
+INDIANA LA W JOURNAL
+
+[Vol. 83:181
+
+conclusion, the court noted several times, as evidence that he was not disabled, that Weisberg had been able to do his job well.282 Accordingly, Weisberg was disqualified from the ADA's protections in part by his efforts to do his job well. However, under the ADA, he needed to be "qualified" for his job to bring suit. Such a case illustrates the tension between being functionally disabled and yet qualified enough to justify the
+ADA's protections. A functional test becomes even more complicated when one begins to consider the
+many reasons why someone may or may not be able to perform a major life activity at the level of an average person. One of those reasons is the issue of mitigation.
+
+b. To Mitigate or Not: That is the Question
+
+The U.S. Supreme Court held in Sutton v. United Airlines, Inc. that the ADA protects only individuals who are substantially limited in one or more major life activities after any mitigating measures have been taken into account. 283 This holding
+presents an even more cumbersome version of the Goldilocks dilemma. If a potential
+employee has mitigated her disability too much, the Court will likely find that, under an individualized inquiry, she is "not disabled enough"; mitigation will often put a person on par with the average person for performing major life activities.21 On the
+other hand, if a potential employee has not mitigated her condition, she will likely be found "too disabled" to be qualified for the job, or she will require accommodation that would be an "undue hardship" for the employer. The practical reality is that the
+mitigating measure that a disabled person uses to be qualified often renders her nondisabled.285 And someone who does not bother to mitigate her condition will likely not even be found qualified for the job she is seeking.286
+Hence, here lies the dilemma: employees must mitigate their natural disability to be
+considered "qualified" and yet if they do this, they decrease the likelihood that they will be able to utilize the protections of the ADA. It becomes a catch-22 for disabled workers to try and help themselves.287 Justice Stevens has called this result "counterintuitive"--that "the ADA's safeguards vanish when individuals make
+themselves more employable by ascertaining ways to overcome their physical or
+
+Weisberg suffered an adverse employment decision). 282. Id.("The District Court reviewed the evidence showing the many activities Weisberg is
+capable of doing: 'Weisberg has acknowledged that he has been able to do his job and to do it well."'); id. at *6 ("Despite ... difficulties at work, Weisberg testified that he is able to do his job well.").
+283. See generally Sutton v. United Airlines, Inc., 527 U.S. 471 (1999). 284. O'Brien, supranote 1,at 100. Yet being able to perform major life activities at the level of an average person does not make one any less susceptible to discrimination based on stereotypes about the disabled.
+285. COLKER, supra note 84, at 2.
+286. See id. 287. To be fair, the following must be acknowledged: people who argue their impairment substantially limits them in some major life activity otherthan work may not face any catch-22. For example, there is nothing inconsistent with arguing that an impairment substantially limits a
+person's mobility, but that she can perform the essential functions of a job with reasonable accommodation-such as a first-floor office with wide doorways to accommodate awheelchair.
+McGowan, supra note 67, at 104.
+
+2008]
+
+WHEN DISABILITY ISN'T "JUSTRIGHT"
+
+mental limitations., 28 8 Moreover, stereotypes and animus toward people with
+disabilities do not disappear merely because a person learns to ameliorate her
+condition. The potential for such a person to experience discrimination is just as real,
+because disability discrimination is often not rational. The ultimate result is that it
+simply is not clear how to be disabled "just right." What is the "right" degree of
+disability for those seeking protection under the ADA?
+Three opinions issued at the same time by the U.S. Supreme Court elucidate the current approach. All three of these, Albertson 's, Inc. v. Kirkingburg,289 Murphy v. UPS2, 90 and Sutton v. UnitedAirlines, Inc.,291 involved plaintiffs who, because they
+mitigated their disabilities, were held not to be covered by the ADA. In Sutton, the
+Court provided its full rationale for this mitigation principle. The plaintiffs in Sutton
+were twin sisters with uncorrected vision that was worse than 20/200.292 However, both sisters wore corrective lenses that made their vision 20/20 or better.293 They each applied for employment as commercial airline pilots with United.294 Though invited
+for interviews, each sister was told at her interview there had been a mistake since the sisters did not meet United's minimum vision requirement, which was uncorrected visual acuity of 20/100 or better.295 The sisters filed suit under Title I of the ADA, claiming discrimination on the basis of disability.296 The Court held the determination
+of whether someone is disabled ought to be made with reference to measures that mitigate the individual's impairment. The plaintiffs' eyeglasses and contact lenses
+could not be ignored in assessing whether the sisters were truly disabled, and the Court held the sisters did not satisfy the threshold consideration of being disabled.297
+The scope of Sutton cannot be ignored. Its ruling excludes a vast number of potential plaintiffs from coverage under the ADA.298 By focusing on the definitional
+bounds of disability (essentially, the medical model of disability) to the exclusion of
+discrimination (at the core of the social model of disability), these holdings produce
+counterintuitive results. In Orrv. Wal-MartStores,Inc., the plaintiff, Stephen Orr,had diabetes and required a strict regimen to control its effects. 299 In 1998, Orr took a job
+as a pharmacist with Wal-Mart with the understanding that he would be able to take breaks throughout the day to manage his diabetes. 30 0 Within a few months, however,
+
+288. Sutton, 527 U.S. at 499 (Stevens, J., dissenting).
+289. 527 U.S. 555 (1999). 290. 527 U.S. 516 (1999). 291. 527 U.S. 471 (1999). 292. Id. at 475. 293. Id. 294. Id. 295. Ida.t 476. 296. Id. 297. The Court also held the sisters were not "regarded as" disabled since the employer did not regard the sisters as being substantially limited in their performance ofmajor life activities. Id.at 489-90. The employer simply had a facially discriminatory policy-not necessarily a discriminatory perception. 298. See DEFINING DISABILITY, supra note 52, at 10 (observing that the ruling in Sutton "erased protections for millions of persons with stabilized diabetes, seizure disorders, heart
+disease, and psychiatric conditions"). 299. Orr v. Wal-Mart Stores, Inc., 297 F.3d 720, 722 (8th Cir. 2002).
+300. Id.
+
+INDIANA LA WJOURNAL
+
+[Vol. 83:181
+
+Orr inherited a new manager who reprimanded him for taking a half-hour offfor lunch
+
+to administer his medication and eat his lunch uninterrupted, which was necessary to
+
+avoid hypoglycemic episodes.30 Onf initially manager demanded, but soon found it impossible
+
+changed his to manage his
+
+sdcihaebdetuelseefafsecttihveelyn.e30w2
+
+He protested his manager's decision and was terminated.30 3
+
+In keeping with Sutton, the Eighth Circuit's discussion centered on whether Orr
+
+was "disabled enough" to enjoy the protections of the ADA. The court noted that, with
+
+Off's mitigating measures, his diabetes did not place substantial limitations on his ability to work. 304 However, this judgment was made with regard to the time during
+
+which Wal-Mart had made accommodation for Orr's diabetes. Though Orr's concern
+
+was for how his diabetes would develop in thefuture without proper accommodation,
+
+the Eighth Circuit refused to consider what would or could occur in the future if Orr did not have proper accommodation and failed to treat his diabetes. 30 5 Thus, Onf could
+
+neither gain standing to back. The court affirmed
+
+dseummamnadryacjcuodmgmmeondtataigoani,nsntohriscoculaldimh.3e0
+
+6fight
+
+to
+
+get
+
+his
+
+job
+
+In his dissent, Circuit Judge Lay observed that Onf had experienced seizures, deteriorated vision, and slurred speech in the past because of his diabetes.30 7 Lay
+
+claimed these results were not merely what could occur, but rather what had actually
+
+happened when Orr was unable to follow a rigid discipline of eating at a scheduled time.308 Accordingly, the effect of Sutton's application in Orrwas to exclude someone
+
+with a serious history of diabetes from being able to insist on reasonable
+
+accommodation. Orr was simply not disabled enough.
+
+The result in Orr is now commonplace. Other federal courts have used the
+
+definition ofdisability with regard to mitigating measures to conclude that individuals with heart conditions, 30 9 blood cancer, 310 hypertension, 311hearing impairments, severe depression, 312 mental illness, diabetes, 313 asthma, 314 and epilepsy 315 are not disabled.
+
+Defense lawyers have even argued that individuals born with a deformed limb are not disabled under the ADA.316
+
+301. Id. 302. Id. at 723. 303. Id. 304. Id. at 725. 305. Id. at 724. 306. Id. at 722. 307. Id. at 726 (Lay, J., dissenting). 308. Id. 309. See Taylor v. Nimock's Oil Co., 214 F.3d 957 (8th Cir. 2000). 310. E.g., EEOC v. R.J. Gallagher Co., 181 F.3d 645, 655 (5th Cir. 1999) (finding that plaintiff was not substantially limited for consideration of actual disability, but remanding on "record of" and "regarded as" prongs). 311. E.g., Hill v. Kan. Area Transp. Auth., 181 F.3d 891, 891 (8th Cir. 1999). 312. E.g., Spades v. City of Walnut Ridge, 186 F.3d 897, 900 (8th Cir. 1999). 313. E.g., Nordwall v. Sears, Roebuck & Co., 46 F.App'x 364, 364 (7th Cir. 2002).
+314. E.g., Muller v. Costello, 187 F.3d 298,298 (2d Cir. 1999). 315. E.g., Chenoweth v. Hillsborough Co., 250 F.3d 1328 (1 th Cir. 2001); EEOC v. Sara Lee Corp., 237 F.3d 349, 349 (4th Cir. 2001). 316. COLKER, supranote 84, at 106.
+
+2008]
+
+WHEN DISABILITY ISN'T "JUSTRIGHT"
+
+Because such cases are dismissed on the threshold issue of coverage, the question of whether discrimination actually occurred is never addressed.3t 7 These cases are also
+a window into the power given to employers, who can simultaneously claim the
+individual is too disabled to work for them but not disabled enough to be protected under the ADA.318 Under Sutton, an employer could explicitly refuse to hire an
+individual because of an impairment, such as diabetes, but then escape liability by arguing that the impairment does not constitute a disability under the ADA.319
+Accordingly, an employer's discriminatory motives seem to largely drop out of the
+Title I equation, and the catch-22 rears its head once again as individuals can be
+considered too impaired to work but not impaired enough to be protected from
+discrimination. The result is that plaintiffs with disabilities that are mitigated by any measure are often ruled out on summary judgment.32 
+Some courts have narrowed the scope of who can proceed under the ADA even
+further by manipulating the concept of mitigation. For example, though most courts have assessed impairments and actual mitigation at the time of the alleged
+discrimination, some courts have considered mitigation subsequent to the alleged discrimination as evidence that the impairment was temporary. 321 Others have
+considered a lack ofmitigation when they believed the plaintiff stopped the mitigating measure without a compelling reason. 322 One wonders if the next step is for courts to csuocncseidssefrulalylamckitigoaftinmgitihgeartiiomnpawirhmenentt.h3e2y3 simply believe the plaintiff should be
+If a person is discriminated against because of a latent disability, but is no longer
+disabled by the use of a mitigating measure, could she not bring her claim of
+discrimination under the "record of a disability" prong? At least one scholar has noted
+
+317. DEFINING DISABILITY, supra note 52, at 2-3.
+318. Id. 319. BLANCK ET AL., supra note 228, at  3.2(B)(2). 320. Id. (citing as examples: Swanson v. Univ. of Cincinnati, 268 F.3d 307, 317 (6th Cir. 2001); Cooper v. Olin Corp., 246 F.3d 1083, 1091 (8th Cir. 2001); Spades v. City of Walnut Ridge, 186 F.3d 897,900 (8th Cir. 1999); Anyan v. N.Y. Life Ins. Co., 192 F. Supp.2d 228,244 (S.D.N.Y. 2002); Sepulveda v. Glickman, 167 F. Supp.2d 186, 191 (D. P.R. 2001); Arnold v. City of Appleton, Wis., 97 F. Supp. 2d 937, 949 (E.D. Wis. 2000); Robb v. Horizon Credit Union, 66 F. Supp. 2d 913, 919 (C.D. Ill. 1999)). 321. Id. (citing, as an example, Swanson v. Univ. of Cincinnati, 268 F. 3d 307,316 (6th Cir. 2001)). 322. Id. (citing Hein v. All Am. Plywood Co., 232 F.3d 482, 488 (6th Cir. 2000) and Tangires v. Johns Hopkins Hosp., 79 F. Supp. 2d 587, 596 (D. Md. 2000), aff'dby unpublished opinion,230 F.3d 1354 (4th Cir. 2000)). 323. Indeed, in Tangires,the plaintiffwith severe asthma did not take steroidal medication prescribed by doctor because she feared adverse effects on her pituitary gland. The court held that because her condition could have been effectively mitigated by medication, she was not disabled under the ADA. Tangires,79 F. Supp. 2d at 587. Similarly, in Hein, a truck driver with hypertension refused to drive a delivery run because he was unable to obtain his medication prior to the trip. The court held he was not disabled because his condition should be viewed in its mitigated state since he voluntarily failed to take his medication. Interestingly, in this case, the driver was discriminated against particularly in his unmitigated state. Yet the court considered his ability to mitigate and found him not disabled. Hein, 232 F.3d at 482.
+
+INDIANA LA W JOURAL
+
+[Vol. 83:181
+
+that it is overturn
+
+unlikely Sutton's
+
+mciotiugratstinwg-ilml eaalslouwresthruelisnegc.o32n4d
+
+prong
+
+of disability
+
+to
+
+effectively
+
+In the dissent ofSutton, Justice Stevens briefly broached this issue. Addressing the
+
+interplay between actual disability and record of a disability, he observed that the
+
+Court's opinion appears to "hold[] that one who continuesto wear a hearing aid that
+
+she has worn all her life might not be covered-fully cured impairments are covered,
+but merely treatable ones are not." 325 He then questioned whether the text of the ADA could possibly require such a bizarre result.326 Ruth Colker has added some questions
+
+of her own:
+
+And what about a person who isborn deaf but has a cochlear implant? Does that
+
+person have a 'record of deafness or, like the person who uses a hearing aid, is he
+
+or she simply someone who isusing amitigating measure and thereby not covered
+
+by the statute? What does it mean to offered little useful guidance on these
+
+be 'fully questions.
+
+c32u7red'?
+
+So
+
+far,
+
+the
+
+courts
+
+have
+
+In sum, the measure of substantial limitation by federal courts has been a curious thing. Courts have found that medical equipment, medicine, education, or one's lifestyle can militate against the conclusion that one is truly disabled.328 In any event, the result is that those who attempt to mitigate their impairment, overcome their obstacles, and succeed, receive little protection under the ADA. As Justice Stevens has noted, the "ironic" effect is that the Supreme Court's interpretation denies "protection
+ffuorllpyearbsolensanwditehmsupblosytaanbtliea.l,ly329limiting impairments that, when corrected, render them
+
+c. How Long Must the Disability Last?
+
+Another aspect ofdisability that has operated to exclude potential claimants is the
+length ofthe impairment. The Supreme Court provided seeming clarity for the issue of
+length in Toyota Motor Manufacturing,Kentucky, Inc. v. Williams by holding that in
+order for a disability to be "substantially limiting" it must be "permanent or long term." 33 0 Yet this definition leaves matters unclear. The ADA is certainly not a medical leave act, but when does a short-term medical issue cross the line and constitute a long term or permanent disability? 331The ADA provides no guidance, nor has the Supreme Court ruled explicitly about what amount of time would cross the "long term" threshold. 332 Is one year of an enfeebling sickness enough? What about
+
+324. See COLKER, supranote 84, at 109. 325. Sutton v. United Airlines, Inc., 527 U.S. 471, 499 (1999) (Stevens, J., dissenting) (emphasis in original). 326. Id. 327. COLKER, supranote 84, at 109. 328. See Albertson's, Inc. v. Kirkingburg, 527 U.S. 555, 556 (1999); Murphy v. United Parcel Service, Inc., 527 U.S. 516, 516 (1999); Sutton, 527 U.S. at 482.
+329. Sutton, 527 U.S. at 510. 330. 534 U.S. 184, 198 (2002). 331. This question arose ina recent First Circuit case. See Guzman-Rosario v. UPS, No. 04-
+1046, 2005 U.S. App. LEXIS 1730, *1, *7 (1st Cir. Feb. 3, 2005). 332. Id.at *9.
+
+2008]
+
+WHEN DISABILITY ISN'T "JUSTRIGHT"
+
+eight months of a crippling condition? As the First Circuit has recently noted, "[u]ntil
+the Supreme Court fine-tunes its interpretation, it will be unclear how lower courts should deal with periods between, say, six and twenty-four months. 333 Thus far, lower
+courts' applications of a duration limitation have excluded a surprising variety of
+conditions from the ADA's purported scope, including breast cancer that necessitates radiation treatment,334 arthritis that hampers one's ability to walk,335 and severe abdominal pain that necessitates stomach surgery.336
+Notably, the language ofthe ADA as proposed and as enacted never contained any limitation or exclusion for those with "temporary" or "short-term" disabilities. 337 Nor did the legislative history of the ADA provide support for such a conclusion. 338 It is
+even more perplexing to examine the practical effects of such an approach. For
+example, it is difficult to understand why an employer is permitted to fire a person if a
+temporary disability will cause the worker to miss some work, but not permitted to fire
+a person if the condition will force the worker to be out of work for a much longer period of time. 339 Given the purpose of the ADA, this seems to be a distinction without
+a difference. After all, why should any qualified individual with a disability (no matter
+the length) be precluded from recourse against discrimination on the basis of
+disability?
+
+2. "Too Disabled" to be a "Qualified Individual" for the Job
+
+A disabled individual must also be a "qualified individual" to warrant the protections ofTitle I of the ADA. 340 Thus, in those instances where the plaintiff is able
+to produce adequate evidence to establish the existence of a disability that substantially
+limits a major life activity, the employer will often use this same evidence to support its claim that the plaintiff is not qualified for the position in question.341 Former
+Commissioner of the EEOC Paul Miller has said that plaintiffs are "forced to prove themselves out of the ADA's protection" because of this dilemma.342 For example, in Breitfelder v. Leis,343 the plaintiff sustained an injury that caused him to experience extreme pain in his neck and decreased mobility in his left arm.344 The plaintiffworked
+for the Sheriffs Department and, following the injury, requested a transfer to a
+
+333. Id. 334. RIGHTING THE ADA, supranote 10, at 62-63 (citing Ellison v. Software Spectrum, Inc., 85 F.3d 187 (5th Cir. 1996)). 335. Id. (citing Hamm v. Runyon, 51 F.3d 721 (7th Cir. 1995)). 336. Id. (citing McDonald v. Pennsylvania, 62 F.3d 92 (3d Cir. 1995)). 337. Id. at 61. 338. Burgdorf, supranote 208, at 474. 339. RIGHTING THE ADA, supranote 10, at 62. 340. 42 U.S.C.  12112(a) (2007). 341. DEFINING DiSAHILITY, supra note 52, at 2-3; see also Coleman v. Keystone Freight
+Corp., No. 04-2884, 2005 U.S. App. LEXIS 15734, *1, *7 (3d Cir. July 29, 2005) (agreeing with the district court's holding that plaintiff's evidence pertaining to drug therapy supported the
+conclusion that plaintiff was not qualified for his desired job). 342. Miller, supranote 221, at 476. 343. No. 04-4364,2005 U.S. App. LEXIS 21821, *1 (6th Cir. Oct. 7,2005).
+344. Id. at *2-*3.
+
+INDIANA LA WJOURNAL
+
+[Vol. 83:181
+
+ssuededentthaeryDoerpalirgtmhtendtutfyorjoebm.3p45loTymheenDtedpiasrctrmimenintadtieonni.ed346this request and the plaintiff
+Despite the sheriff's stated concern that the plaintiff was faking his disability, the Court concluded the plaintiff was a disabled person under the ADA.347 However, the
+district court and the Sixth Circuit concluded that the plaintiff was not qualified for the job he desired.348 This is a typical example of how an employer is able to make contradictory-and opportunistic-assertions. 349 InBreitfelder,the sheriff could claim
+the employee was faking his disability. Yet he also could simultaneously argue that the
+plaintiff was too disabled to be qualified for the particular job.
+The "reasonable accommodation" provision may help explain how a plaintiff will
+often be considered too disabled to be a qualified individual for the job. In Breitfelder,
+the plaintiff partly argued his case of discrimination by pointing to pertinent accommodations that were afforded other employees.35  Still, the Sixth Circuit noted
+that even if the plaintiff could have performed the essential tasks of a sedentary
+position with reasonable accommodation, it was his burden to suggest such accommodation. 351 The court concluded, "[s]ince he did not request to be
+accommodated in the same manner [as other coworkers], defendants did not fail to accommodate him." 352 Here again, the potentially discriminatory motives of an
+employer are ignored.
+Moreover in a situation like Breitfelder,courts coolly ignore the social implications
+of disability; in fact, given the cultural hostility toward disability, plaintiffs will often be reluctant to request reasonable accommodation. 353 This reluctance is a complicated
+dynamic. First, as noted above, disabled individuals have been taught to overcome
+
+345. Id. at *3. 346. Id.at*1. 347. Id. at *6, *14. 348. Id. at*14-*16. 349. See supra notes 317-20 and accompanying text (explaining how under the present law an employer may explicitly refuse to hire an individual because of an impairment, but then escape liability by arguing the impairment is not a disability under the ADA). 350. Breitfelder,2005 U.S. App. LEXIS 21821, at *20. 351. See id. at *16-*20 (concluding that if there was a failure to suggest a reasonable accommodation, "Breitfelder bears a significant amount of the responsibility for the break .... [R]ather than ask Sheriff Leis to make .. .accommodations for him, Breitfelder remained silent"). 352. Id. at *20. 353. See ENGEL & MUNGER, supranote 148, at 244-45, 251 (2003) (explaining the various reasons disabled individuals are often reluctant to assert disability rights in the workplace). Professor Hahn, founder and director of the Program in Disability and Society at the University
+of Southern California, has explained this dilemma well: Ina society where so many taken-for-granted facets ofthe environment favor their nondisabled peers, most disabled individuals have been socialized to believe that they can only compete on equal terms by relentless striving through overcompensation, or, in the nomenclature of the disability community, by
+becoming "supercrips." They have not been encouraged to request reasonable accommodations, and many have found it difficult to initiate legal action on the
+basis of a physical trait that they have been taught to "overcome." Hahn, supranote 140, at 181.
+
+2008]
+
+WHEN DISABILITY ISN'T "JUSTRIGHT"
+
+their disabilities through their own courageous efforts-to become supercrips. 354
+
+Second, many with disabilities have publicly refused to identify themselves as disabled, citing their desire to be evaluated in absolute terms. 355 For example, the
+
+famous astrophysicist Stephen Hawking expressed his desire to be judged on such
+
+terms and snubbed "special" activities like the Paralympics. 356 Such comments are
+
+typical of the cultural pressure disabled individuals have encountered to assimilate and
+
+work without special assistance. Accordingly, many potential cases are likely never
+
+brought because the employee simply caved when she was told she was not qualified
+
+for the job.
+
+This illustrates the tightrope a plaintiff must walk to prove that she is both disabled
+
+and qualified. She must emphasize all the things she cannot do in order to claim ADA
+
+protection, while at the same time downplaying certain limitations to prove she is qualified for the job.357 A plaintiff's case is rarely "just right."
+
+Quite a few scholars have suggested changes to the ADA, but the ADA Restoration
+
+Act, introduced in July of 2007, has yet to receive much scholarly examination. With
+
+all of the recent case law constricting the ADA's scope of inclusion, it seems
+
+appropriate protections
+
+totothroesweriwteiththdeisAabDilAiti'ses.d3e58finition
+
+of
+
+disability
+
+and
+
+restore
+
+civil
+
+rights
+
+II. RESTORING THE ADA: A RETURN TO THE SOCIAL MODEL OF DISABILITY
+
+Given the extraordinary entrenchment of the medical model of disability and the myriad ways in which the model affects everything from social policy,
+legislation, judicial decisions, and individual and societal perceptions about disability, those who seek to change the status quo face a daunting task ....359
+
+One might question how Congress drafted a disability statute that fails to provide
+
+effective recourse for the very people who consider themselves disabled. The answer
+
+lies in a bit of history. Before the ADA, there was the Rehabilitation Act of 1973.360
+
+This Act offered a national program ofvocational rehabilitation for those considered
+
+handicapped. Under the statute, a handicap was "a physical or mental impairment that
+
+substantially limits one or more of the major life "record of such an impairment," or "being regarded
+
+activities of as having such
+
+[an] individual," an impairment."
+
+36a1
+
+Interestingly, courts rarely reviewed the defmitional language of this statute. 362 The
+
+definition was understood to include any nontrivial medical condition and courts
+
+354. See ENGEL & MUNGER, supra note 148, at 21-30, 239 (2003) (discussing the life narrative of Sara Lane, a newspaper reporter with polio, who fears that asserting her legal rights under disability law might undermine her professional identity and jeopardize future opportunities for reporters with disabilities); Hahn, supranote 140, at 181; see also supranotes 42-47, 189, and accompanying text.
+355. RILEY, supra note 17, at 19. 356. Id. 357. Mayerson & Diller, supra note 274, at 124. 358. DEFINING DISABILITY, supranote 52, at 3. 359. Rovner, supra note 22, at 1095. 360. Pub. L. No. 93-112, 87 Stat. 355 (codified as amended at 29 U.S.C.  701 (1998)). 361. Feldblum, supra note 244, at 91. 362. BLANCK ET AL., supra note 228, at  3.1 (2004).
+
+INDIA NA LA W JOURNAL
+
+[Vol. 83:181
+
+applied the law's coverage in that manner.363 For example, in 1984---over ten years
+after the Rehabilitation Act's definition for handicap had been in effect-one federal
+district court noted that it was aware of only one decision where a court had decided a plaintiff was not handicapped. 36
+Thus, when disability advocates decided the Rehabilitation Act did not go far enough (since it did not apply to the private sector)365 and began to champion the
+ADA, Congress decided to copy its definition of disability from the Rehabilitation Act.
+Congress's intent was to extend the Rehabilitation Act to prohibit discrimination on the basis of handicap by private companies, as well as entities that received federal funds. 366 In short, "Congress felt comfortable relying on a definition that had fifteen
+years of experience behind it. And disability rights advocates felt comfortable that the
+same individuals, with the wide range of impairments, who had been covered under existing disability anti-discrimination law, would be covered under the ADA. 367
+The federal courts' current fixation on whether a person is "disabled enough" is thus entirely unprecedented. Before passage of the ADA, disability was handled much
+more in accordance with other types of discrimination. Just as courts hearing
+employment discrimination cases under Title VII never analyzed whether the plaintiff was truly a woman or entirely Muslim, courts hearing Rehabilitation Act cases "rarely
+tarried long on the question of whether a plaintiff was 'really a handicapped individual."' 368 Instead, as with Title VII, courts analyzing cases under the
+Rehabilitation Act focused on whether the plaintiff had proven the alleged discriminatory action was taken becauseofher handicap.369 Moreover, Congress spent
+
+363. Feldblum, supranote 244, at 91-92. 364. Tudyman v. United Airlines, Inc., 608 F. Supp. 739, 745 (C.D. Cal. 1984). 365. Though Title V of the Rehabilitation Act barred discrimination against handicapped individuals by programs that received federal funds, others thought this bar should extend to the private sector. See JOHNSON, supranote 18, at 14 (observing lobbyists' argument that the ADA would merely be an extension of Title V, which "has caused no one any trouble"). 366. Feldblum, supranote 244, at 92 (observing that "one of the best 'selling points' of the ADA was that Congress would simply be extending to the private sector the requirements ofan existing law"). As one commentator has clarified, however, Title V of the Rehabilitation Act was rarely enforced. See JOHNSON, supra note 18, at 14.
+367. Feldblum, supranote 244, at 92. Feldblum illuminates the mindset of those who were drafting the ADA: "Why use a new definition of disability in the ADA? Why not use the
+definition of 'handicap' that the courts had been applying for years under sections 501, 503, and 504 ofthe Rehabilitation Act of 1973." Id.at 91; see also Crossley, supranote 18, at 635 (citing
+congressional reports as proof that the ADA was intended to be interpreted consistently with section 504's language). "[A]dvocates lobbying for the ADA believed any individual with a serious illness or with a non-trivial impairment would be covered." BLANCK ET AL., supranote
+228, at  3.1 (citing Feldblum, supranote 244, at 156-57). 368. BLANCK ET AL., supra note 228, at  3.1. Some might respond that disability
+discrimination is altogether different than other forms ofdiscrimination. Indeed, one common way to try and differentiate the two types of discrimination has been to claim that people against
+disability rights are so because of economic incentives, and not because of any felt animus toward the disabled. JOHNSON, supra note 18, at 176 (observing that to many, disability has not been seen as the Jim Crow South, since allegedly, no animus is involved). As seemingly persuasive as this might sound, there has historically been a thin line between economic justifications and discriminatory motives.
+369. BLANCK ET AL., supra note 228, at  3.1.
+
+20081
+
+WHEN DISABILITY ISN'T "JUSTRIGHT"
+
+a great deal of time and words clarifying what constituted a disability prior to passage of the ADA.370 The idea, for example, of medication or assistive devices mitigating a
+
+condition, dismissed
+
+sbuychCothnagtreitsws.o" u37ld1
+
+no
+
+longer
+
+constitute
+
+a
+
+disability,
+
+"had
+
+been
+
+discussed
+
+and
+
+However, courts applying the ADA have ignored discrimination and inster-,
+
+focused on the limits of the protected class.372 The ironic result is that even though Lte
+
+ADA was a statute intended to expand the existing protections for disabled
+
+individuals, the ADA's
+
+373 the present focus on the definitional scope of protection in the employment
+
+bsoeuctnodrs. 3o74f
+
+disability
+
+has
+
+minimized
+
+A. The ADA RestorationAct: Escapingthe Goldilocks Dilemma
+
+The legislation recently introduced in July of 2007, the ADA Restoration Act,
+
+provides an excellent guidepost for a legislative overhaul of the ADA. The bill-which
+
+is based on the National Council on Disability's recommendations-would change the
+
+current focus of Title I from whether someone is disabled to whether that person
+
+experienced discrimination that has as its basis disability. It is without dispute that
+
+preventing disability discrimination was the ultimate goal of the ADA. In this context,
+
+the essence of the ADA Restoration Act is not some new rendition of the ADA, but
+
+rather, a return to the broad interpretation Congress originally intended for the
+
+statute.375Without addressing every change provided by the ADA Restoration Act, this
+
+Section will identify and explain a few ofthe provisions that would eliminate disabled
+
+plaintiffs' current dilemma under Title I of the ADA.
+
+First, this bill proposes that references in the statute to discrimination "against a
+
+qualified individual with a disability because of the disability of such individual" be
+
+replaced by references to simply discrimination "against an individual on the basis of disability. 37 6 This relatively subtle change accords with the general treatment of
+
+discrimination discrimination
+
+under other statutes. "on the basis of race,
+
+Title VII uses color, religion,
+
+similar language national origin,
+
+to and
+
+psreoxh."ib37it7
+
+Shifting the focus to prohibiting discrimination on the basis of disability would create
+
+the presumption that an individual is a member of the protected class if they allege
+
+370. O'BRiEN, supranote 41, at 164. 371. Id. 372. BLANCKETAL., supra note 228, at  3.1.
+373. The ADA not only expanded the types of entities that would be responsible to follow its mandates, but it also expanded the substantive nature of the protections provided for disabled individuals by: 1) addressing the need for reasonable accommodations; 2) prohibiting the segregation of people with disabilities into separate programs; and 3) prohibiting the use of criteria (or proxies) to screen out those with disabilities. Crossley, supranote 18, at 621-22.
+374. See supra Part1. 375. RIGHTING THE ADA, supranote 10, at 12, 101-02. The ADA Restoration Act explicitly states that one of its purposes is "to reinstate original congressional intent regarding the definition of disability" and proceeds to demarcate a broader scope of disability than that propounded by the federal judiciary. ADA Restoration Act of 2007, H.R. 3195, 110th Cong.  2(3) (2007). 376. H.R. 31955. 377. 42 U.S.C.  2000e-2(a) (2007).
+
+INDIANA LA W JOURNAL
+
+[Vol. 83:181
+
+such discrimination. 37 The current language-"against a qualified individual with a disability"-does not provide this presumption. 379This change would restore the social
+
+conception of disability and restoring the focus to simply
+
+driesjaebcitlitthyedjiusdcriicmiairnya'tsiornig. 3id80ly
+
+biomedical
+
+approach
+
+by
+
+Second, the ADA Restoratioh Act proposes that the definition for actual disability
+
+be shortened from "a physical or mental impairment that substantially limits one or
+
+more of the major life activities of such individual" to simply "a physical or mental impairment."38 Distilling this language would solve the problems that relate to the
+
+court's current emphasis on functionality and whether an individual is so disabled that
+
+she is "substantially limited. 3 language by itself has rarely
+
+82 As been
+
+noted used
+
+above, the "physical or mental to exclude plaintiffs in ADA
+
+icmapseairlmawe;n3t8"3
+
+rather, it is the technical analysis under "substantially limits" and "major life activities" that has left plaintiffs without a remedy.38 4 Moreover, whereas mental and
+
+physical impairment are currently undefined within the text of the ADA, the ADA
+
+Restoration Act provides definitions for mental and physical impairment that are extremely broad.385 The upshot is that under this Act, virtually all perceived
+
+disabilities would qualify for protection under the ADA. Simplifying the definition for
+
+disability would also harmonize with one ofthe proposed changes in construction: that
+
+the provisions of the ADA be "broadly construed to advance their remedial purpose.' '386 This construction would explicitly contravene the Supreme Court's ruling in Toyota Motor Manufacturing,Kentucky, Inc. v. Williams that eligibility for the
+
+AquDalAif'ysinpgroatescdtiiosanbslehdo.u,l3d87be "interpreted strictly to create a demanding standard for
+
+378. Press Release, U.S.H.R. Comm. on the Judiciary, Sensenbrenner/Hoyer Introduce Bipartisan Legislation Restoring Americans with Disabilities Act Protections (Sept. 29, 2006), http://judiciary.house.gov/ media/pdfs/ADAbillintro92906.pdf.
+379. Id. 380. RIGHTING THE ADA, supranote 10, at 11, 102. The ADA Restoration Act advances a broad, social model of disability by clarifying that ADA protection should be available to ameliorate:
+adverse treatment based on actual or perceived impairment, or record of impairment, . . . prejudic[ial] attitudes, such as myths, fears, ignorance, or stereotypes concerning disability or particular disabilities, . . . failure to remove societal and institutional barriers, including communication, transportation, and architectural barriers, and the failure to provide reasonable modifications to
+policies, practices, and procedures, reasonable accommodations, and auxiliary aids and services. ADA Restoration Act of 2007, H.R. 3195, 110th Cong.  2(b)(3) (2007).
+381. H.R.31954.
+382. See supraPart I.C. 383. See supranotes 228-29 and accompanying text. 384. See supraPart I.C. 385. H.R. 3195  4(3)-(4). "Physical or mental impairment" is presently defimed in the ADA's regulations. Id.However, given the lack ofdeference that has been given to regulations issued by the EEOC, including definitions in the text of the statute would leave less room for
+judicial interpretation.
+386. Id. at 7. 387. 534 U.S. 184, 197 (2002); see also H.R. 3195 2(a)(7) (noting in its findings that the Supreme Court's ruling in Williams was averse to "congressional expectations that disability
+
+2008]
+
+WHEN DISABILITY ISN'T "JUSTRIGHT"
+
+Third, the ADA Restoration Act states as another rule of construction that whether
+
+an individual has a physical or mental impairment should be determined without
+
+regard to an individual's use of mitigating measures or whether the impairment is
+
+episodic, in remission, or latent.388 This would solve the dilemmas discussed above in
+
+the Section on Kirkingburg,39
+
+mitigation Murphy v.
+
+389 by invalidating the cotWt's rulings United ParcelService,391 and Sutton v.
+
+UinniAteldbAeirrtlsionne'ss.3v9.2
+
+This portion of the Act would also nullify the question of how long a disability must
+
+last to qualify one for the ADA's protections.
+
+The ADA Restoration Act would generally eliminate a plaintiff's need to present
+
+scads of evidence demonstrating just how disabled she is. A plaintiffwould no longer
+
+have to collect and present the type of evidence that employers have often used to
+
+argue the plaintiff was "too disabled" and not "qualified" for the job.
+
+The recently proposed ADA Restoration Act did not incorporate all of the
+
+National Council on Disability's recommendations. At least one of its
+
+recommendations merits reconsideration by Congress. In particular, committees
+
+reviewing the ADA Restoration Act should consider incorporating language that
+
+conceptualizes disability on a continuum. The National Council on Disability has
+
+recommended the following language be included among Congress's findings:
+
+though variation inpeople's abilities and disabilities across a broad spectrum is a
+
+normal part of the human condition, some individuals have been singled out and
+
+subjected to discrimination because they have conditions considered disabilities by
+
+others; other individuals have been excluded or disadvantaged because their
+
+physical or mental impairments have been ignored in the planning and
+
+construction of facilities, vehicles, and services; and all Americans run the risk of
+
+being discriminated against because they are misperceived as having conditions
+
+they may resulting
+
+not from
+
+actually have or conditions they
+
+because do have.
+
+39o3f
+
+misperceptions
+
+about the
+
+limitations
+
+These statements explain that disability is more about a label than an acute deficiency.
+
+In fact, all people deficiencies. Some
+
+naturally have certain simply receive the label
+
+toypf desisaabnidlityd.e3g9r4ees
+
+of proficiencies
+
+and
+
+B. Broadeningthe Scope ofDisability
+
+The big picture change of the ADA Restoration Act would be to broaden the scope of disability and increase the number of those eligible for protection under the ADA. Though some might worry that this change would precipitate a flood of litigation,
+would be interpreted broadly"). 388. See H.R. 3195  4(2)(B)(i). Congress also explicitly states as one of its findings that,
+according to ADA committee reports, the use of mitigating measures should not eliminate anyone from the Act's coverage. Id.at 2(a)(8).
+389. See supraPart I.C. .b. 390. 527 U.S. 555 (1999). 391. 527 U.S. 516 (1999). 392. 527 U.S. 471 (1999). 393. RIGHTING THE ADA, supra note 10, at 19. 394. See supra note 71 and accompanying text (discussing how under this "continuum" conception of disability, the population is not capable of neat dissection into groups ofdisabled
+and non-disabled).
+
+INDIANA LA W JOURNAL
+
+[Vol. 83:181
+
+Justice Stevens anticipated just such a concern in his dissent in Sutton and responded
+with two arguments. First, Justice Stevens argued that requirements similar to United's eyesight
+requirement are unlikely to have justifiable application in most industries.395 In other words, it is difficult to envision many situations in which a qualified employee who needs glasses to perform her job might not be hired or fired because of the fact she
+cannot see well without them. For example, imagine if an accounting firm adopted a guideline refusing to hire any incoming accountant whose uncorrected vision did not meet a certain standard---or by the same logic, the firm refused to hire any person who was unable to avoid seizures without medication. 39 6 Such a rule would reek of invidious discrimination. Thus, allowing plaintiffs to challenge such rules by proving they are qualified in their mitigated state does not appear it would clog the dockets of federal courts. Besides, many of these cases are already likely brought and lost. A change, though, could curb such losses.
+Second, providing an expansive definition of who qualifies for statutory protection generally does not give anyone an undue advantage.397 As explained above, a broad approach to interpreting disability under the ADA accords with the treatment of civil rights under other major statutes. In his dissent, Justice Stevens observed that allowing
+those with poor eyesight or other correctable impairments to file lawsuits claiming disability discrimination, without having to fight a battle over whether they fit within the protected class, would be nothing foreign to civil rights jurisprudence. 398 The same individuals already may file presumptively valid employment discrimination claims on the basis of their race, sex, religion, color, and national origin.399 Justice Stevens
+concluded that "it is hard to believe that providing individuals with one more antidiscrimination protection will make any more of them file baseless or vexatious lawsuits. 40 0
+This same logic also applies to the more general broadening of disability advanced in the ADA Restoration Act. Why should it be much more difficult to have standing under the ADA, than under Title VII or the Age Discrimination in Employment Act?
+In any such case, the plaintiff still must prove they were qualified and that discrimination on the basis of a protected trait was the reason for an adverse employment decision. Moreover, in a case under the ADA seeking accommodation, the plaintiff would need to show her request was reasonable and would not cause the
+employer undue hardship.
+Finally, a narrow definition of disability is without the support of the ADA's legislative history.40 1 Indeed, both proponents and opponents ofthe ADA understood the definition of disability to have a very broad scope.40 2 To be sure, there were attempts to limit the definition of disability-for example, by excluding individuals with contagious diseases or a history of drug abuse-but none of these attempts
+
+395. Sutton v. United Airlines, Inc., 527 U.S. 471, 510 (1999) (Stevens, J.d,issenting). 396. Id. 397. O'BRIEN, supranote 41, at 17. 398. Sutton, 527 U.S. at 511 (Stevens, J., dissenting).
+399. Id. 400. Id. 401. COLKER, supra note 84, at 65. 402. Id.
+
+2008]
+
+WHEN DISABILITY ISN'T "JUSTRIGHT"
+
+succeeded.4 3 Though there were compromises to get the ADA passed, the definition of disability itself was not a source of compromise. 404
+The changes proposed in the ADA Restoration Act, if enacted, would ultimately mean that many more cases survive summary judgment. Though it is impossible to
+predict how much more success would be realized by surviving summary judgment-
+Ruth Colker has recently examined how statistics regarding ADA wins and losses are somewhat misleading 4 5-disabled plaintiffs would undoubtedly fare better. The ADA Restoration Act would treat disability more like protected categories under Title VII,
+where it is not usually necessary to prove one "qualifies" under the statute's protected
+classes. The presumption would shift from "not disabled" to "disabled" and from a "protected class" mentality to an "antidiscrimination" mentality.
+
+C. Educatingthe Public and the Judiciary
+
+Over the last two decades, disability has been a category rife with misunderstanding
+and misperceptions. Moreover, the general "notion that there has been some systematic
+*s.o.cial practice of discriminating against the disabled will strike most people as simply untrue. ''46 Accordingly, the EEOC should be charged with helping reverse
+some of these misperceptions. The EEOC should be assigned the task of developing reports as to certain disabilities that have been the distinct target of discriminating
+employers. Sharona Hoffman has recommended such a course of action-albeit for a slightly different purpose.40 7 She supports the creation of such reports to compile a list of non-exclusive and presumptive, or "per se," disabilities under the ADA. 40 8 Of course, the ADA Restoration Act would obviate the need for any presumptive
+disabilities. With the definition for actual disability shortened to simply "a physical or
+mental impairment," virtually all perceived disabilities would qualify for protection
+under the ADA.
+Notwithstanding her difference in purpose, she recommends the EEOC consult a variety of data sources to gather this evidence. 40 9 First, it should turn to historical
+records. It is well known that certain disabled groups have historically been targeted and subjected to extreme discrimination.4 10 At times, this has been as subtle as the
+architectural and communication barriers certain groups-such as the blind or paralyzed-face.4 1' At other times, this has been as explicit as state eugenics laws.412
+Where historical data is not available, the EEOC could utilize census data, polls, and
+
+403. Id. 404. Id. 405. Professor Colker has explained in part that "[w]in-loss data are affected by settlement decisions. Successful settlement outcomes are beneficial to plaintiffs but are not counted in
+judicial outcome statistics." COLKER, supranote 84, at 71-72; see also Hoffman, supra note 251, at 1244-47 (explaining why it is difficult to evaluate the statistical extent to which the ADA is providing relief to those who experience disability discrimination).
+406. Stein, supranote 22, at 604. 407. Hoffman, supranote 251, at 1251-58.
+408. Id. 409. Id. at 1253. 410. Id.
+411. Id.at 1253-54. 412. Id.at 1253.
+
+INDIANA LAW JOURNAL
+
+[Vol. 83:181
+
+other studies to supplement gaps in knowledge.4t 3 Some ofthis information could be compiled through external research, while some could be initiated internally by the EEOC. These very types of sources have provided support in the past for the passage ofanti-discrimination legislation.41 4 The EEOC should also examine its own records of discrimination charges,415 which would complement these other sources in its efforts to educate.
+The aforementioned sources of information could be utilized to generate reports chronicling the types of disability discrimination that have been pronounced or prevalent over the years. EEOC reports should be made available to the public and the
+judiciary, and drafted from the perspective that disability is largely a label-a social construction-people assign certain groups based on perceived differences. The goal ofthese reports would be to educate the public and judiciary concerning patterns and trends of disability discrimination. Though most of the public may not read these reports, it is likely they would be written about and presented by attorneys to the
+judiciary. Over time, the content of such reports would likely "trickle down" to the public as findings in these reports became mainstream knowledge.
+
+CONCLUSION
+The medical model ofdisability has been ubiquitous, with the public and judiciary continually reinforcing its underlying presuppositions. In popular culture, the result has been misperceptions, false stereotypes, and ultimately condescension. In the judiciary, the result has been that most lawsuits brought under Title I of the ADA are simply dismissed at summary judgment.
+While there are no perfect solutions, it is important to illuminate some of the subtle-and sometimes not so subtle-messages that are sent regarding the meaning of disability. Taking the time to examine these inputs is the first step in changing people's perceptions of disability. It is also essential to articulate a reasonable, practical solution to some of the current judicial dilemmas faced by those with disabilities. Though the opening comparisons to Goldilocks may seem lighthearted, this allusion reveals the grave reality that disabled plaintiffs are often leaving the courthouse having been told they were not disabled "just right" to qualify for the ADA's protections. This must be confusing for those who see the ADA as their only recourse.
+The ADA Restoration Act-bipartisan and recently re-introduced in the legislature-would restore much of the original, social model-based intent to the ADA and allow disabled plaintiffs to avoid debate as to whether they are disabled enough to utilize the ADA's protections. For these plaintiffs, they would likely be disabled "just right," enabling them to reach fundamental issues of discrimination and accommodation.
+
+413. Id. at 1255. 414. Id. 415. Id.
+
+

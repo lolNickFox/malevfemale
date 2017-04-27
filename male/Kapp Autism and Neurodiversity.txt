@@ -1,0 +1,413 @@
+Developmental Psychology
+Deficit, Difference, or Both? Autism and Neurodiversity
+Steven K. Kapp, Kristen Gillespie-Lynch, Lauren E. Sherman, and Ted Hutman Online First Publication, April 30, 2012. doi: 10.1037/a0028353
+CITATION Kapp, S. K., Gillespie-Lynch, K., Sherman, L. E., & Hutman, T. (2012, April 30). Deficit, Difference, or Both? Autism and Neurodiversity. Developmental Psychology. Advance online publication. doi: 10.1037/a0028353
+
+Developmental Psychology 2012, Vol. , No. , 000 - 000
+
+(c) 2012 American Psychological Association 0012-1649/12/$12.00 DOI: 10.1037/a0028353
+
+Deficit, Difference, or Both? Autism and Neurodiversity
+
+Steven K. Kapp, Kristen Gillespie-Lynch, Lauren E. Sherman, and Ted Hutman
+University of California, Los Angeles
+The neurodiversity movement challenges the medical model's interest in causation and cure, celebrating autism as an inseparable aspect of identity. Using an online survey, we examined the perceived opposition between the medical model and the neurodiversity movement by assessing conceptions of autism and neurodiversity among people with different relations to autism. Participants (N  657) included autistic people, relatives and friends of autistic people, and people with no specified relation to autism. Self-identification as autistic and neurodiversity awareness were associated with viewing autism as a positive identity that needs no cure, suggesting core differences between the medical model and the neurodiversity movement. Nevertheless, results suggested substantial overlap between these approaches to autism. Recognition of the negative aspects of autism and endorsement of parenting practices that celebrate and ameliorate but do not eliminate autism did not differ based on relation to autism or awareness of neurodiversity. These findings suggest a deficit-as-difference conception of autism wherein neurological conditions may represent equally valid pathways within human diversity. Potential areas of common ground in research and practice regarding autism are discussed.
+Keywords: autism, neurodiversity, parenting, adaptation, identity
+
+Many autistic people struggle with the difficulties associated with being autistic, viewing "difference" as a lonely experience of not belonging (e.g., Griffith, Totsika, Nash, & Hastings, in press; Humphrey & Lewis, 2008; Huws & Jones, 2008; Portway & Johnson, 2005; Ruiz Calzada, Pistrang, & Mandy, 2012), and some wish for a cure (Bagatell, 2010; Ortega, 2009; Punshon et al., 2009). However, autistic self-advocates within the neurodiversity, or autism rights, movement celebrate autism as inseparable from identity and challenge efforts to find a cause and a cure for it (Baker, 2011; Jaarsma & Welin, 2012; Jordan, 2010; Ortega, 2009).
+The movement arose primarily on the Internet in response to the perceived marginalization of autistic people by organizations run by parents of autistic people (Chamak, 2008; Ortega, 2009). Previous research has positioned neurodiversity and the medical model, which seeks to prevent and cure conditions like autism, in
+Steven K. Kapp, Graduate School of Education and Information Studies, University of California, Los Angeles; Kristen Gillespie-Lynch and Lauren E. Sherman, Department of Psychology, University of California, Los Angeles; Ted Hutman, Department of Psychiatry and Biobehavioral Sciences, University of California, Los Angeles.
+The first two authors contributed equally and share primary authorship. This work was supported by National Institutes of Health Grant R01HD40432 to Scott P. Johnson and by the FPR-UCLA Center for Culture, Brain, and Development. We would like to thank participants of the study and people who helped with recruitment. David S. Smith played an instrumental role in the design of the survey. We are grateful to Patricia M. Greenfield and her lab, especially Yalda T. Uhls for her opportune introduction, for generous advice on the survey and the article. Correspondence concerning this article should be addressed to Steven K. Kapp, UCLA Graduate School of Education & Information Studies, 3132 Moore Hall, Box 951521, Los Angeles, CA 90095, or to Kristen Gillespie-Lynch, UCLA Department of Psychology, 2311 Franz Hall, Los Angeles, CA 90095. E-mail: kapp@ucla.edu or proserpinae@ucla.edu
+
+binary opposition to one another, with parents of autistic people most commonly aligned with the medical model (Bagatell, 2010; Chamak, 2008; Clarke & van Amerom, 2008; Jordan, 2010; Orsini & Smith, 2010). This study aims to examine critically this opposition by investigating how awareness of neurodiversity and relationship to autism relate to three potential ways of responding to autism: elimination, amelioration, or celebration. Investigating these issues in terms of autism may shed light on how more generally to improve the quality of life of people on atypical developmental pathways.
+Medical Model: Elimination and Amelioration
+The medical model aspires toward normalization, symptom reduction, and elimination of conditions identified based on deficits said to cause functional impairment in major life activities (American Psychiatric Association, 2000; Baker, 2011). In the absence of biological markers, psychiatry mostly ascertains deficits on the basis of behavioral deviations from average (Anckarsater, 2010). This classification system tends to omit advantageous behaviors, the reasons for behaviors, and society's role in determining appropriate behaviors (American Psychiatric Association, 2000; Armstrong, 2010; Baker, 2011). It thus does not distinguish between conditions resulting mainly from poor person- environment fit and diseases that cause deterioration and even death (Baker, 2011). By framing people with these conditions as sick or at least at reduced capacity, the medical model often confers the ability to make care decisions, especially for children and people considered severely disabled, upon professionals and family members (Baker, 2011; Silverman, 2012).
+In apparent alignment with the medical model, many parents of autistic people pursue treatments for their child with the intention of cure, recovery, or at least a more normal appearance (Chamak, 2008). Many parents become knowledgeable about medical dis-
+
+1
+
+2 KAPP, GILLESPIE-LYNCH, SHERMAN, AND HUTMAN
+
+courses and practices, frequently delivering treatment as cotherapists (Silverman, 2012). Parents and scientists focus their advocacy predominantly on children, partly because of the belief that treatments work most effectively when delivered early in life (Baker, 2011; Silverman, 2012). Some parents oriented toward the medical model have represented autism as hostile and distinct from the child they love, and themselves as warriors fighting an outside force holding their child hostage (Langan, 2011).
+Indeed, many parents, professionals, and the lay public support the medical model by categorizing autism as a disease and even as an epidemic, based on the rise in number of diagnoses and belief in causal environmental factors (Hebert & Koulouglioti, 2010; Pellicano & Stears, 2011; Russell, Kelly, & Golding, 2010). Although expanded diagnostic criteria (American Psychiatric Association, 2000) and rising awareness at least contribute to this increase in prevalence (Matson & Kozlowski, 2011), environmental influences on autism's causation suggest that the incidence of autism has also risen (e.g., Landrigan, 2010). Some parent advocates have used the epidemic claim to argue for unnatural causes like toxins; comparability with deadly diseases; and the urgent need to screen, treat, and try to eradicate sickness as a public health crisis (Baker, 2011). Following advocacy by relatives of autistic people, basic science research, which often relates to causation, has received the majority of autism research funding in the United States (Singh, Illes, Lazzeroni, & Hallmayer, 2009). Parental interest in understanding the cause of autism often reflects the belief that etiology will elucidate family planning and treatment (Pellicano & Stears, 2011).
+Neurodiversity Movement: Celebration and Amelioration?
+A political identity among autistic self-advocates, and disabled people more generally, positively relates to a proud identity and opposition to treatment toward a cure (Bagatell, 2010; Brownlow, 2010; Clarke & van Amerom, 2008; Hahn & Belt, 2004). Mirroring the concerns of other disabled people and activists (Madeo, Biesecker, Brasington, Erby, & Peters, 2011), many autistic selfadvocates fear that cause-oriented research will lead to genetic prevention of autism (Baker, 2011; Orsini & Smith, 2010; Ortega, 2009; Pellicano & Stears, 2011). They also voice concern that prioritizing causation diverts resources from existing individuals (Pellicano & Stears, 2011; Robertson, 2010).
+While neurodiversity proponents tend to adopt a form of the social model of disability, distinguishing between a biological, underlying condition or way of being (autism) and disability rooted substantially in inaccessible social and political infrastructures (Baker, 2011), they essentialize autism as caused by biological factors and celebrate it as a part of natural human variation (Armstrong, 2010; Jaarsma & Welin, 2012; Ortega et al., 2009). Self-advocates often emphasize that autistic people's insider experiences qualify them to lead attempts to remedy sociopolitical barriers and enable equal opportunity, such as by challenging negative conceptions of autism and improving accommodations and services (Baker, 2011; E. T. Savarese et al., 2010).
+The neurodiversity movement seeks to provide a culture wherein autistic people feel pride in a minority group identity and provide mutual support in self-advocacy as a community (Baker, 2011; Jaarsma & Welin, 2012; Jordan, 2010; Ortega, 2009). View-
+
+ing the strengths, differences, and weaknesses associated with autism as central to identity (Ne'eman, 2010; Robertson, 2010), self-advocates tend to prefer identity-first (e.g., "autistic person") terms rather than the person-first (e.g., "person with autism") language typically employed by the research community (Bagatell, 2010; Orsini & Smith, 2010; Ortega, 2009).
+Neurodiversity advocates promote subjective well-being and adaptive rather than typical functioning, such as reliable, but not necessarily spoken, communication (Ne'eman, 2010; Robertson, 2010; E. T. Savarese et al., 2010; E. T. Savarese & Saverese, 2010). They oppose intervention that aims to eliminate unusual but harmless behaviors, like avoiding eye contact or repetitive body movements, across all contexts and without regard for the coping mechanisms they may serve (Chamak, 2008; Orsini & Smith, 2010; Ortega, 2009). Applied behavioral analysis (ABA) is one of the greatest sources of tension between many parents and selfadvocates, who have criticized intensive behavioral interventions that they believe often focus too narrowly and forcefully on normalization for its own sake (Baker, 2011; Chamak, 2008; Ne'eman, 2010; Orsini & Smith, 2010; Ortega, 2009; Silverman, 2012).
+In its pursuit of sociopolitical change and quality of life rather than cure, the neurodiversity movement has drawn controversy over to the extent to which it allows, if not encourages, amelioration of autism. While emerging literature suggests that leaders of the neurodiversity movement acknowledge some deficits of autism and support some interventions to ameliorate them (Ne'eman, 2010; E. T. Savarese et al., 2010; E. T. Savarese & Saverese, 2010), others have interpreted the movement's celebration of and opposition to elimination of autism as meaning that "highfunctioning" self-advocates oppose diagnoses and interventions to ameliorate deficits (Clarke & van Amerom, 2008; Jaarsma & Welin, 2012; Tincani, Travers, & Boutot, 2009).
+Deficit as Difference: Relations to Research Priorities
+Differences between the research priorities of medical researchers, parents of autistic individuals, and autistic self-advocates have led to a call for research that addresses the interests of parents and self-advocates (Pellicano & Stears, 2011). To our knowledge, no previous study has used the same measure to assess conceptions of autism among both the parents of autistic people and autistic people themselves. While much research has examined parental responses to autism, conceptions of autism held by autistic people and the lay public have received less attention (Huws & Jones, 2010; Pellicano & Stears, 2011). Learning about neurodiversity may serve as a turning point toward a more holistic conception of autism (Griffin & Pollak, 2009; King et al., 2003). Many parents come to feel strengthened by their child's disability (Cappe, Wolff, Bobet, & Adrien, 2011; Meadan, Halle, & Ebata, 2010; Russell & Norwich, in press) and may become allies of the movement (Bagatell, 2010; Langan, 2011; Ortega, 2009; R. J. Savarese et al., 2010). Increasing perception of positive aspects of autism may not decrease recognition of negative aspects for both autistic selfadvocates (Bagatell, 2010; Jones & Meldal, 2001; Punshon et al., 2009) and familial allies (R. J. Savarese et al., 2010).
+The current study approaches three primary aims by assessing conceptions of autism and neurodiversity among people with different relations to autism, including autistic people, parents of autistic people (some of whom are autistic themselves), nonparent
+
+AUTISM AND NEURODIVERSITY
+
+3
+
+relatives and friends of people on the spectrum, and people with no specified relationship to autism (a) to characterize awareness of and evaluations of the neurodiversity movement online (where the neurodiversity movement arose and often takes place; e.g., Jordan, 2010), (b) to confirm core distinctions between the medical model and the neurodiversity movement, and (c) to critically examine the perceived opposition between the medical model and the neurodiversity movement.
+Hypotheses of the Current Study
+Awareness and Evaluations of the Neurodiversity Movement
+We hypothesized that autistic people and their relatives would be more likely to be aware of neurodiversity than people with no relation to autism. Given that neurodiversity is enacted primarily online and generally by autistic people, we expected autistic people to be more likely to learn about it online and to define it less critically than others.
+Expected Distinctions Between the Medical Model and Neurodiversity
+Perceived causes and centrality to identity of autism. Because autistic self-advocates oppose research on the cause of autism, while parents generally endorse such research, we expected autistic people and people aware of neurodiversity to be more likely to reject the validity of a question about the cause of autism and parents of autistic people to be less likely to do so. Because autistic self-advocates view autism as a natural part of themselves, we expected autistic people and people aware of neurodiversity to be more likely to attribute autism to biology alone and to prefer an identity-first term for autism than their counterparts.
+Deficit as Difference: Elucidating Distinctions and Overlaps Between the Neurodiversity Movement and the Medical Model
+Perceived emotions about autism. Because neurodiversity awareness may serve as a turning point for autistic people, we expected autistic people and those aware of neurodiversity to endorse more positive emotions about autism than people with less contact with autism. Because negative emotions may be less susceptible to change, we expected these factors to have no relationship with endorsement of negative emotions about autism.
+Preferred parenting practices. Many of the tensions between the neurodiversity movement and the medical model focus on aspects of parenting, such as acceptable goals and means of intervening. Accordingly, we wished to determine whether some parenting practices are endorsed regardless of awareness of neurodiversity, signaling overlap between deficit- and differenceoriented views of autism, and whether some parenting practices are differentially preferred based on neurodiversity awareness.
+Given that autistic people, parents of autistic people, and neurodiversity proponents often celebrate autism yet recognize the importance of adaptive skills for autistic individuals, we expected these groups to be more supportive of parenting practices focused
+
+on adapting to their child or understanding autism as part of their child's identity but no less supportive of adaptive skills than their counterparts. Because autistic people and neurodiversity proponents are not often interested in eliminating autism, we expected them to be less supportive than other participants of parenting practices focused on finding a cause for and cure of autism and less supportive of services to help autistic people appear more typical.
+Method
+Participants
+Ethical approval from a university-based institutional review board was obtained prior to recruitment of participants. An online survey was then posted on SurveyMonkey (http://www .surveymonkey.com). No compensation was provided for participation. Before beginning the survey, participants completed an informed consent form online.
+Recruitment was conducted through online advertisements and through e-mailed and mailed invitations to participate. Online advertisements were posted on autism-related (including for autistic people and parents of autistic people) and disability-related forums, blogs, and discussion lists, as well as disability-related groups on social networking sites (Facebook and Myspace). Advertisements were also posted on Craigslist, an online classified advertisement community. All online recruitment sources based in physical locations were located in the United States or United Kingdom. Invitations to participate were e-mailed to members of autism advocacy and support groups located throughout the United States and United Kingdom. Invitations were also distributed to vocational rehabilitation centers, university disability offices, secondary schools, and a disability youth advisory board, all located in the state of California. The researchers, one of whom is an autistic self-advocate, also recruited participants from their own social networks and e-mail lists and asked their contacts to redistribute the survey invitation.
+An online survey was used, because the Internet overrepresents the activities and interests of both autistic self-advocates and parents who believe in and desire a cure for autism (Di Pietro, Whiteley, & Illes, in press; Jordan, 2010; Langan, 2011; Ortega, 2009; Reichow et al., in press; Stephenson, Carter, & Kemp, 2012). Efforts were made to recruit participants from numerous and diverse sources, including organizations that took explicit positions for or against curing autism (e.g., biomedical and intensive behavioral intervention-related organizations or autistic selfadvocacy groups).
+Participants who completed the survey (n  657) represent a diverse group of people. They ranged in age from 8 to 84 years with a mean of 32.5 years. More participants were female, regardless of diagnosis: 26.2% were male, 68.6% were female, and 3.5% were transgender or intersex. Because gender and autism were not independent of one another (see Table 1), transgender and intersex participants were dropped from analyses and gender was analyzed as a binary (male/female) variable. Education ranged from no education (0 years of schooling) to postdoctoral training (23 years of schooling) with a mean of 15.5 years. Relatively few participants were ethnic minorities: 78.7% of the participants were Caucasian, 4.6% were Hispanic, 2.7% were Asian, 1.8% were of African descent, .3% were Pacific Islander, and 6.1% were of
+
+4 KAPP, GILLESPIE-LYNCH, SHERMAN, AND HUTMAN
+
+Table 1 Demographics
+
+Variable
+N AQ Age Education Unemployed (% yes) Ethnicity (% White) Gender (% transgender) Gender (% male) Medical conditions (% yes)
+
+ASD-diagnosed
+223 35.32 (7.69) 30.80 (11.92) 14.86 (2.87)
+14.3 80.3
+4.9 30.5 43.5
+
+ASD-undiagnosed
+78 36.77 (5.84) 35.19 (12.33) 15.78 (2.94)
+12.8 85.9
+6.4 21.8 37.2
+
+Not ASD
+342 16.30 (7.70) 33.28 (13.70) 15.96 (2.93)
+2.9 76.3
+1.8 23.1 56.1
+
+Dx/NDx  NA Dx  NA Dx/NDx  NA
+Dx/ND  NA
+
+Note. AQ  Autism Spectrum Quotient; ASD  autism spectrum disorder; Dx  ASD-diagnosed; NDx  ASD-undiagnosed; NA  Not ASD. Numbers are presented as mean (SD) except where % is noted.    .01.    .001.
+
+mixed ethnicity. These percentages do not add up to 100% because some participants did not report their gender or ethnicity. Fourteen autistic participants did not know if they had received a diagnosis and thus were excluded from analysis. As can be seen in Table 1, participants who self-identified as autistic had more self-reported autistic traits on the Autism Spectrum Quotient (AQ) than nonautistic participants. While no significant differences in autistic traits were apparent between autistic participants who had and had not received a formal diagnosis of autism, those who had received a formal diagnosis reported fewer years of education and were more frequently unemployed than nonautistic participants. Neither location of residence nor familial income was ascertained.
+Survey Questions
+Please see the Appendix for a complete list of survey questions. Demographics. Participants were asked to report gender, age, highest level of education achieved, occupation, and ethnicity (see Table 1). Relationship to autism. Participants were asked a series of questions to ascertain their relationship to autism. Based on these questions, participants were grouped into the following analytic categories: "ASD diagnosed," "ASD undiagnosed," "parent of an autistic child," "nonparent relative of an autistic individual," "friend of an autistic individual," or "person without contact with ASD." Autism Spectrum Quotient. The AQ is a 50-item self-report measure that assesses the number of autistic traits an individual exhibits. It has satisfactory internal consistency and test-retest reliability and can be used to evaluate where an individual falls along a continuum of sociocommunicative differences that extends into the general population (Baron-Cohen, Wheelwright, Skinner, Martin, & Clubley, 2001). Individuals on the autism spectrum often score above 26 on the AQ (Woodbury-Smith, Robinson, Wheelwright, & Baron-Cohen, 2005). For the purposes of the current study, the AQ was used only to verify that participants who identified themselves as autistic endorsed more autistic traits than those who did not self-identify as autistic. Questions about neurodiversity. Participants were asked a series of questions to ascertain if and how they became aware of neurodiversity and what they thought neurodiversity was. Questions about autism. Autism as identity. Participants were asked whether they preferred the term "person with autism" or "autistic person."
+
+Emotions about autism. Autistic participants were asked to select emotions to characterize how they felt about autism. Multiple-choice answers were selected on the basis of pilot data. The frequency with which each participant endorsed positive (happy, proud, content, and excited) or negative (overwhelmed, sad, frustrated, angry, and ashamed) emotions about autism was calculated.
+Attitudes toward parenting. Participants were asked how they felt autistic people should be parented.
+Qualitative questions and coding. Regardless of previous awareness of neurodiversity, participants were asked to provide their own definition of neurodiversity: "What is the neurodiversity movement in your words?" Neurodiversity definitions were coded into mutually exclusive categories denoting their attitude. "Positive/neutral valence" responses did not include any disparaging remarks or criticisms of the neurodiversity movement and may have included discussion of the strengths of the movement. "Mixed valence" responses provided both a neutral definition as well as a criticism, or discussed both strengths and weaknesses of the movement. "Negative valence" responses discussed only negative aspects of the movement.
+The first and third authors double-coded 132 of the responses for each item, representing 20% of the sample. The remainder of the responses was coded by the first author. Agreement on the classification of the valence of neurodiversity definitions was 100% (Cohen's   1.0 on the valence of neurodiversity definitions).
+Participants were also asked, "What do you think is the cause of autism?" Responses to this question were coded into mutually exclusive categories. "Biological" responses defined the cause of autism as genetic in nature or described specific aspects of the biological or neurological differences between autistic and typically developing individuals. Responses categorized as "social environment" cited others' behaviors or attitudes as the cause of autism, whereas responses categorized as "physical environment" cited nonhuman aspects of the environment, such as toxins or vaccines. Many individuals cited causes that fit multiple categories or simply described autism as having several causes; these responses were categorized as "multiple causes." Some participants did not cite a specific cause of autism. These responses, which were coded into the category "Validity Rejection," described autism as part of the natural variation of human diversity or re-
+
+AUTISM AND NEURODIVERSITY
+
+5
+
+sponded that they did not care about the cause of autism. Participants who simply responded that they did not know the cause of autism, without providing a guess about the cause, were placed into the "other" category. Also in the "other" category were any responses that did not fit into the categories listed above, or responses in which the meaning was unclear. The inclusion of the "other" category allowed us to account for ambiguous responses. Agreement on the classification of cause statements was 91.1% (Cohen's   .88). Twenty percent of the responses to "What is your occupation?" were also coded by the first and third authors for employment or unemployment. Agreement on the classification of employment status was 98.48% (Cohen's   .83). Disagreements were resolved by discussion between the coders.
+Results
+The following demographic variables were included as covariates in all analyses: age, education, gender, and whether participants endorsed nonautism diagnoses. In that context, we refer to independent variables evaluated in connection with our hypotheses as "primary" variables throughout this section. Because of the large number of analyses conducted, only p values under .01 were considered statistically significant, and all post hoc contrasts included Bonferroni corrections. In order to include demographic variables as covariates in all analyses, binomial logistic regression analysis was employed for categorical outcome variables, and the general linear model was employed for continuous outcome variables.
+Awareness and Evaluations of the Neurodiversity Movement
+A binary logistic regression was conducted to determine if, over and above demographic characteristics, self-identification as autistic or the parent of an autistic child increased the likelihood of being aware of neurodiversity.
+This analysis confirmed that autistic participants, regardless of diagnosis, were more likely to be aware of neurodiversity than
+
+nonautistic participants. Being the parent of an autistic person was not associated with awareness of neurodiversity, but having an autistic friend was positively associated with awareness of neurodiversity. Increased educational attainment was positively associated with neurodiversity awareness.
+Focusing on participants who reported that they were aware of neurodiversity, we conducted a binary logistic regression to determine if, over and above demographic variables, self-identification as autistic increased the likelihood of learning about neurodiversity online (see Table 2).
+As hypothesized, autistic participants, regardless of diagnosis, were more likely to have learned about neurodiversity online. Parents and those with other relationships to autism were not more likely to have learned about neurodiversity online.
+Focusing on respondents who indicated that they were aware of neurodiversity, we used a binomial logistic regression to analyze predictors of attitudes toward neurodiversity, as indexed by the presence or absence of criticism of neurodiversity within their definitions of it. The overall model was not significant (p  .096). Indeed, the majority of respondents provided uncritical definitions of neurodiversity. For participants in the current study, awareness of neurodiversity was generally associated with uncritical attitudes toward the movement. See Table 3 for the frequency with which each type of description of neurodiversity occurred.
+As expected, autistic people and friends of autistic people, but contrary to expectations not relatives of autistic people, were more likely to be aware of neurodiversity than people with no relation to autism. Supporting previous qualitative research (e.g., Jordan, 2010) autistic people were more likely to learn about neurodiversity online than others. Contrary to our hypotheses, the majority of participants in the current study were uncritical of the neurodiversity movement, regardless of their relation to autism.
+Expected Distinctions Between the Medical Model and the Neurodiversity Movement
+Perceived causes and centrality to identity of autism. A binary logistic regression was run to determine if awareness of
+
+Table 2 Predictors and Source of Neurodiversity Awareness
+
+Predictors of neurodiversity awareness
+
+Variable
+ASD diagnosed ASD undiagnosed Friend Family ASD Parent ASD Other diagnosis Age Education Gender Constant
+Model 2 Cox & Snell R2 Nagelkerke R2
+
+Odds ratio
+3.674 2.919 3.271 1.412 1.280 1.178 1.010 1.144 0.856 0.030
+120.651 .201 .269
+
+SE
+0.237 0.344 0.200 0.249 0.289 0.199 0.010 0.040 0.236 0.639
+
+p
+.001 .002
+.001 .165 .393 .411 .300 .001 .512
+.001
+.001
+
+Note. ASD  autism spectrum disorder.    .01.    .001.
+
+Learning about neurodiversity online
+
+Odds ratio
+
+SE
+
+p
+
+6.061 10.827
+0.769 1.385 1.650 2.132 0.966 0.992 0.429 2.842
+65.615 .202 .284
+
+0.343 0.570 0.319 0.368 0.395 0.300 0.014 0.059 0.355 0.974
+
+.001 .001
+.410 .376 .204 .012 .014 .890 .017 .283
+.001
+
+6 KAPP, GILLESPIE-LYNCH, SHERMAN, AND HUTMAN
+
+Table 3 Valence of Neurodiversity Definitions by Participants Aware of Neurodiversity
+
+Valence Positive or neutral Mixed
+Negative
+
+"What is the neurodiversity movement in your words?" Examples of coding based on attitudes toward the neurodiveristy movement.
+80.5% of those aware of neurodiversity provided this type of definition "We are all a spectrum and all different, it is not normal vs. disabled." "A group that has taught me to accept my son EXACTLY for who he is." "Accepting that people are different, that diversity in how our brains work enriches humankind." 3.4% of those aware of neurodiversity provided this type of definition "Sadly they seem angry that we want to help our sick children and act like we hate them if we do. Though I do think
+there is a place for it and I am sure many ppl benefit from being part of a group the celebrates who they are." "They want society to accept that we're all different, but we're all just human beings and we should all be accepted
+for who we are. SOME in the neurodiversity movement however go to extremes, they want autistics to be treated SPECIAL, they make demands for changes in society that are a bit too rigorous and even silly in my opinion." "Inclusiveness, acceptance, a bit idealistic really." 1.8% of those aware of neurodiversity provided this type of definition "A small group of people with a strong sense of entitlement and specialness." "The idea that we autistic folks are not "abnormal," just a different kind of normal. (This is bullshit.)" "A compendium of annoying adult children who need to adapt and stop finding pride in their inherent failure as human beings."
+
+neurodiversity and self-identification as autistic were associated with greater likelihood of rejecting the validity of a question about the cause of autism, while self-identification as the parent of an autistic individual was associated with greater likelihood of providing a cause (see Table 4).
+Being the parent of an autistic child was negatively related to the likelihood of rejecting the validity of the question. Thus, parents viewed the cause of autism in a manner that was not consistent with the neurodiversity movement. Contrary to expectations, neither awareness of neurodiversity nor self-identification as autistic was associated with likelihood of rejecting the validity of the question.
+A binary logistic regression was run to determine if awareness of neurodiversity and self-identification as autistic were associated with greater likelihood of providing a purely biological cause for autism relative to a cause that attributed autism at least partially to
+
+environmental input (social, physical, or multiple causes; see Table 4).
+Self-identification as autistic, regardless of diagnosis, was associated with greater likelihood of selecting a biological cause while education was associated with greater likelihood of endorsing an environmental component.
+We conducted a binary logistic regression analysis to determine whether awareness of neurodiversity and self-identification as autistic corresponded with increased likelihood of preferring an "identityfirst" description of autism ("autistic person" rather than "person with autism") beyond demographic characteristics (see Table 5).
+Both self-identification as autistic, regardless of diagnosis, and awareness of neurodiversity were associated with a greater likelihood of preferring the term "autistic person" to the term "person with autism." While autistic people and people who were aware of neurodiversity tended to prefer identity-first language, parents of
+
+Table 4 Cause-of-Autism Items: (a) Validity Rejection Versus Providing a Cause and (b) Biological Versus Environmental Factors
+
+(a) Validity rejection versus providing a cause
+
+(b) Biological versus environmental factors
+
+Variable
+
+Odds ratio
+
+SE
+
+p Odds ratio
+
+SE
+
+p
+
+Neurodiversity awareness ASD diagnosed ASD undiagnosed Friend Family ASD Parent ASD Other diagnosis Age Education Gender Constant
+Model 2 Cox & Snell R2 Nagelkerke R2
+
+2.051 1.610 1.571 1.813 0.380 0.150 2.371 1.020 0.966 0.872 0.031
+27.874 .062 .136
+
+0.438 0.407 0.581 0.402 0.449 0.667 0.375 0.015 0.071 0.408 1.166
+
+.101 .242 .437 .139 .031 .004 .022 .199 .630 .738 .003
+.002
+
+0.789 2.802 3.378 1.024 0.950 0.752 1.362 0.990 0.867 1.150 8.856
+48.265 .116 .155
+
+0.247 0.263 0.374 0.241 0.273 0.315 0.225 0.011 0.049 0.260 0.765
+
+.337 .001
+.001 .921 .850 .365 .169 .362 .004 .592 .004
+.001
+
+Note. ASD  autism spectrum disorder.    .01.    .001.
+
+AUTISM AND NEURODIVERSITY
+
+7
+
+Table 5 Predicting a Preference for an "Identity-First" Label
+
+Variable
+
+Odds ratio
+
+Neurodiversity awareness ASD diagnosed ASD undiagnosed Friend Family ASD Parent ASD Other diagnosis Age Education Gender Constant
+Model 2 Cox & Snell R2 Nagelkerke R2
+
+1.891 2.719 2.895 1.561 0.926 0.916 1.244 0.980 0.950 1.025 1.031
+73.165 .135 .182
+
+Note. ASD  autism spectrum disorder.    .01.    .001.
+
+SE
+0.220 0.231 0.332 0.212 0.244 0.303 0.200 0.010 0.040 0.234 0.590
+
+p
+.004 .001
+.001 .035 .752 .772 .277 .053 .198 .914 .959
+.001
+
+autistic people and those with other types of relationships to autistic people did not have a preference for either term.
+In apparent alignment with the medical model, parents were less likely to reject the validity of a question about the cause of autism than other participants. Unexpectedly, autistic participants and people aware of neurodiversity were not particularly likely to question its validity. In alignment with autistic self-advocates' view of autism as a natural part of themselves (e.g., Ortega, 2009), autistic participants were more likely to attribute autism to purely biological causes, relative to causes with an environmental component, than other groups. Consistent with the neurodiversity movement's view that autism is central to identity, autistic participants and people aware of neurodiversity were more likely to prefer the term "autistic person" to the term "person with autism" than their counterparts.
+
+Deficit as Difference: Elucidating Distinctions and Overlaps Between the Neurodiversity Movement and the Medical Model
+Perceived emotions about autism. In order to determine if positive emotions about autism varied as a function of neurodi-
+
+versity awareness and relationship to autism, a univariate analysis was conducted with the number of positive emotions participants selected to describe how they would or did feel about being autistic as the dependent variable. Self-identification as autistic (a variable with three levels: autistic diagnosed, autistic undiagnosed, and not autistic), contact with autism (a variable with four levels: parent of autistic person, nonparent relative of autistic person, friend of autistic person, and no relationship with autistic person), neurodiversity awareness, and demographic variables were entered as independent variables.
+There was a main effect of neurodiversity awareness, F(1, 476)  7.366, p  .007, 2  .015, and self-identification as autistic, F(2, 476)  23.986, p  .001; 2  .092, adjusted R2  .247. People who were aware of neurodiversity (M  1.084, SE  0.083) endorsed more positive emotions about autism than participants who were not aware of neurodiversity (M  0.593, SE  0.098). Both diagnosed and undiagnosed autistic individuals endorsed more positive emotions about autism than nonautistic individuals (see Table 6).
+To examine negative emotions about autism, a univariate analysis was conducted, with independent variables identical to those above and the number of negative emotions about autism endorsed as the dependent variable. No main effects or interactions were observed. Thus, awareness of neurodiversity and selfidentification as autistic were related to positive but not negative emotions about autism. Being the parent of an autistic individual was unrelated to positive or negative emotions about autism.
+Consistent with a nuanced view of the neurodiversity movement wherein recognition of the strengths of autism does not obscure understanding the difficulties associated with autism, selfidentification as autistic and awareness of neurodiversity were associated with endorsing more positive, but not less negative, emotions about autism.
+Preferred parenting practices. A multivariate analysis of covariance was run with the independent variables described for the univariate analyses above. The dependent variables can be viewed in the Appendix. Mean scores by autism identification can be viewed in Table 6.
+Main effects of self-identifying as autistic, F(12, 928)  2.758, p  .001, 2  .035; of neurodiversity awareness, F(6, 463) 
+
+Table 6 Endorsement of Survey Questions by ASD Identification
+
+Variable
+Neurodiversity (% aware) Neurodiversity (% online)a Validity cause (% reject) Cause (% purely biological) Positive emotions Negative emotions Seek cureb Teach adaptive skillsb Teach appear typicalb Know autism part identityb Learn causeb Learn child's languageb
+
+ASD diagnosed
+75.8 85.2 10.8 46.2 1.42 (1.25) 1.35 (1.49) 1.85 (1.18) 4.62 (0.65) 3.01 (1.30) 4.85 (0.46) 2.65 (1.30) 4.70 (0.67)
+
+ASD undiagnosed
+70.5 89.1 10.3 51.3 1.01 (0.99) 1.38 (1.29) 1.83 (1.11) 4.54 (0.77) 2.95 (1.22) 4.82 (0.50) 2.55 (1.20) 4.60 (0.77)
+
+Not ASD
+42.7 49.3 10.6 28.4 0.38 (0.81) 1.66 (1.45) 3.01 (1.31) 4.69 (0.55) 3.48 (1.07) 4.69 (0.68) 3.36 (1.21) 4.53 (0.76)
+
+Note. ASD  autism spectrum disorder. Numbers are presented as mean (SD) except where % noted. a Among people aware of neurodiversity. b Questions about parenting practices.
+
+8 KAPP, GILLESPIE-LYNCH, SHERMAN, AND HUTMAN
+
+3.203, p  .004, 2  .040; and other medical conditions, F(6, 463)  3.051, p  .006, 2  .038, were observed.
+Post hoc contrasts indicated that diagnosed autistic participants found it less important to try to understand the cause of one's child's autism than nonautistic participants (see Table 6; p  .003). Undiagnosed autistic participants did not differ from either diagnosed autistic or nonautistic participants in their interest in the cause of autism. Both diagnosed and undiagnosed autistic participants found it less important to seek a cure for one's child's autism than nonautistic participants (see Table 6; p  .001). People who were aware of neurodiversity (M  2.042, SE  0.098) were less interested in a cure for autism than those who were not (M  2.864, SE  0.117; p  .001). Despite the main effect of medical conditions for the overall multivariate analysis of variance, no significant post hoc effects of diagnosis were observed after Bonferroni correction.
+As expected, no group differences in endorsement of parenting practices aimed at helping a child develop adaptive skills were observed. Consistent with the neurodiversity movement's rejection of eliminating autism, autistic participants and people aware of neurodiversity found it less important for parents to try to seek a cure for autism than their counterparts. Contrary to expectations, awareness of neurodiversity was not associated with decreased interest in the cause of autism although self-identification as a diagnosed autistic was. Also contrary to expectations, autistic participants and those aware of neurodiversity were no less likely to support parenting practices aimed at helping autistic people appear typical and no more likely to endorse practices aimed at understanding autism as part of a child's identity than their counterparts.
+Discussion
+Characterizing the Neurodiversity Movement Online
+Autistic people were more likely to be aware of neurodiversity and to have learned about it online than nonautistic people. Many autistic people's preferences for the Internet as a communicative medium (Benford & Standen, 2009; Jordan, 2010) may have facilitated their learning about neurodiversity online. The generally uncritical definitions of the neurodiversity movement provided by participants in this study contrasts with previously reported criticisms of the neurodiversity movement (Bagatell, 2010; Baker, 2011; Chamak, 2008; Ortega, 2009). As it has become more political, the movement has achieved better representation in the media, public policy, and parent-led autism advocacy organizations (Baker, 2011; Nicolaidis et al., 2011; Pellicano & Stears, 2011; E. T. Savarese & Saverese, 2010; Silverman, 2012) and reached out more actively to allies (Baker, 2011; Nicolaidis et al., 2011; Orsini & Smith, 2010; Robertson, 2010). Additionally, the language and content of the survey may have led to its selective completion by people who were generally uncritical of the movement. Some participants may also have interpreted our question about the movement as an invitation to provide only a descriptive, rather than evaluative, definition.
+
+Core Distinctions Between the Medical Model and the Neurodiversity Movement: Centrality to Identity and Opposition to Elimination
+Results revealed clear distinctions between the medical model and the neurodiversity movement in terms of the perceived cause and importance of curing autism, positive emotions about autism, and the centrality of autism to identity. Formally diagnosed autistic participants expressed relative disinterest in parental efforts to find a cause for autism, while parents were least likely to reject the validity of finding a cause. Autistic people may assign a lower priority to research on autism's causation because of concerns about genetic testing and worry that efforts to identify the cause may divert resources from services for existing autistic individuals (Baker, 2011; Orsini & Smith, 2010; Ortega, 2009; Pellicano & Stears, 2011) or because of a greater likelihood of attributing it to biology alone.
+Contrary to both the social model of disability, wherein disability is socially constructed, and the medical model, wherein autism is generally viewed as arising from environmental and genetic causes (e.g., Pellicano & Stears, 2011), autistic individuals endorsed a relatively essentialist biological attribution of autism. While autistic people have referred to their brain as the obstacle preventing them from social acceptance (Humphrey & Lewis, 2008), becoming aware of their autism often offers them a sense of exoneration in explaining the neurological basis of their challenges (Punshon et al., 2009). Biological attributions may offer autistic people protection from the greater stigma associated with disabilities viewed as within one's control (Hinshaw & Stier, 2008). The neurodiversity movement's celebration of the brain may thus appeal to autistic people who likely already think of autism as a natural part of themselves.
+Deficit as Difference: Celebration and Amelioration
+The current study suggests that awareness of neurodiversity and self-identification as autistic correspond with a deficit-asdifference conception of autism. While both autistic identity and neurodiversity awareness were unrelated to negative emotions about autism and endorsement of the importance of helping a child build adaptive skills and-- contrary to our expectations--appear more typical, both were associated with positive emotions about autism, a preference for identify-first language, and disinterest in a cure. These findings suggest self-identification as autistic and awareness of neurodiversity reduce neither acknowledgment of deficits associated with autism nor support for ameliorative interventions, while they contribute to viewing autism as a positive identity that needs no cure. Such a deficit-as-difference conception of autism suggests the importance of harnessing autistic traits in developmentally beneficial ways, transcending a false dichotomy between celebrating differences and ameliorating deficits (R. J. Savarese et al., 2010).
+The association between neurodiversity awareness and viewing autism as a positive identity may represent the convergence of social and medical model viewpoints. Positively reframing autism often helps parents of children with disabilities such as autism (e.g., Cappe et al., 2011; Hall, Neely-Barnes, Graff, Krcek, & Roberts, 2012; Meadan et al., 2010; Russell & Norwich, in press) and people with disabilities like autism (e.g., Clarke & van Am-
+
+AUTISM AND NEURODIVERSITY
+
+9
+
+erom, 2008; Jones & Meldal, 2001; Griffin & Pollak, 2009) cope. Reframing can consist of viewing autism as a difference rather than a deficit or of believing that autistic people will outgrow the problems associated with autism (Samios, Pakenham, & Sofronoff, 2008). The social model's distinction between the condition and disability is not part of the medical model. Thus, an autistic person who has achieved a happy, productive, and independent life might be considered recovered in the medical model (Baker, 2011; Silverman, 2012) but living adaptively with and in part because of their autism in the social model (E. T. Savarese et al., 2010).
+Although we expected autistic people, parents of autistic people, and people aware of neurodiversity to endorse celebration-related parenting practices more than their counterparts, most participants endorsed such practices. This may reflect recognition of the lack of a cure for autism and, hence, the practicality of recognizing it as part of identity. It may also reflect an understanding of the importance of recognizing a child's developmental level in order to help him or her expand upon it and that parental positive emotions about and acceptance of autism may not relate to child characteristics (Hutman, Siller, & Sigman, 2009; Milshtein, Yirmiya, Oppenheim, Koren-Karie, & Levi, 2010; Oppenheim, Koren-Karie, Dolev, & Yirmiya, 2009; Totsika, Hastings, Emerson, Lancaster, & Berridge, 2011; Wachtel & Carter, 2008).
+The unexpected lack of differential endorsement of services to appear more typical, coupled with the predicted agreement on the importance of adaptive skills, suggest that autistic people and people aware of neurodiversity support at least some forms of behavioral interventions (e.g., R. J. Savarese et al., 2010). Like the false dichotomy between celebrating differences and ameliorating deficits, developmental and behavioral intervention approaches have shifted toward and can complement one another (Callahan, Shukla-Mehta, Magee, & Wie, 2010; Vismara & Rodgers, 2010). Callahan et al. (2010) found that parents and professionals reported equal satisfaction with the principles of ABA and another wellestablished model that claims to respect the "culture of autism" (TEACCH; Mesibov, Shea, & Shopler, 2004). Similarly, parent education programs using ABA that emphasize strengths rather than deficits appear to strengthen parent- child interaction (Steiner, 2011). Neurodiversity proponents have encouraged the use of interventions that leverage a person's interests and strengths to address challenges positively (E. T. Savarese et al., 2010; R. J. Savarese et al., 2010). They have noted that restricted interests, a core symptom of autism (American Psychiatric Association, 2000), can, with support, enhance the social-communicative development of young children (R. J. Savarese et al., 2010) and mature into selective advantages (Armstrong, 2010; Brownlow, 2010).
+Moreover, neurodiversity proponents have suggested the usefulness of learning to appear more typical selectively as a coping strategy rather than an end in itself (Baker, 2011; Jones & Meldal, 2001), perhaps because the stigma of mental disabilities may reduce functioning more than the deficits (Hinshaw & Stier, 2008). Accordingly, even autistic people who support the ideals and long-term goals of the neurodiversity movement may view adapting to a "neurotypical" world as a practical matter, given the slower pace of and less control over sociopolitical compared with personal change. Neurodiversity and disability rights advocates have likewise expressed acceptance of choice regarding identity, prevention, and cure based on comprehensive information that
+
+includes disabled people's views, abilities, and opportunities (Baker, 2011; Beauchamp-Pryor, 2011; Madeo et al., 2011).
+Limitations
+The online, self-selecting recruitment method and lack of detailed clinical information may bias the sample toward higher developmental and socioeconomic statuses relative to previous studies (e.g., Brugha et al., 2011) and thus limit generalizability of our results. More educated participants had higher awareness of neurodiversity, possibly suggesting less positive attitudes among people with less knowledge about it. Moreover, the autistic sample included a disproportionately large number of females (despite autism's much higher prevalence among males; e.g., Kim et al., 2011) and people without formal diagnoses, groups at the margins, if not outside, of current and proposed diagnostic criteria for the autism spectrum (Frazier et al., 2012). A substantial proportion of autistic adults, especially females, with clear clinical histories may not present as autistic in behavioral diagnostic assessments adapted from childhood measures because they develop coping skills that superficially mask autism (Lai et al., 2011). Indeed, most people who meet diagnostic criteria for autism may be near the margins of a diagnosis, as recent studies on the prevalence of autism in total population community-based samples found that across the lifespan, most people who met criteria for ASD had not been previously diagnosed because of milder symptoms (Brugha et al., 2011; Kim et al., 2011; White, Ollendick, & Bray, 2011).
+The sample may be more representative of the online autistic community and proponents of neurodiversity. Autistic females may be overrepresented online, as another recent online survey of autistic adults recruited an even higher female-to-male ratio (Gilmour, Schalomon, & Smith, 2012). They may disproportionately engage with the online community for social support and self-advocacy because of their greater difficulties in gaining recognition as autistic (Jack, 2011). Many people claim an autistic identity through participation in online communities (Giles & Newbold, 2011; Jordan, 2010). Other reasons for the high number of informally diagnosed people could include difficulties directly diagnosing adults, accessing qualified professionals, and affording the evaluation, as well as expected problems with accessing services or accommodations if diagnosed. Future studies should examine why some self-identified autistic people lack a diagnosis as well as differences between formally and informally diagnosed autistic people. To the extent that this study overrepresents females, high-functioning autistic people, people who have selfdiagnosed, and neurodiversity proponents, it provides evidence that they recognize deficits and support some ameliorative interventions.
+Future surveys of this kind will benefit from the development of a scale (the reliability and validity of which could be assessed) to evaluate conceptions of neurodiversity by including more questions on each topic and evaluating the coherence of questions within each topic in order to permit analysis of the latent structure of the constructs. While the potential choices for the question about emotions about autism were selected on the basis of pilot data, the unequal number of positive, negative, and neutral emotions could have biased results. Additionally, asking directly whether participants were interested in understanding the cause of or finding a cure for autism may have been less confusing and
+
+10 KAPP, GILLESPIE-LYNCH, SHERMAN, AND HUTMAN
+
+more directly relevant than asking whether they thought parents should focus on such issues.
+This study's lack of nonacademic community members among its research team may have reduced sensitivity to participants' diverse interests and needs. Despite clear indications in the instructions that assistance could be offered to respondents who were unable to complete the survey independently, a shorter survey would have benefited people with limited language skills or less available time. While the survey's topics and language may have discouraged people critical of the neurodiversity movement, criticisms of the AQ as lacking nuance from autistic participants suggest parts of the survey may have offended proponents of the movement. Indeed, when asked how the survey could have been improved, autistic participants expressed disappointment with our use of the AQ and concerns that we would use it to group them. They stated that it lacked nuance and upheld autism stereotypes-- especially the controversial theory of autism as an extreme form of the male brain (Jack, 2011; Krahn & Fenton, 2012).
+Deficit as Difference: Recommendations for Research Priorities
+Autistic people, parents, and other parties may have relatively few absolute differences in their views about autism or neurodiversity but, rather, disagree mainly on nuances too subtle for our survey to capture, such as research service priorities. Future studies should focus more directly on the explicit research and service priorities of people with different relations to autism in order to tailor research and services to the needs of stakeholders. They should recruit both online and offline and incorporate communitybased participatory research that includes autistic people, parents, practitioners, and researchers in every step of the research process (Ne'eman, 2010; Nicolaidis et al., 2011; Orsini & Smith, 2010; Pellicano & Stears, 2011; Robertson, 2010). Such research could develop methods for studying a broader range of autistic and nonautistic people while combining scientific rigor with community needs. The results of this study suggest potential for collaborative research to find common ground on best practices in providing interventions and services to help autistic people and their families across the lifespan. If future, more generalizable research replicates this study's finding that officially diagnosed autistic people have less interest in the cause of autism, a higher proportion of research funding may shift toward interventions and services as the interests of autistic people and the objectives of the neurodiversity movement become better represented in public policy. Indeed, this shift may have already begun. Parent-led advocacy organizations' proportion of funding of basic science and causation research has dropped compared with funding of clinical and translational research (Singh et al., 2009).
+Community-based participatory research should examine the movement's breadth beyond autism (Beauchamp-Pryor, 2011). Conceptually, many neurological conditions have variable traits, fluid boundaries among one another, a continuous nature within the general population, and strengths beyond or as part of significant challenges (Anckarsater, 2010; Armstrong, 2010). As autistic self-advocates relate the brain to both the mind (cognition and emotions) and the body (sensation and movement), neurodiversity appears applicable beyond mental conditions (Robertson, 2010; E. T. Savarese et al., 2010). Nevertheless, neurodiversity propo-
+
+nents disagree on criteria for eligibility in the broader movement; some autistic advocates suggest aversion to conditions that revolve around distress (Ne'eman, 2010; E. T. Savarese et al., 2010), while allies and scholars have included them (Armstrong, 2010; Baker, 2011; E. T. Savarese & Saverese, 2010). Similarly, disability rights advocates often think the social model does not apply to pain and chronic illness (Beauchamp-Pryor, 2011). Politically, the movement may have greater appeal among "invisible" conditions with unknown causes, given the belief that constructing a biological identity reduces judgment and improves access to services (Baker, 2011; Orsini & Smith, 2010), and among conditions with early age of onset, which is positively associated with disability pride (Beauchamp-Pryor, 2011; Hahn & Belt, 2004).
+Conclusion
+This study provides support for the notion of disability as an interaction between social factors and personal deficits, the challenges of which do not necessarily make life less valid or worthwhile but an equally valid part of human diversity, especially in the subjective experience of disabled people. Considering that autism is diagnosed primarily on the basis of social deficits (American Psychiatric Association, 2000), autistic people's apparent acknowledgment of their deficits and acceptance of means to ameliorate them challenge a purely social model of disability in which oppression alone creates disability, a notion disability rights advocates increasingly criticize as not recognizing that deficits themselves lower quality of life (Beauchamp-Pryor, 2011; Palmer & Harley, in press). Neurodiversity advocates, while often emphasizing social barriers, have acknowledged this interrelationship between internal and social challenges (Baker, 2011; Ne'eman, 2010).
+Indeed, an international biopsychosocial model of causation of and support for disability now prevails (Leckman & March, 2011; Palmer & Harley, in press). This emerging, nuanced understanding of disability may require disentanglement of symptoms and adaptive functioning (Anckarsater, 2010) and care supporting significantly challenged people, including considering the perspectives, abilities, and opportunities of people with disabilities (Baker, 2011; Beauchamp-Pryor, 2011; Madeo et al., 2011; E. T. Savarese & Savarese, 2010; Silverman, 2012).
+Nevertheless, the spectrum nature of disability supports the legitimacy of multiple agendas (Baker, 2011). Scientists, working with the community, can help stakeholders with competing agendas make informed choices between rights, responsibilities, and needs at personal, social, and political levels by affirming that diverse societies respect multiple perspectives (Baker, 2011; Beauchamp-Pryor, 2011; Madeo et al., 2011; Silverman, 2012), as empathy, communication, and relationship work both ways (E. T. Savarese et al., 2010; Silverman, 2012).
+References
+American Psychiatric Association. (2000). Diagnostic and statistical manual of mental disorders (4th ed., text rev.). Washington, DC: Author.
+Anckarsater, H. (2010). Beyond categorical diagnostics in psychiatry: Scientific and medicolegal implications. International Journal of Law and Psychiatry, 33, 59 - 65. doi:10.1016/j.ijlp.2009.12.001
+Armstrong, T. (2010). Neurodiversity: Discovering the extraordinary gifts
+
+AUTISM AND NEURODIVERSITY
+
+11
+
+of autism, ADHD, dyslexia, and other brain differences. Cambridge, MA: Da Capo. Bagatell, N. (2010). From cure to community: Transforming notions of autism. Ethos, 38, 34 -58. doi:10.1111/j.1548-1352.2009.01080.x Baker, D. L. (2011). The politics of neurodiversity: Why public policy matters. Boulder, CO: Lynne Rienner. Baron-Cohen, S., Wheelwright, S., Skinner, R., Martin, J., & Clubley, E. (2001). The Autism-Spectrum Quotient (AQ): Evidence from Asperger syndrome/high functioning autism, males and females, scientists and mathematicians. Journal of Autism and Developmental Disorders, 31, 5-17. doi:10.1023/A:1005653411471 Beauchamp-Pryor, K. (2011). Impairment, cure and identity: "Where do I fit in?" Disability & Society, 26, 5-17. doi:10.1080/ 09687599.2011.529662 Benford, P., & Standen, P. J. (2009). The Internet: A comfortable communication medium for people with Asperger syndrome (AS) and high functioning autism (HFA)? Journal of Assistive Technologies, 3, 44 -53. doi:10.1108/17549450200900015 Brownlow, C. (2010). Presenting the self: Negotiating a label of autism. Journal of Intellectual and Developmental Disability, 35, 14 -21. doi: 10.3109/13668250903496336 Brugha, T. S., McManus, S., Bankart, J., Scott, F., Purdon, S., Smith, J., . . . Meltzer, H. (2011). Epidemiology of autism spectrum disorders in adults in the community in England. Archives of General Psychiatry, 68, 459 - 466. doi:10.1001/archgenpsychiatry.2011.38 Callahan, K., Shikla-Mehta, S., Magree, S., & Wie, M. (2010). ABA versus TEACCH: The case for defining and validating comprehensive treatment models in autism. Journal of Autism and Developmental Disorders, 40, 74 - 88. doi:10.1007/s10803-009-0834-0 Cappe, E., Wolff, M., Bobet, R., & Adrien, J. L. (2011). Quality of life: A key variable to consider in the evaluation of adjustment of parents of children with autism spectrum disorders and in the development of relevant support and assistance programs. Quality of Life Research, 20, 1279 -1294. doi:10.1007/s11136-011-9861-3 Chamak, B. (2008). Autism and social movements: French parents' associations and international autistic individuals' organizations. Sociology of Health & Illness, 30, 76 -96. doi:10.1111/j.1467-9566.2007.01053.x Clarke, J., & van Amerom, G. (2008). Asperger's syndrome: Differences between parents' understanding and those diagnosed. Social Work in Health Care, 46, 85-106. doi:10.1300/J010v46n03_05 Di Pietro, N. C., Whiteley, L., & Illes, J. (in press). Treatments and services for neurodevelopmental disorders on advocacy websites: Information or evaluation? Neuroethics. Frazier, T. W., Youngstrom, E. A., Speer, L., Embacher, R., Law, P., Constantino, J., . . . Eng, C. (2012). Validation of proposed DSM-5 criteria for autism spectrum disorder. Journal of the American Academy of Child & Adolescent Psychiatry, 51, 28 - 40. doi:10.1016/j.jaac .2011.09.021 Giles, D. C., & Newbold, J. (2011). Self- and other-diagnosis in user-led online mental health communities. Qualitative Health Research, 21, 419 - 428. doi:10.1177/1049732310381388 Gilmour, L., Schalomon, P. M., & Smith, V. (2012). Sexuality in a community based sample of adults with autism spectrum disorder. Research in Autism Spectrum Disorders, 6, 313-318. doi:10.1016/ j.rasd.2011.06.003 Griffin, E., & Pollak, D. (2009). Student experiences of neurodiversity in higher education: Insights from the BRAINHE Project. Dyslexia, 15, 23- 41. doi:10.1002/dys.383 Griffith, G. M., Totsika, V., Nash, S., & Hastings, R. P. (in press). "I just don't fit anywhere": Support experiences and future support needs of individuals with Asperger syndrome in middle adulthood. Autism. Hahn, H. D., & Belt, T. L. (2004). Disability identity and attitudes toward cure in a sample of disabled activists. Journal of Health and Social Behavior, 45, 453- 464. doi:10.1177/002214650404500407
+
+Hall, H. R., Neely-Barnes, S. L., Graff, J. C., Krcek, T. E., & Roberts, R. J. (2012). Parental stress in families of children with a genetic disorder/ disability and the resiliency model of family stress, adjustment, and adaptation. Issues in Comprehensive Pediatric Nursing, 35, 24 - 44. doi:10.3109/01460862.2012.646479
+Hebert, E. B., & Koulouglioti, C. (2010). Parental beliefs about cause and course of their child's autism and outcomes of their beliefs: A review of the literature. Issues in Comprehensive Pediatric Nursing, 33, 149 -163. doi:10.3109/01460862.2010.498331
+Hinshaw, S. P., & Stier, A. (2008). Stigma as related to mental disorders. Annual Review of Clinical Psychology, 4, 367-393. doi:10.1146/ annurev.clinpsy.4.022007.141245
+Humphrey, N., & Lewis, S. (2008). "Make me normal": The views and experiences of pupils on the autistic spectrum in mainstream secondary schools. Autism, 12, 23- 46. doi:10.1177/1362361307085267
+Hutman, T., Siller, M., & Sigman, M. (2009). Mothers' narratives regarding their child with autism predict maternal synchronous behavior during play. Journal of Child Psychology and Psychiatry, 50, 1255-1263. doi:10.1111/j.1469-7610.2009.02109.x
+Huws, J. C., & Jones, R. S. P. (2008). Diagnosis, disclosure, and having autism: An interpretative phenomenological analysis of the perceptions of young people with autism. Journal of Intellectual and Developmental Disability, 33, 99 -107. doi:10.1080/13668250802010394
+Huws, J. C., & Jones, R. S. P. (2010). "They just seem to live their lives in their own little world": Lay perceptions of autism. Disability & Society, 25, 331-344. doi:10.1080/09687591003701231
+Jaarsma, P., & Welin, S. (2012). Autism as a natural human variation: Reflections on the claims of the neurodiversity movement. Health Care Analysis, 20, 20 -30. doi:10.1007/s10728-011-0169-9
+Jack, J. (2011). "The extreme male brain?" Incrementum and the rhetorical gendering of autism. Disability Studies Quarterly, 31. Retrieved from http://dsq-sds.org/
+Jones, R., & Meldal, T. O. (2001). Social relationships and Asperger's syndrome: A qualitative analysis of first-hand accounts. Journal of Intellectual Disabilities, 5, 35- 41. doi:10.1177/146900470100500104
+Jordan, C. J. (2010). Evolution of autism support and understanding via the World Wide Web. Intellectual and Developmental Disabilities, 48, 220 -227. doi:10.1352/1934-9556-48.3.220
+Kim, Y. S., Leventhal, B. T., Koh, Y.-J., Fombonne, E., Laska, E., Lim, E. C., . . . Grinker, R. R. (2011). Prevalence of autism spectrum disorders in a total population sample. American Journal of Psychiatry, 168, 904 -912. doi:10.1176/appi.ajp.2011.10101532
+King, G., Cathers, T., Brown, E., Specht, J. A., Willoughby, C., Polgar, J. M., . . . Havens, L. (2003). Turning points and protective processes in the lives of people with chronic disabilities. Qualitative Health Research, 13, 184 -206. doi:10.1177/1049732302239598
+Krahn, T. M., & Fenton, A. (2012). The extreme male brain theory of autism and the potential adverse effects for boys and girls with autism. Bioethical Inquiry, 9, 93-103. doi:10.1007/s11673-011-9350-y
+Lai, M. C., Lombardo, M. V., Pasco, G., Ruigrok, A. V., Wheelwright, S. J., Sadek, S. A., . . . Baron-Cohen, S. (2011). A behavioral comparison of male and female adults with high functioning autism spectrum conditions. PLoS ONE, 6, e20835. doi:10.1371/journal.pone.0020835
+Landrigan, P. J. (2010). What causes autism? Exploring the environmental contribution. Current Opinion in Pediatrics, 22, 219 -225. doi:10.1097/ MOP.0b013e328336eb9a
+Langan, M. (2011). Parental voices and controversies in autism. Disability & Society, 26, 193-205. doi:10.1080/09687599.2011.544059
+Leckman, J. F., & March, J. S. (2011). Editorial: Developmental neuroscience comes of age. Journal of Child Psychology and Psychiatry, 52, 333-338. doi:10.1111/j.1469-7610.2011.02378.x
+Madeo, A. C., Biesecker, B. B., Brasington, C., Erby, L. H., & Peters, K. F. (2011). The relationship between the genetic counseling profession and
+
+12 KAPP, GILLESPIE-LYNCH, SHERMAN, AND HUTMAN
+
+the disability community: A commentary. American Journal of Medical Genetics, 155A, 1777-1785. doi:10.1002/ajmg.a.34054 Matson, J. L., & Kozlowski, A. M. (2011). The increasing prevalence of autism spectrum disorders. Research in Autism Spectrum Disorders, 5, 418 - 425. doi:10.1016/j.rasd.2010.06.004 Meadan, H., Halle, J. W., & Ebata, A. T. (2010). Families with children who have autism spectrum disorders: Stress and support. Exceptional Children, 77, 7-36. Mesibov, G. B., Shea, V., & Shopler, E. (2004). The TEACCH approach to autism spectrum disorders. New York, NY: Plenum Press. Milshtein, S., Yirmiya, N., Oppenheim, D., Koren-Karie, N., & Levi, S. (2010). Resolution of the diagnosis among parents of children with autism spectrum disorder: Associations with child and parent characteristics. Journal of Autism and Developmental Disorders, 40, 89 -99. doi:10.1007/s10803-009-0837-x Ne'eman, A. (2010). The Future (and the past) of autism advocacy, or why the ASA's magazine, The Advocate, wouldn't publish this piece. Disability Studies Quarterly, 30. Retrieved from http://www.dsq-sds.org/ Nicolaidis, C., Raymaker, D., McDonald, K., Dern, S., Ashkenazy, E., Boisclair, C., . . . Baggs, A. (2011). Collaboration strategies in nontraditional community-based participatory research partnerships: Lessons from an academic-community partnership with autistic self-advocates. Progress in Community Health Partnerships: Research, Education, and Action, 5, 143-150. doi:10.1353/cpr.2011.0022 Oppenheim, D., Koren-Karie, N., Dolev, S., & Yirmiya, N. (2009). Maternal insightfulness and resolution of the diagnosis are associated with secure attachment in preschoolers with autism spectrum disorders. Child Development, 80, 519 -527. doi:10.1111/j.1467-8624.2009.01276.x Orsini, M., & Smith, M. (2010). Social movements, knowledge and public policy: The case of autism activism in Canada and the US. Critical Policy Studies, 4, 38 -57. doi:10.1080/19460171003714989 Ortega, F. (2009). The cerebral subject and the challenge of neurodiversity. BioSocieties, 4, 425- 445. doi:10.1017/S1745855209990287 Palmer, M., & Harley, D. (in press). Models and measurement in disability: An international review. Health Policy and Planning. Pellicano, E., & Stears, M. (2011). Bridging autism, science, and society: Moving toward an ethically informed approach to autism research, Autism Research, 4, 271-282. doi:10.1002/aur.201 Portway, S. M., & Johnson, B. (2005). Do you know I have Asperger's syndrome? Risks of a non-obvious disability. Health, Risk & Society, 7, 73- 83. doi:10.1080/09500830500042086 Punshon, C., Skirrow, P., & Murphy, G. (2009). The "not guilty verdict": Psychological reactions to a diagnosis of autism in adulthood. Autism, 13, 265-283. doi:10.1177/1362361309103795 Reichow, B., Halpern, J. I., Steinhoff, T. B., Letsinger, N., Naples, A., & Volkmar, F. R. (in press). Characteristics and quality of autism websites. Journal of Autism and Developmental Disorders. Robertson, S. M. (2010). Neurodiversity, quality of life, and autistic adults: Shifting research and professional focuses onto real-life challenges. Disability Studies Quarterly, 30. Retrieved from http://www.dsqsds.org/ Ruiz Calzada, L., Pistrang, N., & Mandy, W. P. (2012). High-functioning autism and Asperger's disorder: Utility and meaning for families. Journal of Autism and Developmental Disorders, 42, 230 -243. doi:10.1007/ s10803-011-1238-5 Russell, G., Kelly, S., & Golding, J. (2010). A qualitative analysis of lay beliefs about the aetiology and prevalence of autism spectrum disorders.
+
+Child: Care, Health, and Development, 36, 431- 436. doi:10.1111/ j.1365-2214.2009.00994.x Russell, G., & Norwich, B. (in press). Dilemmas, diagnosis, and destigmatization: Parental perspectives on the diagnosis of autism spectrum disorders. Clinical Child Psychology and Psychiatry. Samios, C., Pakenham, K. I., & Sofronoff, K. (2008). The nature of sense making in parenting a child with Asperger syndrome. Research in Autism Spectrum Disorders, 2, 516 -532. doi:10.1016/j.rasd .2007.10.003 Savarese, E. T., Baggs, A., Burke, J., Kochmeister, S., Rubin, S., Schwarz, P., . . . Tresher, T. (2010). Self-advocate roundtable with members of AutCom. Disability Studies Quarterly, 30. Retrieved from http://dsqsds.org/ Savarese, E. T., & Savarese, R. J. (2010). "The superior half of speaking": An introduction. Disability Studies Quarterly, 30. Retrieved from http:// dsq-sds.org/ Savarese, R. J., Block, P., Chew, K., Cumberland, C., Duffy, J., Etlinger, S., . . . Wilson, J. C. (2010). Parent & sibling roundtable: Neurodiversity and caregiving. Disability Studies Quarterly, 30. Retrieved from http:// www.dsq-sds.org/ Silverman, C. (2012). Understanding autism: Parents, doctors, and the history of the disorder. Princeton, NJ: Princeton University Press. Singh, J. Illes, J., Lazzeroni, L., & Hallmayer, J. (2009). Trends in US autism research funding. Journal of Autism and Developmental Disorders, 39, 788 -795. doi:10.1007/s10803-008-0685-0 Steiner, A. M. (2011). A strength-based approach to parent education for children with autism. Journal of Positive Behavior Interventions, 13, 178 -190. doi:10.1177/1098300710384134 Stephenson, J., Carter, M., & Kemp, C. (2012). Quality of the information on educational and therapy interventions provided on the web sites of national autism associations. Research in Autism Spectrum Disorders, 6, 11-18. doi:10.1016/j.rasd.2011.08.002 Tincani, M., Travers, J., & Boutot, A. (2009). Race, culture, and autism spectrum disorder: Understanding the role of diversity in successful educational interventions. Research and Practice for Persons with Severe Disabilities, 34, 81-90. Totsika, V., Hastings, R. P., Emerson, E., Lancaster, G. A., & Berridge, D. M. (2011). A population-based investigation of behavioural and emotional problems and maternal mental health: Associations with autism spectrum disorder and intellectual disability. Journal of Child Psychology and Psychiatry, 52, 91-99. doi:10.1111/j.14697610.2010.02295.x Vismara, L. A., & Rogers, S. J. (2010). Behavioral treatments in autism spectrum disorder: What do we know? Annual Review of Clinical Psychology, 6, 447- 468. doi:10.1146/annurev.clinpsy.121208.131151 Wachtel, K., & Carter, A. S. (2008). Reaction to diagnosis and parenting styles among mothers of young children with ASDs. Autism, 12, 575- 594. doi:10.1177/1362361308094505 White, S. W., Ollendick, T. H., & Bray, B. C. (2011). College students on the autism spectrum: Prevalence and associated problems. Autism, 15, 683-701. doi:10.1177/1362361310393363 Woodbury-Smith, M. R., Robinson, J., Wheelwright, S., & Baron-Cohen, S. (2005). Screening adults for Asperger syndrome using the AQ: A preliminary study of its diagnostic validity in clinical practice. Journal of Autism and Developmental Disorders, 35, 331-335. doi:10.1007/ s10803-005-3300-7
+
+(Appendix follows)
+
+AUTISM AND NEURODIVERSITY
+
+13
+
+Appendix
+
+Survey Questions and Answers
+
+Demographic Questions
+1. Do you consider yourself to be autistic or on the autism spectrum (autism, Aspergers, or PDD-NOS)?
+Answer choices: Yes, No
+2. Asked of participants that self-identified as autistic: "Were you diagnosed by a professional such as a psychologist, doctor or psychiatrist?"
+Answer choices: Yes, No
+3. Do you have any autistic relatives? If so, please list how they are related to you (i.e., a grandmother, a brother, etc.).
+Free response 4. Do you have any autistic friends?
+Answer choices: Yes, No 5. What is your gender?
+Answer choices: Male, Female, Intersex, Transgender 6. How old are you?
+Free response
+7. What is the highest level of education you achieved?
+Free response 8. What is your ethnicity?
+Free-response ethnicity reports were classified into the following race and ethnicity categories: Caucasian, Black, Asian, Hispanic, Native American or Alaska Native, Pacific Islander, or Mixed Race.
+9. Do you have any physical, neurological, or psychological diagnoses? If so, what are they?
+Free-response answers were classified as "medical conditions" if any health condition besides an ASD was entered. 10. What is your occupation?
+Free response Conceptions of Neurodiversity
+1. Are you aware of the neurodiversity movement? If yes, where did you learn about it?
+
+Answer choices: "No, I am not aware of it"; "Yes, I heard of it online"; "Yes, I read about it in a book or magazine"; "Yes, I heard of it in person"; "Yes, I heard about it at a conference"; "Yes, I heard about it at a support group"; "Yes, but none of the above."
+2. What is the neurodiversity movement in your words?
+Free response
+Conceptions of Autism
+1. When talking about autism, which term do you prefer?
+Answer choices: Autistic person, person with autism
+2. How do you (think you would) feel about being autistic? Select as many choices as you want.
+Answer choices: "Happy," "overwhelmed, "sad," "proud," "frustrated," "angry," "content," "indifferent," "bored," "confused," "ashamed," "excited," "other," and "don't know."
+3. Do you agree or disagree that parents of autistic people should do the following:
+"Seek a cure for their child?"
+"Teach their child how to develop adaptive skills?"
+"Teach their child how to appear more like a typically developing person?"
+"Understand that autism is part of their child's identity?"
+"Try to learn what caused their child to be autistic?"
+"Learn to speak their child's language?"
+Answer choices (1-5): "I strongly disagree," "I somewhat disagree," "Not applicable," "I agree," "I strongly agree."
+4. What do you think is the cause of autism?
+Free response
+Received May 16, 2011 Revision received March 9, 2012
+Accepted March 16, 2012 
+
+All in-text references underlined in blue are linked to publications on ResearchGate, letting you access and read them immediately.
+
+

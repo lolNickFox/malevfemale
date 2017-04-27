@@ -1,0 +1,1165 @@
+Inferences to Hidden Populations
+5
+
+Sociological Methodology 2016, Vol. 46(1) 153-186 O American Sociological Association 2016 DOI: 10.1177/0081175016665425
+http://sm.sagepub.com
+
+GENERALIZING THE NETWORK SCALE-UP METHOD: A NEW ESTIMATOR FOR THE SIZE OF HIDDEN POPULATIONS
+Dennis M. Feehan* Matthew J. Salganiky
+Abstract
+The network scale-up method enables researchers to estimate the sizes of hidden populations, such as drug injectors and sex workers, using sampled social network data. The basic scale-up estimator offers advantages over other size estimation techniques, but it depends on problematic modeling assumptions. The authors propose a new generalized scale-up estimator that can be used in settings with nonrandom social mixing and imperfect awareness about membership in the hidden population. In addition, the new estimator can be used when data are collected via complex sample designs and from incomplete sampling frames. However, the generalized scale-up estimator also requires data from two samples: one from the frame population and one from the hidden population. In some situations these data from the hidden population can be collected by adding a small number of questions to already planned studies. For other situations, the authors develop interpretable adjustment factors that can be applied to the basic scale-up estimator.
+*University of California, Berkeley, CA, USA yPrinceton Univerity, Princeton, NJ, USA
+Corresponding Author: Dennis M. Feehan, University of California, Berkeley, Department of Demography, 2232 Piedmont Avenue, Berkeley, CA 94720, USA Email: feehan@berkeley.edu
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+154 Feehan and Salganik
+The authors conclude with practical recommendations for the design and analysis of future studies.
+Keywords
+hidden populations, social networks, sampling, network scale-up method
+1. INTRODUCTION
+Many important problems in social science, public health, and public policy require estimates of the sizes of hidden populations. For example, in HIV/AIDS research, estimates of the size of the most at-risk populations--drug injectors, female sex workers, and men who have sex with men--are critical for understanding and controlling the spread of the epidemic. However, researchers and policymakers are unsatisfied with the ability of current statistical methods to provide these estimates (Joint United Nations Programme on HIV/AIDS 2010). We address this problem by improving the network scale-up method, a promising approach to size estimation. Our results are immediately applicable in many substantive domains in which size estimation is challenging, and the framework we develop advances the understanding of sampling in networks more generally.
+The core insight behind the network scale-up method is that ordinary people have embedded within their personal networks information that can be used to estimate the sizes of hidden populations, if that information can be properly collected, aggregated, and adjusted (Bernard et al. 1989, 2010). In a typical scale-up survey, randomly sampled adults are asked about the number of connections they have to people in a hidden population (e.g., "How many people do you know who inject drugs?") and a series of similar questions about groups of known size (e.g., "How many widowers do you know?" "How many doctors do you know?"). Responses to these questions are called aggregate relational data (McCormick et al. 2012).
+To produce size estimates from aggregate relational data, previous researchers have begun with the basic scale-up model, which makes three important assumptions: (1) Social ties are formed completely at random (i.e., random mixing), (2) respondents are perfectly aware of the characteristics of their alters, and (3) respondents are able to provide accurate answers to survey questions about their personal networks. From the basic scale-up model, Killworth, McCarty, et al. (1998)
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+Generalizing the Network Scale-up Method
+
+155
+
+derived the basic scale-up estimator. This estimator, which is widely used in practice, has two main components. For the first component, the aggregate relational data about the hidden population are used to estimate the number of connections that respondents have to the hidden population. For the second component, the aggregate relational data about the groups of known size are used to estimate the number of connections that respondents have in total. For example, a researcher might estimate that members of her sample have 5,000 connections to people who inject drugs and 100,000 connections in total. The basic scale-up estimator combines these pieces of information to estimate that 5 percent (5, 000=100, 000) of the population injects drugs. This estimate is a sample proportion, but rather than being taken over the respondents, as would be typical in survey research, the proportion is taken over the respondents' alters. Researchers who desire absolute size estimates multiply the alter sample proportion by the size of the entire population, which is assumed to be known (or estimated using some other method).
+Unfortunately, the three assumptions underlying the basic scale-up model have all been shown to be problematic. Scale-up researchers call violations of the random mixing assumption barrier effects (Killworth et al. 2006; Maltiel et al. 2015; Zheng, Salganik, and Gelman 2006), they call violations of the perfect awareness assumption transmission error (Killworth et al. 2006; Maltiel et al. 2015; Salganik, Mello, et al. 2011; Shelley et al. 1995, 2006), and they call violations of the respondent accuracy assumption recall error (Killworth et al. 2003, 2006; Maltiel et al. 2015; McCormick and Zheng 2007).
+In this paper, we develop a new approach to producing size estimates from aggregate relational data. Rather than depending on the basic scale-up model or its variants (e.g., Maltiel et al. 2015), we use a simple identity to derive a series of new estimators. Our new approach reveals that one of the two main components of the basic scale-up estimator is problematic. Therefore, we propose a new estimator--the generalized scale-up estimator--that combines the aggregate relational data traditionally used in scale-up studies with similar data collected from the hidden population. Collecting data from the hidden population is a major departure from current scale-up practice, but we believe that it enables a more principled approach to estimation. For researchers who are not able to collect data from the hidden population, we propose a series of adjustment factors that highlight the possible biases of the basic scale-up estimator. Ultimately, researchers must balance the
+
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+156 Feehan and Salganik
+
+trade-offs between the basic scale-up estimator, generalized scale-up estimator, and other size estimation techniques on the basis of the specific features of their research setting.
+In Section 2, we derive the generalized scale-up estimator, and we describe the data collection procedures needed to use it. In Section 3, we compare the generalized and basic scale-up approaches analytically and with simulations; our comparison leads us to propose a decomposition that separates the difference between the two approaches into three measurable and substantively meaningful factors (equation 15). In Section 4, we make practical recommendations for the design and analysis of future scale-up studies, and in Section 5, we conclude with a discussion of the steps that follow. Appendices A to G in the online journal provide technical details and supporting arguments.
+
+2. THE GENERALIZED SCALE-UP ESTIMATOR
+The generalized scale-up estimator can be derived from a simple accounting identity that requires no assumptions about the underlying social network structure in the population. Figure 1 helps illustrate the derivation, which was inspired by earlier research on multiplicity estimation (Sirken 1970) and indirect sampling (Lavallee 2007). Consider a population of seven people, two of whom are drug injectors (Figure 1a). In this population, two people are connected by a directed edge i ! j if person i would count person j as a drug injector when answering the question "How many drug injectors do you know?" Whenever i ! j, we say that i makes an out-report about j and that j receives an inreport from i.1
+Each person can be viewed as both a source of out-reports and a recipient of in-reports, and in order to emphasize this point, Figure 1b shows the population with each person represented twice: on the left as a sender of out-reports and on the right as a receiver of in-reports. This visual representation highlights the following identity:
+
+total out-reports = total in-reports:
+
+1
+
+Despite its simplicity, the identity in equation (1) turns out to be very useful because it leads directly to the new estimator that we propose.
+In order to derive an estimator from equation (1), we must define some notation. Let U be the entire population, and let H & U be the hidden population. Furthermore, let yi, H be the total number of
+
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+Figure 1. Illustration of the derivation of the generalized scale-up estimator. (a) A population of seven people, two of whom are drug injectors (shown in gray). A directed edge i ! j indicates that i counts j as a drug injector when answering the question "How many drug injectors do you know?" (b) The same population, redrawn so that each person now appears twice: as a source of out-reports, on the left, and as a recipient of in-reports, on the right. This arrangement shows that total outreports and total in-reports must be equal. (c) The same population again, but now some of the people are in the frame population F and some are not. In real scale-up studies, we can only learn about out-reports from the frame population.
+
+157
+
+158 Feehan and Salganik
+
+out-reports from person i (i.e., person i's answer to the question "How
+many drug injectors do you know?"). For example, Figure 1b shows
+that person 5 would report knowing one drug injector, so y5, H = 1. Let vi, U be the total number of in-reports to i if everyone in U is interviewed; that is, vi, U is the visibility of person i to people in U . For example, Figure 1b shows that person 5 would be reported as a drug
+injector by three people so v5, U = 3. Because total out-reports must equal total in-reports, it must be the case that
+
+yU, H = vU, U ,
+
+2
+
+PP where yU, H = i2U yi, H and vU, U = i2U vi, U . Multiplying both sides of equation (2) by NH , the number of people in the hidden population,
+
+and then rearranging terms, we get
+
+NH
+
+=
+
+yU, H vU, U =NH
+
+:
+
+3
+
+Equation (3) is an expression for the size of the hidden population that does not depend on any assumptions about network structure or reporting accuracy; it is just a different way of expressing the identity that the total number of out-reports must equal the total number of inreports. If we could estimate the two terms on the right side of equation (3)--one term related to out-reports (yU, H ) and one term related to inreports (vU, U =NH )--then we could estimate NH .
+However, in order to make the identity in equation (3) useful in practice we need to modify it to account for an important logistical requirement of survey research. In real scale-up studies, researchers do not sample from the entire population U , but instead they sample from a subset of U called the frame population, F. For example, in almost all scale-up studies the frame population has been adults (but note that our mathematical results hold for any frame population). In standard survey research, restricting interviews to a frame population does not cause problems because inference is being made about the frame population. In other words, when respondents report about themselves, it is clear to which group inferences apply. However, with the scale-up method, respondents report about others, so the group that inferences are being made about is not necessarily the same as the group that is being interviewed. As we show in Section 4.2, failure to consider this fact requires the introduction of an awkward adjustment factor that had previously
+
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+Generalizing the Network Scale-up Method
+
+159
+
+gone unnoticed. Here, we avoid this awkward adjustment factor by deriving an identity explicitly in terms of the frame population. Restricting our attention to out-reports coming from people in the frame population, it must be the case that
+
+NH
+
+=
+
+yF, H vU, F =NH
+
+,
+
+4
+
+PP where yF, H = i2F yi, H and vU, F = i2U vi, F. The only difference between equation (3) and equation (4) is that equation (4) restricts out-
+
+reports and in-reports to come from people in the frame population
+
+(Figure 1c). The identity in equation (4) is extremely general: it does
+
+not depend on any assumptions about the relationship between the
+
+entire population U , the frame population F, and the hidden population
+
+H. For example, it holds if no members of the hidden population are in
+
+the frame population, if there are barrier effects, and if there are trans-
+
+mission errors. Thus, if we could estimate the two terms on the right
+
+side of equation (4)--one term related to out-reports (yF, H ) and one term related to in-reports (vU, F=NH )--then we could estimate NH under very general conditions.
+
+Unfortunately, despite repeated attempts, we were unable to develop
+
+a practical method for estimating the term related to in-reports
+
+(vU, F=NH ). However, if we make an assumption about respondents' reporting behavior, then we can re-express equation (4) as an identity
+
+made up of quantities that we can actually estimate. Specifically, if we
+
+assume that the out-reports from people in the frame population only
+
+include people in the hidden population, then it must be the case that
+
+the visibility of everyone not in the hidden population is 0:
+
+vi, F = 0 for all i 26 H. In this case, we can rewrite equation (4) as
+
+NH
+
+=
+
+yF, H vH, F =NH
+
+=
+
+yF, H vH, F
+
+if vi, F = 0 for all i 62 H ,
+
+5
+
+where vH, F = vH, F=NH . To understand the reporting assumption substantively, consider the
+two possible types of reporting errors: false positives and false negatives. Previous scale-up research on transmission error focused on the problem of false negatives, where a respondent is connected to a member of the hidden population but does not report this, possibly because she is not aware that the person she is connected to is in the hidden population (Bernard et al. 2010). Because hidden populations such as drug
+
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+160 Feehan and Salganik
+
+injectors are often stigmatized, it is reasonable to suspect that false negatives will be a serious problem for the scale-up method. Fortunately, equation (5) holds even if there are false negative reporting errors. However, false positives--which do not seem to have been considered previously in the scale-up literature--are also possible. For example, a respondent who is not connected to any drug injectors might report that one of her acquaintances is a drug injector. These false positive reports are not accounted for in the identity in equation (5) and the estimators that we derive subsequently. If false positive reports exist, they will introduce a positive bias into estimates from the generalized scale-up estimator. Therefore, in Appendix A in the online journal we (1) formally define an interpretable measure of false positive reports, the precision of out-reports; (2) analytically show the bias in size estimates as a function of the precisions of out-reports; and (3) discuss two research designs that could enable researchers to estimate the precision of out-reports.
+
+2.1. Estimating NH from Sampled Data
+
+Equation (5) relates our quantity of interest, the size of the hidden popu-
+lation (NH ), to two other quantities: the total number of out-reports from the frame population (yF, H ) and the average number of in-reports in the hidden population (vH, F). We now show how to estimate yF, H with a probability sample from the frame population and vH, F with a relative probability sample from the hidden population.
+The total number of out-reports (yF, H ) can be estimated from respondents' reported number of connections to the hidden population,
+
+byF, H
+
+=
+
+X
+i2sF
+
+yi, H pi
+
+,
+
+6
+
+where sF denotes the sample, yi, H denotes the reported number of connections between i and H, and pi is i's probability of inclusion from a conventional probability sampling design from the frame population. Because byF, H is a standard Horvitz-Thompson estimator, it is consistent and unbiased as long as all members of F have a positive probability of
+inclusion under the sampling design (Sarndal, Swensson, and Wretman
+1992); for a more formal statement, see Result B.1. This estimator
+depends only on an assumption about the sampling design for the frame
+population, and in Table D.2, we show the sensitivity of our estimator
+to violations of this assumption.
+
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+Generalizing the Network Scale-up Method
+
+161
+
+Estimating the average number of in-reports for the hidden population (vH, F) is more complicated. First, it will usually be impossible to obtain a conventional probability sample from the hidden population. As we show below, however, estimating vH, F requires only a relative probability sampling design in which hidden population members have a nonzero probability of inclusion and respondents' probabilities of inclusion are known up to a constant of proportionality, cpi (see Appendix C.1 in the online journal for a more precise definition). Of course, even selecting a relative probability sample from a hidden population can be difficult.
+A second problem arises because we do not expect respondents to be able to easily and accurately answer direct questions about their visibility (vi, F). That is, we do not expect respondents to be able to answer questions such as "How many people on the sampling frame would include you when reporting a count of the number of drug injectors that they know?" Instead, we propose asking hidden population members a series of questions about their connections to certain groups and their visibility to those groups. For example, each sampled hidden population respondent could be asked "How many widowers do you know?" and then "How many of these widowers are aware that you inject drugs?" This question pattern can be repeated for many groups (e.g., widowers, doctors, bus drivers). We call data with this structure enriched aggregate relational data to emphasize its similarity to the aggregate relational data that is familiar to scale-up researchers. An interviewing procedure called the game of contacts enables researchers to collect enriched aggregated relational data, even in realistic field settings (Salganik, Mello, et al. 2011; Maghsoudi et al. 2014).
+Given a relative probability sampling design and enriched aggregate relational data, we can now formalize our proposed estimator for vH, F. Let A1, A2, . . . , AJ , be the set of groups about which we collect enriched aggregate relational data (e.g., widowers, doctors). Here, to keep the notation simple, we assume that these groups are all contained in the frame population, so that Aj & F for all j; in Appendix C.4 in the online journal, we extend the results to groups that do not meet this criterion. Let A be the concatenation of these groups, which we call the probe alters. For example, if A1 is widowers and A2 is doctors, then the probe alters A is the collection of all widowers and all doctors, with doctors who are widowers included twice. Also, let ~vi, Aj be respondent i's report about her visibility to people in Aj and let vi, Aj be respondents i's actual visibility to people in Aj (i.e., the number of times that this respondent
+
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+162 Feehan and Salganik
+
+would be reported about if everyone in Aj was asked about their connec-
+
+tions to the hidden population).
+
+The estimator for vH, F is
+
+PP 
+
+byH, F
+
+=
+
+NF NA
+
+i2PsH j yei , Aj cpi , i2sH 1=cpi
+
+7
+
+where NA is the number of probe alters, c is the constant of proportionality from the relative probability sample, and sH is a relative probability sample of the hidden population. Equation (7) is a standard weighted sample mean (Sarndal et al. 1992, Section 5.7) multiplied by a constant, NF=NA. Result C.2 shows that this estimator is consistent and essentially unbiased,2 when three conditions are satisfied: one about the design of the survey, one about reporting behavior, and one about sampling from the hidden population.
+The first condition underlying the estimator in equation (7) is related to the design of the survey, and we call it the probe alter condition. This condition describes the required relationship between the visibility of the hidden population to the probe alters and the visibility of the hidden population to the frame population:
+
+vH, A = vH, F , NA NF
+
+8
+
+where vH, A is the total visibility of the hidden population to the probe alters, vH, F is the total visibility of the hidden population to the frame population, NA is the number of probe alters, and NF is the number of people in the frame population. In words, equation (8) says that the rate at which the hidden population is visible to the probe alters must be the same as the rate at which the hidden population is visible to the frame population. For example, in a study to estimate the number of drug injectors in a city, drug treatment counselors would be a poor choice for membership in the probe alters because drug injectors are probably more visible to drug treatment counselors than to typical members of the frame population. On the other hand, postal workers would probably be a reasonable choice for membership in the probe alters because drug injectors are probably about as visible to postal workers as they are to typical members of the frame population. Additional results about the probe alter condition are presented in the online appendices: (1) Result C.3 presents three other algebraically equivalent formulations of probe
+
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+Generalizing the Network Scale-up Method
+
+163
+
+alter condition, some of which offer additional intuition; (2) Result C.4
+provides a method to empirically test the probe alter condition; and (3)
+Table D.1 quantifies the bias introduced when the probe alter condition
+is not satisfied. The second condition underlying the estimator bvH, F (equation 7) is
+related to reporting behavior, and we call it accurate aggregate reports
+about visibility:
+
+~vH, A = vH, A,
+
+9
+
+where ~vH, A is the total reportePd visiPbility of members of the hidden population to the probe alters ( i2H Aj2 A ~vi, Aj) and vH, A is the total aPctual vPisibility of members of the hidden population to the probe alters ( i2H Aj2 A vi, Aj). In words, equation (9) says that hidden population members must be correct in their reports about their visibility to probe alters in aggregate, but equation (9) does not require the stronger condition that each individual report be accurate. In practice, we expect that there are two main ways that there might not be accurate aggregate reports about visibility. First, hidden population members might not be accurate in their assessments of what others know about them. For example, research on the "illusion of transparency" suggests that people tend to overestimate how much others know about them (Gilovich, Savitsky, and Medvec 1998). Second, although we propose asking hidden population members what other people know about them (e.g., "How many of these widowers know that you are a drug injector?") what actually matters for the estimator is what other people would report about them (e.g., "How many of these widowers would include you when reporting a count of the number of drug injectors that they know?"). In cases in which the hidden population is extremely stigmatized, some respondents to the scale-up survey might conceal the fact that they are connected to people whom they know to be in the hidden population, and if this were to occur, it would lead to a difference between the information that we collect (~vi, A) and the information that we want (vi, A). Unfortunately, there is currently no empirical evidence about the possible magnitude of these two problems in the context of scale-up studies. However, Table D.1 quantifies the bias introduced into estimates if the accurate aggregate reports about visibility condition is not satisfied.
+
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+164 Feehan and Salganik
+
+Finally, the third condition underlying the estimator bvH, F (equation 7) is that researchers have a relative probability sample from the hidden population. Currently the most widely used method for drawing relative probability samples from hidden populations is respondent-driven sampling (Heckathorn 1997); see Volz and Heckathorn (2008) for a set of conditions under which respondent-driven sampling leads to a relative probability sample. Although respondent-driven sampling has been used in hundreds of studies around the world (White et al. 2015), there is active debate about the characteristics of samples that it yields (Bengtsson and Thorson 2010; Gile and Handcock 2010, 2015; Gile, Johnston, and Salganik 2015; Goel and Salganik 2010; Heimer 2005; Li and Rohe 2015; McCreesh et al. 2012; Mills et al. 2012; Rohe 2015; Rudolph et al. 2013; Salganik 2012; Scott 2008; Yamanis et al. 2013). If other methods for sampling from hidden populations are demonstrated to be better than respondent-driven sampling (e.g., see Karon and Wejnert 2012; Kurant, Markopoulou, and Thiran 2011; Mouw and Verdery 2012), then researchers should consider these methods when using the generalized scale-up estimator. Furthermore, researchers can use Table D.2 to quantify the bias that results if the condition requiring a relative probability sample is not satisfied.
+To recap, using two different data collection procedures--one with the frame population and one with the hidden population--we can estimate the two components of the expression for NH given in equation (5). The estimator for the numerator (byF, H ) depends on an assumption about the ability to select a probability sample from the frame population (see Result B.1), and the estimator for the denominator (bvH, F) depends on assumptions about survey construction, reporting behavior, and the ability to select a relative probability sample from the hidden population (see Result C.2).
+We can combine these component estimators to form the generalized scale-up estimator:
+
+NbH
+
+=
+
+byF, H byH, F
+
+:
+
+10
+
+Result C.8 proves that the generalized scale-up estimator will be consistent and essentially unbiased if (1) the estimator for the numerator (byF, H ) is consistent and essentially unbiased, (2) the estimator for the
+
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+Generalizing the Network Scale-up Method
+
+165
+
+denominator (bvH, F) is consistent and essentially unbiased, and (3) there are no false positive reports.
+One attractive feature of the generalized scale-up estimator (equation 10) is that it is a combination of standard survey estimators. This structure enabled us to derive very general sensitivity results about the impact of violations of assumptions, either individually or jointly. We return to the issue of assumptions and sensitivity analysis when discussing recommendations for practice (Section 4).
+
+3. COMPARISON BETWEEN THE GENERALIZED AND BASIC SCALE-UP APPROACHES
+
+In Section 2, we derived the generalized network scale-up estimator by
+
+using an identity relating in-reports and out-reports as the basis for a
+
+design-based estimator. The approach we followed differs from previ-
+
+ous scale-up studies, which have posited the basic scale-up model and
+
+derived estimators conditional on that model. In this section, we com-
+
+pare these two different approaches from a design-based perspective.
+
+We begin our comparison by reviewing the basic scale-up model,
+
+which was used in most of the studies listed in Table 1. To review this
+
+model, we need to define another quantity: we call di, U person i's degree, the number of undirected network connections she has to everyone in U .
+
+The basic scale-up model assumes that each person's connections are
+
+formed independently, that reporting is perfect, and that visibility is per-
+
+fect (Killworth, McCarty, et al. 1998). Together, these three assumptions
+
+lead to the probabilistic model:
+
+
+
+yi, Aj = di, Aj ;Binomial
+
+di, U ,
+
+NAj N
+
+,
+
+11
+
+for all i in U and for any group Aj. In words, this model suggests that
+
+the number of connections from a person i to members of a group Aj is
+
+the result of a series of di, U independent random draws, where the prob-
+
+ability
+
+of
+
+each
+
+edge
+
+being
+
+connected
+
+to
+
+Aj
+
+is
+
+NAj N
+
+.
+
+The basic scale-up model leads to what we call the basic scale-up
+
+estimator:
+
+P
+
+NbH
+
+=
+
+P i2sF
+i2sF
+
+yi, H dbi, U
+
+3N ,
+
+12
+
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+166
+
+Table 1. Network Scale-up Studies That Have Been Completed
+
+Hidden Population(s)
+
+Location
+
+Mortality in earthquake Rape victims HIV prevalence, rape, and homelessness Heroin use Choking incidents in children Groups most at risk for HIV/AIDS Heavy drug users Groups most at risk for HIV/AIDS Men who have sex with men Groups most at risk for HIV/AIDS Groups most at risk for HIV/AIDS Groups most at risk for HIV/AIDS Groups most at risk for HIV/AIDS Groups most at risk for HIV/AIDS Groups most at risk for HIV/AIDS Men who have sex with men Drug and alcohol users Men who have sex with men Men who have sex with men Illicit drug users
+
+Mexico City, Mexico Mexico City, Mexico United States 14 U.S. cities Italy Ukraine Curitiba, Brazil Kerman, Iran Japan Almaty, Kazakhstan Moldova Thailand Rwanda Chongqing, China Tabriz, Iran Taiyuan, China Kerman, Iran Shanghai, China Tbilisi, Georgia Iran
+
+Citation
+Bernard et al. (1989) Bernard et al. (1991) Killworth, McCarty, et al. (1998) Kadushin et al. (2006) Snidero et al. (2007, 2009, 2012) Paniotto et al. (2009) Salganik, Fazito, et al. (2011) Shokoohi, Baneshi, and Haghdoost (2012) Ezoe et al. (2012) Scutelniciuc (2012a) Scutelniciuc (2012b) Aramrattan and Kanato (2012) Rwanda Biomedical Center (2012) Guo et al. (2013) Khounigh et al. (2014) Jing et al. (2014) Sheikhzadeh et al. (2014) Wang et al. (2015) Sulaberidze et al. (2016) Nikfarjam et al. (2016)
+
+Generalizing the Network Scale-up Method
+
+167
+
+where dbi, U is the estimated degree of respondent i from the known population method (Killworth, Johnsen, et al. 1998). Killworth, McCarty, et al. (1998) showed that equation (12) is the maximum likelihood estimator for NH under the basic scale-up model, conditional on the additional assumption that di, U is known for each i 2 sF.
+Given this background, we can now compare the basic and generalized scale-up approaches by comparing their estimands; that is, we compare the quantities that they produce in the case of a census with perfectly observed degrees. The basic scale-up estimand can be written
+
+NbH
+
+=
+
+yF, H dF, U
+
+3N
+
+=
+
+yF, H dU, F
+
+,
+
+13
+
+where
+
+dF, U
+
+=
+
+P i2F di, U
+
+and
+
+dU, F = dU, F =N
+
+= dF, U =N .
+
+Furthermore,
+
+as
+
+shown in Section 2, the generalized scale-up estimand is
+
+NbH
+
+=
+
+yF, H yH, F
+
+:
+
+14
+
+Comparing equations (13) and (14) reveals that both estimands have
+
+the same numerator, but they have different denominators. The network
+
+reporting identity from Section 2 (total out-reports = total in-reports)
+
+shows that the appropriate way to adjust the out-reports is based on in-
+
+reports, as in the generalized scale-up approach. However, the basic
+
+scale-up approach instead adjusts out-reports with the degree of respon-
+
+dents. Although using the degree of respondents cleverly avoids any
+
+data collection from the hidden population, our results reveal that it will be correct only under a very specific special case (dU, F = vH, F).
+To further clarify the relationship between the basic and generalized
+
+scale-up approaches, we propose a decomposition that separates the dif-
+
+ference between the two estimands into three measurable and substan-
+
+tively meaningful adjustment factors:
+
+
+
+
+
+NH
+
+=
+
+yF, H |fflffldfflffl{Uz, fflFfflfflffl}
+
+3
+
+1 d|fflFfflffl,fflfflFffl{=zdfflfflUfflfflffl,fflF}
+
+3
+
+1 d|fflHfflfflffl,fflFffl{=zdfflfflFfflfflffl,fflF}
+
+3
+
+1 |vfflHfflffl,fflfflFffl{=zdfflfflHfflfflffl,fflF}
+
+=
+
+yF, H |fflfflvfflfflH{z, Ffflfflfflffl}
+
+:
+
+basic scale-up
+
+frame ratio
+
+degree ratio
+
+true positive rate
+
+|fflfflfflfflfflfflfflffflfflFfflfflfflfflfflfflfflfflfflfflfflfflfflfflfflfflfflfflfflfflfflfflffl{dFzfflfflfflfflfflfflfflfflfflfflfflfflfflfflfflfflfflfflfflfflfflfflffltfflFfflfflfflfflfflfflfflffl}
+
+generalized scale-up
+
+adjustment factors
+
+15
+
+The decomposition shows that when the product of the adjustment factors is 1, the two estimands are both correct. However, when the
+
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+168 Feehan and Salganik
+
+product of the adjustment factors is not 1, then the generalized scale-up estimand is correct but the basic scale-up estimand is incorrect. We now describe each of the three adjustment factors in turn.
+First, we define the frame ratio, fF, to be
+
+fF
+
+=
+
+avg
+
+# connections from avg # connections
+
+a member of F from a member
+
+to of
+
+the rest U to F
+
+of
+
+F
+
+=
+
+dF, F dU, F
+
+:
+
+16
+
+fF can range from 0 to infinity, and in most practical situations we expect that fF will be greater than 1. Result B.6 shows that we can make consistent and essentially unbiased estimates of fF from a sample of F.3
+Next, we define the degree ratio dF to be
+
+dF
+
+=
+
+avg
+
+avg # connections # connections from
+
+from a member a member of F
+
+of to
+
+H to F the rest
+
+of
+
+F
+
+=
+
+dH, F dF, F
+
+:
+
+17
+
+dF ranges from 0 to infinity, and it is less than 1 when the hidden population members have, on average, fewer connections to the frame popu-
+lation than frame population members. Result C.6 shows that we can make consistent and essentially unbiased estimates of dF from samples of F and H.
+Finally, we define the true positive rate, tF, to be
+
+tF
+
+=
+
+#
+
+# in-reports to H from F edges connecting H and F
+
+=
+
+vH, F dH, F
+
+=
+
+vH, F dH, F
+
+:
+
+18
+
+tF relates network degree to network reports.4 tF ranges from 0, if none of the edges are correctly reported, to 1 if all of the edges are reported.
+Substantively, the more stigmatized the hidden population, the closer we would expect tF to be to 0. Result C.7 shows that we can make consistent and essentially unbiased estimates of tF from a sample of H.
+Furthermore, the decomposition in equation (15) can be used to
+derive an expression for the bias in the basic scale-up estimator when
+we have a census and degrees are known:
+
+
+
+bias
+
+Nb
+
+basic H
+
+[Nb
+
+basic H
+
+A
+
+NH
+
+19
+
+!
+
+=
+
+Nb
+
+basic H
+
+1
+
+A
+
+fF
+
+1 dF
+
+tF
+
+:
+
+20
+
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+Generalizing the Network Scale-up Method
+
+169
+
+The comparison between the basic and generalized scale-up approaches leads to two main conclusions. First, the estimand of the basic scale-up approach is correct only in one particular situation: when the product of the three adjustment factors is 1. The estimand of generalized scale-up approach, in contrast, is correct more generally. Second, as equation 15 shows, if the adjustment factors are known (or have been estimated), then they can be used to improve basic scale-up estimates.
+
+3.1. Illustrative Simulation
+To illustrate our comparison between the basic and generalized scale-up approaches, we conducted a series of simulation studies. The simulations were not meant to be a realistic model of a scale-up study, but rather, they were designed to clearly illustrate our analytic results. More specifically, the simulation investigated the performance of the estimators as three important quantities vary: (1) the size of the frame population F, relative to the size of the entire population U ; (2) the extent to which people's network connections are not formed completely at random; and (3) the accuracy of reporting, as captured by the true positive rate tF (see equation 18).5
+As described in detail in Appendix G in the online journal, we created populations of 5, 000 people with different proportions of the population on the sampling frame (pF). Next, we connected the people with a social network created by a stochastic block model (Wasserman and Faust 1994; White, Boorman, and Breiger 1976) in which the randomness of the mixing was controlled by a parameter r such that r = 1 is equivalent to random mixing (i.e., an Erdos-Reyni random graph) and the mixing becomes more nonrandom as r ! 0. Then, for each combination of parameters, we drew 10 populations, and within each of these populations, we simulated 500 surveys. For each survey, we drew a probability sample of 500 people from the frame population, a relative probability sample of 30 people from the hidden population, and simulated responses with a specific level of reporting accuracy (tF). Finally, we used these reports and the appropriate sampling weights to calculate the basic and generalized scale-up estimates.
+Figure 2 shows that the simulations support our analytic results. First, the simulations show that the generalized scale-up estimator is unbiased even in the presence of incomplete sampling frames, nonrandom mixing, and imperfect reporting. Second, they show that the basic scale-up
+
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+170 Feehan and Salganik
+Figure 2. Estimated size of the hidden population for the generalized and basic scale-up estimators. Each panel shows how the two estimators change as the amount of random mixing is varied from low (r = 0:1; members of the hidden population are relatively unlikely to form contacts with nonmembers) to high (r = 1; members of the hidden population form contacts independent of other people's hidden population membership). The columns show results for different sizes of the frame population, from small (left column, pF = 0:1), to large (right column, pF = 1). The rows show results for different levels of reporting accuracy, from a small amount of true positives (top row, tF = 0:1), to perfect reporting (bottom row, tF = 1). For example, looking at the middle of the center panel, when pF = 0:5, tF = 0:5, and r = 0:5, we see that the average basic scale-up estimate is about 50, while the average generalized scale-up estimate is 150 (the true value). The generalized scale-up estimator is unbiased for all parameter combinations, while the basic scale-up estimator is only unbiased for certain special cases (e.g., when r = 1, tF = 1, and pF = 1). Full details of the simulation are presented in Appendix G in the online journal.
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+Generalizing the Network Scale-up Method
+
+171
+
+Figure 3. Bias (open circles and diamonds) and predicted bias (solid lines) in the basic scale-up estimates and generalized scale-up estimates for the same parameter configurations depicted in Figure 2. Our analytical results (equation 20) accurately predict the bias observed in our simulation study.
+estimator is unbiased in a much smaller set of situations. More concretely, the basic scale-up estimator is unbiased in situations in which the basic scale-up model holds--when everyone is in the frame population (pF = 1), there is random mixing (r = 1), and respondents' reports are perfect (tF = 1).6 Furthermore, Figure 3 illustrates that our analytic approach (equation 3) can correctly predict the bias of the basic scaleup estimator.
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+172 Feehan and Salganik
+4. RECOMMENDATIONS FOR PRACTICE
+The results in Sections 2 and 3 lead us to recommend a major departure from current scale-up practice. In addition to collecting a sample from the frame population, we recommend that researchers consider collecting a sample from the hidden population so that they can use the generalized scale-up estimator. As our results clarify, researchers using the scale-up method face a decision: they can collect data from the hidden population or they can make assumptions about the adjustment factors described in Section 3. The appropriate decision depends on a number of factors, but we think that two are most important: (1) the difficulty of sampling from the hidden population and (2) the availability of high-quality estimates of the adjustment factors in Section 3. For example, if it is particularly difficult to sample from a specific hidden population and high-quality estimates of the adjustment factors are already available, then a basic scaleup estimator may be appropriate. If, however, it is possible to sample from the hidden population and there are no high-quality estimates of adjustment factors, then the generalized scale-up estimator may be appropriate. Many realistic situations will be somewhere between these two extremes, and the trade-offs must be weighed on a case-by-case basis.
+To aid researchers deciding between basic and generalized scale-up approaches, we collected the conditions needed for consistent and essentially unbiased estimates into Table 2; formal proofs of these results are presented in Online Appendices B and C. We find it helpful to group these conditions into four broad categories: sampling, survey construction, network structure, and reporting behavior.
+A review of the conditions in Table 2 necessarily raises practical concerns. In situations in which researchers are trying to make estimates about real hidden populations, they probably will not know how close they are to meeting these conditions. Therefore, researchers may wonder how their estimates will be affected by violations of these assumptions, both individually (e.g., "How would my estimates be affected if there was a problem with the survey construction?") and jointly (e.g., "How would my estimate be affected if there was a problem with my survey construction and reporting behavior?"). To address this concern, in Appendix D in the online journal, we develop a framework for sensitivity analysis that shows researchers exactly how estimates will be affected by violations of all assumptions, either individually or jointly. Table 3 summarizes the results of our sensitivity framework.
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+Table 2. Summary of the Conditions Needed for the Generalized and Modified Basic Network Scale-up Estimators, and Their Components, to Produce Estimates That Are Consistent and Essentially Unbiased
+
+Quantity
+
+Conditions Required
+
+Condition Type
+
+Result
+
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+ReporAted coAnnections to H byF, H
+
+1. Probability sample from F
+
+Average personal network 1. Probability sample from F
+
+size of F bd F, F
+
+2. Groups of known sizeAtotal is accuArate NA 3. Probe alter condition dA, F = dF, F
+
+4. Accurate reporting condition yF, A = dF, A
+
+Average visibility of H byH, F
+
+Generalized scale-up
+
+Nb
+
+H
+
+=
+
+byF, H byH, F
+
+1. Relative probability sample from H
+
+2. Groups of known sizetotal is accurate NAH\F
+
+3. Probe alter condition
+
+=yH, A\F
+NA\F
+
+yH, F NF
+
+4. Accurate aggregate reports about visibility
+
+yH, AH \F = yH, AH \F 
+
+1. Conditions needed for byF, H 2. Conditions needed for byH, F 3. No false positive reports about connections
+to HhF = 1
+
+Modified basi!c scale-up
+
+Nb
+
+H
+
+=
+
+byF, H bd F, F
+
+1. Conditions needed for byF, H 2. Condition needed for bd F, F 3. No false positive reports about connections
+to HhF = 1 4. Members of H and members of F have same
+average personal network size dF = 1 5. No false negative reports about connections
+to HtF = 1
+
+Note: This table uses the version of the basic scale-up estimator we recommend in Section 4.2.
+
+Sampling
+Sampling Survey construction Survey construction Reporting behavior
+Sampling Survey construction Survey construction Reporting behavior
+Sampling Sampling, survey
+construction, Reporting behavior Reporting behavior
+Sampling Sampling, survey
+construction Reporting behavior Reporting behavior Network structure Reporting behavior
+
+B1 B3
+C2
+C8
+Sections 2 and 3
+
+173
+
+174
+
+Table 3. Analytical Expressions Researchers Can Use to Perform Sensitivity Analysis for Estimates Made Using Scale-up Estimators
+
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+Quantity
+
+
+
+Generalized scale-up
+
+Nb H
+
+=
+
+byF, H byH, F
+
+Modified basi!c scale-up
+
+Nb
+
+H
+
+=
+
+byF, H bd F, F
+
+Conditions Required
+
+1. Probability sample from F with accurate
+
+weights KF2 = 0 and 2F = 1 2. Relative probability sample from H with
+
+accurate weights KH = 0  
+
+
+
+3. Conditions needed for byH, F byF, H = kyF, H
+
+4. No false positive reports about connections to HhF = 1
+
+1. Probability sample from F with accurate
+
+weights for yF, H KF2 = 0 2. Probability sample from F with accurate
+
+3.
+
+wCoeingdhittsiofnorneyeFd, AedKfFo1r=bd0F, F dbF, F
+
+=
+
+kd,
+
+
+F
+
+4. No false positive reports about connections to HhF = 1
+5. Members of H and members of F have same average personal network size dF = 1
+6. No false negative reports about connections to HtF = 1
+
+Adjusted Estimand for Sensitivity Analysis
+
+NbH
+
+A
+
+1 + KH 
+2F 1 + KF2 
+
+A
+
+k
+
+A
+
+hF
+
+NH
+
+NbH
+
+A
+
+1 + KF1  1 + KF2 
+
+A
+
+k
+
+A
+
+hF dF tF
+
+NH
+
+Note: See Appendix D in the online journal for more details. KF1 , KF2 , and KH are indices that reflect how imperfect the sampling weights researchers use to make estimates are; when these K values are 0, the weights are exactly correct; the farther they are from 0, the more imperfect the weights are. (We use the
+symbol as a shorthand for "is consistent and essentially unbiased for.")
+
+Generalizing the Network Scale-up Method
+
+175
+
+Another problem researchers face in practice is putting appropriate confidence intervals around estimates. The procedure currently used in scale-up studies was proposed by Killworth, McCarty, et al. (1998), but it has a number of conceptual problems, and in practice, it produces intervals that are anticonservative (i.e., the actual coverage rate is lower than the desired coverage rate). Both of these problems--theoretical and empirical--do not seem to be widely appreciated in the scale-up literature. Therefore, instead of the current procedure, we recommend that researchers use the rescaled bootstrap procedure (Rao, Wu, and Yue 1992; Rao and Wu 1988; Rust and Rao 1996), which has strong theoretical foundations, does not depend on the basic scale-up model, can handle both simple and complex sample designs, and can be used for both the basic scale-up estimator and the generalized scale-up estimator. In Appendix F in the online journal, we review the current scale-up confidence interval procedure and the rescaled bootstrap, highlighting the conceptual advantages of the rescaled bootstrap. Furthermore, we show that the rescaled bootstrap produces slightly better confidence intervals in three real scale-up data sets: one collected via simple random sampling (McCarty et al. 2001) and two collected via complex sample designs (Salganik, Fazito, et al. 2011; Rwanda Biomedical Center 2012). Finally, and somewhat disappointingly, our results show that none of the confidence interval procedures work very well in an absolute sense, a finding that highlights an important problem for future research.
+We now provide more specific guidance for researchers based on the data they decide to collect. In Section 4.1 we present recommendations for researchers who collect a sample from both the frame population, F, and the hidden population, H; in Section 4.2, we present recommendations for researchers who only select a sample from the frame population.
+
+4.1. Estimation with Samples from F and H
+
+We recommend that researchers who have samples from F and H use a generalized scale-up estimator to produce estimates of NH (see Section 2):
+
+NbH
+
+=
+
+byF, H byH, F
+
+:
+
+21
+
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+176 Feehan and Salganik
+For researchers using the generalized scale-up estimator, we have three specific recommendations. Of all the conditions needed for consistent and essentially unbiased estimation, the ones most under the control of the researcher are those related to survey construction, so we recommend that researchers focus on these during the study design phase. In particular, we recommend that the probe alters be designed so that the rate at which the hidden population is visible to the probe alters is the same as the rate at which the hidden population is visible to the frame population (see Result C.2 for a more formal statement, and see Section C5 for more advice about choosing probe alters). Second, when presenting estimates, we recommend that researchers use the results in Table 3 to also present sensitivity analyses highlighting how the estimates may be affefcted by assumptions that are particularly problematic in their setting. Finally, we recommend that researchers produce confidence intervals around their estimate using the rescaled bootstrap procedure, keeping in mind that this will likely produce intervals that are anticonservative.
+We also have three additional recommendations that will facilitate the cumulation of knowledge about the scale-up method. First, although the generalized scale-up estimator does not require aggregate relational data from the frame population about groups of known size, we recommend that researchers collect these data so that the basic and generalized estimators can be compared. Second, we recommend that researchers publish estimates of dF and tF, although these quantities play no role in the generalized scale-up estimator (Figure 4). As a body of evidence about these adjustment factors accumulates (e.g., Salganik, Fazito, et al. 2011; Maghsoudi et al. 2014), studies that are not able to collect a sample from the hidden population will have an empirical foundation for adjusting basic scale-up estimates, either by borrowing values directly from the literature or by using published values as the basis for priors in a Bayesian model. Finally, we recommend that researchers design their data collections--both from the frame population and the hidden population--so that size estimates from the generalized scale-up method can be compared with estimates from other methods (e.g., see Salganik, Fazito, et al. 2011a). For example, if respondent-driven sampling is used to sample from the hidden population, then researchers could use methods that estimate the size of a hidden population from recruitment patterns in the respondent-driven sampling data (Berchenko, Rosenblatt,
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+Generalizing the Network Scale-up Method
+
+177
+
+Figure 4. Recommended schematic of inputs and outputs for a study using the generalized scale-up estimator. We recommend that researchers produce size estimates using the generalized scale-up estimator and that researchers produce estimates of the adjustment factors dF and tF to aid other researchers.
+
+and Frost 2013; Crawford, Wu, and Heimer 2015; Handcock, Gile, and Mar 2014, 2015; Johnston et al. 2015; Wesson et al. 2015).
+
+4.2. Estimation with Only a Sample from F
+If researchers cannot collect a sample from the hidden population, we have three recommendations. First, we recommend two simple changes to the basic scale-up estimator that remove the need to adjust for the frame ratio, fF. Recall, that the basic scale-up estimator that has been used in previous studies (see Section 3) is
+
+NbH
+
+=
+
+byF, H dbF, U
+
+3N
+
+=
+
+byF,.H bd F, U N
+
+:
+
+22
+
+Instead of equation 22, we suggest a new estimator, called the modified basic scale-up estimator, that more directly deals with the fact that researchers sample from the frame population F (typically adults), and not from the entire population U (adults and children):
+
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+178 Feehan and Salganik
+
+NbH
+
+=
+
+byF, H dbF, F
+
+3NF
+
+=
+
+byF., H bd F, F NF
+
+:
+
+23
+
+There are two differences between the modified basic scale-up esti-
+mator (equation 23) and the basic scale-up estimator (equation 22). First, we recommend that researchers estimate bdF, F (i.e., the total number of connections between adults and adults) rather than bdF, U (i.e., the total number of connections between adults and everyone). To do so,
+researchers should design the probe alters for the frame population so
+that they have similar personal networks to the frame population; in
+Appendix B.4 in the online journal, we define this requirement for-
+mally, and in Section B.4.1 we provide guidance for choosing the probe alters. Second, we recommend that researchers use NF rather than N .7 These two simple changes remove the need to adjust for the frame ratio fF, and thereby eliminate an assumption about an unmeasured quantity. An improved version of the basic scale-up estimator would then be
+
+NbH =
+
+ byF., H  bd F, F NF
+|fflfflfflfflfflfflfflffl{zfflfflfflfflfflfflfflffl}
+
+3 |bd1fflFfflfflffl{3zfflbtfflffl1fflF} :
+adjustment factors
+
+modified basic scale-up
+
+24
+
+Our second recommendation is that researchers using the modified basic scale-up estimator (equation 23) perform a sensitivity analysis using the results in Table 3. In particular, we think that researchers should be explicit about the values that they assume for the adjustment factors dF and tF. Our third recommendation is that researchers construct confidence intervals using the rescaled bootstrap procedure, while explicitly accounting for the fact that there is uncertainty around the assumed adjustment factors and bearing in mind that this procedure will likely produce intervals that are anticonservative.
+
+5. CONCLUSION AND NEXT STEPS
+In this paper, we developed the generalized network scale-up estimator. This new estimator improves upon earlier scale-up estimators in several ways: it enables researchers to use the scale-up method in populations with nonrandom social mixing and imperfect awareness about membership in the hidden population, and it accommodates data collection with complex sample designs and incomplete sampling frames. We also
+
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+Generalizing the Network Scale-up Method
+
+179
+
+compared the generalized and basic scale-up estimators, leading us to introduce a framework that makes the design-based assumptions of the basic scale-up estimator precise. Finally, researchers who use either the basic or generalized scale-up estimator can use our results to assess the sensitivity of their size estimates to assumptions.
+The approach we followed to derive the generalized scale-up estimator has three elements, and these elements may prove useful in other problems related to sampling in networks. First, we distinguished between the network of reports and the network of relationships. Second, using the network of reports, we derived a simple identity that permitted us to develop a design-based estimator free of any assumptions about the structure of the network of relationships. Third, we combined data from different types of samples. Together, these three elements may help other researchers in other situations derive relatively simple, design-based estimators that are an important complement to complex, model-based techniques.
+Although the generalized scale-up estimator has many attractive features, it also requires that researchers obtain two different samples, one from the frame population and one from the hidden population. In cases in which studies of the hidden population are already planned (e.g., the behavioral surveillance studies of the groups most at risk for HIV/ AIDS), the necessary information for the generalized scale-up estimator could be collected at little additional cost by appending a modest number of questions to existing questionnaires. In cases in which these studies are not already planned, researchers can either collect their own data from the hidden population, or they can use the modified basic scale-up estimator and borrow estimated adjustment factors from other published studies.
+The generalized scale-up estimator, like all estimators, depends on a number of assumptions, and we think three of them will be most problematic in practice. First, the estimator depends on the assumption that there are no false positive reports, which is unlikely to be true in all situations. Although we have derived an estimator that works even in the presence of false positive reports (Appendix A in the online journal), we were not able to design a practical data collection procedure that would allow us to estimate one of the terms it requires. Second, the generalized scale-up estimator depends on the assumption that hidden population members have accurate aggregate awareness about visibility (equation 9). That is, researchers have to assume that hidden population
+
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+180 Feehan and Salganik
+respondents can accurately report whether or not their alters would report them, and we expect this assumption will be difficult to check in most situations. Third, the generalized scale-up estimator depends on having a relative probability sample from the hidden population. Unfortunately, we cannot eliminate any of these assumptions, but we have stated them clearly and we have derived the sensitivity of the estimates to violations of these assumptions, individually and jointly.
+Our results and their limitations highlight several directions for further work, in terms of both of improved modeling and improved data collection. We think the most important direction for future modeling is developing estimators in a Bayesian framework, and a recent paper by Maltiel et al. (2015) offers some promising steps in this direction. We see two main advantages of the Bayesian approach in this setting. First, a Bayesian approach would allow researchers to propagate the uncertainty they have about the many assumptions involved in scale-up estimates, whereas our current approach captures only uncertainty introduced by sampling. Furthermore, as more empirical studies produce estimates of the adjustment factors (tF and dF), a Bayesian framework would permit researchers to borrow values from other studies in a principled way. In terms of future directions for data collection, researchers need practical techniques for estimating the rate of false positive reporting. These estimates, combined with the estimator in Appendix A in the online journal, would permit the relaxation of one of the most important remaining assumptions made by all scale-up studies to date. We hope that the framework introduced in this paper will provide a basis for these and other developments.
+Acknowledgments
+We thank Alexandre Abdo, Francisco Bastos, Russ Bernard, Neilane Bertoni, Dimitri Fazito, Sharad Goel, Wolfgang Hladik, Jake Hofman, Mike Hout, Karen Levy, Rob Lyerla, Mary Mahy, Chris McCarty, Maeve Mello, Tyler McCormick, Damon Phillips, Justin Rao, Adam Slez, and Tian Zheng for helpful discussions. Many of the methods described in this paper can be implemented using our accompanying open-source R package, called networkreporting, which is available on the Comprehensive R Archive Network. Replication materials for our analysis can be freely downloaded from the Harvard Dataverse (http://dx.doi.org/10.7910/DVN/HHAUDF).
+Funding
+The author(s) disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: This research was supported by the Joint
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+Generalizing the Network Scale-up Method
+
+181
+
+United Nations Programme on HIV/AIDS, the National Science Foundation (CNS0905086), and the Eunice Kennedy Shriver National Institute of Child Health and Human Development (R01-HD062366, R01-HD075666, and R24-HD047879). Some of this research was conducted while Dr. Salganik was an employee at Microsoft Research. The opinions expressed here represent the views of the authors and not the funding agencies.
+
+Notes
+
+1. Throughout the paper, we consider only the case ion which i never reports j more
+
+than once.
+
+2. We use the term essentially unbiased because equation (7) is not, strictly speaking,
+
+unbiased; the ratio of two unbiased estimators is not itself unbiased. However, a
+
+large literature confirms that the biases caused by the nonlinear form of ratio esti-
+
+mators are typically insignificant relative to other sources of error in estimate (e.g.,
+
+Sarndal et al. 1992, chap. 5). Unfortunately, many of the estimators we propose are
+
+actually ratios of ratios, sometimes called "compound ratio estimators" or "double
+
+ratio estimators." In Appendix E in the online journal, we demonstrate that the bias
+
+caused the nonlinear form of our estimators is not a practical cause for concern.
+
+3. Note that because dU, F = (NF =N )dF, U , an equivalent expression for the frame ratio
+
+is
+
+fF
+
+=
+
+dF, F dF, U (NF =N )
+
+=
+
+dF, F dF, U
+
+N NF
+
+:
+
+4. Note that the fact that in-reports must equal out-reports means that tF can also be
+
+defined
+
+as
+
+tF =
+
+# reported edges from F actually connected to H # edges connecting F and H
+
+=
+
+:yF, H
+dF, H
+
+Here
+
+we
+
+have
+
+written
+
+yF, H to mean the true positive reports among theyF, H ; see Appendix A in the online
+
+journal for a detailed explanation.
+
+5. Computer code to perform the simulations was written in R (R Core Team 2014)
+
+and used the following packages: devtools (Wickham and Chang 2013), functional
+
+(Danenberg 2013), ggplot2 (Wickham 2009), igraph (Csardi and Nepusz 2006), net-
+
+workreporting (Feehan and Salganik 2014), plyr (Wickham 2011), sampling (Tille
+
+and Matei 2015), and stringr (Wickham 2012).
+
+6. In addition to the settings in which the basic scale-up model holds, the basic scale-
+
+up estimator can also be unbiased when its different biases cancel (e.g., when the
+
+product of the adjustment factors is 1).
+
+7. In some cases this difference between NF and N can be substantial. For example, if F is adults, then in many developing countries, N '2NF.
+
+References
+Aramrattan, A., and M. Kanato. 2012. "Network Scale-up Method: Application in Thailand." Presented at Consultation on Estimating Population Sizes through Household Surveys: Successes and Challenges, March 28-30, New York.
+Bengtsson, L., and A. Thorson. 2010. "Global HIV Surveillance among MSM: Is Risk Behavior Seriously Underestimated?" AIDS 24(15):2301-303.
+Berchenko, Y., J. Rosenblatt, and S.D.W. Frost. 2013. "Modeling and Analysing Respondent Driven Sampling as a Counting Process." arXiv:1304.3505 [stat].
+
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+182 Feehan and Salganik
+Bernard, H. R., T. Hallett, A. Iovita, E. C. Johnsen, R. Lyerla, C. McCarty, M. Mahy, M. J. Salganik, T. Saliuk, O. Scutelniciuc, G. A. Shelley, P. Sirinirund, S. Weir, and D. F. Stroup. 2010. "Counting Hard-to-count Populations: The Network Scale-up Method for Public Health." Sexually Transmitted Infections 86(Suppl. 2):ii11-15.
+Bernard, H. R., E. C. Johnsen, P. D. Killworth, and S. Robinson. 1989. "Estimating the Size of an Average Personal Network and of an Event Subpopulation." Pp. 159-75 in The Small World, edited by M. Kochen. Norwood, NJ: Ablex.
+Bernard, H. R., E. C. Johnsen, P. Killworth, and S. Robinson. 1991. "Estimating the Size of an Average Personal Network and of an Event Subpopulation: Some Empirical Results." Social Science Research 20(2):109-21.
+Crawford, F. W., J. Wu, and R. Heimer. 2015. "Hidden Population Size Estimation from Respondent-driven Sampling: A Network Approach." arXiv:1504.08349 [stat].
+Csardi, G., and T. Nepusz. 2006. "The Igraph Software Package for Complex Network Research." InterJournal, Complex Systems:1695.
+Danenberg, P. 2013. "Functional: Curry, Compose, and Other Higher-order Functions." R package version 0.4.
+Ezoe, S., T. Morooka, T. Noda, M. L. Sabin, and S. Koike. 2012. "Population Size Estimation of Men Who Have Sex with Men through the Network Scale-up Method in Japan." PLoS ONE 7(1):e31184.
+Feehan, D. M., and M. J. Salganik. 2014. "The Network Reporting Package." R package version 0.1.1.
+Gile, K. J., and M. S. Handcock. 2010. "Respondent-driven Sampling: An Assessment of Current Methodology.'' Pp. 285-327 in Sociological Methodology, vol. 40, edited by Tim Futing Liao. Hoboken, NJ: Wiley-Blackwell.
+Gile, K. J., and M. S. Handcock.2015. "Network Model-assisted Inference from Respondent-driven Sampling Data." Journal of the Royal Statistical Society, Series A: Statistics in Society 178(3):619-39.
+Gile, K. J., L. G. Johnston, and M. J. Salganik. 2015. "Diagnostics for Respondentdriven Sampling." Journal of the Royal Statistical Society, Series A: Statistics in Society 178(1):241-69.
+Gilovich, T., K. Savitsky, and V. H. Medvec. 1998. "The Illusion of Transparency: Biased Assessments of Others' Ability to Read One's Emotional States." Journal of Personality and Social Psychology 75(2):332-46.
+Goel, S., and M. J. Salganik. 2010. "Assessing Respondent-driven Sampling." Proceedings of the National Academy of Science 107(15):6743-47.
+Guo, W., S. Bao, W. Lin, G. Wu, W. Zhang, W. Hladik, A. Abdul-Quader, M. Bulterys, S. Fuller, and L. Wang. 2013. "Estimating the Size of HIV Key Affected Populations in Chongqing, China, Using the Network Scale-up Method." PLoS ONE 8(8): e71796.
+Handcock, M. S., K. J. Gile, and C. M. Mar. 2014. "Estimating Hidden Population Size Using Respondent-driven Sampling Data." Electronic Journal of Statistics 8(1): 1491-1521.
+Handcock, M. S., K. J. Gile, and C. M. Mar. 2015. "Estimating the Size of Populations at High Risk for HIV Using Respondent-driven Sampling Data." Biometrics 71(1): 258-66.
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+Generalizing the Network Scale-up Method
+
+183
+
+Heckathorn, D. D. 1997. "Respondent-driven Sampling: A New Approach to the Study of Hidden Populations." Social Problems 44(2):174-99.
+Heimer, R. 2005. "Critical Issues and Further Questions about Respondent-driven Sampling: Comment on Ramirez-Valles, et al." AIDS and Behavior 9(4):403-8.
+Jing, L., C. Qu, H. Yu, T. Wang, and Y. Cui. 2014. "Estimating the Sizes of Populations at High Risk for HIV: A Comparison Study." PLoS ONE 9(4):e95601.
+Johnston, L. G., K. R. McLaughlin, H. El Rhinila, A. Latifi, A. Toufik, A. Bennani, K. Alami, B. Elomari, and M. S. Handcock. 2015. "Estimating the Size of Hidden Populations Using Respondent-driven Sampling Data: Case Examples from Morocco." Epidemiology 26(6):846-52.
+Joint United Nations Programme on HIV/AIDS. 2010. "Guidelines on Estimating the Size of Populations Most at Risk to HIV." Geneva, Switzerland: UNAIDS/WHO Working Group on Global HIV/AIDS and STI Surveillance.
+Kadushin, C., P. D. Killworth, H. R. Bernard, and A. A. Beveridge. 2006. "Scale-up Methods as Applied to Estimates of Heroin Use." Journal of Drug Issues 36(2): 417-40.
+Karon, J., and C. Wejnert. 2012. "Statistical Methods for the Analysis of Time-location Sampling Data." Journal of Urban Health 89(3):565-86.
+Khounigh, A. J., A. A. Haghdoost, S. SalariLak, A. H. Zeinalzadeh, R. Yousefi-Farkhad, M. Mohammadzadeh, and K. Holakouie-Naieni. 2014. "Size Estimation of Most-atrisk Groups of HIV/AIDS Using Network Scale-up in Tabriz, Iran." Journal of Clinical Research and Governance 3(1):21-26.
+Killworth, P. D., E. C. Johnsen, C. McCarty, G. A. Shelley, and H. Bernard. 1998. "A Social Network Approach to Estimating Seroprevalence in the United States." Social Networks 20(1):23-50.
+Killworth, P. D., C. McCarty, H. R. Bernard, G. A. Shelley, and E. C. Johnsen. 1998. "Estimation of Seroprevalence, Rape, and Homelessness in the United States Using a Social Network Approach." Evaluation Review 22(2):289-308.
+Killworth, P. D., C. McCarty, H. R. Bernard, E. C. Johnsen, J. Domini, and G. A. Shelly. 2003. "Two Interpretations of Reports of Knowledge of Subpopulation Sizes." Social Networks 25(2):141-60.
+Killworth, P. D., C. McCarty, E. C. Johnsen, H. R. Bernard, and G. A. Shelley. 2006. "Investigating the Variation of Personal Network Size under Unknown Error Conditions." Sociological Methods and Research 35(1):84-112.
+Kurant, M., A. Markopoulou, and P. Thiran. 2011. "Towards Unbiased BFS Sampling." IEEE Journal on Selected Areas in Communications 29(9):1799-1809.
+Lavallee, P. 2007. Indirect Sampling. New York: Springer. Li, X., and K. Rohe. 2015. "Central Limit Theorems for Network Driven Sampling."
+arXiv:1509.04704 [math, stat]. Maghsoudi, A., M. R. Baneshi, M. Neydavoodi, and A. Haghdoost. 2014. "Network
+Scale-up Correction Factors for Population Size Estimation of People Who Inject Drugs and Female Sex Workers in Iran." PLoS ONE 9(11):e110917. Maltiel, R., A. E. Raftery, T. H. McCormick, and A. Baraff. 2015. "Estimating Population Size Using the Network Scale Up Method." Annals of Applied Statistics 9(3):1247-77.
+
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+184 Feehan and Salganik
+McCarty, C., P. D. Killworth, H. R. Bernard, E. Johnsen, and G. A. Shelley. 2001. "Comparing Two Methods for Estimating Network Size." Human Organization 60(1):28-39.
+McCormick, T., R. He, E. Kolaczyk, and T. Zheng. 2012. "Surveying Hard-to-reach Groups through Sampled Respondents in a Social Network." Statistics in Biosciences 4(1):177-95.
+McCormick, T. H., and T. Zheng. 2007. "Adjusting for Recall Bias in `How Many X's Do You Know?' Surveys." Proceedings of the Joint Statistical Meetings, Salt Lake City, UT.
+McCreesh, N., S. Frost, J. Seeley, J. Katongole, M. N. Tarsh, R. Ndunguse, F. Jichi, N. L. Lunel, D. Maher, L. G. Johnston, et al. 2012. "Evaluation of Respondentdriven Sampling." Epidemiology 23(1):138.
+Mills, H. L., C. Colijn, P. Vickerman, D. Leslie, V. Hope, and M. Hickman. 2012. "Respondent Driven Sampling and Community Structure in a Population of Injecting Drug Users, Bristol, UK." Drug and Alcohol Dependence 126(3):324-32.
+Mouw, T., and A. M. Verdery. 2012. "Network Sampling with Memory: A Proposal for More Efficient Sampling from Social Networks." Pp. 206-56 in Sociological Methodology, vol. 42, edited by Tim Futing Liao. Thousand Oaks, CA: Sage.
+Nikfarjam, A., M. Shokoohi, A. Shahesmaeili, A. A. Haghdoost, M. R. Baneshi, S. Haji-Maghsoudi, A. Rastegari, A. A. Nasehi, N. Memaryan, and T. Tarjoman. 2016. "National Population Size Estimation of Illicit Drug Users through the Network Scale-up Method in 2013 in Iran." International Journal of Drug Policy 31:147-52.
+Paniotto, V., T. Petrenko, V. Kupriyanov, and O. Pakhok. 2009. "Estimating the Size of Populations with High Risk for HIV Using the Network Scale-up Method." Technical Report. Kiev, Ukraine: Kiev Internation Institute of Sociology.
+R Core Team. 2014. "R: A Language and Environment for Statistical Computing." Vienna, Austria: R Foundation for Statistical Computing.
+Rao, J., C. Wu, and K. Yue. 1992. "Some Recent Work on Resampling Methods for Complex Surveys." Survey Methodology 18(2):209-17.
+Rao, J. N., and C.F.J. Wu. 1988. "Resampling Inference with Complex Survey Data." Journal of the American Statistical Association 83(401):231-41.
+Rohe, K. 2015. "Network Driven Sampling: A Critical Threshold for Design Effects." arXiv:1505.05461 [math, stat].
+Rudolph, A. E., C. M. Fuller, and C. Latkin. 2013. "The Importance of Measuring and Accounting for Potential Biases in Respondent-driven Samples." AIDS and Behavior 17(6):2244-52.
+Rust, K., and J. Rao. 1996. "Variance Estimation for Complex Surveys Using Replication Techniques." Statistical Methods in Medical Research 5(3):283-310.
+Rwanda Biomedical Center. 2012. "Estimating the Size of Key Populations at Higher Risk of HIV through a Household Survey (ESPHS) Rwanda 2011." Technical Report. Calverton, MD: RBC/IHDPC, SPF, UNAIDS, and ICF International.
+Salganik, M. J. 2012. "Commentary: Respondent-driven Sampling in the Real World." Epidemiology 23(1):148-50.
+Salganik, M. J., D. Fazito, N. Bertoni, A. H. Abdo, M. B. Mello, and F. I. Bastos. 2011. "Assessing Network Scale-up Estimates for Groups Most at Risk of HIV/AIDS:
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+Generalizing the Network Scale-up Method
+
+185
+
+Evidence from a Multiple-method Study of Heavy Drug Users in Curitiba, Brazil." American Journal of Epidemiology 174(10):1190-96. Salganik, M. J., M. B. Mello, A. H. Abdo, N. Bertoni, D. Fazito, and F. I. Bastos. 2011. "The Game of Contacts: Estimating the Social Visibility of Groups." Social Networks 33(1):70-78. Sarndal, C. E., B. Swensson, and J. Wretman. 1992. Model Assisted Survey Sampling. New York: Springer. Scott, G. 2008. "`They Got Their Program, and I Got Mine': A Cautionary Tale Concerning the Ethical Implications of Using Respondent-driven Sampling to Study Injection Drug Users." International Journal of Drug Policy 19(1):42-51. Scutelniciuc, O. 2012a. "Network Scale-up Method Experiences: Republic of Kazakhstan." Presented at Consultation on Estimating Population Sizes through Household Surveys: Successes and Challenges, March 28-30, New York. Scutelniciuc, O. 2012b. "Network Scale-up Method Experiences: Republic of Moldova." Presented at Consultation on Estimating Population Sizes through Household Surveys: Successes and Challenges, March 28-30, New York. Sheikhzadeh, K., M. R. Baneshi, M. Afshari, and A. A. Haghdoost. 2014. "Comparing Direct, Network Scale-up, and Proxy Respondent Methods in Estimating Risky Behaviors among Collegians." Journal of Substance Use 21(1):9-13. Shelley, G. A., H. R. Bernard, P. Killworth, E. Johnsen, and C. McCarty. 1995. "Who Knows Your HIV Status? What HIV + Patients and Their Network Members Know about Each Other." Social Networks 17(3-4):189-217. Shelley, G. A., P. D. Killworth, H. R. Bernard, C. McCarty, E. C. Johnsen, and R. E. Rice. 2006. "Who Knows Your HIV Status II? Information Propagation within Social Networks of Seropositive People." Human Organization 65(4):430-44. Shokoohi, M., M. R. Baneshi, and A. A. Haghdoost. 2012. "Size Estimation of Groups at High Risk of HIV/AIDS Using Network Scale Up in Kerman, Iran." International Journal of Preventive Medicine 3(7):471-76. Sirken, M. G. 1970. "Household Surveys with Multiplicity." Journal of the American Statistical Association 65(329):257-66. Snidero, S., B. Morra, R. Corradetti, and D. Gregori 2007. "Use of the Scale-up Methods in Injury Prevention Research: An Empirical Assessment to the Case of Choking in Children." Social Networks 29(4):527-38. Snidero, S., N. Soriani, I. Baldi, F. Zobec, P. Berchialla, and D. Gregori. 2012. "Scaleup Approach in CATI Surveys for Estimating the Number of Foreign Body Injuries in the Aero-digestive Tract in Children." International Journal of Environmental Research and Public Health 9(11):4056-67. Snidero, S., F. Zobec, P. Berchialla, R. Corradetti, and D. Gregori. 2009. "Question Order and Interviewer Effects in CATI Scale-up Surveys." Sociological Methods and Research 38(2):287-305. Sulaberidze, L., A. Mirzazadeh, I. Chikovani, N. Shengelia, N. Tsereteli, and G. Gotsadze. 2016. "Population Size Estimation of Men Who Have Sex with Men in Tbilisi, Georgia: Multiple Methods and Triangulation of Findings." PLoS ONE 11(2):e0147413. Tille, Y., and A. Matei. 2015. "Sampling: Survey Sampling." R package version 2.7.
+
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+186 Feehan and Salganik
+Volz, E., and D. D. Heckathorn. 2008. "Probability-based Estimation Theory for Respondent-driven Sampling." Journal of Official Statistics 24(1):79-97.
+Wang, J., Y. Yang, W. Zhao, H. Su, Y. Zhao, Y. Chen, T. Zhang, and T. Zhang. 2015. "Application of Network Scale Up Method in the Estimation of Population Size for Men Who Have Sex with Men in Shanghai, China." PLoS ONE 10(11):e0143118.
+Wasserman, S., and K. Faust. 1994. Social Network Analysis. New York: Cambridge University Press.
+Wesson, P., M. S. Handcock, W. McFarland, and H. F. Raymond. 2015. "If You Are Not Counted, You Don't Count: Estimating the Number of African-American Men Who Have Sex with Men in San Francisco Using a Novel Bayesian Approach." Journal of Urban Health 92(6):1052-64.
+White, H. C., S. A. Boorman, and R. L. Breiger. 1976. "Social Structure from Multiple Networks. I. Blockmodels of Roles and Positions." American Journal of Sociology 81(4):730-80.
+White, R. G., A. J. Hakim, M. J. Salganik, M. W. Spiller, L. G. Johnston, L. R. Kerr, C. Kendall, A. Drake, D. Wilson, K. Orroth, et al. 2015. "Strengthening the Reporting of Observational Studies in Epidemiology for Respondent-driven Sampling Studies: `STROBE-RDS' Statement." Journal of Clinical Epidemiology 68(12):1463-71.
+Wickham, H. 2009. "ggplot2: Elegant Graphics for Data Analysis." New York: Springer.
+Wickham, H. 2011. "The Split-apply-combine Strategy for Data Analysis." Journal of Statistical Software 40(1):1-29.
+Wickham, H. 2012. "stringr: Make It Easier to Work with Strings." R package version 0.6.2.
+Wickham, H., and W. Chang. 2013. "devtools: Tools to Make Developing R Code Easier." R Package Version 1.4.1.
+Yamanis, T. J., M. G. Merli, W. W. Neely, F. F. Tian, J. Moody, X. Tu, and E. Gao. 2013. "An Empirical Analysis of the Impact of Recruitment Patterns on RDS Estimates among a Socially Ordered Population of Female Sex Workers in China." Sociological Methods and Research 42(3):392-425.
+Zheng, T., M. J. Salganik, and A. Gelman. 2006. "How Many People Do You Know in Prison? Using Overdispersion in Count Data to Estimate Social Structure in Networks." Journal of the American Statistical Association 101(474):409-23.
+Author Biographies
+Dennis M. Feehan is an assistant professor of demography at the University of California, Berkeley. His research lies at the intersection of demography, social networks, and quantitative methodology.
+Matthew J. Salganik is a professor of sociology at Princeton University, and he is affiliated with several of Princeton's interdisciplinary research centers: the Office for Population Research, the Center for Information Technology Policy, the Center for Health and Wellbeing, and the Center for Statistics and Machine Learning. His research interests include social networks and computational social science.
+Downloaded from smx.sagepub.com at RUTGERS UNIV on November 1, 2016
+
+
