@@ -12,11 +12,13 @@ output: html_document
 #install.packages("dplyr")
 #install.packages("plyr")
 #install.packages("class")
+#install.packages("ggplot2")
 
 library("tm")
 library("dplyr")
 library("plyr")
 library("class")
+library("ggplot2")
 
 #set options
 options(stringsAsFactors = FALSE)
@@ -125,6 +127,15 @@ conf.mat <- table("predictions" = knn.pred, Actual = tdm.gend[test.idx])
 conf.mat
 
 (accuracy <- sum(diag(conf.mat) / length(test.idx) * 100))
+
+
+```
+
+
+```{r}
+
+tdm.stack %>%
+  ggplot()
 
 
 ```
