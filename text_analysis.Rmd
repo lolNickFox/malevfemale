@@ -45,6 +45,11 @@ male_words7 <- readr::read_lines("male/Berke 2010 alcohol retail density and dem
 male_words8 <- readr::read_lines("male/Bernstein 2007 built environment and alcohol consumption in urban neighborhoods.txt")
 male_words9 <- readr::read_lines("male/Boadi erosion of funding of NIH.txt")
 male_words10 <- readr::read_lines("male/Borders 2007 variations in drinking.txt")
+male_words11 <- readr::read_lines("male/Braxton 1996 personal experiences of research misconduct.txt")
+male_words12 <- readr::read_lines("male/Conley ARRA stimulus.txt")
+male_words13 <- readr::read_lines("male/Corona marketing.txt")
+male_words14 <- readr::read_lines("male/Coughlin 2012 ethics and scientific integrity in public health and epidemeology.txt")
+male_words15 <- readr::read_lines("male/Cowen 2011 An economic and rational choice approach to the autism spectrum and human neurodiversity.txt")
 
 female_words1 <- readr::read_lines("female/Abrajano GOTV.txt")
 female_words2 <- readr::read_lines("female/acevedo garcia 2002 future directions in residential segregation and health research.txt")
@@ -55,7 +60,12 @@ female_words6 <- readr::read_lines("female/Ashburn 2014 power and confronting pr
 female_words7 <- readr::read_lines("female/Bakker 2012 the rules of the game called psychological science.txt")
 female_words8 <- readr::read_lines("female/beals 2009 sigma management and well-being.txt")
 female_words9 <- readr::read_lines("female/Bes Rastrollo 2013 financial conflicts of interest and reporting bias regarding sugar sweetened beverages.txt")
-female_words10 <- readr::read_lines("female/Bonetta 2006 Aftermath of scientific fraud.txt")
+female_words10 <- readr::read_lines("female/Campbell 2009 effectiveness of limiting alcohol outlet density as a means of reducing excessive alcohol consumption.txt")
+female_words11 <- readr::read_lines("female/Carroll-Scott Disentangling neighborhood contextual associations.txt")
+female_words12 <- readr::read_lines("female/Cascio 2012 Neurodiversity Autism price among mothers of children with asd.txt")
+female_words13 <- readr::read_lines("female/Davidson autism online.txt")
+female_words14 <- readr::read_lines("female/Dawson Discrimination, stress, and acculturation.txt")
+female_words15 <- readr::read_lines("female/Garcia language in washington heights.txt")
 
 mwords1 <- tidy(male_words1)
 mwords2 <- tidy(male_words2)
@@ -67,6 +77,11 @@ mwords7 <- tidy(male_words7)
 mwords8 <- tidy(male_words8)
 mwords9 <- tidy(male_words9)
 mwords10 <- tidy(male_words10)
+mwords11 <- tidy(male_words11)
+mwords12 <- tidy(male_words12)
+mwords13 <- tidy(male_words13)
+mwords14 <- tidy(male_words14)
+mwords15 <- tidy(male_words15)
 
 fwords1 <- tidy(female_words1)
 fwords2 <- tidy(female_words2)
@@ -78,11 +93,16 @@ fwords7 <- tidy(female_words7)
 fwords8 <- tidy(female_words8)
 fwords9 <- tidy(female_words9)
 fwords10 <- tidy(female_words10)
+fwords11 <- tidy(female_words11)
+fwords12 <- tidy(female_words12)
+fwords13 <- tidy(female_words13)
+fwords14 <- tidy(female_words14)
+fwords15 <- tidy(female_words15)
 
-words_male <- dplyr::bind_rows(mwords1, mwords2, mwords3, mwords4, mwords5, mwords6, mwords7, mwords8, mwords9, mwords10) %>% 
+words_male <- dplyr::bind_rows(mwords1, mwords2, mwords3, mwords4, mwords5, mwords6, mwords7, mwords8, mwords9, mwords10, mwords11, mwords12, mwords13, mwords14, mwords15) %>% 
   mutate(gender = "male")
 
-words_female <- dplyr::bind_rows(fwords1, fwords2, fwords3, fwords4, fwords5, fwords6, fwords7, fwords8, fwords9, fwords10) %>% 
+words_female <- dplyr::bind_rows(fwords1, fwords2, fwords3, fwords4, fwords5, fwords6, fwords7, fwords8, fwords9, fwords10, fwords11, fwords12, fwords13, fwords14, fwords15) %>% 
   mutate(gender = "female")
 
 words <- rbind(words_male, words_female)
@@ -160,11 +180,11 @@ test<- word_ratios %>%
 
 test %>% 
   ggplot(aes(word2, logratio, color = logratio < 0)) + geom_segment(aes(x = word2, xend = word2, y = 0, yend = logratio), size = 1.1, alpha = 0.6) + coord_flip () + geom_point(size = 3.5) + labs(x = NULL, 
-         y = "log odds ratio (female / male)",
+         y = "Odds of word appearing",
          title = "Words appearing in female or male first-authored papers") +
-    scale_color_discrete(name = "", labels = c("Female first author", "Male first author")) + scale_y_continuous(breaks = seq(-7, 7),
-                       labels = c("0.008x", "0.015625x", "0.03125x", "0.0625x", "0.125x", "0.25x", "0.5x", 
-                                  "Same", "2x", "4x", "8x", "16x", "32x", "64x", "128x"))
+    scale_color_discrete(name = "", labels = c("Female first author", "Male first author")) + scale_y_continuous(breaks = seq(-8, 8),
+                       labels = c("256x", "128x", "64x", "32x", "16x", "8x", "4x", "2x", 
+                                  "Same", "2x", "4x", "8x", "16x", "32x", "64x", "128x", "256x"))
 
 
 
