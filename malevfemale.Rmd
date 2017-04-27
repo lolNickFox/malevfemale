@@ -132,10 +132,3 @@ conf.mat
 ```
 
 
-```{r}
-
-tdm.stack %>%
-  ggplot()
-
-
-```
