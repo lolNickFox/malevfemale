@@ -1,0 +1,61 @@
+---
+title: "malevfemale"
+author: "Nick_Fox"
+date: "4/26/2017"
+output: html_document
+---
+
+#init
+
+```{r}
+#install.packages("tm")
+#install.packages("dplyr")
+#install.packages("plyr")
+#install.packages("class")
+#install.packages("ggplot2")
+#install.packages("tidytext")
+#install.packages("stringr")
+
+
+library("tm")
+library("dplyr")
+library("plyr")
+library("class")
+library("ggplot2")
+library("tidytext")
+library("stringr")
+
+#set options
+options(stringsAsFactors = FALSE)
+
+#set wd
+setwd("~/Dropbox/papers/male")
+
+```
+
+```{r}
+
+male_words1 <- readr::read_lines("Aragones characterization of hispanic population in health research.txt")
+
+male_words2 <- readr::read_lines("Areheart 2008 When Disability Isnt Just Right- The Entrenchment of the Medic.txt")
+
+words1 <- tidy(male_words1)
+words2 <- tidy(male_words2)
+
+words <- dplyr::bind_rows(words1, words2)
+
+tidy_words <- words %>%
+  unnest_tokens(word, x)
+
+data("stop_words")
+tidy_words <- tidy_words %>%
+  anti_join(stop_words)
+
+tidy_words <- tidy_words %>% 
+  dplyr::count(word, sort = TRUE)
+
+
+
+```
+
+
