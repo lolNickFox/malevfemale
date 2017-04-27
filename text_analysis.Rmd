@@ -40,15 +40,52 @@ male_words2 <- readr::read_lines("male/Areheart 2008 When Disability Isnt Just R
 male_words3 <- readr::read_lines("male/Baerlocher 2010 data integrity and fraud in medical research.txt")
 male_words4 <- readr::read_lines("male/Bandura SCT of mass communication.txt")
 male_words5 <- readr::read_lines("male/Banglawala 2015 recent randomized controlled trials in otolaryngology.txt")
+male_words6 <- readr::read_lines("male/Banks 2016 questionable research practices in the field of management.txt")
+male_words7 <- readr::read_lines("male/Berke 2010 alcohol retail density and demographic predictors of health.txt")
+male_words8 <- readr::read_lines("male/Bernstein 2007 built environment and alcohol consumption in urban neighborhoods.txt")
+male_words9 <- readr::read_lines("male/Boadi erosion of funding of NIH.txt")
+male_words10 <- readr::read_lines("male/Borders 2007 variations in drinking.txt")
+
+female_words1 <- readr::read_lines("female/Abrajano GOTV.txt")
+female_words2 <- readr::read_lines("female/acevedo garcia 2002 future directions in residential segregation and health research.txt")
+female_words3 <- readr::read_lines("female/Adeigbe marketing to latinos.txt")
+female_words4 <- readr::read_lines("female/Akresh Segmented assimilation.txt")
+female_words5 <- readr::read_lines("female/Alaniz 1998 pro drinking messages and message environments for young adults the case of alcohol industry adverstising in african american latino and native american communties.txt")
+female_words6 <- readr::read_lines("female/Ashburn 2014 power and confronting prejudice.txt")
+female_words7 <- readr::read_lines("female/Bakker 2012 the rules of the game called psychological science.txt")
+female_words8 <- readr::read_lines("female/beals 2009 sigma management and well-being.txt")
+female_words9 <- readr::read_lines("female/Bes Rastrollo 2013 financial conflicts of interest and reporting bias regarding sugar sweetened beverages.txt")
+female_words10 <- readr::read_lines("female/Bonetta 2006 Aftermath of scientific fraud.txt")
 
 mwords1 <- tidy(male_words1)
 mwords2 <- tidy(male_words2)
 mwords3 <- tidy(male_words3)
 mwords4 <- tidy(male_words4)
 mwords5 <- tidy(male_words5)
+mwords6 <- tidy(male_words6)
+mwords7 <- tidy(male_words7)
+mwords8 <- tidy(male_words8)
+mwords9 <- tidy(male_words9)
+mwords10 <- tidy(male_words10)
 
-words <- dplyr::bind_rows(mwords1, mwords2, mwords3, mwords4, mwords5, .id = "id") %>% 
+fwords1 <- tidy(female_words1)
+fwords2 <- tidy(female_words2)
+fwords3 <- tidy(female_words3)
+fwords4 <- tidy(female_words4)
+fwords5 <- tidy(female_words5)
+fwords6 <- tidy(female_words6)
+fwords7 <- tidy(female_words7)
+fwords8 <- tidy(female_words8)
+fwords9 <- tidy(female_words9)
+fwords10 <- tidy(female_words10)
+
+words_male <- dplyr::bind_rows(mwords1, mwords2, mwords3, mwords4, mwords5, mwords6, mwords7, mwords8, mwords9, mwords10) %>% 
   mutate(gender = "male")
+
+words_female <- dplyr::bind_rows(fwords1, fwords2, fwords3, fwords4, fwords5, fwords6, fwords7, fwords8, fwords9, fwords10) %>% 
+  mutate(gender = "female")
+
+words <- rbind(words_male, words_female)
 
 tidy_words <- words %>%
   unnest_tokens(word, x)
@@ -75,13 +112,60 @@ bing <- sentiments %>%
 
 word_sentiment <- tidy_words %>%
   inner_join(bing) %>% 
-  dplyr::count(id, word, gender, sentiment, sort = TRUE) %>% 
+  dplyr::count(word, gender, sentiment, sort = TRUE) %>% 
   spread(sentiment, n, fill = 0) %>% 
   mutate(sentiment = positive - negative)
   
 
 word_sentiment %>%
-  summary(avr_sentiment = mean(sentiment))
+  dplyr::group_by(gender) %>% 
+  dplyr::summarize(mean_sentiment = mean(sentiment)) %>% 
+  ggplot(aes(x = gender, y = mean_sentiment)) + geom_col()
+
+
+
+```
+
+```{r}
+#turn sentiment into total word frequency
+word_sentiment <- word_sentiment %>% 
+  mutate(freq = abs(sentiment))
+
+#calculate logodds of a word appearing by gender
+word_ratios <- word_sentiment %>% 
+  select(-negative, -positive, -sentiment) %>% 
+  group_by(word) %>% 
+  filter(sum(freq) > 10) %>% 
+  ungroup() %>% 
+  spread(gender, freq, fill = 0) %>% 
+  mutate_if(is.numeric, funs((. + 1) / sum(. + 1))) %>% 
+  mutate(logratio = log2(female / male)) %>% 
+  arrange(desc(logratio))
+
+word_ratios %>% 
+  arrange(abs(logratio))
+
+```
+
+
+
+```{r}
+
+test<- word_ratios %>% 
+  mutate(abslogratio = abs(logratio)) %>% 
+  group_by(logratio < 0) %>% 
+  top_n(15, abslogratio) %>% 
+  ungroup() %>% 
+  mutate(word2 = reorder(word, logratio)) 
+
+test %>% 
+  ggplot(aes(word2, logratio, color = logratio < 0)) + geom_segment(aes(x = word2, xend = word2, y = 0, yend = logratio), size = 1.1, alpha = 0.6) + coord_flip () + geom_point(size = 3.5) + labs(x = NULL, 
+         y = "log odds ratio (female / male)",
+         title = "Words appearing in female or male first-authored papers") +
+    scale_color_discrete(name = "", labels = c("Female first author", "Male first author")) + scale_y_continuous(breaks = seq(-7, 7),
+                       labels = c("0.008x", "0.015625x", "0.03125x", "0.0625x", "0.125x", "0.25x", "0.5x", 
+                                  "Same", "2x", "4x", "8x", "16x", "32x", "64x", "128x"))
+
 
 
 
