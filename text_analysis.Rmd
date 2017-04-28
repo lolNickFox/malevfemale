@@ -140,7 +140,7 @@ word_sentiment <- tidy_words %>%
 word_sentiment %>%
   dplyr::group_by(gender) %>% 
   dplyr::summarize(mean_sentiment = mean(sentiment)) %>% 
-  ggplot(aes(x = gender, y = mean_sentiment)) + geom_col()
+  ggplot(aes(x = gender, y = mean_sentiment, colour = gender)) + geom_col() + scale_y_continuous()
 
 
 
