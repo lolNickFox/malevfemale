@@ -1,0 +1,78 @@
+---
+title: "read_csv_papers"
+author: "Nick_Fox"
+date: "4/28/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+
+library("tm")
+library("dplyr")
+library("class")
+library("ggplot2")
+library("tidytext")
+library("stringr")
+library("tidytext")
+
+#set options
+options(stringsAsFactors = FALSE)
+
+#set wd
+setwd("/Users/Nick_Fox/Dropbox/GitHub_master/data/malevfemale")
+
+```
+
+
+```{r}
+
+docs <- read.csv("docs.csv", header = TRUE)
+
+tidy(docs)
+
+docs2 <-docs %>%
+  unnest_tokens(word, text)
+
+```
+
+
+```{r}
+data(stop_words)
+
+docs2 <- docs2 %>%
+  anti_join(stop_words)
+
+docs2 %>% 
+  group_by(journal) %>% 
+  dplyr::count(word, sort = TRUE) %>% 
+  ggplot(aes(x = word, y = frequency(), ))
+```
+
+
+
+```{r}
+
+library(tidyr)
+bing <- sentiments %>%
+        filter(lexicon == "bing") %>%
+        select(-score)
+
+bing
+
+
+```
+
+
+```{r}
+
+paper_sentiment <- docs2 %>%
+  inner_join(bing) %>% 
+  dplyr::count(journal, sentiment) %>% 
+  spread(sentiment, n, fill = 0) %>% 
+  mutate(sentiment = positive - negative)
+
+
+
+
+```
+

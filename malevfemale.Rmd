@@ -49,7 +49,7 @@ cleanCorpus <- function(corpus) {
 
 generateTDM <- function(gend, path) {
   s.dir <- sprintf("%s/%s", path, gend)
-  s.cor <- Corpus(DirSource(directory = s.dir, encoding = "UTF-8"))
+  s.cor <- Corpus(DirSource(directory = s.dir, encoding = "ASCII"))
   s.cor.cl <- cleanCorpus(s.cor)
   s.tdm <- TermDocumentMatrix(s.cor.cl)
   
